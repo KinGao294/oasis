@@ -1,0 +1,50 @@
+{
+  "video_id": "yt_WsGVXiWzTpI",
+  "title": "Build Hour: Agent Memory Patterns",
+  "summary": "本视频介绍了构建AI代理的记忆模式，重点讲解了上下文工程、记忆模式、以及如何通过上下文优化来提升AI代理的性能。",
+  "key_points": [
+    {
+      "timestamp": 0,
+      "title": "开场介绍",
+      "content": "Michaela和Emry介绍本次Build Hour的主题：AI代理的记忆模式。"
+    },
+    {
+      "timestamp": 516,
+      "title": "上下文工程",
+      "content": "Emry解释上下文工程是艺术与科学的结合，涉及判断和可重复的方法，对AI代理性能至关重要。"
+    },
+    {
+      "timestamp": 1055,
+      "title": "代理记忆模式",
+      "content": "视频展示了如何通过上下文优化来构建记忆模式，包括重塑和适应、隔离和路由、提取和检索等策略。"
+    },
+    {
+      "timestamp": 1705,
+      "title": "示例演示",
+      "content": "通过一个ID故障排除代理的演示，展示了如何在实际场景中应用记忆模式。"
+    },
+    {
+      "timestamp": 2233,
+      "title": "上下文配置文件",
+      "content": "AI代理可以根据上下文配置文件分为三类：知识密集型、工具密集型、对话型。"
+    },
+    {
+      "timestamp": 2823,
+      "title": "上下文生命周期",
+      "content": "讨论了上下文生命周期的管理，包括系统消息、用户消息、记忆注入等。"
+    },
+    {
+      "timestamp": 4014,
+      "title": "上下文管理技巧",
+      "content": "提出了上下文管理的技巧，如定时、压缩、状态管理和记忆检索。"
+    }
+  ],
+  "tags": [
+    "AI代理",
+    "记忆模式",
+    "上下文工程",
+    "AI应用",
+    "OpenAI"
+  ],
+  "generated_at": "2025-12-21T02:35:20.190802Z"
+}

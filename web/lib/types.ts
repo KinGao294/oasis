@@ -20,6 +20,7 @@ export interface FeedItem {
   published: string;
   hasTranscript: boolean;
   transcriptPreview?: string | null;
+  hasSummary?: boolean;
 }
 
 export interface FeedsData {
@@ -41,6 +42,21 @@ export interface Transcript {
   segments: TranscriptSegment[];
   word_count: number;
   fetched_at: string;
+}
+
+export interface SummaryKeyPoint {
+  timestamp: number;
+  title: string;
+  content: string;
+}
+
+export interface Summary {
+  video_id: string;
+  title: string;
+  summary: string;
+  key_points: SummaryKeyPoint[];
+  tags: string[];
+  generated_at: string;
 }
 
 export interface Source {

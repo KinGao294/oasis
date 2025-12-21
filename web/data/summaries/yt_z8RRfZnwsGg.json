@@ -1,0 +1,45 @@
+{
+  "video_id": "yt_z8RRfZnwsGg",
+  "title": "Codex brings concepts into view.",
+  "summary": "视频介绍如何使用Codeex Openi的代理解码工具创建算法可视化网站，解决算法可视化难题。",
+  "key_points": [
+    {
+      "timestamp": 0,
+      "title": "算法可视化挑战",
+      "content": "讲述算法难以可视化，作者因缺乏幻想无法形成心理图像。"
+    },
+    {
+      "timestamp": 11,
+      "title": "创建可视化网站",
+      "content": "介绍如何利用Codeex Openi构建个人算法可视化网站。"
+    },
+    {
+      "timestamp": 17,
+      "title": "网站构建步骤",
+      "content": "提出四个步骤：指定算法、调试、个性化、文档化。"
+    },
+    {
+      "timestamp": 28,
+      "title": "调试与修正",
+      "content": "分享如何对动画进行调试，实现预期效果。"
+    },
+    {
+      "timestamp": 44,
+      "title": "个性化定制",
+      "content": "让Codeex优化网站，调整动画，提升用户体验。"
+    },
+    {
+      "timestamp": 50,
+      "title": "文档化过程",
+      "content": "Codeex帮助整理文件，添加注释，生成文档，便于维护。"
+    }
+  ],
+  "tags": [
+    "算法可视化",
+    "Codeex Openi",
+    "软件开发",
+    "人工智能",
+    "用户体验"
+  ],
+  "generated_at": "2025-12-21T02:35:30.511074Z"
+}

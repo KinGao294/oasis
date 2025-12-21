@@ -1,0 +1,50 @@
+{
+  "video_id": "yt_18L5HOYTQAw",
+  "title": "Why Every Skyrim AI Becomes a Stealth Archer",
+  "summary": "本视频通过实验证明，在《上古卷轴V：天际》中，无论玩家选择何种角色，最终都会倾向于成为潜行弓箭手，这一现象不仅是玩家心理，更是数学上的最优策略。",
+  "key_points": [
+    {
+      "timestamp": 0,
+      "title": "角色介绍",
+      "content": "视频介绍了战士、法师和盗贼三种不同的游戏角色及其特点。"
+    },
+    {
+      "timestamp": 1,
+      "title": "AI实验",
+      "content": "通过训练三个AI，每个AI都有不同的奖励函数，以观察它们在《上古卷轴V》中的行为。"
+    },
+    {
+      "timestamp": 4,
+      "title": "AI行为",
+      "content": "尽管AI有各自不同的目标和奖励函数，但最终都成为了潜行弓箭手。"
+    },
+    {
+      "timestamp": 6,
+      "title": "奖励函数设计",
+      "content": "设计奖励函数非常困难，需要大量的研究和尝试。"
+    },
+    {
+      "timestamp": 8,
+      "title": "AI策略",
+      "content": "AI通过尝试和错误，找到了最优的潜行弓箭手策略。"
+    },
+    {
+      "timestamp": 9,
+      "title": "最终测试",
+      "content": "进行最终测试，AI在无限制的情况下使用任何策略，结果显示潜行弓箭手策略仍然是最优的。"
+    },
+    {
+      "timestamp": 10,
+      "title": "结论",
+      "content": "视频得出结论，潜行弓箭手不仅是玩家心理，更是数学上的最优策略。"
+    }
+  ],
+  "tags": [
+    "上古卷轴V：天际",
+    "AI游戏实验",
+    "潜行弓箭手",
+    "游戏策略",
+    "数学优化"
+  ],
+  "generated_at": "2025-12-21T02:35:44.994708Z"
+}

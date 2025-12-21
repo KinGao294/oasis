@@ -1,0 +1,50 @@
+{
+  "video_id": "yt_pBlIgs6w7Ss",
+  "title": "How Intelligent Is AI, Really?",
+  "summary": "视频探讨了人工智能的智能水平，通过Ark Prize的视角，分析了AI在学习和适应新技能方面的能力，并讨论了AI评估标准的发展。",
+  "key_points": [
+    {
+      "timestamp": 0,
+      "title": "Ark Prize介绍",
+      "content": "Ark Prize基金会是一个以技术为导向的非营利组织，旨在推动能够普遍化的人类化智能系统的发展。"
+    },
+    {
+      "timestamp": 1,
+      "title": "智能定义",
+      "content": "Ark Prize基于2019年法国的论文，将智能定义为快速学习新事物的能力。"
+    },
+    {
+      "timestamp": 2,
+      "title": "ARC AGI测试",
+      "content": "ARC AGI测试旨在评估机器学习新事物的能力，不仅适用于人类，也适用于机器。"
+    },
+    {
+      "timestamp": 3,
+      "title": "AI在ARC AGI上的表现",
+      "content": "大型语言模型在ARC AGI测试中表现不佳，但近年来性能有所提升。"
+    },
+    {
+      "timestamp": 4,
+      "title": "ARC AGI的应用",
+      "content": "ARC AGI已成为大型实验室模型发布和性能评估的标准之一。"
+    },
+    {
+      "timestamp": 5,
+      "title": "AI产品开发的误区",
+      "content": "一些AI产品可能只是达到了基准，但并非真正的进步。"
+    },
+    {
+      "timestamp": 6,
+      "title": "ARC AGI 3的发展",
+      "content": "ARC AGI 3将包含150个视频游戏环境，通过交互式测试来评估AI的智能水平。"
+    }
+  ],
+  "tags": [
+    "人工智能",
+    "智能测试",
+    "ARC AGI",
+    "AI评估",
+    "智能发展"
+  ],
+  "generated_at": "2025-12-21T02:32:25.479447Z"
+}

@@ -1,0 +1,50 @@
+{
+  "video_id": "yt_6TXXMTYQtHk",
+  "title": "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows",
+  "summary": "Notion利用GPT-5技术重构，实现自动化工作流程，提升用户体验和效率。",
+  "key_points": [
+    {
+      "timestamp": 0,
+      "title": "使命",
+      "content": "Notion旨在帮助人们创建生活工作的美丽工具。"
+    },
+    {
+      "timestamp": 13,
+      "title": "故事",
+      "content": "Notion创始人利用GPT-4 API原型化Notion版本。"
+    },
+    {
+      "timestamp": 25,
+      "title": "原型",
+      "content": "创始人将原型视为共同产品，利用OpenAI API从内部使用推广至通用。"
+    },
+    {
+      "timestamp": 58,
+      "title": "使用体验",
+      "content": "用户无需学习软件，直接用英语交流，软件自动生成。"
+    },
+    {
+      "timestamp": 109,
+      "title": "连接性",
+      "content": "Notion AI连接GitHub、Confluence、Slack等，实现多平台集成。"
+    },
+    {
+      "timestamp": 128,
+      "title": "效率提升",
+      "content": "利用OpenAI的嵌入技术，检索速度快，质量高。"
+    },
+    {
+      "timestamp": 138,
+      "title": "用户反馈",
+      "content": "使用Notion AI的用户活跃度更高，大部分用户表示不会放弃。"
+    }
+  ],
+  "tags": [
+    "Notion",
+    "GPT-5",
+    "AI",
+    "自动化工作流程",
+    "用户体验"
+  ],
+  "generated_at": "2025-12-21T02:40:35.497762Z"
+}

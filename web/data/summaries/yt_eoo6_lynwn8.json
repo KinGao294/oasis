@@ -1,0 +1,30 @@
+{
+  "video_id": "yt_eoo6_lynwn8",
+  "title": "This Shipping Container Powers 20,000 AI Chips",
+  "summary": "本视频介绍了一种新型反应器，它能够为20,000个H100 GPU提供动力，实现数据中心级别的计算能力，且可移动。",
+  "key_points": [
+    {
+      "timestamp": 0,
+      "title": "计算能力",
+      "content": "每个反应器可驱动约20,000个H100 GPU。"
+    },
+    {
+      "timestamp": 3,
+      "title": "数据中心级",
+      "content": "相当于一个数据中心级别的计算能力。"
+    },
+    {
+      "timestamp": 10,
+      "title": "可移动性",
+      "content": "该设备可移动，便于部署。"
+    }
+  ],
+  "tags": [
+    "数据中心",
+    "GPU",
+    "计算能力",
+    "可移动设备",
+    "人工智能"
+  ],
+  "generated_at": "2025-12-21T02:40:58.708928Z"
+}

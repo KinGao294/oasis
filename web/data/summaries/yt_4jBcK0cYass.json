@@ -1,0 +1,50 @@
+{
+  "video_id": "yt_4jBcK0cYass",
+  "title": "What's New with ChatGPT Voice",
+  "summary": "视频介绍了ChatGPT语音功能的新更新，包括实时字幕和地图、天气等实时信息展示。",
+  "key_points": [
+    {
+      "timestamp": 4,
+      "title": "语音功能",
+      "content": "语音功能已集成到聊天中，提供实时字幕和实时信息展示。"
+    },
+    {
+      "timestamp": 12,
+      "title": "实时字幕",
+      "content": "用户在聊天过程中可实时查看字幕。"
+    },
+    {
+      "timestamp": 15,
+      "title": "实时信息展示",
+      "content": "可实时展示地图、天气等信息。"
+    },
+    {
+      "timestamp": 18,
+      "title": "地图展示",
+      "content": "用户请求查看旧金山Mission District区的最佳面包店地图。"
+    },
+    {
+      "timestamp": 28,
+      "title": "面包店介绍",
+      "content": "介绍Tartine面包店，包括其受欢迎的甜点和糕点。"
+    },
+    {
+      "timestamp": 40,
+      "title": "糕点种类",
+      "content": "详细介绍了Tartine的一些糕点，如晨黄油、经典可颂、巧克力松露和法式日式可颂。"
+    },
+    {
+      "timestamp": 60,
+      "title": "发音说明",
+      "content": "解释了“franapan”这一糕点的正确发音。"
+    }
+  ],
+  "tags": [
+    "ChatGPT",
+    "语音功能",
+    "实时字幕",
+    "地图展示",
+    "信息展示"
+  ],
+  "generated_at": "2025-12-21T02:34:56.825010Z"
+}

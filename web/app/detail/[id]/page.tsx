@@ -4,7 +4,7 @@ import { use, useState, useEffect } from 'react';
 import Link from 'next/link';
 import Header from '@/components/Header';
 import { getFeedItem, formatDuration, formatRelativeTime, formatTimestamp, getVideoUrlWithTimestamp, isItemSaved, saveItem, unsaveItem } from '@/lib/data';
-import { PLATFORM_CONFIG, DOMAIN_CONFIG, Domain, Transcript } from '@/lib/types';
+import { PLATFORM_CONFIG, DOMAIN_CONFIG, Domain, Transcript, Summary } from '@/lib/types';
 
 export default function DetailPage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = use(params);
@@ -12,10 +12,25 @@ export default function DetailPage({ params }: { params: Promise<{ id: string }>
   const [saved, setSaved] = useState(false);
   const [transcript, setTranscript] = useState<Transcript | null>(null);
   const [loadingTranscript, setLoadingTranscript] = useState(false);
+  const [summary, setSummary] = useState<Summary | null>(null);
+  const [loadingSummary, setLoadingSummary] = useState(false);
 
   useEffect(() => {
     if (item) {
       setSaved(isItemSaved(item.id));
+      
+      // Dynamically load summary if available
+      setLoadingSummary(true);
+      import(`@/data/summaries/${item.id}.json`)
+        .then((mod) => {
+          setSummary(mod.default as Summary);
+        })
+        .catch(() => {
+          setSummary(null);
+        })
+        .finally(() => {
+          setLoadingSummary(false);
+        });
       
       // Dynamically load transcript if available
       if (item.hasTranscript) {
@@ -25,7 +40,6 @@ export default function DetailPage({ params }: { params: Promise<{ id: string }>
             setTranscript(mod.default as Transcript);
           })
           .catch(() => {
-            // Transcript file not found
             setTranscript(null);
           })
           .finally(() => {
@@ -172,6 +186,70 @@ export default function DetailPage({ params }: { params: Promise<{ id: string }>
             </a>
           </div>
         </div>
+
+        {/* AI Summary */}
+        {summary && (
+          <div className="bg-gradient-to-br from-[#f8faf9] to-[#f5f3f0] rounded-2xl border border-[#e8e4de]/60 overflow-hidden mb-6">
+            <div className="px-6 py-4 border-b border-[#e8e4de]/40 flex items-center gap-3">
+              <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-[#2d5a47] to-[#1a3629] flex items-center justify-center">
+                <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z"/>
+                </svg>
+              </div>
+              <h2 className="font-semibold text-gray-900">AI 内容摘要</h2>
+              <div className="flex-1" />
+              <div className="flex gap-2">
+                {summary.tags?.map((tag, i) => (
+                  <span key={i} className="px-2 py-1 bg-white/80 text-xs text-gray-600 rounded-md border border-[#e8e4de]/50">
+                    {tag}
+                  </span>
+                ))}
+              </div>
+            </div>
+            
+            {/* Summary Overview */}
+            <div className="px-6 py-4 border-b border-[#e8e4de]/40">
+              <p className="text-gray-700 leading-relaxed">{summary.summary}</p>
+            </div>
+            
+            {/* Key Points Timeline */}
+            <div className="px-6 py-4">
+              <h3 className="text-sm font-medium text-gray-500 mb-4">📍 时间轴要点</h3>
+              <div className="space-y-4">
+                {summary.key_points?.map((point, index) => (
+                  <div key={index} className="flex gap-4 group">
+                    <a 
+                      href={getVideoUrlWithTimestamp(item, point.timestamp)}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex-shrink-0 px-3 py-1.5 bg-white text-[#2d5a47] text-sm font-mono rounded-lg border border-[#e8e4de] hover:bg-[#2d5a47] hover:text-white hover:border-[#2d5a47] transition shadow-sm"
+                    >
+                      {formatTimestamp(point.timestamp)}
+                    </a>
+                    <div className="flex-1 min-w-0">
+                      <h4 className="font-medium text-gray-900 mb-1">{point.title}</h4>
+                      <p className="text-sm text-gray-600 leading-relaxed">{point.content}</p>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* Loading Summary */}
+        {loadingSummary && !summary && (
+          <div className="bg-gradient-to-br from-[#f8faf9] to-[#f5f3f0] rounded-2xl border border-[#e8e4de]/60 p-6 mb-6">
+            <div className="flex items-center gap-3">
+              <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-[#2d5a47] to-[#1a3629] flex items-center justify-center animate-pulse">
+                <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z"/>
+                </svg>
+              </div>
+              <span className="text-gray-500">加载 AI 摘要中...</span>
+            </div>
+          </div>
+        )}
 
         {/* Transcript */}
         {transcript && (
