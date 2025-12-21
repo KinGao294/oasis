@@ -44,9 +44,6 @@ const nextConfig: NextConfig = {
     ],
   },
   
-  // Output as static site
-  output: 'export',
-  
   // Base path (uncomment if deploying to subdirectory)
   // basePath: '/oasis',
 };
