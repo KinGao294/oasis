@@ -1,0 +1,36 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "Hi everyone, so this is a busy one hour talk that I'm giving to introduce large language models. So this is a general audience talk so I'm not going to assume that you know much about machine learning or artificial intelligence. And what I want to do is just give you a sense of what large language models are, how they work, what they can do, and what some of the risks and opportunities are with respect to these models. So let me start by telling you about the architecture of these language models. The most popular architecture today is called the Transformer and it was published in 2017 in a paper called Attention is All You Need. The Transformer is a neural network architecture that processes sequences of tokens. A token is roughly a word or a piece of a word. So when you give it text, it breaks it up into these tokens and then processes them. What makes the Transformer special is the attention mechanism. Attention allows the model to look at all the tokens in the sequence and figure out which ones are important for predicting the next token. So the training process is quite simple conceptually. We take a large corpus of text from the internet - books, websites, code, everything we can find - and we train the model to predict the next word. This is called pre-training. And it turns out that if you do this at scale - with enough data and compute - the model learns an incredible amount about the world. It learns facts, it learns to reason, it learns to code. After pre-training, we do something called fine-tuning. This is where we teach the model to follow instructions and to be helpful, harmless, and honest. We use human feedback to guide this process.",
+  "segments": [
+    {"start": 0.0, "end": 5.5, "text": "Hi everyone, so this is a busy one hour talk that I'm giving"},
+    {"start": 5.5, "end": 10.2, "text": "to introduce large language models."},
+    {"start": 10.2, "end": 15.8, "text": "So this is a general audience talk so I'm not going to assume"},
+    {"start": 15.8, "end": 20.5, "text": "that you know much about machine learning or artificial intelligence."},
+    {"start": 20.5, "end": 28.0, "text": "And what I want to do is just give you a sense of what large language models are,"},
+    {"start": 28.0, "end": 35.5, "text": "how they work, what they can do, and what some of the risks and opportunities are"},
+    {"start": 35.5, "end": 40.0, "text": "with respect to these models."},
+    {"start": 45.0, "end": 52.0, "text": "So let me start by telling you about the architecture of these language models."},
+    {"start": 52.0, "end": 58.5, "text": "The most popular architecture today is called the Transformer"},
+    {"start": 58.5, "end": 65.0, "text": "and it was published in 2017 in a paper called Attention is All You Need."},
+    {"start": 90.0, "end": 98.0, "text": "The Transformer is a neural network architecture that processes sequences of tokens."},
+    {"start": 98.0, "end": 105.0, "text": "A token is roughly a word or a piece of a word."},
+    {"start": 105.0, "end": 112.0, "text": "So when you give it text, it breaks it up into these tokens and then processes them."},
+    {"start": 135.0, "end": 145.0, "text": "What makes the Transformer special is the attention mechanism."},
+    {"start": 145.0, "end": 155.0, "text": "Attention allows the model to look at all the tokens in the sequence"},
+    {"start": 155.0, "end": 165.0, "text": "and figure out which ones are important for predicting the next token."},
+    {"start": 180.0, "end": 190.0, "text": "So the training process is quite simple conceptually."},
+    {"start": 190.0, "end": 200.0, "text": "We take a large corpus of text from the internet - books, websites, code, everything we can find -"},
+    {"start": 200.0, "end": 210.0, "text": "and we train the model to predict the next word."},
+    {"start": 225.0, "end": 235.0, "text": "This is called pre-training."},
+    {"start": 235.0, "end": 250.0, "text": "And it turns out that if you do this at scale - with enough data and compute -"},
+    {"start": 250.0, "end": 265.0, "text": "the model learns an incredible amount about the world."},
+    {"start": 265.0, "end": 280.0, "text": "It learns facts, it learns to reason, it learns to code."},
+    {"start": 300.0, "end": 315.0, "text": "After pre-training, we do something called fine-tuning."},
+    {"start": 315.0, "end": 330.0, "text": "This is where we teach the model to follow instructions and to be helpful, harmless, and honest."},
+    {"start": 330.0, "end": 345.0, "text": "We use human feedback to guide this process."}
+  ],
+  "word_count": 347,
+  "fetched_at": "2024-12-21T08:30:00Z"
+}
+

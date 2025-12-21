@@ -16,11 +16,8 @@
   --color-foreground: #171717;
   
   /* Font */
-  --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-sans: var(--font-jakarta), system-ui, sans-serif;
 }
-
-/* Google Font Import */
-@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
 
 :root {
   --background: #fdfcfb;
@@ -31,7 +28,7 @@ body {
   background: linear-gradient(180deg, #fdfcfb 0%, #f5f3f0 100%);
   min-height: 100vh;
   color: var(--foreground);
-  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  font-family: var(--font-jakarta), system-ui, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

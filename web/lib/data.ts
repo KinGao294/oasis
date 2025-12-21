@@ -1,6 +1,6 @@
 // Data loading utilities
 import { FeedsData, Transcript, SourcesConfig, FeedItem } from './types';
-import feedsJson from '../../data/feeds.json';
+import feedsJson from '../data/feeds.json';
 
 // Load feeds data
 export function getFeeds(): FeedsData {
@@ -16,20 +16,20 @@ export function getFeedItem(id: string): FeedItem | undefined {
 // Load transcript for a feed item
 export async function getTranscript(id: string): Promise<Transcript | null> {
   try {
-    const transcript = await import(`../../data/transcripts/${id}.json`);
+    const transcript = await import(`../data/transcripts/${id}.json`);
     return transcript.default as Transcript;
   } catch {
     return null;
   }
 }
 
-// Get sources configuration
-export async function getSources(): Promise<SourcesConfig> {
-  // For now, we'll parse the YAML on the client side or use a pre-converted JSON
-  // In production, this would be converted during build
-  const yaml = await import('../../scripts/sources.yaml');
-  return yaml.default as SourcesConfig;
-}
+// Get sources configuration (disabled - YAML not supported in browser)
+// export async function getSources(): Promise<SourcesConfig> {
+//   // For now, we'll parse the YAML on the client side or use a pre-converted JSON
+//   // In production, this would be converted during build
+//   const yaml = await import('../../scripts/sources.yaml');
+//   return yaml.default as SourcesConfig;
+// }
 
 // Format duration from seconds to HH:MM:SS or MM:SS
 export function formatDuration(seconds?: number): string {
