@@ -6,8 +6,8 @@ import Header from '@/components/Header';
 import { getFeedItem, formatDuration, formatRelativeTime, formatTimestamp, getVideoUrlWithTimestamp, isItemSaved, saveItem, unsaveItem } from '@/lib/data';
 import { PLATFORM_CONFIG, DOMAIN_CONFIG, Domain, Transcript, TranscriptSegment } from '@/lib/types';
 
-// Import transcript data statically for static export
-import transcriptData from '../../../../data/transcripts/yt_zjkBMFhNj_g.json';
+// Import transcript data statically
+import transcriptData from '@/data/transcripts/yt_zjkBMFhNj_g.json';
 
 const transcripts: Record<string, Transcript> = {
   'yt_zjkBMFhNj_g': transcriptData as Transcript,
@@ -222,13 +222,5 @@ export default function DetailPage({ params }: { params: Promise<{ id: string }>
       </footer>
     </div>
   );
-}
-
-// Generate static params for known items
-export function generateStaticParams() {
-  const feeds = require('../../../../data/feeds.json');
-  return feeds.items.map((item: { id: string }) => ({
-    id: item.id,
-  }));
 }
 
