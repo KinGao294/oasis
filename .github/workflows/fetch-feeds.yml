@@ -14,6 +14,10 @@ on:
         default: 'true'
         type: boolean
 
+# 添加写入权限
+permissions:
+  contents: write
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
