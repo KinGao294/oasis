@@ -1,0 +1,2424 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "This is my personal website. I built it in under five minutes. No typing, no coding. And today, I'll show you exactly how you can do the same. Hello world. I'm Sira Draval, the OG Vibe Coder. And if you've ever wanted to build your own website, but felt coding was too hard, this video is your shortcut. Today I'm going to teach you vibe coding, a new way to build with AI where you don't just learn code, you experience it. In the next few minutes, we'll go from blank screen to live website on your phone step by step. No prior coding experience needed. Along the way, I'll show you the three Ps of Vibe Coding. Plan, prompt, and polish. how top AI tools like Claude, Cursor, and Gemini stack up and the vibe loop, a repeatable process you can use to code anything you can possibly imagine. Learning should feel alive, not like reading a textbook. That's the spirit of vibe coding. You ship something real and the internet comes alive with you. We are in a new renaissance and it's all about the vibes. So grab your browser, follow along, and by the end of this video, you will have your own website live for the world to see. Now, the first step for us in vibe coding is to go to replet. If we've never vibe coded or coded before, that's the easiest way because you don't have to install anything. No dependencies, nothing. You just need a web browser. That's our first step. So in replet, it's going to ask you, what do you want to make? So in this, we're going to prompt it. Build me a personal website. I'm Siraj Reval. I live in New York City and I love programming. And then we'll click start building. By the way, the tool I use to convert my voice to text in real time is called Whisper Flow. A great tool in the arsenal of Vibe Coding. So, what we're seeing here is Replet in real time building this app for us. Now, remember the three Ps of Vibe coding. We got a plan, prompt, and then polish. Now, we didn't really plan this out, but this is really for the quick win. And I just want to show you how fast you can deploy your personal website without coding. But ideally, we want to create a plan for us. And as you can see, Replet has created a plan for us. Now, Replet is one of the few crate agents out there that will just create a plan for you right off the bat. But not every AI will, which is why it's also great for beginners. So, it's created a plan for us based on our very simple prompt. And then from that, it's going to start building the website. And as you can see, it's using its different tools in its text stack to create this website for me. It's got an initial version that has my information that I'm an AI educator, that I have a YouTube channel, that I had the school of AI, that I'm an AI expert. All of these things it's pulling from the web using retrieval, augmented generation. It's retrieving this information and incorporating it into its generation. And you can see the preview in real time of this website pop up right here. Now look what the great thing about Replet is that you can see this on mobile as well. We can be doing this on mobile. We can be doing this on web. And we can test it out right here. This is a great initial front-end interface, but I guess you could make it better. Like it says I have right now 715K subscribers. I think I have quite a few more. It says I'm chief data scientist. That's not quite true right now. So, a lot of things we could change, but how are we going to change that? Are we going to prompt it again? Are we going to in edit the code? We're definitely not going to edit the code. We're going to prompt it again. That's vibe coding. Never edit the code. Always prompt. So, we're going to reprompt it. That looks great for a start, but I want you to change that information so that it has my accurate subscriber count, please. And hit enter. and it's going to pull that information from the web and improve it so that it's actually visible. Now that it's there, we have our deployed website with replet. This is a good starting point. We can see it right here on the web. Here's the link to it atreplet.dev. This is deployed on the web right now. Anyone can access it while this replet is alive and running. If we want to have this stay alive for longer, then we can get an increased longer pan plan and that's paid. But on the free plan, we do get this. So, you can see I approve the plan. I see the preview right here of my website. It put the wrong person as me, but I can quickly fix that with a single follow-up prompt. Please change this to a real picture of me. That's not me. Now, it's got a real picture of me. It's a real living website. And we deployed this in under a few minutes with Replet. All right, that was a great first start. But there's so many different AIs out there. This can't be it, right? There can be more complex apps that we might want to make, whether it's in healthcare or finance or supply chain or sales or marketing or agriculture or sustainability. There's so many possibilities here of what we could build. And Replet alone might be great for beginners, but it's not really what the pros use, is it? So, let's take a look at the landscape of what AI really is today. And you can see that AI today is full of these apps that let you build anything. And there are these zero code app builders of which we just used one called Replet. And you have others like lovable and B 64 and Bolt. All of which do the same thing. They don't require any coding skills, but they don't let you really build complete applications. There are apps for that like factory, like Devon, like data button, but those apps also have a flaw. They're not designed first. There are other apps that are design first like v0ero, framer and onlook. But what we want is something that is both design first and application complete. Something that is touring complete in its ability to create literally anything we can imagine. And that would be the AI coding assistance. Cursor, Windsurf, Claude Code, Gemini CLI. Those are the ones we want. And by far the most popular one out there today is Cursor. And what we're going to do today is we're going to rebuild this personal website of ours using the top three AIs out there inside of Cursor because Cursor allows you to switch between AIS really fast and simply. So what are the top three AIs in the world today? Well, if we go to LM Arena, we can see that today the top three AIS are no surprise number one GPT5, number two Claude Opus 4.1, and then you have Gemini 2.5 Pro. So, let's test out all three of those AIS in Cursor and see which one gets us a better personal website. So, the first step for us is to go to cursor.com and download this for our operating system. I've got a Mac, so I'll click download for MacOSS. I'll open it. I'll install it. And then I see the browser right here. Now, in cursor, I'm going to open up a new project. I'm going to give it a name. And it's going to be a new folder. And in it, I see the composer window with GPT5 ready for me to start prompting with. But remember, a real vibe coder doesn't just prompt right off the bat. They plan first. So, we can give it the same exact prompt that we gave it before. Build me a personal website. I'm Saja. just hit go. But we want it to be better. So what do we do? We have to give it a plan. So in the context of AI idees of these coding agents, what does a plan look like? It looks like a well crafted markdown file. What is markdown? Markdown is a language for describing information in a structured organized way. GitHub does this in the readme section and we can do this in cursor by going to file and going to settings cursor settings. And in cursor settings, we see rules. And in this, we see our cursor rules. Cursor rules are the rules that your system follows for everything that you build. And in this case, it's going to be this set of rules. I'm going to give you my cursor rules. I want you to steal them. I use them to build everything. They're very useful. You are a senior full stack developer with deep expertise in Python, Flask for web development, Firebase for storage, OpenAI for AI, scalable patterns, and then front end as well. React, next, all these tools. And by giving cursor these tools in the instruction set, it creates a plan of what it's going to build in the first place, what text stack it needs to use because there are so many out there. And now that we've given it this tool set, this instruction set in the cursor rule file, now we can give it the prompt. And let's hit go. And now you can see cursor building that website in real time using the tools with GPT5. Now you might not like those tools that I used here. You might have your own set of cursor instructions that you want to use. And the best way to go get those is to go to cursor.directory.com and you can find tools for any use case you can imagine, any tech stack you can imagine. It's all there for free. And that's one of the reasons why Cursor is getting so big. The community is so massive. There's so much open source documentation. Everyone's sharing their experiences, which is great. I I love that about Cursor. So, you can see that it's created this plan first. It's got this rough preview out there of my website. It looks okay. Uh, I like it actually. So, why not just deploy it right off the bat? So, the next thing I'm going to do is I'm going to ask it to deploy it. And that brings up the great question, where do I deploy it to? What does that even mean? It means putting your website on the internet so anyone can see it. GTFO localhost. Local host is your computer. You want to get your AIS off of it onto the web. So, where do you push it to? Well, what I like to use is Heroku because I've been using it for over a decade, but that's not the best one necessarily. Versell might be the best one. Netlefi is another good one. And there's a couple other good ones, but I would say Versel is probably the best one to get started. They're all command line tools. What that means is that cursor can use them. So, I'm just going to in a prompt say, \"Please now ship this to the web using Heroku because it knows to use Heroku in my rules because that's part of the plan before I prompt it.\" Now, I'll hit enter. And now it's going to deploy to Heroku. It's creating a new app on Heroku. Here is the live link. And now I see the live link for Heroku. I can see it right here. And there's the website. That's great for Chad GBT. I would give that an 8 out of 10. But now let's see how Gemini does. So we're going to open up a new window and type in Gemini. And then we're going to see how well Gemini does compared to cursor. So give it the same prompt and hit enter. Now I want to talk about something else. So you'll notice that as Gemini's been building this, it fell into an error and I'm going to have to fix that because the page is not loading. Now this happens very often and it puts us into the next phase of vibe coding which is vibe debugging. And vibe debugging is super painful. It by the 11th hour, you could be cursing cursor out. And we don't want that. We want to be nice to our AIs because we want to treat them as co-workers. So, how do we do this? Well, we do what's called the vibe loop. I've called it the vibe loop. You prompt, then you run, then it breaks, then you fix it, and then you repeat. Prompt, run, break, fix, repeat. Okay, you get the picture. Prompt, run, break, fix, repeat. It's all vibes. It's vibes, right? That's how this works. We don't get mad at the AIS and there are best practices. This is a new emerging field of vibe debugging, but it is legitimate and it can get frustrating, but you just need to keep following the process. And that's how the AI is going to build things. And so, I'm going to tell it, hey Gemini, this page is not loading. I want you to make this better. Can you take what you see here and put that into the prompt so that you fix it? And I'm going to give it the console log and I'll ask it to fix it. Literally, this is Vibe debugging. Now, Gemini is fixing it based on what I saw. Now, this could actually be made better rather than me having to look manually at the browser and say, \"Hey, this is not working.\" And then tell the AI and cursor to fix it. What if the AI could do that? And there is a way for the AI to do that as part of the Vibe debugging process. It's called using a model context protocol. You might have heard this term, the MCP. MCP servers are taking over the internet. MCP servers are a USB plug for AIS. They allow AIS to talk to each other and to talk to different data sources in a modular way. And what we're going to use is an MCP for something called Playright. And Playright is a tool that lets you control your browser. So, Playright is a JavaScript tool that lets an AI control a browser through its MCP. So, what we're going to do is we're going to give cursor access to the Playright MCP so that it can look at the browser and debug its own code for us. So, if we go to the Playright website, we can see that it has an MCP server. And under the instructions, we can see how to add it to cursor. So, we see this JSON file. We'll copy it. We'll go to cursor. We'll go to tools and integrations. You see add new MCP server. We'll paste it in. And there it is. Now we've added Playright to Gemini. So now it can debug using it. So let's see how it works. Please now use Playright to debug the website yourself so that I don't have to help you. Now it's actually debugging itself using Playright. Pretty cool, right? So I would give Gemini a seven out of 10. I would say GBT5 was better because it still needed that MCP help. uh whereas GPT5 didn't. But let's see how Claude does now. Now I could use Claude code in cursor like everybody else. It's right there. Anthropic released its own dedicated developer tool called Claude Code. And we can just use Claude code instead of cursor because by far the reviews show that people love Claude code even more than cursor when it comes to Claude. And if you think about it, it makes sense. Anthropic created the model. Just let them create the entire environment themselves. like they have the holistic view and the data already to create that environment. Of course, they're going to out compete cursor at their own game. It's their model. So, we can download claude code pretty easily. Although claude code is paid um we can download cla code pretty easily on the website. You have to have the pro plan. I have it and you can open up it up in the terminal or even in cursor. We can open up claude code in cursor. That's pretty cool, right? And we'll type in claude and give it that prompt. and hit run. Now, it's going to do the same thing as it would in cursor except in the terminal. And we can run clawed code in cursor as well in a terminal window. So, it's not really that different. It's just a question of rate limits and spending money. We don't want to overspend, which is going to bring us to the traps part at the end of the video, which I definitely want to talk about later. And one more thing I want to talk about with claude code is that I don't like to just sit at my computer sedentary and code. That is the past. The future is vibe coding. The future is vibe walking. What I like to do is I like to use my meta glasses to record my voice in real time via Bluetooth. These are bone conducting. And I connect it to my phone and I use a tool called Vibe Tunnel to tunnel claude code to my code. So you can see right here vibetunnel.sh. This was an open- source tool created by a awesome group of developers to tunnel cloud code from their desktop to their phone via the web. So, it exposes your cloud code to a public website URL that you can access on your phone and then you can talk to it via Bluetooth. So, you can be walking and coding at the same time. And so, this is the future of creation. We don't just want to be sedentary. We can do both. And back to Claude Code, we can see that Claude Code did a great website. It It's good enough. In fact, I would say it's even better than GPT5. I would give Claude Code probably a 10 out of 10 in in this regard. So So great job, Anthropic. Now, there are definitely some traps to avoid here. The first one is having a giant prompt. Look, I know how enticing it is to want to just create one giant prompt for your application. That's what all the AI YouTubers are saying that it's easy to do. It's not. You want to have small modular prompts for every feature that you want or else your app is going to be brittle and you don't want that. Small modular prompts for every feature one at a time. Not one giant prompt. Build the entire thing end to end. It's good to do that for a quick app in the beginning like a personal website. But for anything fullfeatured where you have users and authentication, small prompts one at a time. The second trap to avoid is fear of breaking things. Don't be afraid. This is a renaissance. This is literally a new era, a revolution. Everyone can code and create things now. Even if you have no experience, you need to be building this. You, you, you right there, you need to be building today with Cloud Code. There is no excuse. This stuff is free. I just showed you how. And the third thing before you go anywhere is AI addiction. There are legitimate people addicted to this stuff. There was a Claude code anonymous meetup that just happened in London. I talked to a friend of mine who might be addicted to Claude Code. This is a real thing. And we need to be aware of this because you can lose time and money on these tools if you're not systematic about them about planning before you prompt. Remember the three Ps, plan, prompt, and polish. And the fourth is AI slop. There's this idea going around about the dead internet theory. And yes, the internet can be dead if we're all out there putting slop, but it can be alive if we put out real art that is meaningful to us. So all that is to say is vibe code responsibly, please. But and but nonetheless, please vibe code today. The excuses are over. And I want you to share your vibecoded website in the comments section, please, because I want to see it. Uh if you like this video, make sure to hit the like button. That's what gets the algorithm to push it forward. And until next time, happy vibing.",
+  "segments": [
+    {
+      "start": 0.56,
+      "end": 6.48,
+      "text": "This is my personal website. I built it"
+    },
+    {
+      "start": 3.68,
+      "end": 9.52,
+      "text": "in under five minutes. No typing, no"
+    },
+    {
+      "start": 6.48,
+      "end": 12.64,
+      "text": "coding. And today, I'll show you exactly"
+    },
+    {
+      "start": 9.52,
+      "end": 15.84,
+      "text": "how you can do the same. Hello world."
+    },
+    {
+      "start": 12.64,
+      "end": 18.48,
+      "text": "I'm Sira Draval, the OG Vibe Coder. And"
+    },
+    {
+      "start": 15.84,
+      "end": 21.92,
+      "text": "if you've ever wanted to build your own"
+    },
+    {
+      "start": 18.48,
+      "end": 25.12,
+      "text": "website, but felt coding was too hard,"
+    },
+    {
+      "start": 21.92,
+      "end": 28.56,
+      "text": "this video is your shortcut. Today I'm"
+    },
+    {
+      "start": 25.12,
+      "end": 31.2,
+      "text": "going to teach you vibe coding, a new"
+    },
+    {
+      "start": 28.56,
+      "end": 34.88,
+      "text": "way to build with AI where you don't"
+    },
+    {
+      "start": 31.2,
+      "end": 37.44,
+      "text": "just learn code, you experience it. In"
+    },
+    {
+      "start": 34.88,
+      "end": 41.12,
+      "text": "the next few minutes, we'll go from"
+    },
+    {
+      "start": 37.44,
+      "end": 44.48,
+      "text": "blank screen to live website on your"
+    },
+    {
+      "start": 41.12,
+      "end": 47.04,
+      "text": "phone step by step. No prior coding"
+    },
+    {
+      "start": 44.48,
+      "end": 50.0,
+      "text": "experience needed. Along the way, I'll"
+    },
+    {
+      "start": 47.04,
+      "end": 54.0,
+      "text": "show you the three Ps of Vibe Coding."
+    },
+    {
+      "start": 50.0,
+      "end": 56.72,
+      "text": "Plan, prompt, and polish. how top AI"
+    },
+    {
+      "start": 54.0,
+      "end": 61.04,
+      "text": "tools like Claude, Cursor, and Gemini"
+    },
+    {
+      "start": 56.72,
+      "end": 64.4,
+      "text": "stack up and the vibe loop, a repeatable"
+    },
+    {
+      "start": 61.04,
+      "end": 66.96,
+      "text": "process you can use to code anything you"
+    },
+    {
+      "start": 64.4,
+      "end": 70.0,
+      "text": "can possibly imagine. Learning should"
+    },
+    {
+      "start": 66.96,
+      "end": 72.48,
+      "text": "feel alive, not like reading a textbook."
+    },
+    {
+      "start": 70.0,
+      "end": 75.04,
+      "text": "That's the spirit of vibe coding. You"
+    },
+    {
+      "start": 72.48,
+      "end": 77.92,
+      "text": "ship something real and the internet"
+    },
+    {
+      "start": 75.04,
+      "end": 80.0,
+      "text": "comes alive with you. We are in a new"
+    },
+    {
+      "start": 77.92,
+      "end": 82.4,
+      "text": "renaissance and it's all about the"
+    },
+    {
+      "start": 80.0,
+      "end": 85.04,
+      "text": "vibes. So grab your browser, follow"
+    },
+    {
+      "start": 82.4,
+      "end": 87.52,
+      "text": "along, and by the end of this video, you"
+    },
+    {
+      "start": 85.04,
+      "end": 90.08,
+      "text": "will have your own website live for the"
+    },
+    {
+      "start": 87.52,
+      "end": 92.56,
+      "text": "world to see. Now, the first step for us"
+    },
+    {
+      "start": 90.08,
+      "end": 94.96,
+      "text": "in vibe coding is to go to replet. If"
+    },
+    {
+      "start": 92.56,
+      "end": 96.56,
+      "text": "we've never vibe coded or coded before,"
+    },
+    {
+      "start": 94.96,
+      "end": 98.4,
+      "text": "that's the easiest way because you don't"
+    },
+    {
+      "start": 96.56,
+      "end": 99.84,
+      "text": "have to install anything. No"
+    },
+    {
+      "start": 98.4,
+      "end": 101.68,
+      "text": "dependencies, nothing. You just need a"
+    },
+    {
+      "start": 99.84,
+      "end": 103.2,
+      "text": "web browser. That's our first step. So"
+    },
+    {
+      "start": 101.68,
+      "end": 105.04,
+      "text": "in replet, it's going to ask you, what"
+    },
+    {
+      "start": 103.2,
+      "end": 107.6,
+      "text": "do you want to make? So in this, we're"
+    },
+    {
+      "start": 105.04,
+      "end": 110.72,
+      "text": "going to prompt it. Build me a personal"
+    },
+    {
+      "start": 107.6,
+      "end": 113.36,
+      "text": "website. I'm Siraj Reval. I live in New"
+    },
+    {
+      "start": 110.72,
+      "end": 115.68,
+      "text": "York City and I love programming. And"
+    },
+    {
+      "start": 113.36,
+      "end": 117.52,
+      "text": "then we'll click start building. By the"
+    },
+    {
+      "start": 115.68,
+      "end": 119.92,
+      "text": "way, the tool I use to convert my voice"
+    },
+    {
+      "start": 117.52,
+      "end": 123.28,
+      "text": "to text in real time is called Whisper"
+    },
+    {
+      "start": 119.92,
+      "end": 125.76,
+      "text": "Flow. A great tool in the arsenal of"
+    },
+    {
+      "start": 123.28,
+      "end": 128.88,
+      "text": "Vibe Coding. So, what we're seeing here"
+    },
+    {
+      "start": 125.76,
+      "end": 131.76,
+      "text": "is Replet in real time building this app"
+    },
+    {
+      "start": 128.88,
+      "end": 134.56,
+      "text": "for us. Now, remember the three Ps of"
+    },
+    {
+      "start": 131.76,
+      "end": 137.28,
+      "text": "Vibe coding. We got a plan, prompt, and"
+    },
+    {
+      "start": 134.56,
+      "end": 138.88,
+      "text": "then polish. Now, we didn't really plan"
+    },
+    {
+      "start": 137.28,
+      "end": 140.4,
+      "text": "this out, but this is really for the"
+    },
+    {
+      "start": 138.88,
+      "end": 142.56,
+      "text": "quick win. And I just want to show you"
+    },
+    {
+      "start": 140.4,
+      "end": 146.24,
+      "text": "how fast you can deploy your personal"
+    },
+    {
+      "start": 142.56,
+      "end": 149.52,
+      "text": "website without coding. But ideally, we"
+    },
+    {
+      "start": 146.24,
+      "end": 151.92,
+      "text": "want to create a plan for us. And as you"
+    },
+    {
+      "start": 149.52,
+      "end": 154.16,
+      "text": "can see, Replet has created a plan for"
+    },
+    {
+      "start": 151.92,
+      "end": 155.92,
+      "text": "us. Now, Replet is one of the few crate"
+    },
+    {
+      "start": 154.16,
+      "end": 158.0,
+      "text": "agents out there that will just create a"
+    },
+    {
+      "start": 155.92,
+      "end": 160.32,
+      "text": "plan for you right off the bat. But not"
+    },
+    {
+      "start": 158.0,
+      "end": 162.56,
+      "text": "every AI will, which is why it's also"
+    },
+    {
+      "start": 160.32,
+      "end": 164.88,
+      "text": "great for beginners. So, it's created a"
+    },
+    {
+      "start": 162.56,
+      "end": 166.64,
+      "text": "plan for us based on our very simple"
+    },
+    {
+      "start": 164.88,
+      "end": 168.88,
+      "text": "prompt. And then from that, it's going"
+    },
+    {
+      "start": 166.64,
+      "end": 171.84,
+      "text": "to start building the website. And as"
+    },
+    {
+      "start": 168.88,
+      "end": 174.56,
+      "text": "you can see, it's using its different"
+    },
+    {
+      "start": 171.84,
+      "end": 176.4,
+      "text": "tools in its text stack to create this"
+    },
+    {
+      "start": 174.56,
+      "end": 178.72,
+      "text": "website for me. It's got an initial"
+    },
+    {
+      "start": 176.4,
+      "end": 180.88,
+      "text": "version that has my information that I'm"
+    },
+    {
+      "start": 178.72,
+      "end": 182.64,
+      "text": "an AI educator, that I have a YouTube"
+    },
+    {
+      "start": 180.88,
+      "end": 184.64,
+      "text": "channel, that I had the school of AI,"
+    },
+    {
+      "start": 182.64,
+      "end": 186.56,
+      "text": "that I'm an AI expert. All of these"
+    },
+    {
+      "start": 184.64,
+      "end": 189.12,
+      "text": "things it's pulling from the web using"
+    },
+    {
+      "start": 186.56,
+      "end": 191.52,
+      "text": "retrieval, augmented generation. It's"
+    },
+    {
+      "start": 189.12,
+      "end": 194.0,
+      "text": "retrieving this information and"
+    },
+    {
+      "start": 191.52,
+      "end": 196.4,
+      "text": "incorporating it into its generation."
+    },
+    {
+      "start": 194.0,
+      "end": 199.12,
+      "text": "And you can see the preview in real time"
+    },
+    {
+      "start": 196.4,
+      "end": 200.88,
+      "text": "of this website pop up right here. Now"
+    },
+    {
+      "start": 199.12,
+      "end": 202.64,
+      "text": "look what the great thing about Replet"
+    },
+    {
+      "start": 200.88,
+      "end": 204.72,
+      "text": "is that you can see this on mobile as"
+    },
+    {
+      "start": 202.64,
+      "end": 206.96,
+      "text": "well. We can be doing this on mobile. We"
+    },
+    {
+      "start": 204.72,
+      "end": 209.44,
+      "text": "can be doing this on web. And we can"
+    },
+    {
+      "start": 206.96,
+      "end": 212.08,
+      "text": "test it out right here. This is a great"
+    },
+    {
+      "start": 209.44,
+      "end": 213.92,
+      "text": "initial front-end interface, but I guess"
+    },
+    {
+      "start": 212.08,
+      "end": 216.88,
+      "text": "you could make it better. Like it says I"
+    },
+    {
+      "start": 213.92,
+      "end": 219.92,
+      "text": "have right now 715K subscribers. I think"
+    },
+    {
+      "start": 216.88,
+      "end": 221.76,
+      "text": "I have quite a few more. It says I'm"
+    },
+    {
+      "start": 219.92,
+      "end": 223.84,
+      "text": "chief data scientist. That's not quite"
+    },
+    {
+      "start": 221.76,
+      "end": 226.08,
+      "text": "true right now. So, a lot of things we"
+    },
+    {
+      "start": 223.84,
+      "end": 228.08,
+      "text": "could change, but how are we going to"
+    },
+    {
+      "start": 226.08,
+      "end": 231.52,
+      "text": "change that? Are we going to prompt it"
+    },
+    {
+      "start": 228.08,
+      "end": 233.2,
+      "text": "again? Are we going to in edit the code?"
+    },
+    {
+      "start": 231.52,
+      "end": 235.04,
+      "text": "We're definitely not going to edit the"
+    },
+    {
+      "start": 233.2,
+      "end": 237.2,
+      "text": "code. We're going to prompt it again."
+    },
+    {
+      "start": 235.04,
+      "end": 238.64,
+      "text": "That's vibe coding. Never edit the code."
+    },
+    {
+      "start": 237.2,
+      "end": 240.96,
+      "text": "Always prompt. So, we're going to"
+    },
+    {
+      "start": 238.64,
+      "end": 243.36,
+      "text": "reprompt it. That looks great for a"
+    },
+    {
+      "start": 240.96,
+      "end": 245.36,
+      "text": "start, but I want you to change that"
+    },
+    {
+      "start": 243.36,
+      "end": 250.4,
+      "text": "information so that it has my accurate"
+    },
+    {
+      "start": 245.36,
+      "end": 251.84,
+      "text": "subscriber count, please. And hit enter."
+    },
+    {
+      "start": 250.4,
+      "end": 254.16,
+      "text": "and it's going to pull that information"
+    },
+    {
+      "start": 251.84,
+      "end": 256.24,
+      "text": "from the web and improve it so that it's"
+    },
+    {
+      "start": 254.16,
+      "end": 258.56,
+      "text": "actually visible. Now that it's there,"
+    },
+    {
+      "start": 256.24,
+      "end": 260.56,
+      "text": "we have our deployed website with"
+    },
+    {
+      "start": 258.56,
+      "end": 262.16,
+      "text": "replet. This is a good starting point."
+    },
+    {
+      "start": 260.56,
+      "end": 265.76,
+      "text": "We can see it right here on the web."
+    },
+    {
+      "start": 262.16,
+      "end": 268.72,
+      "text": "Here's the link to it atreplet.dev."
+    },
+    {
+      "start": 265.76,
+      "end": 271.04,
+      "text": "This is deployed on the web right now."
+    },
+    {
+      "start": 268.72,
+      "end": 274.56,
+      "text": "Anyone can access it while this replet"
+    },
+    {
+      "start": 271.04,
+      "end": 276.56,
+      "text": "is alive and running. If we want to have"
+    },
+    {
+      "start": 274.56,
+      "end": 278.8,
+      "text": "this stay alive for longer, then we can"
+    },
+    {
+      "start": 276.56,
+      "end": 281.2,
+      "text": "get an increased longer pan plan and"
+    },
+    {
+      "start": 278.8,
+      "end": 283.2,
+      "text": "that's paid. But on the free plan, we do"
+    },
+    {
+      "start": 281.2,
+      "end": 285.52,
+      "text": "get this. So, you can see I approve the"
+    },
+    {
+      "start": 283.2,
+      "end": 288.16,
+      "text": "plan. I see the preview right here of my"
+    },
+    {
+      "start": 285.52,
+      "end": 290.4,
+      "text": "website. It put the wrong person as me,"
+    },
+    {
+      "start": 288.16,
+      "end": 292.72,
+      "text": "but I can quickly fix that with a single"
+    },
+    {
+      "start": 290.4,
+      "end": 295.68,
+      "text": "follow-up prompt."
+    },
+    {
+      "start": 292.72,
+      "end": 298.88,
+      "text": "Please change this to a real picture of"
+    },
+    {
+      "start": 295.68,
+      "end": 300.48,
+      "text": "me. That's not me."
+    },
+    {
+      "start": 298.88,
+      "end": 302.24,
+      "text": "Now, it's got a real picture of me. It's"
+    },
+    {
+      "start": 300.48,
+      "end": 305.44,
+      "text": "a real living website. And we deployed"
+    },
+    {
+      "start": 302.24,
+      "end": 307.12,
+      "text": "this in under a few minutes with Replet."
+    },
+    {
+      "start": 305.44,
+      "end": 309.36,
+      "text": "All right, that was a great first start."
+    },
+    {
+      "start": 307.12,
+      "end": 311.52,
+      "text": "But there's so many different AIs out"
+    },
+    {
+      "start": 309.36,
+      "end": 313.52,
+      "text": "there. This can't be it, right? There"
+    },
+    {
+      "start": 311.52,
+      "end": 315.44,
+      "text": "can be more complex apps that we might"
+    },
+    {
+      "start": 313.52,
+      "end": 318.08,
+      "text": "want to make, whether it's in healthcare"
+    },
+    {
+      "start": 315.44,
+      "end": 319.68,
+      "text": "or finance or supply chain or sales or"
+    },
+    {
+      "start": 318.08,
+      "end": 321.28,
+      "text": "marketing or agriculture or"
+    },
+    {
+      "start": 319.68,
+      "end": 323.2,
+      "text": "sustainability. There's so many"
+    },
+    {
+      "start": 321.28,
+      "end": 325.44,
+      "text": "possibilities here of what we could"
+    },
+    {
+      "start": 323.2,
+      "end": 327.2,
+      "text": "build. And Replet alone might be great"
+    },
+    {
+      "start": 325.44,
+      "end": 329.12,
+      "text": "for beginners, but it's not really what"
+    },
+    {
+      "start": 327.2,
+      "end": 331.12,
+      "text": "the pros use, is it? So, let's take a"
+    },
+    {
+      "start": 329.12,
+      "end": 333.84,
+      "text": "look at the landscape of what AI really"
+    },
+    {
+      "start": 331.12,
+      "end": 336.16,
+      "text": "is today. And you can see that AI today"
+    },
+    {
+      "start": 333.84,
+      "end": 338.32,
+      "text": "is full of these apps that let you build"
+    },
+    {
+      "start": 336.16,
+      "end": 340.72,
+      "text": "anything. And there are these zero code"
+    },
+    {
+      "start": 338.32,
+      "end": 343.04,
+      "text": "app builders of which we just used one"
+    },
+    {
+      "start": 340.72,
+      "end": 346.24,
+      "text": "called Replet. And you have others like"
+    },
+    {
+      "start": 343.04,
+      "end": 348.08,
+      "text": "lovable and B 64 and Bolt. All of which"
+    },
+    {
+      "start": 346.24,
+      "end": 350.72,
+      "text": "do the same thing. They don't require"
+    },
+    {
+      "start": 348.08,
+      "end": 353.28,
+      "text": "any coding skills, but they don't let"
+    },
+    {
+      "start": 350.72,
+      "end": 355.84,
+      "text": "you really build complete applications."
+    },
+    {
+      "start": 353.28,
+      "end": 359.04,
+      "text": "There are apps for that like factory,"
+    },
+    {
+      "start": 355.84,
+      "end": 360.72,
+      "text": "like Devon, like data button, but those"
+    },
+    {
+      "start": 359.04,
+      "end": 362.4,
+      "text": "apps also have a flaw. They're not"
+    },
+    {
+      "start": 360.72,
+      "end": 365.04,
+      "text": "designed first. There are other apps"
+    },
+    {
+      "start": 362.4,
+      "end": 367.92,
+      "text": "that are design first like v0ero, framer"
+    },
+    {
+      "start": 365.04,
+      "end": 370.08,
+      "text": "and onlook. But what we want is"
+    },
+    {
+      "start": 367.92,
+      "end": 372.16,
+      "text": "something that is both design first and"
+    },
+    {
+      "start": 370.08,
+      "end": 374.08,
+      "text": "application complete. Something that is"
+    },
+    {
+      "start": 372.16,
+      "end": 375.92,
+      "text": "touring complete in its ability to"
+    },
+    {
+      "start": 374.08,
+      "end": 378.48,
+      "text": "create literally anything we can"
+    },
+    {
+      "start": 375.92,
+      "end": 381.04,
+      "text": "imagine. And that would be the AI coding"
+    },
+    {
+      "start": 378.48,
+      "end": 383.84,
+      "text": "assistance. Cursor, Windsurf, Claude"
+    },
+    {
+      "start": 381.04,
+      "end": 386.0,
+      "text": "Code, Gemini CLI. Those are the ones we"
+    },
+    {
+      "start": 383.84,
+      "end": 388.64,
+      "text": "want. And by far the most popular one"
+    },
+    {
+      "start": 386.0,
+      "end": 390.0,
+      "text": "out there today is Cursor. And what"
+    },
+    {
+      "start": 388.64,
+      "end": 392.08,
+      "text": "we're going to do today is we're going"
+    },
+    {
+      "start": 390.0,
+      "end": 394.8,
+      "text": "to rebuild this personal website of ours"
+    },
+    {
+      "start": 392.08,
+      "end": 397.12,
+      "text": "using the top three AIs out there inside"
+    },
+    {
+      "start": 394.8,
+      "end": 399.92,
+      "text": "of Cursor because Cursor allows you to"
+    },
+    {
+      "start": 397.12,
+      "end": 403.12,
+      "text": "switch between AIS really fast and"
+    },
+    {
+      "start": 399.92,
+      "end": 405.04,
+      "text": "simply. So what are the top three AIs in"
+    },
+    {
+      "start": 403.12,
+      "end": 407.28,
+      "text": "the world today? Well, if we go to LM"
+    },
+    {
+      "start": 405.04,
+      "end": 411.2,
+      "text": "Arena, we can see that today the top"
+    },
+    {
+      "start": 407.28,
+      "end": 412.72,
+      "text": "three AIS are no surprise number one"
+    },
+    {
+      "start": 411.2,
+      "end": 416.16,
+      "text": "GPT5,"
+    },
+    {
+      "start": 412.72,
+      "end": 419.6,
+      "text": "number two Claude Opus 4.1, and then you"
+    },
+    {
+      "start": 416.16,
+      "end": 422.64,
+      "text": "have Gemini 2.5 Pro. So, let's test out"
+    },
+    {
+      "start": 419.6,
+      "end": 424.96,
+      "text": "all three of those AIS in Cursor and see"
+    },
+    {
+      "start": 422.64,
+      "end": 427.36,
+      "text": "which one gets us a better personal"
+    },
+    {
+      "start": 424.96,
+      "end": 430.32,
+      "text": "website. So, the first step for us is to"
+    },
+    {
+      "start": 427.36,
+      "end": 432.56,
+      "text": "go to cursor.com and download this for"
+    },
+    {
+      "start": 430.32,
+      "end": 434.8,
+      "text": "our operating system. I've got a Mac, so"
+    },
+    {
+      "start": 432.56,
+      "end": 436.8,
+      "text": "I'll click download for MacOSS. I'll"
+    },
+    {
+      "start": 434.8,
+      "end": 439.28,
+      "text": "open it. I'll install it. And then I see"
+    },
+    {
+      "start": 436.8,
+      "end": 441.44,
+      "text": "the browser right here. Now, in cursor,"
+    },
+    {
+      "start": 439.28,
+      "end": 442.8,
+      "text": "I'm going to open up a new project. I'm"
+    },
+    {
+      "start": 441.44,
+      "end": 444.96,
+      "text": "going to give it a name. And it's going"
+    },
+    {
+      "start": 442.8,
+      "end": 447.68,
+      "text": "to be a new folder. And in it, I see the"
+    },
+    {
+      "start": 444.96,
+      "end": 450.8,
+      "text": "composer window with GPT5 ready for me"
+    },
+    {
+      "start": 447.68,
+      "end": 453.12,
+      "text": "to start prompting with. But remember, a"
+    },
+    {
+      "start": 450.8,
+      "end": 455.36,
+      "text": "real vibe coder doesn't just prompt"
+    },
+    {
+      "start": 453.12,
+      "end": 457.12,
+      "text": "right off the bat. They plan first. So,"
+    },
+    {
+      "start": 455.36,
+      "end": 458.56,
+      "text": "we can give it the same exact prompt"
+    },
+    {
+      "start": 457.12,
+      "end": 461.28,
+      "text": "that we gave it before. Build me a"
+    },
+    {
+      "start": 458.56,
+      "end": 463.12,
+      "text": "personal website. I'm Saja. just hit go."
+    },
+    {
+      "start": 461.28,
+      "end": 465.44,
+      "text": "But we want it to be better. So what do"
+    },
+    {
+      "start": 463.12,
+      "end": 468.32,
+      "text": "we do? We have to give it a plan. So in"
+    },
+    {
+      "start": 465.44,
+      "end": 470.88,
+      "text": "the context of AI idees of these coding"
+    },
+    {
+      "start": 468.32,
+      "end": 474.88,
+      "text": "agents, what does a plan look like? It"
+    },
+    {
+      "start": 470.88,
+      "end": 477.04,
+      "text": "looks like a well crafted markdown file."
+    },
+    {
+      "start": 474.88,
+      "end": 479.2,
+      "text": "What is markdown? Markdown is a language"
+    },
+    {
+      "start": 477.04,
+      "end": 480.96,
+      "text": "for describing information in a"
+    },
+    {
+      "start": 479.2,
+      "end": 483.28,
+      "text": "structured organized way. GitHub does"
+    },
+    {
+      "start": 480.96,
+      "end": 486.32,
+      "text": "this in the readme section and we can do"
+    },
+    {
+      "start": 483.28,
+      "end": 489.2,
+      "text": "this in cursor by going to file and"
+    },
+    {
+      "start": 486.32,
+      "end": 492.0,
+      "text": "going to settings cursor settings. And"
+    },
+    {
+      "start": 489.2,
+      "end": 493.92,
+      "text": "in cursor settings, we see rules. And in"
+    },
+    {
+      "start": 492.0,
+      "end": 496.0,
+      "text": "this, we see our cursor rules. Cursor"
+    },
+    {
+      "start": 493.92,
+      "end": 498.24,
+      "text": "rules are the rules that your system"
+    },
+    {
+      "start": 496.0,
+      "end": 500.8,
+      "text": "follows for everything that you build."
+    },
+    {
+      "start": 498.24,
+      "end": 502.16,
+      "text": "And in this case, it's going to be this"
+    },
+    {
+      "start": 500.8,
+      "end": 503.68,
+      "text": "set of rules. I'm going to give you my"
+    },
+    {
+      "start": 502.16,
+      "end": 505.52,
+      "text": "cursor rules. I want you to steal them."
+    },
+    {
+      "start": 503.68,
+      "end": 508.4,
+      "text": "I use them to build everything. They're"
+    },
+    {
+      "start": 505.52,
+      "end": 511.6,
+      "text": "very useful. You are a senior full stack"
+    },
+    {
+      "start": 508.4,
+      "end": 514.0,
+      "text": "developer with deep expertise in Python,"
+    },
+    {
+      "start": 511.6,
+      "end": 516.24,
+      "text": "Flask for web development, Firebase for"
+    },
+    {
+      "start": 514.0,
+      "end": 518.0,
+      "text": "storage, OpenAI for AI, scalable"
+    },
+    {
+      "start": 516.24,
+      "end": 520.32,
+      "text": "patterns, and then front end as well."
+    },
+    {
+      "start": 518.0,
+      "end": 521.92,
+      "text": "React, next, all these tools. And by"
+    },
+    {
+      "start": 520.32,
+      "end": 524.56,
+      "text": "giving cursor these tools in the"
+    },
+    {
+      "start": 521.92,
+      "end": 526.08,
+      "text": "instruction set, it creates a plan of"
+    },
+    {
+      "start": 524.56,
+      "end": 528.24,
+      "text": "what it's going to build in the first"
+    },
+    {
+      "start": 526.08,
+      "end": 530.96,
+      "text": "place, what text stack it needs to use"
+    },
+    {
+      "start": 528.24,
+      "end": 532.8,
+      "text": "because there are so many out there. And"
+    },
+    {
+      "start": 530.96,
+      "end": 534.88,
+      "text": "now that we've given it this tool set,"
+    },
+    {
+      "start": 532.8,
+      "end": 536.96,
+      "text": "this instruction set in the cursor rule"
+    },
+    {
+      "start": 534.88,
+      "end": 540.08,
+      "text": "file, now we can give it the prompt. And"
+    },
+    {
+      "start": 536.96,
+      "end": 542.4,
+      "text": "let's hit go. And now you can see cursor"
+    },
+    {
+      "start": 540.08,
+      "end": 545.36,
+      "text": "building that website in real time using"
+    },
+    {
+      "start": 542.4,
+      "end": 547.52,
+      "text": "the tools with GPT5. Now you might not"
+    },
+    {
+      "start": 545.36,
+      "end": 549.2,
+      "text": "like those tools that I used here. You"
+    },
+    {
+      "start": 547.52,
+      "end": 551.28,
+      "text": "might have your own set of cursor"
+    },
+    {
+      "start": 549.2,
+      "end": 553.52,
+      "text": "instructions that you want to use. And"
+    },
+    {
+      "start": 551.28,
+      "end": 555.76,
+      "text": "the best way to go get those is to go to"
+    },
+    {
+      "start": 553.52,
+      "end": 559.04,
+      "text": "cursor.directory.com"
+    },
+    {
+      "start": 555.76,
+      "end": 560.96,
+      "text": "and you can find tools for any use case"
+    },
+    {
+      "start": 559.04,
+      "end": 562.88,
+      "text": "you can imagine, any tech stack you can"
+    },
+    {
+      "start": 560.96,
+      "end": 564.4,
+      "text": "imagine. It's all there for free. And"
+    },
+    {
+      "start": 562.88,
+      "end": 566.72,
+      "text": "that's one of the reasons why Cursor is"
+    },
+    {
+      "start": 564.4,
+      "end": 568.16,
+      "text": "getting so big. The community is so"
+    },
+    {
+      "start": 566.72,
+      "end": 570.16,
+      "text": "massive. There's so much open source"
+    },
+    {
+      "start": 568.16,
+      "end": 572.48,
+      "text": "documentation. Everyone's sharing their"
+    },
+    {
+      "start": 570.16,
+      "end": 574.96,
+      "text": "experiences, which is great. I I love"
+    },
+    {
+      "start": 572.48,
+      "end": 577.52,
+      "text": "that about Cursor. So, you can see that"
+    },
+    {
+      "start": 574.96,
+      "end": 580.08,
+      "text": "it's created this plan first. It's got"
+    },
+    {
+      "start": 577.52,
+      "end": 582.88,
+      "text": "this rough preview out there of my"
+    },
+    {
+      "start": 580.08,
+      "end": 584.72,
+      "text": "website. It looks okay. Uh, I like it"
+    },
+    {
+      "start": 582.88,
+      "end": 586.48,
+      "text": "actually. So, why not just deploy it"
+    },
+    {
+      "start": 584.72,
+      "end": 587.76,
+      "text": "right off the bat? So, the next thing"
+    },
+    {
+      "start": 586.48,
+      "end": 589.6,
+      "text": "I'm going to do is I'm going to ask it"
+    },
+    {
+      "start": 587.76,
+      "end": 591.92,
+      "text": "to deploy it. And that brings up the"
+    },
+    {
+      "start": 589.6,
+      "end": 593.44,
+      "text": "great question, where do I deploy it to?"
+    },
+    {
+      "start": 591.92,
+      "end": 595.28,
+      "text": "What does that even mean? It means"
+    },
+    {
+      "start": 593.44,
+      "end": 598.48,
+      "text": "putting your website on the internet so"
+    },
+    {
+      "start": 595.28,
+      "end": 600.56,
+      "text": "anyone can see it. GTFO localhost. Local"
+    },
+    {
+      "start": 598.48,
+      "end": 602.88,
+      "text": "host is your computer. You want to get"
+    },
+    {
+      "start": 600.56,
+      "end": 604.64,
+      "text": "your AIS off of it onto the web. So,"
+    },
+    {
+      "start": 602.88,
+      "end": 606.64,
+      "text": "where do you push it to? Well, what I"
+    },
+    {
+      "start": 604.64,
+      "end": 608.64,
+      "text": "like to use is Heroku because I've been"
+    },
+    {
+      "start": 606.64,
+      "end": 611.2,
+      "text": "using it for over a decade, but that's"
+    },
+    {
+      "start": 608.64,
+      "end": 613.44,
+      "text": "not the best one necessarily. Versell"
+    },
+    {
+      "start": 611.2,
+      "end": 615.2,
+      "text": "might be the best one. Netlefi is"
+    },
+    {
+      "start": 613.44,
+      "end": 616.72,
+      "text": "another good one. And there's a couple"
+    },
+    {
+      "start": 615.2,
+      "end": 618.8,
+      "text": "other good ones, but I would say Versel"
+    },
+    {
+      "start": 616.72,
+      "end": 620.64,
+      "text": "is probably the best one to get started."
+    },
+    {
+      "start": 618.8,
+      "end": 623.2,
+      "text": "They're all command line tools. What"
+    },
+    {
+      "start": 620.64,
+      "end": 625.2,
+      "text": "that means is that cursor can use them."
+    },
+    {
+      "start": 623.2,
+      "end": 627.28,
+      "text": "So, I'm just going to in a prompt say,"
+    },
+    {
+      "start": 625.2,
+      "end": 630.0,
+      "text": "\"Please now ship this to the web using"
+    },
+    {
+      "start": 627.28,
+      "end": 632.4,
+      "text": "Heroku because it knows to use Heroku in"
+    },
+    {
+      "start": 630.0,
+      "end": 634.24,
+      "text": "my rules because that's part of the plan"
+    },
+    {
+      "start": 632.4,
+      "end": 636.16,
+      "text": "before I prompt it.\" Now, I'll hit"
+    },
+    {
+      "start": 634.24,
+      "end": 638.0,
+      "text": "enter."
+    },
+    {
+      "start": 636.16,
+      "end": 640.72,
+      "text": "And now it's going to deploy to Heroku."
+    },
+    {
+      "start": 638.0,
+      "end": 643.52,
+      "text": "It's creating a new app on Heroku. Here"
+    },
+    {
+      "start": 640.72,
+      "end": 645.76,
+      "text": "is the live link."
+    },
+    {
+      "start": 643.52,
+      "end": 647.84,
+      "text": "And now I see the live link for Heroku."
+    },
+    {
+      "start": 645.76,
+      "end": 650.08,
+      "text": "I can see it right here. And there's the"
+    },
+    {
+      "start": 647.84,
+      "end": 652.0,
+      "text": "website. That's great for Chad GBT. I"
+    },
+    {
+      "start": 650.08,
+      "end": 653.76,
+      "text": "would give that an 8 out of 10. But now"
+    },
+    {
+      "start": 652.0,
+      "end": 655.92,
+      "text": "let's see how Gemini does. So we're"
+    },
+    {
+      "start": 653.76,
+      "end": 658.08,
+      "text": "going to open up a new window and type"
+    },
+    {
+      "start": 655.92,
+      "end": 660.8,
+      "text": "in Gemini. And then we're going to see"
+    },
+    {
+      "start": 658.08,
+      "end": 663.2,
+      "text": "how well Gemini does compared to cursor."
+    },
+    {
+      "start": 660.8,
+      "end": 665.04,
+      "text": "So give it the same prompt and hit"
+    },
+    {
+      "start": 663.2,
+      "end": 667.52,
+      "text": "enter. Now I want to talk about"
+    },
+    {
+      "start": 665.04,
+      "end": 669.28,
+      "text": "something else. So you'll notice that as"
+    },
+    {
+      "start": 667.52,
+      "end": 671.2,
+      "text": "Gemini's been building this, it fell"
+    },
+    {
+      "start": 669.28,
+      "end": 672.64,
+      "text": "into an error and I'm going to have to"
+    },
+    {
+      "start": 671.2,
+      "end": 675.12,
+      "text": "fix that because the page is not"
+    },
+    {
+      "start": 672.64,
+      "end": 677.6,
+      "text": "loading. Now this happens very often and"
+    },
+    {
+      "start": 675.12,
+      "end": 680.32,
+      "text": "it puts us into the next phase of vibe"
+    },
+    {
+      "start": 677.6,
+      "end": 682.96,
+      "text": "coding which is vibe debugging. And vibe"
+    },
+    {
+      "start": 680.32,
+      "end": 684.72,
+      "text": "debugging is super painful. It by the"
+    },
+    {
+      "start": 682.96,
+      "end": 686.72,
+      "text": "11th hour, you could be cursing cursor"
+    },
+    {
+      "start": 684.72,
+      "end": 688.72,
+      "text": "out. And we don't want that. We want to"
+    },
+    {
+      "start": 686.72,
+      "end": 691.36,
+      "text": "be nice to our AIs because we want to"
+    },
+    {
+      "start": 688.72,
+      "end": 693.28,
+      "text": "treat them as co-workers. So, how do we"
+    },
+    {
+      "start": 691.36,
+      "end": 695.6,
+      "text": "do this? Well, we do what's called the"
+    },
+    {
+      "start": 693.28,
+      "end": 698.16,
+      "text": "vibe loop. I've called it the vibe loop."
+    },
+    {
+      "start": 695.6,
+      "end": 700.48,
+      "text": "You prompt, then you run, then it"
+    },
+    {
+      "start": 698.16,
+      "end": 704.32,
+      "text": "breaks, then you fix it, and then you"
+    },
+    {
+      "start": 700.48,
+      "end": 706.72,
+      "text": "repeat. Prompt, run, break, fix, repeat."
+    },
+    {
+      "start": 704.32,
+      "end": 709.44,
+      "text": "Okay, you get the picture. Prompt, run,"
+    },
+    {
+      "start": 706.72,
+      "end": 712.08,
+      "text": "break, fix, repeat. It's all vibes. It's"
+    },
+    {
+      "start": 709.44,
+      "end": 713.84,
+      "text": "vibes, right? That's how this works. We"
+    },
+    {
+      "start": 712.08,
+      "end": 715.92,
+      "text": "don't get mad at the AIS and there are"
+    },
+    {
+      "start": 713.84,
+      "end": 718.48,
+      "text": "best practices. This is a new emerging"
+    },
+    {
+      "start": 715.92,
+      "end": 720.4,
+      "text": "field of vibe debugging, but it is"
+    },
+    {
+      "start": 718.48,
+      "end": 722.64,
+      "text": "legitimate and it can get frustrating,"
+    },
+    {
+      "start": 720.4,
+      "end": 725.12,
+      "text": "but you just need to keep following the"
+    },
+    {
+      "start": 722.64,
+      "end": 727.28,
+      "text": "process. And that's how the AI is going"
+    },
+    {
+      "start": 725.12,
+      "end": 728.88,
+      "text": "to build things."
+    },
+    {
+      "start": 727.28,
+      "end": 731.36,
+      "text": "And so, I'm going to tell it, hey"
+    },
+    {
+      "start": 728.88,
+      "end": 733.6,
+      "text": "Gemini, this page is not loading. I want"
+    },
+    {
+      "start": 731.36,
+      "end": 735.36,
+      "text": "you to make this better. Can you take"
+    },
+    {
+      "start": 733.6,
+      "end": 738.48,
+      "text": "what you see here and put that into the"
+    },
+    {
+      "start": 735.36,
+      "end": 741.52,
+      "text": "prompt so that you fix it? And I'm going"
+    },
+    {
+      "start": 738.48,
+      "end": 743.44,
+      "text": "to give it the console log"
+    },
+    {
+      "start": 741.52,
+      "end": 745.68,
+      "text": "and I'll ask it to fix it. Literally,"
+    },
+    {
+      "start": 743.44,
+      "end": 749.28,
+      "text": "this is Vibe debugging. Now, Gemini is"
+    },
+    {
+      "start": 745.68,
+      "end": 751.12,
+      "text": "fixing it based on what I saw. Now, this"
+    },
+    {
+      "start": 749.28,
+      "end": 753.44,
+      "text": "could actually be made better rather"
+    },
+    {
+      "start": 751.12,
+      "end": 755.04,
+      "text": "than me having to look manually at the"
+    },
+    {
+      "start": 753.44,
+      "end": 756.8,
+      "text": "browser and say, \"Hey, this is not"
+    },
+    {
+      "start": 755.04,
+      "end": 758.88,
+      "text": "working.\" And then tell the AI and"
+    },
+    {
+      "start": 756.8,
+      "end": 761.04,
+      "text": "cursor to fix it. What if the AI could"
+    },
+    {
+      "start": 758.88,
+      "end": 763.36,
+      "text": "do that? And there is a way for the AI"
+    },
+    {
+      "start": 761.04,
+      "end": 766.0,
+      "text": "to do that as part of the Vibe debugging"
+    },
+    {
+      "start": 763.36,
+      "end": 767.84,
+      "text": "process. It's called using a model"
+    },
+    {
+      "start": 766.0,
+      "end": 770.48,
+      "text": "context protocol. You might have heard"
+    },
+    {
+      "start": 767.84,
+      "end": 773.04,
+      "text": "this term, the MCP. MCP servers are"
+    },
+    {
+      "start": 770.48,
+      "end": 776.08,
+      "text": "taking over the internet. MCP servers"
+    },
+    {
+      "start": 773.04,
+      "end": 777.76,
+      "text": "are a USB plug for AIS. They allow AIS"
+    },
+    {
+      "start": 776.08,
+      "end": 780.56,
+      "text": "to talk to each other and to talk to"
+    },
+    {
+      "start": 777.76,
+      "end": 782.72,
+      "text": "different data sources in a modular way."
+    },
+    {
+      "start": 780.56,
+      "end": 784.64,
+      "text": "And what we're going to use is an MCP"
+    },
+    {
+      "start": 782.72,
+      "end": 786.96,
+      "text": "for something called Playright. And"
+    },
+    {
+      "start": 784.64,
+      "end": 789.36,
+      "text": "Playright is a tool that lets you"
+    },
+    {
+      "start": 786.96,
+      "end": 792.0,
+      "text": "control your browser. So, Playright is a"
+    },
+    {
+      "start": 789.36,
+      "end": 794.56,
+      "text": "JavaScript tool that lets an AI control"
+    },
+    {
+      "start": 792.0,
+      "end": 795.6,
+      "text": "a browser through its MCP. So, what"
+    },
+    {
+      "start": 794.56,
+      "end": 798.64,
+      "text": "we're going to do is we're going to give"
+    },
+    {
+      "start": 795.6,
+      "end": 800.8,
+      "text": "cursor access to the Playright MCP so"
+    },
+    {
+      "start": 798.64,
+      "end": 803.6,
+      "text": "that it can look at the browser and"
+    },
+    {
+      "start": 800.8,
+      "end": 805.36,
+      "text": "debug its own code for us. So, if we go"
+    },
+    {
+      "start": 803.6,
+      "end": 808.16,
+      "text": "to the Playright website, we can see"
+    },
+    {
+      "start": 805.36,
+      "end": 809.76,
+      "text": "that it has an MCP server. And under the"
+    },
+    {
+      "start": 808.16,
+      "end": 812.4,
+      "text": "instructions, we can see how to add it"
+    },
+    {
+      "start": 809.76,
+      "end": 814.8,
+      "text": "to cursor. So, we see this JSON file."
+    },
+    {
+      "start": 812.4,
+      "end": 817.12,
+      "text": "We'll copy it. We'll go to cursor. We'll"
+    },
+    {
+      "start": 814.8,
+      "end": 820.48,
+      "text": "go to tools and integrations. You see"
+    },
+    {
+      "start": 817.12,
+      "end": 822.48,
+      "text": "add new MCP server. We'll paste it in."
+    },
+    {
+      "start": 820.48,
+      "end": 825.44,
+      "text": "And there it is. Now we've added"
+    },
+    {
+      "start": 822.48,
+      "end": 827.44,
+      "text": "Playright to Gemini. So now it can debug"
+    },
+    {
+      "start": 825.44,
+      "end": 830.08,
+      "text": "using it. So let's see how it works."
+    },
+    {
+      "start": 827.44,
+      "end": 832.08,
+      "text": "Please now use Playright to debug the"
+    },
+    {
+      "start": 830.08,
+      "end": 834.4,
+      "text": "website yourself so that I don't have to"
+    },
+    {
+      "start": 832.08,
+      "end": 836.96,
+      "text": "help you."
+    },
+    {
+      "start": 834.4,
+      "end": 839.2,
+      "text": "Now it's actually debugging itself using"
+    },
+    {
+      "start": 836.96,
+      "end": 841.76,
+      "text": "Playright. Pretty cool, right? So I"
+    },
+    {
+      "start": 839.2,
+      "end": 843.84,
+      "text": "would give Gemini a seven out of 10. I"
+    },
+    {
+      "start": 841.76,
+      "end": 846.32,
+      "text": "would say GBT5 was better because it"
+    },
+    {
+      "start": 843.84,
+      "end": 848.4,
+      "text": "still needed that MCP help. uh whereas"
+    },
+    {
+      "start": 846.32,
+      "end": 850.8,
+      "text": "GPT5 didn't. But let's see how Claude"
+    },
+    {
+      "start": 848.4,
+      "end": 852.48,
+      "text": "does now. Now I could use Claude code in"
+    },
+    {
+      "start": 850.8,
+      "end": 854.72,
+      "text": "cursor like everybody else. It's right"
+    },
+    {
+      "start": 852.48,
+      "end": 857.28,
+      "text": "there. Anthropic released its own"
+    },
+    {
+      "start": 854.72,
+      "end": 860.48,
+      "text": "dedicated developer tool called Claude"
+    },
+    {
+      "start": 857.28,
+      "end": 862.8,
+      "text": "Code. And we can just use Claude code"
+    },
+    {
+      "start": 860.48,
+      "end": 864.72,
+      "text": "instead of cursor because by far the"
+    },
+    {
+      "start": 862.8,
+      "end": 866.4,
+      "text": "reviews show that people love Claude"
+    },
+    {
+      "start": 864.72,
+      "end": 868.16,
+      "text": "code even more than cursor when it comes"
+    },
+    {
+      "start": 866.4,
+      "end": 869.76,
+      "text": "to Claude. And if you think about it, it"
+    },
+    {
+      "start": 868.16,
+      "end": 871.84,
+      "text": "makes sense. Anthropic created the"
+    },
+    {
+      "start": 869.76,
+      "end": 873.76,
+      "text": "model. Just let them create the entire"
+    },
+    {
+      "start": 871.84,
+      "end": 875.76,
+      "text": "environment themselves. like they have"
+    },
+    {
+      "start": 873.76,
+      "end": 877.36,
+      "text": "the holistic view and the data already"
+    },
+    {
+      "start": 875.76,
+      "end": 878.88,
+      "text": "to create that environment. Of course,"
+    },
+    {
+      "start": 877.36,
+      "end": 881.12,
+      "text": "they're going to out compete cursor at"
+    },
+    {
+      "start": 878.88,
+      "end": 883.28,
+      "text": "their own game. It's their model. So, we"
+    },
+    {
+      "start": 881.12,
+      "end": 886.0,
+      "text": "can download claude code pretty easily."
+    },
+    {
+      "start": 883.28,
+      "end": 887.6,
+      "text": "Although claude code is paid um we can"
+    },
+    {
+      "start": 886.0,
+      "end": 889.44,
+      "text": "download cla code pretty easily on the"
+    },
+    {
+      "start": 887.6,
+      "end": 892.56,
+      "text": "website. You have to have the pro plan."
+    },
+    {
+      "start": 889.44,
+      "end": 894.72,
+      "text": "I have it and you can open up it up in"
+    },
+    {
+      "start": 892.56,
+      "end": 897.12,
+      "text": "the terminal or even in cursor. We can"
+    },
+    {
+      "start": 894.72,
+      "end": 899.04,
+      "text": "open up claude code in cursor. That's"
+    },
+    {
+      "start": 897.12,
+      "end": 900.64,
+      "text": "pretty cool, right? And we'll type in"
+    },
+    {
+      "start": 899.04,
+      "end": 903.36,
+      "text": "claude"
+    },
+    {
+      "start": 900.64,
+      "end": 905.28,
+      "text": "and give it that prompt."
+    },
+    {
+      "start": 903.36,
+      "end": 907.2,
+      "text": "and hit run. Now, it's going to do the"
+    },
+    {
+      "start": 905.28,
+      "end": 909.44,
+      "text": "same thing as it would in cursor except"
+    },
+    {
+      "start": 907.2,
+      "end": 911.6,
+      "text": "in the terminal. And we can run clawed"
+    },
+    {
+      "start": 909.44,
+      "end": 912.72,
+      "text": "code in cursor as well in a terminal"
+    },
+    {
+      "start": 911.6,
+      "end": 914.96,
+      "text": "window. So, it's not really that"
+    },
+    {
+      "start": 912.72,
+      "end": 916.96,
+      "text": "different. It's just a question of rate"
+    },
+    {
+      "start": 914.96,
+      "end": 918.8,
+      "text": "limits and spending money. We don't want"
+    },
+    {
+      "start": 916.96,
+      "end": 920.4,
+      "text": "to overspend, which is going to bring us"
+    },
+    {
+      "start": 918.8,
+      "end": 921.6,
+      "text": "to the traps part at the end of the"
+    },
+    {
+      "start": 920.4,
+      "end": 923.68,
+      "text": "video, which I definitely want to talk"
+    },
+    {
+      "start": 921.6,
+      "end": 926.08,
+      "text": "about later. And one more thing I want"
+    },
+    {
+      "start": 923.68,
+      "end": 928.0,
+      "text": "to talk about with claude code is that I"
+    },
+    {
+      "start": 926.08,
+      "end": 930.4,
+      "text": "don't like to just sit at my computer"
+    },
+    {
+      "start": 928.0,
+      "end": 932.8,
+      "text": "sedentary and code. That is the past."
+    },
+    {
+      "start": 930.4,
+      "end": 935.36,
+      "text": "The future is vibe coding. The future is"
+    },
+    {
+      "start": 932.8,
+      "end": 937.92,
+      "text": "vibe walking. What I like to do is I"
+    },
+    {
+      "start": 935.36,
+      "end": 940.08,
+      "text": "like to use my meta glasses to record my"
+    },
+    {
+      "start": 937.92,
+      "end": 942.48,
+      "text": "voice in real time via Bluetooth. These"
+    },
+    {
+      "start": 940.08,
+      "end": 945.6,
+      "text": "are bone conducting. And I connect it to"
+    },
+    {
+      "start": 942.48,
+      "end": 948.72,
+      "text": "my phone and I use a tool called Vibe"
+    },
+    {
+      "start": 945.6,
+      "end": 951.12,
+      "text": "Tunnel to tunnel claude code to my code."
+    },
+    {
+      "start": 948.72,
+      "end": 952.96,
+      "text": "So you can see right here vibetunnel.sh."
+    },
+    {
+      "start": 951.12,
+      "end": 956.56,
+      "text": "This was an open- source tool created by"
+    },
+    {
+      "start": 952.96,
+      "end": 959.52,
+      "text": "a awesome group of developers to tunnel"
+    },
+    {
+      "start": 956.56,
+      "end": 962.0,
+      "text": "cloud code from their desktop to their"
+    },
+    {
+      "start": 959.52,
+      "end": 964.8,
+      "text": "phone via the web. So, it exposes your"
+    },
+    {
+      "start": 962.0,
+      "end": 966.72,
+      "text": "cloud code to a public website URL that"
+    },
+    {
+      "start": 964.8,
+      "end": 968.56,
+      "text": "you can access on your phone and then"
+    },
+    {
+      "start": 966.72,
+      "end": 970.56,
+      "text": "you can talk to it via Bluetooth. So,"
+    },
+    {
+      "start": 968.56,
+      "end": 973.92,
+      "text": "you can be walking and coding at the"
+    },
+    {
+      "start": 970.56,
+      "end": 975.76,
+      "text": "same time. And so, this is the future of"
+    },
+    {
+      "start": 973.92,
+      "end": 978.72,
+      "text": "creation. We don't just want to be"
+    },
+    {
+      "start": 975.76,
+      "end": 980.4,
+      "text": "sedentary. We can do both."
+    },
+    {
+      "start": 978.72,
+      "end": 983.04,
+      "text": "And back to Claude Code, we can see that"
+    },
+    {
+      "start": 980.4,
+      "end": 984.24,
+      "text": "Claude Code did a great website. It It's"
+    },
+    {
+      "start": 983.04,
+      "end": 986.0,
+      "text": "good enough. In fact, I would say it's"
+    },
+    {
+      "start": 984.24,
+      "end": 988.24,
+      "text": "even better than GPT5. I would give"
+    },
+    {
+      "start": 986.0,
+      "end": 990.0,
+      "text": "Claude Code probably a 10 out of 10 in"
+    },
+    {
+      "start": 988.24,
+      "end": 991.84,
+      "text": "in this regard. So So great job,"
+    },
+    {
+      "start": 990.0,
+      "end": 994.0,
+      "text": "Anthropic. Now, there are definitely"
+    },
+    {
+      "start": 991.84,
+      "end": 996.32,
+      "text": "some traps to avoid here. The first one"
+    },
+    {
+      "start": 994.0,
+      "end": 998.0,
+      "text": "is having a giant prompt. Look, I know"
+    },
+    {
+      "start": 996.32,
+      "end": 999.92,
+      "text": "how"
+    },
+    {
+      "start": 998.0,
+      "end": 1002.0,
+      "text": "enticing it is to want to just create"
+    },
+    {
+      "start": 999.92,
+      "end": 1003.84,
+      "text": "one giant prompt for your application."
+    },
+    {
+      "start": 1002.0,
+      "end": 1005.6,
+      "text": "That's what all the AI YouTubers are"
+    },
+    {
+      "start": 1003.84,
+      "end": 1008.24,
+      "text": "saying that it's easy to do. It's not."
+    },
+    {
+      "start": 1005.6,
+      "end": 1010.48,
+      "text": "You want to have small modular prompts"
+    },
+    {
+      "start": 1008.24,
+      "end": 1012.4,
+      "text": "for every feature that you want or else"
+    },
+    {
+      "start": 1010.48,
+      "end": 1015.36,
+      "text": "your app is going to be brittle and you"
+    },
+    {
+      "start": 1012.4,
+      "end": 1017.6,
+      "text": "don't want that. Small modular prompts"
+    },
+    {
+      "start": 1015.36,
+      "end": 1019.2,
+      "text": "for every feature one at a time. Not one"
+    },
+    {
+      "start": 1017.6,
+      "end": 1021.6,
+      "text": "giant prompt. Build the entire thing end"
+    },
+    {
+      "start": 1019.2,
+      "end": 1023.12,
+      "text": "to end. It's good to do that for a quick"
+    },
+    {
+      "start": 1021.6,
+      "end": 1025.12,
+      "text": "app in the beginning like a personal"
+    },
+    {
+      "start": 1023.12,
+      "end": 1027.2,
+      "text": "website. But for anything fullfeatured"
+    },
+    {
+      "start": 1025.12,
+      "end": 1029.36,
+      "text": "where you have users and authentication,"
+    },
+    {
+      "start": 1027.2,
+      "end": 1031.2,
+      "text": "small prompts one at a time. The second"
+    },
+    {
+      "start": 1029.36,
+      "end": 1034.08,
+      "text": "trap to avoid is fear of breaking"
+    },
+    {
+      "start": 1031.2,
+      "end": 1037.36,
+      "text": "things. Don't be afraid. This is a"
+    },
+    {
+      "start": 1034.08,
+      "end": 1040.0,
+      "text": "renaissance. This is literally a new"
+    },
+    {
+      "start": 1037.36,
+      "end": 1041.84,
+      "text": "era, a revolution. Everyone can code and"
+    },
+    {
+      "start": 1040.0,
+      "end": 1043.52,
+      "text": "create things now. Even if you have no"
+    },
+    {
+      "start": 1041.84,
+      "end": 1045.84,
+      "text": "experience, you need to be building"
+    },
+    {
+      "start": 1043.52,
+      "end": 1047.6,
+      "text": "this. You, you, you right there, you"
+    },
+    {
+      "start": 1045.84,
+      "end": 1049.6,
+      "text": "need to be building today with Cloud"
+    },
+    {
+      "start": 1047.6,
+      "end": 1051.28,
+      "text": "Code. There is no excuse. This stuff is"
+    },
+    {
+      "start": 1049.6,
+      "end": 1053.28,
+      "text": "free. I just showed you how. And the"
+    },
+    {
+      "start": 1051.28,
+      "end": 1055.52,
+      "text": "third thing before you go anywhere is AI"
+    },
+    {
+      "start": 1053.28,
+      "end": 1056.72,
+      "text": "addiction. There are legitimate people"
+    },
+    {
+      "start": 1055.52,
+      "end": 1058.56,
+      "text": "addicted to this stuff. There was a"
+    },
+    {
+      "start": 1056.72,
+      "end": 1060.32,
+      "text": "Claude code anonymous meetup that just"
+    },
+    {
+      "start": 1058.56,
+      "end": 1062.32,
+      "text": "happened in London. I talked to a friend"
+    },
+    {
+      "start": 1060.32,
+      "end": 1064.88,
+      "text": "of mine who might be addicted to Claude"
+    },
+    {
+      "start": 1062.32,
+      "end": 1066.96,
+      "text": "Code. This is a real thing. And we need"
+    },
+    {
+      "start": 1064.88,
+      "end": 1068.8,
+      "text": "to be aware of this because you can lose"
+    },
+    {
+      "start": 1066.96,
+      "end": 1072.32,
+      "text": "time and money on these tools if you're"
+    },
+    {
+      "start": 1068.8,
+      "end": 1074.16,
+      "text": "not systematic about them about planning"
+    },
+    {
+      "start": 1072.32,
+      "end": 1076.8,
+      "text": "before you prompt. Remember the three"
+    },
+    {
+      "start": 1074.16,
+      "end": 1078.96,
+      "text": "Ps, plan, prompt, and polish. And the"
+    },
+    {
+      "start": 1076.8,
+      "end": 1080.8,
+      "text": "fourth is AI slop. There's this idea"
+    },
+    {
+      "start": 1078.96,
+      "end": 1083.2,
+      "text": "going around about the dead internet"
+    },
+    {
+      "start": 1080.8,
+      "end": 1084.8,
+      "text": "theory. And yes, the internet can be"
+    },
+    {
+      "start": 1083.2,
+      "end": 1087.6,
+      "text": "dead if we're all out there putting"
+    },
+    {
+      "start": 1084.8,
+      "end": 1090.48,
+      "text": "slop, but it can be alive if we put out"
+    },
+    {
+      "start": 1087.6,
+      "end": 1092.48,
+      "text": "real art that is meaningful to us. So"
+    },
+    {
+      "start": 1090.48,
+      "end": 1094.32,
+      "text": "all that is to say is vibe code"
+    },
+    {
+      "start": 1092.48,
+      "end": 1096.72,
+      "text": "responsibly, please. But and but"
+    },
+    {
+      "start": 1094.32,
+      "end": 1099.6,
+      "text": "nonetheless, please vibe code today. The"
+    },
+    {
+      "start": 1096.72,
+      "end": 1102.32,
+      "text": "excuses are over. And I want you to"
+    },
+    {
+      "start": 1099.6,
+      "end": 1104.32,
+      "text": "share your vibecoded website in the"
+    },
+    {
+      "start": 1102.32,
+      "end": 1106.32,
+      "text": "comments section, please, because I want"
+    },
+    {
+      "start": 1104.32,
+      "end": 1107.6,
+      "text": "to see it. Uh if you like this video,"
+    },
+    {
+      "start": 1106.32,
+      "end": 1109.04,
+      "text": "make sure to hit the like button. That's"
+    },
+    {
+      "start": 1107.6,
+      "end": 1111.92,
+      "text": "what gets the algorithm to push it"
+    },
+    {
+      "start": 1109.04,
+      "end": 1114.92,
+      "text": "forward. And until next time, happy"
+    },
+    {
+      "start": 1111.92,
+      "end": 1114.92,
+      "text": "vibing."
+    }
+  ],
+  "word_count": 3557,
+  "fetched_at": "2025-12-21T02:20:29.293094Z"
+}

@@ -1,0 +1,149 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "Hey Rocky, great to have you here. >> Hey, so can you tell me what's new with voice? >> Absolutely. Voice is now built right into our chat, so you get a live transcript as we talk. Plus, I can show you things like maps, weather, and more in real time. >> Okay. Okay. Can you show me a map of the best bakeries in the Mission District? [music] >> Sure. Here's a map of the top bakeries in the Mission District. As you'd expect, Tartine is right up there as a favorite. >> Tartine. Okay. What kind of pastries do they have? [music] >> So, at Tartine, they've got some beloved pastries like their morning butter, which is buttery and cinnamon sweet, classic flaky croissants, rich pano chocolat, and even a fran Japan croissant filled with almond cream. >> Sorry, how do you pronounce that one? The fran. >> Yeah, no problem. It's pronounced franapan. So, kind of like fran. >> Okay, amazing. Thank you.",
+  "segments": [
+    {
+      "start": 4.32,
+      "end": 8.56,
+      "text": "Hey Rocky, great to have you here."
+    },
+    {
+      "start": 6.64,
+      "end": 10.08,
+      "text": ">> Hey, so can you tell me what's new with"
+    },
+    {
+      "start": 8.56,
+      "end": 12.08,
+      "text": "voice?"
+    },
+    {
+      "start": 10.08,
+      "end": 13.68,
+      "text": ">> Absolutely. Voice is now built right"
+    },
+    {
+      "start": 12.08,
+      "end": 15.6,
+      "text": "into our chat, so you get a live"
+    },
+    {
+      "start": 13.68,
+      "end": 17.52,
+      "text": "transcript as we talk. Plus, I can show"
+    },
+    {
+      "start": 15.6,
+      "end": 18.48,
+      "text": "you things like maps, weather, and more"
+    },
+    {
+      "start": 17.52,
+      "end": 20.88,
+      "text": "in real time."
+    },
+    {
+      "start": 18.48,
+      "end": 24.23,
+      "text": ">> Okay. Okay. Can you show me a map of the"
+    },
+    {
+      "start": 20.88,
+      "end": 26.24,
+      "text": "best bakeries in the Mission District?"
+    },
+    {
+      "start": 24.23,
+      "end": 28.32,
+      "text": "[music]"
+    },
+    {
+      "start": 26.24,
+      "end": 29.84,
+      "text": ">> Sure. Here's a map of the top bakeries"
+    },
+    {
+      "start": 28.32,
+      "end": 31.68,
+      "text": "in the Mission District. As you'd"
+    },
+    {
+      "start": 29.84,
+      "end": 32.24,
+      "text": "expect, Tartine is right up there as a"
+    },
+    {
+      "start": 31.68,
+      "end": 34.48,
+      "text": "favorite."
+    },
+    {
+      "start": 32.24,
+      "end": 38.04,
+      "text": ">> Tartine. Okay. What kind of pastries do"
+    },
+    {
+      "start": 34.48,
+      "end": 38.04,
+      "text": "they have? [music]"
+    },
+    {
+      "start": 38.24,
+      "end": 42.0,
+      "text": ">> So, at Tartine, they've got some beloved"
+    },
+    {
+      "start": 40.48,
+      "end": 43.68,
+      "text": "pastries like their morning butter,"
+    },
+    {
+      "start": 42.0,
+      "end": 45.84,
+      "text": "which is buttery and cinnamon sweet,"
+    },
+    {
+      "start": 43.68,
+      "end": 47.36,
+      "text": "classic flaky croissants, rich pano"
+    },
+    {
+      "start": 45.84,
+      "end": 49.44,
+      "text": "chocolat, and even a fran Japan"
+    },
+    {
+      "start": 47.36,
+      "end": 50.96,
+      "text": "croissant filled with almond cream."
+    },
+    {
+      "start": 49.44,
+      "end": 52.16,
+      "text": ">> Sorry, how do you pronounce that one?"
+    },
+    {
+      "start": 50.96,
+      "end": 53.92,
+      "text": "The fran."
+    },
+    {
+      "start": 52.16,
+      "end": 57.68,
+      "text": ">> Yeah, no problem. It's pronounced"
+    },
+    {
+      "start": 53.92,
+      "end": 61.8,
+      "text": "franapan. So, kind of like fran."
+    },
+    {
+      "start": 57.68,
+      "end": 61.8,
+      "text": ">> Okay, amazing. Thank you."
+    }
+  ],
+  "word_count": 166,
+  "fetched_at": "2025-12-21T02:19:21.942658Z"
+}

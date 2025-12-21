@@ -1,0 +1,74 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "An ideal founding team is usually two people and the two people are of two different types. So one you need an inventor and it's the inventor's job to build the product that's 10 times better than any other product available to solve that problem and then you need an entrepreneur and the entrepreneur's [music] job is to take the market. And so the best thing to do is have two people who know how to do both, but at least one person who's world class in each.",
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 4.0,
+      "text": "An ideal founding team is usually two"
+    },
+    {
+      "start": 2.08,
+      "end": 6.4,
+      "text": "people and the two people are of two"
+    },
+    {
+      "start": 4.0,
+      "end": 8.16,
+      "text": "different types. So one you need an"
+    },
+    {
+      "start": 6.4,
+      "end": 9.68,
+      "text": "inventor and it's the inventor's job to"
+    },
+    {
+      "start": 8.16,
+      "end": 11.12,
+      "text": "build the product that's 10 times better"
+    },
+    {
+      "start": 9.68,
+      "end": 12.96,
+      "text": "than any other product available to"
+    },
+    {
+      "start": 11.12,
+      "end": 14.41,
+      "text": "solve that problem and then you need an"
+    },
+    {
+      "start": 12.96,
+      "end": 17.28,
+      "text": "entrepreneur and the entrepreneur's"
+    },
+    {
+      "start": 14.41,
+      "end": 18.96,
+      "text": "[music] job is to take the market. And"
+    },
+    {
+      "start": 17.28,
+      "end": 21.2,
+      "text": "so the best thing to do is have two"
+    },
+    {
+      "start": 18.96,
+      "end": 23.12,
+      "text": "people who know how to do both, but at"
+    },
+    {
+      "start": 21.2,
+      "end": 25.44,
+      "text": "least one person who's world class in"
+    },
+    {
+      "start": 23.12,
+      "end": 25.44,
+      "text": "each."
+    }
+  ],
+  "word_count": 88,
+  "fetched_at": "2025-12-21T02:19:20.552500Z"
+}

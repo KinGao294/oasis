@@ -1,0 +1,1819 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "I'm excited today to welcome Greg Camrad who is the president of the Ark Prize. >> That's right. >> Thanks for coming here at Europe's 2025 in beautiful San Diego. >> Thank you, Diana. >> So, what does the Art Prize Foundation do? >> Yes. So the ARP price foundation is a nonprofit and but it's a little bit of a different nonprofit because we are very tech forward and so our mission is to pull forward open progress towards systems that can generalize just like humans. >> So according to Franachal he defines intelligence as the ability to learn new things a lot more efficiently. What does that mean for founders as they look at all these benchmarks for all these model releases that are chasing MLU bench numbers? >> Yes, absolutely. Well, so one of the cool things about ARP prize is we have a very opinionated definition of intelligence. And this came from France's paper in 2019 on the measure of intelligence. And in there, you would normally think that intelligence would be how much can you score on the SAT test or how hard of math problems can you do? And he actually proposed an alternative theory, which is the foundation for what Arc Prize does. And he actually defined intelligence as your ability to learn new things. So, we already know that AI is really good at chess. It's superhuman. We know that AI is really good at go. It's super human. We know that it's really good at self-driving. But getting those same systems to learn something else, a different skill, that is actually the hard part. And so, um, Franis alongside that proposal of his definition of intelligence, he says, well, I don't just have a definition. I also have a benchmark or a test that tests whether or not you can learn new things. because generally people are going to learn new things over a long horizon, couple hours, couple days or maybe over a lifetime. But he proposed a test called the ARC AGI or at the time it was just called the ARC benchmark. And in it, he tests your ability to learn new things. So what's really cool is that not only humans can take this test, but also machines can take this test too. So whereas other benchmarks, they might try to do what I call PhD++ problems harder and harder. So we had MMLU, we had an MMLU plus, and now we have humanities last exam. Those are going super human, right? Arc benchmarks, normal people can do these. And so we actually test all of our benchmarks to make sure that um normal people can do them. >> And just a bit of context for the audience, this particular price was famously one that a lot of uh LLMs with just pre-training before uh ARL came in in the picture before 2024. >> All these large models, language models were doing terribly, right? >> Yes. Absolutely doing terribly. You know, it's kind of weird, but nowadays it's hard to come up with problems to to stump AI. You know, back in 2012 with ImageNet, all all you needed to do was just show people an image of a cat and you could stump the computer. But when France came out with his benchmark in 2019, fast forward all the way to 2024, I think at the time it was GPT4, the base model, no reasoning, I think it was getting 4%. Four or 5%. So clearly showed, hey, humans can do this, but base models are not doing anything. And what's really cool actually is right at 01 I remember testing 01 and 01 preview right when that first came out I think performance jumped up to 21%. So you look at that and after 5 years those only 4% and then in such a short time it goes to 21. That tells you something really interesting is going on. So actually we used ARC to identify that reasoning paradigm was huge that was actually transformational for for what was contributing towards towards AI at the time. So much so that now all the big labs XAI, OpenAI are actually now using ArcGI as part of their model releases and the numbers that they're hitting. So it's become the standard now. >> Yeah. Well, I I tell you what um we're excited that the community is recognizing that ArcJI can tell you something. That's that's what we're excited about. And when public labs or Frontier Labs like to use us in terms of reporting their performance, it's really awesome that they too say, \"Yes, we just came out with this Frontier model. This is how we choose to measure our performance.\" And so in the past 12 months, you're right, we've had OpenAI, we've had XAI with Gro 4, we've had Gemini with Gemini 3 Pro and Deepthink, and then just recently Anthropic with um Opus 45. >> That's cool. So what's going well with all these releases? >> So it's it's going really well that they're adopting it. Um, however, we're mindful of vanity metrics that come from there, too. So just because they use us doesn't necessarily um mean that our mission is done or our job is done or what we're trying to do here. Because again if we go back to the mission of ARP prize is to pull forward open AGI progress. So we want to inspire researchers, small teams, individual researchers and having big labs um give an endorsement more or less is really good for that mission but it's it's also secondary to the overall mission. So now that you've seen also lots of teams trying to ship AI products, what are most common false positives that you observe? Things that feel like progress but aren't quite progress because it's easy to perhaps just hit a benchmark somewhere and call it done. >> Sure. >> But it doesn't quite work. >> Yeah. So when I answer that question, I put on my almost researcher hat because there's two hats that are very prominent within AI right now. There's economically valuable like you know we're going to go monetize this product hat and then there's going to be the um call it romantic pursuit of general intelligence hat and I I'm wearing the latter hat. So one thing that stands out to me is of course is everybody talks about it but all all the RL environments and there's been famous AI researchers that have said hey as long as we can make an RL environment we can score well on this benchmark or this domain or whatever it may be. Um to me that's kind of like whack-a-ole. You know you're not going to be able to make RL environments for every single thing you're going to end up wanting to do. And core to RGI is novelty and novel problems that end up coming in the future, which is one of the reasons why we have a hidden test set by the way. So I think while that's cool and while you're going to get short-term gains from it, I would rather see investment into systems that are actually generalizing and you don't need the environment for it because if you see or if you um compare it to humans, humans don't need the environment to go and train on that. >> Perhaps walk us through a bit of the history of uh ArcGI version. So it was Argia 1, two, and three is coming up soon. >> Yes. which is a whole new thing with gamelike environments and interactive. So walk us through the history and then tell us what >> three is all about. >> Yes, absolutely. So RKGI1 came out in 2019. That was France proposed it. I think he made all 800 tasks himself within it which is a huge feat in in and of itself. Um and that came with this paper on the measure of intelligence. Now in 2025 just this year earlier in March of this year we came with ARC AGI 2. And so think of that as a deeper version or an upgraded version of RKGI1. Now what's interesting is those two are both static benchmarks or you know call it metastatic benchmarks. We're coming out with RGI 3 next year. And the big difference with RKGI3 is it's going to be interactive. So if you think about reality and the in the world that we all live in, we are constantly making an action, getting feedback and kind of um going back and forth with our environment. And it is in my belief that future AGI will be declared with an interactive benchmark because that is really what reality is. And so um V3 is going to be about 150 video game environments. Now we say video game because that's an easy way to communicate it, but really it's an environment where you give an action and then you get some response. Now, the really cool part and one of the thing that jazzes me up about V3 the most is we're not going to give any instructions to the test taker on how to complete the environment. So, there's no English, there's no words, there's no symbols or anything like that. And in order to beat the benchmark, you need to go in, you need to take a few actions and see how your environment responds and try to figure out what the ultimate goal is in the first place. >> I tried a bunch of those uh games. They were actually fun. >> Yeah, they're cool. And much like Ark 1 and Ark 2, we're testing humans on every single V3 game. So, we will recruit members of the general public, so accountants, Uber drivers, you know, that type of thing. We'll put 10 people in front of each game, and if each game does not pass a minimum solvability threshold by regular humans, then we're going to exclude it. Now, again, I just have to emphasize, but that's in contrast to other benchmarks where you try to go harder and harder and harder questions. But the fact that ARK 3 will be out there and regular people can do it but AI cannot do it tells you well there's something missing still. There's something clearly missing that we need to um need new ideas for research on. >> So there's this big theme in terms of measuring intelligence with human capabilities. >> Yes. >> So there's this growing idea that accuracy is not the only metric that matters to models. >> Yes. but also the time and amount of data that it takes to acquire new skills which is what this whole spirit of our AGI is. >> Yes. >> So I guess the question is how close are we to evaluating models in human time? >> Yes. So with regards to human time, we actually see time as a little bit arbitrary because if you throw more compute at something, you're going to reduce the time no matter what. So it it's it's almost just a decision on how much compute do you want, which is how much time it's going to take, which tells you that wall clock may not be the important part for what we have intelligence here. But there's two other factors that go into the equation of intelligence. Number one is going to be the amount of training data that you need, which is exactly what you said. And then number two is actually the amount of energy that you need in order to execute upon that intelligence. And the reason why those are so fascinating is because we have benchmarks for humans on both of those. So we know how many data points a human needs in order to execute a task and we know how much energy the human brain consumes to execute a task. So with RKGI3, the way that we're actually going to be measuring efficiency, not just by accuracy, I I told you they're video games and they're turn-based video games. And so you click, you might click up, left, right, down, or something like that. And we're going to count the number of actions that it takes a human to beat the game. and we're going to compare that to the number of actions that it takes in AI to beat the game. So, back in the old um Atari days in 2016 when they were making a run at video games, then they would use brute force solutions and they would need millions and billions of frames of video game and they would need millions of actions to basically spam and brute force the space. Um, we're not going to let you do that on ARI 3 and so we're basically going to normalize AI performance to the average human performance that we see. >> That's very cool. >> Yes. >> My last question. >> Yes. Let's um wave a magic wand and then there's a super amazing team that suddenly tomorrow res launches a model that scores 100% in the arc AGI >> benchmarks. What should the world update about the priors of what AGI is? >> Yeah, >> how would the world change? >> Well, it's it's funny you ask that. Um the what AGI is question is such a deep topic that we can go much deeper on. So um from the beginning Franuis has always said that the thing that solves arc AGI is necessary for AGI it's not sufficient. So what that means is um it the thing that solves arc AGI 1 and two will not be AGI but will it will be an authoritative source of generalization. Now our claim for V3 is that it no the thing that beats it won't be AGI however it will be the most authoritative evidence that we have to date about a system that can generalize. If a team were to come out and be at it tomorrow, we would of course want to analyze that system, figure out where still are the failure points that come from that. And like any good benchmark creator, we want to continue to guide um the world towards what we believe to be proper AGI. But ultimately um ARP, we want to put ourselves in a position when we can fully understand and be ready to declare when we do actually have AGI. So if that team were to do it tomorrow, we'd want to have a conversation with them. We'll put it that way. >> That's a good way to wrap. Thank you so much for coming and chatting with us, Greg. >> Thank you, Diana.",
+  "segments": [
+    {
+      "start": 11.12,
+      "end": 16.88,
+      "text": "I'm excited today to welcome Greg Camrad"
+    },
+    {
+      "start": 14.48,
+      "end": 17.52,
+      "text": "who is the president of the Ark Prize."
+    },
+    {
+      "start": 16.88,
+      "end": 20.24,
+      "text": ">> That's right."
+    },
+    {
+      "start": 17.52,
+      "end": 21.44,
+      "text": ">> Thanks for coming here at Europe's 2025"
+    },
+    {
+      "start": 20.24,
+      "end": 22.32,
+      "text": "in beautiful San Diego."
+    },
+    {
+      "start": 21.44,
+      "end": 24.8,
+      "text": ">> Thank you, Diana."
+    },
+    {
+      "start": 22.32,
+      "end": 25.52,
+      "text": ">> So, what does the Art Prize Foundation"
+    },
+    {
+      "start": 24.8,
+      "end": 27.44,
+      "text": "do?"
+    },
+    {
+      "start": 25.52,
+      "end": 29.36,
+      "text": ">> Yes. So the ARP price foundation is a"
+    },
+    {
+      "start": 27.44,
+      "end": 30.96,
+      "text": "nonprofit and but it's a little bit of a"
+    },
+    {
+      "start": 29.36,
+      "end": 33.44,
+      "text": "different nonprofit because we are very"
+    },
+    {
+      "start": 30.96,
+      "end": 36.0,
+      "text": "tech forward and so our mission is to"
+    },
+    {
+      "start": 33.44,
+      "end": 37.52,
+      "text": "pull forward open progress towards"
+    },
+    {
+      "start": 36.0,
+      "end": 38.4,
+      "text": "systems that can generalize just like"
+    },
+    {
+      "start": 37.52,
+      "end": 41.28,
+      "text": "humans."
+    },
+    {
+      "start": 38.4,
+      "end": 43.76,
+      "text": ">> So according to Franachal he defines"
+    },
+    {
+      "start": 41.28,
+      "end": 46.32,
+      "text": "intelligence as the ability to learn new"
+    },
+    {
+      "start": 43.76,
+      "end": 48.56,
+      "text": "things a lot more efficiently."
+    },
+    {
+      "start": 46.32,
+      "end": 50.4,
+      "text": "What does that mean for founders as they"
+    },
+    {
+      "start": 48.56,
+      "end": 52.48,
+      "text": "look at all these benchmarks for all"
+    },
+    {
+      "start": 50.4,
+      "end": 54.64,
+      "text": "these model releases that are chasing"
+    },
+    {
+      "start": 52.48,
+      "end": 56.4,
+      "text": "MLU bench numbers?"
+    },
+    {
+      "start": 54.64,
+      "end": 58.0,
+      "text": ">> Yes, absolutely. Well, so one of the"
+    },
+    {
+      "start": 56.4,
+      "end": 60.08,
+      "text": "cool things about ARP prize is we have a"
+    },
+    {
+      "start": 58.0,
+      "end": 61.44,
+      "text": "very opinionated definition of"
+    },
+    {
+      "start": 60.08,
+      "end": 64.32,
+      "text": "intelligence. And this came from"
+    },
+    {
+      "start": 61.44,
+      "end": 66.32,
+      "text": "France's paper in 2019 on the measure of"
+    },
+    {
+      "start": 64.32,
+      "end": 67.92,
+      "text": "intelligence. And in there, you would"
+    },
+    {
+      "start": 66.32,
+      "end": 70.08,
+      "text": "normally think that intelligence would"
+    },
+    {
+      "start": 67.92,
+      "end": 72.72,
+      "text": "be how much can you score on the SAT"
+    },
+    {
+      "start": 70.08,
+      "end": 74.64,
+      "text": "test or how hard of math problems can"
+    },
+    {
+      "start": 72.72,
+      "end": 75.92,
+      "text": "you do? And he actually proposed an"
+    },
+    {
+      "start": 74.64,
+      "end": 77.92,
+      "text": "alternative theory, which is the"
+    },
+    {
+      "start": 75.92,
+      "end": 80.08,
+      "text": "foundation for what Arc Prize does. And"
+    },
+    {
+      "start": 77.92,
+      "end": 83.52,
+      "text": "he actually defined intelligence as your"
+    },
+    {
+      "start": 80.08,
+      "end": 85.04,
+      "text": "ability to learn new things. So, we"
+    },
+    {
+      "start": 83.52,
+      "end": 86.72,
+      "text": "already know that AI is really good at"
+    },
+    {
+      "start": 85.04,
+      "end": 88.08,
+      "text": "chess. It's superhuman. We know that AI"
+    },
+    {
+      "start": 86.72,
+      "end": 89.04,
+      "text": "is really good at go. It's super human."
+    },
+    {
+      "start": 88.08,
+      "end": 90.88,
+      "text": "We know that it's really good at"
+    },
+    {
+      "start": 89.04,
+      "end": 92.88,
+      "text": "self-driving. But getting those same"
+    },
+    {
+      "start": 90.88,
+      "end": 94.88,
+      "text": "systems to learn something else, a"
+    },
+    {
+      "start": 92.88,
+      "end": 98.16,
+      "text": "different skill, that is actually the"
+    },
+    {
+      "start": 94.88,
+      "end": 100.32,
+      "text": "hard part. And so, um, Franis alongside"
+    },
+    {
+      "start": 98.16,
+      "end": 102.0,
+      "text": "that proposal of his definition of"
+    },
+    {
+      "start": 100.32,
+      "end": 103.84,
+      "text": "intelligence, he says, well, I don't"
+    },
+    {
+      "start": 102.0,
+      "end": 106.08,
+      "text": "just have a definition. I also have a"
+    },
+    {
+      "start": 103.84,
+      "end": 108.48,
+      "text": "benchmark or a test that tests whether"
+    },
+    {
+      "start": 106.08,
+      "end": 109.76,
+      "text": "or not you can learn new things. because"
+    },
+    {
+      "start": 108.48,
+      "end": 111.12,
+      "text": "generally people are going to learn new"
+    },
+    {
+      "start": 109.76,
+      "end": 112.64,
+      "text": "things over a long horizon, couple"
+    },
+    {
+      "start": 111.12,
+      "end": 114.4,
+      "text": "hours, couple days or maybe over a"
+    },
+    {
+      "start": 112.64,
+      "end": 116.48,
+      "text": "lifetime. But he proposed a test called"
+    },
+    {
+      "start": 114.4,
+      "end": 119.44,
+      "text": "the ARC AGI or at the time it was just"
+    },
+    {
+      "start": 116.48,
+      "end": 121.6,
+      "text": "called the ARC benchmark. And in it, he"
+    },
+    {
+      "start": 119.44,
+      "end": 123.92,
+      "text": "tests your ability to learn new things."
+    },
+    {
+      "start": 121.6,
+      "end": 126.32,
+      "text": "So what's really cool is that not only"
+    },
+    {
+      "start": 123.92,
+      "end": 128.24,
+      "text": "humans can take this test, but also"
+    },
+    {
+      "start": 126.32,
+      "end": 129.84,
+      "text": "machines can take this test too. So"
+    },
+    {
+      "start": 128.24,
+      "end": 132.56,
+      "text": "whereas other benchmarks, they might try"
+    },
+    {
+      "start": 129.84,
+      "end": 134.96,
+      "text": "to do what I call PhD++ problems harder"
+    },
+    {
+      "start": 132.56,
+      "end": 137.12,
+      "text": "and harder. So we had MMLU, we had an"
+    },
+    {
+      "start": 134.96,
+      "end": 138.8,
+      "text": "MMLU plus, and now we have humanities"
+    },
+    {
+      "start": 137.12,
+      "end": 141.84,
+      "text": "last exam. Those are going super human,"
+    },
+    {
+      "start": 138.8,
+      "end": 143.04,
+      "text": "right? Arc benchmarks, normal people can"
+    },
+    {
+      "start": 141.84,
+      "end": 144.24,
+      "text": "do these. And so we actually test all of"
+    },
+    {
+      "start": 143.04,
+      "end": 145.6,
+      "text": "our benchmarks to make sure that um"
+    },
+    {
+      "start": 144.24,
+      "end": 146.96,
+      "text": "normal people can do them."
+    },
+    {
+      "start": 145.6,
+      "end": 150.16,
+      "text": ">> And just a bit of context for the"
+    },
+    {
+      "start": 146.96,
+      "end": 153.92,
+      "text": "audience, this particular price was"
+    },
+    {
+      "start": 150.16,
+      "end": 157.92,
+      "text": "famously one that a lot of uh LLMs with"
+    },
+    {
+      "start": 153.92,
+      "end": 160.96,
+      "text": "just pre-training before uh ARL came in"
+    },
+    {
+      "start": 157.92,
+      "end": 163.12,
+      "text": "in the picture before 2024."
+    },
+    {
+      "start": 160.96,
+      "end": 164.48,
+      "text": ">> All these large models, language models"
+    },
+    {
+      "start": 163.12,
+      "end": 166.24,
+      "text": "were doing terribly, right?"
+    },
+    {
+      "start": 164.48,
+      "end": 168.32,
+      "text": ">> Yes. Absolutely doing terribly. You"
+    },
+    {
+      "start": 166.24,
+      "end": 171.28,
+      "text": "know, it's kind of weird, but nowadays"
+    },
+    {
+      "start": 168.32,
+      "end": 173.36,
+      "text": "it's hard to come up with problems to to"
+    },
+    {
+      "start": 171.28,
+      "end": 174.8,
+      "text": "stump AI. You know, back in 2012 with"
+    },
+    {
+      "start": 173.36,
+      "end": 177.04,
+      "text": "ImageNet, all all you needed to do was"
+    },
+    {
+      "start": 174.8,
+      "end": 178.64,
+      "text": "just show people an image of a cat and"
+    },
+    {
+      "start": 177.04,
+      "end": 180.56,
+      "text": "you could stump the computer. But when"
+    },
+    {
+      "start": 178.64,
+      "end": 185.6,
+      "text": "France came out with his benchmark in"
+    },
+    {
+      "start": 180.56,
+      "end": 187.52,
+      "text": "2019, fast forward all the way to 2024,"
+    },
+    {
+      "start": 185.6,
+      "end": 188.96,
+      "text": "I think at the time it was GPT4, the"
+    },
+    {
+      "start": 187.52,
+      "end": 191.6,
+      "text": "base model, no reasoning, I think it was"
+    },
+    {
+      "start": 188.96,
+      "end": 193.44,
+      "text": "getting 4%. Four or 5%. So clearly"
+    },
+    {
+      "start": 191.6,
+      "end": 195.2,
+      "text": "showed, hey, humans can do this, but"
+    },
+    {
+      "start": 193.44,
+      "end": 196.88,
+      "text": "base models are not doing anything. And"
+    },
+    {
+      "start": 195.2,
+      "end": 198.96,
+      "text": "what's really cool actually is right at"
+    },
+    {
+      "start": 196.88,
+      "end": 200.32,
+      "text": "01 I remember testing 01 and 01 preview"
+    },
+    {
+      "start": 198.96,
+      "end": 202.56,
+      "text": "right when that first came out I think"
+    },
+    {
+      "start": 200.32,
+      "end": 204.24,
+      "text": "performance jumped up to 21%. So you"
+    },
+    {
+      "start": 202.56,
+      "end": 206.16,
+      "text": "look at that and after 5 years those"
+    },
+    {
+      "start": 204.24,
+      "end": 208.48,
+      "text": "only 4% and then in such a short time it"
+    },
+    {
+      "start": 206.16,
+      "end": 209.92,
+      "text": "goes to 21. That tells you something"
+    },
+    {
+      "start": 208.48,
+      "end": 212.24,
+      "text": "really interesting is going on. So"
+    },
+    {
+      "start": 209.92,
+      "end": 214.24,
+      "text": "actually we used ARC to identify that"
+    },
+    {
+      "start": 212.24,
+      "end": 216.0,
+      "text": "reasoning paradigm was huge that was"
+    },
+    {
+      "start": 214.24,
+      "end": 217.76,
+      "text": "actually transformational for for what"
+    },
+    {
+      "start": 216.0,
+      "end": 220.48,
+      "text": "was contributing towards towards AI at"
+    },
+    {
+      "start": 217.76,
+      "end": 223.92,
+      "text": "the time. So much so that now all the"
+    },
+    {
+      "start": 220.48,
+      "end": 226.64,
+      "text": "big labs XAI, OpenAI are actually now"
+    },
+    {
+      "start": 223.92,
+      "end": 228.08,
+      "text": "using ArcGI as part of their model"
+    },
+    {
+      "start": 226.64,
+      "end": 230.16,
+      "text": "releases and the numbers that they're"
+    },
+    {
+      "start": 228.08,
+      "end": 231.12,
+      "text": "hitting. So it's become the standard"
+    },
+    {
+      "start": 230.16,
+      "end": 233.36,
+      "text": "now."
+    },
+    {
+      "start": 231.12,
+      "end": 234.96,
+      "text": ">> Yeah. Well, I I tell you what um we're"
+    },
+    {
+      "start": 233.36,
+      "end": 236.72,
+      "text": "excited that the community is"
+    },
+    {
+      "start": 234.96,
+      "end": 237.68,
+      "text": "recognizing that ArcJI can tell you"
+    },
+    {
+      "start": 236.72,
+      "end": 239.6,
+      "text": "something. That's that's what we're"
+    },
+    {
+      "start": 237.68,
+      "end": 241.36,
+      "text": "excited about. And when public labs or"
+    },
+    {
+      "start": 239.6,
+      "end": 243.04,
+      "text": "Frontier Labs like to use us in terms of"
+    },
+    {
+      "start": 241.36,
+      "end": 245.12,
+      "text": "reporting their performance, it's really"
+    },
+    {
+      "start": 243.04,
+      "end": 246.48,
+      "text": "awesome that they too say, \"Yes, we just"
+    },
+    {
+      "start": 245.12,
+      "end": 247.52,
+      "text": "came out with this Frontier model. This"
+    },
+    {
+      "start": 246.48,
+      "end": 248.88,
+      "text": "is how we choose to measure our"
+    },
+    {
+      "start": 247.52,
+      "end": 250.32,
+      "text": "performance.\" And so in the past 12"
+    },
+    {
+      "start": 248.88,
+      "end": 252.24,
+      "text": "months, you're right, we've had OpenAI,"
+    },
+    {
+      "start": 250.32,
+      "end": 254.4,
+      "text": "we've had XAI with Gro 4, we've had"
+    },
+    {
+      "start": 252.24,
+      "end": 256.48,
+      "text": "Gemini with Gemini 3 Pro and Deepthink,"
+    },
+    {
+      "start": 254.4,
+      "end": 257.84,
+      "text": "and then just recently Anthropic with um"
+    },
+    {
+      "start": 256.48,
+      "end": 259.44,
+      "text": "Opus 45."
+    },
+    {
+      "start": 257.84,
+      "end": 260.32,
+      "text": ">> That's cool. So what's going well with"
+    },
+    {
+      "start": 259.44,
+      "end": 261.6,
+      "text": "all these releases?"
+    },
+    {
+      "start": 260.32,
+      "end": 264.4,
+      "text": ">> So it's it's going really well that"
+    },
+    {
+      "start": 261.6,
+      "end": 266.08,
+      "text": "they're adopting it. Um, however, we're"
+    },
+    {
+      "start": 264.4,
+      "end": 268.16,
+      "text": "mindful of vanity metrics that come from"
+    },
+    {
+      "start": 266.08,
+      "end": 270.32,
+      "text": "there, too. So just because they use us"
+    },
+    {
+      "start": 268.16,
+      "end": 272.16,
+      "text": "doesn't necessarily um mean that our"
+    },
+    {
+      "start": 270.32,
+      "end": 273.36,
+      "text": "mission is done or our job is done or"
+    },
+    {
+      "start": 272.16,
+      "end": 274.64,
+      "text": "what we're trying to do here. Because"
+    },
+    {
+      "start": 273.36,
+      "end": 277.36,
+      "text": "again if we go back to the mission of"
+    },
+    {
+      "start": 274.64,
+      "end": 278.8,
+      "text": "ARP prize is to pull forward open AGI"
+    },
+    {
+      "start": 277.36,
+      "end": 280.4,
+      "text": "progress. So we want to inspire"
+    },
+    {
+      "start": 278.8,
+      "end": 284.08,
+      "text": "researchers, small teams, individual"
+    },
+    {
+      "start": 280.4,
+      "end": 286.48,
+      "text": "researchers and having big labs um give"
+    },
+    {
+      "start": 284.08,
+      "end": 287.76,
+      "text": "an endorsement more or less is really"
+    },
+    {
+      "start": 286.48,
+      "end": 289.84,
+      "text": "good for that mission but it's it's also"
+    },
+    {
+      "start": 287.76,
+      "end": 291.76,
+      "text": "secondary to the overall mission. So now"
+    },
+    {
+      "start": 289.84,
+      "end": 296.56,
+      "text": "that you've seen also lots of teams"
+    },
+    {
+      "start": 291.76,
+      "end": 298.88,
+      "text": "trying to ship AI products, what are"
+    },
+    {
+      "start": 296.56,
+      "end": 301.28,
+      "text": "most common false positives that you"
+    },
+    {
+      "start": 298.88,
+      "end": 302.96,
+      "text": "observe? Things that feel like progress"
+    },
+    {
+      "start": 301.28,
+      "end": 305.12,
+      "text": "but aren't quite progress because it's"
+    },
+    {
+      "start": 302.96,
+      "end": 306.72,
+      "text": "easy to perhaps just hit a benchmark"
+    },
+    {
+      "start": 305.12,
+      "end": 307.2,
+      "text": "somewhere and call it done."
+    },
+    {
+      "start": 306.72,
+      "end": 308.56,
+      "text": ">> Sure."
+    },
+    {
+      "start": 307.2,
+      "end": 310.72,
+      "text": ">> But it doesn't quite work."
+    },
+    {
+      "start": 308.56,
+      "end": 313.36,
+      "text": ">> Yeah. So when I answer that question, I"
+    },
+    {
+      "start": 310.72,
+      "end": 314.72,
+      "text": "put on my almost researcher hat because"
+    },
+    {
+      "start": 313.36,
+      "end": 316.0,
+      "text": "there's two hats that are very prominent"
+    },
+    {
+      "start": 314.72,
+      "end": 317.6,
+      "text": "within AI right now. There's"
+    },
+    {
+      "start": 316.0,
+      "end": 319.12,
+      "text": "economically valuable like you know"
+    },
+    {
+      "start": 317.6,
+      "end": 322.0,
+      "text": "we're going to go monetize this product"
+    },
+    {
+      "start": 319.12,
+      "end": 324.08,
+      "text": "hat and then there's going to be the um"
+    },
+    {
+      "start": 322.0,
+      "end": 325.68,
+      "text": "call it romantic pursuit of general"
+    },
+    {
+      "start": 324.08,
+      "end": 327.28,
+      "text": "intelligence hat and I I'm wearing the"
+    },
+    {
+      "start": 325.68,
+      "end": 328.8,
+      "text": "latter hat. So one thing that stands out"
+    },
+    {
+      "start": 327.28,
+      "end": 330.72,
+      "text": "to me is of course is everybody talks"
+    },
+    {
+      "start": 328.8,
+      "end": 332.48,
+      "text": "about it but all all the RL environments"
+    },
+    {
+      "start": 330.72,
+      "end": 334.0,
+      "text": "and there's been famous AI researchers"
+    },
+    {
+      "start": 332.48,
+      "end": 336.64,
+      "text": "that have said hey as long as we can"
+    },
+    {
+      "start": 334.0,
+      "end": 338.08,
+      "text": "make an RL environment we can score well"
+    },
+    {
+      "start": 336.64,
+      "end": 340.24,
+      "text": "on this benchmark or this domain or"
+    },
+    {
+      "start": 338.08,
+      "end": 341.52,
+      "text": "whatever it may be. Um to me that's kind"
+    },
+    {
+      "start": 340.24,
+      "end": 342.72,
+      "text": "of like whack-a-ole. You know you're not"
+    },
+    {
+      "start": 341.52,
+      "end": 343.76,
+      "text": "going to be able to make RL environments"
+    },
+    {
+      "start": 342.72,
+      "end": 346.88,
+      "text": "for every single thing you're going to"
+    },
+    {
+      "start": 343.76,
+      "end": 348.56,
+      "text": "end up wanting to do. And core to RGI is"
+    },
+    {
+      "start": 346.88,
+      "end": 349.84,
+      "text": "novelty and novel problems that end up"
+    },
+    {
+      "start": 348.56,
+      "end": 351.12,
+      "text": "coming in the future, which is one of"
+    },
+    {
+      "start": 349.84,
+      "end": 353.76,
+      "text": "the reasons why we have a hidden test"
+    },
+    {
+      "start": 351.12,
+      "end": 354.96,
+      "text": "set by the way. So I think while that's"
+    },
+    {
+      "start": 353.76,
+      "end": 356.64,
+      "text": "cool and while you're going to get"
+    },
+    {
+      "start": 354.96,
+      "end": 358.0,
+      "text": "short-term gains from it, I would rather"
+    },
+    {
+      "start": 356.64,
+      "end": 359.44,
+      "text": "see investment into systems that are"
+    },
+    {
+      "start": 358.0,
+      "end": 361.44,
+      "text": "actually generalizing and you don't need"
+    },
+    {
+      "start": 359.44,
+      "end": 363.36,
+      "text": "the environment for it because if you"
+    },
+    {
+      "start": 361.44,
+      "end": 364.96,
+      "text": "see or if you um compare it to humans,"
+    },
+    {
+      "start": 363.36,
+      "end": 366.16,
+      "text": "humans don't need the environment to go"
+    },
+    {
+      "start": 364.96,
+      "end": 367.52,
+      "text": "and train on that."
+    },
+    {
+      "start": 366.16,
+      "end": 370.16,
+      "text": ">> Perhaps walk us through a bit of the"
+    },
+    {
+      "start": 367.52,
+      "end": 373.2,
+      "text": "history of uh ArcGI version. So it was"
+    },
+    {
+      "start": 370.16,
+      "end": 373.6,
+      "text": "Argia 1, two, and three is coming up"
+    },
+    {
+      "start": 373.2,
+      "end": 376.24,
+      "text": "soon."
+    },
+    {
+      "start": 373.6,
+      "end": 378.32,
+      "text": ">> Yes. which is a whole new thing with"
+    },
+    {
+      "start": 376.24,
+      "end": 379.76,
+      "text": "gamelike environments and interactive."
+    },
+    {
+      "start": 378.32,
+      "end": 380.96,
+      "text": "So walk us through the history and then"
+    },
+    {
+      "start": 379.76,
+      "end": 381.92,
+      "text": "tell us what"
+    },
+    {
+      "start": 380.96,
+      "end": 384.08,
+      "text": ">> three is all about."
+    },
+    {
+      "start": 381.92,
+      "end": 387.12,
+      "text": ">> Yes, absolutely. So RKGI1 came out in"
+    },
+    {
+      "start": 384.08,
+      "end": 389.36,
+      "text": "2019. That was France proposed it. I"
+    },
+    {
+      "start": 387.12,
+      "end": 391.52,
+      "text": "think he made all 800 tasks himself"
+    },
+    {
+      "start": 389.36,
+      "end": 393.2,
+      "text": "within it which is a huge feat in in and"
+    },
+    {
+      "start": 391.52,
+      "end": 394.56,
+      "text": "of itself. Um and that came with this"
+    },
+    {
+      "start": 393.2,
+      "end": 396.72,
+      "text": "paper on the measure of intelligence."
+    },
+    {
+      "start": 394.56,
+      "end": 398.16,
+      "text": "Now in 2025"
+    },
+    {
+      "start": 396.72,
+      "end": 400.56,
+      "text": "just this year earlier in March of this"
+    },
+    {
+      "start": 398.16,
+      "end": 402.48,
+      "text": "year we came with ARC AGI 2. And so"
+    },
+    {
+      "start": 400.56,
+      "end": 405.28,
+      "text": "think of that as a deeper version or an"
+    },
+    {
+      "start": 402.48,
+      "end": 406.96,
+      "text": "upgraded version of RKGI1. Now what's"
+    },
+    {
+      "start": 405.28,
+      "end": 408.32,
+      "text": "interesting is those two are both static"
+    },
+    {
+      "start": 406.96,
+      "end": 410.8,
+      "text": "benchmarks or you know call it"
+    },
+    {
+      "start": 408.32,
+      "end": 413.52,
+      "text": "metastatic benchmarks. We're coming out"
+    },
+    {
+      "start": 410.8,
+      "end": 415.6,
+      "text": "with RGI 3 next year. And the big"
+    },
+    {
+      "start": 413.52,
+      "end": 417.6,
+      "text": "difference with RKGI3 is it's going to"
+    },
+    {
+      "start": 415.6,
+      "end": 419.12,
+      "text": "be interactive. So if you think about"
+    },
+    {
+      "start": 417.6,
+      "end": 421.04,
+      "text": "reality and the in the world that we all"
+    },
+    {
+      "start": 419.12,
+      "end": 423.36,
+      "text": "live in, we are constantly making an"
+    },
+    {
+      "start": 421.04,
+      "end": 424.48,
+      "text": "action, getting feedback and kind of um"
+    },
+    {
+      "start": 423.36,
+      "end": 426.88,
+      "text": "going back and forth with our"
+    },
+    {
+      "start": 424.48,
+      "end": 428.8,
+      "text": "environment. And it is in my belief that"
+    },
+    {
+      "start": 426.88,
+      "end": 430.32,
+      "text": "future AGI will be declared with an"
+    },
+    {
+      "start": 428.8,
+      "end": 433.76,
+      "text": "interactive benchmark because that is"
+    },
+    {
+      "start": 430.32,
+      "end": 436.96,
+      "text": "really what reality is. And so um V3 is"
+    },
+    {
+      "start": 433.76,
+      "end": 438.96,
+      "text": "going to be about 150 video game"
+    },
+    {
+      "start": 436.96,
+      "end": 439.84,
+      "text": "environments. Now we say video game"
+    },
+    {
+      "start": 438.96,
+      "end": 440.96,
+      "text": "because that's an easy way to"
+    },
+    {
+      "start": 439.84,
+      "end": 443.52,
+      "text": "communicate it, but really it's an"
+    },
+    {
+      "start": 440.96,
+      "end": 445.84,
+      "text": "environment where you give an action and"
+    },
+    {
+      "start": 443.52,
+      "end": 446.8,
+      "text": "then you get some response. Now, the"
+    },
+    {
+      "start": 445.84,
+      "end": 449.28,
+      "text": "really cool part and one of the thing"
+    },
+    {
+      "start": 446.8,
+      "end": 451.76,
+      "text": "that jazzes me up about V3 the most is"
+    },
+    {
+      "start": 449.28,
+      "end": 454.24,
+      "text": "we're not going to give any instructions"
+    },
+    {
+      "start": 451.76,
+      "end": 456.16,
+      "text": "to the test taker on how to complete the"
+    },
+    {
+      "start": 454.24,
+      "end": 457.68,
+      "text": "environment. So, there's no English,"
+    },
+    {
+      "start": 456.16,
+      "end": 459.28,
+      "text": "there's no words, there's no symbols or"
+    },
+    {
+      "start": 457.68,
+      "end": 461.68,
+      "text": "anything like that. And in order to beat"
+    },
+    {
+      "start": 459.28,
+      "end": 463.44,
+      "text": "the benchmark, you need to go in, you"
+    },
+    {
+      "start": 461.68,
+      "end": 464.96,
+      "text": "need to take a few actions and see how"
+    },
+    {
+      "start": 463.44,
+      "end": 466.16,
+      "text": "your environment responds and try to"
+    },
+    {
+      "start": 464.96,
+      "end": 466.88,
+      "text": "figure out what the ultimate goal is in"
+    },
+    {
+      "start": 466.16,
+      "end": 468.48,
+      "text": "the first place."
+    },
+    {
+      "start": 466.88,
+      "end": 469.2,
+      "text": ">> I tried a bunch of those uh games. They"
+    },
+    {
+      "start": 468.48,
+      "end": 471.2,
+      "text": "were actually fun."
+    },
+    {
+      "start": 469.2,
+      "end": 472.96,
+      "text": ">> Yeah, they're cool. And much like Ark 1"
+    },
+    {
+      "start": 471.2,
+      "end": 476.72,
+      "text": "and Ark 2, we're testing humans on every"
+    },
+    {
+      "start": 472.96,
+      "end": 478.24,
+      "text": "single V3 game. So, we will recruit"
+    },
+    {
+      "start": 476.72,
+      "end": 480.08,
+      "text": "members of the general public, so"
+    },
+    {
+      "start": 478.24,
+      "end": 481.76,
+      "text": "accountants, Uber drivers, you know,"
+    },
+    {
+      "start": 480.08,
+      "end": 483.68,
+      "text": "that type of thing. We'll put 10 people"
+    },
+    {
+      "start": 481.76,
+      "end": 485.84,
+      "text": "in front of each game, and if each game"
+    },
+    {
+      "start": 483.68,
+      "end": 488.16,
+      "text": "does not pass a minimum solvability"
+    },
+    {
+      "start": 485.84,
+      "end": 490.16,
+      "text": "threshold by regular humans, then we're"
+    },
+    {
+      "start": 488.16,
+      "end": 491.36,
+      "text": "going to exclude it. Now, again, I just"
+    },
+    {
+      "start": 490.16,
+      "end": 493.2,
+      "text": "have to emphasize, but that's in"
+    },
+    {
+      "start": 491.36,
+      "end": 494.96,
+      "text": "contrast to other benchmarks where you"
+    },
+    {
+      "start": 493.2,
+      "end": 497.68,
+      "text": "try to go harder and harder and harder"
+    },
+    {
+      "start": 494.96,
+      "end": 499.92,
+      "text": "questions. But the fact that ARK 3 will"
+    },
+    {
+      "start": 497.68,
+      "end": 503.28,
+      "text": "be out there and regular people can do"
+    },
+    {
+      "start": 499.92,
+      "end": 504.72,
+      "text": "it but AI cannot do it tells you well"
+    },
+    {
+      "start": 503.28,
+      "end": 505.84,
+      "text": "there's something missing still. There's"
+    },
+    {
+      "start": 504.72,
+      "end": 508.24,
+      "text": "something clearly missing that we need"
+    },
+    {
+      "start": 505.84,
+      "end": 510.48,
+      "text": "to um need new ideas for research on."
+    },
+    {
+      "start": 508.24,
+      "end": 512.64,
+      "text": ">> So there's this big theme in terms of"
+    },
+    {
+      "start": 510.48,
+      "end": 513.52,
+      "text": "measuring intelligence with human"
+    },
+    {
+      "start": 512.64,
+      "end": 514.16,
+      "text": "capabilities."
+    },
+    {
+      "start": 513.52,
+      "end": 517.04,
+      "text": ">> Yes."
+    },
+    {
+      "start": 514.16,
+      "end": 519.2,
+      "text": ">> So there's this growing idea that"
+    },
+    {
+      "start": 517.04,
+      "end": 520.56,
+      "text": "accuracy is not the only metric that"
+    },
+    {
+      "start": 519.2,
+      "end": 523.6,
+      "text": "matters to models."
+    },
+    {
+      "start": 520.56,
+      "end": 525.84,
+      "text": ">> Yes. but also the time and amount of"
+    },
+    {
+      "start": 523.6,
+      "end": 528.24,
+      "text": "data that it takes to acquire new skills"
+    },
+    {
+      "start": 525.84,
+      "end": 529.04,
+      "text": "which is what this whole spirit of our"
+    },
+    {
+      "start": 528.24,
+      "end": 529.6,
+      "text": "AGI is."
+    },
+    {
+      "start": 529.04,
+      "end": 532.0,
+      "text": ">> Yes."
+    },
+    {
+      "start": 529.6,
+      "end": 535.76,
+      "text": ">> So I guess the question is how close are"
+    },
+    {
+      "start": 532.0,
+      "end": 538.64,
+      "text": "we to evaluating models in human time?"
+    },
+    {
+      "start": 535.76,
+      "end": 540.08,
+      "text": ">> Yes. So with regards to human time, we"
+    },
+    {
+      "start": 538.64,
+      "end": 541.28,
+      "text": "actually see time as a little bit"
+    },
+    {
+      "start": 540.08,
+      "end": 542.4,
+      "text": "arbitrary because if you throw more"
+    },
+    {
+      "start": 541.28,
+      "end": 544.32,
+      "text": "compute at something, you're going to"
+    },
+    {
+      "start": 542.4,
+      "end": 545.84,
+      "text": "reduce the time no matter what. So it"
+    },
+    {
+      "start": 544.32,
+      "end": 546.88,
+      "text": "it's it's almost just a decision on how"
+    },
+    {
+      "start": 545.84,
+      "end": 548.0,
+      "text": "much compute do you want, which is how"
+    },
+    {
+      "start": 546.88,
+      "end": 550.24,
+      "text": "much time it's going to take, which"
+    },
+    {
+      "start": 548.0,
+      "end": 551.28,
+      "text": "tells you that wall clock may not be the"
+    },
+    {
+      "start": 550.24,
+      "end": 553.52,
+      "text": "important part for what we have"
+    },
+    {
+      "start": 551.28,
+      "end": 555.52,
+      "text": "intelligence here. But there's two other"
+    },
+    {
+      "start": 553.52,
+      "end": 557.04,
+      "text": "factors that go into the equation of"
+    },
+    {
+      "start": 555.52,
+      "end": 558.4,
+      "text": "intelligence. Number one is going to be"
+    },
+    {
+      "start": 557.04,
+      "end": 559.84,
+      "text": "the amount of training data that you"
+    },
+    {
+      "start": 558.4,
+      "end": 561.36,
+      "text": "need, which is exactly what you said."
+    },
+    {
+      "start": 559.84,
+      "end": 563.84,
+      "text": "And then number two is actually the"
+    },
+    {
+      "start": 561.36,
+      "end": 565.6,
+      "text": "amount of energy that you need in order"
+    },
+    {
+      "start": 563.84,
+      "end": 567.04,
+      "text": "to execute upon that intelligence. And"
+    },
+    {
+      "start": 565.6,
+      "end": 569.2,
+      "text": "the reason why those are so fascinating"
+    },
+    {
+      "start": 567.04,
+      "end": 571.12,
+      "text": "is because we have benchmarks for humans"
+    },
+    {
+      "start": 569.2,
+      "end": 572.72,
+      "text": "on both of those. So we know how many"
+    },
+    {
+      "start": 571.12,
+      "end": 575.44,
+      "text": "data points a human needs in order to"
+    },
+    {
+      "start": 572.72,
+      "end": 577.92,
+      "text": "execute a task and we know how much"
+    },
+    {
+      "start": 575.44,
+      "end": 580.4,
+      "text": "energy the human brain consumes to"
+    },
+    {
+      "start": 577.92,
+      "end": 581.2,
+      "text": "execute a task. So with RKGI3, the way"
+    },
+    {
+      "start": 580.4,
+      "end": 583.44,
+      "text": "that we're actually going to be"
+    },
+    {
+      "start": 581.2,
+      "end": 584.96,
+      "text": "measuring efficiency, not just by"
+    },
+    {
+      "start": 583.44,
+      "end": 586.48,
+      "text": "accuracy,"
+    },
+    {
+      "start": 584.96,
+      "end": 587.92,
+      "text": "I I told you they're video games and"
+    },
+    {
+      "start": 586.48,
+      "end": 589.36,
+      "text": "they're turn-based video games. And so"
+    },
+    {
+      "start": 587.92,
+      "end": 591.36,
+      "text": "you click, you might click up, left,"
+    },
+    {
+      "start": 589.36,
+      "end": 592.8,
+      "text": "right, down, or something like that. And"
+    },
+    {
+      "start": 591.36,
+      "end": 595.52,
+      "text": "we're going to count the number of"
+    },
+    {
+      "start": 592.8,
+      "end": 597.28,
+      "text": "actions that it takes a human to beat"
+    },
+    {
+      "start": 595.52,
+      "end": 598.64,
+      "text": "the game. and we're going to compare"
+    },
+    {
+      "start": 597.28,
+      "end": 601.76,
+      "text": "that to the number of actions that it"
+    },
+    {
+      "start": 598.64,
+      "end": 604.72,
+      "text": "takes in AI to beat the game. So, back"
+    },
+    {
+      "start": 601.76,
+      "end": 606.0,
+      "text": "in the old um Atari days in 2016 when"
+    },
+    {
+      "start": 604.72,
+      "end": 607.28,
+      "text": "they were making a run at video games,"
+    },
+    {
+      "start": 606.0,
+      "end": 609.2,
+      "text": "then they would use brute force"
+    },
+    {
+      "start": 607.28,
+      "end": 610.96,
+      "text": "solutions and they would need millions"
+    },
+    {
+      "start": 609.2,
+      "end": 612.4,
+      "text": "and billions of frames of video game and"
+    },
+    {
+      "start": 610.96,
+      "end": 613.76,
+      "text": "they would need millions of actions to"
+    },
+    {
+      "start": 612.4,
+      "end": 615.6,
+      "text": "basically spam and brute force the"
+    },
+    {
+      "start": 613.76,
+      "end": 617.84,
+      "text": "space. Um, we're not going to let you do"
+    },
+    {
+      "start": 615.6,
+      "end": 620.24,
+      "text": "that on ARI 3 and so we're basically"
+    },
+    {
+      "start": 617.84,
+      "end": 622.56,
+      "text": "going to normalize AI performance to the"
+    },
+    {
+      "start": 620.24,
+      "end": 623.28,
+      "text": "average human performance that we see."
+    },
+    {
+      "start": 622.56,
+      "end": 623.92,
+      "text": ">> That's very cool."
+    },
+    {
+      "start": 623.28,
+      "end": 624.96,
+      "text": ">> Yes."
+    },
+    {
+      "start": 623.92,
+      "end": 628.96,
+      "text": ">> My last question."
+    },
+    {
+      "start": 624.96,
+      "end": 631.92,
+      "text": ">> Yes. Let's um wave a magic wand and then"
+    },
+    {
+      "start": 628.96,
+      "end": 634.32,
+      "text": "there's a super amazing team that"
+    },
+    {
+      "start": 631.92,
+      "end": 638.08,
+      "text": "suddenly tomorrow res launches a model"
+    },
+    {
+      "start": 634.32,
+      "end": 640.24,
+      "text": "that scores 100% in the arc AGI"
+    },
+    {
+      "start": 638.08,
+      "end": 641.76,
+      "text": ">> benchmarks."
+    },
+    {
+      "start": 640.24,
+      "end": 643.76,
+      "text": "What should the world update about the"
+    },
+    {
+      "start": 641.76,
+      "end": 644.16,
+      "text": "priors of what AGI is?"
+    },
+    {
+      "start": 643.76,
+      "end": 645.6,
+      "text": ">> Yeah,"
+    },
+    {
+      "start": 644.16,
+      "end": 647.6,
+      "text": ">> how would the world change?"
+    },
+    {
+      "start": 645.6,
+      "end": 649.76,
+      "text": ">> Well, it's it's funny you ask that. Um"
+    },
+    {
+      "start": 647.6,
+      "end": 652.16,
+      "text": "the what AGI is question is such a deep"
+    },
+    {
+      "start": 649.76,
+      "end": 653.6,
+      "text": "topic that we can go much deeper on. So"
+    },
+    {
+      "start": 652.16,
+      "end": 656.16,
+      "text": "um from the beginning Franuis has always"
+    },
+    {
+      "start": 653.6,
+      "end": 658.64,
+      "text": "said that the thing that solves arc AGI"
+    },
+    {
+      "start": 656.16,
+      "end": 661.76,
+      "text": "is necessary for AGI it's not"
+    },
+    {
+      "start": 658.64,
+      "end": 664.32,
+      "text": "sufficient. So what that means is um it"
+    },
+    {
+      "start": 661.76,
+      "end": 666.48,
+      "text": "the thing that solves arc AGI 1 and two"
+    },
+    {
+      "start": 664.32,
+      "end": 668.24,
+      "text": "will not be AGI but will it will be an"
+    },
+    {
+      "start": 666.48,
+      "end": 671.6,
+      "text": "authoritative source of generalization."
+    },
+    {
+      "start": 668.24,
+      "end": 674.56,
+      "text": "Now our claim for V3 is that it no the"
+    },
+    {
+      "start": 671.6,
+      "end": 676.64,
+      "text": "thing that beats it won't be AGI however"
+    },
+    {
+      "start": 674.56,
+      "end": 678.72,
+      "text": "it will be the most authoritative"
+    },
+    {
+      "start": 676.64,
+      "end": 680.72,
+      "text": "evidence that we have to date about a"
+    },
+    {
+      "start": 678.72,
+      "end": 682.0,
+      "text": "system that can generalize. If a team"
+    },
+    {
+      "start": 680.72,
+      "end": 683.68,
+      "text": "were to come out and be at it tomorrow,"
+    },
+    {
+      "start": 682.0,
+      "end": 685.52,
+      "text": "we would of course want to analyze that"
+    },
+    {
+      "start": 683.68,
+      "end": 687.2,
+      "text": "system, figure out where still are the"
+    },
+    {
+      "start": 685.52,
+      "end": 688.96,
+      "text": "failure points that come from that. And"
+    },
+    {
+      "start": 687.2,
+      "end": 690.48,
+      "text": "like any good benchmark creator, we want"
+    },
+    {
+      "start": 688.96,
+      "end": 691.84,
+      "text": "to continue to guide um the world"
+    },
+    {
+      "start": 690.48,
+      "end": 694.8,
+      "text": "towards what we believe to be proper"
+    },
+    {
+      "start": 691.84,
+      "end": 696.32,
+      "text": "AGI. But ultimately um ARP, we want to"
+    },
+    {
+      "start": 694.8,
+      "end": 698.24,
+      "text": "put ourselves in a position when we can"
+    },
+    {
+      "start": 696.32,
+      "end": 700.4,
+      "text": "fully understand and be ready to declare"
+    },
+    {
+      "start": 698.24,
+      "end": 701.92,
+      "text": "when we do actually have AGI. So if that"
+    },
+    {
+      "start": 700.4,
+      "end": 703.28,
+      "text": "team were to do it tomorrow, we'd want"
+    },
+    {
+      "start": 701.92,
+      "end": 704.16,
+      "text": "to have a conversation with them. We'll"
+    },
+    {
+      "start": 703.28,
+      "end": 705.68,
+      "text": "put it that way."
+    },
+    {
+      "start": 704.16,
+      "end": 706.72,
+      "text": ">> That's a good way to wrap. Thank you so"
+    },
+    {
+      "start": 705.68,
+      "end": 706.96,
+      "text": "much for coming and chatting with us,"
+    },
+    {
+      "start": 706.72,
+      "end": 710.12,
+      "text": "Greg."
+    },
+    {
+      "start": 706.96,
+      "end": 710.12,
+      "text": ">> Thank you, Diana."
+    }
+  ],
+  "word_count": 2476,
+  "fetched_at": "2025-12-21T02:19:04.083685Z"
+}

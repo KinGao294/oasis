@@ -1,0 +1,129 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "[Music] 10 years ago, AI could not tell the difference between dogs and cats. But we believe deep learning could go very far, that it could actually be a big triumph for humanity. So, we headed off on a journey. Some of our experiments worked, some didn't. But one day, a researcher playing around with text prediction noticed something interesting. He pulled on that thread. We weren't quite sure what we had, but we believed in scale, so we kept going. And we're learning a lot. We've had a lot of ideas over the last 10 years. And the last 3 years have been tremendous. [Music] But maybe the most incredible part of this is that we really are just getting started. [Music]",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "[Music]"
+    },
+    {
+      "start": 1.12,
+      "end": 6.88,
+      "text": "10 years ago, AI could not tell the"
+    },
+    {
+      "start": 4.16,
+      "end": 8.56,
+      "text": "difference between dogs and cats."
+    },
+    {
+      "start": 6.88,
+      "end": 11.52,
+      "text": "But we believe deep learning could go"
+    },
+    {
+      "start": 8.56,
+      "end": 14.88,
+      "text": "very far, that it could actually be a"
+    },
+    {
+      "start": 11.52,
+      "end": 18.16,
+      "text": "big triumph for humanity."
+    },
+    {
+      "start": 14.88,
+      "end": 21.04,
+      "text": "So, we headed off on a journey."
+    },
+    {
+      "start": 18.16,
+      "end": 23.28,
+      "text": "Some of our experiments worked,"
+    },
+    {
+      "start": 21.04,
+      "end": 25.04,
+      "text": "some didn't."
+    },
+    {
+      "start": 23.28,
+      "end": 27.2,
+      "text": "But one day, a researcher playing around"
+    },
+    {
+      "start": 25.04,
+      "end": 29.36,
+      "text": "with text prediction noticed something"
+    },
+    {
+      "start": 27.2,
+      "end": 33.24,
+      "text": "interesting."
+    },
+    {
+      "start": 29.36,
+      "end": 33.24,
+      "text": "He pulled on that thread."
+    },
+    {
+      "start": 34.4,
+      "end": 42.28,
+      "text": "We weren't quite sure what we had, but"
+    },
+    {
+      "start": 36.88,
+      "end": 42.28,
+      "text": "we believed in scale, so we kept going."
+    },
+    {
+      "start": 42.32,
+      "end": 46.56,
+      "text": "And we're learning a lot."
+    },
+    {
+      "start": 44.72,
+      "end": 49.36,
+      "text": "We've had a lot of ideas over the last"
+    },
+    {
+      "start": 46.56,
+      "end": 51.64,
+      "text": "10 years. And the last 3 years have been"
+    },
+    {
+      "start": 49.36,
+      "end": 53.36,
+      "text": "tremendous."
+    },
+    {
+      "start": 51.64,
+      "end": 55.12,
+      "text": "[Music]"
+    },
+    {
+      "start": 53.36,
+      "end": 58.0,
+      "text": "But maybe the most incredible part of"
+    },
+    {
+      "start": 55.12,
+      "end": 59.95,
+      "text": "this is that we really are just getting"
+    },
+    {
+      "start": 58.0,
+      "end": 66.84,
+      "text": "started."
+    },
+    {
+      "start": 59.95,
+      "end": 66.84,
+      "text": "[Music]"
+    }
+  ],
+  "word_count": 123,
+  "fetched_at": "2025-12-21T02:19:14.549450Z"
+}

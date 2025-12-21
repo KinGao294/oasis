@@ -1,0 +1,5124 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "Logistics is a very scaled driven industry and so the bigger you get the cheaper you get. Our take is that we can make the price of shipping anything by ocean container shipping between 8 and 10% cheaper over the next few years and AI is a big part of that. So our AI for that saved us 2% of our ocean freight spend while improving transit time 20%. Usually that's a trade-off. It's like either faster or cheaper but not both. >> And you're at $2 billion a year revenue and just getting started. Welcome back to another episode of the Light Cone. We've got a real treat today. We have Ryan Peterson of Flexport with us. He went through YC in 2014 and he is easily one of the most awesome founders I've ever met. [laughter] Ryan, thanks a lot for joining. >> Thank you. to start Ryan uh what is Flexport and what are some of the things in AI you're actually implementing right now >> so Flexport is a global logistics company built around a modern tech stack and that means we help companies ship cargo from point A to point B across any mode of transport so air truck and rail and get that cargo delivered hopefully on time and in full at a lower cost thanks to the tech what we're doing with AI is uh made it's an exa I had to make an exhaustive extend the length of the to pull that off. But starts with customer user experience. What can we do with their data? Getting them better access. How do we load containers in the optimal way? How do we uh put that container onto the right ship at the lowest cost while maintaining or beating transit time expectations? Automating just tons of work that's done in email or that you or phone or work that you wouldn't even do because the cost is too high for a human but actually does create some value that's worth it with AI. So most contracts in logistics come in giant Excel files, thousands of rows and you know a dozen tabs. You can't just feed that to OpenAI and get an answer, get a structured JSON file back. It needs intelligence. But writing code and then having AI write the code. You write a parser that ingests it and then have AI that can write those parsers for you. Learning, it's an endless list and we feel like we don't even know all the things that they can do. It's still pretty new. So basically one of the most uh human intensive things now can be streamlined to the point where actually it might uh affect GDP in the world. Our our take is that we can make the price of shipping anything by ocean container shipping cheaper by between eight and 10% cheaper over the next few years. And AI is a big not the only part of that but a big part of that as our our business model the way we think about it is as I call it scale economies shared which is the bigger you get the cheaper you get the more automation is a form of scale and the bigger you get or the cheaper you get you lower the lower your cost you give that share that with your customer which will make them do even more volume with you there's scale benefits that come logistics is a very scale driven industry uh and so the bigger you get the cheaper you get like the Costco model. I like I like I love Costco even though I don't shop there. I just love the business. Uh you keep driving down the price that makes you more attractive, more competitive and and just keep going. Yeah. >> And you're at $2 billion a year revenue and just getting started. >> Just getting started. Yes. Something I'm curious about. So from our perspective, we work all the startups and we've seen like AI over the last couple years go from like when Chat GBT launched and then like some startups in the batch start playing around with it and it's become like progressively more serious. Um, I think you're the first person we've had on the show who's like running a company at scale that was founded preAI. What's like what have the last few years been like for you from that perspective from like chat GBT launch? Like at what point did it start becoming like a thing you were paying more attention to? >> Like so many other people is on November of 20 was it 2022? It's already been a few years uh since the Chacht launch. Been personally obsessed ever ever since then. It's interesting to watch it take hold at the company and in some cases not take hold and you then saying like come on guys we can't be this boomer company like everybody needs to be using this. We're trying to drive that sense of paranoia from the from the top from me but but many others in the company maybe even more paranoid than me or more enthusiastic excited than me as well uh to say that story that we say of like well we're the only large logistics company founded since the web browser and I know there's a kid in the XYC batch who say hey we're the only freight forwarder [laughter] founded since GPT November 2022 like he's got a point um so we we have to be leading on this this is true of incumbents in an industry they have some real advantages when it comes to AI and benefiting from it and and one is the scale of the data two is the domain experience to know okay which problems should we be solving uh and some of those problems are small enough that you shouldn't start a whole company around the problem it's maybe a feature not a company uh but for them it's great it's a valuable feature that they could add and third is distribution like when we build or any large company builds a great AI product the next day it can be used by thousands of companies. Whereas a startup doing that has to go beg people for their data to train the model and trust get earn their trust to have that data from a security compliance standpoint and then third get the customer get you know so that's the huge advantage that any incumbent will have and we think we we definitely feel that we have that advantage at our scale um but the flip side where I think we also have an advantage is that we are still a young company relative to our industry but young in terms of our tech stack like we build our own tech therefore we can implement and integrate AI and just add it wherever we want. Most of our competitors treat AI treat technology period as it as a service that they pay for. Uh many cases like desktop app or like Windows remote desktop is very common in our industry. Uh but still it's it's something they buy and therefore you don't control the codebase. If you wanted to add AI to automate something or do something you're like it's not really it's hard. Has there been a specific moment since GBT launch where you started as a company taking it more seriously or or because my like the first version was a toy even within the YC batches like we sort of see some founders playing around with things but it wasn't clear that they'd actually be like companies founded on it. So I'm just curious what like founder running large scale company you start out you're like this is really interesting to me personally like was there some moment where you're like oh like we should probably try and like build something or do something internally with this. Yeah, I think a lot of it has come through in our hackathons, but there could be an interesting metric here is like what percentage of hackathon projects first of all used AI? Like we're building something with large language models. Uh and which percent of the projects actually you decided to fund and push into like let's actually make this thing real. It's not just a hack. >> Is hackathons something you've done for a while? Is that >> Yeah, we usually do two a year. >> Okay. >> I think now we're like kind of religious about two every year, but um but it's one to two a year. Uh where and for us it's very much a free-for-all. You can build anything you want. If you look now at the last two hackathons we've done, it been like 90% LLM based projects in my in I haven't studied it but it's just like feeling my feeling my gut. Whereas probably 18 months ago there were like four or five >> and we there's probably 50 60 teams that do a hackathon project each time. In the beginning of flexport I was very much of this idea that like you just let let the people get smart people and get out of their way and go execute. Uh, and >> oh, that sounds like manager mode. >> It was I I I had way too much manager mode and I had this idea of like human beings are going to flourish if only they could be set free. They [laughter] don't want to be told what to do by the man. That's why I started a company. I don't want to be told what to do. And I went through my own chesky moment of founder mode and recognizing, oh, you got to be way more tops down and directive and tell people what to do and get people aligned and rowing in the right direction. And that's been my evolution the last two years at Flexport. been pretty way more hands-on and hardcore in directing the business. But then as I see these hackathons, I'm like, I never would have come up with that idea in a million years. And I I got to let these guys build what they want to build and flourish. And so I'm starting to now come back on myself and say, where's the room in our product roadmap for bottoms up innovation? Certainly, you see it in these hackathons. trying to maybe even start making sure I do the hackathon timing before we say we do our kind of roadmap exercise every six months or so. We should probably do the hackathon right before that so that when you see a great idea you can budget it instead of after the budget. >> I mean there's a noteworthy change here that's happening for you that um I mean I think most uh companies might throw a hackathon and then in most hackathons the pro 90% of the projects are just like toys and you never return to them again. like you know someone gets a nice participation trophy and that's it. Yeah. >> But like it sounds like the difference right now in the age of LMS and age of intelligence is that these hackathon things are actually turning into real product lines and features for you. >> Yes. And and at the very least into debates in my head of being like man I've got to do that. But al I lost we're going to we're going to crush everybody with just our regular road map. But I had this after the very I think our last our next hackathon's in two weeks. So the last one was six months ago. I remember thinking afterwards, I'm like, you know what, we could just only do that stuff and we'll also win. >> Yeah, maybe win faster. Maybe >> it's highly unlikely that the person at the top now knows best what the best implications are, applications are that it's it's just as likely that someone on the front lines closer to the problem is going to go, hey, look, watch, it can do this. You go, oh man, I wouldn't have guessed it could do that. >> You kind of need engineers who are just really into it and have been playing around with it and just like understand how to like build the products in the first place to come up with the ideas probably. >> Yeah. engineers and engineers being really close to the business is something we've always prided ourselves on like really being in the weeds. And one of the other things that we've done uh is create a program for non-engineers to learn AI skills. Uh and if kind of formalized program so your manager has to agree, but you get one day a week for 90 days. It's a 90-day program. One day a week where we teach you kind of a AI boot camp vibe coding and different ways to apply. And this is a new program. So, we're only about 6 months into this. We'll see how it works out. But people love it and you are seeing gains. But the the promise of the leader who created this and convinced the managers to give up someone for 20% of their time to go into it was I will return them to you as 10 times more productive than their peers. I'm sure we haven't achieved that or it would show up in the metrics, but that is the, you know, that's the idea. >> How are you training all these folks to uplevel skill in AI? What are what are the sorts of things they're learning? Certainly it's it's cursor and a set of related products like that that let I think we're using something called streamlit but probably there's YC company I don't know maybe we should use replet or something but it's similar ideas you can spin up uh build your own little apps um build workflow automation tools to say okay because a lot of what flexport is we call it freight forwarding uh I've often joked it should be called freight email forwarding you're like taking docs and sending it on so how do you look at a person's job and there's no one better to look at it than the person doing the job and saying, \"Oh man, I'm doing the same thing over and over again. What if I instead it's like if everybody was an engineer, they would,\" and I've thought about this in the past is saying, \"Hey, what if I took one group of engineers and hire them as engineers as a big bait and switch and then tell them actually you're just moving freight, sorry, and watch them automate their way out of the job, right?\" and you sort of say, \"Okay, I never really wanted to do that to an engineer because I feel like I'd just have a revolt of but now you're kind of like, well, I could do it to a non-engineer who's already doing that job and turn them into a, you know, a lightweight no low code, >> which is cool.\" Yeah. >> This is going the other direction where you're taking really all these super domain experts and now they can finally build and they can automate themselves out of it instead of getting the engineer to do it. >> Yeah. And that that program started on our Amsterdam, we have an engineering office in Amsterdam. It started there. I think they did it without me knowing about it for the first six months and then now we're like, \"Oh, this is great. Everybody loves it.\" So, we're we're starting to bring it global to other offices. >> I wonder if you could share some examples of the AI projects that you have rolled out that have been most impactful over the last couple years, both customerf facing features, but also like any internal operational things that you guys have automated that maybe the customers have no idea about. >> Yeah. Um, the customerf facing one probably the most impactful like a lot of what you care about from your logistics company is your data. what's going on with my supply chain, what uh the types of data that people are looking at. So the way Flexport works, you place orders to your factories through Flexport. So I'm replenishing my inventory. I'm buying things. I'm placing purchase orders. So those flow out to the factory. Factory becomes a user. There's a nice network effect there. Once the cargo is ready, they place a booking uh and then we execute that a booking to move the freight to come pick it up on this date. uh and we'll execute it by air, ocean, truck, rail, whatever, and move it across the world for you. So that's kind of the the loop that we're trying to run. So you care a lot about the data for on-time performance, skew level performance, cost, you care a lot about that. There's customs attributes here that are super important with tariffs and everything that's happening. So being able to get that data is one of the core areas that Flexport shines already historically with AI. And this did start as a hackathon project. We just built like natural language ability so that you don't need to know SQL. You don't need to build dashboards. You just type your question and it generates those graphs, charts, tables. Don't think it does maps yet, but it should. And it works and that has done one or one customers love it. But two is uh it's about 25% of our account management time is spent helping people generate reports. >> That's the another huge metric for us is we're cheaper, we'll more people will choose us. It's not that we just started using AI with LLMs. Um, we've had a machine learning model for doing planning for and planning in the sense of logistics means let's say on a containerized basis. I've got a container, which ship should it go on? Therefore, you need all the contracts, their price, you need the sailing schedules like how long is it going to take, which route variability, all the around those both those things. So, our AI for that saved us 2% of our ocean freight spend while improving transit time 20%. Usually, that's a trade-off. It's like either faster or cheaper, but not both. Uh, so huge win there. Customers don't they care a lot about those metrics. They don't care how we did it. And for that one was the unlock parsing a bunch of unstructured like emails and data that you get from the shipping companies that have this but it's all like in like a big paragraph where like you couldn't just like run a simple query on it before >> sort of. Yeah. The way to think about it is um you've got if you just put a container on the cheapest contract you you made it's an optimization. Okay, which one's the cheapest but also the fastest? You know, I'm trading off. So that that's one thing that machines are better at. Uh and then it's the scale of that. So on a given week, we have about 2,000 containers that get cancelled by our customers. They place the booking and then they say, \"Oh, actually the cargo is not ready. The factory is late.\" It's just inevitable. It's going to happen. What software does that humans could never do is go through 10 times a day and taking each one of those containers and say, \"Okay, I lost this container. It's been cancelled. Is there another container that was meant to depart one week from now?\" And I'll grab that and move it forward. That's how you get the 20% transit time increase. And then the optimization piece of find is just find the cheapest contract like a solver out you know algorithm to go find >> and the humans can't do that because it has to happen really quickly. >> Is this happening 10 times a day for every container in the system. Okay, >> you know it's just like you wouldn't maybe you could but you wouldn't you have to hire like an crazy >> if you calculate this first principle sounded like that first version was using classical optimization problems and you had certain data about all these shipments inputs outputs and scheduled. What do you think is the delta that you could get with AI? Now that you could harness all the instructor data, what kind of efficiencies could you get? >> You may be able to get a lot more now that you're starting to see tool use because the tool itself is incredibly powerful. And I don't think an LLM will outperform that, but the LM can use that tool and it could do other things outside of that. So, you can we'll see. We haven't started to do that yet. So, we're actually still using that. I can actually email people or call them up and >> yeah, but it it could you assign the LLM the same solver problem, but it is going to default to use this tool and then it'll also say yes maybe this container I'm not sure if I could move it forward. I should ask the customer would be a good idea actually email, hey, is it okay if I bring you this container early? >> Like the solver's still there, but then uh basically the agent is the user. >> Yes. Instead of right now there's not really a user or there's a there's someone who's approving the plan and so you could make that person upstream of the solver uh choose the solver as one of many tools. So that'd be interesting. We haven't done that yet, but and then the other thing is so just routine work. Um for example, you've got a lot of email communication with your customer base. So how do you take this you say, \"Hey, I want to place a booking for a container, translate that into a booking.\" Uh LLMs are quite good at that. Or um a big use case today is verifying warehouse addresses and and other information and getting appointments. I've got to deliver to a warehouse. Quite costly to call the warehouse and be like, do I have the right address? You're not going to do it every time. And then you have a lot of misses where your address data was bad and your truck got lo, you know, pain in the ass. Um, so LLM's now before we deliver, we if we haven't delivered to the site in the last 3 months, there's an LLM agent. It does email and voice. >> Interesting. Wow. So if necessary, it'll actually call the warehouse and be like, \"Hey, >> can you confirm that 2 p.m. tomorrow is a okay time to deliver this?\" >> Yes. Yes. which is great because you're turning this previous communication protocol which is very much um I suppose very lossy to work sort of like the internet like TCP fully um acknowledge and you can get guarantees >> and sometimes it's not replacing work although I'm very happy to do so but like in some cases the work would have been too expensive so you just didn't do the work >> to do this phone call >> and even if a human could do it it's like not worth it. Another good one is just messages. So like the way we communicate with our customer some of it's email but a lot we try to drive as much as possible through our messaging applications inside the inside the flexport platform there's a huge amount of signal in that customer sentiment if if a customer in a AI we've trained the model to detect unhappy customers in the way that they message us and then that creates an automatic escalation to the manager of the the frontline person hey this person seems upset [laughter] there's a lot of emotion and logistics, you know, this your stuff. Your business is on the line. You need to get it delivered. Infinite list. Uh we we in fact we measured at the beginning of the year, we had automated 20% of the work. It was pretty low scale of automation. We're going to finish this year at 50%. And we had set a goal for ourselves next year of 80 where we thought 80 was actually the upper limit of what could be automated. This is it's not scientific, but now we feel like, oh, it's probably closer to 90 to 95 current. And then that'll get way more so as LLM keep progressing. >> How will that affect like the total cost of ocean freight? Like if all the human work gets automated, does stuff actually get materially cheaper? >> Yeah. Uh it's 10% of the end cost that the buy the the importer exporter pays for their freight. 10% if you look at the full P&L about 10% is the labor cost in the freight forwarding layer of logistics. >> Wow. So, so when AI is like fully rolled out, like stuff will actually get 10% cheaper. >> Freight moving the stuff. The cost of moving it, right? The stuff itself depends on what what the ratio is. But yeah, >> the but like the transportation costs of like international freight is actually like 10% >> on containerized ocean freight. That's our that's our view is that we can drop the price of everything by around 8% and maybe it goes to 9% uh over the next few years by doing this. That's has some uh big economic ripples in terms of if it's becoming cheaper to ship things across the ocean, is it going to create just more trade? I mean, there's also trade wars, but >> Exactly. It's very hard to control for that in a m world where tariffs just made everything like 10 times more expensive, but we're doing our part. Uh >> I mean, the white pill on AI right now is, you know, this hope and sort of possibility that uh AI rolled out properly across society would increase GDP 7% a year. So, this would be maybe 7% a year will double you in 10 years is the the law of 72. Yeah. Yeah. >> That is the hope, right? And I think more people should talk about that and uh and everyone's so worried about automating away the jobs. And I just think that misunderstands the role of companies in the in society. Like the role of companies is not to employ people. It's to deliver goods and services. And in fact, whoever employs the least number of people will have the lowest cost and win. And that's how they benefit society is lowering costs and making things more available for us to buy and sell. And then there's this idea, well, how are people going to make money if AI is doing all the work? And I I I think that that very much misunderstands human nature that we'll we'll just want more things. Like there's an infinite desire inside the the human soul can never be satisfied without God. Uh we need more stuff. Like we got to have more. We got to have more. And so >> we're trying to return to uh the garden. >> We may get a return to some I I think that actually the internet first we haven't quite reconciled this on like a spiritual philosophical level. the the emergence of these technologies and uh and AI we're not even beginning to of what it means for us but there's a period in history called the axial age it's about 500 years BC and that's when um coins really started to spread what you had if you think about it with coins is taking transactions between two people and make and really u making them very in impersonal you no longer care who you're doing business with I don't need of a ledger does this guy owe me money what's my relationship do I trust just like here take this thing. So, and it it actually led to this breakdown in societies because uh we just stopped being so knowing your neighbor like you used to only do business with your neighbors. Now you could just do business with any old person. The internet kind of does that at scale. What happened in the actual age? You had this breakdown of ability for of trust and you started to get degeneracy and all kinds of like things that start to break down in society and simultaneously across the world you had four pro major prophets that emerged. Uh well prophets of sort you had Buddha, you had Laa, Confucious and Socrates. They all lived at the exact same moment in time right as coins were taking holding as like a hey we need to >> we need to kind of like get our hands around how how do we behave in this new world and so I do think there there's an opportunity here maybe it could be you Gary at YC uh [laughter] to be the next uh the next Socrates yes >> I I'm in but I might not be the right person [laughter] but I mean I particularly like this idea that like the idea that what are humans going to do is a little bit invalid and that you know that's a little bit like going back 5 800 years and saying like, \"Oh my god, all of us are farmers and then what are we going to do when modern agriculture comes?\" Yeah. >> It's like we figured it out. Like we >> or the printing press. Yeah. >> Right. What are what are the monks going to do? They're transcribing words all day. There's no more jobs for transcript. Like >> so there will be implications for society and morality and how people relate to one another. And obviously like >> we have no idea what it's early days but history does kind of repeat and there's lessons there and figure out okay how does this but the human nature doesn't change much right and you can't satisfy humans you're just going to want more stuff the more money you have the more classically right cliche like the more you have the more you want [snorts] that's not going to go away so if you give people a lot more stuff it's not like oh I'm going to quit working most people aren't like that I'm going to get a lot of stuff I'll just quit working you find out you're miserable you want to keep producing keep contributing >> one of the interesting things that has been percolating around the YC community among young founders and like AI researchers that we've been talking to is this idea that like they're going to be humans in the loop. The humans in the loop may well be uh some some might be like governmentmandated, right? You in fintech there's a lot around uh you cannot have an AI algorithm like approve loans for instance. They're like requirements from the government in these high highly regulated industries to have humans in the loop. Uh and >> customs brokerage as well. We have to have a human that's approving the transaction before before we clear customs. >> Yeah. And so vibe coding is happening. There's this idea of you enter a prompt, it comes back with a bunch of stuff and then you just click accept all changes without reading any of it, right? Do you think this might happen that would this happen at flexport or would this happen uh more broadly across all businesses? Like what if businesses are at the core like hyper intelligent AI that uh has access to all your systems of record, knows what to do, optimizes constantly and then you have sort of like governmentmandated liability syncs that are humans in the loop. Ideally the organizations still actually serve human needs in which case like the decision to use, you know, vendor A or vendor B sometimes boils down to who brought me to the nicest steakhouse last. So then like the model for companies ends up being ASI of some sort like some sort of AI process at the core of each company but then you know humans attached to it as either like decision makers in like you know accepting or preventing liability andor holding relationships with other relationship holders at other companies. >> Yeah. And presumably you're still relating with you're still here to serve humans. you know, once we get to a world where AI is serving AI, then fair enough. You don't need to learn that much from the uh record of human history because there's no more humans involved in the loop. And I don't have a lot to say about that. But as long as there's humans there, there's going to humans are going to want to relate with other humans and have a relationship. And I think we're pretty pretty pretty far from humans preferring to work with AI than to work with other humans. We're seeing where AI is doing more and more work. You know, another good example is and just that you made me think of with your bank, you know, you have to have an approval approver is that even our our humans in customs brokerage across the industry, we benchmark you make about 2% mistakes and they file the entry with 2%. And we built this sort of like AI spell checker, the two-digit code for Australia versus Austria. You could easily get that wrong. Uh, and the AI will figure out like, oh, this thing is not made in Australia. It's made in Austria. I guess one question for you Ryan is if you were to start Flexport today, how would the company be different? >> Not that different. I hope the things that Flexport did really well compared to all the other tech companies who have tried and failed in our space both before we came along and in parallel is um we didn't look at ourselves as a pure technology company. We're willing to pick up the phone and solve problems with humans, drive down to the port. Still to this day, like I we've got a new customer who's asking us to do something really weird. We need a crane on the truck to unload this thing and we don't have that. It's not typical what we do. And I just said, \"Take the customer and I need you to drive there and follow the truck and make sure this goes well.\" [laughter] So, I I would not change that at all. And I think that's that that's the mistake that a lot of tech uh people will in traditional markets will fail at cuz they're like, \"Oh, if there's no API, I can't do it.\" If my agent is unable to do this task, I guess the task can't be done. >> No tool used for cranes. >> Yeah. And it might take you a long time and you should not try to automate that last that tail of things. you started and grew flexible like especially in the first few years during an era where just like more money coming into like there's more venture capital each year coming into startups and like you you had like multiple fundraising rounds like in in what ways was like that capital like an advantage and I feel like now it's sort of somewhat back there in the AI world now like the rounds are heating up there's more money flowing in it just sort of like post like the 2022 crash what's your advice to the founders now who are in these like companies that are growing and have options to raise like huge funding rounds like how should they think about it. >> Every company is super unique. So don't listen to advice on the podcast. Like get someone [laughter] who's like paying attention, you know, knows the details of your business, which no one will know better than you. Generally, capital is a beautiful thing. Having it in your bank account gives you a lot of advantages. Uh all you really need to care about at the end of the day is price per share because if you issue more stock, like the as long as your price per share goes up, you you are richer. Uh doesn't matter how many what percent you own until it comes to control. So there's two things that matter. Do you control your company legally or otherwise? Culturally, also works, but do you really have control over what's going to the decisions that are getting made and do you have a job and and price per share? And that all that's all that matters. I think I still think that's true. That's always how I thought about it is there's been a lot of dilution to our investors, but the price per share went up and everybody's made better off. I didn't take away anybody's shares, so you're better off. The part that I underappreciated and that I now take very, very seriously is the degree to which money just wants to spend itself. And you will end up making a lot of mistakes where and the biggest mistake is believing you for sure every company has a lot of problems and you start to default to like oh we'll just use money to solve this problem and the way that that manifests itself is oh I got this thing that we need to do okay hire someone to do it and you feel like you just end up very bloated we had too many people you start to really slow down and it's just a super bad cultural approach to problem solving like you're going to solve the problems s not the new people that are you're going to hire. So I I give this advice only one founder's ever listened to me, but I tell founders who who friends of mine who raise a large round is sure go raise a big round as long as you're up round like you're doing good. Great. Raise a large round >> then do a hiring freeze for 90 days >> the next day to tell your team culturally like nope the money's not going to solve our problems. We're going to solve our problems and keep that and sure go hire but it's because it's super it happened to us over and over again where you just like headcount got out of control. All the plans look good. I want to fund all the we're doing budgeting for next year and I'm like god it's so painful not to >> add opex add engineers whatever but you got to stay disciplined and the money will easily make that stop. [snorts] >> So I really psyched to hear about this idea that AI is actually transforming your business in pretty fundamental ways. It's like coming bottom up. What does Flexport look like in 2035? >> One cool [snorts] thing about Flexport is the way our vision has evolved. I mentioned we started as a customers broker. Yeah. We do all end to end all the way from factory floor to consumers stores like we have an e-commerce business that does fulfillment retail store distribution etc. So we want to take that globally to where you can really ship anything anywhere by any means any mode in any quantity and do it all via code like all available via APIs or voice or just like easy to execute transactions at the lowest cost automate away the cost and so that brands companies of all kinds don't spend time thinking about logistics. Logistics should be this utility that just works just like you don't spend time thinking about the electrical grid. You flip the light switch, you get power. Uh you go back to doing your thing, which is making something people want and talking to users, right? That's what I think companies should do. Our customers should be doing that all day. Like make great products, make a great brand to sell those products and we'll take care of everything in between in the most automated, fishable, efficient, reliable ways possible uh on a global basis. So today, and we have a long ways to go to actually make all that true. First off, the automation stuff I talked about making progress, but we got to keep going. And then the global aspect. So we have employee we shipped cargo to and from 147 countries last year but we only have employees in 22 countries and therefore people on the ground that can do the work. Yes, we are automating that work and in fact it's easier for us to automate our own employees work than it is some third party company that's doing work. You know even though they're in our software it's very hard to automate. We don't know what they're doing. Um [snorts] so we want to be in every country by 2035 certainly. uh in fact our road map has us covering 95% of all container trade with our own people doing all the work in the country uh in 2028. So by 2035 I think we could realistically say look we'll be everywhere that's that's legal and that is a big extension of our original vision and I didn't have all that in mind when I did YC demo day my pitch was like we'll do customs and then we'll add some other stuff but it wasn't like we will cover the earth >> any two planets on earth whatever you want to move we'll move it uh so yeah it's a very ambitious goal the good thing is I really genuinely we're going to win on tech we're winning we're going to extend our lead there relative to our peers our competitors, we're behind them on the global side. And that's super fun. If you told 25-year-old me, they're like, \"Oh, Ryan, your job this year is we got to launch Flexport in Indonesia, Australia, Japan, Philippines, Turkey, and Poland, and France.\" I'd be like, \"Oh my, really? I get to go to all those places and talk to the locals and stuff.\" So, it's a it's a pretty fun moment in our history, but also really challenging, but fun. Kind of challenging. Yeah. No better kind. [laughter] Ryan, thank you so much for joining us, man. It's always a pleasure. All right, we'll see you guys next time. [music] [music]",
+  "segments": [
+    {
+      "start": 0.16,
+      "end": 3.52,
+      "text": "Logistics is a very scaled driven"
+    },
+    {
+      "start": 1.76,
+      "end": 5.04,
+      "text": "industry and so the bigger you get the"
+    },
+    {
+      "start": 3.52,
+      "end": 6.72,
+      "text": "cheaper you get. Our take is that we can"
+    },
+    {
+      "start": 5.04,
+      "end": 8.96,
+      "text": "make the price of shipping anything by"
+    },
+    {
+      "start": 6.72,
+      "end": 11.2,
+      "text": "ocean container shipping between 8 and"
+    },
+    {
+      "start": 8.96,
+      "end": 13.68,
+      "text": "10% cheaper over the next few years and"
+    },
+    {
+      "start": 11.2,
+      "end": 17.44,
+      "text": "AI is a big part of that. So our AI for"
+    },
+    {
+      "start": 13.68,
+      "end": 20.24,
+      "text": "that saved us 2% of our ocean freight"
+    },
+    {
+      "start": 17.44,
+      "end": 22.16,
+      "text": "spend while improving transit time 20%."
+    },
+    {
+      "start": 20.24,
+      "end": 25.28,
+      "text": "Usually that's a trade-off. It's like"
+    },
+    {
+      "start": 22.16,
+      "end": 27.04,
+      "text": "either faster or cheaper but not both."
+    },
+    {
+      "start": 25.28,
+      "end": 30.68,
+      "text": ">> And you're at $2 billion a year revenue"
+    },
+    {
+      "start": 27.04,
+      "end": 30.68,
+      "text": "and just getting started."
+    },
+    {
+      "start": 35.68,
+      "end": 39.28,
+      "text": "Welcome back to another episode of the"
+    },
+    {
+      "start": 37.6,
+      "end": 42.16,
+      "text": "Light Cone. We've got a real treat"
+    },
+    {
+      "start": 39.28,
+      "end": 44.8,
+      "text": "today. We have Ryan Peterson of Flexport"
+    },
+    {
+      "start": 42.16,
+      "end": 48.0,
+      "text": "with us. He went through YC in 2014 and"
+    },
+    {
+      "start": 44.8,
+      "end": 50.64,
+      "text": "he is easily one of the most awesome"
+    },
+    {
+      "start": 48.0,
+      "end": 51.76,
+      "text": "founders I've ever met. [laughter] Ryan,"
+    },
+    {
+      "start": 50.64,
+      "end": 54.08,
+      "text": "thanks a lot for joining."
+    },
+    {
+      "start": 51.76,
+      "end": 56.0,
+      "text": ">> Thank you. to start Ryan uh what is"
+    },
+    {
+      "start": 54.08,
+      "end": 58.32,
+      "text": "Flexport and what are some of the things"
+    },
+    {
+      "start": 56.0,
+      "end": 58.88,
+      "text": "in AI you're actually implementing right"
+    },
+    {
+      "start": 58.32,
+      "end": 60.88,
+      "text": "now"
+    },
+    {
+      "start": 58.88,
+      "end": 63.12,
+      "text": ">> so Flexport is a global logistics"
+    },
+    {
+      "start": 60.88,
+      "end": 65.44,
+      "text": "company built around a modern tech stack"
+    },
+    {
+      "start": 63.12,
+      "end": 68.48,
+      "text": "and that means we help companies ship"
+    },
+    {
+      "start": 65.44,
+      "end": 71.12,
+      "text": "cargo from point A to point B across any"
+    },
+    {
+      "start": 68.48,
+      "end": 73.12,
+      "text": "mode of transport so air"
+    },
+    {
+      "start": 71.12,
+      "end": 75.2,
+      "text": "truck and rail and get that cargo"
+    },
+    {
+      "start": 73.12,
+      "end": 77.44,
+      "text": "delivered hopefully on time and in full"
+    },
+    {
+      "start": 75.2,
+      "end": 79.12,
+      "text": "at a lower cost thanks to the tech what"
+    },
+    {
+      "start": 77.44,
+      "end": 80.96,
+      "text": "we're doing with AI is uh made it's an"
+    },
+    {
+      "start": 79.12,
+      "end": 83.04,
+      "text": "exa I had to make an exhaustive extend"
+    },
+    {
+      "start": 80.96,
+      "end": 85.2,
+      "text": "the length of the to pull that off. But"
+    },
+    {
+      "start": 83.04,
+      "end": 86.88,
+      "text": "starts with customer user experience."
+    },
+    {
+      "start": 85.2,
+      "end": 88.48,
+      "text": "What can we do with their data? Getting"
+    },
+    {
+      "start": 86.88,
+      "end": 90.72,
+      "text": "them better access. How do we load"
+    },
+    {
+      "start": 88.48,
+      "end": 92.4,
+      "text": "containers in the optimal way? How do we"
+    },
+    {
+      "start": 90.72,
+      "end": 94.24,
+      "text": "uh put that container onto the right"
+    },
+    {
+      "start": 92.4,
+      "end": 96.88,
+      "text": "ship at the lowest cost while"
+    },
+    {
+      "start": 94.24,
+      "end": 99.52,
+      "text": "maintaining or beating transit time"
+    },
+    {
+      "start": 96.88,
+      "end": 102.16,
+      "text": "expectations? Automating just tons of"
+    },
+    {
+      "start": 99.52,
+      "end": 104.88,
+      "text": "work that's done in email or that you or"
+    },
+    {
+      "start": 102.16,
+      "end": 108.0,
+      "text": "phone or work that you wouldn't even do"
+    },
+    {
+      "start": 104.88,
+      "end": 109.52,
+      "text": "because the cost is too high for a human"
+    },
+    {
+      "start": 108.0,
+      "end": 111.84,
+      "text": "but actually does create some value"
+    },
+    {
+      "start": 109.52,
+      "end": 113.6,
+      "text": "that's worth it with AI. So most"
+    },
+    {
+      "start": 111.84,
+      "end": 116.24,
+      "text": "contracts in logistics come in giant"
+    },
+    {
+      "start": 113.6,
+      "end": 118.0,
+      "text": "Excel files, thousands of rows and you"
+    },
+    {
+      "start": 116.24,
+      "end": 119.84,
+      "text": "know a dozen tabs. You can't just feed"
+    },
+    {
+      "start": 118.0,
+      "end": 121.6,
+      "text": "that to OpenAI and get an answer, get a"
+    },
+    {
+      "start": 119.84,
+      "end": 124.56,
+      "text": "structured JSON file back. It needs"
+    },
+    {
+      "start": 121.6,
+      "end": 126.24,
+      "text": "intelligence. But writing code and then"
+    },
+    {
+      "start": 124.56,
+      "end": 129.12,
+      "text": "having AI write the code. You write a"
+    },
+    {
+      "start": 126.24,
+      "end": 131.2,
+      "text": "parser that ingests it and then have AI"
+    },
+    {
+      "start": 129.12,
+      "end": 133.36,
+      "text": "that can write those parsers for you."
+    },
+    {
+      "start": 131.2,
+      "end": 134.56,
+      "text": "Learning, it's an endless list and we"
+    },
+    {
+      "start": 133.36,
+      "end": 135.6,
+      "text": "feel like we don't even know all the"
+    },
+    {
+      "start": 134.56,
+      "end": 137.92,
+      "text": "things that they can do. It's still"
+    },
+    {
+      "start": 135.6,
+      "end": 140.48,
+      "text": "pretty new. So basically one of the most"
+    },
+    {
+      "start": 137.92,
+      "end": 142.48,
+      "text": "uh human intensive things now can be"
+    },
+    {
+      "start": 140.48,
+      "end": 145.84,
+      "text": "streamlined to the point where actually"
+    },
+    {
+      "start": 142.48,
+      "end": 147.2,
+      "text": "it might uh affect GDP in the world. Our"
+    },
+    {
+      "start": 145.84,
+      "end": 149.44,
+      "text": "our take is that we can make the price"
+    },
+    {
+      "start": 147.2,
+      "end": 151.76,
+      "text": "of shipping anything by ocean container"
+    },
+    {
+      "start": 149.44,
+      "end": 154.0,
+      "text": "shipping cheaper by between eight and"
+    },
+    {
+      "start": 151.76,
+      "end": 155.52,
+      "text": "10% cheaper over the next few years. And"
+    },
+    {
+      "start": 154.0,
+      "end": 157.2,
+      "text": "AI is a big not the only part of that"
+    },
+    {
+      "start": 155.52,
+      "end": 158.64,
+      "text": "but a big part of that as our our"
+    },
+    {
+      "start": 157.2,
+      "end": 161.84,
+      "text": "business model the way we think about it"
+    },
+    {
+      "start": 158.64,
+      "end": 163.52,
+      "text": "is as I call it scale economies shared"
+    },
+    {
+      "start": 161.84,
+      "end": 165.2,
+      "text": "which is the bigger you get the cheaper"
+    },
+    {
+      "start": 163.52,
+      "end": 167.04,
+      "text": "you get the more automation is a form of"
+    },
+    {
+      "start": 165.2,
+      "end": 169.68,
+      "text": "scale and the bigger you get or the"
+    },
+    {
+      "start": 167.04,
+      "end": 171.68,
+      "text": "cheaper you get you lower the lower your"
+    },
+    {
+      "start": 169.68,
+      "end": 173.6,
+      "text": "cost you give that share that with your"
+    },
+    {
+      "start": 171.68,
+      "end": 176.4,
+      "text": "customer which will make them do even"
+    },
+    {
+      "start": 173.6,
+      "end": 178.72,
+      "text": "more volume with you there's scale"
+    },
+    {
+      "start": 176.4,
+      "end": 181.12,
+      "text": "benefits that come logistics is a very"
+    },
+    {
+      "start": 178.72,
+      "end": 183.28,
+      "text": "scale driven industry uh and so the"
+    },
+    {
+      "start": 181.12,
+      "end": 185.12,
+      "text": "bigger you get the cheaper you get like"
+    },
+    {
+      "start": 183.28,
+      "end": 186.64,
+      "text": "the Costco model. I like I like I love"
+    },
+    {
+      "start": 185.12,
+      "end": 188.64,
+      "text": "Costco even though I don't shop there. I"
+    },
+    {
+      "start": 186.64,
+      "end": 190.0,
+      "text": "just love the business. Uh you keep"
+    },
+    {
+      "start": 188.64,
+      "end": 191.52,
+      "text": "driving down the price that makes you"
+    },
+    {
+      "start": 190.0,
+      "end": 192.88,
+      "text": "more attractive, more competitive and"
+    },
+    {
+      "start": 191.52,
+      "end": 194.64,
+      "text": "and just keep going. Yeah."
+    },
+    {
+      "start": 192.88,
+      "end": 195.68,
+      "text": ">> And you're at $2 billion a year revenue"
+    },
+    {
+      "start": 194.64,
+      "end": 197.44,
+      "text": "and just getting started."
+    },
+    {
+      "start": 195.68,
+      "end": 199.28,
+      "text": ">> Just getting started. Yes. Something I'm"
+    },
+    {
+      "start": 197.44,
+      "end": 200.8,
+      "text": "curious about. So from our perspective,"
+    },
+    {
+      "start": 199.28,
+      "end": 202.4,
+      "text": "we work all the startups and we've seen"
+    },
+    {
+      "start": 200.8,
+      "end": 204.08,
+      "text": "like AI over the last couple years go"
+    },
+    {
+      "start": 202.4,
+      "end": 205.44,
+      "text": "from like when Chat GBT launched and"
+    },
+    {
+      "start": 204.08,
+      "end": 206.56,
+      "text": "then like some startups in the batch"
+    },
+    {
+      "start": 205.44,
+      "end": 208.08,
+      "text": "start playing around with it and it's"
+    },
+    {
+      "start": 206.56,
+      "end": 209.6,
+      "text": "become like progressively more serious."
+    },
+    {
+      "start": 208.08,
+      "end": 211.92,
+      "text": "Um, I think you're the first person"
+    },
+    {
+      "start": 209.6,
+      "end": 213.84,
+      "text": "we've had on the show who's like running"
+    },
+    {
+      "start": 211.92,
+      "end": 215.36,
+      "text": "a company at scale that was founded"
+    },
+    {
+      "start": 213.84,
+      "end": 217.04,
+      "text": "preAI."
+    },
+    {
+      "start": 215.36,
+      "end": 218.72,
+      "text": "What's like what have the last few years"
+    },
+    {
+      "start": 217.04,
+      "end": 221.6,
+      "text": "been like for you from that perspective"
+    },
+    {
+      "start": 218.72,
+      "end": 223.2,
+      "text": "from like chat GBT launch? Like at what"
+    },
+    {
+      "start": 221.6,
+      "end": 224.72,
+      "text": "point did it start becoming like a thing"
+    },
+    {
+      "start": 223.2,
+      "end": 226.48,
+      "text": "you were paying more attention to?"
+    },
+    {
+      "start": 224.72,
+      "end": 229.36,
+      "text": ">> Like so many other people is on November"
+    },
+    {
+      "start": 226.48,
+      "end": 231.6,
+      "text": "of 20 was it 2022? It's already been a"
+    },
+    {
+      "start": 229.36,
+      "end": 233.44,
+      "text": "few years uh since the Chacht launch."
+    },
+    {
+      "start": 231.6,
+      "end": 235.44,
+      "text": "Been personally obsessed ever ever since"
+    },
+    {
+      "start": 233.44,
+      "end": 238.0,
+      "text": "then. It's interesting to watch it take"
+    },
+    {
+      "start": 235.44,
+      "end": 240.32,
+      "text": "hold at the company and in some cases"
+    },
+    {
+      "start": 238.0,
+      "end": 242.48,
+      "text": "not take hold and you then saying like"
+    },
+    {
+      "start": 240.32,
+      "end": 244.8,
+      "text": "come on guys we can't be this boomer"
+    },
+    {
+      "start": 242.48,
+      "end": 246.8,
+      "text": "company like everybody needs to be using"
+    },
+    {
+      "start": 244.8,
+      "end": 248.72,
+      "text": "this. We're trying to drive that sense"
+    },
+    {
+      "start": 246.8,
+      "end": 250.56,
+      "text": "of paranoia from the from the top from"
+    },
+    {
+      "start": 248.72,
+      "end": 252.24,
+      "text": "me but but many others in the company"
+    },
+    {
+      "start": 250.56,
+      "end": 255.36,
+      "text": "maybe even more paranoid than me or more"
+    },
+    {
+      "start": 252.24,
+      "end": 257.76,
+      "text": "enthusiastic excited than me as well uh"
+    },
+    {
+      "start": 255.36,
+      "end": 259.84,
+      "text": "to say that story that we say of like"
+    },
+    {
+      "start": 257.76,
+      "end": 261.68,
+      "text": "well we're the only large logistics"
+    },
+    {
+      "start": 259.84,
+      "end": 263.68,
+      "text": "company founded since the web browser"
+    },
+    {
+      "start": 261.68,
+      "end": 265.84,
+      "text": "and I know there's a kid in the XYC"
+    },
+    {
+      "start": 263.68,
+      "end": 266.48,
+      "text": "batch who say hey we're the only freight"
+    },
+    {
+      "start": 265.84,
+      "end": 270.4,
+      "text": "forwarder [laughter]"
+    },
+    {
+      "start": 266.48,
+      "end": 273.2,
+      "text": "founded since GPT November 2022 like"
+    },
+    {
+      "start": 270.4,
+      "end": 275.36,
+      "text": "he's got a point um so we we have to be"
+    },
+    {
+      "start": 273.2,
+      "end": 278.0,
+      "text": "leading on this this is true of"
+    },
+    {
+      "start": 275.36,
+      "end": 279.68,
+      "text": "incumbents in an industry they have some"
+    },
+    {
+      "start": 278.0,
+      "end": 281.76,
+      "text": "real advantages when it comes to AI and"
+    },
+    {
+      "start": 279.68,
+      "end": 284.72,
+      "text": "benefiting from it and and one is the"
+    },
+    {
+      "start": 281.76,
+      "end": 286.96,
+      "text": "scale of the data two is the domain"
+    },
+    {
+      "start": 284.72,
+      "end": 289.04,
+      "text": "experience to know okay which problems"
+    },
+    {
+      "start": 286.96,
+      "end": 290.4,
+      "text": "should we be solving uh and some of"
+    },
+    {
+      "start": 289.04,
+      "end": 291.84,
+      "text": "those problems are small enough that you"
+    },
+    {
+      "start": 290.4,
+      "end": 294.08,
+      "text": "shouldn't start a whole company around"
+    },
+    {
+      "start": 291.84,
+      "end": 296.48,
+      "text": "the problem it's maybe a feature not a"
+    },
+    {
+      "start": 294.08,
+      "end": 298.4,
+      "text": "company uh but for them it's great it's"
+    },
+    {
+      "start": 296.48,
+      "end": 300.32,
+      "text": "a valuable feature that they could add"
+    },
+    {
+      "start": 298.4,
+      "end": 303.12,
+      "text": "and third is distribution like when we"
+    },
+    {
+      "start": 300.32,
+      "end": 305.76,
+      "text": "build or any large company builds a"
+    },
+    {
+      "start": 303.12,
+      "end": 307.68,
+      "text": "great AI product the next day it can be"
+    },
+    {
+      "start": 305.76,
+      "end": 309.28,
+      "text": "used by thousands of companies. Whereas"
+    },
+    {
+      "start": 307.68,
+      "end": 311.84,
+      "text": "a startup doing that has to go beg"
+    },
+    {
+      "start": 309.28,
+      "end": 314.16,
+      "text": "people for their data to train the model"
+    },
+    {
+      "start": 311.84,
+      "end": 316.16,
+      "text": "and trust get earn their trust to have"
+    },
+    {
+      "start": 314.16,
+      "end": 318.4,
+      "text": "that data from a security compliance"
+    },
+    {
+      "start": 316.16,
+      "end": 320.16,
+      "text": "standpoint and then third get the"
+    },
+    {
+      "start": 318.4,
+      "end": 321.6,
+      "text": "customer get you know so that's the huge"
+    },
+    {
+      "start": 320.16,
+      "end": 323.04,
+      "text": "advantage that any incumbent will have"
+    },
+    {
+      "start": 321.6,
+      "end": 325.36,
+      "text": "and we think we we definitely feel that"
+    },
+    {
+      "start": 323.04,
+      "end": 328.48,
+      "text": "we have that advantage at our scale um"
+    },
+    {
+      "start": 325.36,
+      "end": 330.08,
+      "text": "but the flip side where I think we also"
+    },
+    {
+      "start": 328.48,
+      "end": 331.68,
+      "text": "have an advantage is that we are still a"
+    },
+    {
+      "start": 330.08,
+      "end": 334.0,
+      "text": "young company relative to our industry"
+    },
+    {
+      "start": 331.68,
+      "end": 335.76,
+      "text": "but young in terms of our tech stack"
+    },
+    {
+      "start": 334.0,
+      "end": 338.24,
+      "text": "like we build our own tech therefore we"
+    },
+    {
+      "start": 335.76,
+      "end": 340.16,
+      "text": "can implement and integrate AI and just"
+    },
+    {
+      "start": 338.24,
+      "end": 342.72,
+      "text": "add it wherever we want. Most of our"
+    },
+    {
+      "start": 340.16,
+      "end": 345.28,
+      "text": "competitors treat AI treat technology"
+    },
+    {
+      "start": 342.72,
+      "end": 347.92,
+      "text": "period as it as a service that they pay"
+    },
+    {
+      "start": 345.28,
+      "end": 349.52,
+      "text": "for. Uh many cases like desktop app or"
+    },
+    {
+      "start": 347.92,
+      "end": 351.44,
+      "text": "like Windows remote desktop is very"
+    },
+    {
+      "start": 349.52,
+      "end": 352.8,
+      "text": "common in our industry. Uh but still"
+    },
+    {
+      "start": 351.44,
+      "end": 353.76,
+      "text": "it's it's something they buy and"
+    },
+    {
+      "start": 352.8,
+      "end": 356.0,
+      "text": "therefore you don't control the"
+    },
+    {
+      "start": 353.76,
+      "end": 357.2,
+      "text": "codebase. If you wanted to add AI to"
+    },
+    {
+      "start": 356.0,
+      "end": 359.6,
+      "text": "automate something or do something"
+    },
+    {
+      "start": 357.2,
+      "end": 361.28,
+      "text": "you're like it's not really it's hard."
+    },
+    {
+      "start": 359.6,
+      "end": 363.36,
+      "text": "Has there been a specific moment since"
+    },
+    {
+      "start": 361.28,
+      "end": 366.4,
+      "text": "GBT launch where you started as a"
+    },
+    {
+      "start": 363.36,
+      "end": 368.24,
+      "text": "company taking it more seriously or or"
+    },
+    {
+      "start": 366.4,
+      "end": 370.24,
+      "text": "because my like the first version was a"
+    },
+    {
+      "start": 368.24,
+      "end": 371.76,
+      "text": "toy even within the YC batches like we"
+    },
+    {
+      "start": 370.24,
+      "end": 372.96,
+      "text": "sort of see some founders playing around"
+    },
+    {
+      "start": 371.76,
+      "end": 374.8,
+      "text": "with things but it wasn't clear that"
+    },
+    {
+      "start": 372.96,
+      "end": 376.56,
+      "text": "they'd actually be like companies"
+    },
+    {
+      "start": 374.8,
+      "end": 379.44,
+      "text": "founded on it. So I'm just curious what"
+    },
+    {
+      "start": 376.56,
+      "end": 380.64,
+      "text": "like founder running large scale company"
+    },
+    {
+      "start": 379.44,
+      "end": 382.0,
+      "text": "you start out you're like this is really"
+    },
+    {
+      "start": 380.64,
+      "end": 383.28,
+      "text": "interesting to me personally like was"
+    },
+    {
+      "start": 382.0,
+      "end": 384.8,
+      "text": "there some moment where you're like oh"
+    },
+    {
+      "start": 383.28,
+      "end": 386.08,
+      "text": "like we should probably try and like"
+    },
+    {
+      "start": 384.8,
+      "end": 387.92,
+      "text": "build something or do something"
+    },
+    {
+      "start": 386.08,
+      "end": 389.36,
+      "text": "internally with this. Yeah, I think a"
+    },
+    {
+      "start": 387.92,
+      "end": 390.96,
+      "text": "lot of it has come through in our"
+    },
+    {
+      "start": 389.36,
+      "end": 392.56,
+      "text": "hackathons, but there could be an"
+    },
+    {
+      "start": 390.96,
+      "end": 394.0,
+      "text": "interesting metric here is like what"
+    },
+    {
+      "start": 392.56,
+      "end": 396.24,
+      "text": "percentage of hackathon projects first"
+    },
+    {
+      "start": 394.0,
+      "end": 398.48,
+      "text": "of all used AI? Like we're building"
+    },
+    {
+      "start": 396.24,
+      "end": 399.76,
+      "text": "something with large language models. Uh"
+    },
+    {
+      "start": 398.48,
+      "end": 401.92,
+      "text": "and which percent of the projects"
+    },
+    {
+      "start": 399.76,
+      "end": 403.52,
+      "text": "actually you decided to fund and push"
+    },
+    {
+      "start": 401.92,
+      "end": 404.88,
+      "text": "into like let's actually make this thing"
+    },
+    {
+      "start": 403.52,
+      "end": 406.0,
+      "text": "real. It's not just a hack."
+    },
+    {
+      "start": 404.88,
+      "end": 406.88,
+      "text": ">> Is hackathons something you've done for"
+    },
+    {
+      "start": 406.0,
+      "end": 408.48,
+      "text": "a while? Is that"
+    },
+    {
+      "start": 406.88,
+      "end": 408.96,
+      "text": ">> Yeah, we usually do two a year."
+    },
+    {
+      "start": 408.48,
+      "end": 410.48,
+      "text": ">> Okay."
+    },
+    {
+      "start": 408.96,
+      "end": 412.24,
+      "text": ">> I think now we're like kind of religious"
+    },
+    {
+      "start": 410.48,
+      "end": 414.64,
+      "text": "about two every year, but um but it's"
+    },
+    {
+      "start": 412.24,
+      "end": 416.4,
+      "text": "one to two a year. Uh where and for us"
+    },
+    {
+      "start": 414.64,
+      "end": 418.08,
+      "text": "it's very much a free-for-all. You can"
+    },
+    {
+      "start": 416.4,
+      "end": 419.84,
+      "text": "build anything you want. If you look now"
+    },
+    {
+      "start": 418.08,
+      "end": 424.64,
+      "text": "at the last two hackathons we've done,"
+    },
+    {
+      "start": 419.84,
+      "end": 426.24,
+      "text": "it been like 90% LLM based projects in"
+    },
+    {
+      "start": 424.64,
+      "end": 428.24,
+      "text": "my in I haven't studied it but it's just"
+    },
+    {
+      "start": 426.24,
+      "end": 429.76,
+      "text": "like feeling my feeling my gut. Whereas"
+    },
+    {
+      "start": 428.24,
+      "end": 431.04,
+      "text": "probably 18 months ago there were like"
+    },
+    {
+      "start": 429.76,
+      "end": 434.56,
+      "text": "four or five"
+    },
+    {
+      "start": 431.04,
+      "end": 436.8,
+      "text": ">> and we there's probably 50 60 teams that"
+    },
+    {
+      "start": 434.56,
+      "end": 438.96,
+      "text": "do a hackathon project each time. In the"
+    },
+    {
+      "start": 436.8,
+      "end": 441.12,
+      "text": "beginning of flexport I was very much of"
+    },
+    {
+      "start": 438.96,
+      "end": 442.8,
+      "text": "this idea that like you just let let the"
+    },
+    {
+      "start": 441.12,
+      "end": 445.12,
+      "text": "people get smart people and get out of"
+    },
+    {
+      "start": 442.8,
+      "end": 446.88,
+      "text": "their way and go execute. Uh, and"
+    },
+    {
+      "start": 445.12,
+      "end": 448.72,
+      "text": ">> oh, that sounds like manager mode."
+    },
+    {
+      "start": 446.88,
+      "end": 450.48,
+      "text": ">> It was I I I had way too much manager"
+    },
+    {
+      "start": 448.72,
+      "end": 452.16,
+      "text": "mode and I had this idea of like human"
+    },
+    {
+      "start": 450.48,
+      "end": 453.44,
+      "text": "beings are going to flourish if only"
+    },
+    {
+      "start": 452.16,
+      "end": 455.36,
+      "text": "they could be set free. They [laughter]"
+    },
+    {
+      "start": 453.44,
+      "end": 456.88,
+      "text": "don't want to be told what to do by the"
+    },
+    {
+      "start": 455.36,
+      "end": 458.64,
+      "text": "man. That's why I started a company. I"
+    },
+    {
+      "start": 456.88,
+      "end": 460.16,
+      "text": "don't want to be told what to do. And I"
+    },
+    {
+      "start": 458.64,
+      "end": 461.68,
+      "text": "went through my own chesky moment of"
+    },
+    {
+      "start": 460.16,
+      "end": 463.76,
+      "text": "founder mode and recognizing, oh, you"
+    },
+    {
+      "start": 461.68,
+      "end": 465.92,
+      "text": "got to be way more tops down and"
+    },
+    {
+      "start": 463.76,
+      "end": 467.28,
+      "text": "directive and tell people what to do and"
+    },
+    {
+      "start": 465.92,
+      "end": 468.88,
+      "text": "get people aligned and rowing in the"
+    },
+    {
+      "start": 467.28,
+      "end": 470.08,
+      "text": "right direction. And that's been my"
+    },
+    {
+      "start": 468.88,
+      "end": 472.4,
+      "text": "evolution the last two years at"
+    },
+    {
+      "start": 470.08,
+      "end": 474.0,
+      "text": "Flexport. been pretty way more hands-on"
+    },
+    {
+      "start": 472.4,
+      "end": 476.24,
+      "text": "and hardcore in directing the business."
+    },
+    {
+      "start": 474.0,
+      "end": 477.52,
+      "text": "But then as I see these hackathons, I'm"
+    },
+    {
+      "start": 476.24,
+      "end": 480.64,
+      "text": "like, I never would have come up with"
+    },
+    {
+      "start": 477.52,
+      "end": 482.24,
+      "text": "that idea in a million years. And I I"
+    },
+    {
+      "start": 480.64,
+      "end": 483.84,
+      "text": "got to let these guys build what they"
+    },
+    {
+      "start": 482.24,
+      "end": 485.92,
+      "text": "want to build and flourish. And so I'm"
+    },
+    {
+      "start": 483.84,
+      "end": 488.4,
+      "text": "starting to now come back on myself and"
+    },
+    {
+      "start": 485.92,
+      "end": 491.84,
+      "text": "say, where's the room in our product"
+    },
+    {
+      "start": 488.4,
+      "end": 492.8,
+      "text": "roadmap for bottoms up innovation?"
+    },
+    {
+      "start": 491.84,
+      "end": 494.16,
+      "text": "Certainly, you see it in these"
+    },
+    {
+      "start": 492.8,
+      "end": 496.16,
+      "text": "hackathons."
+    },
+    {
+      "start": 494.16,
+      "end": 499.36,
+      "text": "trying to maybe even start making sure I"
+    },
+    {
+      "start": 496.16,
+      "end": 500.88,
+      "text": "do the hackathon timing before we say we"
+    },
+    {
+      "start": 499.36,
+      "end": 502.08,
+      "text": "do our kind of roadmap exercise every"
+    },
+    {
+      "start": 500.88,
+      "end": 503.76,
+      "text": "six months or so. We should probably do"
+    },
+    {
+      "start": 502.08,
+      "end": 505.28,
+      "text": "the hackathon right before that so that"
+    },
+    {
+      "start": 503.76,
+      "end": 507.12,
+      "text": "when you see a great idea you can budget"
+    },
+    {
+      "start": 505.28,
+      "end": 508.64,
+      "text": "it instead of after the budget."
+    },
+    {
+      "start": 507.12,
+      "end": 511.2,
+      "text": ">> I mean there's a noteworthy change here"
+    },
+    {
+      "start": 508.64,
+      "end": 513.52,
+      "text": "that's happening for you that um I mean"
+    },
+    {
+      "start": 511.2,
+      "end": 515.6,
+      "text": "I think most uh companies might throw a"
+    },
+    {
+      "start": 513.52,
+      "end": 518.0,
+      "text": "hackathon and then in most hackathons"
+    },
+    {
+      "start": 515.6,
+      "end": 520.0,
+      "text": "the pro 90% of the projects are just"
+    },
+    {
+      "start": 518.0,
+      "end": 521.68,
+      "text": "like toys and you never return to them"
+    },
+    {
+      "start": 520.0,
+      "end": 523.2,
+      "text": "again. like you know someone gets a nice"
+    },
+    {
+      "start": 521.68,
+      "end": 523.52,
+      "text": "participation trophy and that's it."
+    },
+    {
+      "start": 523.2,
+      "end": 525.04,
+      "text": "Yeah."
+    },
+    {
+      "start": 523.52,
+      "end": 527.92,
+      "text": ">> But like it sounds like the difference"
+    },
+    {
+      "start": 525.04,
+      "end": 530.56,
+      "text": "right now in the age of LMS and age of"
+    },
+    {
+      "start": 527.92,
+      "end": 532.56,
+      "text": "intelligence is that these hackathon"
+    },
+    {
+      "start": 530.56,
+      "end": 534.32,
+      "text": "things are actually turning into real"
+    },
+    {
+      "start": 532.56,
+      "end": 536.56,
+      "text": "product lines and features for you."
+    },
+    {
+      "start": 534.32,
+      "end": 539.68,
+      "text": ">> Yes. And and at the very least into"
+    },
+    {
+      "start": 536.56,
+      "end": 541.36,
+      "text": "debates in my head of being like man"
+    },
+    {
+      "start": 539.68,
+      "end": 542.56,
+      "text": "I've got to do that. But al I lost we're"
+    },
+    {
+      "start": 541.36,
+      "end": 544.88,
+      "text": "going to we're going to crush everybody"
+    },
+    {
+      "start": 542.56,
+      "end": 546.56,
+      "text": "with just our regular road map. But I"
+    },
+    {
+      "start": 544.88,
+      "end": 548.0,
+      "text": "had this after the very I think our last"
+    },
+    {
+      "start": 546.56,
+      "end": 549.76,
+      "text": "our next hackathon's in two weeks. So"
+    },
+    {
+      "start": 548.0,
+      "end": 551.12,
+      "text": "the last one was six months ago. I"
+    },
+    {
+      "start": 549.76,
+      "end": 552.24,
+      "text": "remember thinking afterwards, I'm like,"
+    },
+    {
+      "start": 551.12,
+      "end": 553.92,
+      "text": "you know what, we could just only do"
+    },
+    {
+      "start": 552.24,
+      "end": 556.48,
+      "text": "that stuff and we'll also win."
+    },
+    {
+      "start": 553.92,
+      "end": 558.08,
+      "text": ">> Yeah, maybe win faster. Maybe"
+    },
+    {
+      "start": 556.48,
+      "end": 560.08,
+      "text": ">> it's highly unlikely that the person at"
+    },
+    {
+      "start": 558.08,
+      "end": 563.12,
+      "text": "the top now knows best what the best"
+    },
+    {
+      "start": 560.08,
+      "end": 565.12,
+      "text": "implications are, applications are that"
+    },
+    {
+      "start": 563.12,
+      "end": 566.48,
+      "text": "it's it's just as likely that someone on"
+    },
+    {
+      "start": 565.12,
+      "end": 567.92,
+      "text": "the front lines closer to the problem is"
+    },
+    {
+      "start": 566.48,
+      "end": 569.2,
+      "text": "going to go, hey, look, watch, it can do"
+    },
+    {
+      "start": 567.92,
+      "end": 570.16,
+      "text": "this. You go, oh man, I wouldn't have"
+    },
+    {
+      "start": 569.2,
+      "end": 571.52,
+      "text": "guessed it could do that."
+    },
+    {
+      "start": 570.16,
+      "end": 572.64,
+      "text": ">> You kind of need engineers who are just"
+    },
+    {
+      "start": 571.52,
+      "end": 574.24,
+      "text": "really into it and have been playing"
+    },
+    {
+      "start": 572.64,
+      "end": 575.92,
+      "text": "around with it and just like understand"
+    },
+    {
+      "start": 574.24,
+      "end": 577.28,
+      "text": "how to like build the products in the"
+    },
+    {
+      "start": 575.92,
+      "end": 577.6,
+      "text": "first place to come up with the ideas"
+    },
+    {
+      "start": 577.28,
+      "end": 579.2,
+      "text": "probably."
+    },
+    {
+      "start": 577.6,
+      "end": 580.32,
+      "text": ">> Yeah. engineers and engineers being"
+    },
+    {
+      "start": 579.2,
+      "end": 581.52,
+      "text": "really close to the business is"
+    },
+    {
+      "start": 580.32,
+      "end": 583.76,
+      "text": "something we've always prided ourselves"
+    },
+    {
+      "start": 581.52,
+      "end": 585.92,
+      "text": "on like really being in the weeds. And"
+    },
+    {
+      "start": 583.76,
+      "end": 589.44,
+      "text": "one of the other things that we've done"
+    },
+    {
+      "start": 585.92,
+      "end": 592.96,
+      "text": "uh is create a program for non-engineers"
+    },
+    {
+      "start": 589.44,
+      "end": 595.2,
+      "text": "to learn AI skills. Uh and if kind of"
+    },
+    {
+      "start": 592.96,
+      "end": 597.6,
+      "text": "formalized program so your manager has"
+    },
+    {
+      "start": 595.2,
+      "end": 600.08,
+      "text": "to agree, but you get one day a week for"
+    },
+    {
+      "start": 597.6,
+      "end": 603.2,
+      "text": "90 days. It's a 90-day program. One day"
+    },
+    {
+      "start": 600.08,
+      "end": 605.52,
+      "text": "a week where we teach you kind of a AI"
+    },
+    {
+      "start": 603.2,
+      "end": 607.12,
+      "text": "boot camp vibe coding and different ways"
+    },
+    {
+      "start": 605.52,
+      "end": 608.16,
+      "text": "to apply. And this is a new program. So,"
+    },
+    {
+      "start": 607.12,
+      "end": 609.92,
+      "text": "we're only about 6 months into this."
+    },
+    {
+      "start": 608.16,
+      "end": 611.6,
+      "text": "We'll see how it works out. But people"
+    },
+    {
+      "start": 609.92,
+      "end": 613.84,
+      "text": "love it and you are seeing gains. But"
+    },
+    {
+      "start": 611.6,
+      "end": 615.52,
+      "text": "the the promise of the leader who"
+    },
+    {
+      "start": 613.84,
+      "end": 618.08,
+      "text": "created this and convinced the managers"
+    },
+    {
+      "start": 615.52,
+      "end": 620.8,
+      "text": "to give up someone for 20% of their time"
+    },
+    {
+      "start": 618.08,
+      "end": 622.72,
+      "text": "to go into it was I will return them to"
+    },
+    {
+      "start": 620.8,
+      "end": 624.4,
+      "text": "you as 10 times more productive than"
+    },
+    {
+      "start": 622.72,
+      "end": 625.92,
+      "text": "their peers."
+    },
+    {
+      "start": 624.4,
+      "end": 627.2,
+      "text": "I'm sure we haven't achieved that or it"
+    },
+    {
+      "start": 625.92,
+      "end": 628.96,
+      "text": "would show up in the metrics, but that"
+    },
+    {
+      "start": 627.2,
+      "end": 631.36,
+      "text": "is the, you know, that's the idea."
+    },
+    {
+      "start": 628.96,
+      "end": 633.2,
+      "text": ">> How are you training all these folks to"
+    },
+    {
+      "start": 631.36,
+      "end": 634.32,
+      "text": "uplevel skill in AI? What are what are"
+    },
+    {
+      "start": 633.2,
+      "end": 636.8,
+      "text": "the sorts of things they're learning?"
+    },
+    {
+      "start": 634.32,
+      "end": 638.48,
+      "text": "Certainly it's it's cursor and a set of"
+    },
+    {
+      "start": 636.8,
+      "end": 639.44,
+      "text": "related products like that that let I"
+    },
+    {
+      "start": 638.48,
+      "end": 641.92,
+      "text": "think we're using something called"
+    },
+    {
+      "start": 639.44,
+      "end": 642.96,
+      "text": "streamlit but probably there's YC"
+    },
+    {
+      "start": 641.92,
+      "end": 644.4,
+      "text": "company I don't know maybe we should use"
+    },
+    {
+      "start": 642.96,
+      "end": 646.72,
+      "text": "replet or something but it's similar"
+    },
+    {
+      "start": 644.4,
+      "end": 651.36,
+      "text": "ideas you can spin up uh build your own"
+    },
+    {
+      "start": 646.72,
+      "end": 653.12,
+      "text": "little apps um build workflow automation"
+    },
+    {
+      "start": 651.36,
+      "end": 654.48,
+      "text": "tools to say okay because a lot of what"
+    },
+    {
+      "start": 653.12,
+      "end": 656.96,
+      "text": "flexport is we call it freight"
+    },
+    {
+      "start": 654.48,
+      "end": 658.56,
+      "text": "forwarding uh I've often joked it should"
+    },
+    {
+      "start": 656.96,
+      "end": 660.48,
+      "text": "be called freight email forwarding"
+    },
+    {
+      "start": 658.56,
+      "end": 663.92,
+      "text": "you're like taking docs and sending it"
+    },
+    {
+      "start": 660.48,
+      "end": 665.44,
+      "text": "on so how do you look at a person's job"
+    },
+    {
+      "start": 663.92,
+      "end": 667.2,
+      "text": "and there's no one better to look at it"
+    },
+    {
+      "start": 665.44,
+      "end": 668.4,
+      "text": "than the person doing the job and"
+    },
+    {
+      "start": 667.2,
+      "end": 669.76,
+      "text": "saying, \"Oh man, I'm doing the same"
+    },
+    {
+      "start": 668.4,
+      "end": 672.4,
+      "text": "thing over and over again. What if I"
+    },
+    {
+      "start": 669.76,
+      "end": 674.0,
+      "text": "instead it's like if everybody was an"
+    },
+    {
+      "start": 672.4,
+      "end": 675.36,
+      "text": "engineer, they would,\" and I've thought"
+    },
+    {
+      "start": 674.0,
+      "end": 676.88,
+      "text": "about this in the past is saying, \"Hey,"
+    },
+    {
+      "start": 675.36,
+      "end": 679.76,
+      "text": "what if I took one group of engineers"
+    },
+    {
+      "start": 676.88,
+      "end": 681.12,
+      "text": "and hire them as engineers as a big bait"
+    },
+    {
+      "start": 679.76,
+      "end": 683.68,
+      "text": "and switch and then tell them actually"
+    },
+    {
+      "start": 681.12,
+      "end": 685.04,
+      "text": "you're just moving freight, sorry, and"
+    },
+    {
+      "start": 683.68,
+      "end": 686.88,
+      "text": "watch them automate their way out of the"
+    },
+    {
+      "start": 685.04,
+      "end": 688.24,
+      "text": "job, right?\" and you sort of say, \"Okay,"
+    },
+    {
+      "start": 686.88,
+      "end": 690.72,
+      "text": "I never really wanted to do that to an"
+    },
+    {
+      "start": 688.24,
+      "end": 693.76,
+      "text": "engineer because I feel like I'd just"
+    },
+    {
+      "start": 690.72,
+      "end": 694.56,
+      "text": "have a revolt of but now you're kind of"
+    },
+    {
+      "start": 693.76,
+      "end": 696.0,
+      "text": "like, well, I could do it to a"
+    },
+    {
+      "start": 694.56,
+      "end": 698.0,
+      "text": "non-engineer who's already doing that"
+    },
+    {
+      "start": 696.0,
+      "end": 699.76,
+      "text": "job and turn them into a, you know, a"
+    },
+    {
+      "start": 698.0,
+      "end": 700.72,
+      "text": "lightweight no low code,"
+    },
+    {
+      "start": 699.76,
+      "end": 701.84,
+      "text": ">> which is cool.\" Yeah."
+    },
+    {
+      "start": 700.72,
+      "end": 703.36,
+      "text": ">> This is going the other direction where"
+    },
+    {
+      "start": 701.84,
+      "end": 706.16,
+      "text": "you're taking really all these super"
+    },
+    {
+      "start": 703.36,
+      "end": 708.0,
+      "text": "domain experts and now they can finally"
+    },
+    {
+      "start": 706.16,
+      "end": 709.12,
+      "text": "build and they can automate themselves"
+    },
+    {
+      "start": 708.0,
+      "end": 709.92,
+      "text": "out of it instead of getting the"
+    },
+    {
+      "start": 709.12,
+      "end": 711.44,
+      "text": "engineer to do it."
+    },
+    {
+      "start": 709.92,
+      "end": 712.64,
+      "text": ">> Yeah. And that that program started on"
+    },
+    {
+      "start": 711.44,
+      "end": 714.96,
+      "text": "our Amsterdam, we have an engineering"
+    },
+    {
+      "start": 712.64,
+      "end": 716.0,
+      "text": "office in Amsterdam. It started there. I"
+    },
+    {
+      "start": 714.96,
+      "end": 718.24,
+      "text": "think they did it without me knowing"
+    },
+    {
+      "start": 716.0,
+      "end": 719.68,
+      "text": "about it for the first six months and"
+    },
+    {
+      "start": 718.24,
+      "end": 721.04,
+      "text": "then now we're like, \"Oh, this is great."
+    },
+    {
+      "start": 719.68,
+      "end": 722.8,
+      "text": "Everybody loves it.\" So, we're we're"
+    },
+    {
+      "start": 721.04,
+      "end": 723.6,
+      "text": "starting to bring it global to other"
+    },
+    {
+      "start": 722.8,
+      "end": 725.04,
+      "text": "offices."
+    },
+    {
+      "start": 723.6,
+      "end": 727.36,
+      "text": ">> I wonder if you could share some"
+    },
+    {
+      "start": 725.04,
+      "end": 729.28,
+      "text": "examples of the AI projects that you"
+    },
+    {
+      "start": 727.36,
+      "end": 731.2,
+      "text": "have rolled out that have been most"
+    },
+    {
+      "start": 729.28,
+      "end": 733.28,
+      "text": "impactful over the last couple years,"
+    },
+    {
+      "start": 731.2,
+      "end": 735.2,
+      "text": "both customerf facing features, but also"
+    },
+    {
+      "start": 733.28,
+      "end": 736.48,
+      "text": "like any internal operational things"
+    },
+    {
+      "start": 735.2,
+      "end": 737.84,
+      "text": "that you guys have automated that maybe"
+    },
+    {
+      "start": 736.48,
+      "end": 740.24,
+      "text": "the customers have no idea about."
+    },
+    {
+      "start": 737.84,
+      "end": 741.6,
+      "text": ">> Yeah. Um, the customerf facing one"
+    },
+    {
+      "start": 740.24,
+      "end": 742.56,
+      "text": "probably the most impactful like a lot"
+    },
+    {
+      "start": 741.6,
+      "end": 744.48,
+      "text": "of what you care about from your"
+    },
+    {
+      "start": 742.56,
+      "end": 748.0,
+      "text": "logistics company is your data. what's"
+    },
+    {
+      "start": 744.48,
+      "end": 749.28,
+      "text": "going on with my supply chain, what uh"
+    },
+    {
+      "start": 748.0,
+      "end": 750.8,
+      "text": "the types of data that people are"
+    },
+    {
+      "start": 749.28,
+      "end": 752.16,
+      "text": "looking at. So the way Flexport works,"
+    },
+    {
+      "start": 750.8,
+      "end": 754.08,
+      "text": "you place orders to your factories"
+    },
+    {
+      "start": 752.16,
+      "end": 755.36,
+      "text": "through Flexport. So I'm replenishing my"
+    },
+    {
+      "start": 754.08,
+      "end": 757.36,
+      "text": "inventory. I'm buying things. I'm"
+    },
+    {
+      "start": 755.36,
+      "end": 759.36,
+      "text": "placing purchase orders. So those flow"
+    },
+    {
+      "start": 757.36,
+      "end": 760.8,
+      "text": "out to the factory. Factory becomes a"
+    },
+    {
+      "start": 759.36,
+      "end": 762.4,
+      "text": "user. There's a nice network effect"
+    },
+    {
+      "start": 760.8,
+      "end": 765.44,
+      "text": "there. Once the cargo is ready, they"
+    },
+    {
+      "start": 762.4,
+      "end": 767.12,
+      "text": "place a booking uh and then we execute"
+    },
+    {
+      "start": 765.44,
+      "end": 769.04,
+      "text": "that a booking to move the freight to"
+    },
+    {
+      "start": 767.12,
+      "end": 772.16,
+      "text": "come pick it up on this date. uh and"
+    },
+    {
+      "start": 769.04,
+      "end": 774.08,
+      "text": "we'll execute it by air, ocean, truck,"
+    },
+    {
+      "start": 772.16,
+      "end": 776.0,
+      "text": "rail, whatever, and move it across the"
+    },
+    {
+      "start": 774.08,
+      "end": 777.6,
+      "text": "world for you. So that's kind of the the"
+    },
+    {
+      "start": 776.0,
+      "end": 779.2,
+      "text": "loop that we're trying to run. So you"
+    },
+    {
+      "start": 777.6,
+      "end": 781.76,
+      "text": "care a lot about the data for on-time"
+    },
+    {
+      "start": 779.2,
+      "end": 784.08,
+      "text": "performance, skew level performance,"
+    },
+    {
+      "start": 781.76,
+      "end": 786.64,
+      "text": "cost, you care a lot about that. There's"
+    },
+    {
+      "start": 784.08,
+      "end": 787.76,
+      "text": "customs attributes here that are super"
+    },
+    {
+      "start": 786.64,
+      "end": 790.08,
+      "text": "important with tariffs and everything"
+    },
+    {
+      "start": 787.76,
+      "end": 792.0,
+      "text": "that's happening. So being able to get"
+    },
+    {
+      "start": 790.08,
+      "end": 794.8,
+      "text": "that data is one of the core areas that"
+    },
+    {
+      "start": 792.0,
+      "end": 796.48,
+      "text": "Flexport shines already historically"
+    },
+    {
+      "start": 794.8,
+      "end": 798.32,
+      "text": "with AI. And this did start as a"
+    },
+    {
+      "start": 796.48,
+      "end": 800.16,
+      "text": "hackathon project. We just built like"
+    },
+    {
+      "start": 798.32,
+      "end": 801.6,
+      "text": "natural language ability so that you"
+    },
+    {
+      "start": 800.16,
+      "end": 804.0,
+      "text": "don't need to know SQL. You don't need"
+    },
+    {
+      "start": 801.6,
+      "end": 806.64,
+      "text": "to build dashboards. You just type your"
+    },
+    {
+      "start": 804.0,
+      "end": 808.72,
+      "text": "question and it generates those graphs,"
+    },
+    {
+      "start": 806.64,
+      "end": 810.56,
+      "text": "charts, tables. Don't think it does maps"
+    },
+    {
+      "start": 808.72,
+      "end": 813.2,
+      "text": "yet, but it should. And it works and"
+    },
+    {
+      "start": 810.56,
+      "end": 816.56,
+      "text": "that has done one or one customers love"
+    },
+    {
+      "start": 813.2,
+      "end": 818.48,
+      "text": "it. But two is uh it's about 25% of our"
+    },
+    {
+      "start": 816.56,
+      "end": 820.88,
+      "text": "account management time is spent helping"
+    },
+    {
+      "start": 818.48,
+      "end": 823.12,
+      "text": "people generate reports."
+    },
+    {
+      "start": 820.88,
+      "end": 825.12,
+      "text": ">> That's the another huge metric for us is"
+    },
+    {
+      "start": 823.12,
+      "end": 827.04,
+      "text": "we're cheaper, we'll more people will"
+    },
+    {
+      "start": 825.12,
+      "end": 831.12,
+      "text": "choose us. It's not that we just started"
+    },
+    {
+      "start": 827.04,
+      "end": 833.52,
+      "text": "using AI with LLMs. Um, we've had a"
+    },
+    {
+      "start": 831.12,
+      "end": 835.44,
+      "text": "machine learning model for doing"
+    },
+    {
+      "start": 833.52,
+      "end": 838.0,
+      "text": "planning for and planning in the sense"
+    },
+    {
+      "start": 835.44,
+      "end": 839.68,
+      "text": "of logistics means let's say on a"
+    },
+    {
+      "start": 838.0,
+      "end": 841.04,
+      "text": "containerized basis. I've got a"
+    },
+    {
+      "start": 839.68,
+      "end": 842.8,
+      "text": "container, which ship should it go on?"
+    },
+    {
+      "start": 841.04,
+      "end": 845.28,
+      "text": "Therefore, you need all the contracts,"
+    },
+    {
+      "start": 842.8,
+      "end": 846.8,
+      "text": "their price, you need the sailing"
+    },
+    {
+      "start": 845.28,
+      "end": 848.88,
+      "text": "schedules like how long is it going to"
+    },
+    {
+      "start": 846.8,
+      "end": 850.88,
+      "text": "take, which route variability, all the"
+    },
+    {
+      "start": 848.88,
+      "end": 855.04,
+      "text": "around those both those things. So, our"
+    },
+    {
+      "start": 850.88,
+      "end": 857.2,
+      "text": "AI for that saved us 2% of our ocean"
+    },
+    {
+      "start": 855.04,
+      "end": 859.12,
+      "text": "freight spend while improving transit"
+    },
+    {
+      "start": 857.2,
+      "end": 861.04,
+      "text": "time 20%."
+    },
+    {
+      "start": 859.12,
+      "end": 864.24,
+      "text": "Usually, that's a trade-off. It's like"
+    },
+    {
+      "start": 861.04,
+      "end": 866.96,
+      "text": "either faster or cheaper, but not both."
+    },
+    {
+      "start": 864.24,
+      "end": 868.08,
+      "text": "Uh, so huge win there. Customers don't"
+    },
+    {
+      "start": 866.96,
+      "end": 869.52,
+      "text": "they care a lot about those metrics."
+    },
+    {
+      "start": 868.08,
+      "end": 871.92,
+      "text": "They don't care how we did it. And for"
+    },
+    {
+      "start": 869.52,
+      "end": 874.16,
+      "text": "that one was the unlock parsing a bunch"
+    },
+    {
+      "start": 871.92,
+      "end": 875.52,
+      "text": "of unstructured like emails and data"
+    },
+    {
+      "start": 874.16,
+      "end": 877.6,
+      "text": "that you get from the shipping companies"
+    },
+    {
+      "start": 875.52,
+      "end": 879.12,
+      "text": "that have this but it's all like in like"
+    },
+    {
+      "start": 877.6,
+      "end": 880.4,
+      "text": "a big paragraph where like you couldn't"
+    },
+    {
+      "start": 879.12,
+      "end": 880.72,
+      "text": "just like run a simple query on it"
+    },
+    {
+      "start": 880.4,
+      "end": 881.92,
+      "text": "before"
+    },
+    {
+      "start": 880.72,
+      "end": 884.4,
+      "text": ">> sort of. Yeah. The way to think about it"
+    },
+    {
+      "start": 881.92,
+      "end": 885.92,
+      "text": "is um you've got if you just put a"
+    },
+    {
+      "start": 884.4,
+      "end": 888.24,
+      "text": "container on the cheapest contract you"
+    },
+    {
+      "start": 885.92,
+      "end": 889.52,
+      "text": "you made it's an optimization. Okay,"
+    },
+    {
+      "start": 888.24,
+      "end": 891.52,
+      "text": "which one's the cheapest but also the"
+    },
+    {
+      "start": 889.52,
+      "end": 892.88,
+      "text": "fastest? You know, I'm trading off. So"
+    },
+    {
+      "start": 891.52,
+      "end": 895.04,
+      "text": "that that's one thing that machines are"
+    },
+    {
+      "start": 892.88,
+      "end": 897.2,
+      "text": "better at. Uh and then it's the scale of"
+    },
+    {
+      "start": 895.04,
+      "end": 899.84,
+      "text": "that. So on a given week, we have about"
+    },
+    {
+      "start": 897.2,
+      "end": 902.08,
+      "text": "2,000 containers that get cancelled by"
+    },
+    {
+      "start": 899.84,
+      "end": 903.04,
+      "text": "our customers. They place the booking"
+    },
+    {
+      "start": 902.08,
+      "end": 904.4,
+      "text": "and then they say, \"Oh, actually the"
+    },
+    {
+      "start": 903.04,
+      "end": 906.0,
+      "text": "cargo is not ready. The factory is"
+    },
+    {
+      "start": 904.4,
+      "end": 907.76,
+      "text": "late.\" It's just inevitable. It's going"
+    },
+    {
+      "start": 906.0,
+      "end": 909.84,
+      "text": "to happen. What software does that"
+    },
+    {
+      "start": 907.76,
+      "end": 912.16,
+      "text": "humans could never do is go through 10"
+    },
+    {
+      "start": 909.84,
+      "end": 913.92,
+      "text": "times a day and taking each one of those"
+    },
+    {
+      "start": 912.16,
+      "end": 915.76,
+      "text": "containers and say, \"Okay, I lost this"
+    },
+    {
+      "start": 913.92,
+      "end": 917.04,
+      "text": "container. It's been cancelled. Is there"
+    },
+    {
+      "start": 915.76,
+      "end": 918.88,
+      "text": "another container that was meant to"
+    },
+    {
+      "start": 917.04,
+      "end": 920.48,
+      "text": "depart one week from now?\" And I'll grab"
+    },
+    {
+      "start": 918.88,
+      "end": 922.56,
+      "text": "that and move it forward. That's how you"
+    },
+    {
+      "start": 920.48,
+      "end": 924.16,
+      "text": "get the 20% transit time increase. And"
+    },
+    {
+      "start": 922.56,
+      "end": 925.6,
+      "text": "then the optimization piece of find is"
+    },
+    {
+      "start": 924.16,
+      "end": 927.28,
+      "text": "just find the cheapest contract like a"
+    },
+    {
+      "start": 925.6,
+      "end": 928.4,
+      "text": "solver out you know algorithm to go find"
+    },
+    {
+      "start": 927.28,
+      "end": 929.36,
+      "text": ">> and the humans can't do that because it"
+    },
+    {
+      "start": 928.4,
+      "end": 930.8,
+      "text": "has to happen really quickly."
+    },
+    {
+      "start": 929.36,
+      "end": 932.56,
+      "text": ">> Is this happening 10 times a day for"
+    },
+    {
+      "start": 930.8,
+      "end": 933.84,
+      "text": "every container in the system. Okay,"
+    },
+    {
+      "start": 932.56,
+      "end": 934.88,
+      "text": ">> you know it's just like you wouldn't"
+    },
+    {
+      "start": 933.84,
+      "end": 937.36,
+      "text": "maybe you could but you wouldn't you"
+    },
+    {
+      "start": 934.88,
+      "end": 939.92,
+      "text": "have to hire like an crazy"
+    },
+    {
+      "start": 937.36,
+      "end": 941.84,
+      "text": ">> if you calculate this first principle"
+    },
+    {
+      "start": 939.92,
+      "end": 943.76,
+      "text": "sounded like that first version was"
+    },
+    {
+      "start": 941.84,
+      "end": 945.76,
+      "text": "using classical optimization problems"
+    },
+    {
+      "start": 943.76,
+      "end": 947.92,
+      "text": "and you had certain data about all these"
+    },
+    {
+      "start": 945.76,
+      "end": 949.44,
+      "text": "shipments inputs outputs and scheduled."
+    },
+    {
+      "start": 947.92,
+      "end": 951.12,
+      "text": "What do you think is the delta that you"
+    },
+    {
+      "start": 949.44,
+      "end": 953.28,
+      "text": "could get with AI? Now that you could"
+    },
+    {
+      "start": 951.12,
+      "end": 954.56,
+      "text": "harness all the instructor data, what"
+    },
+    {
+      "start": 953.28,
+      "end": 955.68,
+      "text": "kind of efficiencies could you get?"
+    },
+    {
+      "start": 954.56,
+      "end": 957.44,
+      "text": ">> You may be able to get a lot more now"
+    },
+    {
+      "start": 955.68,
+      "end": 959.68,
+      "text": "that you're starting to see tool use"
+    },
+    {
+      "start": 957.44,
+      "end": 961.76,
+      "text": "because the tool itself is incredibly"
+    },
+    {
+      "start": 959.68,
+      "end": 963.6,
+      "text": "powerful. And I don't think an LLM will"
+    },
+    {
+      "start": 961.76,
+      "end": 965.28,
+      "text": "outperform that, but the LM can use that"
+    },
+    {
+      "start": 963.6,
+      "end": 967.12,
+      "text": "tool and it could do other things"
+    },
+    {
+      "start": 965.28,
+      "end": 968.48,
+      "text": "outside of that. So, you can we'll see."
+    },
+    {
+      "start": 967.12,
+      "end": 970.08,
+      "text": "We haven't started to do that yet. So,"
+    },
+    {
+      "start": 968.48,
+      "end": 971.68,
+      "text": "we're actually still using that. I can"
+    },
+    {
+      "start": 970.08,
+      "end": 972.4,
+      "text": "actually email people or call them up"
+    },
+    {
+      "start": 971.68,
+      "end": 975.04,
+      "text": "and"
+    },
+    {
+      "start": 972.4,
+      "end": 977.28,
+      "text": ">> yeah, but it it could you assign the LLM"
+    },
+    {
+      "start": 975.04,
+      "end": 979.52,
+      "text": "the same solver problem, but it is going"
+    },
+    {
+      "start": 977.28,
+      "end": 981.36,
+      "text": "to default to use this tool and then"
+    },
+    {
+      "start": 979.52,
+      "end": 982.96,
+      "text": "it'll also say yes maybe this container"
+    },
+    {
+      "start": 981.36,
+      "end": 984.32,
+      "text": "I'm not sure if I could move it forward."
+    },
+    {
+      "start": 982.96,
+      "end": 985.92,
+      "text": "I should ask the customer would be a"
+    },
+    {
+      "start": 984.32,
+      "end": 987.28,
+      "text": "good idea actually email, hey, is it"
+    },
+    {
+      "start": 985.92,
+      "end": 987.84,
+      "text": "okay if I bring you this container"
+    },
+    {
+      "start": 987.28,
+      "end": 990.16,
+      "text": "early?"
+    },
+    {
+      "start": 987.84,
+      "end": 992.72,
+      "text": ">> Like the solver's still there, but then"
+    },
+    {
+      "start": 990.16,
+      "end": 994.88,
+      "text": "uh basically the agent is the user."
+    },
+    {
+      "start": 992.72,
+      "end": 996.4,
+      "text": ">> Yes. Instead of right now there's not"
+    },
+    {
+      "start": 994.88,
+      "end": 997.92,
+      "text": "really a user or there's a there's"
+    },
+    {
+      "start": 996.4,
+      "end": 1000.08,
+      "text": "someone who's approving the plan and so"
+    },
+    {
+      "start": 997.92,
+      "end": 1002.4,
+      "text": "you could make that person upstream of"
+    },
+    {
+      "start": 1000.08,
+      "end": 1003.68,
+      "text": "the solver uh choose the solver as one"
+    },
+    {
+      "start": 1002.4,
+      "end": 1005.12,
+      "text": "of many tools. So that'd be interesting."
+    },
+    {
+      "start": 1003.68,
+      "end": 1007.6,
+      "text": "We haven't done that yet, but and then"
+    },
+    {
+      "start": 1005.12,
+      "end": 1010.64,
+      "text": "the other thing is so just routine work."
+    },
+    {
+      "start": 1007.6,
+      "end": 1012.16,
+      "text": "Um for example, you've got a lot of"
+    },
+    {
+      "start": 1010.64,
+      "end": 1015.44,
+      "text": "email communication with your customer"
+    },
+    {
+      "start": 1012.16,
+      "end": 1016.96,
+      "text": "base. So how do you take this you say,"
+    },
+    {
+      "start": 1015.44,
+      "end": 1018.8,
+      "text": "\"Hey, I want to place a booking for a"
+    },
+    {
+      "start": 1016.96,
+      "end": 1021.68,
+      "text": "container,"
+    },
+    {
+      "start": 1018.8,
+      "end": 1024.0,
+      "text": "translate that into a booking.\" Uh LLMs"
+    },
+    {
+      "start": 1021.68,
+      "end": 1025.52,
+      "text": "are quite good at that. Or um a big use"
+    },
+    {
+      "start": 1024.0,
+      "end": 1027.6,
+      "text": "case today is verifying warehouse"
+    },
+    {
+      "start": 1025.52,
+      "end": 1029.28,
+      "text": "addresses and and other information and"
+    },
+    {
+      "start": 1027.6,
+      "end": 1031.44,
+      "text": "getting appointments. I've got to"
+    },
+    {
+      "start": 1029.28,
+      "end": 1033.12,
+      "text": "deliver to a warehouse."
+    },
+    {
+      "start": 1031.44,
+      "end": 1034.96,
+      "text": "Quite costly to call the warehouse and"
+    },
+    {
+      "start": 1033.12,
+      "end": 1036.0,
+      "text": "be like, do I have the right address?"
+    },
+    {
+      "start": 1034.96,
+      "end": 1038.08,
+      "text": "You're not going to do it every time."
+    },
+    {
+      "start": 1036.0,
+      "end": 1040.4,
+      "text": "And then you have a lot of misses where"
+    },
+    {
+      "start": 1038.08,
+      "end": 1042.72,
+      "text": "your address data was bad and your truck"
+    },
+    {
+      "start": 1040.4,
+      "end": 1046.08,
+      "text": "got lo, you know, pain in the ass. Um,"
+    },
+    {
+      "start": 1042.72,
+      "end": 1047.28,
+      "text": "so LLM's now before we deliver, we if we"
+    },
+    {
+      "start": 1046.08,
+      "end": 1049.76,
+      "text": "haven't delivered to the site in the"
+    },
+    {
+      "start": 1047.28,
+      "end": 1051.2,
+      "text": "last 3 months, there's an LLM agent. It"
+    },
+    {
+      "start": 1049.76,
+      "end": 1053.12,
+      "text": "does email and voice."
+    },
+    {
+      "start": 1051.2,
+      "end": 1054.72,
+      "text": ">> Interesting. Wow. So if necessary, it'll"
+    },
+    {
+      "start": 1053.12,
+      "end": 1056.24,
+      "text": "actually call the warehouse and be like,"
+    },
+    {
+      "start": 1054.72,
+      "end": 1058.48,
+      "text": "\"Hey,"
+    },
+    {
+      "start": 1056.24,
+      "end": 1060.0,
+      "text": ">> can you confirm that 2 p.m. tomorrow is"
+    },
+    {
+      "start": 1058.48,
+      "end": 1061.12,
+      "text": "a okay time to deliver this?\""
+    },
+    {
+      "start": 1060.0,
+      "end": 1062.4,
+      "text": ">> Yes. Yes."
+    },
+    {
+      "start": 1061.12,
+      "end": 1064.56,
+      "text": "which is great because you're turning"
+    },
+    {
+      "start": 1062.4,
+      "end": 1066.96,
+      "text": "this previous communication protocol"
+    },
+    {
+      "start": 1064.56,
+      "end": 1069.52,
+      "text": "which is very much um I suppose very"
+    },
+    {
+      "start": 1066.96,
+      "end": 1072.8,
+      "text": "lossy to work sort of like the internet"
+    },
+    {
+      "start": 1069.52,
+      "end": 1074.4,
+      "text": "like TCP fully um acknowledge and you"
+    },
+    {
+      "start": 1072.8,
+      "end": 1076.32,
+      "text": "can get guarantees"
+    },
+    {
+      "start": 1074.4,
+      "end": 1077.68,
+      "text": ">> and sometimes it's not replacing work"
+    },
+    {
+      "start": 1076.32,
+      "end": 1078.96,
+      "text": "although I'm very happy to do so but"
+    },
+    {
+      "start": 1077.68,
+      "end": 1080.16,
+      "text": "like in some cases the work would have"
+    },
+    {
+      "start": 1078.96,
+      "end": 1080.88,
+      "text": "been too expensive so you just didn't do"
+    },
+    {
+      "start": 1080.16,
+      "end": 1081.92,
+      "text": "the work"
+    },
+    {
+      "start": 1080.88,
+      "end": 1083.44,
+      "text": ">> to do this phone call"
+    },
+    {
+      "start": 1081.92,
+      "end": 1086.32,
+      "text": ">> and even if a human could do it it's"
+    },
+    {
+      "start": 1083.44,
+      "end": 1088.16,
+      "text": "like not worth it. Another good one is"
+    },
+    {
+      "start": 1086.32,
+      "end": 1089.28,
+      "text": "just messages. So like the way we"
+    },
+    {
+      "start": 1088.16,
+      "end": 1090.64,
+      "text": "communicate with our customer some of"
+    },
+    {
+      "start": 1089.28,
+      "end": 1092.16,
+      "text": "it's email but a lot we try to drive as"
+    },
+    {
+      "start": 1090.64,
+      "end": 1094.16,
+      "text": "much as possible through our messaging"
+    },
+    {
+      "start": 1092.16,
+      "end": 1096.0,
+      "text": "applications inside the inside the"
+    },
+    {
+      "start": 1094.16,
+      "end": 1099.2,
+      "text": "flexport platform there's a huge amount"
+    },
+    {
+      "start": 1096.0,
+      "end": 1102.48,
+      "text": "of signal in that customer sentiment if"
+    },
+    {
+      "start": 1099.2,
+      "end": 1105.12,
+      "text": "if a customer in a AI we've trained the"
+    },
+    {
+      "start": 1102.48,
+      "end": 1107.28,
+      "text": "model to detect unhappy customers in the"
+    },
+    {
+      "start": 1105.12,
+      "end": 1109.68,
+      "text": "way that they message us and then that"
+    },
+    {
+      "start": 1107.28,
+      "end": 1112.56,
+      "text": "creates an automatic escalation to the"
+    },
+    {
+      "start": 1109.68,
+      "end": 1115.52,
+      "text": "manager of the the frontline person hey"
+    },
+    {
+      "start": 1112.56,
+      "end": 1117.84,
+      "text": "this person seems upset [laughter]"
+    },
+    {
+      "start": 1115.52,
+      "end": 1119.28,
+      "text": "there's a lot of emotion and logistics,"
+    },
+    {
+      "start": 1117.84,
+      "end": 1120.72,
+      "text": "you know, this your stuff. Your business"
+    },
+    {
+      "start": 1119.28,
+      "end": 1122.64,
+      "text": "is on the line. You need to get it"
+    },
+    {
+      "start": 1120.72,
+      "end": 1124.16,
+      "text": "delivered. Infinite list. Uh we we in"
+    },
+    {
+      "start": 1122.64,
+      "end": 1126.16,
+      "text": "fact we measured at the beginning of the"
+    },
+    {
+      "start": 1124.16,
+      "end": 1128.16,
+      "text": "year, we had automated 20% of the work."
+    },
+    {
+      "start": 1126.16,
+      "end": 1130.96,
+      "text": "It was pretty low scale of automation."
+    },
+    {
+      "start": 1128.16,
+      "end": 1133.2,
+      "text": "We're going to finish this year at 50%."
+    },
+    {
+      "start": 1130.96,
+      "end": 1134.88,
+      "text": "And we had set a goal for ourselves next"
+    },
+    {
+      "start": 1133.2,
+      "end": 1136.16,
+      "text": "year of 80 where we thought 80 was"
+    },
+    {
+      "start": 1134.88,
+      "end": 1138.08,
+      "text": "actually the upper limit of what could"
+    },
+    {
+      "start": 1136.16,
+      "end": 1139.76,
+      "text": "be automated."
+    },
+    {
+      "start": 1138.08,
+      "end": 1140.96,
+      "text": "This is it's not scientific, but now we"
+    },
+    {
+      "start": 1139.76,
+      "end": 1144.56,
+      "text": "feel like, oh, it's probably closer to"
+    },
+    {
+      "start": 1140.96,
+      "end": 1147.52,
+      "text": "90 to 95 current. And then that'll get"
+    },
+    {
+      "start": 1144.56,
+      "end": 1150.16,
+      "text": "way more so as LLM keep progressing."
+    },
+    {
+      "start": 1147.52,
+      "end": 1152.0,
+      "text": ">> How will that affect like the total cost"
+    },
+    {
+      "start": 1150.16,
+      "end": 1154.4,
+      "text": "of ocean freight? Like if all the human"
+    },
+    {
+      "start": 1152.0,
+      "end": 1155.6,
+      "text": "work gets automated, does stuff actually"
+    },
+    {
+      "start": 1154.4,
+      "end": 1158.72,
+      "text": "get materially cheaper?"
+    },
+    {
+      "start": 1155.6,
+      "end": 1161.52,
+      "text": ">> Yeah. Uh it's 10% of the end cost that"
+    },
+    {
+      "start": 1158.72,
+      "end": 1163.44,
+      "text": "the buy the the importer exporter pays"
+    },
+    {
+      "start": 1161.52,
+      "end": 1166.32,
+      "text": "for their freight. 10% if you look at"
+    },
+    {
+      "start": 1163.44,
+      "end": 1168.24,
+      "text": "the full P&L about 10% is the labor cost"
+    },
+    {
+      "start": 1166.32,
+      "end": 1169.12,
+      "text": "in the freight forwarding layer of"
+    },
+    {
+      "start": 1168.24,
+      "end": 1171.36,
+      "text": "logistics."
+    },
+    {
+      "start": 1169.12,
+      "end": 1174.32,
+      "text": ">> Wow. So, so when AI is like fully rolled"
+    },
+    {
+      "start": 1171.36,
+      "end": 1175.52,
+      "text": "out, like stuff will actually get 10%"
+    },
+    {
+      "start": 1174.32,
+      "end": 1177.2,
+      "text": "cheaper."
+    },
+    {
+      "start": 1175.52,
+      "end": 1178.48,
+      "text": ">> Freight moving the stuff. The cost of"
+    },
+    {
+      "start": 1177.2,
+      "end": 1180.32,
+      "text": "moving it, right? The stuff itself"
+    },
+    {
+      "start": 1178.48,
+      "end": 1180.56,
+      "text": "depends on what what the ratio is. But"
+    },
+    {
+      "start": 1180.32,
+      "end": 1182.72,
+      "text": "yeah,"
+    },
+    {
+      "start": 1180.56,
+      "end": 1184.16,
+      "text": ">> the but like the transportation costs of"
+    },
+    {
+      "start": 1182.72,
+      "end": 1185.68,
+      "text": "like international freight is actually"
+    },
+    {
+      "start": 1184.16,
+      "end": 1187.36,
+      "text": "like 10%"
+    },
+    {
+      "start": 1185.68,
+      "end": 1189.04,
+      "text": ">> on containerized ocean freight. That's"
+    },
+    {
+      "start": 1187.36,
+      "end": 1191.36,
+      "text": "our that's our view is that we can drop"
+    },
+    {
+      "start": 1189.04,
+      "end": 1193.92,
+      "text": "the price of everything by around 8% and"
+    },
+    {
+      "start": 1191.36,
+      "end": 1196.32,
+      "text": "maybe it goes to 9% uh over the next few"
+    },
+    {
+      "start": 1193.92,
+      "end": 1199.68,
+      "text": "years by doing this. That's has some uh"
+    },
+    {
+      "start": 1196.32,
+      "end": 1201.68,
+      "text": "big economic ripples in terms of if it's"
+    },
+    {
+      "start": 1199.68,
+      "end": 1203.04,
+      "text": "becoming cheaper to ship things across"
+    },
+    {
+      "start": 1201.68,
+      "end": 1204.16,
+      "text": "the ocean, is it going to create just"
+    },
+    {
+      "start": 1203.04,
+      "end": 1205.04,
+      "text": "more trade? I mean, there's also trade"
+    },
+    {
+      "start": 1204.16,
+      "end": 1206.4,
+      "text": "wars, but"
+    },
+    {
+      "start": 1205.04,
+      "end": 1208.0,
+      "text": ">> Exactly. It's very hard to control for"
+    },
+    {
+      "start": 1206.4,
+      "end": 1209.44,
+      "text": "that in a m world where tariffs just"
+    },
+    {
+      "start": 1208.0,
+      "end": 1211.84,
+      "text": "made everything like 10 times more"
+    },
+    {
+      "start": 1209.44,
+      "end": 1213.6,
+      "text": "expensive, but we're doing our part. Uh"
+    },
+    {
+      "start": 1211.84,
+      "end": 1216.24,
+      "text": ">> I mean, the white pill on AI right now"
+    },
+    {
+      "start": 1213.6,
+      "end": 1219.12,
+      "text": "is, you know, this hope and sort of"
+    },
+    {
+      "start": 1216.24,
+      "end": 1221.04,
+      "text": "possibility that uh AI rolled out"
+    },
+    {
+      "start": 1219.12,
+      "end": 1224.56,
+      "text": "properly across society would increase"
+    },
+    {
+      "start": 1221.04,
+      "end": 1226.4,
+      "text": "GDP 7% a year. So, this would be maybe"
+    },
+    {
+      "start": 1224.56,
+      "end": 1228.24,
+      "text": "7% a year will double you in 10 years is"
+    },
+    {
+      "start": 1226.4,
+      "end": 1229.68,
+      "text": "the the law of 72. Yeah. Yeah."
+    },
+    {
+      "start": 1228.24,
+      "end": 1231.12,
+      "text": ">> That is the hope, right? And I think"
+    },
+    {
+      "start": 1229.68,
+      "end": 1232.32,
+      "text": "more people should talk about that and"
+    },
+    {
+      "start": 1231.12,
+      "end": 1235.92,
+      "text": "uh and everyone's so worried about"
+    },
+    {
+      "start": 1232.32,
+      "end": 1238.24,
+      "text": "automating away the jobs. And I just"
+    },
+    {
+      "start": 1235.92,
+      "end": 1239.92,
+      "text": "think that misunderstands the role of"
+    },
+    {
+      "start": 1238.24,
+      "end": 1241.36,
+      "text": "companies in the in society. Like the"
+    },
+    {
+      "start": 1239.92,
+      "end": 1243.76,
+      "text": "role of companies is not to employ"
+    },
+    {
+      "start": 1241.36,
+      "end": 1245.6,
+      "text": "people. It's to deliver goods and"
+    },
+    {
+      "start": 1243.76,
+      "end": 1247.52,
+      "text": "services. And in fact, whoever employs"
+    },
+    {
+      "start": 1245.6,
+      "end": 1250.24,
+      "text": "the least number of people will have the"
+    },
+    {
+      "start": 1247.52,
+      "end": 1252.16,
+      "text": "lowest cost and win. And that's how they"
+    },
+    {
+      "start": 1250.24,
+      "end": 1253.68,
+      "text": "benefit society is lowering costs and"
+    },
+    {
+      "start": 1252.16,
+      "end": 1255.04,
+      "text": "making things more available for us to"
+    },
+    {
+      "start": 1253.68,
+      "end": 1256.88,
+      "text": "buy and sell. And then there's this"
+    },
+    {
+      "start": 1255.04,
+      "end": 1258.8,
+      "text": "idea, well, how are people going to make"
+    },
+    {
+      "start": 1256.88,
+      "end": 1260.24,
+      "text": "money if AI is doing all the work? And I"
+    },
+    {
+      "start": 1258.8,
+      "end": 1262.8,
+      "text": "I I think that that very much"
+    },
+    {
+      "start": 1260.24,
+      "end": 1264.08,
+      "text": "misunderstands human nature that we'll"
+    },
+    {
+      "start": 1262.8,
+      "end": 1266.08,
+      "text": "we'll just want more things. Like"
+    },
+    {
+      "start": 1264.08,
+      "end": 1268.72,
+      "text": "there's an infinite desire inside the"
+    },
+    {
+      "start": 1266.08,
+      "end": 1271.84,
+      "text": "the human soul can never be satisfied"
+    },
+    {
+      "start": 1268.72,
+      "end": 1273.36,
+      "text": "without God. Uh we need more stuff. Like"
+    },
+    {
+      "start": 1271.84,
+      "end": 1274.24,
+      "text": "we got to have more. We got to have"
+    },
+    {
+      "start": 1273.36,
+      "end": 1276.8,
+      "text": "more. And so"
+    },
+    {
+      "start": 1274.24,
+      "end": 1278.8,
+      "text": ">> we're trying to return to uh the garden."
+    },
+    {
+      "start": 1276.8,
+      "end": 1280.48,
+      "text": ">> We may get a return to some I I think"
+    },
+    {
+      "start": 1278.8,
+      "end": 1282.16,
+      "text": "that actually the internet first we"
+    },
+    {
+      "start": 1280.48,
+      "end": 1284.32,
+      "text": "haven't quite reconciled this on like a"
+    },
+    {
+      "start": 1282.16,
+      "end": 1286.96,
+      "text": "spiritual philosophical level. the the"
+    },
+    {
+      "start": 1284.32,
+      "end": 1289.28,
+      "text": "emergence of these technologies and uh"
+    },
+    {
+      "start": 1286.96,
+      "end": 1291.28,
+      "text": "and AI we're not even beginning to of"
+    },
+    {
+      "start": 1289.28,
+      "end": 1294.0,
+      "text": "what it means for us but there's a"
+    },
+    {
+      "start": 1291.28,
+      "end": 1297.76,
+      "text": "period in history called the axial age"
+    },
+    {
+      "start": 1294.0,
+      "end": 1300.0,
+      "text": "it's about 500 years BC and that's when"
+    },
+    {
+      "start": 1297.76,
+      "end": 1301.76,
+      "text": "um coins really started to spread what"
+    },
+    {
+      "start": 1300.0,
+      "end": 1304.08,
+      "text": "you had if you think about it with coins"
+    },
+    {
+      "start": 1301.76,
+      "end": 1306.48,
+      "text": "is taking transactions between two"
+    },
+    {
+      "start": 1304.08,
+      "end": 1308.64,
+      "text": "people and make and really u making them"
+    },
+    {
+      "start": 1306.48,
+      "end": 1309.92,
+      "text": "very in impersonal you no longer care"
+    },
+    {
+      "start": 1308.64,
+      "end": 1311.6,
+      "text": "who you're doing business with I don't"
+    },
+    {
+      "start": 1309.92,
+      "end": 1313.84,
+      "text": "need of a ledger does this guy owe me"
+    },
+    {
+      "start": 1311.6,
+      "end": 1316.0,
+      "text": "money what's my relationship do I trust"
+    },
+    {
+      "start": 1313.84,
+      "end": 1319.2,
+      "text": "just like here take this thing. So, and"
+    },
+    {
+      "start": 1316.0,
+      "end": 1321.68,
+      "text": "it it actually led to this breakdown in"
+    },
+    {
+      "start": 1319.2,
+      "end": 1324.88,
+      "text": "societies because uh we just stopped"
+    },
+    {
+      "start": 1321.68,
+      "end": 1325.84,
+      "text": "being so knowing your neighbor like you"
+    },
+    {
+      "start": 1324.88,
+      "end": 1326.8,
+      "text": "used to only do business with your"
+    },
+    {
+      "start": 1325.84,
+      "end": 1327.92,
+      "text": "neighbors. Now you could just do"
+    },
+    {
+      "start": 1326.8,
+      "end": 1330.24,
+      "text": "business with any old person. The"
+    },
+    {
+      "start": 1327.92,
+      "end": 1331.6,
+      "text": "internet kind of does that at scale."
+    },
+    {
+      "start": 1330.24,
+      "end": 1335.2,
+      "text": "What happened in the actual age? You had"
+    },
+    {
+      "start": 1331.6,
+      "end": 1337.2,
+      "text": "this breakdown of ability for of trust"
+    },
+    {
+      "start": 1335.2,
+      "end": 1338.64,
+      "text": "and you started to get degeneracy and"
+    },
+    {
+      "start": 1337.2,
+      "end": 1341.2,
+      "text": "all kinds of like things that start to"
+    },
+    {
+      "start": 1338.64,
+      "end": 1342.88,
+      "text": "break down in society and simultaneously"
+    },
+    {
+      "start": 1341.2,
+      "end": 1346.24,
+      "text": "across the world you had four pro major"
+    },
+    {
+      "start": 1342.88,
+      "end": 1349.04,
+      "text": "prophets that emerged. Uh well prophets"
+    },
+    {
+      "start": 1346.24,
+      "end": 1351.2,
+      "text": "of sort you had Buddha, you had Laa,"
+    },
+    {
+      "start": 1349.04,
+      "end": 1352.56,
+      "text": "Confucious and Socrates. They all lived"
+    },
+    {
+      "start": 1351.2,
+      "end": 1355.12,
+      "text": "at the exact same moment in time right"
+    },
+    {
+      "start": 1352.56,
+      "end": 1356.48,
+      "text": "as coins were taking holding as like a"
+    },
+    {
+      "start": 1355.12,
+      "end": 1358.16,
+      "text": "hey we need to"
+    },
+    {
+      "start": 1356.48,
+      "end": 1360.0,
+      "text": ">> we need to kind of like get our hands"
+    },
+    {
+      "start": 1358.16,
+      "end": 1362.16,
+      "text": "around how how do we behave in this new"
+    },
+    {
+      "start": 1360.0,
+      "end": 1363.44,
+      "text": "world and so I do think there there's an"
+    },
+    {
+      "start": 1362.16,
+      "end": 1365.6,
+      "text": "opportunity here maybe it could be you"
+    },
+    {
+      "start": 1363.44,
+      "end": 1368.96,
+      "text": "Gary at YC uh [laughter]"
+    },
+    {
+      "start": 1365.6,
+      "end": 1371.28,
+      "text": "to be the next uh the next Socrates yes"
+    },
+    {
+      "start": 1368.96,
+      "end": 1372.8,
+      "text": ">> I I'm in but I might not be the right"
+    },
+    {
+      "start": 1371.28,
+      "end": 1374.48,
+      "text": "person [laughter] but I mean I"
+    },
+    {
+      "start": 1372.8,
+      "end": 1377.04,
+      "text": "particularly like this idea that like"
+    },
+    {
+      "start": 1374.48,
+      "end": 1379.68,
+      "text": "the idea that what are humans going to"
+    },
+    {
+      "start": 1377.04,
+      "end": 1381.76,
+      "text": "do is a little bit invalid and that you"
+    },
+    {
+      "start": 1379.68,
+      "end": 1384.64,
+      "text": "know that's a little bit like going back"
+    },
+    {
+      "start": 1381.76,
+      "end": 1387.44,
+      "text": "5 800 years and saying like, \"Oh my god,"
+    },
+    {
+      "start": 1384.64,
+      "end": 1390.0,
+      "text": "all of us are farmers and then what are"
+    },
+    {
+      "start": 1387.44,
+      "end": 1390.8,
+      "text": "we going to do when modern agriculture"
+    },
+    {
+      "start": 1390.0,
+      "end": 1392.48,
+      "text": "comes?\" Yeah."
+    },
+    {
+      "start": 1390.8,
+      "end": 1393.92,
+      "text": ">> It's like we figured it out. Like we"
+    },
+    {
+      "start": 1392.48,
+      "end": 1395.28,
+      "text": ">> or the printing press. Yeah."
+    },
+    {
+      "start": 1393.92,
+      "end": 1396.96,
+      "text": ">> Right. What are what are the monks going"
+    },
+    {
+      "start": 1395.28,
+      "end": 1398.08,
+      "text": "to do? They're transcribing words all"
+    },
+    {
+      "start": 1396.96,
+      "end": 1398.88,
+      "text": "day. There's no more jobs for"
+    },
+    {
+      "start": 1398.08,
+      "end": 1400.4,
+      "text": "transcript. Like"
+    },
+    {
+      "start": 1398.88,
+      "end": 1403.12,
+      "text": ">> so there will be implications for"
+    },
+    {
+      "start": 1400.4,
+      "end": 1404.96,
+      "text": "society and morality and how people"
+    },
+    {
+      "start": 1403.12,
+      "end": 1405.6,
+      "text": "relate to one another. And obviously"
+    },
+    {
+      "start": 1404.96,
+      "end": 1407.84,
+      "text": "like"
+    },
+    {
+      "start": 1405.6,
+      "end": 1409.44,
+      "text": ">> we have no idea what it's early days but"
+    },
+    {
+      "start": 1407.84,
+      "end": 1411.2,
+      "text": "history does kind of repeat and there's"
+    },
+    {
+      "start": 1409.44,
+      "end": 1412.88,
+      "text": "lessons there and figure out okay how"
+    },
+    {
+      "start": 1411.2,
+      "end": 1415.04,
+      "text": "does this but the human nature doesn't"
+    },
+    {
+      "start": 1412.88,
+      "end": 1416.08,
+      "text": "change much right and you can't satisfy"
+    },
+    {
+      "start": 1415.04,
+      "end": 1417.44,
+      "text": "humans you're just going to want more"
+    },
+    {
+      "start": 1416.08,
+      "end": 1419.44,
+      "text": "stuff the more money you have the more"
+    },
+    {
+      "start": 1417.44,
+      "end": 1421.12,
+      "text": "classically right cliche like the more"
+    },
+    {
+      "start": 1419.44,
+      "end": 1422.56,
+      "text": "you have the more you want [snorts]"
+    },
+    {
+      "start": 1421.12,
+      "end": 1424.08,
+      "text": "that's not going to go away so if you"
+    },
+    {
+      "start": 1422.56,
+      "end": 1425.36,
+      "text": "give people a lot more stuff it's not"
+    },
+    {
+      "start": 1424.08,
+      "end": 1426.72,
+      "text": "like oh I'm going to quit working most"
+    },
+    {
+      "start": 1425.36,
+      "end": 1428.08,
+      "text": "people aren't like that I'm going to get"
+    },
+    {
+      "start": 1426.72,
+      "end": 1429.44,
+      "text": "a lot of stuff I'll just quit working"
+    },
+    {
+      "start": 1428.08,
+      "end": 1431.44,
+      "text": "you find out you're miserable you want"
+    },
+    {
+      "start": 1429.44,
+      "end": 1433.2,
+      "text": "to keep producing keep contributing"
+    },
+    {
+      "start": 1431.44,
+      "end": 1435.2,
+      "text": ">> one of the interesting things that has"
+    },
+    {
+      "start": 1433.2,
+      "end": 1437.12,
+      "text": "been percolating around the YC community"
+    },
+    {
+      "start": 1435.2,
+      "end": 1439.52,
+      "text": "among young founders and like AI"
+    },
+    {
+      "start": 1437.12,
+      "end": 1441.2,
+      "text": "researchers that we've been talking to"
+    },
+    {
+      "start": 1439.52,
+      "end": 1443.04,
+      "text": "is this idea that like they're going to"
+    },
+    {
+      "start": 1441.2,
+      "end": 1445.92,
+      "text": "be humans in the loop. The humans in the"
+    },
+    {
+      "start": 1443.04,
+      "end": 1448.4,
+      "text": "loop may well be uh some some might be"
+    },
+    {
+      "start": 1445.92,
+      "end": 1450.88,
+      "text": "like governmentmandated, right? You in"
+    },
+    {
+      "start": 1448.4,
+      "end": 1453.28,
+      "text": "fintech there's a lot around uh you"
+    },
+    {
+      "start": 1450.88,
+      "end": 1454.8,
+      "text": "cannot have an AI algorithm like approve"
+    },
+    {
+      "start": 1453.28,
+      "end": 1456.8,
+      "text": "loans for instance. They're like"
+    },
+    {
+      "start": 1454.8,
+      "end": 1458.56,
+      "text": "requirements from the government in"
+    },
+    {
+      "start": 1456.8,
+      "end": 1461.44,
+      "text": "these high highly regulated industries"
+    },
+    {
+      "start": 1458.56,
+      "end": 1462.72,
+      "text": "to have humans in the loop. Uh and"
+    },
+    {
+      "start": 1461.44,
+      "end": 1463.84,
+      "text": ">> customs brokerage as well. We have to"
+    },
+    {
+      "start": 1462.72,
+      "end": 1465.44,
+      "text": "have a human that's approving the"
+    },
+    {
+      "start": 1463.84,
+      "end": 1466.08,
+      "text": "transaction before before we clear"
+    },
+    {
+      "start": 1465.44,
+      "end": 1468.64,
+      "text": "customs."
+    },
+    {
+      "start": 1466.08,
+      "end": 1471.6,
+      "text": ">> Yeah. And so vibe coding is happening."
+    },
+    {
+      "start": 1468.64,
+      "end": 1473.52,
+      "text": "There's this idea of you enter a prompt,"
+    },
+    {
+      "start": 1471.6,
+      "end": 1475.68,
+      "text": "it comes back with a bunch of stuff and"
+    },
+    {
+      "start": 1473.52,
+      "end": 1477.92,
+      "text": "then you just click accept all changes"
+    },
+    {
+      "start": 1475.68,
+      "end": 1480.0,
+      "text": "without reading any of it, right? Do you"
+    },
+    {
+      "start": 1477.92,
+      "end": 1482.0,
+      "text": "think this might happen that would this"
+    },
+    {
+      "start": 1480.0,
+      "end": 1484.72,
+      "text": "happen at flexport or would this happen"
+    },
+    {
+      "start": 1482.0,
+      "end": 1487.44,
+      "text": "uh more broadly across all businesses?"
+    },
+    {
+      "start": 1484.72,
+      "end": 1491.28,
+      "text": "Like what if businesses are at the core"
+    },
+    {
+      "start": 1487.44,
+      "end": 1493.12,
+      "text": "like hyper intelligent AI that uh has"
+    },
+    {
+      "start": 1491.28,
+      "end": 1496.16,
+      "text": "access to all your systems of record,"
+    },
+    {
+      "start": 1493.12,
+      "end": 1497.52,
+      "text": "knows what to do, optimizes constantly"
+    },
+    {
+      "start": 1496.16,
+      "end": 1499.04,
+      "text": "and then you have sort of like"
+    },
+    {
+      "start": 1497.52,
+      "end": 1501.12,
+      "text": "governmentmandated"
+    },
+    {
+      "start": 1499.04,
+      "end": 1503.52,
+      "text": "liability syncs that are humans in the"
+    },
+    {
+      "start": 1501.12,
+      "end": 1505.68,
+      "text": "loop. Ideally the organizations still"
+    },
+    {
+      "start": 1503.52,
+      "end": 1507.68,
+      "text": "actually serve human needs in which case"
+    },
+    {
+      "start": 1505.68,
+      "end": 1510.0,
+      "text": "like the decision to use, you know,"
+    },
+    {
+      "start": 1507.68,
+      "end": 1511.44,
+      "text": "vendor A or vendor B sometimes boils"
+    },
+    {
+      "start": 1510.0,
+      "end": 1514.08,
+      "text": "down to who brought me to the nicest"
+    },
+    {
+      "start": 1511.44,
+      "end": 1517.2,
+      "text": "steakhouse last. So then like the model"
+    },
+    {
+      "start": 1514.08,
+      "end": 1519.76,
+      "text": "for companies ends up being ASI of some"
+    },
+    {
+      "start": 1517.2,
+      "end": 1522.72,
+      "text": "sort like some sort of AI process at the"
+    },
+    {
+      "start": 1519.76,
+      "end": 1524.96,
+      "text": "core of each company but then you know"
+    },
+    {
+      "start": 1522.72,
+      "end": 1527.2,
+      "text": "humans attached to it as either like"
+    },
+    {
+      "start": 1524.96,
+      "end": 1530.4,
+      "text": "decision makers in like you know"
+    },
+    {
+      "start": 1527.2,
+      "end": 1532.56,
+      "text": "accepting or preventing liability andor"
+    },
+    {
+      "start": 1530.4,
+      "end": 1534.88,
+      "text": "holding relationships with other"
+    },
+    {
+      "start": 1532.56,
+      "end": 1536.24,
+      "text": "relationship holders at other companies."
+    },
+    {
+      "start": 1534.88,
+      "end": 1538.8,
+      "text": ">> Yeah. And presumably you're still"
+    },
+    {
+      "start": 1536.24,
+      "end": 1541.36,
+      "text": "relating with you're still here to serve"
+    },
+    {
+      "start": 1538.8,
+      "end": 1543.04,
+      "text": "humans. you know, once we get to a world"
+    },
+    {
+      "start": 1541.36,
+      "end": 1544.16,
+      "text": "where AI is serving AI, then fair"
+    },
+    {
+      "start": 1543.04,
+      "end": 1547.28,
+      "text": "enough. You don't need to learn that"
+    },
+    {
+      "start": 1544.16,
+      "end": 1548.48,
+      "text": "much from the uh record of human history"
+    },
+    {
+      "start": 1547.28,
+      "end": 1550.96,
+      "text": "because there's no more humans involved"
+    },
+    {
+      "start": 1548.48,
+      "end": 1552.4,
+      "text": "in the loop. And I don't have a lot to"
+    },
+    {
+      "start": 1550.96,
+      "end": 1553.68,
+      "text": "say about that. But as long as there's"
+    },
+    {
+      "start": 1552.4,
+      "end": 1554.8,
+      "text": "humans there, there's going to humans"
+    },
+    {
+      "start": 1553.68,
+      "end": 1557.12,
+      "text": "are going to want to relate with other"
+    },
+    {
+      "start": 1554.8,
+      "end": 1558.96,
+      "text": "humans and have a relationship. And I"
+    },
+    {
+      "start": 1557.12,
+      "end": 1562.96,
+      "text": "think we're pretty pretty pretty far"
+    },
+    {
+      "start": 1558.96,
+      "end": 1564.88,
+      "text": "from humans preferring to work with AI"
+    },
+    {
+      "start": 1562.96,
+      "end": 1567.92,
+      "text": "than to work with other humans. We're"
+    },
+    {
+      "start": 1564.88,
+      "end": 1570.64,
+      "text": "seeing where AI is doing more and more"
+    },
+    {
+      "start": 1567.92,
+      "end": 1572.24,
+      "text": "work. You know, another good example is"
+    },
+    {
+      "start": 1570.64,
+      "end": 1574.08,
+      "text": "and just that you made me think of with"
+    },
+    {
+      "start": 1572.24,
+      "end": 1576.88,
+      "text": "your bank, you know, you have to have an"
+    },
+    {
+      "start": 1574.08,
+      "end": 1578.96,
+      "text": "approval approver is that even our our"
+    },
+    {
+      "start": 1576.88,
+      "end": 1581.76,
+      "text": "humans in customs brokerage across the"
+    },
+    {
+      "start": 1578.96,
+      "end": 1584.96,
+      "text": "industry, we benchmark you make about 2%"
+    },
+    {
+      "start": 1581.76,
+      "end": 1586.88,
+      "text": "mistakes and they file the entry with"
+    },
+    {
+      "start": 1584.96,
+      "end": 1589.12,
+      "text": "2%. And we built this sort of like AI"
+    },
+    {
+      "start": 1586.88,
+      "end": 1591.52,
+      "text": "spell checker, the two-digit code for"
+    },
+    {
+      "start": 1589.12,
+      "end": 1593.84,
+      "text": "Australia versus Austria. You could"
+    },
+    {
+      "start": 1591.52,
+      "end": 1595.36,
+      "text": "easily get that wrong. Uh, and the AI"
+    },
+    {
+      "start": 1593.84,
+      "end": 1597.44,
+      "text": "will figure out like, oh, this thing is"
+    },
+    {
+      "start": 1595.36,
+      "end": 1599.12,
+      "text": "not made in Australia. It's made in"
+    },
+    {
+      "start": 1597.44,
+      "end": 1601.44,
+      "text": "Austria. I guess one question for you"
+    },
+    {
+      "start": 1599.12,
+      "end": 1603.6,
+      "text": "Ryan is if you were to start Flexport"
+    },
+    {
+      "start": 1601.44,
+      "end": 1604.64,
+      "text": "today, how would the company be"
+    },
+    {
+      "start": 1603.6,
+      "end": 1607.04,
+      "text": "different?"
+    },
+    {
+      "start": 1604.64,
+      "end": 1608.96,
+      "text": ">> Not that different. I hope the things"
+    },
+    {
+      "start": 1607.04,
+      "end": 1610.56,
+      "text": "that Flexport did really well compared"
+    },
+    {
+      "start": 1608.96,
+      "end": 1612.56,
+      "text": "to all the other tech companies who have"
+    },
+    {
+      "start": 1610.56,
+      "end": 1615.6,
+      "text": "tried and failed in our space both"
+    },
+    {
+      "start": 1612.56,
+      "end": 1618.0,
+      "text": "before we came along and in parallel is"
+    },
+    {
+      "start": 1615.6,
+      "end": 1620.08,
+      "text": "um we didn't look at ourselves as a pure"
+    },
+    {
+      "start": 1618.0,
+      "end": 1621.68,
+      "text": "technology company. We're willing to"
+    },
+    {
+      "start": 1620.08,
+      "end": 1624.08,
+      "text": "pick up the phone and solve problems"
+    },
+    {
+      "start": 1621.68,
+      "end": 1626.56,
+      "text": "with humans, drive down to the port."
+    },
+    {
+      "start": 1624.08,
+      "end": 1628.08,
+      "text": "Still to this day, like I we've got a"
+    },
+    {
+      "start": 1626.56,
+      "end": 1630.0,
+      "text": "new customer who's asking us to do"
+    },
+    {
+      "start": 1628.08,
+      "end": 1631.92,
+      "text": "something really weird."
+    },
+    {
+      "start": 1630.0,
+      "end": 1633.52,
+      "text": "We need a crane on the truck to unload"
+    },
+    {
+      "start": 1631.92,
+      "end": 1635.52,
+      "text": "this thing and we don't have that. It's"
+    },
+    {
+      "start": 1633.52,
+      "end": 1637.44,
+      "text": "not typical what we do. And I just said,"
+    },
+    {
+      "start": 1635.52,
+      "end": 1638.96,
+      "text": "\"Take the customer and I need you to"
+    },
+    {
+      "start": 1637.44,
+      "end": 1640.4,
+      "text": "drive there and follow the truck and"
+    },
+    {
+      "start": 1638.96,
+      "end": 1642.32,
+      "text": "make sure this goes well.\" [laughter]"
+    },
+    {
+      "start": 1640.4,
+      "end": 1643.44,
+      "text": "So, I I would not change that at all."
+    },
+    {
+      "start": 1642.32,
+      "end": 1646.56,
+      "text": "And I think that's that that's the"
+    },
+    {
+      "start": 1643.44,
+      "end": 1648.88,
+      "text": "mistake that a lot of tech uh people"
+    },
+    {
+      "start": 1646.56,
+      "end": 1650.64,
+      "text": "will in traditional markets will fail at"
+    },
+    {
+      "start": 1648.88,
+      "end": 1652.24,
+      "text": "cuz they're like, \"Oh, if there's no"
+    },
+    {
+      "start": 1650.64,
+      "end": 1654.16,
+      "text": "API,"
+    },
+    {
+      "start": 1652.24,
+      "end": 1656.08,
+      "text": "I can't do it.\" If my agent is unable to"
+    },
+    {
+      "start": 1654.16,
+      "end": 1656.56,
+      "text": "do this task, I guess the task can't be"
+    },
+    {
+      "start": 1656.08,
+      "end": 1657.92,
+      "text": "done."
+    },
+    {
+      "start": 1656.56,
+      "end": 1659.52,
+      "text": ">> No tool used for cranes."
+    },
+    {
+      "start": 1657.92,
+      "end": 1661.52,
+      "text": ">> Yeah. And it might take you a long time"
+    },
+    {
+      "start": 1659.52,
+      "end": 1663.84,
+      "text": "and you should not try to automate that"
+    },
+    {
+      "start": 1661.52,
+      "end": 1665.6,
+      "text": "last that tail of things. you started"
+    },
+    {
+      "start": 1663.84,
+      "end": 1667.2,
+      "text": "and grew flexible like especially in the"
+    },
+    {
+      "start": 1665.6,
+      "end": 1669.04,
+      "text": "first few years during an era where just"
+    },
+    {
+      "start": 1667.2,
+      "end": 1670.72,
+      "text": "like more money coming into like there's"
+    },
+    {
+      "start": 1669.04,
+      "end": 1672.72,
+      "text": "more venture capital each year coming"
+    },
+    {
+      "start": 1670.72,
+      "end": 1674.32,
+      "text": "into startups and like you you had like"
+    },
+    {
+      "start": 1672.72,
+      "end": 1677.04,
+      "text": "multiple fundraising rounds like in in"
+    },
+    {
+      "start": 1674.32,
+      "end": 1679.44,
+      "text": "what ways was like that capital like an"
+    },
+    {
+      "start": 1677.04,
+      "end": 1680.96,
+      "text": "advantage and I feel like now it's sort"
+    },
+    {
+      "start": 1679.44,
+      "end": 1682.4,
+      "text": "of somewhat back there in the AI world"
+    },
+    {
+      "start": 1680.96,
+      "end": 1683.6,
+      "text": "now like the rounds are heating up"
+    },
+    {
+      "start": 1682.4,
+      "end": 1686.16,
+      "text": "there's more money flowing in it just"
+    },
+    {
+      "start": 1683.6,
+      "end": 1687.6,
+      "text": "sort of like post like the 2022 crash"
+    },
+    {
+      "start": 1686.16,
+      "end": 1689.12,
+      "text": "what's your advice to the founders now"
+    },
+    {
+      "start": 1687.6,
+      "end": 1690.72,
+      "text": "who are in these like companies that are"
+    },
+    {
+      "start": 1689.12,
+      "end": 1692.72,
+      "text": "growing and have options to raise like"
+    },
+    {
+      "start": 1690.72,
+      "end": 1693.76,
+      "text": "huge funding rounds like how should they"
+    },
+    {
+      "start": 1692.72,
+      "end": 1695.6,
+      "text": "think about it."
+    },
+    {
+      "start": 1693.76,
+      "end": 1697.44,
+      "text": ">> Every company is super unique. So don't"
+    },
+    {
+      "start": 1695.6,
+      "end": 1698.64,
+      "text": "listen to advice on the podcast. Like"
+    },
+    {
+      "start": 1697.44,
+      "end": 1699.92,
+      "text": "get someone [laughter] who's like paying"
+    },
+    {
+      "start": 1698.64,
+      "end": 1701.28,
+      "text": "attention, you know, knows the details"
+    },
+    {
+      "start": 1699.92,
+      "end": 1703.92,
+      "text": "of your business, which no one will know"
+    },
+    {
+      "start": 1701.28,
+      "end": 1705.44,
+      "text": "better than you. Generally, capital is a"
+    },
+    {
+      "start": 1703.92,
+      "end": 1707.76,
+      "text": "beautiful thing. Having it in your bank"
+    },
+    {
+      "start": 1705.44,
+      "end": 1709.76,
+      "text": "account gives you a lot of advantages."
+    },
+    {
+      "start": 1707.76,
+      "end": 1711.6,
+      "text": "Uh all you really need to care about at"
+    },
+    {
+      "start": 1709.76,
+      "end": 1713.44,
+      "text": "the end of the day is price per share"
+    },
+    {
+      "start": 1711.6,
+      "end": 1715.44,
+      "text": "because if you issue more stock, like"
+    },
+    {
+      "start": 1713.44,
+      "end": 1717.76,
+      "text": "the as long as your price per share goes"
+    },
+    {
+      "start": 1715.44,
+      "end": 1719.68,
+      "text": "up, you you are richer. Uh doesn't"
+    },
+    {
+      "start": 1717.76,
+      "end": 1721.28,
+      "text": "matter how many what percent you own"
+    },
+    {
+      "start": 1719.68,
+      "end": 1722.4,
+      "text": "until it comes to control. So there's"
+    },
+    {
+      "start": 1721.28,
+      "end": 1724.4,
+      "text": "two things that matter. Do you control"
+    },
+    {
+      "start": 1722.4,
+      "end": 1726.08,
+      "text": "your company legally or otherwise?"
+    },
+    {
+      "start": 1724.4,
+      "end": 1727.6,
+      "text": "Culturally, also works, but do you"
+    },
+    {
+      "start": 1726.08,
+      "end": 1728.8,
+      "text": "really have control over what's going to"
+    },
+    {
+      "start": 1727.6,
+      "end": 1730.56,
+      "text": "the decisions that are getting made and"
+    },
+    {
+      "start": 1728.8,
+      "end": 1731.6,
+      "text": "do you have a job and and price per"
+    },
+    {
+      "start": 1730.56,
+      "end": 1733.12,
+      "text": "share? And that all that's all that"
+    },
+    {
+      "start": 1731.6,
+      "end": 1734.24,
+      "text": "matters. I think I still think that's"
+    },
+    {
+      "start": 1733.12,
+      "end": 1736.24,
+      "text": "true. That's always how I thought about"
+    },
+    {
+      "start": 1734.24,
+      "end": 1737.68,
+      "text": "it is there's been a lot of dilution to"
+    },
+    {
+      "start": 1736.24,
+      "end": 1739.44,
+      "text": "our investors, but the price per share"
+    },
+    {
+      "start": 1737.68,
+      "end": 1740.8,
+      "text": "went up and everybody's made better off."
+    },
+    {
+      "start": 1739.44,
+      "end": 1742.4,
+      "text": "I didn't take away anybody's shares, so"
+    },
+    {
+      "start": 1740.8,
+      "end": 1744.8,
+      "text": "you're better off. The part that I"
+    },
+    {
+      "start": 1742.4,
+      "end": 1746.24,
+      "text": "underappreciated and that I now take"
+    },
+    {
+      "start": 1744.8,
+      "end": 1747.92,
+      "text": "very, very seriously is the degree to"
+    },
+    {
+      "start": 1746.24,
+      "end": 1752.08,
+      "text": "which money just wants to spend itself."
+    },
+    {
+      "start": 1747.92,
+      "end": 1754.72,
+      "text": "And you will end up making a lot of"
+    },
+    {
+      "start": 1752.08,
+      "end": 1756.48,
+      "text": "mistakes where and the biggest mistake"
+    },
+    {
+      "start": 1754.72,
+      "end": 1759.12,
+      "text": "is believing you for sure every company"
+    },
+    {
+      "start": 1756.48,
+      "end": 1760.72,
+      "text": "has a lot of problems and you start to"
+    },
+    {
+      "start": 1759.12,
+      "end": 1762.24,
+      "text": "default to like oh we'll just use money"
+    },
+    {
+      "start": 1760.72,
+      "end": 1764.16,
+      "text": "to solve this problem and the way that"
+    },
+    {
+      "start": 1762.24,
+      "end": 1765.6,
+      "text": "that manifests itself is oh I got this"
+    },
+    {
+      "start": 1764.16,
+      "end": 1767.84,
+      "text": "thing that we need to do okay hire"
+    },
+    {
+      "start": 1765.6,
+      "end": 1769.68,
+      "text": "someone to do it and you feel like you"
+    },
+    {
+      "start": 1767.84,
+      "end": 1771.92,
+      "text": "just end up very bloated we had too many"
+    },
+    {
+      "start": 1769.68,
+      "end": 1774.88,
+      "text": "people you start to really slow down and"
+    },
+    {
+      "start": 1771.92,
+      "end": 1776.72,
+      "text": "it's just a super bad cultural approach"
+    },
+    {
+      "start": 1774.88,
+      "end": 1778.48,
+      "text": "to problem solving like you're going to"
+    },
+    {
+      "start": 1776.72,
+      "end": 1780.72,
+      "text": "solve the problems s not the new people"
+    },
+    {
+      "start": 1778.48,
+      "end": 1782.24,
+      "text": "that are you're going to hire. So I I"
+    },
+    {
+      "start": 1780.72,
+      "end": 1784.08,
+      "text": "give this advice only one founder's ever"
+    },
+    {
+      "start": 1782.24,
+      "end": 1785.76,
+      "text": "listened to me, but I tell founders who"
+    },
+    {
+      "start": 1784.08,
+      "end": 1787.28,
+      "text": "who friends of mine who raise a large"
+    },
+    {
+      "start": 1785.76,
+      "end": 1788.56,
+      "text": "round is sure go raise a big round as"
+    },
+    {
+      "start": 1787.28,
+      "end": 1791.12,
+      "text": "long as you're up round like you're"
+    },
+    {
+      "start": 1788.56,
+      "end": 1793.68,
+      "text": "doing good. Great. Raise a large round"
+    },
+    {
+      "start": 1791.12,
+      "end": 1795.68,
+      "text": ">> then do a hiring freeze for 90 days"
+    },
+    {
+      "start": 1793.68,
+      "end": 1797.36,
+      "text": ">> the next day to tell your team"
+    },
+    {
+      "start": 1795.68,
+      "end": 1798.48,
+      "text": "culturally like nope the money's not"
+    },
+    {
+      "start": 1797.36,
+      "end": 1800.72,
+      "text": "going to solve our problems. We're going"
+    },
+    {
+      "start": 1798.48,
+      "end": 1803.52,
+      "text": "to solve our problems and keep that and"
+    },
+    {
+      "start": 1800.72,
+      "end": 1804.8,
+      "text": "sure go hire but it's because it's super"
+    },
+    {
+      "start": 1803.52,
+      "end": 1806.24,
+      "text": "it happened to us over and over again"
+    },
+    {
+      "start": 1804.8,
+      "end": 1808.96,
+      "text": "where you just like headcount got out of"
+    },
+    {
+      "start": 1806.24,
+      "end": 1811.28,
+      "text": "control. All the plans look good. I want"
+    },
+    {
+      "start": 1808.96,
+      "end": 1812.96,
+      "text": "to fund all the we're doing budgeting"
+    },
+    {
+      "start": 1811.28,
+      "end": 1814.72,
+      "text": "for next year and I'm like god it's so"
+    },
+    {
+      "start": 1812.96,
+      "end": 1817.68,
+      "text": "painful not to"
+    },
+    {
+      "start": 1814.72,
+      "end": 1819.36,
+      "text": ">> add opex add engineers whatever but you"
+    },
+    {
+      "start": 1817.68,
+      "end": 1821.76,
+      "text": "got to stay disciplined and the money"
+    },
+    {
+      "start": 1819.36,
+      "end": 1823.92,
+      "text": "will easily make that stop. [snorts]"
+    },
+    {
+      "start": 1821.76,
+      "end": 1826.56,
+      "text": ">> So I really psyched to hear about this"
+    },
+    {
+      "start": 1823.92,
+      "end": 1828.08,
+      "text": "idea that AI is actually transforming"
+    },
+    {
+      "start": 1826.56,
+      "end": 1830.08,
+      "text": "your business in pretty fundamental"
+    },
+    {
+      "start": 1828.08,
+      "end": 1832.4,
+      "text": "ways. It's like coming bottom up. What"
+    },
+    {
+      "start": 1830.08,
+      "end": 1833.44,
+      "text": "does Flexport look like in 2035?"
+    },
+    {
+      "start": 1832.4,
+      "end": 1834.56,
+      "text": ">> One cool [snorts] thing about Flexport"
+    },
+    {
+      "start": 1833.44,
+      "end": 1835.52,
+      "text": "is the way our vision has evolved. I"
+    },
+    {
+      "start": 1834.56,
+      "end": 1837.6,
+      "text": "mentioned we started as a customers"
+    },
+    {
+      "start": 1835.52,
+      "end": 1840.48,
+      "text": "broker. Yeah. We do all end to end all"
+    },
+    {
+      "start": 1837.6,
+      "end": 1841.84,
+      "text": "the way from factory floor to consumers"
+    },
+    {
+      "start": 1840.48,
+      "end": 1843.68,
+      "text": "stores like we have an e-commerce"
+    },
+    {
+      "start": 1841.84,
+      "end": 1845.52,
+      "text": "business that does fulfillment retail"
+    },
+    {
+      "start": 1843.68,
+      "end": 1846.72,
+      "text": "store distribution etc. So we want to"
+    },
+    {
+      "start": 1845.52,
+      "end": 1849.84,
+      "text": "take that globally to where you can"
+    },
+    {
+      "start": 1846.72,
+      "end": 1853.04,
+      "text": "really ship anything anywhere by any"
+    },
+    {
+      "start": 1849.84,
+      "end": 1856.48,
+      "text": "means any mode in any quantity and do it"
+    },
+    {
+      "start": 1853.04,
+      "end": 1859.2,
+      "text": "all via code like all available via APIs"
+    },
+    {
+      "start": 1856.48,
+      "end": 1861.12,
+      "text": "or voice or just like easy to execute"
+    },
+    {
+      "start": 1859.2,
+      "end": 1863.6,
+      "text": "transactions at the lowest cost automate"
+    },
+    {
+      "start": 1861.12,
+      "end": 1866.72,
+      "text": "away the cost and so that brands"
+    },
+    {
+      "start": 1863.6,
+      "end": 1868.4,
+      "text": "companies of all kinds don't spend time"
+    },
+    {
+      "start": 1866.72,
+      "end": 1870.0,
+      "text": "thinking about logistics. Logistics"
+    },
+    {
+      "start": 1868.4,
+      "end": 1871.2,
+      "text": "should be this utility that just works"
+    },
+    {
+      "start": 1870.0,
+      "end": 1873.44,
+      "text": "just like you don't spend time thinking"
+    },
+    {
+      "start": 1871.2,
+      "end": 1875.52,
+      "text": "about the electrical grid. You flip the"
+    },
+    {
+      "start": 1873.44,
+      "end": 1877.12,
+      "text": "light switch, you get power. Uh you go"
+    },
+    {
+      "start": 1875.52,
+      "end": 1878.72,
+      "text": "back to doing your thing, which is"
+    },
+    {
+      "start": 1877.12,
+      "end": 1880.0,
+      "text": "making something people want and talking"
+    },
+    {
+      "start": 1878.72,
+      "end": 1881.12,
+      "text": "to users, right? That's what I think"
+    },
+    {
+      "start": 1880.0,
+      "end": 1882.56,
+      "text": "companies should do. Our customers"
+    },
+    {
+      "start": 1881.12,
+      "end": 1884.72,
+      "text": "should be doing that all day. Like make"
+    },
+    {
+      "start": 1882.56,
+      "end": 1886.64,
+      "text": "great products, make a great brand to"
+    },
+    {
+      "start": 1884.72,
+      "end": 1888.56,
+      "text": "sell those products and we'll take care"
+    },
+    {
+      "start": 1886.64,
+      "end": 1891.52,
+      "text": "of everything in between in the most"
+    },
+    {
+      "start": 1888.56,
+      "end": 1894.32,
+      "text": "automated, fishable, efficient, reliable"
+    },
+    {
+      "start": 1891.52,
+      "end": 1896.24,
+      "text": "ways possible uh on a global basis. So"
+    },
+    {
+      "start": 1894.32,
+      "end": 1897.6,
+      "text": "today, and we have a long ways to go to"
+    },
+    {
+      "start": 1896.24,
+      "end": 1899.68,
+      "text": "actually make all that true. First off,"
+    },
+    {
+      "start": 1897.6,
+      "end": 1901.04,
+      "text": "the automation stuff I talked about"
+    },
+    {
+      "start": 1899.68,
+      "end": 1902.96,
+      "text": "making progress, but we got to keep"
+    },
+    {
+      "start": 1901.04,
+      "end": 1904.72,
+      "text": "going. And then the global aspect. So we"
+    },
+    {
+      "start": 1902.96,
+      "end": 1906.48,
+      "text": "have employee we shipped cargo to and"
+    },
+    {
+      "start": 1904.72,
+      "end": 1909.36,
+      "text": "from"
+    },
+    {
+      "start": 1906.48,
+      "end": 1912.72,
+      "text": "147 countries last year but we only have"
+    },
+    {
+      "start": 1909.36,
+      "end": 1914.48,
+      "text": "employees in 22 countries and therefore"
+    },
+    {
+      "start": 1912.72,
+      "end": 1916.64,
+      "text": "people on the ground that can do the"
+    },
+    {
+      "start": 1914.48,
+      "end": 1917.84,
+      "text": "work. Yes, we are automating that work"
+    },
+    {
+      "start": 1916.64,
+      "end": 1919.92,
+      "text": "and in fact it's easier for us to"
+    },
+    {
+      "start": 1917.84,
+      "end": 1922.32,
+      "text": "automate our own employees work than it"
+    },
+    {
+      "start": 1919.92,
+      "end": 1923.36,
+      "text": "is some third party company that's doing"
+    },
+    {
+      "start": 1922.32,
+      "end": 1924.72,
+      "text": "work. You know even though they're in"
+    },
+    {
+      "start": 1923.36,
+      "end": 1926.38,
+      "text": "our software it's very hard to automate."
+    },
+    {
+      "start": 1924.72,
+      "end": 1928.24,
+      "text": "We don't know what they're doing. Um"
+    },
+    {
+      "start": 1926.38,
+      "end": 1931.28,
+      "text": "[snorts] so we want to be in every"
+    },
+    {
+      "start": 1928.24,
+      "end": 1934.08,
+      "text": "country by 2035 certainly. uh in fact"
+    },
+    {
+      "start": 1931.28,
+      "end": 1936.64,
+      "text": "our road map has us covering 95% of all"
+    },
+    {
+      "start": 1934.08,
+      "end": 1939.52,
+      "text": "container trade with our own people"
+    },
+    {
+      "start": 1936.64,
+      "end": 1942.48,
+      "text": "doing all the work in the country uh in"
+    },
+    {
+      "start": 1939.52,
+      "end": 1943.84,
+      "text": "2028. So by 2035 I think we could"
+    },
+    {
+      "start": 1942.48,
+      "end": 1946.48,
+      "text": "realistically say look we'll be"
+    },
+    {
+      "start": 1943.84,
+      "end": 1948.4,
+      "text": "everywhere that's that's legal and that"
+    },
+    {
+      "start": 1946.48,
+      "end": 1950.32,
+      "text": "is a big extension of our original"
+    },
+    {
+      "start": 1948.4,
+      "end": 1952.8,
+      "text": "vision and I didn't have all that in"
+    },
+    {
+      "start": 1950.32,
+      "end": 1954.0,
+      "text": "mind when I did YC demo day my pitch was"
+    },
+    {
+      "start": 1952.8,
+      "end": 1956.0,
+      "text": "like we'll do customs and then we'll add"
+    },
+    {
+      "start": 1954.0,
+      "end": 1957.92,
+      "text": "some other stuff but it wasn't like we"
+    },
+    {
+      "start": 1956.0,
+      "end": 1959.92,
+      "text": "will cover the earth"
+    },
+    {
+      "start": 1957.92,
+      "end": 1962.16,
+      "text": ">> any two planets on earth whatever you"
+    },
+    {
+      "start": 1959.92,
+      "end": 1964.72,
+      "text": "want to move we'll move it uh so yeah"
+    },
+    {
+      "start": 1962.16,
+      "end": 1967.12,
+      "text": "it's a very ambitious goal the good"
+    },
+    {
+      "start": 1964.72,
+      "end": 1968.4,
+      "text": "thing is I really genuinely we're going"
+    },
+    {
+      "start": 1967.12,
+      "end": 1970.08,
+      "text": "to win on tech we're winning we're going"
+    },
+    {
+      "start": 1968.4,
+      "end": 1972.48,
+      "text": "to extend our lead there relative to our"
+    },
+    {
+      "start": 1970.08,
+      "end": 1975.52,
+      "text": "peers our competitors,"
+    },
+    {
+      "start": 1972.48,
+      "end": 1976.88,
+      "text": "we're behind them on the global side."
+    },
+    {
+      "start": 1975.52,
+      "end": 1978.88,
+      "text": "And that's super fun. If you told"
+    },
+    {
+      "start": 1976.88,
+      "end": 1980.96,
+      "text": "25-year-old me, they're like, \"Oh, Ryan,"
+    },
+    {
+      "start": 1978.88,
+      "end": 1983.6,
+      "text": "your job this year is we got to launch"
+    },
+    {
+      "start": 1980.96,
+      "end": 1985.44,
+      "text": "Flexport in Indonesia, Australia, Japan,"
+    },
+    {
+      "start": 1983.6,
+      "end": 1987.2,
+      "text": "Philippines, Turkey, and Poland, and"
+    },
+    {
+      "start": 1985.44,
+      "end": 1989.6,
+      "text": "France.\" I'd be like, \"Oh my, really? I"
+    },
+    {
+      "start": 1987.2,
+      "end": 1991.36,
+      "text": "get to go to all those places and talk"
+    },
+    {
+      "start": 1989.6,
+      "end": 1994.16,
+      "text": "to the locals and stuff.\" So, it's a"
+    },
+    {
+      "start": 1991.36,
+      "end": 1996.8,
+      "text": "it's a pretty fun moment in our history,"
+    },
+    {
+      "start": 1994.16,
+      "end": 1998.88,
+      "text": "but also really"
+    },
+    {
+      "start": 1996.8,
+      "end": 2001.05,
+      "text": "challenging, but fun. Kind of"
+    },
+    {
+      "start": 1998.88,
+      "end": 2002.56,
+      "text": "challenging. Yeah. No better kind."
+    },
+    {
+      "start": 2001.05,
+      "end": 2004.24,
+      "text": "[laughter]"
+    },
+    {
+      "start": 2002.56,
+      "end": 2006.32,
+      "text": "Ryan, thank you so much for joining us,"
+    },
+    {
+      "start": 2004.24,
+      "end": 2010.27,
+      "text": "man. It's always a pleasure. All right,"
+    },
+    {
+      "start": 2006.32,
+      "end": 2010.27,
+      "text": "we'll see you guys next time. [music]"
+    },
+    {
+      "start": 2015.46,
+      "end": 2017.48,
+      "text": "[music]"
+    }
+  ],
+  "word_count": 7211,
+  "fetched_at": "2025-12-21T02:19:51.750721Z"
+}

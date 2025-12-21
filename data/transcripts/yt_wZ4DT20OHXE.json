@@ -1,0 +1,4579 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "I think AI is the next evolution of humanity. I think it takes us to a new level. Allows us to collaborate and understand the world in much deeper ways. >> Naveen Ralph is here expert in AI. >> Naveen Ralph probably one of the smartest guys in this domain. He sees things well before anybody else sees them. >> You had a lot of success doing Nirvana Mosaic and data bricks. Why start a new chip company now? >> First off, it's not a chip company per se. Most of what we're doing is really kind of looking at first principles of how learning works in a physical system. Nvidia, TSMC, Google. Are these potential allies for unconventional? Are these competitors? >> So, I think TSMC is absolutely going to be a partner. Google kind of has everything internally. And Nvidia, of course, they built the platform that everyone programs on today. So, are we going to be at odds with Nvidia going forward? I don't know. We'll see what the world looks like, but there could be a world where we collaborate. >> Has anyone called you crazy yet for doing this? >> Oh, yeah. Plenty of people. Our guest today is Naveen Ralph, co-founder and CEO of Unconventional AI, which is an AI chip startup. Prior to that, Naveen was at data bricks as head of AI and co-founder of two successful companies, Mosaic in the uh cloud computing world and Nirvana uh doing AI chip accelerators uh before it was cool. Um uh we're here reporting from Nurups. Um and uh yeah, great to great to have you on the on the podcast, Vivian. Welcome. Thanks. Thanks for having me. >> So, you were kind of at the vanguard thinking about what the proper hardware is for running AI workloads. >> Absolutely. I mean, you know, it's like uh when you have a hammer, everything's a nail, I suppose. But the early part of my career was really about how do I take certain algorithms and uh capabilities and shrink them, make them faster, put them into form factors that uh make them make those use cases proliferate like wireless uh technology or video compression. you know, you couldn't do video compression in real time on a on a on a laptop back then. It was just there wasn't enough uh computing power. So, you actually needed to build hardware to do those kind of things. So, my career was early part of my career was all about that. And uh you know, then I went back to academia, did a PhD in neuroscience. And so, you still kind of look at it like, hey, can I make something better that's more efficient? >> And so, you sold Nirvana to Intel. Yeah. >> Um and and then uh founded Mosaic, which is a cloud company. You know, it's interesting to sort of cross domains like that. I think to be able to look at hardware and software, you know, I would sort of argue Mosaic was really a software company. You know, how how'd you make that decision and and why, you know, why, you know, why do you think you have these diverse interests? >> Well, I think I was, I don't know, I guess you would call it an OG kind of full stack. Now, full stack engineer means something different that meant back then. I think back then it had someone who understands potentially devices like silicon how to do logic design computer architecture uh low-level software maybe OS level software and then application that was a a full stack engineer and I was I I actually had touched all those topics so to me it was very natural to kind of think across these boundaries you know to me like uh software and hardware is is not really natural boundary it's just where we decide to draw the line and say okay this is something I configurable or I don't and uh you know it's it's like where where is the world going to consume something where is the problem and then you know right size and figure out the the solution to go and hit it >> now full stack means I know JavaScript and Python >> that's right >> you know so you've had a lot of success doing both of those things and at data bricks um why start a new chip company now >> it is kind of crazy it's it's one of these things like u actually I was first off say it's not a chip company per se most of what we're doing is at the beginning is theory and uh really kind of looking at first principles of how learning works in a in a in a in a a physical system. Um and the reason to go back and do this is just purely out of passion. I think we can we can change how a computer is built. We've been building largely the same kind of computer for 80 years. We went digital back in the 1940s and um you know in undergrad in the 1990s when I learned about you know the therm the thermodynamics of the brain like the brain's 20 watts of energy and you know the kind of computations that can happen inside of brain and neural systems I I was just blown away then I'm still blown away by it and I think um we haven't really scratched the surface of how we can get close to that you know biology is exquisitly efficient it's very fast it right sizes is itself to the application at hand. Like you know when you're chilling out you don't use much energy like you just but you're still aware of other threats and things like this then once you know a threat happens like everything turns on. It's very dynamic and we really haven't built systems like this and you know I I've been in the industry long enough to know that we have to have an incentive to build things. You can't you can't just say hey I want to build this cool thing and therefore I go build it. Maybe in academia you can do that but in the in in sort of the real world I can't. And uh now it's exciting because those concepts are super relevant. We're at a point in time where uh computing is is is bound by energy at the global level, which just was never true in all of humanity. And and so for for those of us who aren't experts um can you describe the difference between digital and analog computing systems and and you know like why do you think the the architecture has evolved the way it has sort of more more digital focused over over decades as you said? >> Yeah. I mean very simply digital computers uh implement numeric and numeric with some sort of estimation right I mean in in a digital computer a number is represented by a fixed number of bits and uh that has some precision error and things like this it's just a way we implement the system if you make it enough bits like 64 bits you can largely say that maybe the error is small you don't have to think about it um and so when we the digital computer uh is capable of simulating anything that you can express as numbers and arithmetic. So it became a very general machine. I can literally uh simulate any physical process. All of physics we try to do computational physics, right? I have an equation. I can then write um numeric solvers that sort of deal with those uh those imprecisions uh in in the number of bits. And so this became obviously computer science uh the entire field now. And we went that direction actually very early on because uh we couldn't scale up uh computation. It was it's actually kind of an interesting conversation if you look from back then. Not that it was there of course, but if you look at the papers and things, they actually looked very similar to today in terms of scaling up GPUs. >> Um analog computers were actually some of the first computers and um they worked really well. They were very efficient, but they couldn't be scaled up because of manufacturing variability. So someone said, \"Okay, you know what? I can actually say I can make a vacuum tube behave as a high or low very reliably. I can't characterize the in between very well, but I can I can say it's high or low. And so that was kind of where we went to digital abstraction. And then we could scale up. >> ENIAC, which was built in 1945, had 18,000 vacuum tubes. >> Wow. >> So 18,000 is kind of similar how many GPUs people use now, right, for large scale trading. So scaling things up is is always a hard problem. And once you figure out how to do it, it makes a paradigm happen. And I think that's why we went to digital. But analog still is inherently more efficient because you it's it's actually analogous computing is a way to think about it. Like can I build a physical system that is similar to the quantity I'm trying to express or compute over. Um you're you're effectively using the physics of the uh underlying medium to do the computation. >> And so in digital computers we have transistors. Um ju just to make it sort of concrete, what kind of substrates are you talking about for for analog computers? Yeah, I mean analog computers can do lots of different things. You know, um there's wind tunnels are a great example of an analog computer in a sense where um I have, you know, a race car on a track or an airplane and I want to understand how the the wind moves around it and you can in theory solve those things computationally. The problem is you're always going to be off. It's very hard to know what the real system is going to look like and doing things with computational fluid dynamics accurately is pretty hard. So people still build wind tunnels that's actually modeling that that's that's an analog computer. You know I think uh we still have lots of reasons to build these analogous type computers. Now in the situation we're talking about we can actually build circuits in silicon uh to recapitulate behaviors of of neural networks. So what we're doing today is is more specified than what we were doing 80 years ago in a sense is that then we were trying to automate generic calculation which was used to calculate artillery trajectories. It was used to calculate finances maybe some you know physics problems like going into space things like that those require determinism and you know specificity around these numbers and these computations. Intelligence is a different beast. You can build it out of numbers, but is it naturally built out of numbers? I don't know. A neural network is actually a stochastic machine. And so why are we using the substrate that is highly precise and deterministic for something that's actually stochastic and distributed in nature? So we believe we can find this the right isomorphism in electrical circuits that can subserve intelligence. >> That's a pretty wild idea, isn't it? um maybe unpack it one level deeper because I totally I totally agree with you, right? It's like um computers for for decades have been sort of the complement to human intelligence, right? It's like, hey, my brain isn't really great at computing an orbital trajectory. >> That's right. >> And I don't want to like burn up on re-entry. So like a computer can help us with this incredible degree of of precision. Um we're now kind of going the opposite direction, right? we're actually trying to encode more sort of um fuzziness into computer systems. Um so so yeah so so go maybe just a little bit deeper on this idea of an analog and um you know why intelligence is a good fit for for anal for analog systems. Well, I mean the best examples we have of uh intelligent systems in nature are brains and you know >> it's often been said you know human brains run on 20 watts of energy. That's that is true but if you look at a million brains generally actually extremely efficient like a squirrel or a cat it's like a tenth of a watt and so uh there's something there that we're still missing. And not to say that we understand all of it, but part of what I think we're missing is we have lots of abstractions in a computer that are quite lossy. In a brain, the neural network neural network dynamics are implemented physically. >> So there is no abstraction. Intelligence is the physics. They're one and the same. There's no, you know, OS and, you know, some sort of API and this and that. So there's some visual stimulus for instance that directly activates an a actual neural network and and produces some some sematic response that sort of thing. >> Exactly. And those things are mediated by chemical diffusion and you know uh just the the the physical properties of the neuron the physics itself. So I think absolutely it's possible to build something that's much more efficient and uh by using physics in an analogous way that is 100% true. uh can we do it and build us build build a product out of it is really the question we're asking here at unconventional >> and is part of the idea that now is the right time because AI is a both a huge and a unique workload. >> Yeah, absolutely. You know, it's it's interesting. So just maybe some stats here like the US is about 50% of the world's data center capacity and today we put about 4% of the energy grid of the US energy grid into those data centers and this this past year 2025 was the first time we started to see news articles about brownouts in the southwest during the summer and you know just imagine what happens when this goes to 8% 10% of the energy grid. It it's not going to be a good place that we're in. So can we build more power? Absolutely we should. Building power generation is very hard, expensive and it's infrastructure like it takes it takes time. You can't you can only bring online so many kilowatts or gigawatts per year. So something on the order of four per year. Uh by some estimates we need 400 gawatts additional capacity over the next 10 years to power the demand for AI. >> Wow. >> So we have a huge shortfall. And so we really just need to rethink this. the the you know 15-year-old sci-fi nerd in me says like wow we're we're mobilizing you know species scale resources to like invent the future we are and then then there's the practical it's like even if we add 400 gawatts of production capacity our our you know 1970s era transmission grid is probably going to melt under the under the load so yeah so so there's very serious sort of infrastructure hurdles to this I think >> it's hard to get a lot of humans to act together right it's just the reality that's what has to happen to solve these problems. >> What trade-offs do you think this entails? You know, sort of the path you're pursuing versus the the mainstream digital path now. >> Yeah, I actually don't see it as, you know, it's digital or analog. It doesn't work like that. I think there are certain types of workloads that are amendable to these analog approaches, especially the ones that are that can be expressed as um dynamical systems. Dynamics meaning time. They have time associated with them. In the real world, every physical process has time. And in the computing world like a numeric computing world we actually don't have that concept. You simulate time with numbers. >> Actually simulating time is very useful in certain uh certain problems. So I think we should still build those things and we should still have those uh capabilities for the problems that we need to solve that way. Uh but for these problems where you know like like you said it's a bit fuzzier. I'm trying to retrieve and summarize across multiple inputs. That's actually what brains do really well, right? they can they can uh take in tons of data and sort of formulate a a model of how those things interact and sometimes those models can be actually extremely accurate like look at an athlete >> you know um you know Alex Hunnel who climbed uh uh El Capitan right just think about the precision that's required >> it still scares me every time I >> insane right and if he slips like just like he's off by a millimeter in some places he dies right and that's true for like every top level athlete and they're someone who's, you know, at the the Olympics. >> Steph Curry, you know, the story is he set up a special tracking system so he can make sure the ball was hitting the middle of the rim, not not just going through. >> So, the level of precision these guys hit with a neural network that's noisy is actually quite high. >> So, uh, neural systems can actually do a lot of precision under certain circumstances, but what's interesting about these situations is Steph Curry when he shoots a ball is never going to shoot it under ideal circumstances in a game. always it's a unique input and there's a lot of different input variables coming at you like where the other players are precisely where you're standing, maybe your shoes are different, maybe the surface is a little different, like maybe the ball is tackier or your hands are sweaty, like there's so many inputs and we we kind of put them all together and integrate them and still have very accurate behavior. So brains are exceptionally good at this and you know that's set of problems that is actually very useful to solve and now we're approaching those problems. uh but it doesn't mean we don't still use computational uh substrates to do actual computation. This is kind of an intelligent substrate. >> And so what types of AI models or or data modalities do you expect uh your your um hardware will be well suited for? >> Yeah. So we're we're obviously starting with the state-of-the-art today like transformers, diffusion models, they they work, they do really good stuff, so we shouldn't throw that out. And uh diffusion models and flow models are actually and energy based models are actually pretty interesting because they inherently have dynamics as part of them. They're literally written as an ordinary ordinary differential equation. So um that makes it such that hey can I map those dynamics onto the dynamics of a physical system in some way that's either fixed or um has some principal way of of evolving and then can I basically use that physical system to implement that thing and do it very efficiently with physics. So that's that's kind of the nature of what we're doing. And we will be releasing uh some open source and things around this to to let people play around. But um you know transformers are really uh they're a big innovation because they they made the constructs of a GPU work extremely well. And it doesn't mean it's wrong but I don't think there's there's nothing natural. There's no natural law about the parameter of a transformer. M >> transformers parameter is a function of the nonlinearities and the way a whole thing is set up with attention. There's going to be some kind of uh mapping between transformer parameter spaces and these other parameter spaces and it's transformers are I think have kind of used lots of lots of parameters to accomplish what they do. I have to ask just since you mentioned energy based models and Yan Lun has been um you know uh writing quite a lot about this um do you think pursuing these sorts of paths that you're talking about is is uh gets us closer on the path to AGI whatever whatever AGI means >> honestly I do uh the reason I feel that way and again this is this is hand wavy I'm gonna be really honest I don't >> that's why I'm putting quotes around I think that the discussion is necessarily handwavy >> it's got to be because we just don't know uh But my intuition says that um anything where the basis is dynamic which has time and causality as part of it will be a better basis than something that's not. >> So we've largely tried to remove that and you know you know a lot of times you can write math down it's reversible in time and things like that but the physical world tends not to be at least the way we perceive it. And so can we build out of elements of the physical world that are you know uh do do have time evolution? I think that's the right basis to build something that understands causation. >> So I do think we'll we'll have something that is better uh and will give us something closer to what we really think is intelligence because yes we have intelligence in these machines. I I don't think they're anywhere close to AGI because I mean they still make stupid errors. They're very useful tools but they're they're not what it's not like working with a person, right? I think most people at that >> that's actually really interesting. So the the sort of thing that's missing in in AI behavior, which which I think a lot of us see that there's something missing but can't quite put a name to it. It sounds like you're arguing part of that is is sort of a real sense of causality. Yeah. >> And that training and more dynamic sort of regime may may impart this kind of like apparent understanding causality better than what we have now. >> Yeah. And again hand wavy but yes uh I mean look you have kids little kids and you see them I mean >> children kind of innately understand causality in some ways like >> you know this happened then that happened and yes I know you can say like it's reinforcement learning or whatever that's some part of it but there's something innate that we understand causality in fact that's how we move our limbs and all of that I know if I send a certain command to my arm it'll do do something. So I I think there's something innate about the way our brains are wired built out of primitives that are that do understand causation. >> Put unconventional in the context of the broader industry for me like Nvidia, TSMC, Google are are these um you know potential allies for unconventional? Are these competitors? How do you think about it? Yeah, I mean a couple of things that we set out to do when we built were starting this company was see if we can find a paradigm that's analogous to intelligence within five years. Uh and then at the 5-year mark, we should be able to build something that's scalable from a manufacturing standpoint. So, you know, you can you can think about building a computer out of many different things, but if it's not scalable from a manufacturing standpoint, we can't intercept this this global energy problem. So we need to have somebody say okay go build 10 million of these things right. So I think TSMC is absolutely going to be a partner forward you know met with them recently and you know we want to we want to work closely with them to make sure we get what we need get fast turnaround times to prototype and all of that. Um Google Nvidia Microsoft all these guys are you know at the forefront of where the application space is. Uh obviously Google kind of has everything uh internally and I think they're working on sort of lower risk but you know continual improvements for their hardware >> with TPUs. You mean >> with TPUs? Yeah. That from what I can see you know just publicly is it makes total sense right they have a business to run and they're trying to make their margins better and you know how can I do that with all the tools I have at you know uh in front of me. Um, Nvidia, of course, you know, they they they've built the u the platform that everyone programs on today. So, is it are we going to be at odds with Nvidia going forward? I I don't know. We'll see what the world looks like, but I mean, we are trying to to build a better substrate than matrix multiply. Um, there could be a world where we collaborate uh on such solutions. Um, and you know, we're open to all of these things. >> Where do you where do you personally get the motivation to get up in the in the morning and build this company? I mean you've had a lot of success in your career this year or in startup. Um what you know what's exciting about this to you? >> I don't know. I just it's it's a weird thing like if you haven't worked in hardware it's hard. Um I've had a been fortunate to work in hardware and software and you know I love writing a bunch of software and then hitting compile and seeing it work. That's that's that's a good dopamine hit but man when you work on a piece of hardware and you turn that thing on that's a big dopamine hit. That's like this is like celebration jumping you know jumping up in the air high five thing it it's a different thing and I don't know you sort of live for these moments you know uh like when I was at Intel like I was one of the only exeacts would go to the lab when the first chip would come back and I'm like I want to see turn on see what happens some turn sometimes you turn it on it's like you see the little puff of smoke come >> that's not good but you want to be there you want to be part of the moment but uh uh I think that's part of it I think for me personally We we have this opportunity now that we can really change the world of computing and make AI ubiquitous. I I'm the opposite of an AI doomer. I think AI is the next evolution of humanity. I think it takes us to a new level, allows us to collaborate, understand each other, and understand the world in much deeper ways. >> Totally agree. >> So, every technology has negatives, but the positives to me so far outweigh it. And uh the only way we're going to get to ubiquity is we have to change the computer. The current paradigm, as good as it is and as far as it's taken us, is not going to take us to that level. >> I think that's such a great way to say it. AI actually can help us understand each other better, help us understand ourselves better, understand the natural world better. Yeah. >> I I don't think it's at all what what some of the doomers think of of, you know, replacing sort of human human experience. >> That's a short-term thing. I mean, there will be there will be bumps along the way, right? Technology does that. That's That's what happens when you've seen too many sci-fi movies. >> That's right. Um >> but look at Star Trek. >> Yeah. Yeah. Yeah. Totally. Totally. >> It's great. >> Um uh this is a really big swing, right? Like this is a very ambitious company. Um what gives you confidence that it's that it's going to work or or you know has a reasonable shot of working. >> Um there's there's a number of data points. Of course, like I said, the brains are existence proof. Um but there's also 40 plus years of of academic research which is showing a lot of promise here. Um people have built different devices albeit not in the latest technology with professional engineering teams but they have built proofs of concept that actually show some of these things work. Um we've also from a theory standpoint both from neuroscience and just pure uh dynamical systems and math theory uh do start to understand how these these systems can work. So I think we now have pieces at different parts of the stack that show hey if I can combine these things the right way I I can build this and uh you know that's what great engineering is all about is like you know exploiting this thing that someone else built for something else exploiting that thing and then >> and it's engineers are kind of like the opposite of theorist is like well all right that thing doesn't quite fit sand it down and make it right. So it's like we got to do a little bit of that right now and then we can build something and put it all together. Yeah, >> that's awesome. Has anyone called you crazy yet for doing this? >> Oh, yeah. Plenty of people at this point. >> Is it Is it like everybody? >> Well, it's I'm used to this at this point, you know. My family have been called crazy. I was called crazy going back to grad school um years ago when I had a very good career in tech. Um so it it's fine. I think that's that you need crazy people to go out and explore. I mean, if you think about humanity out of Africa, all that the crazy people who went out, >> we would be lost without without crazy. >> You need some crazy in there. So, it's okay. I'm fine with that. And so what kind of people uh are you looking to bring on to the team of a very ambitious goal um who should be interested in joining you? >> Yeah, I mean I think some of the traditional traditionalish when I say traditional you know over the last 5 years this field of AI systems has evolved like people who are really good at taking algorithms and mapping them very effectively to physical substrates. uh those folks who understand energy based models, flow models, gradient uh gradient descent and different ways uh you know this this kind of thing is what we need there. We need theorists who uh can think about different ways of building coupled systems how I can characterize the richness of dynamical systems and relating that to neural networks. So there is a theory aspect of this. Uh then there's folks who are like kind of at the system architecture level. It's like all right here's what the theory says. This is what I can really build. How do I bridge that gap? And then there's the people actually physically building this stuff like analog circuit people, actually digital circuit people, too. We're going to have a mix signal here. So, that's that's the whole stack. The stack is it's hard because these are all things that no one's really pushed to that level. Like, >> when we build this chip, our first prototype, it's going to be probably one of the larger, maybe the largest analog chip people have ever built, which is kind of weird. First time you do something, things don't usually work the way you think they >> So you can get in on that Cabris Jensen game where they were each pulling the biggest possible wafer out of out of an oven. You >> something like that. Yeah, exactly right. >> Put a few vacuum tubes on top for for effect. >> Yeah, we could I I need blinking lights. >> Yeah, exactly. >> We're not going to have cool heat sinks. It's going to be super It's going to be cold. Like you don't need big heat sinks, you know? So, I hope they make something that looks looks interesting here. This is a funny time for for um top AI people, right? Where you have sort of the option if you want to start a company, there's a lot of venture capitalists who probably would fund you. If you want to get a cushy job at at a big company, you can get a very cushy job and and kind of do some interesting things. >> Yeah. >> Um or, you know, people can join a startup like Unconventional that, you know, has a lot of the nice aspects people look for in in sort of AI careers and are taking like super sort of big swings. Um, I'm just sort of curious. You've been on all sides of this. Like, do you have any advice for for um, you know, younger people starting out in their careers or or how do you think about this? >> I think you get such a breath of working at a startup that at the beginning of your career that will pay dividends later on because like I said, like the reason I can think across the stack is because I did all those things very early in my career. You know, I built hardware, I built software, I built applications. And um, in big companies, it's not it's not AMA's fault. It's just the way it is. You get hired to do a thing and you do that thing over and over again. You get really good at doing that thing and that's fine. You need people who are really good at doing specific things. But um if you want to be prepared for change in the future, being really good at one thing is probably less valuable than being good at but slightly good at a lot of things. >> Yeah, that's interesting. Is it fair to say unconventional sort of a practical research lab? Is that kind of the culture you're going for? >> Absolutely. Yeah. I mean, first few years it really is open-ended. I I don't want to close doors. Like I I'm really specific about this. Like I always try to bring the conversation back because those people like, \"Oh, that's gonna be hard to manufacture.\" Like stop. Don't think about that. Will it work? First come up with existence proofs. Then we go back and try to engineer it and you know all the trade-offs therein. But if you make those trade-offs up up front, you don't go into a good place. So yes, we are really thinking wide open but with an eye on the future who we are building a product >> and and to your point it takes not only people with diverse skill sets but um people with kind of high agency to try new things and learn new things and kind of integrate across the stack. >> Yeah. I mean I think what I've done really well across the companies I've built has been uh going after hard problems which kind of lends itself to smart people wanting to come in and try to solve them. They they see a challenge. It's like here's the amount Everest climate. Um but then giving them agency and I sort of look at it like what decisions can I make as a leader to increase agency of the or overall like me making top style decision maybe a global globally better for the company in the short term >> but I think long term we will we'll do better if more people have agency and can and try more things out. So personally, I like to find ways to get out of the way when I see people who who are very passionate about trying something. It's like, okay, well, you really want to do this. That makes sense. Go for it. You know, and then you own it. You own both the good and the bad, right? And that's agency to me is like got you gota you got like, okay, I [ __ ] up. No, this wasn't that's okay, too. But give people the room to do that, you know? >> Anything else you want to want to say before we wrap up? I mean I think this is like an opportunity to do something that is generationally will be felt you know to me that's that's what gets me up in the morning is you know you can go work on a product and make a tweak and people will use it that's great but like in 5 years many times people forget those things but if we are successful here the world will not forget this for a very long time right this will be written in history books and so I feel like those opportunities are rare",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "text": "I think AI is the next evolution of"
+    },
+    {
+      "start": 2.72,
+      "end": 6.08,
+      "text": "humanity. I think it takes us to a new"
+    },
+    {
+      "start": 4.4,
+      "end": 7.84,
+      "text": "level. Allows us to collaborate and"
+    },
+    {
+      "start": 6.08,
+      "end": 8.08,
+      "text": "understand the world in much deeper"
+    },
+    {
+      "start": 7.84,
+      "end": 10.24,
+      "text": "ways."
+    },
+    {
+      "start": 8.08,
+      "end": 11.68,
+      "text": ">> Naveen Ralph is here expert in AI."
+    },
+    {
+      "start": 10.24,
+      "end": 13.52,
+      "text": ">> Naveen Ralph probably one of the"
+    },
+    {
+      "start": 11.68,
+      "end": 15.28,
+      "text": "smartest guys in this domain. He sees"
+    },
+    {
+      "start": 13.52,
+      "end": 15.52,
+      "text": "things well before anybody else sees"
+    },
+    {
+      "start": 15.28,
+      "end": 17.2,
+      "text": "them."
+    },
+    {
+      "start": 15.52,
+      "end": 19.04,
+      "text": ">> You had a lot of success doing Nirvana"
+    },
+    {
+      "start": 17.2,
+      "end": 20.08,
+      "text": "Mosaic and data bricks. Why start a new"
+    },
+    {
+      "start": 19.04,
+      "end": 21.52,
+      "text": "chip company now?"
+    },
+    {
+      "start": 20.08,
+      "end": 23.52,
+      "text": ">> First off, it's not a chip company per"
+    },
+    {
+      "start": 21.52,
+      "end": 25.2,
+      "text": "se. Most of what we're doing is really"
+    },
+    {
+      "start": 23.52,
+      "end": 27.44,
+      "text": "kind of looking at first principles of"
+    },
+    {
+      "start": 25.2,
+      "end": 30.48,
+      "text": "how learning works in a physical system."
+    },
+    {
+      "start": 27.44,
+      "end": 32.16,
+      "text": "Nvidia, TSMC, Google. Are these"
+    },
+    {
+      "start": 30.48,
+      "end": 32.88,
+      "text": "potential allies for unconventional? Are"
+    },
+    {
+      "start": 32.16,
+      "end": 34.64,
+      "text": "these competitors?"
+    },
+    {
+      "start": 32.88,
+      "end": 36.16,
+      "text": ">> So, I think TSMC is absolutely going to"
+    },
+    {
+      "start": 34.64,
+      "end": 37.76,
+      "text": "be a partner. Google kind of has"
+    },
+    {
+      "start": 36.16,
+      "end": 39.28,
+      "text": "everything internally. And Nvidia, of"
+    },
+    {
+      "start": 37.76,
+      "end": 41.12,
+      "text": "course, they built the platform that"
+    },
+    {
+      "start": 39.28,
+      "end": 43.04,
+      "text": "everyone programs on today. So, are we"
+    },
+    {
+      "start": 41.12,
+      "end": 44.24,
+      "text": "going to be at odds with Nvidia going"
+    },
+    {
+      "start": 43.04,
+      "end": 45.52,
+      "text": "forward? I don't know. We'll see what"
+    },
+    {
+      "start": 44.24,
+      "end": 46.72,
+      "text": "the world looks like, but there could be"
+    },
+    {
+      "start": 45.52,
+      "end": 48.32,
+      "text": "a world where we collaborate."
+    },
+    {
+      "start": 46.72,
+      "end": 48.8,
+      "text": ">> Has anyone called you crazy yet for"
+    },
+    {
+      "start": 48.32,
+      "end": 52.52,
+      "text": "doing this?"
+    },
+    {
+      "start": 48.8,
+      "end": 52.52,
+      "text": ">> Oh, yeah. Plenty of people."
+    },
+    {
+      "start": 56.08,
+      "end": 61.76,
+      "text": "Our guest today is Naveen Ralph,"
+    },
+    {
+      "start": 58.48,
+      "end": 63.84,
+      "text": "co-founder and CEO of Unconventional AI,"
+    },
+    {
+      "start": 61.76,
+      "end": 65.6,
+      "text": "which is an AI chip startup. Prior to"
+    },
+    {
+      "start": 63.84,
+      "end": 68.32,
+      "text": "that, Naveen was at data bricks as head"
+    },
+    {
+      "start": 65.6,
+      "end": 70.24,
+      "text": "of AI and co-founder of two successful"
+    },
+    {
+      "start": 68.32,
+      "end": 72.88,
+      "text": "companies, Mosaic in the uh cloud"
+    },
+    {
+      "start": 70.24,
+      "end": 74.88,
+      "text": "computing world and Nirvana uh doing AI"
+    },
+    {
+      "start": 72.88,
+      "end": 78.0,
+      "text": "chip accelerators uh before it was cool."
+    },
+    {
+      "start": 74.88,
+      "end": 80.56,
+      "text": "Um uh we're here reporting from Nurups."
+    },
+    {
+      "start": 78.0,
+      "end": 82.0,
+      "text": "Um and uh yeah, great to great to have"
+    },
+    {
+      "start": 80.56,
+      "end": 83.68,
+      "text": "you on the on the podcast, Vivian."
+    },
+    {
+      "start": 82.0,
+      "end": 85.84,
+      "text": "Welcome. Thanks. Thanks for having me."
+    },
+    {
+      "start": 83.68,
+      "end": 87.92,
+      "text": ">> So, you were kind of at the vanguard"
+    },
+    {
+      "start": 85.84,
+      "end": 89.52,
+      "text": "thinking about what the proper hardware"
+    },
+    {
+      "start": 87.92,
+      "end": 91.68,
+      "text": "is for running AI workloads."
+    },
+    {
+      "start": 89.52,
+      "end": 93.12,
+      "text": ">> Absolutely. I mean, you know, it's like"
+    },
+    {
+      "start": 91.68,
+      "end": 94.72,
+      "text": "uh when you have a hammer, everything's"
+    },
+    {
+      "start": 93.12,
+      "end": 97.44,
+      "text": "a nail, I suppose. But the early part of"
+    },
+    {
+      "start": 94.72,
+      "end": 100.08,
+      "text": "my career was really about how do I take"
+    },
+    {
+      "start": 97.44,
+      "end": 101.92,
+      "text": "certain algorithms and uh capabilities"
+    },
+    {
+      "start": 100.08,
+      "end": 104.16,
+      "text": "and shrink them, make them faster, put"
+    },
+    {
+      "start": 101.92,
+      "end": 106.4,
+      "text": "them into form factors that uh make them"
+    },
+    {
+      "start": 104.16,
+      "end": 109.84,
+      "text": "make those use cases proliferate like"
+    },
+    {
+      "start": 106.4,
+      "end": 111.44,
+      "text": "wireless uh technology or video"
+    },
+    {
+      "start": 109.84,
+      "end": 113.52,
+      "text": "compression. you know, you couldn't do"
+    },
+    {
+      "start": 111.44,
+      "end": 115.28,
+      "text": "video compression in real time on a on a"
+    },
+    {
+      "start": 113.52,
+      "end": 116.96,
+      "text": "on a laptop back then. It was just there"
+    },
+    {
+      "start": 115.28,
+      "end": 118.64,
+      "text": "wasn't enough uh computing power. So,"
+    },
+    {
+      "start": 116.96,
+      "end": 120.0,
+      "text": "you actually needed to build hardware to"
+    },
+    {
+      "start": 118.64,
+      "end": 121.68,
+      "text": "do those kind of things. So, my career"
+    },
+    {
+      "start": 120.0,
+      "end": 123.76,
+      "text": "was early part of my career was all"
+    },
+    {
+      "start": 121.68,
+      "end": 125.84,
+      "text": "about that. And uh you know, then I went"
+    },
+    {
+      "start": 123.76,
+      "end": 127.36,
+      "text": "back to academia, did a PhD in"
+    },
+    {
+      "start": 125.84,
+      "end": 128.96,
+      "text": "neuroscience. And so, you still kind of"
+    },
+    {
+      "start": 127.36,
+      "end": 130.72,
+      "text": "look at it like, hey, can I make"
+    },
+    {
+      "start": 128.96,
+      "end": 133.04,
+      "text": "something better that's more efficient?"
+    },
+    {
+      "start": 130.72,
+      "end": 136.0,
+      "text": ">> And so, you sold Nirvana to Intel. Yeah."
+    },
+    {
+      "start": 133.04,
+      "end": 137.6,
+      "text": ">> Um and and then uh founded Mosaic, which"
+    },
+    {
+      "start": 136.0,
+      "end": 138.88,
+      "text": "is a cloud company. You know, it's"
+    },
+    {
+      "start": 137.6,
+      "end": 140.72,
+      "text": "interesting to sort of cross domains"
+    },
+    {
+      "start": 138.88,
+      "end": 142.8,
+      "text": "like that. I think to be able to look at"
+    },
+    {
+      "start": 140.72,
+      "end": 144.16,
+      "text": "hardware and software, you know, I would"
+    },
+    {
+      "start": 142.8,
+      "end": 145.6,
+      "text": "sort of argue Mosaic was really a"
+    },
+    {
+      "start": 144.16,
+      "end": 147.36,
+      "text": "software company. You know, how how'd"
+    },
+    {
+      "start": 145.6,
+      "end": 148.48,
+      "text": "you make that decision and and why, you"
+    },
+    {
+      "start": 147.36,
+      "end": 150.24,
+      "text": "know, why, you know, why do you think"
+    },
+    {
+      "start": 148.48,
+      "end": 152.24,
+      "text": "you have these diverse interests?"
+    },
+    {
+      "start": 150.24,
+      "end": 153.84,
+      "text": ">> Well, I think I was, I don't know, I"
+    },
+    {
+      "start": 152.24,
+      "end": 155.52,
+      "text": "guess you would call it an OG kind of"
+    },
+    {
+      "start": 153.84,
+      "end": 156.72,
+      "text": "full stack. Now, full stack engineer"
+    },
+    {
+      "start": 155.52,
+      "end": 158.48,
+      "text": "means something different that meant"
+    },
+    {
+      "start": 156.72,
+      "end": 161.04,
+      "text": "back then. I think back then it had"
+    },
+    {
+      "start": 158.48,
+      "end": 164.88,
+      "text": "someone who understands potentially"
+    },
+    {
+      "start": 161.04,
+      "end": 167.04,
+      "text": "devices like silicon how to do logic"
+    },
+    {
+      "start": 164.88,
+      "end": 170.0,
+      "text": "design computer architecture uh"
+    },
+    {
+      "start": 167.04,
+      "end": 172.24,
+      "text": "low-level software maybe OS level"
+    },
+    {
+      "start": 170.0,
+      "end": 174.48,
+      "text": "software and then application that was a"
+    },
+    {
+      "start": 172.24,
+      "end": 176.4,
+      "text": "a full stack engineer and I was I I"
+    },
+    {
+      "start": 174.48,
+      "end": 177.76,
+      "text": "actually had touched all those topics so"
+    },
+    {
+      "start": 176.4,
+      "end": 179.04,
+      "text": "to me it was very natural to kind of"
+    },
+    {
+      "start": 177.76,
+      "end": 181.6,
+      "text": "think across these boundaries you know"
+    },
+    {
+      "start": 179.04,
+      "end": 183.6,
+      "text": "to me like uh software and hardware is"
+    },
+    {
+      "start": 181.6,
+      "end": 185.52,
+      "text": "is not really natural boundary it's just"
+    },
+    {
+      "start": 183.6,
+      "end": 187.44,
+      "text": "where we decide to draw the line and say"
+    },
+    {
+      "start": 185.52,
+      "end": 190.64,
+      "text": "okay this is something I configurable or"
+    },
+    {
+      "start": 187.44,
+      "end": 192.32,
+      "text": "I don't and uh you know it's it's like"
+    },
+    {
+      "start": 190.64,
+      "end": 194.08,
+      "text": "where where is the world going to"
+    },
+    {
+      "start": 192.32,
+      "end": 196.0,
+      "text": "consume something where is the problem"
+    },
+    {
+      "start": 194.08,
+      "end": 198.4,
+      "text": "and then you know right size and figure"
+    },
+    {
+      "start": 196.0,
+      "end": 200.72,
+      "text": "out the the solution to go and hit it"
+    },
+    {
+      "start": 198.4,
+      "end": 201.52,
+      "text": ">> now full stack means I know JavaScript"
+    },
+    {
+      "start": 200.72,
+      "end": 202.0,
+      "text": "and Python"
+    },
+    {
+      "start": 201.52,
+      "end": 203.2,
+      "text": ">> that's right"
+    },
+    {
+      "start": 202.0,
+      "end": 204.56,
+      "text": ">> you know so you've had a lot of success"
+    },
+    {
+      "start": 203.2,
+      "end": 207.52,
+      "text": "doing both of those things and at data"
+    },
+    {
+      "start": 204.56,
+      "end": 208.32,
+      "text": "bricks um why start a new chip company"
+    },
+    {
+      "start": 207.52,
+      "end": 210.0,
+      "text": "now"
+    },
+    {
+      "start": 208.32,
+      "end": 212.08,
+      "text": ">> it is kind of crazy it's it's one of"
+    },
+    {
+      "start": 210.0,
+      "end": 214.0,
+      "text": "these things like u actually I was first"
+    },
+    {
+      "start": 212.08,
+      "end": 216.16,
+      "text": "off say it's not a chip company per se"
+    },
+    {
+      "start": 214.0,
+      "end": 218.88,
+      "text": "most of what we're doing is at the"
+    },
+    {
+      "start": 216.16,
+      "end": 220.8,
+      "text": "beginning is theory and uh really kind"
+    },
+    {
+      "start": 218.88,
+      "end": 223.44,
+      "text": "of looking at first principles of how"
+    },
+    {
+      "start": 220.8,
+      "end": 226.72,
+      "text": "learning works in a in a in a in a a"
+    },
+    {
+      "start": 223.44,
+      "end": 228.8,
+      "text": "physical system. Um and the reason to go"
+    },
+    {
+      "start": 226.72,
+      "end": 232.0,
+      "text": "back and do this is just purely out of"
+    },
+    {
+      "start": 228.8,
+      "end": 233.36,
+      "text": "passion. I think we can we can change"
+    },
+    {
+      "start": 232.0,
+      "end": 235.12,
+      "text": "how a computer is built. We've been"
+    },
+    {
+      "start": 233.36,
+      "end": 237.36,
+      "text": "building largely the same kind of"
+    },
+    {
+      "start": 235.12,
+      "end": 240.88,
+      "text": "computer for 80 years. We went digital"
+    },
+    {
+      "start": 237.36,
+      "end": 243.52,
+      "text": "back in the 1940s and um you know in"
+    },
+    {
+      "start": 240.88,
+      "end": 245.2,
+      "text": "undergrad in the 1990s when I learned"
+    },
+    {
+      "start": 243.52,
+      "end": 246.48,
+      "text": "about you know the therm the"
+    },
+    {
+      "start": 245.2,
+      "end": 248.24,
+      "text": "thermodynamics of the brain like the"
+    },
+    {
+      "start": 246.48,
+      "end": 249.92,
+      "text": "brain's 20 watts of energy and you know"
+    },
+    {
+      "start": 248.24,
+      "end": 253.04,
+      "text": "the kind of computations that can happen"
+    },
+    {
+      "start": 249.92,
+      "end": 254.88,
+      "text": "inside of brain and neural systems I I"
+    },
+    {
+      "start": 253.04,
+      "end": 257.52,
+      "text": "was just blown away then I'm still blown"
+    },
+    {
+      "start": 254.88,
+      "end": 259.6,
+      "text": "away by it and I think um we haven't"
+    },
+    {
+      "start": 257.52,
+      "end": 261.76,
+      "text": "really scratched the surface of how we"
+    },
+    {
+      "start": 259.6,
+      "end": 264.96,
+      "text": "can get close to that you know biology"
+    },
+    {
+      "start": 261.76,
+      "end": 267.2,
+      "text": "is exquisitly efficient it's very fast"
+    },
+    {
+      "start": 264.96,
+      "end": 269.36,
+      "text": "it right sizes is itself to the"
+    },
+    {
+      "start": 267.2,
+      "end": 271.6,
+      "text": "application at hand. Like you know when"
+    },
+    {
+      "start": 269.36,
+      "end": 273.12,
+      "text": "you're chilling out you don't use much"
+    },
+    {
+      "start": 271.6,
+      "end": 274.72,
+      "text": "energy like you just but you're still"
+    },
+    {
+      "start": 273.12,
+      "end": 276.72,
+      "text": "aware of other threats and things like"
+    },
+    {
+      "start": 274.72,
+      "end": 278.16,
+      "text": "this then once you know a threat happens"
+    },
+    {
+      "start": 276.72,
+      "end": 280.0,
+      "text": "like everything turns on. It's very"
+    },
+    {
+      "start": 278.16,
+      "end": 282.8,
+      "text": "dynamic and we really haven't built"
+    },
+    {
+      "start": 280.0,
+      "end": 284.24,
+      "text": "systems like this and you know I I've"
+    },
+    {
+      "start": 282.8,
+      "end": 286.8,
+      "text": "been in the industry long enough to know"
+    },
+    {
+      "start": 284.24,
+      "end": 288.16,
+      "text": "that we have to have an incentive to"
+    },
+    {
+      "start": 286.8,
+      "end": 289.44,
+      "text": "build things. You can't you can't just"
+    },
+    {
+      "start": 288.16,
+      "end": 291.04,
+      "text": "say hey I want to build this cool thing"
+    },
+    {
+      "start": 289.44,
+      "end": 293.36,
+      "text": "and therefore I go build it. Maybe in"
+    },
+    {
+      "start": 291.04,
+      "end": 295.36,
+      "text": "academia you can do that but in the in"
+    },
+    {
+      "start": 293.36,
+      "end": 298.24,
+      "text": "in sort of the real world I can't. And"
+    },
+    {
+      "start": 295.36,
+      "end": 300.0,
+      "text": "uh now it's exciting because those"
+    },
+    {
+      "start": 298.24,
+      "end": 302.88,
+      "text": "concepts are super relevant. We're at a"
+    },
+    {
+      "start": 300.0,
+      "end": 306.08,
+      "text": "point in time where uh computing is is"
+    },
+    {
+      "start": 302.88,
+      "end": 308.32,
+      "text": "is bound by energy at the global level,"
+    },
+    {
+      "start": 306.08,
+      "end": 311.04,
+      "text": "which just was never true in all of"
+    },
+    {
+      "start": 308.32,
+      "end": 314.32,
+      "text": "humanity. And and so for for those of us"
+    },
+    {
+      "start": 311.04,
+      "end": 315.68,
+      "text": "who aren't experts um can you describe"
+    },
+    {
+      "start": 314.32,
+      "end": 318.56,
+      "text": "the difference between digital and"
+    },
+    {
+      "start": 315.68,
+      "end": 321.04,
+      "text": "analog computing systems and and you"
+    },
+    {
+      "start": 318.56,
+      "end": 322.8,
+      "text": "know like why do you think the the"
+    },
+    {
+      "start": 321.04,
+      "end": 324.48,
+      "text": "architecture has evolved the way it has"
+    },
+    {
+      "start": 322.8,
+      "end": 326.16,
+      "text": "sort of more more digital focused over"
+    },
+    {
+      "start": 324.48,
+      "end": 328.72,
+      "text": "over decades as you said?"
+    },
+    {
+      "start": 326.16,
+      "end": 333.12,
+      "text": ">> Yeah. I mean very simply digital"
+    },
+    {
+      "start": 328.72,
+      "end": 334.8,
+      "text": "computers uh implement numeric and"
+    },
+    {
+      "start": 333.12,
+      "end": 337.04,
+      "text": "numeric with some sort of estimation"
+    },
+    {
+      "start": 334.8,
+      "end": 338.8,
+      "text": "right I mean in in a digital computer a"
+    },
+    {
+      "start": 337.04,
+      "end": 342.24,
+      "text": "number is represented by a fixed number"
+    },
+    {
+      "start": 338.8,
+      "end": 343.92,
+      "text": "of bits and uh that has some precision"
+    },
+    {
+      "start": 342.24,
+      "end": 345.6,
+      "text": "error and things like this it's just a"
+    },
+    {
+      "start": 343.92,
+      "end": 348.48,
+      "text": "way we implement the system if you make"
+    },
+    {
+      "start": 345.6,
+      "end": 350.4,
+      "text": "it enough bits like 64 bits you can"
+    },
+    {
+      "start": 348.48,
+      "end": 352.24,
+      "text": "largely say that maybe the error is"
+    },
+    {
+      "start": 350.4,
+      "end": 355.12,
+      "text": "small you don't have to think about it"
+    },
+    {
+      "start": 352.24,
+      "end": 357.28,
+      "text": "um and so when we the digital computer"
+    },
+    {
+      "start": 355.12,
+      "end": 359.12,
+      "text": "uh is capable of simulating anything"
+    },
+    {
+      "start": 357.28,
+      "end": 361.04,
+      "text": "that you can express as numbers and"
+    },
+    {
+      "start": 359.12,
+      "end": 363.84,
+      "text": "arithmetic. So it became a very general"
+    },
+    {
+      "start": 361.04,
+      "end": 365.6,
+      "text": "machine. I can literally uh simulate any"
+    },
+    {
+      "start": 363.84,
+      "end": 367.6,
+      "text": "physical process. All of physics we try"
+    },
+    {
+      "start": 365.6,
+      "end": 370.08,
+      "text": "to do computational physics, right? I"
+    },
+    {
+      "start": 367.6,
+      "end": 371.92,
+      "text": "have an equation. I can then write um"
+    },
+    {
+      "start": 370.08,
+      "end": 375.12,
+      "text": "numeric solvers that sort of deal with"
+    },
+    {
+      "start": 371.92,
+      "end": 376.88,
+      "text": "those uh those imprecisions uh in in the"
+    },
+    {
+      "start": 375.12,
+      "end": 379.52,
+      "text": "number of bits. And so this became"
+    },
+    {
+      "start": 376.88,
+      "end": 382.08,
+      "text": "obviously computer science uh the entire"
+    },
+    {
+      "start": 379.52,
+      "end": 384.56,
+      "text": "field now. And we went that direction"
+    },
+    {
+      "start": 382.08,
+      "end": 387.68,
+      "text": "actually very early on because uh we"
+    },
+    {
+      "start": 384.56,
+      "end": 388.72,
+      "text": "couldn't scale up uh computation. It was"
+    },
+    {
+      "start": 387.68,
+      "end": 390.4,
+      "text": "it's actually kind of an interesting"
+    },
+    {
+      "start": 388.72,
+      "end": 392.08,
+      "text": "conversation if you look from back then."
+    },
+    {
+      "start": 390.4,
+      "end": 393.36,
+      "text": "Not that it was there of course, but if"
+    },
+    {
+      "start": 392.08,
+      "end": 394.88,
+      "text": "you look at the papers and things, they"
+    },
+    {
+      "start": 393.36,
+      "end": 396.56,
+      "text": "actually looked very similar to today in"
+    },
+    {
+      "start": 394.88,
+      "end": 398.88,
+      "text": "terms of scaling up GPUs."
+    },
+    {
+      "start": 396.56,
+      "end": 401.52,
+      "text": ">> Um analog computers were actually some"
+    },
+    {
+      "start": 398.88,
+      "end": 402.88,
+      "text": "of the first computers and um they"
+    },
+    {
+      "start": 401.52,
+      "end": 405.2,
+      "text": "worked really well. They were very"
+    },
+    {
+      "start": 402.88,
+      "end": 407.68,
+      "text": "efficient, but they couldn't be scaled"
+    },
+    {
+      "start": 405.2,
+      "end": 409.36,
+      "text": "up because of manufacturing variability."
+    },
+    {
+      "start": 407.68,
+      "end": 412.0,
+      "text": "So someone said, \"Okay, you know what? I"
+    },
+    {
+      "start": 409.36,
+      "end": 414.4,
+      "text": "can actually say I can make a vacuum"
+    },
+    {
+      "start": 412.0,
+      "end": 416.64,
+      "text": "tube behave as a high or low very"
+    },
+    {
+      "start": 414.4,
+      "end": 418.24,
+      "text": "reliably. I can't characterize the in"
+    },
+    {
+      "start": 416.64,
+      "end": 420.16,
+      "text": "between very well, but I can I can say"
+    },
+    {
+      "start": 418.24,
+      "end": 421.76,
+      "text": "it's high or low. And so that was kind"
+    },
+    {
+      "start": 420.16,
+      "end": 423.2,
+      "text": "of where we went to digital abstraction."
+    },
+    {
+      "start": 421.76,
+      "end": 425.52,
+      "text": "And then we could scale up."
+    },
+    {
+      "start": 423.2,
+      "end": 426.96,
+      "text": ">> ENIAC, which was built in 1945, had"
+    },
+    {
+      "start": 425.52,
+      "end": 427.6,
+      "text": "18,000 vacuum tubes."
+    },
+    {
+      "start": 426.96,
+      "end": 429.52,
+      "text": ">> Wow."
+    },
+    {
+      "start": 427.6,
+      "end": 431.2,
+      "text": ">> So 18,000 is kind of similar how many"
+    },
+    {
+      "start": 429.52,
+      "end": 433.04,
+      "text": "GPUs people use now, right, for large"
+    },
+    {
+      "start": 431.2,
+      "end": 434.64,
+      "text": "scale trading. So scaling things up is"
+    },
+    {
+      "start": 433.04,
+      "end": 436.48,
+      "text": "is always a hard problem. And once you"
+    },
+    {
+      "start": 434.64,
+      "end": 438.56,
+      "text": "figure out how to do it, it makes a"
+    },
+    {
+      "start": 436.48,
+      "end": 441.12,
+      "text": "paradigm happen. And I think that's why"
+    },
+    {
+      "start": 438.56,
+      "end": 443.52,
+      "text": "we went to digital. But analog still is"
+    },
+    {
+      "start": 441.12,
+      "end": 445.2,
+      "text": "inherently more efficient because you"
+    },
+    {
+      "start": 443.52,
+      "end": 446.4,
+      "text": "it's it's actually analogous computing"
+    },
+    {
+      "start": 445.2,
+      "end": 448.64,
+      "text": "is a way to think about it. Like can I"
+    },
+    {
+      "start": 446.4,
+      "end": 450.8,
+      "text": "build a physical system that is similar"
+    },
+    {
+      "start": 448.64,
+      "end": 452.64,
+      "text": "to the quantity I'm trying to express or"
+    },
+    {
+      "start": 450.8,
+      "end": 455.6,
+      "text": "compute over. Um you're you're"
+    },
+    {
+      "start": 452.64,
+      "end": 458.08,
+      "text": "effectively using the physics of the uh"
+    },
+    {
+      "start": 455.6,
+      "end": 460.08,
+      "text": "underlying medium to do the computation."
+    },
+    {
+      "start": 458.08,
+      "end": 462.48,
+      "text": ">> And so in digital computers we have"
+    },
+    {
+      "start": 460.08,
+      "end": 464.08,
+      "text": "transistors. Um ju just to make it sort"
+    },
+    {
+      "start": 462.48,
+      "end": 465.36,
+      "text": "of concrete, what kind of substrates are"
+    },
+    {
+      "start": 464.08,
+      "end": 467.12,
+      "text": "you talking about for for analog"
+    },
+    {
+      "start": 465.36,
+      "end": 468.24,
+      "text": "computers? Yeah, I mean analog computers"
+    },
+    {
+      "start": 467.12,
+      "end": 471.52,
+      "text": "can do lots of different things. You"
+    },
+    {
+      "start": 468.24,
+      "end": 473.12,
+      "text": "know, um there's wind tunnels are a"
+    },
+    {
+      "start": 471.52,
+      "end": 475.84,
+      "text": "great example of an analog computer in a"
+    },
+    {
+      "start": 473.12,
+      "end": 477.84,
+      "text": "sense where um I have, you know, a race"
+    },
+    {
+      "start": 475.84,
+      "end": 480.24,
+      "text": "car on a track or an airplane and I want"
+    },
+    {
+      "start": 477.84,
+      "end": 483.76,
+      "text": "to understand how the the wind moves"
+    },
+    {
+      "start": 480.24,
+      "end": 485.44,
+      "text": "around it and you can in theory solve"
+    },
+    {
+      "start": 483.76,
+      "end": 487.44,
+      "text": "those things computationally. The"
+    },
+    {
+      "start": 485.44,
+      "end": 488.96,
+      "text": "problem is you're always going to be"
+    },
+    {
+      "start": 487.44,
+      "end": 490.56,
+      "text": "off. It's very hard to know what the"
+    },
+    {
+      "start": 488.96,
+      "end": 491.92,
+      "text": "real system is going to look like and"
+    },
+    {
+      "start": 490.56,
+      "end": 494.4,
+      "text": "doing things with computational fluid"
+    },
+    {
+      "start": 491.92,
+      "end": 495.92,
+      "text": "dynamics accurately is pretty hard. So"
+    },
+    {
+      "start": 494.4,
+      "end": 497.52,
+      "text": "people still build wind tunnels that's"
+    },
+    {
+      "start": 495.92,
+      "end": 500.08,
+      "text": "actually modeling that that's that's an"
+    },
+    {
+      "start": 497.52,
+      "end": 501.68,
+      "text": "analog computer. You know I think uh we"
+    },
+    {
+      "start": 500.08,
+      "end": 503.76,
+      "text": "still have lots of reasons to build"
+    },
+    {
+      "start": 501.68,
+      "end": 505.84,
+      "text": "these analogous type computers. Now in"
+    },
+    {
+      "start": 503.76,
+      "end": 509.28,
+      "text": "the situation we're talking about we can"
+    },
+    {
+      "start": 505.84,
+      "end": 512.48,
+      "text": "actually build circuits in silicon uh to"
+    },
+    {
+      "start": 509.28,
+      "end": 514.72,
+      "text": "recapitulate behaviors of of neural"
+    },
+    {
+      "start": 512.48,
+      "end": 516.64,
+      "text": "networks. So what we're doing today is"
+    },
+    {
+      "start": 514.72,
+      "end": 518.88,
+      "text": "is more specified than what we were"
+    },
+    {
+      "start": 516.64,
+      "end": 520.64,
+      "text": "doing 80 years ago in a sense is that"
+    },
+    {
+      "start": 518.88,
+      "end": 523.04,
+      "text": "then we were trying to automate generic"
+    },
+    {
+      "start": 520.64,
+      "end": 525.52,
+      "text": "calculation which was used to calculate"
+    },
+    {
+      "start": 523.04,
+      "end": 528.16,
+      "text": "artillery trajectories. It was used to"
+    },
+    {
+      "start": 525.52,
+      "end": 529.92,
+      "text": "calculate finances maybe some you know"
+    },
+    {
+      "start": 528.16,
+      "end": 532.64,
+      "text": "physics problems like going into space"
+    },
+    {
+      "start": 529.92,
+      "end": 534.96,
+      "text": "things like that those require"
+    },
+    {
+      "start": 532.64,
+      "end": 536.24,
+      "text": "determinism and you know specificity"
+    },
+    {
+      "start": 534.96,
+      "end": 538.32,
+      "text": "around these numbers and these"
+    },
+    {
+      "start": 536.24,
+      "end": 540.08,
+      "text": "computations. Intelligence is a"
+    },
+    {
+      "start": 538.32,
+      "end": 542.56,
+      "text": "different beast. You can build it out of"
+    },
+    {
+      "start": 540.08,
+      "end": 544.24,
+      "text": "numbers, but is it naturally built out"
+    },
+    {
+      "start": 542.56,
+      "end": 546.08,
+      "text": "of numbers? I don't know. A neural"
+    },
+    {
+      "start": 544.24,
+      "end": 549.2,
+      "text": "network is actually a stochastic"
+    },
+    {
+      "start": 546.08,
+      "end": 551.6,
+      "text": "machine. And so why are we using the"
+    },
+    {
+      "start": 549.2,
+      "end": 553.52,
+      "text": "substrate that is highly precise and"
+    },
+    {
+      "start": 551.6,
+      "end": 555.52,
+      "text": "deterministic for something that's"
+    },
+    {
+      "start": 553.52,
+      "end": 557.44,
+      "text": "actually stochastic and distributed in"
+    },
+    {
+      "start": 555.52,
+      "end": 560.4,
+      "text": "nature? So we believe we can find this"
+    },
+    {
+      "start": 557.44,
+      "end": 562.96,
+      "text": "the right isomorphism in electrical"
+    },
+    {
+      "start": 560.4,
+      "end": 566.4,
+      "text": "circuits that can subserve intelligence."
+    },
+    {
+      "start": 562.96,
+      "end": 569.84,
+      "text": ">> That's a pretty wild idea, isn't it? um"
+    },
+    {
+      "start": 566.4,
+      "end": 571.84,
+      "text": "maybe unpack it one level deeper because"
+    },
+    {
+      "start": 569.84,
+      "end": 574.8,
+      "text": "I totally I totally agree with you,"
+    },
+    {
+      "start": 571.84,
+      "end": 576.16,
+      "text": "right? It's like um computers for for"
+    },
+    {
+      "start": 574.8,
+      "end": 577.68,
+      "text": "decades have been sort of the complement"
+    },
+    {
+      "start": 576.16,
+      "end": 579.52,
+      "text": "to human intelligence, right? It's like,"
+    },
+    {
+      "start": 577.68,
+      "end": 581.28,
+      "text": "hey, my brain isn't really great at"
+    },
+    {
+      "start": 579.52,
+      "end": 581.76,
+      "text": "computing an orbital trajectory."
+    },
+    {
+      "start": 581.28,
+      "end": 583.52,
+      "text": ">> That's right."
+    },
+    {
+      "start": 581.76,
+      "end": 585.52,
+      "text": ">> And I don't want to like burn up on"
+    },
+    {
+      "start": 583.52,
+      "end": 587.04,
+      "text": "re-entry. So like a computer can help us"
+    },
+    {
+      "start": 585.52,
+      "end": 589.2,
+      "text": "with this incredible degree of of"
+    },
+    {
+      "start": 587.04,
+      "end": 590.48,
+      "text": "precision. Um we're now kind of going"
+    },
+    {
+      "start": 589.2,
+      "end": 593.6,
+      "text": "the opposite direction, right? we're"
+    },
+    {
+      "start": 590.48,
+      "end": 595.84,
+      "text": "actually trying to encode more sort of"
+    },
+    {
+      "start": 593.6,
+      "end": 597.52,
+      "text": "um fuzziness into computer systems. Um"
+    },
+    {
+      "start": 595.84,
+      "end": 599.84,
+      "text": "so so yeah so so go maybe just a little"
+    },
+    {
+      "start": 597.52,
+      "end": 601.76,
+      "text": "bit deeper on this idea of an analog and"
+    },
+    {
+      "start": 599.84,
+      "end": 603.92,
+      "text": "um you know why intelligence is a good"
+    },
+    {
+      "start": 601.76,
+      "end": 605.84,
+      "text": "fit for for anal for analog systems."
+    },
+    {
+      "start": 603.92,
+      "end": 608.16,
+      "text": "Well, I mean the best examples we have"
+    },
+    {
+      "start": 605.84,
+      "end": 610.4,
+      "text": "of uh intelligent systems in nature are"
+    },
+    {
+      "start": 608.16,
+      "end": 611.84,
+      "text": "brains and you know"
+    },
+    {
+      "start": 610.4,
+      "end": 613.52,
+      "text": ">> it's often been said you know human"
+    },
+    {
+      "start": 611.84,
+      "end": 616.16,
+      "text": "brains run on 20 watts of energy. That's"
+    },
+    {
+      "start": 613.52,
+      "end": 617.44,
+      "text": "that is true but if you look at a"
+    },
+    {
+      "start": 616.16,
+      "end": 618.96,
+      "text": "million brains generally actually"
+    },
+    {
+      "start": 617.44,
+      "end": 621.52,
+      "text": "extremely efficient like a squirrel or a"
+    },
+    {
+      "start": 618.96,
+      "end": 623.04,
+      "text": "cat it's like a tenth of a watt and so"
+    },
+    {
+      "start": 621.52,
+      "end": 625.68,
+      "text": "uh there's something there that we're"
+    },
+    {
+      "start": 623.04,
+      "end": 627.68,
+      "text": "still missing. And not to say that we"
+    },
+    {
+      "start": 625.68,
+      "end": 630.24,
+      "text": "understand all of it, but part of what I"
+    },
+    {
+      "start": 627.68,
+      "end": 631.76,
+      "text": "think we're missing is we have lots of"
+    },
+    {
+      "start": 630.24,
+      "end": 635.12,
+      "text": "abstractions in a computer that are"
+    },
+    {
+      "start": 631.76,
+      "end": 636.88,
+      "text": "quite lossy. In a brain, the neural"
+    },
+    {
+      "start": 635.12,
+      "end": 638.16,
+      "text": "network neural network dynamics are"
+    },
+    {
+      "start": 636.88,
+      "end": 640.32,
+      "text": "implemented physically."
+    },
+    {
+      "start": 638.16,
+      "end": 642.0,
+      "text": ">> So there is no abstraction. Intelligence"
+    },
+    {
+      "start": 640.32,
+      "end": 644.32,
+      "text": "is the physics. They're one and the"
+    },
+    {
+      "start": 642.0,
+      "end": 645.76,
+      "text": "same. There's no, you know, OS and, you"
+    },
+    {
+      "start": 644.32,
+      "end": 647.52,
+      "text": "know, some sort of API and this and"
+    },
+    {
+      "start": 645.76,
+      "end": 649.76,
+      "text": "that. So there's some visual stimulus"
+    },
+    {
+      "start": 647.52,
+      "end": 652.56,
+      "text": "for instance that directly activates an"
+    },
+    {
+      "start": 649.76,
+      "end": 654.32,
+      "text": "a actual neural network and and produces"
+    },
+    {
+      "start": 652.56,
+      "end": 654.72,
+      "text": "some some sematic response that sort of"
+    },
+    {
+      "start": 654.32,
+      "end": 656.16,
+      "text": "thing."
+    },
+    {
+      "start": 654.72,
+      "end": 660.4,
+      "text": ">> Exactly. And those things are mediated"
+    },
+    {
+      "start": 656.16,
+      "end": 662.72,
+      "text": "by chemical diffusion and you know uh"
+    },
+    {
+      "start": 660.4,
+      "end": 664.8,
+      "text": "just the the the physical properties of"
+    },
+    {
+      "start": 662.72,
+      "end": 667.28,
+      "text": "the neuron the physics itself. So I"
+    },
+    {
+      "start": 664.8,
+      "end": 669.6,
+      "text": "think absolutely it's possible to build"
+    },
+    {
+      "start": 667.28,
+      "end": 671.84,
+      "text": "something that's much more efficient and"
+    },
+    {
+      "start": 669.6,
+      "end": 674.88,
+      "text": "uh by using physics in an analogous way"
+    },
+    {
+      "start": 671.84,
+      "end": 677.52,
+      "text": "that is 100% true. uh can we do it and"
+    },
+    {
+      "start": 674.88,
+      "end": 678.88,
+      "text": "build us build build a product out of it"
+    },
+    {
+      "start": 677.52,
+      "end": 680.24,
+      "text": "is really the question we're asking here"
+    },
+    {
+      "start": 678.88,
+      "end": 682.4,
+      "text": "at unconventional"
+    },
+    {
+      "start": 680.24,
+      "end": 685.28,
+      "text": ">> and is part of the idea that now is the"
+    },
+    {
+      "start": 682.4,
+      "end": 686.72,
+      "text": "right time because AI is a both a huge"
+    },
+    {
+      "start": 685.28,
+      "end": 688.48,
+      "text": "and a unique workload."
+    },
+    {
+      "start": 686.72,
+      "end": 690.0,
+      "text": ">> Yeah, absolutely. You know, it's it's"
+    },
+    {
+      "start": 688.48,
+      "end": 692.8,
+      "text": "interesting. So just maybe some stats"
+    },
+    {
+      "start": 690.0,
+      "end": 695.28,
+      "text": "here like the US is about 50% of the"
+    },
+    {
+      "start": 692.8,
+      "end": 697.84,
+      "text": "world's data center capacity and today"
+    },
+    {
+      "start": 695.28,
+      "end": 699.36,
+      "text": "we put about 4% of the energy grid of"
+    },
+    {
+      "start": 697.84,
+      "end": 702.4,
+      "text": "the US energy grid into those data"
+    },
+    {
+      "start": 699.36,
+      "end": 704.8,
+      "text": "centers and this this past year 2025 was"
+    },
+    {
+      "start": 702.4,
+      "end": 706.16,
+      "text": "the first time we started to see news"
+    },
+    {
+      "start": 704.8,
+      "end": 708.64,
+      "text": "articles about brownouts in the"
+    },
+    {
+      "start": 706.16,
+      "end": 710.24,
+      "text": "southwest during the summer and you know"
+    },
+    {
+      "start": 708.64,
+      "end": 713.28,
+      "text": "just imagine what happens when this goes"
+    },
+    {
+      "start": 710.24,
+      "end": 715.04,
+      "text": "to 8% 10% of the energy grid. It it's"
+    },
+    {
+      "start": 713.28,
+      "end": 717.04,
+      "text": "not going to be a good place that we're"
+    },
+    {
+      "start": 715.04,
+      "end": 719.52,
+      "text": "in. So can we build more power?"
+    },
+    {
+      "start": 717.04,
+      "end": 722.08,
+      "text": "Absolutely we should. Building power"
+    },
+    {
+      "start": 719.52,
+      "end": 723.92,
+      "text": "generation is very hard, expensive and"
+    },
+    {
+      "start": 722.08,
+      "end": 725.92,
+      "text": "it's infrastructure like it takes it"
+    },
+    {
+      "start": 723.92,
+      "end": 728.64,
+      "text": "takes time. You can't you can only bring"
+    },
+    {
+      "start": 725.92,
+      "end": 730.32,
+      "text": "online so many kilowatts or gigawatts"
+    },
+    {
+      "start": 728.64,
+      "end": 733.44,
+      "text": "per year. So something on the order of"
+    },
+    {
+      "start": 730.32,
+      "end": 736.0,
+      "text": "four per year. Uh by some estimates we"
+    },
+    {
+      "start": 733.44,
+      "end": 738.08,
+      "text": "need 400 gawatts additional capacity"
+    },
+    {
+      "start": 736.0,
+      "end": 739.52,
+      "text": "over the next 10 years to power the"
+    },
+    {
+      "start": 738.08,
+      "end": 739.84,
+      "text": "demand for AI."
+    },
+    {
+      "start": 739.52,
+      "end": 741.44,
+      "text": ">> Wow."
+    },
+    {
+      "start": 739.84,
+      "end": 743.28,
+      "text": ">> So we have a huge shortfall. And so we"
+    },
+    {
+      "start": 741.44,
+      "end": 746.16,
+      "text": "really just need to rethink this. the"
+    },
+    {
+      "start": 743.28,
+      "end": 748.56,
+      "text": "the you know 15-year-old sci-fi nerd in"
+    },
+    {
+      "start": 746.16,
+      "end": 751.28,
+      "text": "me says like wow we're we're mobilizing"
+    },
+    {
+      "start": 748.56,
+      "end": 753.44,
+      "text": "you know species scale resources to like"
+    },
+    {
+      "start": 751.28,
+      "end": 755.04,
+      "text": "invent the future we are and then then"
+    },
+    {
+      "start": 753.44,
+      "end": 757.92,
+      "text": "there's the practical it's like even if"
+    },
+    {
+      "start": 755.04,
+      "end": 760.96,
+      "text": "we add 400 gawatts of production"
+    },
+    {
+      "start": 757.92,
+      "end": 762.4,
+      "text": "capacity our our you know 1970s era"
+    },
+    {
+      "start": 760.96,
+      "end": 764.08,
+      "text": "transmission grid is probably going to"
+    },
+    {
+      "start": 762.4,
+      "end": 765.68,
+      "text": "melt under the under the load so yeah so"
+    },
+    {
+      "start": 764.08,
+      "end": 767.36,
+      "text": "so there's very serious sort of"
+    },
+    {
+      "start": 765.68,
+      "end": 768.96,
+      "text": "infrastructure hurdles to this I think"
+    },
+    {
+      "start": 767.36,
+      "end": 771.36,
+      "text": ">> it's hard to get a lot of humans to act"
+    },
+    {
+      "start": 768.96,
+      "end": 773.12,
+      "text": "together right it's just the reality"
+    },
+    {
+      "start": 771.36,
+      "end": 774.64,
+      "text": "that's what has to happen to solve these"
+    },
+    {
+      "start": 773.12,
+      "end": 775.76,
+      "text": "problems."
+    },
+    {
+      "start": 774.64,
+      "end": 777.12,
+      "text": ">> What trade-offs do you think this"
+    },
+    {
+      "start": 775.76,
+      "end": 778.48,
+      "text": "entails? You know, sort of the path"
+    },
+    {
+      "start": 777.12,
+      "end": 780.24,
+      "text": "you're pursuing versus the the"
+    },
+    {
+      "start": 778.48,
+      "end": 781.92,
+      "text": "mainstream digital path now."
+    },
+    {
+      "start": 780.24,
+      "end": 784.08,
+      "text": ">> Yeah, I actually don't see it as, you"
+    },
+    {
+      "start": 781.92,
+      "end": 785.04,
+      "text": "know, it's digital or analog. It doesn't"
+    },
+    {
+      "start": 784.08,
+      "end": 787.04,
+      "text": "work like that. I think there are"
+    },
+    {
+      "start": 785.04,
+      "end": 789.52,
+      "text": "certain types of workloads that are"
+    },
+    {
+      "start": 787.04,
+      "end": 791.28,
+      "text": "amendable to these analog approaches,"
+    },
+    {
+      "start": 789.52,
+      "end": 794.08,
+      "text": "especially the ones that are that can be"
+    },
+    {
+      "start": 791.28,
+      "end": 795.76,
+      "text": "expressed as um dynamical systems."
+    },
+    {
+      "start": 794.08,
+      "end": 797.68,
+      "text": "Dynamics meaning time. They have time"
+    },
+    {
+      "start": 795.76,
+      "end": 800.16,
+      "text": "associated with them. In the real world,"
+    },
+    {
+      "start": 797.68,
+      "end": 801.84,
+      "text": "every physical process has time. And in"
+    },
+    {
+      "start": 800.16,
+      "end": 803.6,
+      "text": "the computing world like a numeric"
+    },
+    {
+      "start": 801.84,
+      "end": 805.36,
+      "text": "computing world we actually don't have"
+    },
+    {
+      "start": 803.6,
+      "end": 806.48,
+      "text": "that concept. You simulate time with"
+    },
+    {
+      "start": 805.36,
+      "end": 808.4,
+      "text": "numbers."
+    },
+    {
+      "start": 806.48,
+      "end": 811.28,
+      "text": ">> Actually simulating time is very useful"
+    },
+    {
+      "start": 808.4,
+      "end": 812.56,
+      "text": "in certain uh certain problems. So I"
+    },
+    {
+      "start": 811.28,
+      "end": 814.0,
+      "text": "think we should still build those things"
+    },
+    {
+      "start": 812.56,
+      "end": 816.08,
+      "text": "and we should still have those uh"
+    },
+    {
+      "start": 814.0,
+      "end": 818.16,
+      "text": "capabilities for the problems that we"
+    },
+    {
+      "start": 816.08,
+      "end": 819.76,
+      "text": "need to solve that way. Uh but for these"
+    },
+    {
+      "start": 818.16,
+      "end": 821.52,
+      "text": "problems where you know like like you"
+    },
+    {
+      "start": 819.76,
+      "end": 823.84,
+      "text": "said it's a bit fuzzier. I'm trying to"
+    },
+    {
+      "start": 821.52,
+      "end": 826.0,
+      "text": "retrieve and summarize across multiple"
+    },
+    {
+      "start": 823.84,
+      "end": 828.4,
+      "text": "inputs. That's actually what brains do"
+    },
+    {
+      "start": 826.0,
+      "end": 830.32,
+      "text": "really well, right? they can they can uh"
+    },
+    {
+      "start": 828.4,
+      "end": 833.68,
+      "text": "take in tons of data and sort of"
+    },
+    {
+      "start": 830.32,
+      "end": 835.68,
+      "text": "formulate a a model of how those things"
+    },
+    {
+      "start": 833.68,
+      "end": 837.28,
+      "text": "interact and sometimes those models can"
+    },
+    {
+      "start": 835.68,
+      "end": 838.56,
+      "text": "be actually extremely accurate like look"
+    },
+    {
+      "start": 837.28,
+      "end": 841.84,
+      "text": "at an athlete"
+    },
+    {
+      "start": 838.56,
+      "end": 844.56,
+      "text": ">> you know um you know Alex Hunnel who"
+    },
+    {
+      "start": 841.84,
+      "end": 845.76,
+      "text": "climbed uh uh El Capitan right just"
+    },
+    {
+      "start": 844.56,
+      "end": 846.48,
+      "text": "think about the precision that's"
+    },
+    {
+      "start": 845.76,
+      "end": 848.16,
+      "text": "required"
+    },
+    {
+      "start": 846.48,
+      "end": 850.72,
+      "text": ">> it still scares me every time I"
+    },
+    {
+      "start": 848.16,
+      "end": 852.56,
+      "text": ">> insane right and if he slips like just"
+    },
+    {
+      "start": 850.72,
+      "end": 855.84,
+      "text": "like he's off by a millimeter in some"
+    },
+    {
+      "start": 852.56,
+      "end": 858.16,
+      "text": "places he dies right and that's true for"
+    },
+    {
+      "start": 855.84,
+      "end": 860.0,
+      "text": "like every top level athlete and they're"
+    },
+    {
+      "start": 858.16,
+      "end": 860.48,
+      "text": "someone who's, you know, at the the"
+    },
+    {
+      "start": 860.0,
+      "end": 862.24,
+      "text": "Olympics."
+    },
+    {
+      "start": 860.48,
+      "end": 864.0,
+      "text": ">> Steph Curry, you know, the story is he"
+    },
+    {
+      "start": 862.24,
+      "end": 865.28,
+      "text": "set up a special tracking system so he"
+    },
+    {
+      "start": 864.0,
+      "end": 867.68,
+      "text": "can make sure the ball was hitting the"
+    },
+    {
+      "start": 865.28,
+      "end": 868.24,
+      "text": "middle of the rim, not not just going"
+    },
+    {
+      "start": 867.68,
+      "end": 869.76,
+      "text": "through."
+    },
+    {
+      "start": 868.24,
+      "end": 872.24,
+      "text": ">> So, the level of precision these guys"
+    },
+    {
+      "start": 869.76,
+      "end": 874.0,
+      "text": "hit with a neural network that's noisy"
+    },
+    {
+      "start": 872.24,
+      "end": 876.72,
+      "text": "is actually quite high."
+    },
+    {
+      "start": 874.0,
+      "end": 877.84,
+      "text": ">> So, uh, neural systems can actually do a"
+    },
+    {
+      "start": 876.72,
+      "end": 879.44,
+      "text": "lot of precision under certain"
+    },
+    {
+      "start": 877.84,
+      "end": 881.68,
+      "text": "circumstances, but what's interesting"
+    },
+    {
+      "start": 879.44,
+      "end": 883.84,
+      "text": "about these situations is Steph Curry"
+    },
+    {
+      "start": 881.68,
+      "end": 885.6,
+      "text": "when he shoots a ball is never going to"
+    },
+    {
+      "start": 883.84,
+      "end": 886.72,
+      "text": "shoot it under ideal circumstances in a"
+    },
+    {
+      "start": 885.6,
+      "end": 889.6,
+      "text": "game."
+    },
+    {
+      "start": 886.72,
+      "end": 891.68,
+      "text": "always it's a unique input and there's a"
+    },
+    {
+      "start": 889.6,
+      "end": 893.76,
+      "text": "lot of different input variables coming"
+    },
+    {
+      "start": 891.68,
+      "end": 895.52,
+      "text": "at you like where the other players are"
+    },
+    {
+      "start": 893.76,
+      "end": 896.96,
+      "text": "precisely where you're standing, maybe"
+    },
+    {
+      "start": 895.52,
+      "end": 898.4,
+      "text": "your shoes are different, maybe the"
+    },
+    {
+      "start": 896.96,
+      "end": 900.48,
+      "text": "surface is a little different, like"
+    },
+    {
+      "start": 898.4,
+      "end": 902.24,
+      "text": "maybe the ball is tackier or your hands"
+    },
+    {
+      "start": 900.48,
+      "end": 903.76,
+      "text": "are sweaty, like there's so many inputs"
+    },
+    {
+      "start": 902.24,
+      "end": 905.28,
+      "text": "and we we kind of put them all together"
+    },
+    {
+      "start": 903.76,
+      "end": 907.44,
+      "text": "and integrate them and still have very"
+    },
+    {
+      "start": 905.28,
+      "end": 908.96,
+      "text": "accurate behavior. So brains are"
+    },
+    {
+      "start": 907.44,
+      "end": 911.84,
+      "text": "exceptionally good at this and you know"
+    },
+    {
+      "start": 908.96,
+      "end": 913.68,
+      "text": "that's set of problems that is actually"
+    },
+    {
+      "start": 911.84,
+      "end": 915.84,
+      "text": "very useful to solve and now we're"
+    },
+    {
+      "start": 913.68,
+      "end": 917.36,
+      "text": "approaching those problems. uh but it"
+    },
+    {
+      "start": 915.84,
+      "end": 920.24,
+      "text": "doesn't mean we don't still use"
+    },
+    {
+      "start": 917.36,
+      "end": 921.76,
+      "text": "computational uh substrates to do actual"
+    },
+    {
+      "start": 920.24,
+      "end": 923.2,
+      "text": "computation. This is kind of an"
+    },
+    {
+      "start": 921.76,
+      "end": 925.84,
+      "text": "intelligent substrate."
+    },
+    {
+      "start": 923.2,
+      "end": 928.4,
+      "text": ">> And so what types of AI models or or"
+    },
+    {
+      "start": 925.84,
+      "end": 930.48,
+      "text": "data modalities do you expect uh your"
+    },
+    {
+      "start": 928.4,
+      "end": 931.2,
+      "text": "your um hardware will be well suited"
+    },
+    {
+      "start": 930.48,
+      "end": 933.52,
+      "text": "for?"
+    },
+    {
+      "start": 931.2,
+      "end": 935.36,
+      "text": ">> Yeah. So we're we're obviously starting"
+    },
+    {
+      "start": 933.52,
+      "end": 937.52,
+      "text": "with the state-of-the-art today like"
+    },
+    {
+      "start": 935.36,
+      "end": 939.68,
+      "text": "transformers, diffusion models, they"
+    },
+    {
+      "start": 937.52,
+      "end": 941.92,
+      "text": "they work, they do really good stuff, so"
+    },
+    {
+      "start": 939.68,
+      "end": 943.92,
+      "text": "we shouldn't throw that out. And uh"
+    },
+    {
+      "start": 941.92,
+      "end": 945.76,
+      "text": "diffusion models and flow models are"
+    },
+    {
+      "start": 943.92,
+      "end": 947.2,
+      "text": "actually and energy based models are"
+    },
+    {
+      "start": 945.76,
+      "end": 948.88,
+      "text": "actually pretty interesting because they"
+    },
+    {
+      "start": 947.2,
+      "end": 950.24,
+      "text": "inherently have dynamics as part of"
+    },
+    {
+      "start": 948.88,
+      "end": 952.48,
+      "text": "them. They're literally written as an"
+    },
+    {
+      "start": 950.24,
+      "end": 955.68,
+      "text": "ordinary ordinary differential equation."
+    },
+    {
+      "start": 952.48,
+      "end": 957.92,
+      "text": "So um that makes it such that hey can I"
+    },
+    {
+      "start": 955.68,
+      "end": 960.24,
+      "text": "map those dynamics onto the dynamics of"
+    },
+    {
+      "start": 957.92,
+      "end": 963.12,
+      "text": "a physical system in some way that's"
+    },
+    {
+      "start": 960.24,
+      "end": 966.08,
+      "text": "either fixed or um has some principal"
+    },
+    {
+      "start": 963.12,
+      "end": 967.6,
+      "text": "way of of evolving and then can I"
+    },
+    {
+      "start": 966.08,
+      "end": 969.12,
+      "text": "basically use that physical system to"
+    },
+    {
+      "start": 967.6,
+      "end": 970.8,
+      "text": "implement that thing and do it very"
+    },
+    {
+      "start": 969.12,
+      "end": 972.08,
+      "text": "efficiently with physics. So that's"
+    },
+    {
+      "start": 970.8,
+      "end": 974.48,
+      "text": "that's kind of the nature of what we're"
+    },
+    {
+      "start": 972.08,
+      "end": 976.32,
+      "text": "doing. And we will be releasing uh some"
+    },
+    {
+      "start": 974.48,
+      "end": 979.36,
+      "text": "open source and things around this to to"
+    },
+    {
+      "start": 976.32,
+      "end": 981.44,
+      "text": "let people play around. But um you know"
+    },
+    {
+      "start": 979.36,
+      "end": 983.92,
+      "text": "transformers are really uh they're a big"
+    },
+    {
+      "start": 981.44,
+      "end": 987.2,
+      "text": "innovation because they they made the"
+    },
+    {
+      "start": 983.92,
+      "end": 988.88,
+      "text": "constructs of a GPU work extremely well."
+    },
+    {
+      "start": 987.2,
+      "end": 990.56,
+      "text": "And it doesn't mean it's wrong but I"
+    },
+    {
+      "start": 988.88,
+      "end": 992.72,
+      "text": "don't think there's there's nothing"
+    },
+    {
+      "start": 990.56,
+      "end": 995.04,
+      "text": "natural. There's no natural law about"
+    },
+    {
+      "start": 992.72,
+      "end": 996.8,
+      "text": "the parameter of a transformer. M"
+    },
+    {
+      "start": 995.04,
+      "end": 998.72,
+      "text": ">> transformers parameter is a function of"
+    },
+    {
+      "start": 996.8,
+      "end": 1000.56,
+      "text": "the nonlinearities and the way a whole"
+    },
+    {
+      "start": 998.72,
+      "end": 1002.48,
+      "text": "thing is set up with attention. There's"
+    },
+    {
+      "start": 1000.56,
+      "end": 1004.4,
+      "text": "going to be some kind of uh mapping"
+    },
+    {
+      "start": 1002.48,
+      "end": 1006.16,
+      "text": "between transformer parameter spaces and"
+    },
+    {
+      "start": 1004.4,
+      "end": 1009.44,
+      "text": "these other parameter spaces and it's"
+    },
+    {
+      "start": 1006.16,
+      "end": 1011.6,
+      "text": "transformers are I think have kind of"
+    },
+    {
+      "start": 1009.44,
+      "end": 1013.6,
+      "text": "used lots of lots of parameters to"
+    },
+    {
+      "start": 1011.6,
+      "end": 1015.76,
+      "text": "accomplish what they do. I have to ask"
+    },
+    {
+      "start": 1013.6,
+      "end": 1019.2,
+      "text": "just since you mentioned energy based"
+    },
+    {
+      "start": 1015.76,
+      "end": 1022.08,
+      "text": "models and Yan Lun has been um you know"
+    },
+    {
+      "start": 1019.2,
+      "end": 1024.32,
+      "text": "uh writing quite a lot about this um do"
+    },
+    {
+      "start": 1022.08,
+      "end": 1026.88,
+      "text": "you think pursuing these sorts of paths"
+    },
+    {
+      "start": 1024.32,
+      "end": 1028.72,
+      "text": "that you're talking about is is uh gets"
+    },
+    {
+      "start": 1026.88,
+      "end": 1030.72,
+      "text": "us closer on the path to AGI whatever"
+    },
+    {
+      "start": 1028.72,
+      "end": 1032.96,
+      "text": "whatever AGI means"
+    },
+    {
+      "start": 1030.72,
+      "end": 1034.64,
+      "text": ">> honestly I do uh the reason I feel that"
+    },
+    {
+      "start": 1032.96,
+      "end": 1036.08,
+      "text": "way and again this is this is hand wavy"
+    },
+    {
+      "start": 1034.64,
+      "end": 1037.76,
+      "text": "I'm gonna be really honest I don't"
+    },
+    {
+      "start": 1036.08,
+      "end": 1039.44,
+      "text": ">> that's why I'm putting quotes around I"
+    },
+    {
+      "start": 1037.76,
+      "end": 1040.08,
+      "text": "think that the discussion is necessarily"
+    },
+    {
+      "start": 1039.44,
+      "end": 1041.2,
+      "text": "handwavy"
+    },
+    {
+      "start": 1040.08,
+      "end": 1045.28,
+      "text": ">> it's got to be because we just don't"
+    },
+    {
+      "start": 1041.2,
+      "end": 1047.6,
+      "text": "know uh But my intuition says that um"
+    },
+    {
+      "start": 1045.28,
+      "end": 1049.44,
+      "text": "anything where the basis is dynamic"
+    },
+    {
+      "start": 1047.6,
+      "end": 1051.52,
+      "text": "which has time and causality as part of"
+    },
+    {
+      "start": 1049.44,
+      "end": 1052.64,
+      "text": "it will be a better basis than something"
+    },
+    {
+      "start": 1051.52,
+      "end": 1054.64,
+      "text": "that's not."
+    },
+    {
+      "start": 1052.64,
+      "end": 1056.64,
+      "text": ">> So we've largely tried to remove that"
+    },
+    {
+      "start": 1054.64,
+      "end": 1058.24,
+      "text": "and you know you know a lot of times you"
+    },
+    {
+      "start": 1056.64,
+      "end": 1059.28,
+      "text": "can write math down it's reversible in"
+    },
+    {
+      "start": 1058.24,
+      "end": 1061.36,
+      "text": "time and things like that but the"
+    },
+    {
+      "start": 1059.28,
+      "end": 1063.68,
+      "text": "physical world tends not to be at least"
+    },
+    {
+      "start": 1061.36,
+      "end": 1065.36,
+      "text": "the way we perceive it. And so can we"
+    },
+    {
+      "start": 1063.68,
+      "end": 1068.32,
+      "text": "build out of elements of the physical"
+    },
+    {
+      "start": 1065.36,
+      "end": 1069.84,
+      "text": "world that are you know uh do do have"
+    },
+    {
+      "start": 1068.32,
+      "end": 1071.28,
+      "text": "time evolution? I think that's the right"
+    },
+    {
+      "start": 1069.84,
+      "end": 1072.96,
+      "text": "basis to build something that"
+    },
+    {
+      "start": 1071.28,
+      "end": 1074.72,
+      "text": "understands causation."
+    },
+    {
+      "start": 1072.96,
+      "end": 1076.96,
+      "text": ">> So I do think we'll we'll have something"
+    },
+    {
+      "start": 1074.72,
+      "end": 1079.52,
+      "text": "that is better uh and will give us"
+    },
+    {
+      "start": 1076.96,
+      "end": 1081.92,
+      "text": "something closer to what we really think"
+    },
+    {
+      "start": 1079.52,
+      "end": 1083.36,
+      "text": "is intelligence because yes we have"
+    },
+    {
+      "start": 1081.92,
+      "end": 1084.24,
+      "text": "intelligence in these machines. I I"
+    },
+    {
+      "start": 1083.36,
+      "end": 1085.6,
+      "text": "don't think they're anywhere close to"
+    },
+    {
+      "start": 1084.24,
+      "end": 1088.08,
+      "text": "AGI because I mean they still make"
+    },
+    {
+      "start": 1085.6,
+      "end": 1089.68,
+      "text": "stupid errors. They're very useful tools"
+    },
+    {
+      "start": 1088.08,
+      "end": 1090.8,
+      "text": "but they're they're not what it's not"
+    },
+    {
+      "start": 1089.68,
+      "end": 1092.64,
+      "text": "like working with a person, right? I"
+    },
+    {
+      "start": 1090.8,
+      "end": 1094.0,
+      "text": "think most people at that"
+    },
+    {
+      "start": 1092.64,
+      "end": 1097.44,
+      "text": ">> that's actually really interesting. So"
+    },
+    {
+      "start": 1094.0,
+      "end": 1100.24,
+      "text": "the the sort of thing that's missing in"
+    },
+    {
+      "start": 1097.44,
+      "end": 1101.84,
+      "text": "in AI behavior, which which I think a"
+    },
+    {
+      "start": 1100.24,
+      "end": 1103.44,
+      "text": "lot of us see that there's something"
+    },
+    {
+      "start": 1101.84,
+      "end": 1105.52,
+      "text": "missing but can't quite put a name to"
+    },
+    {
+      "start": 1103.44,
+      "end": 1107.28,
+      "text": "it. It sounds like you're arguing part"
+    },
+    {
+      "start": 1105.52,
+      "end": 1108.4,
+      "text": "of that is is sort of a real sense of"
+    },
+    {
+      "start": 1107.28,
+      "end": 1112.16,
+      "text": "causality. Yeah."
+    },
+    {
+      "start": 1108.4,
+      "end": 1114.56,
+      "text": ">> And that training and more dynamic"
+    },
+    {
+      "start": 1112.16,
+      "end": 1116.16,
+      "text": "sort of regime may may impart this kind"
+    },
+    {
+      "start": 1114.56,
+      "end": 1117.36,
+      "text": "of like apparent understanding causality"
+    },
+    {
+      "start": 1116.16,
+      "end": 1119.68,
+      "text": "better than what we have now."
+    },
+    {
+      "start": 1117.36,
+      "end": 1122.24,
+      "text": ">> Yeah. And again hand wavy but yes uh I"
+    },
+    {
+      "start": 1119.68,
+      "end": 1123.44,
+      "text": "mean look you have kids little kids and"
+    },
+    {
+      "start": 1122.24,
+      "end": 1125.2,
+      "text": "you see them I mean"
+    },
+    {
+      "start": 1123.44,
+      "end": 1127.12,
+      "text": ">> children kind of innately understand"
+    },
+    {
+      "start": 1125.2,
+      "end": 1128.64,
+      "text": "causality in some ways like"
+    },
+    {
+      "start": 1127.12,
+      "end": 1130.32,
+      "text": ">> you know this happened then that"
+    },
+    {
+      "start": 1128.64,
+      "end": 1132.24,
+      "text": "happened and yes I know you can say like"
+    },
+    {
+      "start": 1130.32,
+      "end": 1133.52,
+      "text": "it's reinforcement learning or whatever"
+    },
+    {
+      "start": 1132.24,
+      "end": 1136.16,
+      "text": "that's some part of it but there's"
+    },
+    {
+      "start": 1133.52,
+      "end": 1137.84,
+      "text": "something innate that we understand"
+    },
+    {
+      "start": 1136.16,
+      "end": 1139.68,
+      "text": "causality in fact that's how we move our"
+    },
+    {
+      "start": 1137.84,
+      "end": 1141.52,
+      "text": "limbs and all of that I know if I send a"
+    },
+    {
+      "start": 1139.68,
+      "end": 1143.44,
+      "text": "certain command to my arm it'll do do"
+    },
+    {
+      "start": 1141.52,
+      "end": 1144.56,
+      "text": "something. So I I think there's"
+    },
+    {
+      "start": 1143.44,
+      "end": 1146.64,
+      "text": "something innate about the way our"
+    },
+    {
+      "start": 1144.56,
+      "end": 1149.76,
+      "text": "brains are wired built out of primitives"
+    },
+    {
+      "start": 1146.64,
+      "end": 1151.6,
+      "text": "that are that do understand causation."
+    },
+    {
+      "start": 1149.76,
+      "end": 1154.88,
+      "text": ">> Put unconventional in the context of the"
+    },
+    {
+      "start": 1151.6,
+      "end": 1156.56,
+      "text": "broader industry for me like Nvidia,"
+    },
+    {
+      "start": 1154.88,
+      "end": 1159.12,
+      "text": "TSMC,"
+    },
+    {
+      "start": 1156.56,
+      "end": 1160.8,
+      "text": "Google are are these um you know"
+    },
+    {
+      "start": 1159.12,
+      "end": 1162.0,
+      "text": "potential allies for unconventional? Are"
+    },
+    {
+      "start": 1160.8,
+      "end": 1164.32,
+      "text": "these competitors? How do you think"
+    },
+    {
+      "start": 1162.0,
+      "end": 1165.92,
+      "text": "about it? Yeah, I mean a couple of"
+    },
+    {
+      "start": 1164.32,
+      "end": 1168.32,
+      "text": "things that we set out to do when we"
+    },
+    {
+      "start": 1165.92,
+      "end": 1169.76,
+      "text": "built were starting this company was see"
+    },
+    {
+      "start": 1168.32,
+      "end": 1171.68,
+      "text": "if we can find a paradigm that's"
+    },
+    {
+      "start": 1169.76,
+      "end": 1174.32,
+      "text": "analogous to intelligence within five"
+    },
+    {
+      "start": 1171.68,
+      "end": 1175.28,
+      "text": "years. Uh and then at the 5-year mark,"
+    },
+    {
+      "start": 1174.32,
+      "end": 1176.88,
+      "text": "we should be able to build something"
+    },
+    {
+      "start": 1175.28,
+      "end": 1179.12,
+      "text": "that's scalable from a manufacturing"
+    },
+    {
+      "start": 1176.88,
+      "end": 1180.32,
+      "text": "standpoint. So, you know, you can you"
+    },
+    {
+      "start": 1179.12,
+      "end": 1182.48,
+      "text": "can think about building a computer out"
+    },
+    {
+      "start": 1180.32,
+      "end": 1183.92,
+      "text": "of many different things, but if it's"
+    },
+    {
+      "start": 1182.48,
+      "end": 1186.72,
+      "text": "not scalable from a manufacturing"
+    },
+    {
+      "start": 1183.92,
+      "end": 1188.64,
+      "text": "standpoint, we can't intercept this this"
+    },
+    {
+      "start": 1186.72,
+      "end": 1190.32,
+      "text": "global energy problem. So we need to"
+    },
+    {
+      "start": 1188.64,
+      "end": 1192.64,
+      "text": "have somebody say okay go build 10"
+    },
+    {
+      "start": 1190.32,
+      "end": 1194.72,
+      "text": "million of these things right. So I"
+    },
+    {
+      "start": 1192.64,
+      "end": 1197.04,
+      "text": "think TSMC is absolutely going to be a"
+    },
+    {
+      "start": 1194.72,
+      "end": 1199.04,
+      "text": "partner forward you know met with them"
+    },
+    {
+      "start": 1197.04,
+      "end": 1200.32,
+      "text": "recently and you know we want to we want"
+    },
+    {
+      "start": 1199.04,
+      "end": 1202.32,
+      "text": "to work closely with them to make sure"
+    },
+    {
+      "start": 1200.32,
+      "end": 1205.44,
+      "text": "we get what we need get fast turnaround"
+    },
+    {
+      "start": 1202.32,
+      "end": 1208.32,
+      "text": "times to prototype and all of that. Um"
+    },
+    {
+      "start": 1205.44,
+      "end": 1210.08,
+      "text": "Google Nvidia Microsoft all these guys"
+    },
+    {
+      "start": 1208.32,
+      "end": 1212.32,
+      "text": "are you know at the forefront of where"
+    },
+    {
+      "start": 1210.08,
+      "end": 1214.08,
+      "text": "the application space is. Uh obviously"
+    },
+    {
+      "start": 1212.32,
+      "end": 1216.56,
+      "text": "Google kind of has everything uh"
+    },
+    {
+      "start": 1214.08,
+      "end": 1220.0,
+      "text": "internally and I think they're working"
+    },
+    {
+      "start": 1216.56,
+      "end": 1221.92,
+      "text": "on sort of lower risk but you know"
+    },
+    {
+      "start": 1220.0,
+      "end": 1222.56,
+      "text": "continual improvements for their"
+    },
+    {
+      "start": 1221.92,
+      "end": 1223.52,
+      "text": "hardware"
+    },
+    {
+      "start": 1222.56,
+      "end": 1225.12,
+      "text": ">> with TPUs. You mean"
+    },
+    {
+      "start": 1223.52,
+      "end": 1227.68,
+      "text": ">> with TPUs? Yeah. That from what I can"
+    },
+    {
+      "start": 1225.12,
+      "end": 1229.04,
+      "text": "see you know just publicly is it makes"
+    },
+    {
+      "start": 1227.68,
+      "end": 1230.24,
+      "text": "total sense right they have a business"
+    },
+    {
+      "start": 1229.04,
+      "end": 1232.72,
+      "text": "to run and they're trying to make their"
+    },
+    {
+      "start": 1230.24,
+      "end": 1234.88,
+      "text": "margins better and you know how can I do"
+    },
+    {
+      "start": 1232.72,
+      "end": 1237.52,
+      "text": "that with all the tools I have at you"
+    },
+    {
+      "start": 1234.88,
+      "end": 1238.88,
+      "text": "know uh in front of me. Um, Nvidia, of"
+    },
+    {
+      "start": 1237.52,
+      "end": 1240.8,
+      "text": "course, you know, they they they've"
+    },
+    {
+      "start": 1238.88,
+      "end": 1243.52,
+      "text": "built the u the platform that everyone"
+    },
+    {
+      "start": 1240.8,
+      "end": 1245.36,
+      "text": "programs on today. So, is it are we"
+    },
+    {
+      "start": 1243.52,
+      "end": 1246.96,
+      "text": "going to be at odds with Nvidia going"
+    },
+    {
+      "start": 1245.36,
+      "end": 1248.8,
+      "text": "forward? I I don't know. We'll see what"
+    },
+    {
+      "start": 1246.96,
+      "end": 1251.36,
+      "text": "the world looks like, but I mean, we are"
+    },
+    {
+      "start": 1248.8,
+      "end": 1254.24,
+      "text": "trying to to build a better substrate"
+    },
+    {
+      "start": 1251.36,
+      "end": 1256.4,
+      "text": "than matrix multiply. Um, there could be"
+    },
+    {
+      "start": 1254.24,
+      "end": 1258.72,
+      "text": "a world where we collaborate uh on such"
+    },
+    {
+      "start": 1256.4,
+      "end": 1260.96,
+      "text": "solutions. Um, and you know, we're open"
+    },
+    {
+      "start": 1258.72,
+      "end": 1262.4,
+      "text": "to all of these things."
+    },
+    {
+      "start": 1260.96,
+      "end": 1264.0,
+      "text": ">> Where do you where do you personally get"
+    },
+    {
+      "start": 1262.4,
+      "end": 1265.28,
+      "text": "the motivation to get up in the in the"
+    },
+    {
+      "start": 1264.0,
+      "end": 1266.32,
+      "text": "morning and build this company? I mean"
+    },
+    {
+      "start": 1265.28,
+      "end": 1269.36,
+      "text": "you've had a lot of success in your"
+    },
+    {
+      "start": 1266.32,
+      "end": 1270.72,
+      "text": "career this year or in startup. Um what"
+    },
+    {
+      "start": 1269.36,
+      "end": 1272.08,
+      "text": "you know what's exciting about this to"
+    },
+    {
+      "start": 1270.72,
+      "end": 1273.92,
+      "text": "you?"
+    },
+    {
+      "start": 1272.08,
+      "end": 1275.28,
+      "text": ">> I don't know. I just it's it's a weird"
+    },
+    {
+      "start": 1273.92,
+      "end": 1278.64,
+      "text": "thing like if you haven't worked in"
+    },
+    {
+      "start": 1275.28,
+      "end": 1279.92,
+      "text": "hardware it's hard. Um I've had a been"
+    },
+    {
+      "start": 1278.64,
+      "end": 1282.4,
+      "text": "fortunate to work in hardware and"
+    },
+    {
+      "start": 1279.92,
+      "end": 1283.44,
+      "text": "software and you know I love writing a"
+    },
+    {
+      "start": 1282.4,
+      "end": 1284.8,
+      "text": "bunch of software and then hitting"
+    },
+    {
+      "start": 1283.44,
+      "end": 1287.04,
+      "text": "compile and seeing it work. That's"
+    },
+    {
+      "start": 1284.8,
+      "end": 1288.56,
+      "text": "that's that's a good dopamine hit but"
+    },
+    {
+      "start": 1287.04,
+      "end": 1290.88,
+      "text": "man when you work on a piece of hardware"
+    },
+    {
+      "start": 1288.56,
+      "end": 1293.04,
+      "text": "and you turn that thing on that's a big"
+    },
+    {
+      "start": 1290.88,
+      "end": 1294.8,
+      "text": "dopamine hit. That's like this is like"
+    },
+    {
+      "start": 1293.04,
+      "end": 1296.48,
+      "text": "celebration jumping you know jumping up"
+    },
+    {
+      "start": 1294.8,
+      "end": 1298.56,
+      "text": "in the air high five thing it it's a"
+    },
+    {
+      "start": 1296.48,
+      "end": 1300.48,
+      "text": "different thing and I don't know you"
+    },
+    {
+      "start": 1298.56,
+      "end": 1302.32,
+      "text": "sort of live for these moments you know"
+    },
+    {
+      "start": 1300.48,
+      "end": 1303.84,
+      "text": "uh like when I was at Intel like I was"
+    },
+    {
+      "start": 1302.32,
+      "end": 1305.28,
+      "text": "one of the only exeacts would go to the"
+    },
+    {
+      "start": 1303.84,
+      "end": 1307.52,
+      "text": "lab when the first chip would come back"
+    },
+    {
+      "start": 1305.28,
+      "end": 1309.44,
+      "text": "and I'm like I want to see turn on see"
+    },
+    {
+      "start": 1307.52,
+      "end": 1311.2,
+      "text": "what happens some turn sometimes you"
+    },
+    {
+      "start": 1309.44,
+      "end": 1314.64,
+      "text": "turn it on it's like you see the little"
+    },
+    {
+      "start": 1311.2,
+      "end": 1316.0,
+      "text": "puff of smoke come"
+    },
+    {
+      "start": 1314.64,
+      "end": 1318.0,
+      "text": ">> that's not good but you want to be there"
+    },
+    {
+      "start": 1316.0,
+      "end": 1319.6,
+      "text": "you want to be part of the moment but uh"
+    },
+    {
+      "start": 1318.0,
+      "end": 1321.36,
+      "text": "uh I think that's part of it I think for"
+    },
+    {
+      "start": 1319.6,
+      "end": 1324.8,
+      "text": "me personally"
+    },
+    {
+      "start": 1321.36,
+      "end": 1327.04,
+      "text": "We we have this opportunity now that we"
+    },
+    {
+      "start": 1324.8,
+      "end": 1329.84,
+      "text": "can really change the world of computing"
+    },
+    {
+      "start": 1327.04,
+      "end": 1332.48,
+      "text": "and make AI ubiquitous. I I'm the"
+    },
+    {
+      "start": 1329.84,
+      "end": 1335.04,
+      "text": "opposite of an AI doomer. I think AI is"
+    },
+    {
+      "start": 1332.48,
+      "end": 1336.88,
+      "text": "the next evolution of humanity. I think"
+    },
+    {
+      "start": 1335.04,
+      "end": 1338.8,
+      "text": "it takes us to a new level, allows us to"
+    },
+    {
+      "start": 1336.88,
+      "end": 1340.56,
+      "text": "collaborate, understand each other, and"
+    },
+    {
+      "start": 1338.8,
+      "end": 1340.88,
+      "text": "understand the world in much deeper"
+    },
+    {
+      "start": 1340.56,
+      "end": 1341.68,
+      "text": "ways."
+    },
+    {
+      "start": 1340.88,
+      "end": 1344.24,
+      "text": ">> Totally agree."
+    },
+    {
+      "start": 1341.68,
+      "end": 1346.08,
+      "text": ">> So, every technology has negatives, but"
+    },
+    {
+      "start": 1344.24,
+      "end": 1347.6,
+      "text": "the positives to me so far outweigh it."
+    },
+    {
+      "start": 1346.08,
+      "end": 1349.84,
+      "text": "And uh the only way we're going to get"
+    },
+    {
+      "start": 1347.6,
+      "end": 1352.48,
+      "text": "to ubiquity is we have to change the"
+    },
+    {
+      "start": 1349.84,
+      "end": 1354.64,
+      "text": "computer. The current paradigm, as good"
+    },
+    {
+      "start": 1352.48,
+      "end": 1356.72,
+      "text": "as it is and as far as it's taken us, is"
+    },
+    {
+      "start": 1354.64,
+      "end": 1357.92,
+      "text": "not going to take us to that level."
+    },
+    {
+      "start": 1356.72,
+      "end": 1360.8,
+      "text": ">> I think that's such a great way to say"
+    },
+    {
+      "start": 1357.92,
+      "end": 1362.24,
+      "text": "it. AI actually can help us understand"
+    },
+    {
+      "start": 1360.8,
+      "end": 1363.76,
+      "text": "each other better, help us understand"
+    },
+    {
+      "start": 1362.24,
+      "end": 1364.88,
+      "text": "ourselves better, understand the natural"
+    },
+    {
+      "start": 1363.76,
+      "end": 1366.4,
+      "text": "world better. Yeah."
+    },
+    {
+      "start": 1364.88,
+      "end": 1368.56,
+      "text": ">> I I don't think it's at all what what"
+    },
+    {
+      "start": 1366.4,
+      "end": 1370.32,
+      "text": "some of the doomers think of of, you"
+    },
+    {
+      "start": 1368.56,
+      "end": 1371.04,
+      "text": "know, replacing sort of human human"
+    },
+    {
+      "start": 1370.32,
+      "end": 1372.56,
+      "text": "experience."
+    },
+    {
+      "start": 1371.04,
+      "end": 1373.84,
+      "text": ">> That's a short-term thing. I mean, there"
+    },
+    {
+      "start": 1372.56,
+      "end": 1376.0,
+      "text": "will be there will be bumps along the"
+    },
+    {
+      "start": 1373.84,
+      "end": 1377.28,
+      "text": "way, right? Technology does that."
+    },
+    {
+      "start": 1376.0,
+      "end": 1378.88,
+      "text": "That's That's what happens when you've"
+    },
+    {
+      "start": 1377.28,
+      "end": 1379.68,
+      "text": "seen too many sci-fi movies."
+    },
+    {
+      "start": 1378.88,
+      "end": 1380.8,
+      "text": ">> That's right. Um"
+    },
+    {
+      "start": 1379.68,
+      "end": 1382.64,
+      "text": ">> but look at Star Trek."
+    },
+    {
+      "start": 1380.8,
+      "end": 1383.36,
+      "text": ">> Yeah. Yeah. Yeah. Totally. Totally."
+    },
+    {
+      "start": 1382.64,
+      "end": 1384.96,
+      "text": ">> It's great."
+    },
+    {
+      "start": 1383.36,
+      "end": 1387.04,
+      "text": ">> Um"
+    },
+    {
+      "start": 1384.96,
+      "end": 1388.8,
+      "text": "uh this is a really big swing, right?"
+    },
+    {
+      "start": 1387.04,
+      "end": 1391.12,
+      "text": "Like this is a very ambitious company."
+    },
+    {
+      "start": 1388.8,
+      "end": 1392.64,
+      "text": "Um what gives you confidence that it's"
+    },
+    {
+      "start": 1391.12,
+      "end": 1394.48,
+      "text": "that it's going to work or or you know"
+    },
+    {
+      "start": 1392.64,
+      "end": 1396.0,
+      "text": "has a reasonable shot of working."
+    },
+    {
+      "start": 1394.48,
+      "end": 1397.36,
+      "text": ">> Um there's there's a number of data"
+    },
+    {
+      "start": 1396.0,
+      "end": 1399.68,
+      "text": "points. Of course, like I said, the"
+    },
+    {
+      "start": 1397.36,
+      "end": 1402.16,
+      "text": "brains are existence proof. Um but"
+    },
+    {
+      "start": 1399.68,
+      "end": 1404.0,
+      "text": "there's also 40 plus years of of"
+    },
+    {
+      "start": 1402.16,
+      "end": 1406.8,
+      "text": "academic research which is showing a lot"
+    },
+    {
+      "start": 1404.0,
+      "end": 1409.04,
+      "text": "of promise here. Um people have built"
+    },
+    {
+      "start": 1406.8,
+      "end": 1410.64,
+      "text": "different devices albeit not in the"
+    },
+    {
+      "start": 1409.04,
+      "end": 1412.08,
+      "text": "latest technology with professional"
+    },
+    {
+      "start": 1410.64,
+      "end": 1413.6,
+      "text": "engineering teams but they have built"
+    },
+    {
+      "start": 1412.08,
+      "end": 1416.24,
+      "text": "proofs of concept that actually show"
+    },
+    {
+      "start": 1413.6,
+      "end": 1417.84,
+      "text": "some of these things work. Um we've also"
+    },
+    {
+      "start": 1416.24,
+      "end": 1420.72,
+      "text": "from a theory standpoint both from"
+    },
+    {
+      "start": 1417.84,
+      "end": 1423.76,
+      "text": "neuroscience and just pure uh dynamical"
+    },
+    {
+      "start": 1420.72,
+      "end": 1425.28,
+      "text": "systems and math theory uh do start to"
+    },
+    {
+      "start": 1423.76,
+      "end": 1428.0,
+      "text": "understand how these these systems can"
+    },
+    {
+      "start": 1425.28,
+      "end": 1430.0,
+      "text": "work. So I think we now have pieces at"
+    },
+    {
+      "start": 1428.0,
+      "end": 1431.52,
+      "text": "different parts of the stack that show"
+    },
+    {
+      "start": 1430.0,
+      "end": 1434.56,
+      "text": "hey if I can combine these things the"
+    },
+    {
+      "start": 1431.52,
+      "end": 1436.4,
+      "text": "right way I I can build this and uh you"
+    },
+    {
+      "start": 1434.56,
+      "end": 1438.88,
+      "text": "know that's what great engineering is"
+    },
+    {
+      "start": 1436.4,
+      "end": 1440.32,
+      "text": "all about is like you know exploiting"
+    },
+    {
+      "start": 1438.88,
+      "end": 1441.76,
+      "text": "this thing that someone else built for"
+    },
+    {
+      "start": 1440.32,
+      "end": 1442.4,
+      "text": "something else exploiting that thing and"
+    },
+    {
+      "start": 1441.76,
+      "end": 1446.56,
+      "text": "then"
+    },
+    {
+      "start": 1442.4,
+      "end": 1448.16,
+      "text": ">> and it's engineers are kind of like the"
+    },
+    {
+      "start": 1446.56,
+      "end": 1449.84,
+      "text": "opposite of theorist is like well all"
+    },
+    {
+      "start": 1448.16,
+      "end": 1451.52,
+      "text": "right that thing doesn't quite fit sand"
+    },
+    {
+      "start": 1449.84,
+      "end": 1452.64,
+      "text": "it down and make it right. So it's like"
+    },
+    {
+      "start": 1451.52,
+      "end": 1453.84,
+      "text": "we got to do a little bit of that right"
+    },
+    {
+      "start": 1452.64,
+      "end": 1454.8,
+      "text": "now and then we can build something and"
+    },
+    {
+      "start": 1453.84,
+      "end": 1456.56,
+      "text": "put it all together. Yeah,"
+    },
+    {
+      "start": 1454.8,
+      "end": 1458.0,
+      "text": ">> that's awesome. Has anyone called you"
+    },
+    {
+      "start": 1456.56,
+      "end": 1459.12,
+      "text": "crazy yet for doing this?"
+    },
+    {
+      "start": 1458.0,
+      "end": 1459.36,
+      "text": ">> Oh, yeah. Plenty of people at this"
+    },
+    {
+      "start": 1459.12,
+      "end": 1460.72,
+      "text": "point."
+    },
+    {
+      "start": 1459.36,
+      "end": 1462.4,
+      "text": ">> Is it Is it like everybody?"
+    },
+    {
+      "start": 1460.72,
+      "end": 1464.24,
+      "text": ">> Well, it's I'm used to this at this"
+    },
+    {
+      "start": 1462.4,
+      "end": 1465.6,
+      "text": "point, you know. My family have been"
+    },
+    {
+      "start": 1464.24,
+      "end": 1468.08,
+      "text": "called crazy. I was called crazy going"
+    },
+    {
+      "start": 1465.6,
+      "end": 1471.04,
+      "text": "back to grad school um years ago when I"
+    },
+    {
+      "start": 1468.08,
+      "end": 1473.44,
+      "text": "had a very good career in tech. Um so it"
+    },
+    {
+      "start": 1471.04,
+      "end": 1474.96,
+      "text": "it's fine. I think that's that you need"
+    },
+    {
+      "start": 1473.44,
+      "end": 1476.8,
+      "text": "crazy people to go out and explore. I"
+    },
+    {
+      "start": 1474.96,
+      "end": 1478.64,
+      "text": "mean, if you think about humanity out of"
+    },
+    {
+      "start": 1476.8,
+      "end": 1479.04,
+      "text": "Africa, all that the crazy people who"
+    },
+    {
+      "start": 1478.64,
+      "end": 1480.8,
+      "text": "went out,"
+    },
+    {
+      "start": 1479.04,
+      "end": 1482.24,
+      "text": ">> we would be lost without without crazy."
+    },
+    {
+      "start": 1480.8,
+      "end": 1484.48,
+      "text": ">> You need some crazy in there. So, it's"
+    },
+    {
+      "start": 1482.24,
+      "end": 1487.12,
+      "text": "okay. I'm fine with that. And so what"
+    },
+    {
+      "start": 1484.48,
+      "end": 1489.52,
+      "text": "kind of people uh are you looking to"
+    },
+    {
+      "start": 1487.12,
+      "end": 1491.68,
+      "text": "bring on to the team of a very ambitious"
+    },
+    {
+      "start": 1489.52,
+      "end": 1492.88,
+      "text": "goal um who should be interested in"
+    },
+    {
+      "start": 1491.68,
+      "end": 1494.88,
+      "text": "joining you?"
+    },
+    {
+      "start": 1492.88,
+      "end": 1496.88,
+      "text": ">> Yeah, I mean I think some of the"
+    },
+    {
+      "start": 1494.88,
+      "end": 1498.0,
+      "text": "traditional traditionalish when I say"
+    },
+    {
+      "start": 1496.88,
+      "end": 1500.24,
+      "text": "traditional you know over the last 5"
+    },
+    {
+      "start": 1498.0,
+      "end": 1502.32,
+      "text": "years this field of AI systems has"
+    },
+    {
+      "start": 1500.24,
+      "end": 1504.16,
+      "text": "evolved like people who are really good"
+    },
+    {
+      "start": 1502.32,
+      "end": 1506.96,
+      "text": "at taking algorithms and mapping them"
+    },
+    {
+      "start": 1504.16,
+      "end": 1509.84,
+      "text": "very effectively to physical substrates."
+    },
+    {
+      "start": 1506.96,
+      "end": 1512.0,
+      "text": "uh those folks who understand energy"
+    },
+    {
+      "start": 1509.84,
+      "end": 1514.32,
+      "text": "based models, flow models, gradient uh"
+    },
+    {
+      "start": 1512.0,
+      "end": 1516.08,
+      "text": "gradient descent and different ways uh"
+    },
+    {
+      "start": 1514.32,
+      "end": 1519.84,
+      "text": "you know this this kind of thing is what"
+    },
+    {
+      "start": 1516.08,
+      "end": 1521.28,
+      "text": "we need there. We need theorists who uh"
+    },
+    {
+      "start": 1519.84,
+      "end": 1523.6,
+      "text": "can think about different ways of"
+    },
+    {
+      "start": 1521.28,
+      "end": 1525.36,
+      "text": "building coupled systems how I can"
+    },
+    {
+      "start": 1523.6,
+      "end": 1527.36,
+      "text": "characterize the richness of dynamical"
+    },
+    {
+      "start": 1525.36,
+      "end": 1529.12,
+      "text": "systems and relating that to neural"
+    },
+    {
+      "start": 1527.36,
+      "end": 1531.44,
+      "text": "networks. So there is a theory aspect of"
+    },
+    {
+      "start": 1529.12,
+      "end": 1532.56,
+      "text": "this. Uh then there's folks who are like"
+    },
+    {
+      "start": 1531.44,
+      "end": 1533.92,
+      "text": "kind of at the system architecture"
+    },
+    {
+      "start": 1532.56,
+      "end": 1535.44,
+      "text": "level. It's like all right here's what"
+    },
+    {
+      "start": 1533.92,
+      "end": 1537.76,
+      "text": "the theory says. This is what I can"
+    },
+    {
+      "start": 1535.44,
+      "end": 1538.96,
+      "text": "really build. How do I bridge that gap?"
+    },
+    {
+      "start": 1537.76,
+      "end": 1540.32,
+      "text": "And then there's the people actually"
+    },
+    {
+      "start": 1538.96,
+      "end": 1542.32,
+      "text": "physically building this stuff like"
+    },
+    {
+      "start": 1540.32,
+      "end": 1544.08,
+      "text": "analog circuit people, actually digital"
+    },
+    {
+      "start": 1542.32,
+      "end": 1546.64,
+      "text": "circuit people, too. We're going to have"
+    },
+    {
+      "start": 1544.08,
+      "end": 1549.6,
+      "text": "a mix signal here. So, that's that's the"
+    },
+    {
+      "start": 1546.64,
+      "end": 1551.12,
+      "text": "whole stack. The stack is it's hard"
+    },
+    {
+      "start": 1549.6,
+      "end": 1553.28,
+      "text": "because these are all things that no"
+    },
+    {
+      "start": 1551.12,
+      "end": 1555.12,
+      "text": "one's really pushed to that level. Like,"
+    },
+    {
+      "start": 1553.28,
+      "end": 1556.32,
+      "text": ">> when we build this chip, our first"
+    },
+    {
+      "start": 1555.12,
+      "end": 1558.8,
+      "text": "prototype, it's going to be probably one"
+    },
+    {
+      "start": 1556.32,
+      "end": 1560.88,
+      "text": "of the larger, maybe the largest analog"
+    },
+    {
+      "start": 1558.8,
+      "end": 1562.16,
+      "text": "chip people have ever built, which is"
+    },
+    {
+      "start": 1560.88,
+      "end": 1563.6,
+      "text": "kind of weird. First time you do"
+    },
+    {
+      "start": 1562.16,
+      "end": 1564.16,
+      "text": "something, things don't usually work the"
+    },
+    {
+      "start": 1563.6,
+      "end": 1566.64,
+      "text": "way you think they"
+    },
+    {
+      "start": 1564.16,
+      "end": 1568.0,
+      "text": ">> So you can get in on that Cabris Jensen"
+    },
+    {
+      "start": 1566.64,
+      "end": 1569.6,
+      "text": "game where they were each pulling the"
+    },
+    {
+      "start": 1568.0,
+      "end": 1570.4,
+      "text": "biggest possible wafer out of out of an"
+    },
+    {
+      "start": 1569.6,
+      "end": 1572.0,
+      "text": "oven. You"
+    },
+    {
+      "start": 1570.4,
+      "end": 1572.72,
+      "text": ">> something like that. Yeah, exactly"
+    },
+    {
+      "start": 1572.0,
+      "end": 1574.8,
+      "text": "right."
+    },
+    {
+      "start": 1572.72,
+      "end": 1575.28,
+      "text": ">> Put a few vacuum tubes on top for for"
+    },
+    {
+      "start": 1574.8,
+      "end": 1577.68,
+      "text": "effect."
+    },
+    {
+      "start": 1575.28,
+      "end": 1578.32,
+      "text": ">> Yeah, we could I I need blinking lights."
+    },
+    {
+      "start": 1577.68,
+      "end": 1579.44,
+      "text": ">> Yeah, exactly."
+    },
+    {
+      "start": 1578.32,
+      "end": 1580.8,
+      "text": ">> We're not going to have cool heat sinks."
+    },
+    {
+      "start": 1579.44,
+      "end": 1582.32,
+      "text": "It's going to be super It's going to be"
+    },
+    {
+      "start": 1580.8,
+      "end": 1584.16,
+      "text": "cold. Like you don't need big heat"
+    },
+    {
+      "start": 1582.32,
+      "end": 1585.6,
+      "text": "sinks, you know? So, I hope they make"
+    },
+    {
+      "start": 1584.16,
+      "end": 1590.08,
+      "text": "something that looks looks interesting"
+    },
+    {
+      "start": 1585.6,
+      "end": 1592.56,
+      "text": "here. This is a funny time for for um"
+    },
+    {
+      "start": 1590.08,
+      "end": 1594.32,
+      "text": "top AI people, right? Where you have"
+    },
+    {
+      "start": 1592.56,
+      "end": 1595.44,
+      "text": "sort of the option if you want to start"
+    },
+    {
+      "start": 1594.32,
+      "end": 1597.12,
+      "text": "a company, there's a lot of venture"
+    },
+    {
+      "start": 1595.44,
+      "end": 1599.6,
+      "text": "capitalists who probably would fund you."
+    },
+    {
+      "start": 1597.12,
+      "end": 1601.44,
+      "text": "If you want to get a cushy job at at a"
+    },
+    {
+      "start": 1599.6,
+      "end": 1603.28,
+      "text": "big company, you can get a very cushy"
+    },
+    {
+      "start": 1601.44,
+      "end": 1603.76,
+      "text": "job and and kind of do some interesting"
+    },
+    {
+      "start": 1603.28,
+      "end": 1604.08,
+      "text": "things."
+    },
+    {
+      "start": 1603.76,
+      "end": 1606.4,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1604.08,
+      "end": 1608.16,
+      "text": ">> Um or, you know, people can join a"
+    },
+    {
+      "start": 1606.4,
+      "end": 1610.08,
+      "text": "startup like Unconventional that, you"
+    },
+    {
+      "start": 1608.16,
+      "end": 1612.56,
+      "text": "know, has a lot of the nice aspects"
+    },
+    {
+      "start": 1610.08,
+      "end": 1614.48,
+      "text": "people look for in in sort of AI careers"
+    },
+    {
+      "start": 1612.56,
+      "end": 1616.96,
+      "text": "and are taking like super sort of big"
+    },
+    {
+      "start": 1614.48,
+      "end": 1618.24,
+      "text": "swings. Um, I'm just sort of curious."
+    },
+    {
+      "start": 1616.96,
+      "end": 1620.56,
+      "text": "You've been on all sides of this. Like,"
+    },
+    {
+      "start": 1618.24,
+      "end": 1621.68,
+      "text": "do you have any advice for for um, you"
+    },
+    {
+      "start": 1620.56,
+      "end": 1623.04,
+      "text": "know, younger people starting out in"
+    },
+    {
+      "start": 1621.68,
+      "end": 1623.76,
+      "text": "their careers or or how do you think"
+    },
+    {
+      "start": 1623.04,
+      "end": 1626.32,
+      "text": "about this?"
+    },
+    {
+      "start": 1623.76,
+      "end": 1628.32,
+      "text": ">> I think you get such a breath of working"
+    },
+    {
+      "start": 1626.32,
+      "end": 1629.76,
+      "text": "at a startup that at the beginning of"
+    },
+    {
+      "start": 1628.32,
+      "end": 1631.52,
+      "text": "your career that will pay dividends"
+    },
+    {
+      "start": 1629.76,
+      "end": 1632.96,
+      "text": "later on because like I said, like the"
+    },
+    {
+      "start": 1631.52,
+      "end": 1634.4,
+      "text": "reason I can think across the stack is"
+    },
+    {
+      "start": 1632.96,
+      "end": 1635.92,
+      "text": "because I did all those things very"
+    },
+    {
+      "start": 1634.4,
+      "end": 1637.36,
+      "text": "early in my career. You know, I built"
+    },
+    {
+      "start": 1635.92,
+      "end": 1640.88,
+      "text": "hardware, I built software, I built"
+    },
+    {
+      "start": 1637.36,
+      "end": 1642.72,
+      "text": "applications. And um, in big companies,"
+    },
+    {
+      "start": 1640.88,
+      "end": 1644.88,
+      "text": "it's not it's not AMA's fault. It's just"
+    },
+    {
+      "start": 1642.72,
+      "end": 1646.88,
+      "text": "the way it is. You get hired to do a"
+    },
+    {
+      "start": 1644.88,
+      "end": 1648.16,
+      "text": "thing and you do that thing over and"
+    },
+    {
+      "start": 1646.88,
+      "end": 1650.56,
+      "text": "over again. You get really good at doing"
+    },
+    {
+      "start": 1648.16,
+      "end": 1651.68,
+      "text": "that thing and that's fine. You need"
+    },
+    {
+      "start": 1650.56,
+      "end": 1654.08,
+      "text": "people who are really good at doing"
+    },
+    {
+      "start": 1651.68,
+      "end": 1657.2,
+      "text": "specific things. But um if you want to"
+    },
+    {
+      "start": 1654.08,
+      "end": 1658.8,
+      "text": "be prepared for change in the future,"
+    },
+    {
+      "start": 1657.2,
+      "end": 1660.88,
+      "text": "being really good at one thing is"
+    },
+    {
+      "start": 1658.8,
+      "end": 1663.04,
+      "text": "probably less valuable than being good"
+    },
+    {
+      "start": 1660.88,
+      "end": 1664.8,
+      "text": "at but slightly good at a lot of things."
+    },
+    {
+      "start": 1663.04,
+      "end": 1666.4,
+      "text": ">> Yeah, that's interesting. Is it fair to"
+    },
+    {
+      "start": 1664.8,
+      "end": 1667.68,
+      "text": "say unconventional sort of a practical"
+    },
+    {
+      "start": 1666.4,
+      "end": 1668.8,
+      "text": "research lab? Is that kind of the"
+    },
+    {
+      "start": 1667.68,
+      "end": 1670.56,
+      "text": "culture you're going for?"
+    },
+    {
+      "start": 1668.8,
+      "end": 1672.4,
+      "text": ">> Absolutely. Yeah. I mean, first few"
+    },
+    {
+      "start": 1670.56,
+      "end": 1674.08,
+      "text": "years it really is open-ended. I I don't"
+    },
+    {
+      "start": 1672.4,
+      "end": 1675.68,
+      "text": "want to close doors. Like I I'm really"
+    },
+    {
+      "start": 1674.08,
+      "end": 1676.96,
+      "text": "specific about this. Like I always try"
+    },
+    {
+      "start": 1675.68,
+      "end": 1678.08,
+      "text": "to bring the conversation back because"
+    },
+    {
+      "start": 1676.96,
+      "end": 1680.24,
+      "text": "those people like, \"Oh, that's gonna be"
+    },
+    {
+      "start": 1678.08,
+      "end": 1682.72,
+      "text": "hard to manufacture.\" Like stop. Don't"
+    },
+    {
+      "start": 1680.24,
+      "end": 1685.52,
+      "text": "think about that. Will it work? First"
+    },
+    {
+      "start": 1682.72,
+      "end": 1687.12,
+      "text": "come up with existence proofs. Then we"
+    },
+    {
+      "start": 1685.52,
+      "end": 1688.88,
+      "text": "go back and try to engineer it and you"
+    },
+    {
+      "start": 1687.12,
+      "end": 1690.8,
+      "text": "know all the trade-offs therein. But if"
+    },
+    {
+      "start": 1688.88,
+      "end": 1693.44,
+      "text": "you make those trade-offs up up front,"
+    },
+    {
+      "start": 1690.8,
+      "end": 1695.84,
+      "text": "you don't go into a good place. So yes,"
+    },
+    {
+      "start": 1693.44,
+      "end": 1697.44,
+      "text": "we are really thinking wide open but"
+    },
+    {
+      "start": 1695.84,
+      "end": 1698.88,
+      "text": "with an eye on the future who we are"
+    },
+    {
+      "start": 1697.44,
+      "end": 1701.44,
+      "text": "building a product"
+    },
+    {
+      "start": 1698.88,
+      "end": 1703.52,
+      "text": ">> and and to your point it takes not only"
+    },
+    {
+      "start": 1701.44,
+      "end": 1705.12,
+      "text": "people with diverse skill sets but um"
+    },
+    {
+      "start": 1703.52,
+      "end": 1706.56,
+      "text": "people with kind of high agency to try"
+    },
+    {
+      "start": 1705.12,
+      "end": 1708.4,
+      "text": "new things and learn new things and kind"
+    },
+    {
+      "start": 1706.56,
+      "end": 1710.4,
+      "text": "of integrate across the stack."
+    },
+    {
+      "start": 1708.4,
+      "end": 1712.4,
+      "text": ">> Yeah. I mean I think what I've done"
+    },
+    {
+      "start": 1710.4,
+      "end": 1714.48,
+      "text": "really well across the companies I've"
+    },
+    {
+      "start": 1712.4,
+      "end": 1716.96,
+      "text": "built has been uh going after hard"
+    },
+    {
+      "start": 1714.48,
+      "end": 1718.24,
+      "text": "problems which kind of lends itself to"
+    },
+    {
+      "start": 1716.96,
+      "end": 1719.68,
+      "text": "smart people wanting to come in and try"
+    },
+    {
+      "start": 1718.24,
+      "end": 1720.72,
+      "text": "to solve them. They they see a"
+    },
+    {
+      "start": 1719.68,
+      "end": 1723.68,
+      "text": "challenge. It's like here's the amount"
+    },
+    {
+      "start": 1720.72,
+      "end": 1725.6,
+      "text": "Everest climate. Um but then giving them"
+    },
+    {
+      "start": 1723.68,
+      "end": 1728.48,
+      "text": "agency and I sort of look at it like"
+    },
+    {
+      "start": 1725.6,
+      "end": 1731.44,
+      "text": "what decisions can I make as a leader to"
+    },
+    {
+      "start": 1728.48,
+      "end": 1734.64,
+      "text": "increase agency of the or overall like"
+    },
+    {
+      "start": 1731.44,
+      "end": 1736.88,
+      "text": "me making top style decision maybe a"
+    },
+    {
+      "start": 1734.64,
+      "end": 1738.08,
+      "text": "global globally better for the company"
+    },
+    {
+      "start": 1736.88,
+      "end": 1740.8,
+      "text": "in the short term"
+    },
+    {
+      "start": 1738.08,
+      "end": 1742.64,
+      "text": ">> but I think long term we will we'll do"
+    },
+    {
+      "start": 1740.8,
+      "end": 1744.16,
+      "text": "better if more people have agency and"
+    },
+    {
+      "start": 1742.64,
+      "end": 1746.24,
+      "text": "can and try more things out. So"
+    },
+    {
+      "start": 1744.16,
+      "end": 1748.08,
+      "text": "personally, I like to find ways to get"
+    },
+    {
+      "start": 1746.24,
+      "end": 1749.12,
+      "text": "out of the way when I see people who who"
+    },
+    {
+      "start": 1748.08,
+      "end": 1750.96,
+      "text": "are very passionate about trying"
+    },
+    {
+      "start": 1749.12,
+      "end": 1752.64,
+      "text": "something. It's like, okay, well, you"
+    },
+    {
+      "start": 1750.96,
+      "end": 1754.4,
+      "text": "really want to do this. That makes"
+    },
+    {
+      "start": 1752.64,
+      "end": 1755.84,
+      "text": "sense. Go for it. You know, and then you"
+    },
+    {
+      "start": 1754.4,
+      "end": 1757.52,
+      "text": "own it. You own both the good and the"
+    },
+    {
+      "start": 1755.84,
+      "end": 1759.44,
+      "text": "bad, right? And that's agency to me is"
+    },
+    {
+      "start": 1757.52,
+      "end": 1761.6,
+      "text": "like got you gota you got like, okay, I"
+    },
+    {
+      "start": 1759.44,
+      "end": 1763.36,
+      "text": "[ __ ] up. No, this wasn't that's okay,"
+    },
+    {
+      "start": 1761.6,
+      "end": 1764.0,
+      "text": "too. But give people the room to do"
+    },
+    {
+      "start": 1763.36,
+      "end": 1765.36,
+      "text": "that, you know?"
+    },
+    {
+      "start": 1764.0,
+      "end": 1766.96,
+      "text": ">> Anything else you want to want to say"
+    },
+    {
+      "start": 1765.36,
+      "end": 1769.28,
+      "text": "before we wrap up? I mean I think this"
+    },
+    {
+      "start": 1766.96,
+      "end": 1772.08,
+      "text": "is like an opportunity to do something"
+    },
+    {
+      "start": 1769.28,
+      "end": 1774.32,
+      "text": "that is"
+    },
+    {
+      "start": 1772.08,
+      "end": 1776.16,
+      "text": "generationally will be felt you know to"
+    },
+    {
+      "start": 1774.32,
+      "end": 1778.0,
+      "text": "me that's that's what gets me up in the"
+    },
+    {
+      "start": 1776.16,
+      "end": 1779.44,
+      "text": "morning is"
+    },
+    {
+      "start": 1778.0,
+      "end": 1781.44,
+      "text": "you know you can go work on a product"
+    },
+    {
+      "start": 1779.44,
+      "end": 1784.0,
+      "text": "and make a tweak and people will use it"
+    },
+    {
+      "start": 1781.44,
+      "end": 1786.0,
+      "text": "that's great but like in 5 years many"
+    },
+    {
+      "start": 1784.0,
+      "end": 1788.72,
+      "text": "times people forget those things but if"
+    },
+    {
+      "start": 1786.0,
+      "end": 1790.48,
+      "text": "we are successful here the world will"
+    },
+    {
+      "start": 1788.72,
+      "end": 1791.52,
+      "text": "not forget this for a very long time"
+    },
+    {
+      "start": 1790.48,
+      "end": 1792.96,
+      "text": "right this will be written in history"
+    },
+    {
+      "start": 1791.52,
+      "end": 1795.76,
+      "text": "books and so I feel like those"
+    },
+    {
+      "start": 1792.96,
+      "end": 1795.76,
+      "text": "opportunities are rare"
+    }
+  ],
+  "word_count": 6294,
+  "fetched_at": "2025-12-21T02:19:19.051885Z"
+}

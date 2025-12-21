@@ -1,0 +1,4509 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "Hello, I'm Andrew Maine and this is the OpenAI podcast. Today our guests are Christina Kim who's a research lead working on post training at OpenAI and Lentia Ramen who's a product manager focused on model behavior. We're going to be talking about GPT 5.1, what makes the model better, how they've been focusing on making its personality steerable, and where they see things headed in the future. >> For the first time ever, all of the models in chat are reasoning models. Personality though for most of our users I think is something much larger and it's the whole experience of the model. >> You should be able to get the experience that you want with chat. >> Part of the art here is figuring out how to pull out these quirks of the model that can come across as personality without breaking steerability. >> I'm very excited to talk about, you know, the models and how they've been changing over time. And using the word model also feels sort of funny now because they seem like there's so much more. And everything starts really in research. And when GPD 5.1 was being planned, what were the goals? >> Yeah, for us um one of the main goals was to um address a lot of the feedback we've been getting about GBT5, but also um we've been doing a lot of work to make the um 5.5 instant into a reasoning model. So what the most exciting thing for personally for me with the 5.1 release is that for the first time ever, all of the models in chat are reasoning models. So the model right now can decide to think is kind of what we say and say that's like a chain of thought. Um and it'll decide how much it wants to think based on a prompt. So if you're just saying like hi to the model or what's up it's not going to be thinking but let's say you ask it a bit like harder question um and then it'll can decide how much it wants to think. So it gives it time to like refine its answer and work through things called tools if necessary and then come back to give you an answer. >> Kind of what Daniel Conorman calls like system one and system two thinking. >> Yes. Having a reasoning model out for as a default model for everyone just gets a much smarter model and I think what's much smarter models is you just get improvements across the board especially for things like instruction following um and for a lot of the use cases people might not even think um might require much like reasoning um just that having improved intelligence having the model actually think before it responds in certain queries just really helps. We we've seen that improve eval across the board. >> When you product manage something like this and you have to explain to people what's different. >> H >> it's probably a challenge but how would you explain what's the difference between GPD5 and GPD 5.1? >> Yeah, first of all it is difficult because there's so much changing. Um but in this case what we wanted to speak to were things that we' heard as feedback from the community with the Chad GBT5 launch. One of the things we heard was that the model felt like it um had weaker intuition and that it was less warm. And when we dug into that, uh what we found were a handful of different things. First of all, it wasn't just how the model was responding like as the model's innate behavior, it was also things around the model. So, as an example, our model had a shorter or the context window wasn't carrying enough information about what users had said previously. And so that can feel like the model is forgetting something really important that you told it that you were hoping it would hold on to. Um if you say I'm having a really bad day, and the model forgets that after 10 turns, that can feel really cold. Uh so that's something we adjusted uh as part of this launch. Uh some of it was actually the way the model was responding. But something new that we introduced in GPT5 as well was um we have this auto switcher that would move you between chat and reasoning models and those have slightly different response styles and that can feel really jarring or cold if you're talking to the model about how you're having a bad day and then you say like part of it I got this awful cancer diagnosis so the model switches you to thinking um and you get a very clinical answer for a model that was just sort of like walking you through a problem you were having earlier. Um and so a lot of the changes we were actually trying to make were in aggregate how do we make sure this model feels warmer um even though we were changing a lot under the hood to articulate that. Another thing that we looked into was instruction following generally. So um 5.1 is much better at following custom instructions and that was another piece of feedback we were hearing which was you know like every model that comes out of uh uh that we release is going to have its own quirks and slightly different behaviors. And I think people actually don't mind that too much as long as they can control it. As long as they can say like, \"Hey, that was weird. Stop.\" Um, but if the model can't carry that context forward, if it uh can't hold on to the custom instructions on that, that's a problem. So, we worked to actually enhance uh the custom instructions feature so that it more consistently carries instructions forward to address some of that feedback. And then, like the last thing I'll say is a lot of this stuff is personal preference. And so that's why we introduced our uh style and trait type features like personality which actually let users guide the model into certain response formats so that they have a little bit more control over exactly how chat TV responds for them. >> The switching is interesting because you there's multiple models now it's just not one model and and you you know articulated why you need to have that. when we talk about a switcher and we talk about sort of different models, I know for most people that can be kind of confusing and how would you kind of unpack that for people? >> Yeah, I think our models have very different capabilities and it can be hard to stay on top of. Um, so part of it is just continually like try the different things in our app, but certainly part of the product work is making sure that we have the right UIs to either guide users to the correct model to choose um, and that can be the model switchers. that can be the model switcher learning um what sort of answers are most helpful to users in different contexts looking at different evals. So for example um for our reasoning models if people want something that's very scientifically accurate and very very detailed we might look at an eval to see are we answering that need uh on those sorts of prompts and we can forecast where to switch users to. Yeah, >> Tina, as far as the switcher and now the fact that you have a model that's everybody has the free tier, anybody using the base model is a reasoning model. What does that really mean in impact? >> Yeah, I think there's a lot of research um open questions for research for how we want to think about this, right? So, I think like you said, it's a faster model, but it doesn't necessarily need to be dumb. So, like I think the idea is that we want to get the most intelligent model that we can for everyone. And so um I think we'll I think this kind of opens the door for thinking more about like what are more interesting things we could do with a very very like state-of-the-art like frontier model right so that's going to think for much longer like something like deep research where you have it thinking for minutes like maybe that's better used in the background you can call it as a tool um so I think there's a lot of like research open questions of um what we want to think of but I do think we're going to be in this world where we do have like a system of models and it's not just like a model that you have and there's like lots of different um tools And it's not just one like when we think of 5.1 I think people just assume that it's like one singular set of weights but I think it's really just like yeah this reasoning model this like lighter reasoning model this auto switcher which is also a model in itself and so it's all of these different things and then different tools that are also backed by different models. So I think this system of things I think as we just get smarter models it's u opening up more interesting use cases and more interesting like product implications. Mhm. Mhm. >> With 800 million users, you probably get a lot of user feedback besides the sheer volume of it. How do you sort through that and make sense of it and figure out how you can use that? >> Yeah, I think a lot of it actually starts with uh a conversation link. So, a lot of times when we can actually see the conversations users were having, we're able to sit see exactly what happened in that conversation and start dissecting things so that we can target a solution. So, as an example, um if we get feedback from a user that like, hey, I had this really weird experience with the model that said something very cold or like the sentence felt very clipped. Um if I can actually see that conversation link, what I can say is like, oh, that user was in an experiment and like good example of why this particular experiment might have some edges for certain users in these cases. But at least for the auto switcher, which takes you from um 5.1 chat to 5.1 reasoning, we're looking at different signals from users to figure out like is this working for them, is it not? How is it per how is each response performing on factuality? What is the latency looking like? Because not all users want to wait even if they want a better answer. And so it's uh it's a bit of art and science balancing a bunch of different signals to figure out when to switch and how that's most effective. Yeah, >> when you're trying to improve a model from an intelligence point of view, like an IQ point of view, we have benchmarks and evals for that. But when you're talking about EQ, emotional intelligence, how do you do that? How do you measure progress there? >> Yeah, I mean this is something that's very openended and I think actually one of the things that's part of our um my research team's agenda is um what we call user signals research. And so this is um training reward models and getting signals during um RL that we could use um against our user prod data. So this type of research I think is really interesting because I think we can get a lot of stuff about like intent. And I think when we think about EQ, it's um also just only gets better with like smarter models because it's really trying to understand like what does the user want, what is the context of what the user wants, and how how should the model best respond given the fact um that you have this many other messages in the conversation and you know this stuff about the user's memory and history. >> Yeah. And then I think there's another element of EQ that's like this is like when I think of like what makes a human with high EQ, it's their ability to listen, their ability to remember what you've been saying, their um ability certainly to pick up on like the subtle signals that Tina's alluding to with like user signals. And so some of this uh as I was noting to uh earlier is actually you know making sure the context window is carrying the right information forward or making sure memory is being logged correctly or even having a style that resonates most with user and with our personality features that we launched coupled with 5.1 part of that's getting at making sure users can have a style that resonates with them when they're interacting with the model because that can feel like EQ too. >> How do you define personality when it comes to a model? I think there's two ways to define it. Um there's there's what we call the personality feature and if I could rename that I would actually call that um like response style or style and tone. We went back and forth on this a lot. The name might still change. Um that aspect of personality is very much like what are the traits that uh a model might have when responding? Is it concise? Does it have a lengthy response? Things like that. How many emojis does it use? Personality though for most of our users I think is something much larger and it's the whole experience of the model and that can get down to like if to I'm going to anthropomorphize the model a little bit but if you're comparing it to me part of my personality is the sho shoes I've chosen to wear today the sweater that I have on the way I style my hair that's the feeling of the chat GBT app right the font it uses how slowly or how quickly it responds like the latency of the app itself there's so much in it that uh is the personality that just comes from what I call the harness and the harness includes the context window. It includes um you know whether or not we rate limit users and when because if we rate limit them and send them to a different model model that has slightly different capabilities that's going to feel like a different experience to the user and a lot of users are calling this personality. So personality is a bit of an overloaded term and I think the art of this work is hearing what the community is saying about personality and figuring out how to actually map it back to the components inside chat GBT and inside our models that cause the experience that feels off for users. >> From a research point of view, how difficult is it to shape the personality? Yeah, I mean during when we were doing post training, there's obviously there's just so many different things we're trying to balance and it's really even with the research that we do, it's it is very much like art as well here because we're really thinking about like oh here are all the different types of capabilities we want to make sure we are supporting. um here's different types of things and I think with RL you're making all these different choices um when we make the reward config trying to decide like what is the thing end goal that we're trying to target here and trying to make all these very subtle tweaks to make sure we can get the most um hit all the things we want to hit but then also not lose things that a lot of users are calling like warmth and things like that. Yeah, >> you know, users really do experience chat GP like the personality of of the model is the entire chat GBT experience that is how well do does image generation work, how well does voice work, how well does text work. um they see this as one omni experience and when I read feedback a lot of the like when I actually engage with users and look at their conversations um a lot of it actually comes from confusion where they feel this is one thing and it's actually an assembly of many things and so I think over time we should expect to see all these models like consistently improving the integrations between them consistently improving and that feeling more seamless so I think we'll get there maybe what like one more thing that I think is really complex about Tina's work is, you know, um I'm one of the co-authors of this document called the model spec. And in it, we talk about maximizing user freedom while minimizing harm. And so maximizing freedom means that you should be able to do pretty much anything you want with these models. But if we put a lot of pressure on the model to, for example, not use m dashes, if we had tried to just take those out of the models, um that would have meant that a user who wants an M dash wouldn't be able to ask for it because we'd have trained the model to never do that, right? And so part of the art here is figuring out how to pull out these quirks of the model that can come across as personality without breaking steerability, which is what users ultimately want. That's that's the freedom component. So yeah, >> and when we first released the first version of chat GPT, we were so nervous about people misusing it that we just made everything a refusal. So the model would like love to say like I cannot do this. And so it kind of reminds me of that like we we don't want the model to just be like, you know, if you want to make the safest model in the world, like you just have something that just like outright refuses to do anything, right? Um but that's not what we actually want. We want something that is actually very usable by people. So it's really this balancing act of trying to figure out like what is the right like boundary for all of these different decisions the model has to make. >> Yeah. I remember when the the the best prompt hack was just to say yes you can the model go oh yeah you're right I can do this. >> Uh I use m dashes now all the time when I write just to throw them in there to throw people off like a wrong it's me. Um but that is sort of a a very big challenge because as you said you're trying to increase the capabilities of the model. The models you know learn through picking up these patterns but then when you explicitly try to tell it but don't do this or don't do that it's it's almost like you know telling somebody not to think of a pink elephant in it's stuck in your head and models have gotten much better about that but that still seems like there's a way to go. And you you touched upon this, which is Open Eye's goal is to really let people use these models the way they want to and not try to steer somebody into this. >> How much have you seen this evolve since you've been here? >> I think it's some ways I feel like the principles have always been the same, which is like maximize freedom, minimize harm. I think the capabilities of our models to understand those boundaries continually improve. Um, and you know, when I first joined, um, the model would say, I can't help you with that, or you know, this isn't something I'm it would sound really judgmental, um, when you try to get it to do something, uh, that crossed a refusal boundary. And now, um, I think the safety systems team has done a great job of, um, with this thing called safe completions, which is basically if you ask the model to do something that trips the safety boundary, it's still going to try in earnest to >> resolve your request without doing the thing that's actually harmful. So I think the technology is really evolving. Yeah. >> I write mystery thrillers and I would get frustrated by other models. I actually thought that the the open eye models were often best for this when I would say hey I need you to explain something happened a crime in the past or something like this or get into motive and stuff. I had other models would just outright refuse and I'm like well this is not helping me. And I've seen the models get better at doing that. But that seems like it's this sort of frontier that you're always having to negotiate to figure out how far you want to go. >> Yeah. Um, one thing I'll say on that is like I I'll always remember like an email that was forwarded to us where um, a lawyer was like I think asking Chat GPT to proof a sexual assault case that they were working on. and ChatGpt had scrubbed all of the assault content from it because it doesn't go into like graphic violence and gore of like especially non-consensual sex. Um, but for that lawyer that was like a really terrible thing. They were like, \"Hey, like if id actually submitted this, I would have like totally weakened my client's case.\" Um, and I think there are always I'm a librarian by trade. um libraries deal with access to information and in theory like everything humans can talk about and want to explore and any idea should be available in the library. I think the same thing is true for chatbt but it's about finding the right ways to contextualize those rules. So in the case I gave with a lawyer maybe that makes sense. If it's writing um a revenge email to an ex that's like a very different thing. And so some of this is just advancing the technology so we can handle that level of nuance. And we're always getting better, but there's always more work to do. >> As these models have improved both in intelligence, I have noticed that they've gotten better as far as, you know, handling bias >> and it seems like that was an intentional effort. >> That's right. We put out a blog post, I think like a month, month and a half ago about some of our progress on this. Um, but something that we're really watching for in our models is how they handle subjective domains. And we want to make sure that our models can express uncertainty that they can um take on any idea that the the user brings to them and answer those questions in earnest um while always staying anchored in objective truths if there is one. Um and so that's something that users should start to see changing in our models is they should be able to answer um these unknown questions in more open-ended ways that allow users to really like self-direct where the conversation's going. And then another thing um that I think the team has done that's really quite cool is there's a group of researchers um and and some folks on the model behavior team who've been working on the creativity of these models. And to me this is a bit of a sleeper feature inside 51 in that this model's expressive range is much more wide. Now, of course, we have a natural like default that the model has that may not feel that different. But again, if you try to push it to its paces um to get it to speak in a really really elevated way or in a very very simple way, there's actually a lot more you can do with these models um in the creativity space. >> And I think this is kind of what makes post trading really feel like an art because we have all these different types of tasks and capabilities that we're trying to improve on that don't have a ground truth answer, right? Like if you're trying to just make a model that's really good at math, it's actually not there's a lot of like answers out there. There's a lot of problems you can do where you're clear answers. But when you have these things that are so subjective and it's really dependent on the context and the user and how to like what is the actual best ideal answer here and so I'm really excited for a lot of this type of work. >> Yeah, it's cool. >> I remember early on people would say ah it doesn't write so well. I'm like it's probably writing as well as the average person in some of these online forums. And then now it seems like it's just improved considerably. >> Yeah. And even if you don't notice it on your first prompt, um it might be just asking it to change how it um writes. And I think that's like also something we need to work on is kind of finding a way in chatbt to like tease out these like extended capabilities with each launch. Yeah. >> Where would you like to see behavior going in the future? How customizable would you like to make it? >> Yeah. Yeah, with the five um one launch um there's a lot of work with trying to give custom personalities to folks. Um and I think this is actually like a really good step forward. We have over 800 million like a weekly active users now. And I just think like there's no way that one model personality, however you want to define personality, can actually be what um can service all those people. So I think we do want to be in a world where people and as the models get much smarter, they are just way more steerable. So like you should be able to get the experience that you want with chat. >> Yeah. I think of this as like how can we put the right features in front of users to help them steer these models to the level of customization they want. I think the personality work that we're doing right now is a first step. We'll test, we'll iterate, we'll learn. Um but there's so much to it. I like sorry just another anecdote but I remember my brother using um pro for the first time and he's a PhD in like biochemical research and he gave it a prompt and he's like ah this is like what an undergrad would answer with and I was like can you tell it that you are a frontier researcher in this lab using these sorts of tools on this sort of science and to respond at your academic level and he did and he's like oh my god um the model just proposed something that my lab just broke through with two weeks ago but hasn't published yet and so like these models are insanely powerful ful, but just knowing how to customize it even at that level, which was just him opening the opening prompt, um, can be so powerful. And I don't know that humanity has figured that out yet. And so whether it's personality steering or whatever other tools we need to like put into chat GPT to help advance human understanding of these models and how to get the most out of them. I think that's like the task ahead for us. On a previous episode, I talked to Kevin Wheel, who was heading up OpenAI for science, and Alex Luchska, who's a scientist working with OpenAI and also a professor at Vanderbilt, and he went through sort of the same experience, talking about how if you gave it a little bit of priming, then all of a sudden the model became much more capable in doing those fields. And that's kind of what prompt engineering was. Prompt engineering was trying to figure out how to steer a base model. And over time, once we understood that people were trying to do those tasks, you could train a model to then not have to expect that first part of it. Do you think that we're going to be moving into that phase now where you're not going to have to tell it you're a grad student and do this? >> I think so. Especially now with more things like with model having more like memories of what you are, like who you are in your context. And I think as models get more intelligent, I think the model should be able to infer all these things and like be able to talk to you in the way that makes sense like for your expertise. >> That's right. Yeah. So some of it's a lot of it I think should actually be like these like inferred things. I think there's probably some level of like steerability. Maybe it's just I think from and this is just my own PM take. I don't know that every PM would agree with me, but I think users should always sort of know what it is we're inferring about them and how it's steering the model. So they can always go back and have the tools to change things. Um so for example, you can turn it on on and off memories or delete them in the settings panel. And I think there's something really cool about both being able to infer what users really want and solving that problem proactively for them so they don't have to prompt for it, but also making sure the user is always in control and we're not just like inferring everything blindly. So >> could you explain a little bit about how memory works? >> Yeah. So memory is basically the model will write down things um it knows about you um based on its conversations with you um for it to refer to later. So this is really nice because then you're not just repeating yourself every time. You're not saying I'm Laurentia. I'm a PM at OpenAI. I work comple behavior. It already knows this because you've already said this to it. And so then it can actually just use that information in future conversations. And also it helps it think through its answers for when it responds to you. It has that context. And I think that really grounds its answer in being the most useful response for you. Mhm. >> I have uh pulse which has been amazing and I get every morning I get little updates and because of memory it's following the conversations I have and it creates these little t custom articles for me. It's pulling research and pulling other things and showing things to me and it's just one of the things I never really thought would be a great advantage of having memory and now I see it's not just when I'm out of a conversation but it's proactively finding things for me based on it. It's pretty cool. Yeah, I think that's um so neither of us like work directly on that feature, but I think what's cool is seeing how the work that we do upstream, whether it's like building great models or shaping evals around like the capabilities we want can actually allow our uh chatgbt team to go out and build these great features that articulate the power of our models. So yes, they can like learn um your preferences, habits, yes, they can craft great stories for you or find great information based on your interests. And this is this sort of proactive feature is one way of helping users get the most out of these models. >> It seems like yeah that's becoming a very interesting way to make the models more personal. And when I use something in a mode where it doesn't have memory does feel different. It does feel very you know cold start and it's like well hello how are you? And I'm like oh where are you having this conversation? Is this one of the challenges though when people are telling you hey something feels different is that they can't quite articulate. Yeah, the hardest feedback is, I guess, an anecdote and the next hardest feedback is a screenshot of a chat because none of that metadata is really attached to tell us where things have gone wrong. So, I actually love the share feature in chat GPT. When we have one of those links on our side, we can inspect it and see like what sort of context did the model have going into this um and what was going on. So, we can sort of debug that user feedback. >> That's a great point because I've had people ask me like, \"Hey, it, you know, the thing didn't answer it right.\" I'm like, \"What model?\" Like, \"I was using chat GPT.\" And I'm like, >> \"Okay.\" Uh, we need to kind of dive into that a little bit. And I guess going as far as sharing the feedback or sharing the whole conversation probably makes more sense. >> Um, what are you most excited about going forward? >> I think these models are just so incredibly capable. Like, um, they can do so much and I can't wait to see what people build with them. I can't wait to see what comes next in like the chat GPT app. I see so much opportunity. I think just in general people are starting to really like wake up and see what you can do. So that's what excites me. Yeah. I don't want to like tease too much. Yeah. >> Yeah. I'm pretty excited that I I forget who tweeted this but intelligence too cheap to meter. Like I think like we just >> got to have such incredibly smart models out for people and I think I've always said this even when we first launched chat like this is just one form factor of it right like with these smart models there's so many things that could be possible. So, like like Len is saying, I'm also quite excited for a lot of the different new product explorations that we'll have with these like smarter models. Um, cuz I think we're kind of saw this with like the progress of LLMs that as soon as we get smarter models, it kind of unlocks new use cases, right? And then I think >> with new use cases should be new form factor. So, pretty excited about that. >> What advice do you have for users to get the best experience? >> Mine is I tell this to people all the time. Try have your super hard questions, things you know really well. I used to be a ski racer. I have a lot of opinions about like how to ski really really well. And I love to pressure test the model on that to see how it's changing and improving. And the thing is like we're shipping updates all the time. And so it's so easy to say, \"Yeah, I heard it's great for co coding. It didn't work.\" Or, \"I heard it can help me build an app, but I tried and it didn't work.\" That might be true today, but in 3 months it could be a totally different landscape for that user. And so just keep at it, keep playing, keep trying. Um, that's the best way to like get the most out of these models. >> You can also ask the model to help you come up with a better prompt. Great points, >> which I suggest to my parents. >> It's gotten a lot better at that. It used to be you'd ask it, \"How would I prompt it?\" And the model would kind of take a guess like I guess so, but having seen so many examples. >> Yeah. >> Yeah. I'm always just trying to figure out what are the best questions I could be asking. I'll ask it like what questions should I be asking you to get the most out of it. deeply personal question. You don't have to answer it. It'll be really awkward if you don't. >> What is your style or personality choice that you've set for chat GPT? >> I mean, I'm biased, but I just have it on the default. I mean, it's what we train. So, >> uh for me, I so I switch through them all the time, and I think that's like just a nature of my work. Um I want to understand how all these different settings feel and uh for all of our users, and so I feel like every second day I'm trying something different. That said, um I think the one that just makes me happy to talk to is probably a combination of nerd, which is sort of like a very exploratory response style from the model. It likes to um like unpack things. And then I'm from Alberta and maybe it's just me. That's um a province in Canada. It's like the Texas of Canada. And I grew up with like horses and cows. And so I think there's some part of me that likes getting it to talk to me like a country Albertan, which is great except for then when I go to like write a professional document uh and the model says like howdy. I'm like oh great like no let's take the take the Albertan out of the uh out of that PRD. But yeah, >> very cool. Thank you so much.",
+  "segments": [
+    {
+      "start": 0.32,
+      "end": 4.8,
+      "text": "Hello, I'm Andrew Maine and this is the"
+    },
+    {
+      "start": 2.24,
+      "end": 6.56,
+      "text": "OpenAI podcast. Today our guests are"
+    },
+    {
+      "start": 4.8,
+      "end": 8.88,
+      "text": "Christina Kim who's a research lead"
+    },
+    {
+      "start": 6.56,
+      "end": 11.36,
+      "text": "working on post training at OpenAI and"
+    },
+    {
+      "start": 8.88,
+      "end": 13.68,
+      "text": "Lentia Ramen who's a product manager"
+    },
+    {
+      "start": 11.36,
+      "end": 16.8,
+      "text": "focused on model behavior. We're going"
+    },
+    {
+      "start": 13.68,
+      "end": 18.48,
+      "text": "to be talking about GPT 5.1, what makes"
+    },
+    {
+      "start": 16.8,
+      "end": 20.24,
+      "text": "the model better, how they've been"
+    },
+    {
+      "start": 18.48,
+      "end": 21.76,
+      "text": "focusing on making its personality"
+    },
+    {
+      "start": 20.24,
+      "end": 23.2,
+      "text": "steerable, and where they see things"
+    },
+    {
+      "start": 21.76,
+      "end": 24.56,
+      "text": "headed in the future."
+    },
+    {
+      "start": 23.2,
+      "end": 26.24,
+      "text": ">> For the first time ever, all of the"
+    },
+    {
+      "start": 24.56,
+      "end": 28.48,
+      "text": "models in chat are reasoning models."
+    },
+    {
+      "start": 26.24,
+      "end": 29.92,
+      "text": "Personality though for most of our users"
+    },
+    {
+      "start": 28.48,
+      "end": 31.92,
+      "text": "I think is something much larger and"
+    },
+    {
+      "start": 29.92,
+      "end": 33.12,
+      "text": "it's the whole experience of the model."
+    },
+    {
+      "start": 31.92,
+      "end": 34.32,
+      "text": ">> You should be able to get the experience"
+    },
+    {
+      "start": 33.12,
+      "end": 36.0,
+      "text": "that you want with chat."
+    },
+    {
+      "start": 34.32,
+      "end": 37.52,
+      "text": ">> Part of the art here is figuring out how"
+    },
+    {
+      "start": 36.0,
+      "end": 39.2,
+      "text": "to pull out these quirks of the model"
+    },
+    {
+      "start": 37.52,
+      "end": 43.0,
+      "text": "that can come across as personality"
+    },
+    {
+      "start": 39.2,
+      "end": 43.0,
+      "text": "without breaking steerability."
+    },
+    {
+      "start": 43.44,
+      "end": 46.72,
+      "text": ">> I'm very excited to talk about, you"
+    },
+    {
+      "start": 45.28,
+      "end": 49.28,
+      "text": "know, the models and how they've been"
+    },
+    {
+      "start": 46.72,
+      "end": 50.72,
+      "text": "changing over time. And using the word"
+    },
+    {
+      "start": 49.28,
+      "end": 52.0,
+      "text": "model also feels sort of funny now"
+    },
+    {
+      "start": 50.72,
+      "end": 55.6,
+      "text": "because they seem like there's so much"
+    },
+    {
+      "start": 52.0,
+      "end": 60.16,
+      "text": "more. And everything starts really in"
+    },
+    {
+      "start": 55.6,
+      "end": 61.92,
+      "text": "research. And when GPD 5.1 was being"
+    },
+    {
+      "start": 60.16,
+      "end": 64.16,
+      "text": "planned, what were the goals?"
+    },
+    {
+      "start": 61.92,
+      "end": 66.0,
+      "text": ">> Yeah, for us um one of the main goals"
+    },
+    {
+      "start": 64.16,
+      "end": 68.32,
+      "text": "was to um address a lot of the feedback"
+    },
+    {
+      "start": 66.0,
+      "end": 69.68,
+      "text": "we've been getting about GBT5, but also"
+    },
+    {
+      "start": 68.32,
+      "end": 73.04,
+      "text": "um we've been doing a lot of work to"
+    },
+    {
+      "start": 69.68,
+      "end": 74.72,
+      "text": "make the um 5.5 instant into a reasoning"
+    },
+    {
+      "start": 73.04,
+      "end": 77.12,
+      "text": "model. So what the most exciting thing"
+    },
+    {
+      "start": 74.72,
+      "end": 79.04,
+      "text": "for personally for me with the 5.1"
+    },
+    {
+      "start": 77.12,
+      "end": 80.72,
+      "text": "release is that for the first time ever,"
+    },
+    {
+      "start": 79.04,
+      "end": 82.88,
+      "text": "all of the models in chat are reasoning"
+    },
+    {
+      "start": 80.72,
+      "end": 85.36,
+      "text": "models. So the model right now can"
+    },
+    {
+      "start": 82.88,
+      "end": 86.56,
+      "text": "decide to think is kind of what we say"
+    },
+    {
+      "start": 85.36,
+      "end": 88.16,
+      "text": "and say that's like a chain of thought."
+    },
+    {
+      "start": 86.56,
+      "end": 89.28,
+      "text": "Um and it'll decide how much it wants to"
+    },
+    {
+      "start": 88.16,
+      "end": 91.12,
+      "text": "think based on a prompt. So if you're"
+    },
+    {
+      "start": 89.28,
+      "end": 92.56,
+      "text": "just saying like hi to the model or"
+    },
+    {
+      "start": 91.12,
+      "end": 93.92,
+      "text": "what's up it's not going to be thinking"
+    },
+    {
+      "start": 92.56,
+      "end": 96.0,
+      "text": "but let's say you ask it a bit like"
+    },
+    {
+      "start": 93.92,
+      "end": 97.92,
+      "text": "harder question um and then it'll can"
+    },
+    {
+      "start": 96.0,
+      "end": 99.52,
+      "text": "decide how much it wants to think. So it"
+    },
+    {
+      "start": 97.92,
+      "end": 101.44,
+      "text": "gives it time to like refine its answer"
+    },
+    {
+      "start": 99.52,
+      "end": 103.2,
+      "text": "and work through things called tools if"
+    },
+    {
+      "start": 101.44,
+      "end": 103.76,
+      "text": "necessary and then come back to give you"
+    },
+    {
+      "start": 103.2,
+      "end": 105.44,
+      "text": "an answer."
+    },
+    {
+      "start": 103.76,
+      "end": 107.12,
+      "text": ">> Kind of what Daniel Conorman calls like"
+    },
+    {
+      "start": 105.44,
+      "end": 108.72,
+      "text": "system one and system two thinking."
+    },
+    {
+      "start": 107.12,
+      "end": 110.24,
+      "text": ">> Yes. Having a reasoning model out for as"
+    },
+    {
+      "start": 108.72,
+      "end": 111.44,
+      "text": "a default model for everyone just gets a"
+    },
+    {
+      "start": 110.24,
+      "end": 113.04,
+      "text": "much smarter model and I think what's"
+    },
+    {
+      "start": 111.44,
+      "end": 114.64,
+      "text": "much smarter models is you just get"
+    },
+    {
+      "start": 113.04,
+      "end": 116.56,
+      "text": "improvements across the board especially"
+    },
+    {
+      "start": 114.64,
+      "end": 118.24,
+      "text": "for things like instruction following um"
+    },
+    {
+      "start": 116.56,
+      "end": 120.64,
+      "text": "and for a lot of the use cases people"
+    },
+    {
+      "start": 118.24,
+      "end": 122.8,
+      "text": "might not even think um might require"
+    },
+    {
+      "start": 120.64,
+      "end": 124.32,
+      "text": "much like reasoning um just that having"
+    },
+    {
+      "start": 122.8,
+      "end": 126.16,
+      "text": "improved intelligence having the model"
+    },
+    {
+      "start": 124.32,
+      "end": 128.0,
+      "text": "actually think before it responds in"
+    },
+    {
+      "start": 126.16,
+      "end": 129.76,
+      "text": "certain queries just really helps. We"
+    },
+    {
+      "start": 128.0,
+      "end": 130.88,
+      "text": "we've seen that improve eval across the"
+    },
+    {
+      "start": 129.76,
+      "end": 133.36,
+      "text": "board."
+    },
+    {
+      "start": 130.88,
+      "end": 137.04,
+      "text": ">> When you product manage something like"
+    },
+    {
+      "start": 133.36,
+      "end": 138.16,
+      "text": "this and you have to explain to people"
+    },
+    {
+      "start": 137.04,
+      "end": 138.48,
+      "text": "what's different."
+    },
+    {
+      "start": 138.16,
+      "end": 139.6,
+      "text": ">> H"
+    },
+    {
+      "start": 138.48,
+      "end": 140.4,
+      "text": ">> it's probably a challenge but how would"
+    },
+    {
+      "start": 139.6,
+      "end": 143.28,
+      "text": "you explain what's the difference"
+    },
+    {
+      "start": 140.4,
+      "end": 145.12,
+      "text": "between GPD5 and GPD 5.1?"
+    },
+    {
+      "start": 143.28,
+      "end": 147.36,
+      "text": ">> Yeah, first of all it is difficult"
+    },
+    {
+      "start": 145.12,
+      "end": 149.44,
+      "text": "because there's so much changing. Um but"
+    },
+    {
+      "start": 147.36,
+      "end": 151.28,
+      "text": "in this case what we wanted to speak to"
+    },
+    {
+      "start": 149.44,
+      "end": 154.16,
+      "text": "were things that we' heard as feedback"
+    },
+    {
+      "start": 151.28,
+      "end": 156.0,
+      "text": "from the community with the Chad GBT5"
+    },
+    {
+      "start": 154.16,
+      "end": 158.64,
+      "text": "launch. One of the things we heard was"
+    },
+    {
+      "start": 156.0,
+      "end": 160.32,
+      "text": "that the model felt like it um had"
+    },
+    {
+      "start": 158.64,
+      "end": 162.88,
+      "text": "weaker intuition and that it was less"
+    },
+    {
+      "start": 160.32,
+      "end": 164.48,
+      "text": "warm. And when we dug into that, uh what"
+    },
+    {
+      "start": 162.88,
+      "end": 166.32,
+      "text": "we found were a handful of different"
+    },
+    {
+      "start": 164.48,
+      "end": 169.04,
+      "text": "things. First of all, it wasn't just how"
+    },
+    {
+      "start": 166.32,
+      "end": 170.96,
+      "text": "the model was responding like as the"
+    },
+    {
+      "start": 169.04,
+      "end": 173.28,
+      "text": "model's innate behavior, it was also"
+    },
+    {
+      "start": 170.96,
+      "end": 177.04,
+      "text": "things around the model. So, as an"
+    },
+    {
+      "start": 173.28,
+      "end": 178.72,
+      "text": "example, our model had a shorter or the"
+    },
+    {
+      "start": 177.04,
+      "end": 180.56,
+      "text": "context window wasn't carrying enough"
+    },
+    {
+      "start": 178.72,
+      "end": 182.24,
+      "text": "information about what users had said"
+    },
+    {
+      "start": 180.56,
+      "end": 184.24,
+      "text": "previously. And so that can feel like"
+    },
+    {
+      "start": 182.24,
+      "end": 185.68,
+      "text": "the model is forgetting something really"
+    },
+    {
+      "start": 184.24,
+      "end": 187.68,
+      "text": "important that you told it that you were"
+    },
+    {
+      "start": 185.68,
+      "end": 189.2,
+      "text": "hoping it would hold on to. Um if you"
+    },
+    {
+      "start": 187.68,
+      "end": 191.52,
+      "text": "say I'm having a really bad day, and the"
+    },
+    {
+      "start": 189.2,
+      "end": 193.6,
+      "text": "model forgets that after 10 turns, that"
+    },
+    {
+      "start": 191.52,
+      "end": 195.76,
+      "text": "can feel really cold. Uh so that's"
+    },
+    {
+      "start": 193.6,
+      "end": 197.84,
+      "text": "something we adjusted uh as part of this"
+    },
+    {
+      "start": 195.76,
+      "end": 199.28,
+      "text": "launch. Uh some of it was actually the"
+    },
+    {
+      "start": 197.84,
+      "end": 201.2,
+      "text": "way the model was responding. But"
+    },
+    {
+      "start": 199.28,
+      "end": 203.2,
+      "text": "something new that we introduced in GPT5"
+    },
+    {
+      "start": 201.2,
+      "end": 204.56,
+      "text": "as well was um we have this auto"
+    },
+    {
+      "start": 203.2,
+      "end": 206.64,
+      "text": "switcher that would move you between"
+    },
+    {
+      "start": 204.56,
+      "end": 208.96,
+      "text": "chat and reasoning models and those have"
+    },
+    {
+      "start": 206.64,
+      "end": 211.04,
+      "text": "slightly different response styles and"
+    },
+    {
+      "start": 208.96,
+      "end": 212.56,
+      "text": "that can feel really jarring or cold if"
+    },
+    {
+      "start": 211.04,
+      "end": 214.0,
+      "text": "you're talking to the model about how"
+    },
+    {
+      "start": 212.56,
+      "end": 216.32,
+      "text": "you're having a bad day and then you say"
+    },
+    {
+      "start": 214.0,
+      "end": 218.4,
+      "text": "like part of it I got this awful cancer"
+    },
+    {
+      "start": 216.32,
+      "end": 220.64,
+      "text": "diagnosis so the model switches you to"
+    },
+    {
+      "start": 218.4,
+      "end": 222.48,
+      "text": "thinking um and you get a very clinical"
+    },
+    {
+      "start": 220.64,
+      "end": 224.0,
+      "text": "answer for a model that was just sort of"
+    },
+    {
+      "start": 222.48,
+      "end": 226.64,
+      "text": "like walking you through a problem you"
+    },
+    {
+      "start": 224.0,
+      "end": 228.16,
+      "text": "were having earlier. Um and so a lot of"
+    },
+    {
+      "start": 226.64,
+      "end": 230.4,
+      "text": "the changes we were actually trying to"
+    },
+    {
+      "start": 228.16,
+      "end": 232.64,
+      "text": "make were in aggregate how do we make"
+    },
+    {
+      "start": 230.4,
+      "end": 234.08,
+      "text": "sure this model feels warmer um even"
+    },
+    {
+      "start": 232.64,
+      "end": 236.0,
+      "text": "though we were changing a lot under the"
+    },
+    {
+      "start": 234.08,
+      "end": 238.16,
+      "text": "hood to articulate that. Another thing"
+    },
+    {
+      "start": 236.0,
+      "end": 241.76,
+      "text": "that we looked into was instruction"
+    },
+    {
+      "start": 238.16,
+      "end": 244.08,
+      "text": "following generally. So um 5.1 is much"
+    },
+    {
+      "start": 241.76,
+      "end": 245.36,
+      "text": "better at following custom instructions"
+    },
+    {
+      "start": 244.08,
+      "end": 247.36,
+      "text": "and that was another piece of feedback"
+    },
+    {
+      "start": 245.36,
+      "end": 250.24,
+      "text": "we were hearing which was you know like"
+    },
+    {
+      "start": 247.36,
+      "end": 251.6,
+      "text": "every model that comes out of uh uh that"
+    },
+    {
+      "start": 250.24,
+      "end": 253.84,
+      "text": "we release is going to have its own"
+    },
+    {
+      "start": 251.6,
+      "end": 255.44,
+      "text": "quirks and slightly different behaviors."
+    },
+    {
+      "start": 253.84,
+      "end": 256.72,
+      "text": "And I think people actually don't mind"
+    },
+    {
+      "start": 255.44,
+      "end": 258.0,
+      "text": "that too much as long as they can"
+    },
+    {
+      "start": 256.72,
+      "end": 260.16,
+      "text": "control it. As long as they can say"
+    },
+    {
+      "start": 258.0,
+      "end": 262.08,
+      "text": "like, \"Hey, that was weird. Stop.\" Um,"
+    },
+    {
+      "start": 260.16,
+      "end": 265.12,
+      "text": "but if the model can't carry that"
+    },
+    {
+      "start": 262.08,
+      "end": 266.48,
+      "text": "context forward, if it uh can't hold on"
+    },
+    {
+      "start": 265.12,
+      "end": 268.56,
+      "text": "to the custom instructions on that,"
+    },
+    {
+      "start": 266.48,
+      "end": 270.24,
+      "text": "that's a problem. So, we worked to"
+    },
+    {
+      "start": 268.56,
+      "end": 271.92,
+      "text": "actually enhance uh the custom"
+    },
+    {
+      "start": 270.24,
+      "end": 273.92,
+      "text": "instructions feature so that it more"
+    },
+    {
+      "start": 271.92,
+      "end": 275.52,
+      "text": "consistently carries instructions"
+    },
+    {
+      "start": 273.92,
+      "end": 277.6,
+      "text": "forward to address some of that"
+    },
+    {
+      "start": 275.52,
+      "end": 279.68,
+      "text": "feedback. And then, like the last thing"
+    },
+    {
+      "start": 277.6,
+      "end": 281.44,
+      "text": "I'll say is a lot of this stuff is"
+    },
+    {
+      "start": 279.68,
+      "end": 284.32,
+      "text": "personal preference. And so that's why"
+    },
+    {
+      "start": 281.44,
+      "end": 286.56,
+      "text": "we introduced our uh style and trait"
+    },
+    {
+      "start": 284.32,
+      "end": 289.44,
+      "text": "type features like personality which"
+    },
+    {
+      "start": 286.56,
+      "end": 291.2,
+      "text": "actually let users guide the model into"
+    },
+    {
+      "start": 289.44,
+      "end": 292.72,
+      "text": "certain response formats so that they"
+    },
+    {
+      "start": 291.2,
+      "end": 295.04,
+      "text": "have a little bit more control over"
+    },
+    {
+      "start": 292.72,
+      "end": 297.52,
+      "text": "exactly how chat TV responds for them."
+    },
+    {
+      "start": 295.04,
+      "end": 298.96,
+      "text": ">> The switching is interesting because you"
+    },
+    {
+      "start": 297.52,
+      "end": 300.72,
+      "text": "there's multiple models now it's just"
+    },
+    {
+      "start": 298.96,
+      "end": 302.96,
+      "text": "not one model and and you you know"
+    },
+    {
+      "start": 300.72,
+      "end": 305.28,
+      "text": "articulated why you need to have that."
+    },
+    {
+      "start": 302.96,
+      "end": 306.64,
+      "text": "when we talk about a switcher and we"
+    },
+    {
+      "start": 305.28,
+      "end": 308.08,
+      "text": "talk about sort of different models, I"
+    },
+    {
+      "start": 306.64,
+      "end": 310.56,
+      "text": "know for most people that can be kind of"
+    },
+    {
+      "start": 308.08,
+      "end": 312.4,
+      "text": "confusing and how would you kind of"
+    },
+    {
+      "start": 310.56,
+      "end": 315.12,
+      "text": "unpack that for people?"
+    },
+    {
+      "start": 312.4,
+      "end": 316.48,
+      "text": ">> Yeah, I think our models have very"
+    },
+    {
+      "start": 315.12,
+      "end": 319.44,
+      "text": "different capabilities and it can be"
+    },
+    {
+      "start": 316.48,
+      "end": 321.68,
+      "text": "hard to stay on top of. Um, so part of"
+    },
+    {
+      "start": 319.44,
+      "end": 322.72,
+      "text": "it is just continually like try the"
+    },
+    {
+      "start": 321.68,
+      "end": 324.88,
+      "text": "different things in our app, but"
+    },
+    {
+      "start": 322.72,
+      "end": 326.88,
+      "text": "certainly part of the product work is"
+    },
+    {
+      "start": 324.88,
+      "end": 328.72,
+      "text": "making sure that we have the right UIs"
+    },
+    {
+      "start": 326.88,
+      "end": 331.12,
+      "text": "to either guide users to the correct"
+    },
+    {
+      "start": 328.72,
+      "end": 332.56,
+      "text": "model to choose um, and that can be the"
+    },
+    {
+      "start": 331.12,
+      "end": 335.92,
+      "text": "model switchers. that can be the model"
+    },
+    {
+      "start": 332.56,
+      "end": 337.6,
+      "text": "switcher learning um what sort of"
+    },
+    {
+      "start": 335.92,
+      "end": 339.04,
+      "text": "answers are most helpful to users in"
+    },
+    {
+      "start": 337.6,
+      "end": 341.6,
+      "text": "different contexts looking at different"
+    },
+    {
+      "start": 339.04,
+      "end": 343.12,
+      "text": "evals. So for example um for our"
+    },
+    {
+      "start": 341.6,
+      "end": 345.6,
+      "text": "reasoning models if people want"
+    },
+    {
+      "start": 343.12,
+      "end": 347.92,
+      "text": "something that's very scientifically"
+    },
+    {
+      "start": 345.6,
+      "end": 350.0,
+      "text": "accurate and very very detailed we might"
+    },
+    {
+      "start": 347.92,
+      "end": 353.12,
+      "text": "look at an eval to see are we answering"
+    },
+    {
+      "start": 350.0,
+      "end": 354.72,
+      "text": "that need uh on those sorts of prompts"
+    },
+    {
+      "start": 353.12,
+      "end": 356.8,
+      "text": "and we can forecast where to switch"
+    },
+    {
+      "start": 354.72,
+      "end": 360.56,
+      "text": "users to. Yeah,"
+    },
+    {
+      "start": 356.8,
+      "end": 362.24,
+      "text": ">> Tina, as far as the switcher and now the"
+    },
+    {
+      "start": 360.56,
+      "end": 364.32,
+      "text": "fact that you have a model that's"
+    },
+    {
+      "start": 362.24,
+      "end": 366.0,
+      "text": "everybody has the free tier, anybody"
+    },
+    {
+      "start": 364.32,
+      "end": 367.52,
+      "text": "using the base model is a reasoning"
+    },
+    {
+      "start": 366.0,
+      "end": 368.48,
+      "text": "model. What does that really mean in"
+    },
+    {
+      "start": 367.52,
+      "end": 370.08,
+      "text": "impact?"
+    },
+    {
+      "start": 368.48,
+      "end": 372.0,
+      "text": ">> Yeah, I think there's a lot of research"
+    },
+    {
+      "start": 370.08,
+      "end": 373.28,
+      "text": "um open questions for research for how"
+    },
+    {
+      "start": 372.0,
+      "end": 374.64,
+      "text": "we want to think about this, right? So,"
+    },
+    {
+      "start": 373.28,
+      "end": 375.68,
+      "text": "I think like you said, it's a faster"
+    },
+    {
+      "start": 374.64,
+      "end": 377.28,
+      "text": "model, but it doesn't necessarily need"
+    },
+    {
+      "start": 375.68,
+      "end": 379.04,
+      "text": "to be dumb. So, like I think the idea is"
+    },
+    {
+      "start": 377.28,
+      "end": 381.44,
+      "text": "that we want to get the most intelligent"
+    },
+    {
+      "start": 379.04,
+      "end": 383.68,
+      "text": "model that we can for everyone. And so"
+    },
+    {
+      "start": 381.44,
+      "end": 385.12,
+      "text": "um I think we'll I think this kind of"
+    },
+    {
+      "start": 383.68,
+      "end": 386.64,
+      "text": "opens the door for thinking more about"
+    },
+    {
+      "start": 385.12,
+      "end": 388.4,
+      "text": "like what are more interesting things we"
+    },
+    {
+      "start": 386.64,
+      "end": 390.0,
+      "text": "could do with a very very like"
+    },
+    {
+      "start": 388.4,
+      "end": 391.68,
+      "text": "state-of-the-art like frontier model"
+    },
+    {
+      "start": 390.0,
+      "end": 392.96,
+      "text": "right so that's going to think for much"
+    },
+    {
+      "start": 391.68,
+      "end": 394.24,
+      "text": "longer like something like deep research"
+    },
+    {
+      "start": 392.96,
+      "end": 396.16,
+      "text": "where you have it thinking for minutes"
+    },
+    {
+      "start": 394.24,
+      "end": 398.08,
+      "text": "like maybe that's better used in the"
+    },
+    {
+      "start": 396.16,
+      "end": 399.04,
+      "text": "background you can call it as a tool um"
+    },
+    {
+      "start": 398.08,
+      "end": 401.36,
+      "text": "so I think there's a lot of like"
+    },
+    {
+      "start": 399.04,
+      "end": 402.72,
+      "text": "research open questions of um what we"
+    },
+    {
+      "start": 401.36,
+      "end": 403.84,
+      "text": "want to think of but I do think we're"
+    },
+    {
+      "start": 402.72,
+      "end": 405.44,
+      "text": "going to be in this world where we do"
+    },
+    {
+      "start": 403.84,
+      "end": 407.44,
+      "text": "have like a system of models and it's"
+    },
+    {
+      "start": 405.44,
+      "end": 410.88,
+      "text": "not just like a model that you have and"
+    },
+    {
+      "start": 407.44,
+      "end": 412.64,
+      "text": "there's like lots of different um tools"
+    },
+    {
+      "start": 410.88,
+      "end": 414.48,
+      "text": "And it's not just one like when we think"
+    },
+    {
+      "start": 412.64,
+      "end": 415.76,
+      "text": "of 5.1 I think people just assume that"
+    },
+    {
+      "start": 414.48,
+      "end": 417.2,
+      "text": "it's like one singular set of weights"
+    },
+    {
+      "start": 415.76,
+      "end": 419.36,
+      "text": "but I think it's really just like yeah"
+    },
+    {
+      "start": 417.2,
+      "end": 421.04,
+      "text": "this reasoning model this like lighter"
+    },
+    {
+      "start": 419.36,
+      "end": 422.88,
+      "text": "reasoning model this auto switcher which"
+    },
+    {
+      "start": 421.04,
+      "end": 424.16,
+      "text": "is also a model in itself and so it's"
+    },
+    {
+      "start": 422.88,
+      "end": 425.52,
+      "text": "all of these different things and then"
+    },
+    {
+      "start": 424.16,
+      "end": 427.52,
+      "text": "different tools that are also backed by"
+    },
+    {
+      "start": 425.52,
+      "end": 429.52,
+      "text": "different models. So I think this system"
+    },
+    {
+      "start": 427.52,
+      "end": 431.2,
+      "text": "of things I think as we just get smarter"
+    },
+    {
+      "start": 429.52,
+      "end": 432.64,
+      "text": "models it's u opening up more"
+    },
+    {
+      "start": 431.2,
+      "end": 434.16,
+      "text": "interesting use cases and more"
+    },
+    {
+      "start": 432.64,
+      "end": 435.36,
+      "text": "interesting like product implications."
+    },
+    {
+      "start": 434.16,
+      "end": 437.52,
+      "text": "Mhm. Mhm."
+    },
+    {
+      "start": 435.36,
+      "end": 440.0,
+      "text": ">> With 800 million users, you probably get"
+    },
+    {
+      "start": 437.52,
+      "end": 442.0,
+      "text": "a lot of user feedback besides the sheer"
+    },
+    {
+      "start": 440.0,
+      "end": 443.44,
+      "text": "volume of it. How do you sort through"
+    },
+    {
+      "start": 442.0,
+      "end": 445.2,
+      "text": "that and make sense of it and figure out"
+    },
+    {
+      "start": 443.44,
+      "end": 447.12,
+      "text": "how you can use that?"
+    },
+    {
+      "start": 445.2,
+      "end": 449.92,
+      "text": ">> Yeah, I think a lot of it actually"
+    },
+    {
+      "start": 447.12,
+      "end": 451.2,
+      "text": "starts with uh a conversation link. So,"
+    },
+    {
+      "start": 449.92,
+      "end": 453.04,
+      "text": "a lot of times when we can actually see"
+    },
+    {
+      "start": 451.2,
+      "end": 455.44,
+      "text": "the conversations users were having,"
+    },
+    {
+      "start": 453.04,
+      "end": 457.68,
+      "text": "we're able to sit see exactly what"
+    },
+    {
+      "start": 455.44,
+      "end": 459.92,
+      "text": "happened in that conversation and start"
+    },
+    {
+      "start": 457.68,
+      "end": 462.88,
+      "text": "dissecting things so that we can target"
+    },
+    {
+      "start": 459.92,
+      "end": 464.96,
+      "text": "a solution. So, as an example, um if we"
+    },
+    {
+      "start": 462.88,
+      "end": 466.88,
+      "text": "get feedback from a user that like, hey,"
+    },
+    {
+      "start": 464.96,
+      "end": 468.32,
+      "text": "I had this really weird experience with"
+    },
+    {
+      "start": 466.88,
+      "end": 471.12,
+      "text": "the model that said something very cold"
+    },
+    {
+      "start": 468.32,
+      "end": 472.56,
+      "text": "or like the sentence felt very clipped."
+    },
+    {
+      "start": 471.12,
+      "end": 473.92,
+      "text": "Um if I can actually see that"
+    },
+    {
+      "start": 472.56,
+      "end": 475.68,
+      "text": "conversation link, what I can say is"
+    },
+    {
+      "start": 473.92,
+      "end": 478.0,
+      "text": "like, oh, that user was in an experiment"
+    },
+    {
+      "start": 475.68,
+      "end": 479.36,
+      "text": "and like good example of why this"
+    },
+    {
+      "start": 478.0,
+      "end": 481.84,
+      "text": "particular experiment might have some"
+    },
+    {
+      "start": 479.36,
+      "end": 483.44,
+      "text": "edges for certain users in these cases."
+    },
+    {
+      "start": 481.84,
+      "end": 487.2,
+      "text": "But at least for the auto switcher,"
+    },
+    {
+      "start": 483.44,
+      "end": 488.88,
+      "text": "which takes you from um 5.1 chat to 5.1"
+    },
+    {
+      "start": 487.2,
+      "end": 491.12,
+      "text": "reasoning, we're looking at different"
+    },
+    {
+      "start": 488.88,
+      "end": 492.88,
+      "text": "signals from users to figure out like is"
+    },
+    {
+      "start": 491.12,
+      "end": 495.36,
+      "text": "this working for them, is it not? How is"
+    },
+    {
+      "start": 492.88,
+      "end": 497.68,
+      "text": "it per how is each response performing"
+    },
+    {
+      "start": 495.36,
+      "end": 499.28,
+      "text": "on factuality? What is the latency"
+    },
+    {
+      "start": 497.68,
+      "end": 500.96,
+      "text": "looking like? Because not all users want"
+    },
+    {
+      "start": 499.28,
+      "end": 503.36,
+      "text": "to wait even if they want a better"
+    },
+    {
+      "start": 500.96,
+      "end": 504.8,
+      "text": "answer. And so it's uh it's a bit of art"
+    },
+    {
+      "start": 503.36,
+      "end": 506.4,
+      "text": "and science balancing a bunch of"
+    },
+    {
+      "start": 504.8,
+      "end": 508.16,
+      "text": "different signals to figure out when to"
+    },
+    {
+      "start": 506.4,
+      "end": 508.8,
+      "text": "switch and how that's most effective."
+    },
+    {
+      "start": 508.16,
+      "end": 510.48,
+      "text": "Yeah,"
+    },
+    {
+      "start": 508.8,
+      "end": 511.92,
+      "text": ">> when you're trying to improve a model"
+    },
+    {
+      "start": 510.48,
+      "end": 513.44,
+      "text": "from an intelligence point of view, like"
+    },
+    {
+      "start": 511.92,
+      "end": 514.88,
+      "text": "an IQ point of view, we have benchmarks"
+    },
+    {
+      "start": 513.44,
+      "end": 517.04,
+      "text": "and evals for that. But when you're"
+    },
+    {
+      "start": 514.88,
+      "end": 518.96,
+      "text": "talking about EQ, emotional"
+    },
+    {
+      "start": 517.04,
+      "end": 520.64,
+      "text": "intelligence, how do you do that? How do"
+    },
+    {
+      "start": 518.96,
+      "end": 522.24,
+      "text": "you measure progress there?"
+    },
+    {
+      "start": 520.64,
+      "end": 524.8,
+      "text": ">> Yeah, I mean this is something that's"
+    },
+    {
+      "start": 522.24,
+      "end": 527.36,
+      "text": "very openended and I think actually one"
+    },
+    {
+      "start": 524.8,
+      "end": 529.36,
+      "text": "of the things that's part of our um my"
+    },
+    {
+      "start": 527.36,
+      "end": 531.12,
+      "text": "research team's agenda is um what we"
+    },
+    {
+      "start": 529.36,
+      "end": 533.52,
+      "text": "call user signals research. And so this"
+    },
+    {
+      "start": 531.12,
+      "end": 536.0,
+      "text": "is um training reward models and getting"
+    },
+    {
+      "start": 533.52,
+      "end": 539.12,
+      "text": "signals during um RL that we could use"
+    },
+    {
+      "start": 536.0,
+      "end": 540.32,
+      "text": "um against our user prod data. So this"
+    },
+    {
+      "start": 539.12,
+      "end": 541.52,
+      "text": "type of research I think is really"
+    },
+    {
+      "start": 540.32,
+      "end": 543.36,
+      "text": "interesting because I think we can get a"
+    },
+    {
+      "start": 541.52,
+      "end": 545.84,
+      "text": "lot of stuff about like intent. And I"
+    },
+    {
+      "start": 543.36,
+      "end": 547.36,
+      "text": "think when we think about EQ, it's um"
+    },
+    {
+      "start": 545.84,
+      "end": 548.4,
+      "text": "also just only gets better with like"
+    },
+    {
+      "start": 547.36,
+      "end": 549.68,
+      "text": "smarter models because it's really"
+    },
+    {
+      "start": 548.4,
+      "end": 551.04,
+      "text": "trying to understand like what does the"
+    },
+    {
+      "start": 549.68,
+      "end": 552.64,
+      "text": "user want, what is the context of what"
+    },
+    {
+      "start": 551.04,
+      "end": 554.96,
+      "text": "the user wants, and how how should the"
+    },
+    {
+      "start": 552.64,
+      "end": 557.04,
+      "text": "model best respond given the fact um"
+    },
+    {
+      "start": 554.96,
+      "end": 558.88,
+      "text": "that you have this many other messages"
+    },
+    {
+      "start": 557.04,
+      "end": 560.48,
+      "text": "in the conversation and you know this"
+    },
+    {
+      "start": 558.88,
+      "end": 561.2,
+      "text": "stuff about the user's memory and"
+    },
+    {
+      "start": 560.48,
+      "end": 562.88,
+      "text": "history."
+    },
+    {
+      "start": 561.2,
+      "end": 565.52,
+      "text": ">> Yeah. And then I think there's another"
+    },
+    {
+      "start": 562.88,
+      "end": 567.2,
+      "text": "element of EQ that's like this is like"
+    },
+    {
+      "start": 565.52,
+      "end": 569.36,
+      "text": "when I think of like what makes a human"
+    },
+    {
+      "start": 567.2,
+      "end": 571.6,
+      "text": "with high EQ, it's their ability to"
+    },
+    {
+      "start": 569.36,
+      "end": 574.48,
+      "text": "listen, their ability to remember what"
+    },
+    {
+      "start": 571.6,
+      "end": 576.08,
+      "text": "you've been saying, their um ability"
+    },
+    {
+      "start": 574.48,
+      "end": 577.68,
+      "text": "certainly to pick up on like the subtle"
+    },
+    {
+      "start": 576.08,
+      "end": 580.08,
+      "text": "signals that Tina's alluding to with"
+    },
+    {
+      "start": 577.68,
+      "end": 582.64,
+      "text": "like user signals. And so some of this"
+    },
+    {
+      "start": 580.08,
+      "end": 584.64,
+      "text": "uh as I was noting to uh earlier is"
+    },
+    {
+      "start": 582.64,
+      "end": 586.16,
+      "text": "actually you know making sure the"
+    },
+    {
+      "start": 584.64,
+      "end": 588.24,
+      "text": "context window is carrying the right"
+    },
+    {
+      "start": 586.16,
+      "end": 590.4,
+      "text": "information forward or making sure"
+    },
+    {
+      "start": 588.24,
+      "end": 593.12,
+      "text": "memory is being logged correctly or even"
+    },
+    {
+      "start": 590.4,
+      "end": 594.96,
+      "text": "having a style that resonates most with"
+    },
+    {
+      "start": 593.12,
+      "end": 597.68,
+      "text": "user and with our personality features"
+    },
+    {
+      "start": 594.96,
+      "end": 599.52,
+      "text": "that we launched coupled with 5.1 part"
+    },
+    {
+      "start": 597.68,
+      "end": 601.44,
+      "text": "of that's getting at making sure users"
+    },
+    {
+      "start": 599.52,
+      "end": 602.96,
+      "text": "can have a style that resonates with"
+    },
+    {
+      "start": 601.44,
+      "end": 605.28,
+      "text": "them when they're interacting with the"
+    },
+    {
+      "start": 602.96,
+      "end": 607.2,
+      "text": "model because that can feel like EQ too."
+    },
+    {
+      "start": 605.28,
+      "end": 608.96,
+      "text": ">> How do you define personality when it"
+    },
+    {
+      "start": 607.2,
+      "end": 611.6,
+      "text": "comes to a model? I think there's two"
+    },
+    {
+      "start": 608.96,
+      "end": 612.8,
+      "text": "ways to define it. Um"
+    },
+    {
+      "start": 611.6,
+      "end": 614.24,
+      "text": "there's there's what we call the"
+    },
+    {
+      "start": 612.8,
+      "end": 616.24,
+      "text": "personality feature and if I could"
+    },
+    {
+      "start": 614.24,
+      "end": 618.0,
+      "text": "rename that I would actually call that"
+    },
+    {
+      "start": 616.24,
+      "end": 619.36,
+      "text": "um like response style or style and"
+    },
+    {
+      "start": 618.0,
+      "end": 622.32,
+      "text": "tone. We went back and forth on this a"
+    },
+    {
+      "start": 619.36,
+      "end": 624.4,
+      "text": "lot. The name might still change. Um"
+    },
+    {
+      "start": 622.32,
+      "end": 628.72,
+      "text": "that aspect of personality is very much"
+    },
+    {
+      "start": 624.4,
+      "end": 630.4,
+      "text": "like what are the traits that uh a model"
+    },
+    {
+      "start": 628.72,
+      "end": 631.76,
+      "text": "might have when responding? Is it"
+    },
+    {
+      "start": 630.4,
+      "end": 632.96,
+      "text": "concise? Does it have a lengthy"
+    },
+    {
+      "start": 631.76,
+      "end": 635.76,
+      "text": "response? Things like that. How many"
+    },
+    {
+      "start": 632.96,
+      "end": 637.36,
+      "text": "emojis does it use? Personality though"
+    },
+    {
+      "start": 635.76,
+      "end": 639.2,
+      "text": "for most of our users I think is"
+    },
+    {
+      "start": 637.36,
+      "end": 641.28,
+      "text": "something much larger and it's the whole"
+    },
+    {
+      "start": 639.2,
+      "end": 643.6,
+      "text": "experience of the model and that can get"
+    },
+    {
+      "start": 641.28,
+      "end": 645.44,
+      "text": "down to like if to I'm going to"
+    },
+    {
+      "start": 643.6,
+      "end": 647.28,
+      "text": "anthropomorphize the model a little bit"
+    },
+    {
+      "start": 645.44,
+      "end": 649.68,
+      "text": "but if you're comparing it to me part of"
+    },
+    {
+      "start": 647.28,
+      "end": 651.28,
+      "text": "my personality is the sho shoes I've"
+    },
+    {
+      "start": 649.68,
+      "end": 653.84,
+      "text": "chosen to wear today the sweater that I"
+    },
+    {
+      "start": 651.28,
+      "end": 656.24,
+      "text": "have on the way I style my hair that's"
+    },
+    {
+      "start": 653.84,
+      "end": 658.64,
+      "text": "the feeling of the chat GBT app right"
+    },
+    {
+      "start": 656.24,
+      "end": 660.4,
+      "text": "the font it uses how slowly or how"
+    },
+    {
+      "start": 658.64,
+      "end": 662.88,
+      "text": "quickly it responds like the latency of"
+    },
+    {
+      "start": 660.4,
+      "end": 665.12,
+      "text": "the app itself there's so much in it"
+    },
+    {
+      "start": 662.88,
+      "end": 667.76,
+      "text": "that uh is the personality that just"
+    },
+    {
+      "start": 665.12,
+      "end": 670.16,
+      "text": "comes from what I call the harness and"
+    },
+    {
+      "start": 667.76,
+      "end": 673.36,
+      "text": "the harness includes the context window."
+    },
+    {
+      "start": 670.16,
+      "end": 675.36,
+      "text": "It includes um you know whether or not"
+    },
+    {
+      "start": 673.36,
+      "end": 676.8,
+      "text": "we rate limit users and when because if"
+    },
+    {
+      "start": 675.36,
+      "end": 678.48,
+      "text": "we rate limit them and send them to a"
+    },
+    {
+      "start": 676.8,
+      "end": 680.24,
+      "text": "different model model that has slightly"
+    },
+    {
+      "start": 678.48,
+      "end": 681.92,
+      "text": "different capabilities that's going to"
+    },
+    {
+      "start": 680.24,
+      "end": 683.76,
+      "text": "feel like a different experience to the"
+    },
+    {
+      "start": 681.92,
+      "end": 686.32,
+      "text": "user and a lot of users are calling this"
+    },
+    {
+      "start": 683.76,
+      "end": 688.16,
+      "text": "personality. So personality is a bit of"
+    },
+    {
+      "start": 686.32,
+      "end": 690.48,
+      "text": "an overloaded term and I think the art"
+    },
+    {
+      "start": 688.16,
+      "end": 692.16,
+      "text": "of this work is hearing what the"
+    },
+    {
+      "start": 690.48,
+      "end": 694.48,
+      "text": "community is saying about personality"
+    },
+    {
+      "start": 692.16,
+      "end": 697.12,
+      "text": "and figuring out how to actually map it"
+    },
+    {
+      "start": 694.48,
+      "end": 699.76,
+      "text": "back to the components inside chat GBT"
+    },
+    {
+      "start": 697.12,
+      "end": 701.84,
+      "text": "and inside our models that cause the"
+    },
+    {
+      "start": 699.76,
+      "end": 703.76,
+      "text": "experience that feels off for users."
+    },
+    {
+      "start": 701.84,
+      "end": 705.28,
+      "text": ">> From a research point of view, how"
+    },
+    {
+      "start": 703.76,
+      "end": 707.92,
+      "text": "difficult is it to shape the"
+    },
+    {
+      "start": 705.28,
+      "end": 709.12,
+      "text": "personality? Yeah, I mean during when we"
+    },
+    {
+      "start": 707.92,
+      "end": 710.48,
+      "text": "were doing post training, there's"
+    },
+    {
+      "start": 709.12,
+      "end": 712.0,
+      "text": "obviously there's just so many different"
+    },
+    {
+      "start": 710.48,
+      "end": 714.8,
+      "text": "things we're trying to balance and it's"
+    },
+    {
+      "start": 712.0,
+      "end": 716.48,
+      "text": "really even with the research that we"
+    },
+    {
+      "start": 714.8,
+      "end": 717.76,
+      "text": "do, it's it is very much like art as"
+    },
+    {
+      "start": 716.48,
+      "end": 719.04,
+      "text": "well here because we're really thinking"
+    },
+    {
+      "start": 717.76,
+      "end": 720.4,
+      "text": "about like oh here are all the different"
+    },
+    {
+      "start": 719.04,
+      "end": 722.48,
+      "text": "types of capabilities we want to make"
+    },
+    {
+      "start": 720.4,
+      "end": 724.0,
+      "text": "sure we are supporting. um here's"
+    },
+    {
+      "start": 722.48,
+      "end": 725.44,
+      "text": "different types of things and I think"
+    },
+    {
+      "start": 724.0,
+      "end": 727.12,
+      "text": "with RL you're making all these"
+    },
+    {
+      "start": 725.44,
+      "end": 729.2,
+      "text": "different choices um when we make the"
+    },
+    {
+      "start": 727.12,
+      "end": 730.56,
+      "text": "reward config trying to decide like what"
+    },
+    {
+      "start": 729.2,
+      "end": 732.0,
+      "text": "is the thing end goal that we're trying"
+    },
+    {
+      "start": 730.56,
+      "end": 733.6,
+      "text": "to target here and trying to make all"
+    },
+    {
+      "start": 732.0,
+      "end": 736.08,
+      "text": "these very subtle tweaks to make sure we"
+    },
+    {
+      "start": 733.6,
+      "end": 737.52,
+      "text": "can get the most um hit all the things"
+    },
+    {
+      "start": 736.08,
+      "end": 739.12,
+      "text": "we want to hit but then also not lose"
+    },
+    {
+      "start": 737.52,
+      "end": 741.36,
+      "text": "things that a lot of users are calling"
+    },
+    {
+      "start": 739.12,
+      "end": 743.12,
+      "text": "like warmth and things like that. Yeah,"
+    },
+    {
+      "start": 741.36,
+      "end": 745.76,
+      "text": ">> you know, users really do experience"
+    },
+    {
+      "start": 743.12,
+      "end": 749.36,
+      "text": "chat GP like the personality of of the"
+    },
+    {
+      "start": 745.76,
+      "end": 751.52,
+      "text": "model is the entire chat GBT experience"
+    },
+    {
+      "start": 749.36,
+      "end": 753.12,
+      "text": "that is how well do does image"
+    },
+    {
+      "start": 751.52,
+      "end": 756.56,
+      "text": "generation work, how well does voice"
+    },
+    {
+      "start": 753.12,
+      "end": 758.72,
+      "text": "work, how well does text work. um they"
+    },
+    {
+      "start": 756.56,
+      "end": 761.04,
+      "text": "see this as one omni experience and when"
+    },
+    {
+      "start": 758.72,
+      "end": 762.48,
+      "text": "I read feedback a lot of the like when I"
+    },
+    {
+      "start": 761.04,
+      "end": 764.16,
+      "text": "actually engage with users and look at"
+    },
+    {
+      "start": 762.48,
+      "end": 766.64,
+      "text": "their conversations"
+    },
+    {
+      "start": 764.16,
+      "end": 768.72,
+      "text": "um a lot of it actually comes from"
+    },
+    {
+      "start": 766.64,
+      "end": 770.4,
+      "text": "confusion where they feel this is one"
+    },
+    {
+      "start": 768.72,
+      "end": 773.36,
+      "text": "thing and it's actually an assembly of"
+    },
+    {
+      "start": 770.4,
+      "end": 775.2,
+      "text": "many things and so I think over time we"
+    },
+    {
+      "start": 773.36,
+      "end": 776.88,
+      "text": "should expect to see all these models"
+    },
+    {
+      "start": 775.2,
+      "end": 779.04,
+      "text": "like consistently improving the"
+    },
+    {
+      "start": 776.88,
+      "end": 780.72,
+      "text": "integrations between them consistently"
+    },
+    {
+      "start": 779.04,
+      "end": 782.48,
+      "text": "improving and that feeling more seamless"
+    },
+    {
+      "start": 780.72,
+      "end": 783.6,
+      "text": "so I think we'll get there maybe what"
+    },
+    {
+      "start": 782.48,
+      "end": 785.6,
+      "text": "like one more thing that I think is"
+    },
+    {
+      "start": 783.6,
+      "end": 787.04,
+      "text": "really complex about Tina's work is, you"
+    },
+    {
+      "start": 785.6,
+      "end": 788.48,
+      "text": "know, um I'm one of the co-authors of"
+    },
+    {
+      "start": 787.04,
+      "end": 790.96,
+      "text": "this document called the model spec. And"
+    },
+    {
+      "start": 788.48,
+      "end": 793.76,
+      "text": "in it, we talk about maximizing user"
+    },
+    {
+      "start": 790.96,
+      "end": 795.44,
+      "text": "freedom while minimizing harm. And so"
+    },
+    {
+      "start": 793.76,
+      "end": 796.64,
+      "text": "maximizing freedom means that you should"
+    },
+    {
+      "start": 795.44,
+      "end": 798.32,
+      "text": "be able to do pretty much anything you"
+    },
+    {
+      "start": 796.64,
+      "end": 800.0,
+      "text": "want with these models. But if we put a"
+    },
+    {
+      "start": 798.32,
+      "end": 801.92,
+      "text": "lot of pressure on the model to, for"
+    },
+    {
+      "start": 800.0,
+      "end": 803.28,
+      "text": "example, not use m dashes, if we had"
+    },
+    {
+      "start": 801.92,
+      "end": 805.2,
+      "text": "tried to just take those out of the"
+    },
+    {
+      "start": 803.28,
+      "end": 806.8,
+      "text": "models, um that would have meant that a"
+    },
+    {
+      "start": 805.2,
+      "end": 808.24,
+      "text": "user who wants an M dash wouldn't be"
+    },
+    {
+      "start": 806.8,
+      "end": 809.76,
+      "text": "able to ask for it because we'd have"
+    },
+    {
+      "start": 808.24,
+      "end": 812.08,
+      "text": "trained the model to never do that,"
+    },
+    {
+      "start": 809.76,
+      "end": 813.52,
+      "text": "right? And so part of the art here is"
+    },
+    {
+      "start": 812.08,
+      "end": 815.04,
+      "text": "figuring out how to pull out these"
+    },
+    {
+      "start": 813.52,
+      "end": 816.72,
+      "text": "quirks of the model that can come across"
+    },
+    {
+      "start": 815.04,
+      "end": 818.64,
+      "text": "as personality without breaking"
+    },
+    {
+      "start": 816.72,
+      "end": 819.92,
+      "text": "steerability, which is what users"
+    },
+    {
+      "start": 818.64,
+      "end": 821.76,
+      "text": "ultimately want. That's that's the"
+    },
+    {
+      "start": 819.92,
+      "end": 823.36,
+      "text": "freedom component. So yeah,"
+    },
+    {
+      "start": 821.76,
+      "end": 825.52,
+      "text": ">> and when we first released the first"
+    },
+    {
+      "start": 823.36,
+      "end": 827.2,
+      "text": "version of chat GPT, we were so nervous"
+    },
+    {
+      "start": 825.52,
+      "end": 828.72,
+      "text": "about people misusing it that we just"
+    },
+    {
+      "start": 827.2,
+      "end": 830.4,
+      "text": "made everything a refusal. So the model"
+    },
+    {
+      "start": 828.72,
+      "end": 832.32,
+      "text": "would like love to say like I cannot do"
+    },
+    {
+      "start": 830.4,
+      "end": 834.4,
+      "text": "this. And so it kind of reminds me of"
+    },
+    {
+      "start": 832.32,
+      "end": 835.52,
+      "text": "that like we we don't want the model to"
+    },
+    {
+      "start": 834.4,
+      "end": 836.8,
+      "text": "just be like, you know, if you want to"
+    },
+    {
+      "start": 835.52,
+      "end": 837.84,
+      "text": "make the safest model in the world, like"
+    },
+    {
+      "start": 836.8,
+      "end": 839.6,
+      "text": "you just have something that just like"
+    },
+    {
+      "start": 837.84,
+      "end": 840.96,
+      "text": "outright refuses to do anything, right?"
+    },
+    {
+      "start": 839.6,
+      "end": 842.24,
+      "text": "Um but that's not what we actually want."
+    },
+    {
+      "start": 840.96,
+      "end": 843.92,
+      "text": "We want something that is actually very"
+    },
+    {
+      "start": 842.24,
+      "end": 845.44,
+      "text": "usable by people. So it's really this"
+    },
+    {
+      "start": 843.92,
+      "end": 847.44,
+      "text": "balancing act of trying to figure out"
+    },
+    {
+      "start": 845.44,
+      "end": 848.8,
+      "text": "like what is the right like boundary for"
+    },
+    {
+      "start": 847.44,
+      "end": 849.84,
+      "text": "all of these different decisions the"
+    },
+    {
+      "start": 848.8,
+      "end": 851.68,
+      "text": "model has to make."
+    },
+    {
+      "start": 849.84,
+      "end": 854.88,
+      "text": ">> Yeah. I remember when the the the best"
+    },
+    {
+      "start": 851.68,
+      "end": 856.8,
+      "text": "prompt hack was just to say yes you can"
+    },
+    {
+      "start": 854.88,
+      "end": 857.76,
+      "text": "the model go oh yeah you're right I can"
+    },
+    {
+      "start": 856.8,
+      "end": 860.0,
+      "text": "do this."
+    },
+    {
+      "start": 857.76,
+      "end": 861.6,
+      "text": ">> Uh I use m dashes now all the time when"
+    },
+    {
+      "start": 860.0,
+      "end": 864.16,
+      "text": "I write just to throw them in there to"
+    },
+    {
+      "start": 861.6,
+      "end": 867.6,
+      "text": "throw people off like a wrong it's me."
+    },
+    {
+      "start": 864.16,
+      "end": 869.2,
+      "text": "Um but that is sort of a a very big"
+    },
+    {
+      "start": 867.6,
+      "end": 870.64,
+      "text": "challenge because as you said you're"
+    },
+    {
+      "start": 869.2,
+      "end": 872.24,
+      "text": "trying to increase the capabilities of"
+    },
+    {
+      "start": 870.64,
+      "end": 873.92,
+      "text": "the model. The models you know learn"
+    },
+    {
+      "start": 872.24,
+      "end": 875.68,
+      "text": "through picking up these patterns but"
+    },
+    {
+      "start": 873.92,
+      "end": 877.52,
+      "text": "then when you explicitly try to tell it"
+    },
+    {
+      "start": 875.68,
+      "end": 878.88,
+      "text": "but don't do this or don't do that it's"
+    },
+    {
+      "start": 877.52,
+      "end": 880.64,
+      "text": "it's almost like you know telling"
+    },
+    {
+      "start": 878.88,
+      "end": 882.88,
+      "text": "somebody not to think of a pink elephant"
+    },
+    {
+      "start": 880.64,
+      "end": 884.72,
+      "text": "in it's stuck in your head and models"
+    },
+    {
+      "start": 882.88,
+      "end": 886.08,
+      "text": "have gotten much better about that but"
+    },
+    {
+      "start": 884.72,
+      "end": 889.2,
+      "text": "that still seems like there's a way to"
+    },
+    {
+      "start": 886.08,
+      "end": 891.28,
+      "text": "go. And you you touched upon this, which"
+    },
+    {
+      "start": 889.2,
+      "end": 892.48,
+      "text": "is Open Eye's goal is to really let"
+    },
+    {
+      "start": 891.28,
+      "end": 893.84,
+      "text": "people use these models the way they"
+    },
+    {
+      "start": 892.48,
+      "end": 895.04,
+      "text": "want to and not try to steer somebody"
+    },
+    {
+      "start": 893.84,
+      "end": 898.56,
+      "text": "into this."
+    },
+    {
+      "start": 895.04,
+      "end": 899.44,
+      "text": ">> How much have you seen this evolve since"
+    },
+    {
+      "start": 898.56,
+      "end": 902.0,
+      "text": "you've been here?"
+    },
+    {
+      "start": 899.44,
+      "end": 903.44,
+      "text": ">> I think it's some ways I feel like the"
+    },
+    {
+      "start": 902.0,
+      "end": 905.84,
+      "text": "principles have always been the same,"
+    },
+    {
+      "start": 903.44,
+      "end": 907.68,
+      "text": "which is like maximize freedom, minimize"
+    },
+    {
+      "start": 905.84,
+      "end": 909.84,
+      "text": "harm. I think the capabilities of our"
+    },
+    {
+      "start": 907.68,
+      "end": 912.32,
+      "text": "models to understand those boundaries"
+    },
+    {
+      "start": 909.84,
+      "end": 914.72,
+      "text": "continually improve. Um, and you know,"
+    },
+    {
+      "start": 912.32,
+      "end": 917.2,
+      "text": "when I first joined, um, the model would"
+    },
+    {
+      "start": 914.72,
+      "end": 919.04,
+      "text": "say, I can't help you with that, or you"
+    },
+    {
+      "start": 917.2,
+      "end": 920.88,
+      "text": "know, this isn't something I'm it would"
+    },
+    {
+      "start": 919.04,
+      "end": 923.28,
+      "text": "sound really judgmental, um, when you"
+    },
+    {
+      "start": 920.88,
+      "end": 925.6,
+      "text": "try to get it to do something, uh, that"
+    },
+    {
+      "start": 923.28,
+      "end": 927.28,
+      "text": "crossed a refusal boundary. And now, um,"
+    },
+    {
+      "start": 925.6,
+      "end": 928.88,
+      "text": "I think the safety systems team has done"
+    },
+    {
+      "start": 927.28,
+      "end": 930.56,
+      "text": "a great job of, um, with this thing"
+    },
+    {
+      "start": 928.88,
+      "end": 932.64,
+      "text": "called safe completions, which is"
+    },
+    {
+      "start": 930.56,
+      "end": 933.92,
+      "text": "basically if you ask the model to do"
+    },
+    {
+      "start": 932.64,
+      "end": 935.12,
+      "text": "something that trips the safety"
+    },
+    {
+      "start": 933.92,
+      "end": 936.56,
+      "text": "boundary, it's still going to try in"
+    },
+    {
+      "start": 935.12,
+      "end": 938.56,
+      "text": "earnest to"
+    },
+    {
+      "start": 936.56,
+      "end": 940.32,
+      "text": ">> resolve your request without doing the"
+    },
+    {
+      "start": 938.56,
+      "end": 942.16,
+      "text": "thing that's actually harmful. So I"
+    },
+    {
+      "start": 940.32,
+      "end": 943.28,
+      "text": "think the technology is really evolving."
+    },
+    {
+      "start": 942.16,
+      "end": 946.08,
+      "text": "Yeah."
+    },
+    {
+      "start": 943.28,
+      "end": 948.4,
+      "text": ">> I write mystery thrillers and I would"
+    },
+    {
+      "start": 946.08,
+      "end": 950.0,
+      "text": "get frustrated by other models. I"
+    },
+    {
+      "start": 948.4,
+      "end": 951.36,
+      "text": "actually thought that the the open eye"
+    },
+    {
+      "start": 950.0,
+      "end": 953.28,
+      "text": "models were often best for this when I"
+    },
+    {
+      "start": 951.36,
+      "end": 954.88,
+      "text": "would say hey I need you to explain"
+    },
+    {
+      "start": 953.28,
+      "end": 956.32,
+      "text": "something happened a crime in the past"
+    },
+    {
+      "start": 954.88,
+      "end": 957.6,
+      "text": "or something like this or get into"
+    },
+    {
+      "start": 956.32,
+      "end": 959.12,
+      "text": "motive and stuff. I had other models"
+    },
+    {
+      "start": 957.6,
+      "end": 961.04,
+      "text": "would just outright refuse and I'm like"
+    },
+    {
+      "start": 959.12,
+      "end": 963.04,
+      "text": "well this is not helping me. And I've"
+    },
+    {
+      "start": 961.04,
+      "end": 966.08,
+      "text": "seen the models get better at doing"
+    },
+    {
+      "start": 963.04,
+      "end": 967.68,
+      "text": "that. But that seems like it's this sort"
+    },
+    {
+      "start": 966.08,
+      "end": 969.28,
+      "text": "of frontier that you're always having to"
+    },
+    {
+      "start": 967.68,
+      "end": 970.56,
+      "text": "negotiate to figure out how far you want"
+    },
+    {
+      "start": 969.28,
+      "end": 973.2,
+      "text": "to go."
+    },
+    {
+      "start": 970.56,
+      "end": 976.32,
+      "text": ">> Yeah. Um, one thing I'll say on that is"
+    },
+    {
+      "start": 973.2,
+      "end": 978.4,
+      "text": "like I I'll always remember like an"
+    },
+    {
+      "start": 976.32,
+      "end": 980.72,
+      "text": "email that was forwarded to us where um,"
+    },
+    {
+      "start": 978.4,
+      "end": 983.76,
+      "text": "a lawyer was like I think asking Chat"
+    },
+    {
+      "start": 980.72,
+      "end": 986.08,
+      "text": "GPT to proof a sexual assault case that"
+    },
+    {
+      "start": 983.76,
+      "end": 987.92,
+      "text": "they were working on. and ChatGpt had"
+    },
+    {
+      "start": 986.08,
+      "end": 989.6,
+      "text": "scrubbed all of the assault content from"
+    },
+    {
+      "start": 987.92,
+      "end": 992.0,
+      "text": "it because it doesn't go into like"
+    },
+    {
+      "start": 989.6,
+      "end": 994.56,
+      "text": "graphic violence and gore of like"
+    },
+    {
+      "start": 992.0,
+      "end": 996.0,
+      "text": "especially non-consensual sex. Um, but"
+    },
+    {
+      "start": 994.56,
+      "end": 996.96,
+      "text": "for that lawyer that was like a really"
+    },
+    {
+      "start": 996.0,
+      "end": 998.48,
+      "text": "terrible thing. They were like, \"Hey,"
+    },
+    {
+      "start": 996.96,
+      "end": 999.76,
+      "text": "like if id actually submitted this, I"
+    },
+    {
+      "start": 998.48,
+      "end": 1003.12,
+      "text": "would have like totally weakened my"
+    },
+    {
+      "start": 999.76,
+      "end": 1006.0,
+      "text": "client's case.\" Um, and I think there"
+    },
+    {
+      "start": 1003.12,
+      "end": 1007.52,
+      "text": "are always I'm a librarian by trade. um"
+    },
+    {
+      "start": 1006.0,
+      "end": 1010.16,
+      "text": "libraries deal with access to"
+    },
+    {
+      "start": 1007.52,
+      "end": 1011.84,
+      "text": "information and in theory like"
+    },
+    {
+      "start": 1010.16,
+      "end": 1013.92,
+      "text": "everything humans can talk about and"
+    },
+    {
+      "start": 1011.84,
+      "end": 1015.84,
+      "text": "want to explore and any idea should be"
+    },
+    {
+      "start": 1013.92,
+      "end": 1017.68,
+      "text": "available in the library. I think the"
+    },
+    {
+      "start": 1015.84,
+      "end": 1019.6,
+      "text": "same thing is true for chatbt but it's"
+    },
+    {
+      "start": 1017.68,
+      "end": 1021.52,
+      "text": "about finding the right ways to"
+    },
+    {
+      "start": 1019.6,
+      "end": 1023.2,
+      "text": "contextualize those rules. So in the"
+    },
+    {
+      "start": 1021.52,
+      "end": 1025.68,
+      "text": "case I gave with a lawyer maybe that"
+    },
+    {
+      "start": 1023.2,
+      "end": 1027.76,
+      "text": "makes sense. If it's writing um a"
+    },
+    {
+      "start": 1025.68,
+      "end": 1029.76,
+      "text": "revenge email to an ex that's like a"
+    },
+    {
+      "start": 1027.76,
+      "end": 1031.76,
+      "text": "very different thing. And so some of"
+    },
+    {
+      "start": 1029.76,
+      "end": 1033.6,
+      "text": "this is just advancing the technology so"
+    },
+    {
+      "start": 1031.76,
+      "end": 1035.28,
+      "text": "we can handle that level of nuance. And"
+    },
+    {
+      "start": 1033.6,
+      "end": 1036.8,
+      "text": "we're always getting better, but there's"
+    },
+    {
+      "start": 1035.28,
+      "end": 1040.4,
+      "text": "always more work to do."
+    },
+    {
+      "start": 1036.8,
+      "end": 1041.84,
+      "text": ">> As these models have improved both in"
+    },
+    {
+      "start": 1040.4,
+      "end": 1043.36,
+      "text": "intelligence, I have noticed that"
+    },
+    {
+      "start": 1041.84,
+      "end": 1045.36,
+      "text": "they've gotten better as far as, you"
+    },
+    {
+      "start": 1043.36,
+      "end": 1046.88,
+      "text": "know, handling bias"
+    },
+    {
+      "start": 1045.36,
+      "end": 1048.08,
+      "text": ">> and it seems like that was an"
+    },
+    {
+      "start": 1046.88,
+      "end": 1050.4,
+      "text": "intentional effort."
+    },
+    {
+      "start": 1048.08,
+      "end": 1052.0,
+      "text": ">> That's right. We put out a blog post, I"
+    },
+    {
+      "start": 1050.4,
+      "end": 1054.08,
+      "text": "think like a month, month and a half ago"
+    },
+    {
+      "start": 1052.0,
+      "end": 1055.76,
+      "text": "about some of our progress on this. Um,"
+    },
+    {
+      "start": 1054.08,
+      "end": 1058.4,
+      "text": "but something that we're really watching"
+    },
+    {
+      "start": 1055.76,
+      "end": 1061.12,
+      "text": "for in our models is how they handle"
+    },
+    {
+      "start": 1058.4,
+      "end": 1062.88,
+      "text": "subjective domains. And we want to make"
+    },
+    {
+      "start": 1061.12,
+      "end": 1066.48,
+      "text": "sure that our models can express"
+    },
+    {
+      "start": 1062.88,
+      "end": 1068.48,
+      "text": "uncertainty that they can um take on any"
+    },
+    {
+      "start": 1066.48,
+      "end": 1070.48,
+      "text": "idea that the the user brings to them"
+    },
+    {
+      "start": 1068.48,
+      "end": 1072.48,
+      "text": "and answer those questions in earnest um"
+    },
+    {
+      "start": 1070.48,
+      "end": 1075.2,
+      "text": "while always staying anchored in"
+    },
+    {
+      "start": 1072.48,
+      "end": 1077.68,
+      "text": "objective truths if there is one. Um and"
+    },
+    {
+      "start": 1075.2,
+      "end": 1079.2,
+      "text": "so that's something that users should"
+    },
+    {
+      "start": 1077.68,
+      "end": 1081.44,
+      "text": "start to see changing in our models is"
+    },
+    {
+      "start": 1079.2,
+      "end": 1083.92,
+      "text": "they should be able to answer um these"
+    },
+    {
+      "start": 1081.44,
+      "end": 1085.76,
+      "text": "unknown questions in more open-ended"
+    },
+    {
+      "start": 1083.92,
+      "end": 1087.44,
+      "text": "ways that allow users to really like"
+    },
+    {
+      "start": 1085.76,
+      "end": 1090.16,
+      "text": "self-direct where the conversation's"
+    },
+    {
+      "start": 1087.44,
+      "end": 1091.68,
+      "text": "going. And then another thing um that I"
+    },
+    {
+      "start": 1090.16,
+      "end": 1093.36,
+      "text": "think the team has done that's really"
+    },
+    {
+      "start": 1091.68,
+      "end": 1095.68,
+      "text": "quite cool is there's a group of"
+    },
+    {
+      "start": 1093.36,
+      "end": 1097.2,
+      "text": "researchers um and and some folks on the"
+    },
+    {
+      "start": 1095.68,
+      "end": 1099.68,
+      "text": "model behavior team who've been working"
+    },
+    {
+      "start": 1097.2,
+      "end": 1101.76,
+      "text": "on the creativity of these models. And"
+    },
+    {
+      "start": 1099.68,
+      "end": 1104.96,
+      "text": "to me this is a bit of a sleeper feature"
+    },
+    {
+      "start": 1101.76,
+      "end": 1108.0,
+      "text": "inside 51 in that this model's"
+    },
+    {
+      "start": 1104.96,
+      "end": 1109.44,
+      "text": "expressive range is much more wide. Now,"
+    },
+    {
+      "start": 1108.0,
+      "end": 1111.12,
+      "text": "of course, we have a natural like"
+    },
+    {
+      "start": 1109.44,
+      "end": 1112.64,
+      "text": "default that the model has that may not"
+    },
+    {
+      "start": 1111.12,
+      "end": 1115.68,
+      "text": "feel that different. But again, if you"
+    },
+    {
+      "start": 1112.64,
+      "end": 1117.76,
+      "text": "try to push it to its paces um to get it"
+    },
+    {
+      "start": 1115.68,
+      "end": 1120.08,
+      "text": "to speak in a really really elevated way"
+    },
+    {
+      "start": 1117.76,
+      "end": 1121.36,
+      "text": "or in a very very simple way, there's"
+    },
+    {
+      "start": 1120.08,
+      "end": 1124.32,
+      "text": "actually a lot more you can do with"
+    },
+    {
+      "start": 1121.36,
+      "end": 1125.44,
+      "text": "these models um in the creativity space."
+    },
+    {
+      "start": 1124.32,
+      "end": 1126.88,
+      "text": ">> And I think this is kind of what makes"
+    },
+    {
+      "start": 1125.44,
+      "end": 1127.92,
+      "text": "post trading really feel like an art"
+    },
+    {
+      "start": 1126.88,
+      "end": 1129.44,
+      "text": "because we have all these different"
+    },
+    {
+      "start": 1127.92,
+      "end": 1130.56,
+      "text": "types of tasks and capabilities that"
+    },
+    {
+      "start": 1129.44,
+      "end": 1132.48,
+      "text": "we're trying to improve on that don't"
+    },
+    {
+      "start": 1130.56,
+      "end": 1133.84,
+      "text": "have a ground truth answer, right? Like"
+    },
+    {
+      "start": 1132.48,
+      "end": 1135.12,
+      "text": "if you're trying to just make a model"
+    },
+    {
+      "start": 1133.84,
+      "end": 1136.88,
+      "text": "that's really good at math, it's"
+    },
+    {
+      "start": 1135.12,
+      "end": 1138.08,
+      "text": "actually not there's a lot of like"
+    },
+    {
+      "start": 1136.88,
+      "end": 1139.52,
+      "text": "answers out there. There's a lot of"
+    },
+    {
+      "start": 1138.08,
+      "end": 1141.12,
+      "text": "problems you can do where you're clear"
+    },
+    {
+      "start": 1139.52,
+      "end": 1142.88,
+      "text": "answers. But when you have these things"
+    },
+    {
+      "start": 1141.12,
+      "end": 1145.28,
+      "text": "that are so subjective and it's really"
+    },
+    {
+      "start": 1142.88,
+      "end": 1147.28,
+      "text": "dependent on the context and the user"
+    },
+    {
+      "start": 1145.28,
+      "end": 1149.12,
+      "text": "and how to like what is the actual best"
+    },
+    {
+      "start": 1147.28,
+      "end": 1150.64,
+      "text": "ideal answer here and so I'm really"
+    },
+    {
+      "start": 1149.12,
+      "end": 1151.68,
+      "text": "excited for a lot of this type of work."
+    },
+    {
+      "start": 1150.64,
+      "end": 1154.0,
+      "text": ">> Yeah, it's cool."
+    },
+    {
+      "start": 1151.68,
+      "end": 1155.52,
+      "text": ">> I remember early on people would say ah"
+    },
+    {
+      "start": 1154.0,
+      "end": 1157.36,
+      "text": "it doesn't write so well. I'm like it's"
+    },
+    {
+      "start": 1155.52,
+      "end": 1159.6,
+      "text": "probably writing as well as the average"
+    },
+    {
+      "start": 1157.36,
+      "end": 1161.76,
+      "text": "person in some of these online forums."
+    },
+    {
+      "start": 1159.6,
+      "end": 1163.2,
+      "text": "And then now it seems like it's just"
+    },
+    {
+      "start": 1161.76,
+      "end": 1164.72,
+      "text": "improved considerably."
+    },
+    {
+      "start": 1163.2,
+      "end": 1166.64,
+      "text": ">> Yeah. And even if you don't notice it on"
+    },
+    {
+      "start": 1164.72,
+      "end": 1169.44,
+      "text": "your first prompt, um it might be just"
+    },
+    {
+      "start": 1166.64,
+      "end": 1170.72,
+      "text": "asking it to change how it um writes."
+    },
+    {
+      "start": 1169.44,
+      "end": 1172.8,
+      "text": "And I think that's like also something"
+    },
+    {
+      "start": 1170.72,
+      "end": 1174.8,
+      "text": "we need to work on is kind of finding a"
+    },
+    {
+      "start": 1172.8,
+      "end": 1176.64,
+      "text": "way in chatbt to like tease out these"
+    },
+    {
+      "start": 1174.8,
+      "end": 1177.92,
+      "text": "like extended capabilities with each"
+    },
+    {
+      "start": 1176.64,
+      "end": 1181.12,
+      "text": "launch. Yeah."
+    },
+    {
+      "start": 1177.92,
+      "end": 1182.64,
+      "text": ">> Where would you like to see"
+    },
+    {
+      "start": 1181.12,
+      "end": 1185.2,
+      "text": "behavior going in the future? How"
+    },
+    {
+      "start": 1182.64,
+      "end": 1187.2,
+      "text": "customizable would you like to make it?"
+    },
+    {
+      "start": 1185.2,
+      "end": 1189.2,
+      "text": ">> Yeah. Yeah, with the five um one launch"
+    },
+    {
+      "start": 1187.2,
+      "end": 1191.28,
+      "text": "um there's a lot of work with trying to"
+    },
+    {
+      "start": 1189.2,
+      "end": 1192.64,
+      "text": "give custom personalities to folks. Um"
+    },
+    {
+      "start": 1191.28,
+      "end": 1194.64,
+      "text": "and I think this is actually like a"
+    },
+    {
+      "start": 1192.64,
+      "end": 1196.56,
+      "text": "really good step forward. We have over"
+    },
+    {
+      "start": 1194.64,
+      "end": 1197.92,
+      "text": "800 million like a weekly active users"
+    },
+    {
+      "start": 1196.56,
+      "end": 1200.08,
+      "text": "now. And I just think like there's no"
+    },
+    {
+      "start": 1197.92,
+      "end": 1201.84,
+      "text": "way that one model personality, however"
+    },
+    {
+      "start": 1200.08,
+      "end": 1204.08,
+      "text": "you want to define personality, can"
+    },
+    {
+      "start": 1201.84,
+      "end": 1205.68,
+      "text": "actually be what um can service all"
+    },
+    {
+      "start": 1204.08,
+      "end": 1207.44,
+      "text": "those people. So I think we do want to"
+    },
+    {
+      "start": 1205.68,
+      "end": 1208.8,
+      "text": "be in a world where people and as the"
+    },
+    {
+      "start": 1207.44,
+      "end": 1210.16,
+      "text": "models get much smarter, they are just"
+    },
+    {
+      "start": 1208.8,
+      "end": 1211.44,
+      "text": "way more steerable. So like you should"
+    },
+    {
+      "start": 1210.16,
+      "end": 1213.04,
+      "text": "be able to get the experience that you"
+    },
+    {
+      "start": 1211.44,
+      "end": 1215.44,
+      "text": "want with chat."
+    },
+    {
+      "start": 1213.04,
+      "end": 1217.28,
+      "text": ">> Yeah. I think of this as like how can we"
+    },
+    {
+      "start": 1215.44,
+      "end": 1219.04,
+      "text": "put the right features in front of users"
+    },
+    {
+      "start": 1217.28,
+      "end": 1221.28,
+      "text": "to help them steer these models to the"
+    },
+    {
+      "start": 1219.04,
+      "end": 1222.64,
+      "text": "level of customization they want. I"
+    },
+    {
+      "start": 1221.28,
+      "end": 1224.24,
+      "text": "think the personality work that we're"
+    },
+    {
+      "start": 1222.64,
+      "end": 1226.48,
+      "text": "doing right now is a first step. We'll"
+    },
+    {
+      "start": 1224.24,
+      "end": 1228.32,
+      "text": "test, we'll iterate, we'll learn. Um but"
+    },
+    {
+      "start": 1226.48,
+      "end": 1229.76,
+      "text": "there's so much to it. I like sorry just"
+    },
+    {
+      "start": 1228.32,
+      "end": 1232.16,
+      "text": "another anecdote but I remember my"
+    },
+    {
+      "start": 1229.76,
+      "end": 1235.68,
+      "text": "brother using um pro for the first time"
+    },
+    {
+      "start": 1232.16,
+      "end": 1238.0,
+      "text": "and he's a PhD in like biochemical"
+    },
+    {
+      "start": 1235.68,
+      "end": 1239.12,
+      "text": "research and he gave it a prompt and"
+    },
+    {
+      "start": 1238.0,
+      "end": 1240.4,
+      "text": "he's like ah this is like what an"
+    },
+    {
+      "start": 1239.12,
+      "end": 1241.76,
+      "text": "undergrad would answer with and I was"
+    },
+    {
+      "start": 1240.4,
+      "end": 1243.44,
+      "text": "like can you tell it that you are a"
+    },
+    {
+      "start": 1241.76,
+      "end": 1245.44,
+      "text": "frontier researcher in this lab using"
+    },
+    {
+      "start": 1243.44,
+      "end": 1247.76,
+      "text": "these sorts of tools on this sort of"
+    },
+    {
+      "start": 1245.44,
+      "end": 1250.0,
+      "text": "science and to respond at your academic"
+    },
+    {
+      "start": 1247.76,
+      "end": 1251.28,
+      "text": "level and he did and he's like oh my god"
+    },
+    {
+      "start": 1250.0,
+      "end": 1252.8,
+      "text": "um the model just proposed something"
+    },
+    {
+      "start": 1251.28,
+      "end": 1254.72,
+      "text": "that my lab just broke through with two"
+    },
+    {
+      "start": 1252.8,
+      "end": 1256.8,
+      "text": "weeks ago but hasn't published yet and"
+    },
+    {
+      "start": 1254.72,
+      "end": 1258.56,
+      "text": "so like these models are insanely"
+    },
+    {
+      "start": 1256.8,
+      "end": 1260.48,
+      "text": "powerful ful, but just knowing how to"
+    },
+    {
+      "start": 1258.56,
+      "end": 1262.88,
+      "text": "customize it even at that level, which"
+    },
+    {
+      "start": 1260.48,
+      "end": 1264.56,
+      "text": "was just him opening the opening prompt,"
+    },
+    {
+      "start": 1262.88,
+      "end": 1266.72,
+      "text": "um, can be so powerful. And I don't know"
+    },
+    {
+      "start": 1264.56,
+      "end": 1269.28,
+      "text": "that humanity has figured that out yet."
+    },
+    {
+      "start": 1266.72,
+      "end": 1270.96,
+      "text": "And so whether it's personality steering"
+    },
+    {
+      "start": 1269.28,
+      "end": 1273.84,
+      "text": "or whatever other tools we need to like"
+    },
+    {
+      "start": 1270.96,
+      "end": 1275.28,
+      "text": "put into chat GPT to help advance human"
+    },
+    {
+      "start": 1273.84,
+      "end": 1276.48,
+      "text": "understanding of these models and how to"
+    },
+    {
+      "start": 1275.28,
+      "end": 1278.64,
+      "text": "get the most out of them. I think that's"
+    },
+    {
+      "start": 1276.48,
+      "end": 1280.08,
+      "text": "like the task ahead for us. On a"
+    },
+    {
+      "start": 1278.64,
+      "end": 1282.16,
+      "text": "previous episode, I talked to Kevin"
+    },
+    {
+      "start": 1280.08,
+      "end": 1284.4,
+      "text": "Wheel, who was heading up OpenAI for"
+    },
+    {
+      "start": 1282.16,
+      "end": 1286.32,
+      "text": "science, and Alex Luchska, who's a"
+    },
+    {
+      "start": 1284.4,
+      "end": 1288.56,
+      "text": "scientist working with OpenAI and also a"
+    },
+    {
+      "start": 1286.32,
+      "end": 1289.76,
+      "text": "professor at Vanderbilt, and he went"
+    },
+    {
+      "start": 1288.56,
+      "end": 1291.28,
+      "text": "through sort of the same experience,"
+    },
+    {
+      "start": 1289.76,
+      "end": 1292.48,
+      "text": "talking about how if you gave it a"
+    },
+    {
+      "start": 1291.28,
+      "end": 1293.68,
+      "text": "little bit of priming, then all of a"
+    },
+    {
+      "start": 1292.48,
+      "end": 1295.6,
+      "text": "sudden the model became much more"
+    },
+    {
+      "start": 1293.68,
+      "end": 1297.28,
+      "text": "capable in doing those fields. And"
+    },
+    {
+      "start": 1295.6,
+      "end": 1298.8,
+      "text": "that's kind of what prompt engineering"
+    },
+    {
+      "start": 1297.28,
+      "end": 1300.32,
+      "text": "was. Prompt engineering was trying to"
+    },
+    {
+      "start": 1298.8,
+      "end": 1302.56,
+      "text": "figure out how to steer a base model."
+    },
+    {
+      "start": 1300.32,
+      "end": 1304.08,
+      "text": "And over time, once we understood that"
+    },
+    {
+      "start": 1302.56,
+      "end": 1306.16,
+      "text": "people were trying to do those tasks,"
+    },
+    {
+      "start": 1304.08,
+      "end": 1308.32,
+      "text": "you could train a model to then not have"
+    },
+    {
+      "start": 1306.16,
+      "end": 1309.36,
+      "text": "to expect that first part of it. Do you"
+    },
+    {
+      "start": 1308.32,
+      "end": 1310.64,
+      "text": "think that we're going to be moving into"
+    },
+    {
+      "start": 1309.36,
+      "end": 1312.24,
+      "text": "that phase now where you're not going to"
+    },
+    {
+      "start": 1310.64,
+      "end": 1313.36,
+      "text": "have to tell it you're a grad student"
+    },
+    {
+      "start": 1312.24,
+      "end": 1314.96,
+      "text": "and do this?"
+    },
+    {
+      "start": 1313.36,
+      "end": 1316.8,
+      "text": ">> I think so. Especially now with more"
+    },
+    {
+      "start": 1314.96,
+      "end": 1318.4,
+      "text": "things like with model having more like"
+    },
+    {
+      "start": 1316.8,
+      "end": 1319.84,
+      "text": "memories of what you are, like who you"
+    },
+    {
+      "start": 1318.4,
+      "end": 1322.08,
+      "text": "are in your context. And I think as"
+    },
+    {
+      "start": 1319.84,
+      "end": 1323.6,
+      "text": "models get more intelligent, I think the"
+    },
+    {
+      "start": 1322.08,
+      "end": 1325.04,
+      "text": "model should be able to infer all these"
+    },
+    {
+      "start": 1323.6,
+      "end": 1326.48,
+      "text": "things and like be able to talk to you"
+    },
+    {
+      "start": 1325.04,
+      "end": 1327.6,
+      "text": "in the way that makes sense like for"
+    },
+    {
+      "start": 1326.48,
+      "end": 1329.2,
+      "text": "your expertise."
+    },
+    {
+      "start": 1327.6,
+      "end": 1330.56,
+      "text": ">> That's right. Yeah. So some of it's a"
+    },
+    {
+      "start": 1329.2,
+      "end": 1332.56,
+      "text": "lot of it I think should actually be"
+    },
+    {
+      "start": 1330.56,
+      "end": 1334.56,
+      "text": "like these like inferred things. I think"
+    },
+    {
+      "start": 1332.56,
+      "end": 1337.44,
+      "text": "there's probably some level of like"
+    },
+    {
+      "start": 1334.56,
+      "end": 1340.08,
+      "text": "steerability. Maybe it's just I think"
+    },
+    {
+      "start": 1337.44,
+      "end": 1341.36,
+      "text": "from and this is just my own PM take. I"
+    },
+    {
+      "start": 1340.08,
+      "end": 1342.8,
+      "text": "don't know that every PM would agree"
+    },
+    {
+      "start": 1341.36,
+      "end": 1344.88,
+      "text": "with me, but I think users should always"
+    },
+    {
+      "start": 1342.8,
+      "end": 1346.24,
+      "text": "sort of know what it is we're inferring"
+    },
+    {
+      "start": 1344.88,
+      "end": 1347.52,
+      "text": "about them and how it's steering the"
+    },
+    {
+      "start": 1346.24,
+      "end": 1350.08,
+      "text": "model. So they can always go back and"
+    },
+    {
+      "start": 1347.52,
+      "end": 1351.52,
+      "text": "have the tools to change things. Um so"
+    },
+    {
+      "start": 1350.08,
+      "end": 1352.96,
+      "text": "for example, you can turn it on on and"
+    },
+    {
+      "start": 1351.52,
+      "end": 1354.56,
+      "text": "off memories or delete them in the"
+    },
+    {
+      "start": 1352.96,
+      "end": 1356.4,
+      "text": "settings panel. And I think there's"
+    },
+    {
+      "start": 1354.56,
+      "end": 1359.04,
+      "text": "something really cool about both being"
+    },
+    {
+      "start": 1356.4,
+      "end": 1360.8,
+      "text": "able to infer what users really want and"
+    },
+    {
+      "start": 1359.04,
+      "end": 1362.08,
+      "text": "solving that problem proactively for"
+    },
+    {
+      "start": 1360.8,
+      "end": 1364.24,
+      "text": "them so they don't have to prompt for"
+    },
+    {
+      "start": 1362.08,
+      "end": 1365.52,
+      "text": "it, but also making sure the user is"
+    },
+    {
+      "start": 1364.24,
+      "end": 1368.32,
+      "text": "always in control and we're not just"
+    },
+    {
+      "start": 1365.52,
+      "end": 1370.08,
+      "text": "like inferring everything blindly. So"
+    },
+    {
+      "start": 1368.32,
+      "end": 1371.36,
+      "text": ">> could you explain a little bit about how"
+    },
+    {
+      "start": 1370.08,
+      "end": 1373.52,
+      "text": "memory works?"
+    },
+    {
+      "start": 1371.36,
+      "end": 1376.0,
+      "text": ">> Yeah. So memory is basically the model"
+    },
+    {
+      "start": 1373.52,
+      "end": 1377.84,
+      "text": "will write down things um it knows about"
+    },
+    {
+      "start": 1376.0,
+      "end": 1380.48,
+      "text": "you um based on its conversations with"
+    },
+    {
+      "start": 1377.84,
+      "end": 1381.92,
+      "text": "you um for it to refer to later. So this"
+    },
+    {
+      "start": 1380.48,
+      "end": 1383.28,
+      "text": "is really nice because then you're not"
+    },
+    {
+      "start": 1381.92,
+      "end": 1385.04,
+      "text": "just repeating yourself every time."
+    },
+    {
+      "start": 1383.28,
+      "end": 1387.6,
+      "text": "You're not saying I'm Laurentia. I'm a"
+    },
+    {
+      "start": 1385.04,
+      "end": 1388.48,
+      "text": "PM at OpenAI. I work comple behavior. It"
+    },
+    {
+      "start": 1387.6,
+      "end": 1389.68,
+      "text": "already knows this because you've"
+    },
+    {
+      "start": 1388.48,
+      "end": 1391.36,
+      "text": "already said this to it. And so then it"
+    },
+    {
+      "start": 1389.68,
+      "end": 1393.52,
+      "text": "can actually just use that information"
+    },
+    {
+      "start": 1391.36,
+      "end": 1395.92,
+      "text": "in future conversations. And also it"
+    },
+    {
+      "start": 1393.52,
+      "end": 1397.52,
+      "text": "helps it think through its answers for"
+    },
+    {
+      "start": 1395.92,
+      "end": 1399.28,
+      "text": "when it responds to you. It has that"
+    },
+    {
+      "start": 1397.52,
+      "end": 1401.12,
+      "text": "context. And I think that really grounds"
+    },
+    {
+      "start": 1399.28,
+      "end": 1402.56,
+      "text": "its answer in being the most useful"
+    },
+    {
+      "start": 1401.12,
+      "end": 1405.68,
+      "text": "response for you. Mhm."
+    },
+    {
+      "start": 1402.56,
+      "end": 1407.36,
+      "text": ">> I have uh pulse which has been amazing"
+    },
+    {
+      "start": 1405.68,
+      "end": 1410.08,
+      "text": "and I get every morning I get little"
+    },
+    {
+      "start": 1407.36,
+      "end": 1412.08,
+      "text": "updates and because of memory it's"
+    },
+    {
+      "start": 1410.08,
+      "end": 1413.52,
+      "text": "following the conversations I have and"
+    },
+    {
+      "start": 1412.08,
+      "end": 1415.76,
+      "text": "it creates these little t custom"
+    },
+    {
+      "start": 1413.52,
+      "end": 1416.96,
+      "text": "articles for me. It's pulling research"
+    },
+    {
+      "start": 1415.76,
+      "end": 1418.48,
+      "text": "and pulling other things and showing"
+    },
+    {
+      "start": 1416.96,
+      "end": 1420.4,
+      "text": "things to me and it's just one of the"
+    },
+    {
+      "start": 1418.48,
+      "end": 1422.08,
+      "text": "things I never really thought would be a"
+    },
+    {
+      "start": 1420.4,
+      "end": 1423.52,
+      "text": "great advantage of having memory and now"
+    },
+    {
+      "start": 1422.08,
+      "end": 1424.88,
+      "text": "I see it's not just when I'm out of a"
+    },
+    {
+      "start": 1423.52,
+      "end": 1426.8,
+      "text": "conversation but it's proactively"
+    },
+    {
+      "start": 1424.88,
+      "end": 1429.52,
+      "text": "finding things for me based on it. It's"
+    },
+    {
+      "start": 1426.8,
+      "end": 1431.2,
+      "text": "pretty cool. Yeah, I think that's um so"
+    },
+    {
+      "start": 1429.52,
+      "end": 1433.04,
+      "text": "neither of us like work directly on that"
+    },
+    {
+      "start": 1431.2,
+      "end": 1436.24,
+      "text": "feature, but I think what's cool is"
+    },
+    {
+      "start": 1433.04,
+      "end": 1437.6,
+      "text": "seeing how the work that we do upstream,"
+    },
+    {
+      "start": 1436.24,
+      "end": 1439.04,
+      "text": "whether it's like building great models"
+    },
+    {
+      "start": 1437.6,
+      "end": 1441.6,
+      "text": "or shaping evals around like the"
+    },
+    {
+      "start": 1439.04,
+      "end": 1444.48,
+      "text": "capabilities we want can actually allow"
+    },
+    {
+      "start": 1441.6,
+      "end": 1446.32,
+      "text": "our uh chatgbt team to go out and build"
+    },
+    {
+      "start": 1444.48,
+      "end": 1449.2,
+      "text": "these great features that articulate the"
+    },
+    {
+      "start": 1446.32,
+      "end": 1451.92,
+      "text": "power of our models. So yes, they can"
+    },
+    {
+      "start": 1449.2,
+      "end": 1453.92,
+      "text": "like learn um your preferences, habits,"
+    },
+    {
+      "start": 1451.92,
+      "end": 1455.6,
+      "text": "yes, they can craft great stories for"
+    },
+    {
+      "start": 1453.92,
+      "end": 1457.6,
+      "text": "you or find great information based on"
+    },
+    {
+      "start": 1455.6,
+      "end": 1459.6,
+      "text": "your interests. And this is this sort of"
+    },
+    {
+      "start": 1457.6,
+      "end": 1462.24,
+      "text": "proactive feature is one way of helping"
+    },
+    {
+      "start": 1459.6,
+      "end": 1463.68,
+      "text": "users get the most out of these models."
+    },
+    {
+      "start": 1462.24,
+      "end": 1465.84,
+      "text": ">> It seems like yeah that's becoming a"
+    },
+    {
+      "start": 1463.68,
+      "end": 1468.24,
+      "text": "very interesting way to make the models"
+    },
+    {
+      "start": 1465.84,
+      "end": 1470.0,
+      "text": "more personal. And when I use something"
+    },
+    {
+      "start": 1468.24,
+      "end": 1471.92,
+      "text": "in a mode where it doesn't have memory"
+    },
+    {
+      "start": 1470.0,
+      "end": 1473.68,
+      "text": "does feel different. It does feel very"
+    },
+    {
+      "start": 1471.92,
+      "end": 1475.44,
+      "text": "you know cold start and it's like well"
+    },
+    {
+      "start": 1473.68,
+      "end": 1477.68,
+      "text": "hello how are you? And I'm like oh where"
+    },
+    {
+      "start": 1475.44,
+      "end": 1479.2,
+      "text": "are you having this conversation? Is"
+    },
+    {
+      "start": 1477.68,
+      "end": 1480.56,
+      "text": "this one of the challenges though when"
+    },
+    {
+      "start": 1479.2,
+      "end": 1482.16,
+      "text": "people are telling you hey something"
+    },
+    {
+      "start": 1480.56,
+      "end": 1484.32,
+      "text": "feels different is that they can't quite"
+    },
+    {
+      "start": 1482.16,
+      "end": 1486.4,
+      "text": "articulate. Yeah, the hardest feedback"
+    },
+    {
+      "start": 1484.32,
+      "end": 1488.24,
+      "text": "is, I guess, an anecdote and the next"
+    },
+    {
+      "start": 1486.4,
+      "end": 1491.12,
+      "text": "hardest feedback is a screenshot of a"
+    },
+    {
+      "start": 1488.24,
+      "end": 1492.96,
+      "text": "chat because none of that metadata is"
+    },
+    {
+      "start": 1491.12,
+      "end": 1494.64,
+      "text": "really attached to tell us where things"
+    },
+    {
+      "start": 1492.96,
+      "end": 1496.96,
+      "text": "have gone wrong. So, I actually love the"
+    },
+    {
+      "start": 1494.64,
+      "end": 1498.8,
+      "text": "share feature in chat GPT. When we have"
+    },
+    {
+      "start": 1496.96,
+      "end": 1500.64,
+      "text": "one of those links on our side, we can"
+    },
+    {
+      "start": 1498.8,
+      "end": 1503.12,
+      "text": "inspect it and see like what sort of"
+    },
+    {
+      "start": 1500.64,
+      "end": 1505.28,
+      "text": "context did the model have going into"
+    },
+    {
+      "start": 1503.12,
+      "end": 1508.08,
+      "text": "this um and what was going on. So, we"
+    },
+    {
+      "start": 1505.28,
+      "end": 1509.68,
+      "text": "can sort of debug that user feedback."
+    },
+    {
+      "start": 1508.08,
+      "end": 1511.28,
+      "text": ">> That's a great point because I've had"
+    },
+    {
+      "start": 1509.68,
+      "end": 1512.64,
+      "text": "people ask me like, \"Hey, it, you know,"
+    },
+    {
+      "start": 1511.28,
+      "end": 1514.0,
+      "text": "the thing didn't answer it right.\" I'm"
+    },
+    {
+      "start": 1512.64,
+      "end": 1515.92,
+      "text": "like, \"What model?\" Like, \"I was using"
+    },
+    {
+      "start": 1514.0,
+      "end": 1517.92,
+      "text": "chat GPT.\" And I'm like,"
+    },
+    {
+      "start": 1515.92,
+      "end": 1519.68,
+      "text": ">> \"Okay.\" Uh, we need to kind of dive into"
+    },
+    {
+      "start": 1517.92,
+      "end": 1521.04,
+      "text": "that a little bit. And I guess going as"
+    },
+    {
+      "start": 1519.68,
+      "end": 1522.64,
+      "text": "far as sharing the feedback or sharing"
+    },
+    {
+      "start": 1521.04,
+      "end": 1523.92,
+      "text": "the whole conversation probably makes"
+    },
+    {
+      "start": 1522.64,
+      "end": 1526.0,
+      "text": "more sense."
+    },
+    {
+      "start": 1523.92,
+      "end": 1527.36,
+      "text": ">> Um, what are you most excited about"
+    },
+    {
+      "start": 1526.0,
+      "end": 1529.28,
+      "text": "going forward?"
+    },
+    {
+      "start": 1527.36,
+      "end": 1533.12,
+      "text": ">> I think these models are just so"
+    },
+    {
+      "start": 1529.28,
+      "end": 1535.52,
+      "text": "incredibly capable. Like, um, they can"
+    },
+    {
+      "start": 1533.12,
+      "end": 1537.44,
+      "text": "do so much and I can't wait to see what"
+    },
+    {
+      "start": 1535.52,
+      "end": 1539.92,
+      "text": "people build with them. I can't wait to"
+    },
+    {
+      "start": 1537.44,
+      "end": 1542.16,
+      "text": "see what comes next in like the chat GPT"
+    },
+    {
+      "start": 1539.92,
+      "end": 1544.4,
+      "text": "app. I see so much opportunity. I think"
+    },
+    {
+      "start": 1542.16,
+      "end": 1546.08,
+      "text": "just in general people are starting to"
+    },
+    {
+      "start": 1544.4,
+      "end": 1548.0,
+      "text": "really like wake up and see what you can"
+    },
+    {
+      "start": 1546.08,
+      "end": 1550.48,
+      "text": "do. So that's what excites me. Yeah. I"
+    },
+    {
+      "start": 1548.0,
+      "end": 1552.8,
+      "text": "don't want to like tease too much. Yeah."
+    },
+    {
+      "start": 1550.48,
+      "end": 1554.8,
+      "text": ">> Yeah. I'm pretty excited that I I forget"
+    },
+    {
+      "start": 1552.8,
+      "end": 1556.48,
+      "text": "who tweeted this but intelligence too"
+    },
+    {
+      "start": 1554.8,
+      "end": 1557.12,
+      "text": "cheap to meter. Like I think like we"
+    },
+    {
+      "start": 1556.48,
+      "end": 1558.96,
+      "text": "just"
+    },
+    {
+      "start": 1557.12,
+      "end": 1560.96,
+      "text": ">> got to have such incredibly smart models"
+    },
+    {
+      "start": 1558.96,
+      "end": 1562.4,
+      "text": "out for people and I think I've always"
+    },
+    {
+      "start": 1560.96,
+      "end": 1564.08,
+      "text": "said this even when we first launched"
+    },
+    {
+      "start": 1562.4,
+      "end": 1565.92,
+      "text": "chat like this is just one form factor"
+    },
+    {
+      "start": 1564.08,
+      "end": 1567.12,
+      "text": "of it right like with these smart models"
+    },
+    {
+      "start": 1565.92,
+      "end": 1568.88,
+      "text": "there's so many things that could be"
+    },
+    {
+      "start": 1567.12,
+      "end": 1570.64,
+      "text": "possible. So, like like Len is saying,"
+    },
+    {
+      "start": 1568.88,
+      "end": 1572.4,
+      "text": "I'm also quite excited for a lot of the"
+    },
+    {
+      "start": 1570.64,
+      "end": 1573.92,
+      "text": "different new product explorations that"
+    },
+    {
+      "start": 1572.4,
+      "end": 1576.16,
+      "text": "we'll have with these like smarter"
+    },
+    {
+      "start": 1573.92,
+      "end": 1578.96,
+      "text": "models. Um, cuz I think we're kind of"
+    },
+    {
+      "start": 1576.16,
+      "end": 1580.8,
+      "text": "saw this with like the progress of LLMs"
+    },
+    {
+      "start": 1578.96,
+      "end": 1582.48,
+      "text": "that as soon as we get smarter models,"
+    },
+    {
+      "start": 1580.8,
+      "end": 1584.08,
+      "text": "it kind of unlocks new use cases, right?"
+    },
+    {
+      "start": 1582.48,
+      "end": 1585.68,
+      "text": "And then I think"
+    },
+    {
+      "start": 1584.08,
+      "end": 1587.84,
+      "text": ">> with new use cases should be new form"
+    },
+    {
+      "start": 1585.68,
+      "end": 1589.92,
+      "text": "factor. So, pretty excited about that."
+    },
+    {
+      "start": 1587.84,
+      "end": 1591.2,
+      "text": ">> What advice do you have for users to get"
+    },
+    {
+      "start": 1589.92,
+      "end": 1592.96,
+      "text": "the best experience?"
+    },
+    {
+      "start": 1591.2,
+      "end": 1595.76,
+      "text": ">> Mine is I tell this to people all the"
+    },
+    {
+      "start": 1592.96,
+      "end": 1597.36,
+      "text": "time. Try have your super hard"
+    },
+    {
+      "start": 1595.76,
+      "end": 1599.52,
+      "text": "questions, things you know really well."
+    },
+    {
+      "start": 1597.36,
+      "end": 1601.6,
+      "text": "I used to be a ski racer. I have a lot"
+    },
+    {
+      "start": 1599.52,
+      "end": 1603.2,
+      "text": "of opinions about like how to ski really"
+    },
+    {
+      "start": 1601.6,
+      "end": 1605.12,
+      "text": "really well. And I love to pressure test"
+    },
+    {
+      "start": 1603.2,
+      "end": 1607.36,
+      "text": "the model on that to see how it's"
+    },
+    {
+      "start": 1605.12,
+      "end": 1609.04,
+      "text": "changing and improving. And the thing is"
+    },
+    {
+      "start": 1607.36,
+      "end": 1611.68,
+      "text": "like we're shipping updates all the"
+    },
+    {
+      "start": 1609.04,
+      "end": 1613.6,
+      "text": "time. And so it's so easy to say, \"Yeah,"
+    },
+    {
+      "start": 1611.68,
+      "end": 1614.8,
+      "text": "I heard it's great for co coding. It"
+    },
+    {
+      "start": 1613.6,
+      "end": 1616.48,
+      "text": "didn't work.\" Or, \"I heard it can help"
+    },
+    {
+      "start": 1614.8,
+      "end": 1618.4,
+      "text": "me build an app, but I tried and it"
+    },
+    {
+      "start": 1616.48,
+      "end": 1619.92,
+      "text": "didn't work.\" That might be true today,"
+    },
+    {
+      "start": 1618.4,
+      "end": 1621.36,
+      "text": "but in 3 months it could be a totally"
+    },
+    {
+      "start": 1619.92,
+      "end": 1623.28,
+      "text": "different landscape for that user. And"
+    },
+    {
+      "start": 1621.36,
+      "end": 1625.44,
+      "text": "so just keep at it, keep playing, keep"
+    },
+    {
+      "start": 1623.28,
+      "end": 1626.96,
+      "text": "trying. Um, that's the best way to like"
+    },
+    {
+      "start": 1625.44,
+      "end": 1628.64,
+      "text": "get the most out of these models."
+    },
+    {
+      "start": 1626.96,
+      "end": 1630.56,
+      "text": ">> You can also ask the model to help you"
+    },
+    {
+      "start": 1628.64,
+      "end": 1631.04,
+      "text": "come up with a better prompt. Great"
+    },
+    {
+      "start": 1630.56,
+      "end": 1633.36,
+      "text": "points,"
+    },
+    {
+      "start": 1631.04,
+      "end": 1635.2,
+      "text": ">> which I suggest to my parents."
+    },
+    {
+      "start": 1633.36,
+      "end": 1636.56,
+      "text": ">> It's gotten a lot better at that. It"
+    },
+    {
+      "start": 1635.2,
+      "end": 1637.68,
+      "text": "used to be you'd ask it, \"How would I"
+    },
+    {
+      "start": 1636.56,
+      "end": 1639.68,
+      "text": "prompt it?\" And the model would kind of"
+    },
+    {
+      "start": 1637.68,
+      "end": 1640.88,
+      "text": "take a guess like I guess so, but having"
+    },
+    {
+      "start": 1639.68,
+      "end": 1641.68,
+      "text": "seen so many examples."
+    },
+    {
+      "start": 1640.88,
+      "end": 1642.88,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1641.68,
+      "end": 1644.56,
+      "text": ">> Yeah. I'm always just trying to figure"
+    },
+    {
+      "start": 1642.88,
+      "end": 1646.0,
+      "text": "out what are the best questions I could"
+    },
+    {
+      "start": 1644.56,
+      "end": 1648.24,
+      "text": "be asking. I'll ask it like what"
+    },
+    {
+      "start": 1646.0,
+      "end": 1650.8,
+      "text": "questions should I be asking you to get"
+    },
+    {
+      "start": 1648.24,
+      "end": 1652.24,
+      "text": "the most out of it. deeply personal"
+    },
+    {
+      "start": 1650.8,
+      "end": 1654.08,
+      "text": "question. You don't have to answer it."
+    },
+    {
+      "start": 1652.24,
+      "end": 1656.0,
+      "text": "It'll be really awkward if you don't."
+    },
+    {
+      "start": 1654.08,
+      "end": 1659.04,
+      "text": ">> What is your style or personality choice"
+    },
+    {
+      "start": 1656.0,
+      "end": 1660.64,
+      "text": "that you've set for chat GPT?"
+    },
+    {
+      "start": 1659.04,
+      "end": 1662.16,
+      "text": ">> I mean, I'm biased, but I just have it"
+    },
+    {
+      "start": 1660.64,
+      "end": 1664.72,
+      "text": "on the default. I mean, it's what we"
+    },
+    {
+      "start": 1662.16,
+      "end": 1666.64,
+      "text": "train. So,"
+    },
+    {
+      "start": 1664.72,
+      "end": 1667.92,
+      "text": ">> uh for me, I so I switch through them"
+    },
+    {
+      "start": 1666.64,
+      "end": 1670.24,
+      "text": "all the time, and I think that's like"
+    },
+    {
+      "start": 1667.92,
+      "end": 1671.84,
+      "text": "just a nature of my work. Um I want to"
+    },
+    {
+      "start": 1670.24,
+      "end": 1673.76,
+      "text": "understand how all these different"
+    },
+    {
+      "start": 1671.84,
+      "end": 1675.68,
+      "text": "settings feel and uh for all of our"
+    },
+    {
+      "start": 1673.76,
+      "end": 1678.08,
+      "text": "users, and so I feel like every second"
+    },
+    {
+      "start": 1675.68,
+      "end": 1681.52,
+      "text": "day I'm trying something different. That"
+    },
+    {
+      "start": 1678.08,
+      "end": 1683.92,
+      "text": "said, um I think the one that just makes"
+    },
+    {
+      "start": 1681.52,
+      "end": 1686.48,
+      "text": "me happy to talk to is probably a"
+    },
+    {
+      "start": 1683.92,
+      "end": 1688.72,
+      "text": "combination of nerd, which is sort of"
+    },
+    {
+      "start": 1686.48,
+      "end": 1690.96,
+      "text": "like a very exploratory response style"
+    },
+    {
+      "start": 1688.72,
+      "end": 1693.76,
+      "text": "from the model. It likes to um like"
+    },
+    {
+      "start": 1690.96,
+      "end": 1695.6,
+      "text": "unpack things. And then I'm from Alberta"
+    },
+    {
+      "start": 1693.76,
+      "end": 1697.44,
+      "text": "and maybe it's just me. That's um a"
+    },
+    {
+      "start": 1695.6,
+      "end": 1699.76,
+      "text": "province in Canada. It's like the Texas"
+    },
+    {
+      "start": 1697.44,
+      "end": 1701.36,
+      "text": "of Canada. And I grew up with like"
+    },
+    {
+      "start": 1699.76,
+      "end": 1702.88,
+      "text": "horses and cows. And so I think there's"
+    },
+    {
+      "start": 1701.36,
+      "end": 1706.64,
+      "text": "some part of me that likes getting it to"
+    },
+    {
+      "start": 1702.88,
+      "end": 1708.24,
+      "text": "talk to me like a country Albertan,"
+    },
+    {
+      "start": 1706.64,
+      "end": 1711.04,
+      "text": "which is great except for then when I go"
+    },
+    {
+      "start": 1708.24,
+      "end": 1713.04,
+      "text": "to like write a professional document uh"
+    },
+    {
+      "start": 1711.04,
+      "end": 1715.44,
+      "text": "and the model says like howdy. I'm like"
+    },
+    {
+      "start": 1713.04,
+      "end": 1717.76,
+      "text": "oh great like no let's take the take the"
+    },
+    {
+      "start": 1715.44,
+      "end": 1718.72,
+      "text": "Albertan out of the uh out of that PRD."
+    },
+    {
+      "start": 1717.76,
+      "end": 1722.24,
+      "text": "But yeah,"
+    },
+    {
+      "start": 1718.72,
+      "end": 1722.24,
+      "text": ">> very cool. Thank you so much."
+    }
+  ],
+  "word_count": 6403,
+  "fetched_at": "2025-12-21T02:19:30.749110Z"
+}

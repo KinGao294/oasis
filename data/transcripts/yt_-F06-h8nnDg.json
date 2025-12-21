@@ -1,0 +1,79 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "We have designed our reactors in a way where when you cut the power, the pumps, all the pumps stop spinning and then all the fluids will just drain out of the onion core and into the dump tanks at the bottom. When the pump stops, the liquid fuel drains immediately by gravity into tanks below. No intervention needed. The chain reaction ends on its own. The fuel salt cools safely in wide spread out tanks. And it seems safer even. Yeah, it's to me it it is more safe, but that can of course be debated.",
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 5.2,
+      "text": "We have designed our reactors in a way"
+    },
+    {
+      "start": 2.56,
+      "end": 7.68,
+      "text": "where when you cut the power, the pumps,"
+    },
+    {
+      "start": 5.2,
+      "end": 9.44,
+      "text": "all the pumps stop spinning and then all"
+    },
+    {
+      "start": 7.68,
+      "end": 11.28,
+      "text": "the fluids will just drain out of the"
+    },
+    {
+      "start": 9.44,
+      "end": 13.28,
+      "text": "onion core and into the dump tanks at"
+    },
+    {
+      "start": 11.28,
+      "end": 15.28,
+      "text": "the bottom. When the pump stops, the"
+    },
+    {
+      "start": 13.28,
+      "end": 17.52,
+      "text": "liquid fuel drains immediately by"
+    },
+    {
+      "start": 15.28,
+      "end": 19.76,
+      "text": "gravity into tanks below. No"
+    },
+    {
+      "start": 17.52,
+      "end": 22.48,
+      "text": "intervention needed. The chain reaction"
+    },
+    {
+      "start": 19.76,
+      "end": 26.16,
+      "text": "ends on its own. The fuel salt cools"
+    },
+    {
+      "start": 22.48,
+      "end": 28.8,
+      "text": "safely in wide spread out tanks. And it"
+    },
+    {
+      "start": 26.16,
+      "end": 31.04,
+      "text": "seems safer even. Yeah, it's to me it it"
+    },
+    {
+      "start": 28.8,
+      "end": 33.2,
+      "text": "is more safe, but that can of course be"
+    },
+    {
+      "start": 31.04,
+      "end": 33.2,
+      "text": "debated."
+    }
+  ],
+  "word_count": 97,
+  "fetched_at": "2025-12-21T02:20:01.205878Z"
+}

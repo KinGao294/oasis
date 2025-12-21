@@ -1,0 +1,174 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "Algorithms are hard to visualize and for me it's literally impossible. I have affantasia which means that I can't form mental images at all. But today I'm going to walk you through how I use codeex openi's agentic coding tool to build my very own algorithms visualizer website so I can finally see what my brain is unable to generate by itself. Step one, tell what to build. I asked Codeex to come up with a list of common algorithms and create a website with their visualizations. That's it. No need to specify languages or frameworks unless you have a preference. Step two, debug. When I ran the first version, some animations just weren't quite right, like merge sort. So then I fed Codex a rough sketch of what I actually wanted it to look like, and it implemented exactly that. Step three, personalize. I then asked Codex to sell my website, tweak the animations, and make the UI feel like something I'd be excited to use to study or teach. Step four, document. This is, of course, the part that most software engineers absolutely dread. Luckily, Codeex can do this for us. I asked it to organize my files, add meaningful comments, and generate maintainable docs so I can continue adding to it without making a mess.",
+  "segments": [
+    {
+      "start": 0.16,
+      "end": 4.24,
+      "text": "Algorithms are hard to visualize and for"
+    },
+    {
+      "start": 2.08,
+      "end": 6.32,
+      "text": "me it's literally impossible. I have"
+    },
+    {
+      "start": 4.24,
+      "end": 8.16,
+      "text": "affantasia which means that I can't form"
+    },
+    {
+      "start": 6.32,
+      "end": 9.28,
+      "text": "mental images at all. But today I'm"
+    },
+    {
+      "start": 8.16,
+      "end": 11.92,
+      "text": "going to walk you through how I use"
+    },
+    {
+      "start": 9.28,
+      "end": 13.84,
+      "text": "codeex openi's agentic coding tool to"
+    },
+    {
+      "start": 11.92,
+      "end": 15.76,
+      "text": "build my very own algorithms visualizer"
+    },
+    {
+      "start": 13.84,
+      "end": 17.68,
+      "text": "website so I can finally see what my"
+    },
+    {
+      "start": 15.76,
+      "end": 20.0,
+      "text": "brain is unable to generate by itself."
+    },
+    {
+      "start": 17.68,
+      "end": 21.6,
+      "text": "Step one, tell what to build. I asked"
+    },
+    {
+      "start": 20.0,
+      "end": 23.2,
+      "text": "Codeex to come up with a list of common"
+    },
+    {
+      "start": 21.6,
+      "end": 25.2,
+      "text": "algorithms and create a website with"
+    },
+    {
+      "start": 23.2,
+      "end": 27.12,
+      "text": "their visualizations. That's it. No need"
+    },
+    {
+      "start": 25.2,
+      "end": 28.96,
+      "text": "to specify languages or frameworks"
+    },
+    {
+      "start": 27.12,
+      "end": 30.88,
+      "text": "unless you have a preference. Step two,"
+    },
+    {
+      "start": 28.96,
+      "end": 32.48,
+      "text": "debug. When I ran the first version,"
+    },
+    {
+      "start": 30.88,
+      "end": 34.24,
+      "text": "some animations just weren't quite"
+    },
+    {
+      "start": 32.48,
+      "end": 35.84,
+      "text": "right, like merge sort. So then I fed"
+    },
+    {
+      "start": 34.24,
+      "end": 37.28,
+      "text": "Codex a rough sketch of what I actually"
+    },
+    {
+      "start": 35.84,
+      "end": 39.28,
+      "text": "wanted it to look like, and it"
+    },
+    {
+      "start": 37.28,
+      "end": 41.28,
+      "text": "implemented exactly that. Step three,"
+    },
+    {
+      "start": 39.28,
+      "end": 43.12,
+      "text": "personalize. I then asked Codex to sell"
+    },
+    {
+      "start": 41.28,
+      "end": 44.8,
+      "text": "my website, tweak the animations, and"
+    },
+    {
+      "start": 43.12,
+      "end": 46.88,
+      "text": "make the UI feel like something I'd be"
+    },
+    {
+      "start": 44.8,
+      "end": 49.04,
+      "text": "excited to use to study or teach. Step"
+    },
+    {
+      "start": 46.88,
+      "end": 50.4,
+      "text": "four, document. This is, of course, the"
+    },
+    {
+      "start": 49.04,
+      "end": 52.64,
+      "text": "part that most software engineers"
+    },
+    {
+      "start": 50.4,
+      "end": 54.56,
+      "text": "absolutely dread. Luckily, Codeex can do"
+    },
+    {
+      "start": 52.64,
+      "end": 56.24,
+      "text": "this for us. I asked it to organize my"
+    },
+    {
+      "start": 54.56,
+      "end": 58.0,
+      "text": "files, add meaningful comments, and"
+    },
+    {
+      "start": 56.24,
+      "end": 59.76,
+      "text": "generate maintainable docs so I can"
+    },
+    {
+      "start": 58.0,
+      "end": 61.84,
+      "text": "continue adding to it without making a"
+    },
+    {
+      "start": 59.76,
+      "end": 61.84,
+      "text": "mess."
+    }
+  ],
+  "word_count": 218,
+  "fetched_at": "2025-12-21T02:19:26.388699Z"
+}

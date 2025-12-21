@@ -1,0 +1,6034 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "I think increasingly we're finding ourselves betting on people [music] who are just great at building products and kind of trusting that maybe there's an opportunity that we can't [music] see that this person can through the opportunity of AI. The hardest thing with consumer is not only identifying the trend and the team but getting the timing [music] right like when is this thing actually going to tap into the culture and be relevant with the culture and that's [music] like almost an impossible thing to predict. I just think it's a great time to be betting in any category. I'm thrilled to be sitting down with Mike McNano, a partner at Lightseed Ventures. Before Lightseed, Mike founded Ankor, a podcast platform that was acquired by Spotify in 2019. At Lightseed, Mike's invested in some of the most legend companies in consumer and in tech overall, Neurolink, XAI, Sunno, and Granola. In addition to his work as a VC, Mike recently co-founded Obo Labs, an AI powered learning platform. Mike has a ton of thoughts about consumer startups and how AI is reshaping media and what founders should be paying attention to right now. Mike, thanks for being here. >> Thanks for having me. >> Actually, love to start off with your founder experience. I mean, we're doing a podcast now. Got involved and built one of the major pieces of Infra that uh you know, everyone uses. What was that like? never intended to build a podcast infra company um or even really a podcasting company overall. My co-founder near Zickerman and I when we first started building Ankor we were actually trying to make a social audio platform we had both kind of fallen in love with podcast. This was back in 2014 2015 kind of like when if you remember Serial and kind of Grantland and all that stuff. We got into it and we realized that it was really hard to make them. And so we had just built all of this photo editing technology for mobile phones and this company uh Aviary and we thought wait could we do the same thing for audio and podcasts? But at the time uh if you remember like everything that was launching on product hunt or the app store around the time it was all social networks. So it was like oh we need to build the social version of audio as if uh as if that hadn't been tried before. And um through a bunch of uh pivots and starts and stops and sort of near-death moments, we ended up landing on the easiest podcast creation platform. Basically, a mobile podcast recording studio like we have here, but in your pocket and easy enough to just tap a button to end up on Spotify, Apple Podcasts, start monetizing, you know, right away. Yeah, that was sort of the 2014 era was sort of that right at that moment when people went from almost all startups were consumer and then they became all sort of proumer and B2B. It sounds like that was actually part of your story as well. It's like you started off you know consumer like quite a lot of other people >> and then you that was also sort of the moment when the uh social platforms were sort of coalesing >> totally >> and then the platforms were closing down a little bit. So you know the explosion in consumer in you know sort of the 2008 to 2012 2014 period that was an opening up of platforms and then as the consolidation happened you know distribution closed down which then sort of spurred you know this move over to B2B. >> Yeah. And and I think like our our thesis was, you know, similar to how Instagram had made it really really easy to create and share photos, but to do it in a in a format that kind of existed uniquely just in their own platform. We wanted to do the same thing for audio. We wanted to make it such that, you know, on on your phone, you could tap a button or you could hold the phone right up to your ear, talk, maybe do some light editing, and then people would just come into this app to listen and interact with this content just inside of Ankor. But what we found was um increasingly like over over many iterations people were good to create content on anchor. But when it came to listening it was like why would I listen to this like not great quality audio in this other random app when I have all these podcasts like every podcast in the world uh on Apple podcast and Spotify can and I can listen over here. I was looking at sort of the uh ranking listings of all the top consumer AI startups uh today and you have sort of two of the absolute top. >> Yeah. I and and I think actually Sununo is an interesting one because I think the thesis of Sununo is actually quite similar to the thesis that I just described for Ankor and and again for a number of these kind of media platforms that came up and in the years you mentioned maybe 2012 2013 2014 you know if you go back to that time or if you go back even earlier and this probably connects to some of the work you did with with your startup it's easy to forget just how hard it was to publish content right how write content and publish it on the internet or to take a photo and put it in a feed that millions and millions of people are scrolling through or take a video and upload it to YouTube like maybe you know we'll just use Instagram as an example that made it re not only really really easy to create something beautiful with minimal effort but then find a distribution channel where you can start to get it out there build an audience if you look back at the the history of all the all the products that have done this in one form or another over the past 25 years nobody's done it for music. The reason, you know, we we believe is that technology up until AI did not make music creation easier, right? The camera made photo taking easier. The camera phone made photo uh taking easier. The microphone made podcasting easier. The camera made video easier, but we never really had a technology that, you know, democratized music creation. And so, the thesis with Zuno from the beginning was, well, now with AI, anyone can make music. you know, you have like the most popular format maybe in in the world, everyone listens to it. What happens if you can get everyone creating it as well? >> Has that one sort of evolved? I mean, initially I imagine it's you maybe they were going after um there's a readymade almost like proumer B2B audience, you know, it was when did they get started? >> Yeah, I mean it's still relatively new. The company's more or less like two years old now. >> Oh my god. Yeah. So even two years ago. >> Yeah. I imagine like you have this tech and you're like how do how how are people going to buy this or use it? What kind of business are we going to build? Yeah. And you know I imagine the obvious start would be let's go after proumer creators. But you know that's not sort of how it worked out. >> You you you should talk to Mikey the CEO. But, you know, if he were sitting here, what I think he would say was the vision has always been to enable more and more people to experience kind of that that joy of making music that previously only professionals could. I think early on when we were evaluating it, one of the, you know, a lot of the behavior we were seeing, it felt a little bit like a novelty. >> I mean, Chat GPT felt like that. >> Yeah, totally. But increasingly, I think what we've seen and what we've observed is that more and more people are using it to make something that's meaningful to them, right? Something that they're serious about. They're they're becoming creators, right? I think the other behavior we saw as we dug in, which was super fascinating, was people were making music for themselves. They're creating the music that then they will go listen to, which I think is super interesting. I can't really think of a behavior we've seen like that in any other format. Um, like people don't write for, you know, to read their own stuff. >> I We're just such an at an early stage. I mean, I think both of us >> really like Well, you're doing it. You're actually finding some of the biggest new categories. Uh, and >> you guys are doing it, too. [laughter] >> Yeah. We're I mean, we're we're working on it. I think this last batch I funded uh enough to have an entire section, you know, it's about six startups that are all consumer based. Yeah. Which >> you're seeing a lot more consumer then. >> Yeah. Exactly. But I think we're a little bit in the minority. Like why do you think that is >> about consumer? >> Yeah. I mean every B2B like sort of ate everything over the last 10ish years. >> I I think that's it. I mean I think the reality is there was a especially preai there was kind of like a playbook for B2B and SAS and if you had the right team and the right wedge like you could you could much more easily I would say I don't want to like trivialize any of this stuff but it was it was more straightforward I think. But consumer has kind of always been a little bit more lightning in a bottle, right? And I think the hardest thing with consumer is not only identifying the trend and the team, but getting the timing right because so many things are are attached to cultural moments. Like when is this thing actually going to tap into the culture and be relevant with the culture and that's like almost an impossible thing to predict. You know, with Sunno, I feel like we kind of got lucky that we met the team at a certain time and uh were able to invest like kind of just as it was inflecting. And yeah, sometimes you just you just get lucky and maybe overpay just just to be able to do it. But no, I mean, there are obviously so many great consumer investors out there that you look back at some of these bets they made and you just think, \"Wow, like the timing was impeccable.\" But the bottom line is we have AI now and we have all these new opportunities and things we can create that we previously couldn't. So, I just think it's a great it's a great time to be betting in any category. I think increasingly we're finding ourselves betting on people who are just great at building products and kind of trusting that maybe there's an opportunity that we can't see that this person can through through the opportunity of AI. >> Yeah, that makes sense. I guess the framework that I've been using that I hope turns out to be true, we'll see, is um >> like AI will actually increase retention, but you're sort of still subject unless you have like >> there aren't new types of distribution yet like you know sort of >> classically the death of consumer in like the 2013 era was about um the platforms like collapsing in like APIs closing down like you have to bring your own distribution but the platform won't give you more distribution. And you know there was sort of this one time opening and then a shutting and then suddenly you have to charge you have to have a subscription consumer service. AI interestingly is expensive. >> Yep. >> On the one hand people are willing to pay on the other hand like it's you know $20 a month or up to $200 a month if you're doing work with it. So you know basically retention will go up. So certain paid models will be uh possible now that weren't possible earlier, but then you still got to solve the um distribution problem. >> That hasn't changed. That hasn't gone away. I do think there will be new distribution opportunities as AI becomes ubiquitous. I mean, we're seeing this now through AI. New distribution channels will emerge that people will exploit and find opportunities in. But you're right, for like a SAS product or a pure net new consumer product today, you still have to just go and build the distribution yourself, which is arguably the hardest thing. >> Yeah, it's funny. I was uh hanging out with Eugenia from Replica. She has a new startup, but >> I was asking her about, you know, for a lot of these consumer startups, you know, how do you hire your head of growth for a consumer startup? And she's like, actually, you can't uh you can't hire them in the United States anymore or in the West. like they're all in Eastern Europe. >> Yeah, I've heard that a little bit as well, >> which is interesting. It became like a lost art like we forgot how to do uh consumer distribution and we forgot how to create the SR71. [laughter] It's just like it's been so long, you know. >> I think that, you know, her product as an example. I think it's a great example of you could see her and that type of product borrowing from the previous playbooks of of Instagram and Twitter and maybe trying to leverage existing channels distribution to get that out there like I don't know I what are the ways that you can distribute an app on like an existing channel? >> I think it's going to be well basically it's like toy apps right now but it's very well done. >> Totally. I mean, it's kind the kind of stuff you could do in codegen tools today, but having it be entirely contained to your mobile phone is I mean, that's like an Instagram moment right there. >> 100%. Yeah, that's what [clears throat] I meant. Yeah. >> And then I think like basically egroups, Yahoo groups, like all of these things were trying to scratch an itch and >> you know, you're just not willing to go through like a customization step and group software is just like the perennial problem. But this is a perfect example of what we were talking about earlier. Like you would never without AI and codegen, you know, two years, you're like, why would I why would I invest in >> why am I so lucky to work on that right now, right? Yeah. >> Yeah. But but now because of AI and codegen, it's like, oh my oh my god, like maybe there's actually a really interesting opportunity here. Maybe you and I have uh missed the the browser opportunity now that we have DIA and Comet. But I think back to 2 3 years ago, I saw these browsers and I just I just passed on the opportunity cuz I'm like, \"Oh, you you can't compete with Chrome or Safari because they're embedded in the OS.\" And it's like, \"No, actually AI creates like a really interesting opportunity for the browser to be an investable service. But if I were a consumer founder going through YC right now, I might be thinking to myself, what are all the opportunities that have sort of been written off that I can inject AI into inside a consumer?\" What's funny is you should try all the things and um >> and then you're only limited by distribution and then the funny thing is like >> you know what do you what's your take on you can access I mean hundreds to at least maybe maybe 10 thousand maybe tens of thousands of early adopters who are uh anons on X >> that's turned out to be uh a whole way to you know get online and get customers. I actually was telling your your team before the show that um one of PG's essays was like a big it was like a big big inspiration to uh how Anchor actually survived and and not just survived but like ended up figuring it out. [clears throat] We were dying. We were running out of money. We had like three months to before we shut it down. We we told the team we're like this this isn't going to work. This product is just kind of bouncing along like it's growing but it's not growing great. And then we implemented this framework. We're like, we have to hit 15% week-over-week growth every single week from here on out for the next 3 months. And it forced us to challenge our assumptions and it forced us to pivot to something that we didn't want to pivot to but the users were asking for and >> oh so there was pull from the market for you know sort of going in that anchor direction. >> Yeah. So the we wanted to do the social thing. We wanted to be the the platform because again that would have been a bigger opportunity but >> what we were hearing from the users is hey we love your tools. We don't want we don't want to bring listeners over here. We want them to be able to listen where they're already listening. Help us get the our content on Spotify and Apple Podcasts. And these these things didn't have APIs at the time. There was no way for us to port that content over. And so we actually we built out a whole framework where we literally had physical human beings manually creating RSS feeds and submitting them to the Apple podcast store on our users behalf when they tapped a button in the app. user didn't know it, >> but they would tap the button, >> do something unscalable. Yeah. Do something that doesn't scale and then scale it. >> Exactly. And that worked. And we only got to that because we had this rule that we had to hit 15% week-over-week growth every single week. And it was and it was startups equals equals growth. >> And then otherwise like don't do it or do something else. >> Yeah. Yeah. Yeah. And every every week it was something else like what are we going to do this week to hit the growth? >> What do you think changed? I mean I guess before implementing that the default for startups is well you have a bunch of money in the bank you have some users and then the classic trap sometimes is oh well we have some technical debt we're going to take a month just to like work down the technical debt which is basically like you know treading water or like like slowly sinking into the water and then you're drowning. I I think I think you don't realize uh you're drowning until you kind of like look at the calendar >> and you're like, \"Okay, this is the date where if we don't figure it out, it's over.\" And like really staring that in the face and being like, \"Okay, we actually have 3 months to figure this out.\" And yeah, I think there is this trap that happens often, especially now where startups get over capitalized and they never never feel that pressure and they feel that they can just keep going forever. >> Yeah, there's this other aspect. How many people were you at when >> we were about like eight. >> Okay. Yeah. >> So we could get everyone in the room and we could be like this is going to happen. We are going to fail unless we don't figure this out. >> But if you had raised like you know today's seed and you know you had three times more money and maybe you had you know hired up and had like twice the size or three times the size of team and you couldn't fit them in a room. >> Yeah, that would be harder. Although maybe we would be spending it differently because of AI. Maybe we would be maybe we would still have a small team. Maybe we would be investing more in marketing and distribution, Tik Tok influencers or something. I think our burn would probably be higher, but we wouldn't necessarily be a bigger team. >> Yeah, I'm hoping that um some of the labs start experimenting even more with distribution. Like you saw that with the GPT store at OpenAI a little bit, but I think that was a little bit of a failed experiment. Like I think they might have even removed the GPT store or maybe it's still in there. It doesn't feel like a supernatural way to make an app. Like a GPT doesn't really feel like an app in some sense. Clearly, they still want to chase this opportunity though, right? Like it feels like multiple times they've announced partnerships with companies or like recently didn't they announce integrations with Spotify and all these other products that you could invoke right within the command line. You could imagine a world that that turns into a platform and anyone can integrate. I don't know how you would solve discovery in that sense, but >> yeah, I mean, I'm I think there's something there around MCP, but uh it's such a mess of an ecosystem. Like, it just just barely >> the integrations just barely work. I'm sure I will stop looking at it at some point in the next couple months and then magically in like 6 to9 months when I'm not watching, it's actually going to work really, really well. I mean, some of the consumer things that we're seeing are literally taking large data sets that um are somewhat hard to get at and then just plugging them into LLM. Uh I mean there's a company called Nori in the current batch that it's literally Apple Health. >> Oh, right. >> Dropped into LLM. Yeah. Dave Z. Yeah. Fellow podcast. Yeah. He he did Chartable and sold that to Spotify. So, >> I think that's really interesting actually. I think I I think um I think that's an opportunity. We actually invested uh in a company called Dtronic um which is right now doing you know kind of uh medical triage similar to what you can do in ChhattT but um you know they have a model that's that's trained on uh gigantic corpus of health information and data and you know medical research and you can imagine a world in which similarly like you're getting your your medical records in there and you're able to chat with it. I I'm doing this today just in like a clawed project, but it's super manual, right? Like uploading all this stuff. So, I think Nory sounds super interesting. >> My dad went to the hospital and um he was fine, but he you know, passed out. He'd never done that in a [clears throat] restaurant and we went, you know, hurried over to the hospital and uh you know, I logged in with his uh Kaiser login to get all of his I could see the labs come in on the website. So, I downloaded them PDF, uploaded a chat GPT, and then it just told me exactly what was going on, even though like the emergency room doc hadn't come by. But the funniest thing was like uh when he did come, I asked my three questions and then actually helped get him a better standard of care from that. >> That's amazing >> cuz um I was like, \"Well, had you thought about this?\" And you know, I half expected him to be like, \"Ah, don't don't use Chad GPT on me.\" But in >> Oh, the doctor appreciated the doctor was like, \"Oh, yeah, that's a good idea. We should check for that.\" Right? >> I'm sure they're seeing this all the time now. And yeah, you have to wonder, are they welcoming it or are they like, \"Come on, please. Enough with the chat.\" [laughter] >> But I mean, I think it's that good distribution now. So, >> yeah. One area I'm thinking a lot about is is social. >> Interesting to see Sora at least. >> Sora, I think, is [clears throat] really interesting. I kind of think of it as in a way the end of social media u or like the the last the last phase of social media. I I I currently bucket social media into like three phases. The first is true social media where you know companies are building up social graphs. You know people are following each other. Content is being distributed based on who you follow and so you follow your friends and maybe some random influencers and then when they make content you get served that content and it's like pretty efficient. Some of the content is relevant to you, some of it isn't but it kind of works. And then the second phase is like the Tik Tok kind of I call it recommendation media where they figure out what you like and creators make content and then they program that content against your interests. Sora to me feels like this third the start of this third phase where >> eventually they don't really need creators to make content. Right? Yes. today people are prompting but you could very easily imagine a world in which you're just coming into the feed and the content is just being created immediately dynamically on behalf of you and I think that's really interesting uh interesting in a couple scary ways but obviously there are also some interesting opportunities the thing that I like to think about in this last phase is what is the what is the role of the human to help kind of shape that experience obviously one of the roles is just to consume and let the model train on your interest. But maybe the more interesting thing, and we've sort of seen hints of this with Sora, I think Sam published a blog post that kind of hinted at this, is kind of the the creation and distribution, potentially monetization of name and likeness and uniqueness. >> Oh, yeah. >> It's like >> when you cameo somebody on Sora, maybe that person is getting compensated some way. Maybe brands are are surfacing as cameoable. You talked about distribution earlier like that could be a new that maybe is the new form of distribution in social where you're sort of like injecting some uniqueness or personality or likeness into a model that will get then get distributed >> through no sort of manual human creation at all. That feels like the next it's a little it's kind of scary because >> there's probably no like actual pure human creation in that model. But >> there's the prompting. There's some art in the >> maybe. But does that just go away, right? Like >> eventually, why do you need that? [clears throat] They just know what Gary wants to >> It's just going to be the auto AI slot machine. >> So, I'm a little bit terrified of that, but I also think that there's probably going to be some interesting opportunities. Um, and I and I'm totally expecting that Tik Tok and Instagram will start having pure AI generated content and eventually get to this place as well. But all in all, I I I do wonder if we're in kind of like this third and final phase of like human created media. Yeah, it's a little terrifying. >> If you use Sora, it it's a very promising, super funny, but also extremely frustrating like 80% of the time. >> You mean on the output when you get out? Yeah, that'll get better. >> Yeah, it'll get better. But also, the mobile app itself, it's clear that they're experiencing crazy uh GPU scaling issues. So, >> I think it's still number one in the app store. It's crazy. Yeah, it is funny to see XAI and um Meta sort of like struggle to try to capture that vibe. >> I think Cameo was the feature that really did it for them. But I also noticed that they didn't really invest a lot. Maybe it was intentional. Maybe it was just prioritization in some of the graph stuff we mentioned. Like it almost seems like that's not going to be important. >> You know, it's more going to be about we just know what to program for each user, >> right? It's like this person seems to click like on all the Shack cameos for some reason. That's me. Those Shaq cameos are good. Every everyone's cameoing Shaq. So yeah, I don't know. I don't know what happens to social media and I'm not totally sure yet what the opportunities will be for builders there. >> Yeah, distribution in the end. I mean, even Tik Tok, I'm hopeful that CHPD comes around and realizes like that was one of the most amazing things that Tik Tok did and you that's what the YouTube algorithm does today. Those are the most potent places to get distribution. >> Right. Right. >> I mean X I think X is there. Like thanks Nikita. He's doing a great job. He's doing it. He's changing up the feed, >> creating the web view. >> Yeah. >> Got to love the new web view. >> Yeah. >> Yeah. Maybe the model is the distribution then like we're saying and and and maybe similarly how for Tik Tok it became about obviously the videos. Anyone can create a video, but you could also like you could let uh creators pull from the song the the song catalog. You know, Instagram has things like stickers and filters and things like I don't know, maybe the model is a new place for some form of creator distribution. It's not your video, it's something else. It's your likeness. It's your brand. It's a meme, right? That others can then invoke through the model. So, we talked a little bit about media and then a lot of people watching who might be, you know, just starting their builder career. Is that like sort of the model for consumer founders in the future? you should people be creators? >> I don't know whether or not people should be creators. I mean, I'm not saying they shouldn't, but it is also it's time consuming. I mean, you're sitting here in the set. I don't know how many of these you do a week, but I'm sure it takes up a chunk of your time. And I do think there is a new consumer playbook for distribution that I previously maybe maybe a couple years ago kind of maybe was too dismissive of and now I almost feel like it's table stakes, which is >> leveraging creators. Maybe it's Tik Tok influencers, you know, reals influencers, whatever kind of creators you can you can tap into to reach some massive scale of distribution. It almost feels like you have to be doing that now. >> And what it can drive in terms of downloads or installs or signups is crazy compared to you know the early uh growth we saw from consumer startups 5 years ago. >> Yeah. I mean this is literally the definition of organic. Then when you say organic like ultimately the most potent form of organic is X feed, YouTube feed, Tik Tok feed. >> Tik Tok. Yeah. And it's actually not organic if you think about it, right? A lot of these companies, they're they're figuring out kind of what works on Tik Tok and then the Tik Tok algorithm takes over and does the work and puts it in front of a million people. It's not it's not really organic, right? Like organic I would say is you build some incredible product and there's this word of mouth dynamic where everyone and their friends are talking about it's just growing but just because it's not purely organic doesn't mean you shouldn't do it. I think everyone >> correction it's not organic it's non-paid. >> It's nonpaid. >> Well you you still pay you pay for it in your time and your mental >> or you pay you pay the influencers or the creators or whatever >> right when you're paying someone else. Like the reason why that's interesting for consumer products is uh it's a mispriced asset generally still. >> Exactly. >> I mean Mr. Beast is not a mispriced asset. He's like getting his value from it. Like he's, you know, but it does seem like the mispriced assets are sort of the creators with like a thousand to 10,000 followers, >> right? And if you can wrangle up enough of those, you can get some real scale. Yeah. I mean, I think I used to be dismissive of this as a tactic cuz it felt inorganic to me, but now I think it's table stakes. I mean, all of the best consumer startups that are pitching us, they have these crazy growth charts and they're all doing exactly this to do it. Now, there's obviously then the question of what's the retention like? Is anyone paying? What's the funnel look like? And if the funnel is trash, it's, you know, it might >> it might not be a viable investment. >> If you're a bad builder, but you're a good troll, then you still build nothing. But if you're correct, you know, enough of a troll marketer who's actually got the goods, then you could build something pretty big. >> Huge, I think. And I think the reason I was previously dismissive of it is because I just assumed that at some point it would go away. >> It's like if you're tapping into this inorganic channel that you don't control, at some point it's going to turn off or it's going to do something else. But it's been years now and it seems as reliable as ever. So, back to the original question, maybe you should be a creator, maybe you shouldn't, but you definitely should be leveraging creators and these distribution channels that creators tap into to get a crazy amount of eyeballs on things. You You have to. The big question I I see founders asking a lot and I'd love to get your perspective on this is should you wait until you have product market fit or some level of stable retention before you start doing the inorganic you know uh social distribution play. So would you encourage a founder to seek distribution before they've found product market fit? I mean maybe as a side project it's it might be useful to you know start an accountount an account that um >> just to learn like >> how do other people think what do people click on and then >> then it's like a background process that you can call on later. A lot of the time we spend with especially consumer founders at YC is helping them with their their launch and you know how do they talk about it? What's their launch video when they meet someone in a inerson setting or an investor or a potential user? Like what do you say literally in the first 10 or 15 seconds? It's like first you have to let someone know what the heck it is. And then right after that you have to make sure that they know that what you're doing is awesome in some way. Like that you're worth spending like you know that was 10 15 seconds and then it's worth at least a minute conversation. And if you can make it to a minute, you might have like this amazing like 10 20 minute conversation. They might try your product. They might tell their friends. They might, you know, they might invest. Like all these different things happen >> and it sort of comes out of being like perceptive, good communicator, like kind of funny. >> Yeah, that's pretty interesting. And and the idea of doing it doing that or doing some of that, learning some of this as an anon is really interesting because you just lower the stakes. You're not really like burning anything. I'm, you know, thinking about um how many times have you heard like, \"Oh, don't don't do your big marketing push or your press announcement till you're ready because you'll never get these users again.\" You know, you'll like you'll like burn the opportunity. But if you're doing things like testing from an anonymous account or, you know, testing a Tik Tok influencer strategy, even that, like there's always going to be more eyeballs on Twitter you can get or on Tik Tok you can get in front of. And so maybe the lesson is you just should be practicing that. You should find a way to be practicing this stuff with lower stakes even before you're ready to launch or you're ready to like, you know, blow the thing up because figuring this stuff out is going to be hard. >> Yeah. So, taste is taste matters and there are lots of ways to develop that taste and yeah, >> like it or not, you've, you know, sort of got to put on your fighting gloves if you're going to especially do the X thing and it might actually be worth it. >> I feel like there was a lot of talk maybe 6 months ago, a year ago of kind of taste as a moat. It's becoming easier to build products because of AI. So, whatever you build, you got to have great taste and great great craft to be able to stand out. Um, you know, I think granola was a great example of this. I think the question is to what extent is that now a durable asset given we've seen how aggressive some of the labs are? Like, can taste really stand the test of time or is it really just a thing to give you a first mover advantage? >> Yeah, I I guess I don't know yet. I know >> every version of the model it has bigger and bigger model energy. >> Yes, >> it's got some bigger and [laughter] it's got some BME these days, you know, like Opus 4.1 is uh it like feels vast. >> Going back to Sora, I mean touching on this this topic a little bit like Sora kind of surprised me a little bit because it's a new product, it's a new app and it's good. >> Yeah. You know, I think there was a belief among some startups and founders that um you know, as long as you're not doing exactly what Chat GBT is doing or exactly what Claude's doing, like you'll be okay because that's where they're focusing their energy into these products. But Sora is kind of proof that no, these labs like they have the taste and capability and the horsepower and the execution to build and ship net new products that also might run you over. I think the point is though all the more reason why like you got to have taste. You got to be willing to put your product out there, but you have to like we're in this environment that is just so hyper competitive. Like you have to you have to move fast. You have to be aggressive. You can't just kind of like sit back and iterate and like wait for your moment. >> I mean the machines don't quite have taste of their own yet. No, like that's what the eval are for. Most people are in these um consumer scenarios even they're just they're writing prompts and then they're >> trying to give a certain experience to the end user and then there's still you know a craft to that. >> Totally. >> So Mike, you're one of the most legendary consumer AI investors and um I think a lot of people out there would love to know like what are you seeing? What would impress you? what you know what would get over the line so that they could be um you know get the chance to work with you. >> There's a huge opportunity right now to re-examine opportunities that have been previously overlooked. You know, I mentioned earlier that we recently invested in a mail app, a category that I think we previously would have ignored because it's been a graveyard typically, but AI has presented brand new opportunities. And I think we're seeing spaces like that over and over again like these these services that maybe got a lot of investment and building early on in terms of like the internet or maybe like um advertising and things like that that we've we've just like moved on from as a as an industry because we consider them baked and and done. And I think AI is presenting an opportunity to just completely like rebuild a lot of the stack that that we've already built. I would also encourage people to think about what are the large data sets that exist either sort of that are publicly accessible or that are private and personal to someone that if you layer an LLM on top of it or maybe a photo model or you know an image model or a video model or a music model like what are interesting things that you can do with these data sets that have sort of been been untouched. Um, you know, we talked a little bit about health data and going into the doctor's office. Like that's a huge opportunity. Obviously, a lot of people are building for that right now, but what are some of the other data sets that no one has really like put AI around and and given you access and insight to that you haven't really thought of before? >> That kind of gives me an idea for a request for startup a little bit. I mean, there's just a lot of data and it's in your phone and it's I mean, frankly, in your medical records, it's just it's in Apple Health. Simultaneous to that, like there are great startups like Mem Zero that are kind of trying to be like a memory layer, but like inside uh the system of record, you know, inside someone else's app. >> It feels like there's some space in here around like an enabling tech >> where you want a layer that um basically knows everything about a given person. >> I mean, and then you could even break down that that down even further, right? Like there's probably a bunch of really cool things to be built on top of your camera roll. >> Yeah. Yeah. Yeah, >> I don't know what they are. May and maybe they're social experiences, right? But if we look if we used AI to kind of look at your photos and the things that are in them, maybe the places you've been, maybe your geol locations, you could build an interesting uh thing. >> I think it would know who you hang out with, who you spend time with, like are you into, you know, do you spend a lot of time with your family, do you an archer, like what your favorite beer is, like there's probably all kinds of stuff that's like implicit to that. Yeah, Dennis Crowley just uh launched some Dennis Crowley's the founder of Foursquare. You know, >> I still use Swarm. >> Yeah. Amazing consumer product builder, thinker, super creative. You know, he just launched something um where when you put your AirPods in kind of AI goes to work based on your geo location. So, you know, it it might know because you've you've done it a bunch of times that you like really good coffee or margaritas and then if you're near something, it's going to tell you. It's just going to like chime into your ear um based on your previous history. So, like I just think there's a lot of opportunity to take this this memory, this this sort of like personal uh information that you're talking about and break it down on a bunch of different levels, run it through AI and create new consumer experiences. >> Aside from that, you uh and your co-founders are starting a new company as well called Obo. You know, how did you decide to work on that and you know, how did you pick that idea? >> Yeah. So I think again this is another opportunity that AI I think presents uh and that is that is education. I mean the highest level premise is that we've spent billions maybe trillions of dollars to invent artificial intelligence and obviously there's amazing opportunities that are coming out of that. But what if we sort of took that artificial intelligence and invested it into human intelligence? And obviously a lot of people have been talking about this for a while. AI is going to be a great tutor. It's going to be great at teaching you things. Um but nobody's really gone in and built the product for that yet. And so so OBO and it's available now obo.fyi um it is a product that anything you want to learn it will magically create a course for you on that subject in any format you want podcast you know long form lecture. Uh it'll create the study materials for it. And over time you know to to um more to the point that we're talking about with personalization and data. It's obviously going to know how you like to learn in terms of the format, but it's going to know what you already know. And so each subsequent lesson is going to get more and more personalized and then therefore more efficient at teaching you because obviously the way in which we all learn right now, it's like extremely one-sizefits-all. All the content is the same. It's kind of a blunt instrument that's just kind of like forced upon you. Whether it's reading a Wikipedia article or, you know, going to college or whatever, it's just one sizefits-all. But AI presents an opportunity to highly highly personalize education and get better and better and smarter and smarter the more you learn. And so the hope is that we can literally make humanity smarter through AI. In my opinion and in my experience, the way to build startups, it's to take these large surface areas where there's kind of obvious opportunity and yes, you start with a point of view, but like your point of view may be wrong and then you iterate, right? >> You get punched in the face and then you alter your plan. >> Yeah. you're still like kind of pointed at the same north star, but you're just you're just taking a different path. I mean, that's that's what we did with Anchor. We're like, we want to democratize audio. We think it's through social audio and short form voice notes. Oh, nope. It's not. Like, let's add more tools. Oh, that wasn't it. Let's add distribution to Spotify. And I think that that is a recipe for a successful startup. It's like take a really ambitious space, coin in a certain direction, and just keep iterating to find the best path until you get there. >> Amazing. Mike, do you want to give a a brief plug for your podcast? >> Yeah. So, when AI kind of exploded a few years ago, uh we at Lightseed did did the thing that every VC does and we started a podcast and the whole idea was to talk to people that are building in the space. But then after a few months or you know, whatever, we realized that frankly I got bored. I was like, I'm having the same types of conversations. And then so, uh, a friend of mine, Samil Shaw, was like, why don't we just go outside and record a podcast and we'll make it like Anthony or Bourdain, Parts Unknown or Comedians and Cars. So, we tried it out and we had a blast. The audience loved it as well. People were like, \"Oh, this is cool. This is different.\" And so, >> uh, now we've launched a new podcast. It's called Out of Office. It's going to be fun. And you're going to come on, right? >> Yes. All right. >> Can't wait. Watch out for that one real soon. >> Well, we're out of time, but Mike, thank you so much for hanging out with us. Really appreciate it. >> Yeah, thank you. This is fun.",
+  "segments": [
+    {
+      "start": 0.16,
+      "end": 3.76,
+      "text": "I think increasingly we're finding"
+    },
+    {
+      "start": 2.08,
+      "end": 6.24,
+      "text": "ourselves betting on people [music] who"
+    },
+    {
+      "start": 3.76,
+      "end": 8.32,
+      "text": "are just great at building products and"
+    },
+    {
+      "start": 6.24,
+      "end": 9.6,
+      "text": "kind of trusting that maybe there's an"
+    },
+    {
+      "start": 8.32,
+      "end": 11.52,
+      "text": "opportunity that we can't [music] see"
+    },
+    {
+      "start": 9.6,
+      "end": 13.28,
+      "text": "that this person can through the"
+    },
+    {
+      "start": 11.52,
+      "end": 16.08,
+      "text": "opportunity of AI. The hardest thing"
+    },
+    {
+      "start": 13.28,
+      "end": 18.08,
+      "text": "with consumer is not only identifying"
+    },
+    {
+      "start": 16.08,
+      "end": 19.52,
+      "text": "the trend and the team but getting the"
+    },
+    {
+      "start": 18.08,
+      "end": 20.96,
+      "text": "timing [music] right like when is this"
+    },
+    {
+      "start": 19.52,
+      "end": 22.56,
+      "text": "thing actually going to tap into the"
+    },
+    {
+      "start": 20.96,
+      "end": 23.84,
+      "text": "culture and be relevant with the culture"
+    },
+    {
+      "start": 22.56,
+      "end": 25.6,
+      "text": "and that's [music] like almost an"
+    },
+    {
+      "start": 23.84,
+      "end": 26.96,
+      "text": "impossible thing to predict. I just"
+    },
+    {
+      "start": 25.6,
+      "end": 30.2,
+      "text": "think it's a great time to be betting in"
+    },
+    {
+      "start": 26.96,
+      "end": 30.2,
+      "text": "any category."
+    },
+    {
+      "start": 32.4,
+      "end": 36.16,
+      "text": "I'm thrilled to be sitting down with"
+    },
+    {
+      "start": 33.92,
+      "end": 38.48,
+      "text": "Mike McNano, a partner at Lightseed"
+    },
+    {
+      "start": 36.16,
+      "end": 40.4,
+      "text": "Ventures. Before Lightseed, Mike founded"
+    },
+    {
+      "start": 38.48,
+      "end": 43.44,
+      "text": "Ankor, a podcast platform that was"
+    },
+    {
+      "start": 40.4,
+      "end": 45.2,
+      "text": "acquired by Spotify in 2019. At"
+    },
+    {
+      "start": 43.44,
+      "end": 48.24,
+      "text": "Lightseed, Mike's invested in some of"
+    },
+    {
+      "start": 45.2,
+      "end": 52.4,
+      "text": "the most legend companies in consumer"
+    },
+    {
+      "start": 48.24,
+      "end": 55.2,
+      "text": "and in tech overall, Neurolink, XAI,"
+    },
+    {
+      "start": 52.4,
+      "end": 57.6,
+      "text": "Sunno, and Granola. In addition to his"
+    },
+    {
+      "start": 55.2,
+      "end": 59.44,
+      "text": "work as a VC, Mike recently co-founded"
+    },
+    {
+      "start": 57.6,
+      "end": 62.16,
+      "text": "Obo Labs, an AI powered learning"
+    },
+    {
+      "start": 59.44,
+      "end": 64.88,
+      "text": "platform. Mike has a ton of thoughts"
+    },
+    {
+      "start": 62.16,
+      "end": 67.44,
+      "text": "about consumer startups and how AI is"
+    },
+    {
+      "start": 64.88,
+      "end": 69.76,
+      "text": "reshaping media and what founders should"
+    },
+    {
+      "start": 67.44,
+      "end": 70.56,
+      "text": "be paying attention to right now. Mike,"
+    },
+    {
+      "start": 69.76,
+      "end": 71.52,
+      "text": "thanks for being here."
+    },
+    {
+      "start": 70.56,
+      "end": 73.12,
+      "text": ">> Thanks for having me."
+    },
+    {
+      "start": 71.52,
+      "end": 74.64,
+      "text": ">> Actually, love to start off with your"
+    },
+    {
+      "start": 73.12,
+      "end": 77.04,
+      "text": "founder experience. I mean, we're doing"
+    },
+    {
+      "start": 74.64,
+      "end": 79.6,
+      "text": "a podcast now. Got involved and built"
+    },
+    {
+      "start": 77.04,
+      "end": 81.68,
+      "text": "one of the major pieces of Infra that uh"
+    },
+    {
+      "start": 79.6,
+      "end": 84.88,
+      "text": "you know, everyone uses. What was that"
+    },
+    {
+      "start": 81.68,
+      "end": 87.6,
+      "text": "like? never intended to build a podcast"
+    },
+    {
+      "start": 84.88,
+      "end": 89.84,
+      "text": "infra company um or even really a"
+    },
+    {
+      "start": 87.6,
+      "end": 91.68,
+      "text": "podcasting company overall. My"
+    },
+    {
+      "start": 89.84,
+      "end": 93.2,
+      "text": "co-founder near Zickerman and I when we"
+    },
+    {
+      "start": 91.68,
+      "end": 94.8,
+      "text": "first started building Ankor we were"
+    },
+    {
+      "start": 93.2,
+      "end": 97.68,
+      "text": "actually trying to make a social audio"
+    },
+    {
+      "start": 94.8,
+      "end": 100.48,
+      "text": "platform we had both kind of fallen in"
+    },
+    {
+      "start": 97.68,
+      "end": 103.2,
+      "text": "love with podcast. This was back in 2014"
+    },
+    {
+      "start": 100.48,
+      "end": 105.68,
+      "text": "2015 kind of like when if you remember"
+    },
+    {
+      "start": 103.2,
+      "end": 108.32,
+      "text": "Serial and kind of Grantland and all"
+    },
+    {
+      "start": 105.68,
+      "end": 109.84,
+      "text": "that stuff. We got into it and we"
+    },
+    {
+      "start": 108.32,
+      "end": 111.84,
+      "text": "realized that it was really hard to make"
+    },
+    {
+      "start": 109.84,
+      "end": 114.24,
+      "text": "them. And so we had just built all of"
+    },
+    {
+      "start": 111.84,
+      "end": 116.32,
+      "text": "this photo editing technology for mobile"
+    },
+    {
+      "start": 114.24,
+      "end": 117.68,
+      "text": "phones and this company uh Aviary and we"
+    },
+    {
+      "start": 116.32,
+      "end": 120.88,
+      "text": "thought wait could we do the same thing"
+    },
+    {
+      "start": 117.68,
+      "end": 122.56,
+      "text": "for audio and podcasts? But at the time"
+    },
+    {
+      "start": 120.88,
+      "end": 124.72,
+      "text": "uh if you remember like everything that"
+    },
+    {
+      "start": 122.56,
+      "end": 126.08,
+      "text": "was launching on product hunt or the app"
+    },
+    {
+      "start": 124.72,
+      "end": 127.84,
+      "text": "store around the time it was all social"
+    },
+    {
+      "start": 126.08,
+      "end": 131.2,
+      "text": "networks. So it was like oh we need to"
+    },
+    {
+      "start": 127.84,
+      "end": 133.2,
+      "text": "build the social version of audio as if"
+    },
+    {
+      "start": 131.2,
+      "end": 135.76,
+      "text": "uh as if that hadn't been tried before."
+    },
+    {
+      "start": 133.2,
+      "end": 137.76,
+      "text": "And um through a bunch of uh pivots and"
+    },
+    {
+      "start": 135.76,
+      "end": 140.64,
+      "text": "starts and stops and sort of near-death"
+    },
+    {
+      "start": 137.76,
+      "end": 142.8,
+      "text": "moments, we ended up landing on the"
+    },
+    {
+      "start": 140.64,
+      "end": 145.12,
+      "text": "easiest podcast creation platform."
+    },
+    {
+      "start": 142.8,
+      "end": 147.2,
+      "text": "Basically, a mobile podcast recording"
+    },
+    {
+      "start": 145.12,
+      "end": 149.92,
+      "text": "studio like we have here, but in your"
+    },
+    {
+      "start": 147.2,
+      "end": 151.84,
+      "text": "pocket and easy enough to just tap a"
+    },
+    {
+      "start": 149.92,
+      "end": 154.32,
+      "text": "button to end up on Spotify, Apple"
+    },
+    {
+      "start": 151.84,
+      "end": 156.0,
+      "text": "Podcasts, start monetizing, you know,"
+    },
+    {
+      "start": 154.32,
+      "end": 159.2,
+      "text": "right away. Yeah, that was sort of the"
+    },
+    {
+      "start": 156.0,
+      "end": 161.52,
+      "text": "2014 era was sort of that right at that"
+    },
+    {
+      "start": 159.2,
+      "end": 163.6,
+      "text": "moment when people went from almost all"
+    },
+    {
+      "start": 161.52,
+      "end": 166.48,
+      "text": "startups were consumer and then they"
+    },
+    {
+      "start": 163.6,
+      "end": 167.84,
+      "text": "became all sort of proumer and B2B. It"
+    },
+    {
+      "start": 166.48,
+      "end": 169.44,
+      "text": "sounds like that was actually part of"
+    },
+    {
+      "start": 167.84,
+      "end": 171.2,
+      "text": "your story as well. It's like you"
+    },
+    {
+      "start": 169.44,
+      "end": 172.64,
+      "text": "started off you know consumer like quite"
+    },
+    {
+      "start": 171.2,
+      "end": 174.72,
+      "text": "a lot of other people"
+    },
+    {
+      "start": 172.64,
+      "end": 177.12,
+      "text": ">> and then you that was also sort of the"
+    },
+    {
+      "start": 174.72,
+      "end": 178.4,
+      "text": "moment when the uh social platforms were"
+    },
+    {
+      "start": 177.12,
+      "end": 178.88,
+      "text": "sort of coalesing"
+    },
+    {
+      "start": 178.4,
+      "end": 180.72,
+      "text": ">> totally"
+    },
+    {
+      "start": 178.88,
+      "end": 183.36,
+      "text": ">> and then the platforms were closing down"
+    },
+    {
+      "start": 180.72,
+      "end": 186.88,
+      "text": "a little bit. So you know the explosion"
+    },
+    {
+      "start": 183.36,
+      "end": 191.44,
+      "text": "in consumer in you know sort of the 2008"
+    },
+    {
+      "start": 186.88,
+      "end": 193.6,
+      "text": "to 2012 2014 period that was an opening"
+    },
+    {
+      "start": 191.44,
+      "end": 195.68,
+      "text": "up of platforms and then as the"
+    },
+    {
+      "start": 193.6,
+      "end": 197.76,
+      "text": "consolidation happened you know"
+    },
+    {
+      "start": 195.68,
+      "end": 199.44,
+      "text": "distribution closed down which then sort"
+    },
+    {
+      "start": 197.76,
+      "end": 200.4,
+      "text": "of spurred you know this move over to"
+    },
+    {
+      "start": 199.44,
+      "end": 202.16,
+      "text": "B2B."
+    },
+    {
+      "start": 200.4,
+      "end": 204.8,
+      "text": ">> Yeah. And and I think like our our"
+    },
+    {
+      "start": 202.16,
+      "end": 206.96,
+      "text": "thesis was, you know, similar to how"
+    },
+    {
+      "start": 204.8,
+      "end": 209.04,
+      "text": "Instagram had made it really really easy"
+    },
+    {
+      "start": 206.96,
+      "end": 211.52,
+      "text": "to create and share photos, but to do it"
+    },
+    {
+      "start": 209.04,
+      "end": 213.6,
+      "text": "in a in a format that kind of existed"
+    },
+    {
+      "start": 211.52,
+      "end": 214.96,
+      "text": "uniquely just in their own platform. We"
+    },
+    {
+      "start": 213.6,
+      "end": 216.4,
+      "text": "wanted to do the same thing for audio."
+    },
+    {
+      "start": 214.96,
+      "end": 218.08,
+      "text": "We wanted to make it such that, you"
+    },
+    {
+      "start": 216.4,
+      "end": 219.36,
+      "text": "know, on on your phone, you could tap a"
+    },
+    {
+      "start": 218.08,
+      "end": 221.2,
+      "text": "button or you could hold the phone right"
+    },
+    {
+      "start": 219.36,
+      "end": 223.36,
+      "text": "up to your ear, talk, maybe do some"
+    },
+    {
+      "start": 221.2,
+      "end": 225.12,
+      "text": "light editing, and then people would"
+    },
+    {
+      "start": 223.36,
+      "end": 226.72,
+      "text": "just come into this app to listen and"
+    },
+    {
+      "start": 225.12,
+      "end": 229.84,
+      "text": "interact with this content just inside"
+    },
+    {
+      "start": 226.72,
+      "end": 232.48,
+      "text": "of Ankor. But what we found was um"
+    },
+    {
+      "start": 229.84,
+      "end": 234.8,
+      "text": "increasingly like over over many"
+    },
+    {
+      "start": 232.48,
+      "end": 236.32,
+      "text": "iterations people were good to create"
+    },
+    {
+      "start": 234.8,
+      "end": 238.4,
+      "text": "content on anchor. But when it came to"
+    },
+    {
+      "start": 236.32,
+      "end": 241.6,
+      "text": "listening it was like why would I listen"
+    },
+    {
+      "start": 238.4,
+      "end": 243.44,
+      "text": "to this like not great quality audio in"
+    },
+    {
+      "start": 241.6,
+      "end": 245.44,
+      "text": "this other random app when I have all"
+    },
+    {
+      "start": 243.44,
+      "end": 248.0,
+      "text": "these podcasts like every podcast in the"
+    },
+    {
+      "start": 245.44,
+      "end": 249.84,
+      "text": "world uh on Apple podcast and Spotify"
+    },
+    {
+      "start": 248.0,
+      "end": 253.04,
+      "text": "can and I can listen over here. I was"
+    },
+    {
+      "start": 249.84,
+      "end": 255.68,
+      "text": "looking at sort of the uh ranking"
+    },
+    {
+      "start": 253.04,
+      "end": 259.44,
+      "text": "listings of all the top consumer AI"
+    },
+    {
+      "start": 255.68,
+      "end": 260.88,
+      "text": "startups uh today and you have sort of"
+    },
+    {
+      "start": 259.44,
+      "end": 263.04,
+      "text": "two of the absolute top."
+    },
+    {
+      "start": 260.88,
+      "end": 265.2,
+      "text": ">> Yeah. I and and I think actually Sununo"
+    },
+    {
+      "start": 263.04,
+      "end": 267.92,
+      "text": "is an interesting one because I think"
+    },
+    {
+      "start": 265.2,
+      "end": 269.68,
+      "text": "the thesis of Sununo is actually quite"
+    },
+    {
+      "start": 267.92,
+      "end": 273.12,
+      "text": "similar to the thesis that I just"
+    },
+    {
+      "start": 269.68,
+      "end": 275.2,
+      "text": "described for Ankor and and again for a"
+    },
+    {
+      "start": 273.12,
+      "end": 277.44,
+      "text": "number of these kind of media platforms"
+    },
+    {
+      "start": 275.2,
+      "end": 280.8,
+      "text": "that came up and in the years you"
+    },
+    {
+      "start": 277.44,
+      "end": 282.4,
+      "text": "mentioned maybe 2012 2013 2014 you know"
+    },
+    {
+      "start": 280.8,
+      "end": 283.92,
+      "text": "if you go back to that time or if you go"
+    },
+    {
+      "start": 282.4,
+      "end": 285.36,
+      "text": "back even earlier and this probably"
+    },
+    {
+      "start": 283.92,
+      "end": 287.12,
+      "text": "connects to some of the work you did"
+    },
+    {
+      "start": 285.36,
+      "end": 289.12,
+      "text": "with with your startup it's easy to"
+    },
+    {
+      "start": 287.12,
+      "end": 291.68,
+      "text": "forget just how hard it was to publish"
+    },
+    {
+      "start": 289.12,
+      "end": 293.36,
+      "text": "content right how write content and"
+    },
+    {
+      "start": 291.68,
+      "end": 296.16,
+      "text": "publish it on the internet or to take a"
+    },
+    {
+      "start": 293.36,
+      "end": 297.52,
+      "text": "photo and put it in a feed that millions"
+    },
+    {
+      "start": 296.16,
+      "end": 299.52,
+      "text": "and millions of people are scrolling"
+    },
+    {
+      "start": 297.52,
+      "end": 300.96,
+      "text": "through or take a video and upload it to"
+    },
+    {
+      "start": 299.52,
+      "end": 303.28,
+      "text": "YouTube like maybe you know we'll just"
+    },
+    {
+      "start": 300.96,
+      "end": 305.68,
+      "text": "use Instagram as an example that made it"
+    },
+    {
+      "start": 303.28,
+      "end": 307.84,
+      "text": "re not only really really easy to create"
+    },
+    {
+      "start": 305.68,
+      "end": 309.68,
+      "text": "something beautiful with minimal effort"
+    },
+    {
+      "start": 307.84,
+      "end": 311.28,
+      "text": "but then find a distribution channel"
+    },
+    {
+      "start": 309.68,
+      "end": 313.2,
+      "text": "where you can start to get it out there"
+    },
+    {
+      "start": 311.28,
+      "end": 315.36,
+      "text": "build an audience if you look back at"
+    },
+    {
+      "start": 313.2,
+      "end": 317.12,
+      "text": "the the history of all the all the"
+    },
+    {
+      "start": 315.36,
+      "end": 318.96,
+      "text": "products that have done this in one form"
+    },
+    {
+      "start": 317.12,
+      "end": 321.44,
+      "text": "or another over the past 25 years"
+    },
+    {
+      "start": 318.96,
+      "end": 323.68,
+      "text": "nobody's done it for music. The reason,"
+    },
+    {
+      "start": 321.44,
+      "end": 326.32,
+      "text": "you know, we we believe is that"
+    },
+    {
+      "start": 323.68,
+      "end": 328.48,
+      "text": "technology up until AI did not make"
+    },
+    {
+      "start": 326.32,
+      "end": 330.24,
+      "text": "music creation easier, right? The camera"
+    },
+    {
+      "start": 328.48,
+      "end": 332.4,
+      "text": "made photo taking easier. The camera"
+    },
+    {
+      "start": 330.24,
+      "end": 334.56,
+      "text": "phone made photo uh taking easier. The"
+    },
+    {
+      "start": 332.4,
+      "end": 337.44,
+      "text": "microphone made podcasting easier. The"
+    },
+    {
+      "start": 334.56,
+      "end": 339.76,
+      "text": "camera made video easier, but we never"
+    },
+    {
+      "start": 337.44,
+      "end": 342.48,
+      "text": "really had a technology that, you know,"
+    },
+    {
+      "start": 339.76,
+      "end": 344.88,
+      "text": "democratized music creation. And so, the"
+    },
+    {
+      "start": 342.48,
+      "end": 347.28,
+      "text": "thesis with Zuno from the beginning was,"
+    },
+    {
+      "start": 344.88,
+      "end": 348.64,
+      "text": "well, now with AI, anyone can make"
+    },
+    {
+      "start": 347.28,
+      "end": 352.4,
+      "text": "music. you know, you have like the most"
+    },
+    {
+      "start": 348.64,
+      "end": 354.56,
+      "text": "popular format maybe in in the world,"
+    },
+    {
+      "start": 352.4,
+      "end": 356.24,
+      "text": "everyone listens to it. What happens if"
+    },
+    {
+      "start": 354.56,
+      "end": 356.72,
+      "text": "you can get everyone creating it as"
+    },
+    {
+      "start": 356.24,
+      "end": 358.72,
+      "text": "well?"
+    },
+    {
+      "start": 356.72,
+      "end": 361.28,
+      "text": ">> Has that one sort of evolved? I mean,"
+    },
+    {
+      "start": 358.72,
+      "end": 364.0,
+      "text": "initially I imagine it's you maybe they"
+    },
+    {
+      "start": 361.28,
+      "end": 366.24,
+      "text": "were going after um there's a readymade"
+    },
+    {
+      "start": 364.0,
+      "end": 368.4,
+      "text": "almost like proumer B2B audience, you"
+    },
+    {
+      "start": 366.24,
+      "end": 369.92,
+      "text": "know, it was when did they get started?"
+    },
+    {
+      "start": 368.4,
+      "end": 371.6,
+      "text": ">> Yeah, I mean it's still relatively new."
+    },
+    {
+      "start": 369.92,
+      "end": 372.16,
+      "text": "The company's more or less like two"
+    },
+    {
+      "start": 371.6,
+      "end": 374.16,
+      "text": "years old now."
+    },
+    {
+      "start": 372.16,
+      "end": 376.96,
+      "text": ">> Oh my god. Yeah. So even two years ago."
+    },
+    {
+      "start": 374.16,
+      "end": 378.64,
+      "text": ">> Yeah. I imagine like you have this tech"
+    },
+    {
+      "start": 376.96,
+      "end": 380.96,
+      "text": "and you're like how do how how are"
+    },
+    {
+      "start": 378.64,
+      "end": 382.48,
+      "text": "people going to buy this or use it? What"
+    },
+    {
+      "start": 380.96,
+      "end": 385.04,
+      "text": "kind of business are we going to build?"
+    },
+    {
+      "start": 382.48,
+      "end": 387.2,
+      "text": "Yeah. And you know I imagine the obvious"
+    },
+    {
+      "start": 385.04,
+      "end": 388.8,
+      "text": "start would be let's go after proumer"
+    },
+    {
+      "start": 387.2,
+      "end": 390.72,
+      "text": "creators. But you know that's not sort"
+    },
+    {
+      "start": 388.8,
+      "end": 392.24,
+      "text": "of how it worked out."
+    },
+    {
+      "start": 390.72,
+      "end": 393.84,
+      "text": ">> You you you should talk to Mikey the"
+    },
+    {
+      "start": 392.24,
+      "end": 395.28,
+      "text": "CEO. But, you know, if he were sitting"
+    },
+    {
+      "start": 393.84,
+      "end": 398.8,
+      "text": "here, what I think he would say was the"
+    },
+    {
+      "start": 395.28,
+      "end": 400.96,
+      "text": "vision has always been to enable more"
+    },
+    {
+      "start": 398.8,
+      "end": 402.88,
+      "text": "and more people to experience kind of"
+    },
+    {
+      "start": 400.96,
+      "end": 405.36,
+      "text": "that that joy of making music that"
+    },
+    {
+      "start": 402.88,
+      "end": 407.36,
+      "text": "previously only professionals could. I"
+    },
+    {
+      "start": 405.36,
+      "end": 409.28,
+      "text": "think early on when we were evaluating"
+    },
+    {
+      "start": 407.36,
+      "end": 410.96,
+      "text": "it, one of the, you know, a lot of the"
+    },
+    {
+      "start": 409.28,
+      "end": 412.32,
+      "text": "behavior we were seeing, it felt a"
+    },
+    {
+      "start": 410.96,
+      "end": 413.92,
+      "text": "little bit like a novelty."
+    },
+    {
+      "start": 412.32,
+      "end": 416.4,
+      "text": ">> I mean, Chat GPT felt like that."
+    },
+    {
+      "start": 413.92,
+      "end": 418.24,
+      "text": ">> Yeah, totally. But increasingly, I think"
+    },
+    {
+      "start": 416.4,
+      "end": 420.16,
+      "text": "what we've seen and what we've observed"
+    },
+    {
+      "start": 418.24,
+      "end": 422.56,
+      "text": "is that more and more people are using"
+    },
+    {
+      "start": 420.16,
+      "end": 423.92,
+      "text": "it to make something that's meaningful"
+    },
+    {
+      "start": 422.56,
+      "end": 425.2,
+      "text": "to them, right? Something that they're"
+    },
+    {
+      "start": 423.92,
+      "end": 426.72,
+      "text": "serious about. They're they're becoming"
+    },
+    {
+      "start": 425.2,
+      "end": 429.04,
+      "text": "creators, right? I think the other"
+    },
+    {
+      "start": 426.72,
+      "end": 431.28,
+      "text": "behavior we saw as we dug in, which was"
+    },
+    {
+      "start": 429.04,
+      "end": 434.24,
+      "text": "super fascinating, was people were"
+    },
+    {
+      "start": 431.28,
+      "end": 435.76,
+      "text": "making music for themselves. They're"
+    },
+    {
+      "start": 434.24,
+      "end": 437.68,
+      "text": "creating the music that then they will"
+    },
+    {
+      "start": 435.76,
+      "end": 438.96,
+      "text": "go listen to, which I think is super"
+    },
+    {
+      "start": 437.68,
+      "end": 441.04,
+      "text": "interesting. I can't really think of a"
+    },
+    {
+      "start": 438.96,
+      "end": 443.44,
+      "text": "behavior we've seen like that in any"
+    },
+    {
+      "start": 441.04,
+      "end": 445.28,
+      "text": "other format. Um, like people don't"
+    },
+    {
+      "start": 443.44,
+      "end": 445.92,
+      "text": "write for, you know, to read their own"
+    },
+    {
+      "start": 445.28,
+      "end": 447.92,
+      "text": "stuff."
+    },
+    {
+      "start": 445.92,
+      "end": 449.92,
+      "text": ">> I We're just such an at an early stage."
+    },
+    {
+      "start": 447.92,
+      "end": 451.28,
+      "text": "I mean, I think both of us"
+    },
+    {
+      "start": 449.92,
+      "end": 453.68,
+      "text": ">> really like Well, you're doing it."
+    },
+    {
+      "start": 451.28,
+      "end": 456.32,
+      "text": "You're actually finding some of the"
+    },
+    {
+      "start": 453.68,
+      "end": 457.44,
+      "text": "biggest new categories. Uh, and"
+    },
+    {
+      "start": 456.32,
+      "end": 459.12,
+      "text": ">> you guys are doing it, too. [laughter]"
+    },
+    {
+      "start": 457.44,
+      "end": 461.36,
+      "text": ">> Yeah. We're I mean, we're we're working"
+    },
+    {
+      "start": 459.12,
+      "end": 463.52,
+      "text": "on it. I think this last batch I funded"
+    },
+    {
+      "start": 461.36,
+      "end": 465.68,
+      "text": "uh enough to have an entire section, you"
+    },
+    {
+      "start": 463.52,
+      "end": 468.08,
+      "text": "know, it's about six startups that are"
+    },
+    {
+      "start": 465.68,
+      "end": 469.44,
+      "text": "all consumer based. Yeah. Which"
+    },
+    {
+      "start": 468.08,
+      "end": 471.2,
+      "text": ">> you're seeing a lot more consumer then."
+    },
+    {
+      "start": 469.44,
+      "end": 472.72,
+      "text": ">> Yeah. Exactly. But I think we're a"
+    },
+    {
+      "start": 471.2,
+      "end": 473.6,
+      "text": "little bit in the minority. Like why do"
+    },
+    {
+      "start": 472.72,
+      "end": 474.48,
+      "text": "you think that is"
+    },
+    {
+      "start": 473.6,
+      "end": 477.2,
+      "text": ">> about consumer?"
+    },
+    {
+      "start": 474.48,
+      "end": 479.68,
+      "text": ">> Yeah. I mean every B2B like sort of ate"
+    },
+    {
+      "start": 477.2,
+      "end": 481.6,
+      "text": "everything over the last 10ish years."
+    },
+    {
+      "start": 479.68,
+      "end": 484.24,
+      "text": ">> I I think that's it. I mean I think the"
+    },
+    {
+      "start": 481.6,
+      "end": 486.0,
+      "text": "reality is there was a especially preai"
+    },
+    {
+      "start": 484.24,
+      "end": 489.44,
+      "text": "there was kind of like a playbook for"
+    },
+    {
+      "start": 486.0,
+      "end": 491.44,
+      "text": "B2B and SAS and if you had the right"
+    },
+    {
+      "start": 489.44,
+      "end": 494.16,
+      "text": "team and the right wedge like you could"
+    },
+    {
+      "start": 491.44,
+      "end": 495.2,
+      "text": "you could much more easily I would say I"
+    },
+    {
+      "start": 494.16,
+      "end": 496.4,
+      "text": "don't want to like trivialize any of"
+    },
+    {
+      "start": 495.2,
+      "end": 498.88,
+      "text": "this stuff but it was it was more"
+    },
+    {
+      "start": 496.4,
+      "end": 500.72,
+      "text": "straightforward I think. But consumer"
+    },
+    {
+      "start": 498.88,
+      "end": 503.52,
+      "text": "has kind of always been a little bit"
+    },
+    {
+      "start": 500.72,
+      "end": 506.4,
+      "text": "more lightning in a bottle, right? And I"
+    },
+    {
+      "start": 503.52,
+      "end": 508.48,
+      "text": "think the hardest thing with consumer is"
+    },
+    {
+      "start": 506.4,
+      "end": 510.64,
+      "text": "not only identifying the trend and the"
+    },
+    {
+      "start": 508.48,
+      "end": 512.24,
+      "text": "team, but getting the timing right"
+    },
+    {
+      "start": 510.64,
+      "end": 514.72,
+      "text": "because so many things are are attached"
+    },
+    {
+      "start": 512.24,
+      "end": 516.24,
+      "text": "to cultural moments. Like when is this"
+    },
+    {
+      "start": 514.72,
+      "end": 517.76,
+      "text": "thing actually going to tap into the"
+    },
+    {
+      "start": 516.24,
+      "end": 519.6,
+      "text": "culture and be relevant with the culture"
+    },
+    {
+      "start": 517.76,
+      "end": 521.76,
+      "text": "and that's like almost an impossible"
+    },
+    {
+      "start": 519.6,
+      "end": 524.72,
+      "text": "thing to predict. You know, with Sunno,"
+    },
+    {
+      "start": 521.76,
+      "end": 527.12,
+      "text": "I feel like we kind of got lucky that we"
+    },
+    {
+      "start": 524.72,
+      "end": 528.8,
+      "text": "met the team at a certain time and uh"
+    },
+    {
+      "start": 527.12,
+      "end": 531.2,
+      "text": "were able to invest like kind of just as"
+    },
+    {
+      "start": 528.8,
+      "end": 532.8,
+      "text": "it was inflecting. And yeah, sometimes"
+    },
+    {
+      "start": 531.2,
+      "end": 534.96,
+      "text": "you just you just get lucky and maybe"
+    },
+    {
+      "start": 532.8,
+      "end": 536.56,
+      "text": "overpay just just to be able to do it."
+    },
+    {
+      "start": 534.96,
+      "end": 538.56,
+      "text": "But no, I mean, there are obviously so"
+    },
+    {
+      "start": 536.56,
+      "end": 540.16,
+      "text": "many great consumer investors out there"
+    },
+    {
+      "start": 538.56,
+      "end": 541.68,
+      "text": "that you look back at some of these bets"
+    },
+    {
+      "start": 540.16,
+      "end": 543.44,
+      "text": "they made and you just think, \"Wow, like"
+    },
+    {
+      "start": 541.68,
+      "end": 545.6,
+      "text": "the timing was impeccable.\" But the"
+    },
+    {
+      "start": 543.44,
+      "end": 547.28,
+      "text": "bottom line is we have AI now and we"
+    },
+    {
+      "start": 545.6,
+      "end": 548.96,
+      "text": "have all these new opportunities and"
+    },
+    {
+      "start": 547.28,
+      "end": 550.96,
+      "text": "things we can create that we previously"
+    },
+    {
+      "start": 548.96,
+      "end": 552.56,
+      "text": "couldn't. So, I just think it's a great"
+    },
+    {
+      "start": 550.96,
+      "end": 554.72,
+      "text": "it's a great time to be betting in any"
+    },
+    {
+      "start": 552.56,
+      "end": 556.72,
+      "text": "category. I think increasingly we're"
+    },
+    {
+      "start": 554.72,
+      "end": 559.2,
+      "text": "finding ourselves betting on people who"
+    },
+    {
+      "start": 556.72,
+      "end": 561.28,
+      "text": "are just great at building products and"
+    },
+    {
+      "start": 559.2,
+      "end": 562.96,
+      "text": "kind of trusting that maybe there's an"
+    },
+    {
+      "start": 561.28,
+      "end": 565.36,
+      "text": "opportunity that we can't see that this"
+    },
+    {
+      "start": 562.96,
+      "end": 566.48,
+      "text": "person can through through the"
+    },
+    {
+      "start": 565.36,
+      "end": 567.92,
+      "text": "opportunity of AI."
+    },
+    {
+      "start": 566.48,
+      "end": 569.92,
+      "text": ">> Yeah, that makes sense. I guess the"
+    },
+    {
+      "start": 567.92,
+      "end": 572.16,
+      "text": "framework that I've been using that I"
+    },
+    {
+      "start": 569.92,
+      "end": 573.04,
+      "text": "hope turns out to be true, we'll see, is"
+    },
+    {
+      "start": 572.16,
+      "end": 574.88,
+      "text": "um"
+    },
+    {
+      "start": 573.04,
+      "end": 576.88,
+      "text": ">> like AI will actually increase"
+    },
+    {
+      "start": 574.88,
+      "end": 578.8,
+      "text": "retention, but you're sort of still"
+    },
+    {
+      "start": 576.88,
+      "end": 580.64,
+      "text": "subject unless you have like"
+    },
+    {
+      "start": 578.8,
+      "end": 582.4,
+      "text": ">> there aren't new types of distribution"
+    },
+    {
+      "start": 580.64,
+      "end": 584.32,
+      "text": "yet like you know sort of"
+    },
+    {
+      "start": 582.4,
+      "end": 588.48,
+      "text": ">> classically the death of consumer in"
+    },
+    {
+      "start": 584.32,
+      "end": 590.96,
+      "text": "like the 2013 era was about um the"
+    },
+    {
+      "start": 588.48,
+      "end": 592.96,
+      "text": "platforms like collapsing in like APIs"
+    },
+    {
+      "start": 590.96,
+      "end": 595.36,
+      "text": "closing down like you have to bring your"
+    },
+    {
+      "start": 592.96,
+      "end": 597.2,
+      "text": "own distribution but the platform won't"
+    },
+    {
+      "start": 595.36,
+      "end": 599.52,
+      "text": "give you more distribution. And you know"
+    },
+    {
+      "start": 597.2,
+      "end": 601.92,
+      "text": "there was sort of this one time opening"
+    },
+    {
+      "start": 599.52,
+      "end": 604.0,
+      "text": "and then a shutting and then suddenly"
+    },
+    {
+      "start": 601.92,
+      "end": 606.4,
+      "text": "you have to charge you have to have a"
+    },
+    {
+      "start": 604.0,
+      "end": 608.08,
+      "text": "subscription consumer service. AI"
+    },
+    {
+      "start": 606.4,
+      "end": 608.4,
+      "text": "interestingly is expensive."
+    },
+    {
+      "start": 608.08,
+      "end": 609.76,
+      "text": ">> Yep."
+    },
+    {
+      "start": 608.4,
+      "end": 612.48,
+      "text": ">> On the one hand people are willing to"
+    },
+    {
+      "start": 609.76,
+      "end": 615.04,
+      "text": "pay on the other hand like it's you know"
+    },
+    {
+      "start": 612.48,
+      "end": 618.08,
+      "text": "$20 a month or up to $200 a month if"
+    },
+    {
+      "start": 615.04,
+      "end": 621.12,
+      "text": "you're doing work with it. So you know"
+    },
+    {
+      "start": 618.08,
+      "end": 624.08,
+      "text": "basically retention will go up. So"
+    },
+    {
+      "start": 621.12,
+      "end": 626.32,
+      "text": "certain paid models will be uh possible"
+    },
+    {
+      "start": 624.08,
+      "end": 628.72,
+      "text": "now that weren't possible earlier, but"
+    },
+    {
+      "start": 626.32,
+      "end": 629.92,
+      "text": "then you still got to solve the um"
+    },
+    {
+      "start": 628.72,
+      "end": 631.2,
+      "text": "distribution problem."
+    },
+    {
+      "start": 629.92,
+      "end": 632.96,
+      "text": ">> That hasn't changed. That hasn't gone"
+    },
+    {
+      "start": 631.2,
+      "end": 636.0,
+      "text": "away. I do think there will be new"
+    },
+    {
+      "start": 632.96,
+      "end": 637.44,
+      "text": "distribution opportunities as AI becomes"
+    },
+    {
+      "start": 636.0,
+      "end": 639.52,
+      "text": "ubiquitous. I mean, we're seeing this"
+    },
+    {
+      "start": 637.44,
+      "end": 642.16,
+      "text": "now through AI. New distribution"
+    },
+    {
+      "start": 639.52,
+      "end": 644.0,
+      "text": "channels will emerge that people will"
+    },
+    {
+      "start": 642.16,
+      "end": 646.16,
+      "text": "exploit and find opportunities in. But"
+    },
+    {
+      "start": 644.0,
+      "end": 648.64,
+      "text": "you're right, for like a SAS product or"
+    },
+    {
+      "start": 646.16,
+      "end": 650.48,
+      "text": "a pure net new consumer product today,"
+    },
+    {
+      "start": 648.64,
+      "end": 652.24,
+      "text": "you still have to just go and build the"
+    },
+    {
+      "start": 650.48,
+      "end": 653.04,
+      "text": "distribution yourself, which is arguably"
+    },
+    {
+      "start": 652.24,
+      "end": 654.72,
+      "text": "the hardest thing."
+    },
+    {
+      "start": 653.04,
+      "end": 657.52,
+      "text": ">> Yeah, it's funny. I was uh hanging out"
+    },
+    {
+      "start": 654.72,
+      "end": 659.04,
+      "text": "with Eugenia from Replica. She has a new"
+    },
+    {
+      "start": 657.52,
+      "end": 662.0,
+      "text": "startup, but"
+    },
+    {
+      "start": 659.04,
+      "end": 663.68,
+      "text": ">> I was asking her about, you know, for a"
+    },
+    {
+      "start": 662.0,
+      "end": 665.04,
+      "text": "lot of these consumer startups, you"
+    },
+    {
+      "start": 663.68,
+      "end": 666.96,
+      "text": "know, how do you hire your head of"
+    },
+    {
+      "start": 665.04,
+      "end": 669.28,
+      "text": "growth for a consumer startup? And she's"
+    },
+    {
+      "start": 666.96,
+      "end": 670.96,
+      "text": "like, actually, you can't uh you can't"
+    },
+    {
+      "start": 669.28,
+      "end": 672.64,
+      "text": "hire them in the United States anymore"
+    },
+    {
+      "start": 670.96,
+      "end": 674.0,
+      "text": "or in the West. like they're all in"
+    },
+    {
+      "start": 672.64,
+      "end": 675.12,
+      "text": "Eastern Europe."
+    },
+    {
+      "start": 674.0,
+      "end": 675.28,
+      "text": ">> Yeah, I've heard that a little bit as"
+    },
+    {
+      "start": 675.12,
+      "end": 676.72,
+      "text": "well,"
+    },
+    {
+      "start": 675.28,
+      "end": 678.8,
+      "text": ">> which is interesting. It became like a"
+    },
+    {
+      "start": 676.72,
+      "end": 681.44,
+      "text": "lost art like we forgot how to do uh"
+    },
+    {
+      "start": 678.8,
+      "end": 683.68,
+      "text": "consumer distribution and we forgot how"
+    },
+    {
+      "start": 681.44,
+      "end": 685.6,
+      "text": "to create the SR71. [laughter] It's just"
+    },
+    {
+      "start": 683.68,
+      "end": 687.2,
+      "text": "like it's been so long, you know."
+    },
+    {
+      "start": 685.6,
+      "end": 689.36,
+      "text": ">> I think that, you know, her product as"
+    },
+    {
+      "start": 687.2,
+      "end": 692.32,
+      "text": "an example. I think it's a great example"
+    },
+    {
+      "start": 689.36,
+      "end": 694.64,
+      "text": "of you could see her and that type of"
+    },
+    {
+      "start": 692.32,
+      "end": 696.72,
+      "text": "product borrowing from the previous"
+    },
+    {
+      "start": 694.64,
+      "end": 699.04,
+      "text": "playbooks of of Instagram and Twitter"
+    },
+    {
+      "start": 696.72,
+      "end": 701.2,
+      "text": "and maybe trying to leverage existing"
+    },
+    {
+      "start": 699.04,
+      "end": 703.04,
+      "text": "channels distribution to get that out"
+    },
+    {
+      "start": 701.2,
+      "end": 704.96,
+      "text": "there like I don't know I what are the"
+    },
+    {
+      "start": 703.04,
+      "end": 706.24,
+      "text": "ways that you can distribute an app on"
+    },
+    {
+      "start": 704.96,
+      "end": 707.68,
+      "text": "like an existing channel?"
+    },
+    {
+      "start": 706.24,
+      "end": 709.68,
+      "text": ">> I think it's going to be well basically"
+    },
+    {
+      "start": 707.68,
+      "end": 710.56,
+      "text": "it's like toy apps right now but it's"
+    },
+    {
+      "start": 709.68,
+      "end": 712.16,
+      "text": "very well done."
+    },
+    {
+      "start": 710.56,
+      "end": 714.0,
+      "text": ">> Totally. I mean, it's kind the kind of"
+    },
+    {
+      "start": 712.16,
+      "end": 716.0,
+      "text": "stuff you could do in codegen tools"
+    },
+    {
+      "start": 714.0,
+      "end": 718.48,
+      "text": "today, but having it be entirely"
+    },
+    {
+      "start": 716.0,
+      "end": 719.76,
+      "text": "contained to your mobile phone is I"
+    },
+    {
+      "start": 718.48,
+      "end": 720.24,
+      "text": "mean, that's like an Instagram moment"
+    },
+    {
+      "start": 719.76,
+      "end": 721.28,
+      "text": "right there."
+    },
+    {
+      "start": 720.24,
+      "end": 721.84,
+      "text": ">> 100%. Yeah, that's what [clears throat]"
+    },
+    {
+      "start": 721.28,
+      "end": 724.08,
+      "text": "I meant. Yeah."
+    },
+    {
+      "start": 721.84,
+      "end": 725.6,
+      "text": ">> And then I think like basically egroups,"
+    },
+    {
+      "start": 724.08,
+      "end": 727.76,
+      "text": "Yahoo groups, like all of these things"
+    },
+    {
+      "start": 725.6,
+      "end": 729.36,
+      "text": "were trying to scratch an itch and"
+    },
+    {
+      "start": 727.76,
+      "end": 731.76,
+      "text": ">> you know, you're just not willing to go"
+    },
+    {
+      "start": 729.36,
+      "end": 733.6,
+      "text": "through like a customization step and"
+    },
+    {
+      "start": 731.76,
+      "end": 735.52,
+      "text": "group software is just like the"
+    },
+    {
+      "start": 733.6,
+      "end": 736.64,
+      "text": "perennial problem. But this is a perfect"
+    },
+    {
+      "start": 735.52,
+      "end": 738.64,
+      "text": "example of what we were talking about"
+    },
+    {
+      "start": 736.64,
+      "end": 740.72,
+      "text": "earlier. Like you would never without AI"
+    },
+    {
+      "start": 738.64,
+      "end": 742.32,
+      "text": "and codegen, you know, two years, you're"
+    },
+    {
+      "start": 740.72,
+      "end": 744.08,
+      "text": "like, why would I why would I invest in"
+    },
+    {
+      "start": 742.32,
+      "end": 744.88,
+      "text": ">> why am I so lucky to work on that right"
+    },
+    {
+      "start": 744.08,
+      "end": 746.56,
+      "text": "now, right? Yeah."
+    },
+    {
+      "start": 744.88,
+      "end": 748.16,
+      "text": ">> Yeah. But but now because of AI and"
+    },
+    {
+      "start": 746.56,
+      "end": 749.44,
+      "text": "codegen, it's like, oh my oh my god,"
+    },
+    {
+      "start": 748.16,
+      "end": 751.52,
+      "text": "like maybe there's actually a really"
+    },
+    {
+      "start": 749.44,
+      "end": 753.76,
+      "text": "interesting opportunity here. Maybe you"
+    },
+    {
+      "start": 751.52,
+      "end": 755.6,
+      "text": "and I have uh missed the the browser"
+    },
+    {
+      "start": 753.76,
+      "end": 758.96,
+      "text": "opportunity now that we have DIA and"
+    },
+    {
+      "start": 755.6,
+      "end": 761.68,
+      "text": "Comet. But I think back to 2 3 years"
+    },
+    {
+      "start": 758.96,
+      "end": 763.28,
+      "text": "ago, I saw these browsers and I just I"
+    },
+    {
+      "start": 761.68,
+      "end": 765.28,
+      "text": "just passed on the opportunity cuz I'm"
+    },
+    {
+      "start": 763.28,
+      "end": 766.8,
+      "text": "like, \"Oh, you you can't compete with"
+    },
+    {
+      "start": 765.28,
+      "end": 770.08,
+      "text": "Chrome or Safari because they're"
+    },
+    {
+      "start": 766.8,
+      "end": 772.32,
+      "text": "embedded in the OS.\" And it's like, \"No,"
+    },
+    {
+      "start": 770.08,
+      "end": 773.92,
+      "text": "actually AI creates like a really"
+    },
+    {
+      "start": 772.32,
+      "end": 775.92,
+      "text": "interesting opportunity for the browser"
+    },
+    {
+      "start": 773.92,
+      "end": 777.84,
+      "text": "to be an investable service. But if I"
+    },
+    {
+      "start": 775.92,
+      "end": 778.88,
+      "text": "were a consumer founder going through YC"
+    },
+    {
+      "start": 777.84,
+      "end": 780.72,
+      "text": "right now, I might be thinking to"
+    },
+    {
+      "start": 778.88,
+      "end": 782.4,
+      "text": "myself, what are all the opportunities"
+    },
+    {
+      "start": 780.72,
+      "end": 784.72,
+      "text": "that have sort of been written off that"
+    },
+    {
+      "start": 782.4,
+      "end": 786.32,
+      "text": "I can inject AI into inside a consumer?\""
+    },
+    {
+      "start": 784.72,
+      "end": 788.72,
+      "text": "What's funny is you should try all the"
+    },
+    {
+      "start": 786.32,
+      "end": 790.24,
+      "text": "things and um"
+    },
+    {
+      "start": 788.72,
+      "end": 792.32,
+      "text": ">> and then you're only limited by"
+    },
+    {
+      "start": 790.24,
+      "end": 793.2,
+      "text": "distribution and then the funny thing is"
+    },
+    {
+      "start": 792.32,
+      "end": 795.52,
+      "text": "like"
+    },
+    {
+      "start": 793.2,
+      "end": 798.0,
+      "text": ">> you know what do you what's your take on"
+    },
+    {
+      "start": 795.52,
+      "end": 800.72,
+      "text": "you can access I mean hundreds to at"
+    },
+    {
+      "start": 798.0,
+      "end": 803.52,
+      "text": "least maybe maybe 10 thousand maybe tens"
+    },
+    {
+      "start": 800.72,
+      "end": 805.92,
+      "text": "of thousands of early adopters who are"
+    },
+    {
+      "start": 803.52,
+      "end": 808.24,
+      "text": "uh anons on X"
+    },
+    {
+      "start": 805.92,
+      "end": 809.92,
+      "text": ">> that's turned out to be uh a whole way"
+    },
+    {
+      "start": 808.24,
+      "end": 811.36,
+      "text": "to you know get online and get"
+    },
+    {
+      "start": 809.92,
+      "end": 813.92,
+      "text": "customers. I actually was telling your"
+    },
+    {
+      "start": 811.36,
+      "end": 816.32,
+      "text": "your team before the show that um one of"
+    },
+    {
+      "start": 813.92,
+      "end": 819.76,
+      "text": "PG's essays was like a big it was like a"
+    },
+    {
+      "start": 816.32,
+      "end": 821.44,
+      "text": "big big inspiration to uh how Anchor"
+    },
+    {
+      "start": 819.76,
+      "end": 823.52,
+      "text": "actually survived and and not just"
+    },
+    {
+      "start": 821.44,
+      "end": 824.72,
+      "text": "survived but like ended up figuring it"
+    },
+    {
+      "start": 823.52,
+      "end": 826.16,
+      "text": "out. [clears throat] We were dying. We"
+    },
+    {
+      "start": 824.72,
+      "end": 828.24,
+      "text": "were running out of money. We had like"
+    },
+    {
+      "start": 826.16,
+      "end": 830.24,
+      "text": "three months to before we shut it down."
+    },
+    {
+      "start": 828.24,
+      "end": 831.44,
+      "text": "We we told the team we're like this this"
+    },
+    {
+      "start": 830.24,
+      "end": 833.68,
+      "text": "isn't going to work. This product is"
+    },
+    {
+      "start": 831.44,
+      "end": 835.52,
+      "text": "just kind of bouncing along like it's"
+    },
+    {
+      "start": 833.68,
+      "end": 837.28,
+      "text": "growing but it's not growing great. And"
+    },
+    {
+      "start": 835.52,
+      "end": 838.96,
+      "text": "then we implemented this framework."
+    },
+    {
+      "start": 837.28,
+      "end": 840.72,
+      "text": "We're like, we have to hit 15%"
+    },
+    {
+      "start": 838.96,
+      "end": 843.28,
+      "text": "week-over-week growth every single week"
+    },
+    {
+      "start": 840.72,
+      "end": 845.28,
+      "text": "from here on out for the next 3 months."
+    },
+    {
+      "start": 843.28,
+      "end": 847.44,
+      "text": "And it forced us to challenge our"
+    },
+    {
+      "start": 845.28,
+      "end": 848.56,
+      "text": "assumptions and it forced us to pivot to"
+    },
+    {
+      "start": 847.44,
+      "end": 850.72,
+      "text": "something that we didn't want to pivot"
+    },
+    {
+      "start": 848.56,
+      "end": 852.96,
+      "text": "to but the users were asking for and"
+    },
+    {
+      "start": 850.72,
+      "end": 854.56,
+      "text": ">> oh so there was pull from the market for"
+    },
+    {
+      "start": 852.96,
+      "end": 854.96,
+      "text": "you know sort of going in that anchor"
+    },
+    {
+      "start": 854.56,
+      "end": 856.72,
+      "text": "direction."
+    },
+    {
+      "start": 854.96,
+      "end": 858.64,
+      "text": ">> Yeah. So the we wanted to do the social"
+    },
+    {
+      "start": 856.72,
+      "end": 860.48,
+      "text": "thing. We wanted to be the the platform"
+    },
+    {
+      "start": 858.64,
+      "end": 862.32,
+      "text": "because again that would have been a"
+    },
+    {
+      "start": 860.48,
+      "end": 864.16,
+      "text": "bigger opportunity but"
+    },
+    {
+      "start": 862.32,
+      "end": 866.64,
+      "text": ">> what we were hearing from the users is"
+    },
+    {
+      "start": 864.16,
+      "end": 867.92,
+      "text": "hey we love your tools. We don't want we"
+    },
+    {
+      "start": 866.64,
+      "end": 869.44,
+      "text": "don't want to bring listeners over here."
+    },
+    {
+      "start": 867.92,
+      "end": 871.84,
+      "text": "We want them to be able to listen where"
+    },
+    {
+      "start": 869.44,
+      "end": 873.92,
+      "text": "they're already listening. Help us get"
+    },
+    {
+      "start": 871.84,
+      "end": 875.6,
+      "text": "the our content on Spotify and Apple"
+    },
+    {
+      "start": 873.92,
+      "end": 877.36,
+      "text": "Podcasts. And these these things didn't"
+    },
+    {
+      "start": 875.6,
+      "end": 880.0,
+      "text": "have APIs at the time. There was no way"
+    },
+    {
+      "start": 877.36,
+      "end": 881.84,
+      "text": "for us to port that content over. And so"
+    },
+    {
+      "start": 880.0,
+      "end": 884.24,
+      "text": "we actually we built out a whole"
+    },
+    {
+      "start": 881.84,
+      "end": 886.64,
+      "text": "framework where we literally had"
+    },
+    {
+      "start": 884.24,
+      "end": 889.44,
+      "text": "physical human beings manually creating"
+    },
+    {
+      "start": 886.64,
+      "end": 891.84,
+      "text": "RSS feeds and submitting them to the"
+    },
+    {
+      "start": 889.44,
+      "end": 893.2,
+      "text": "Apple podcast store on our users behalf"
+    },
+    {
+      "start": 891.84,
+      "end": 894.48,
+      "text": "when they tapped a button in the app."
+    },
+    {
+      "start": 893.2,
+      "end": 895.76,
+      "text": "user didn't know it,"
+    },
+    {
+      "start": 894.48,
+      "end": 897.76,
+      "text": ">> but they would tap the button,"
+    },
+    {
+      "start": 895.76,
+      "end": 899.68,
+      "text": ">> do something unscalable. Yeah. Do"
+    },
+    {
+      "start": 897.76,
+      "end": 900.32,
+      "text": "something that doesn't scale and then"
+    },
+    {
+      "start": 899.68,
+      "end": 902.32,
+      "text": "scale it."
+    },
+    {
+      "start": 900.32,
+      "end": 904.4,
+      "text": ">> Exactly. And that worked. And we only"
+    },
+    {
+      "start": 902.32,
+      "end": 906.88,
+      "text": "got to that because we had this rule"
+    },
+    {
+      "start": 904.4,
+      "end": 909.2,
+      "text": "that we had to hit 15% week-over-week"
+    },
+    {
+      "start": 906.88,
+      "end": 910.96,
+      "text": "growth every single week. And it was and"
+    },
+    {
+      "start": 909.2,
+      "end": 912.72,
+      "text": "it was startups equals equals growth."
+    },
+    {
+      "start": 910.96,
+      "end": 913.92,
+      "text": ">> And then otherwise like don't do it or"
+    },
+    {
+      "start": 912.72,
+      "end": 915.68,
+      "text": "do something else."
+    },
+    {
+      "start": 913.92,
+      "end": 916.72,
+      "text": ">> Yeah. Yeah. Yeah. And every every week"
+    },
+    {
+      "start": 915.68,
+      "end": 918.16,
+      "text": "it was something else like what are we"
+    },
+    {
+      "start": 916.72,
+      "end": 919.52,
+      "text": "going to do this week to hit the growth?"
+    },
+    {
+      "start": 918.16,
+      "end": 921.04,
+      "text": ">> What do you think changed? I mean I"
+    },
+    {
+      "start": 919.52,
+      "end": 923.52,
+      "text": "guess before implementing that the"
+    },
+    {
+      "start": 921.04,
+      "end": 925.36,
+      "text": "default for startups is well you have a"
+    },
+    {
+      "start": 923.52,
+      "end": 927.76,
+      "text": "bunch of money in the bank you have some"
+    },
+    {
+      "start": 925.36,
+      "end": 929.44,
+      "text": "users and then the classic trap"
+    },
+    {
+      "start": 927.76,
+      "end": 930.96,
+      "text": "sometimes is oh well we have some"
+    },
+    {
+      "start": 929.44,
+      "end": 932.16,
+      "text": "technical debt we're going to take a"
+    },
+    {
+      "start": 930.96,
+      "end": 934.96,
+      "text": "month just to like work down the"
+    },
+    {
+      "start": 932.16,
+      "end": 937.2,
+      "text": "technical debt which is basically like"
+    },
+    {
+      "start": 934.96,
+      "end": 939.12,
+      "text": "you know treading water or like like"
+    },
+    {
+      "start": 937.2,
+      "end": 940.88,
+      "text": "slowly sinking into the water and then"
+    },
+    {
+      "start": 939.12,
+      "end": 944.8,
+      "text": "you're drowning. I I think I think you"
+    },
+    {
+      "start": 940.88,
+      "end": 946.64,
+      "text": "don't realize uh you're drowning until"
+    },
+    {
+      "start": 944.8,
+      "end": 948.4,
+      "text": "you kind of like look at the calendar"
+    },
+    {
+      "start": 946.64,
+      "end": 950.08,
+      "text": ">> and you're like, \"Okay, this is the date"
+    },
+    {
+      "start": 948.4,
+      "end": 951.84,
+      "text": "where if we don't figure it out, it's"
+    },
+    {
+      "start": 950.08,
+      "end": 953.44,
+      "text": "over.\" And like really staring that in"
+    },
+    {
+      "start": 951.84,
+      "end": 955.44,
+      "text": "the face and being like, \"Okay, we"
+    },
+    {
+      "start": 953.44,
+      "end": 957.36,
+      "text": "actually have 3 months to figure this"
+    },
+    {
+      "start": 955.44,
+      "end": 959.36,
+      "text": "out.\" And yeah, I think there is this"
+    },
+    {
+      "start": 957.36,
+      "end": 961.28,
+      "text": "trap that happens often, especially now"
+    },
+    {
+      "start": 959.36,
+      "end": 963.52,
+      "text": "where startups get over capitalized and"
+    },
+    {
+      "start": 961.28,
+      "end": 966.16,
+      "text": "they never never feel that pressure and"
+    },
+    {
+      "start": 963.52,
+      "end": 966.64,
+      "text": "they feel that they can just keep going"
+    },
+    {
+      "start": 966.16,
+      "end": 967.92,
+      "text": "forever."
+    },
+    {
+      "start": 966.64,
+      "end": 969.28,
+      "text": ">> Yeah, there's this other aspect. How"
+    },
+    {
+      "start": 967.92,
+      "end": 970.24,
+      "text": "many people were you at when"
+    },
+    {
+      "start": 969.28,
+      "end": 971.12,
+      "text": ">> we were about like eight."
+    },
+    {
+      "start": 970.24,
+      "end": 972.96,
+      "text": ">> Okay. Yeah."
+    },
+    {
+      "start": 971.12,
+      "end": 974.16,
+      "text": ">> So we could get everyone in the room and"
+    },
+    {
+      "start": 972.96,
+      "end": 976.08,
+      "text": "we could be like this is going to"
+    },
+    {
+      "start": 974.16,
+      "end": 976.88,
+      "text": "happen. We are going to fail unless we"
+    },
+    {
+      "start": 976.08,
+      "end": 979.68,
+      "text": "don't figure this out."
+    },
+    {
+      "start": 976.88,
+      "end": 982.24,
+      "text": ">> But if you had raised like you know"
+    },
+    {
+      "start": 979.68,
+      "end": 984.56,
+      "text": "today's seed and you know you had three"
+    },
+    {
+      "start": 982.24,
+      "end": 986.56,
+      "text": "times more money and maybe you had you"
+    },
+    {
+      "start": 984.56,
+      "end": 988.8,
+      "text": "know hired up and had like twice the"
+    },
+    {
+      "start": 986.56,
+      "end": 990.4,
+      "text": "size or three times the size of team and"
+    },
+    {
+      "start": 988.8,
+      "end": 991.68,
+      "text": "you couldn't fit them in a room."
+    },
+    {
+      "start": 990.4,
+      "end": 992.72,
+      "text": ">> Yeah, that would be harder. Although"
+    },
+    {
+      "start": 991.68,
+      "end": 994.24,
+      "text": "maybe we would be spending it"
+    },
+    {
+      "start": 992.72,
+      "end": 996.0,
+      "text": "differently because of AI. Maybe we"
+    },
+    {
+      "start": 994.24,
+      "end": 997.52,
+      "text": "would be maybe we would still have a"
+    },
+    {
+      "start": 996.0,
+      "end": 1000.0,
+      "text": "small team. Maybe we would be investing"
+    },
+    {
+      "start": 997.52,
+      "end": 1001.84,
+      "text": "more in marketing and distribution, Tik"
+    },
+    {
+      "start": 1000.0,
+      "end": 1004.16,
+      "text": "Tok influencers or something. I think"
+    },
+    {
+      "start": 1001.84,
+      "end": 1006.0,
+      "text": "our burn would probably be higher, but"
+    },
+    {
+      "start": 1004.16,
+      "end": 1006.4,
+      "text": "we wouldn't necessarily be a bigger"
+    },
+    {
+      "start": 1006.0,
+      "end": 1008.0,
+      "text": "team."
+    },
+    {
+      "start": 1006.4,
+      "end": 1010.32,
+      "text": ">> Yeah, I'm hoping that um some of the"
+    },
+    {
+      "start": 1008.0,
+      "end": 1012.08,
+      "text": "labs start experimenting even more with"
+    },
+    {
+      "start": 1010.32,
+      "end": 1015.28,
+      "text": "distribution. Like you saw that with the"
+    },
+    {
+      "start": 1012.08,
+      "end": 1016.56,
+      "text": "GPT store at OpenAI a little bit, but I"
+    },
+    {
+      "start": 1015.28,
+      "end": 1018.88,
+      "text": "think that was a little bit of a failed"
+    },
+    {
+      "start": 1016.56,
+      "end": 1020.64,
+      "text": "experiment. Like I think they might have"
+    },
+    {
+      "start": 1018.88,
+      "end": 1023.04,
+      "text": "even removed the GPT store or maybe it's"
+    },
+    {
+      "start": 1020.64,
+      "end": 1027.12,
+      "text": "still in there. It doesn't feel like a"
+    },
+    {
+      "start": 1023.04,
+      "end": 1029.92,
+      "text": "supernatural way to make an app. Like a"
+    },
+    {
+      "start": 1027.12,
+      "end": 1032.08,
+      "text": "GPT doesn't really feel like an app in"
+    },
+    {
+      "start": 1029.92,
+      "end": 1033.52,
+      "text": "some sense. Clearly, they still want to"
+    },
+    {
+      "start": 1032.08,
+      "end": 1034.72,
+      "text": "chase this opportunity though, right?"
+    },
+    {
+      "start": 1033.52,
+      "end": 1036.88,
+      "text": "Like it feels like multiple times"
+    },
+    {
+      "start": 1034.72,
+      "end": 1038.72,
+      "text": "they've announced partnerships with"
+    },
+    {
+      "start": 1036.88,
+      "end": 1041.68,
+      "text": "companies or like recently didn't they"
+    },
+    {
+      "start": 1038.72,
+      "end": 1043.6,
+      "text": "announce integrations with Spotify and"
+    },
+    {
+      "start": 1041.68,
+      "end": 1046.16,
+      "text": "all these other products that you could"
+    },
+    {
+      "start": 1043.6,
+      "end": 1047.76,
+      "text": "invoke right within the command line."
+    },
+    {
+      "start": 1046.16,
+      "end": 1049.44,
+      "text": "You could imagine a world that that"
+    },
+    {
+      "start": 1047.76,
+      "end": 1050.48,
+      "text": "turns into a platform and anyone can"
+    },
+    {
+      "start": 1049.44,
+      "end": 1052.16,
+      "text": "integrate. I don't know how you would"
+    },
+    {
+      "start": 1050.48,
+      "end": 1053.52,
+      "text": "solve discovery in that sense, but"
+    },
+    {
+      "start": 1052.16,
+      "end": 1056.16,
+      "text": ">> yeah, I mean, I'm I think there's"
+    },
+    {
+      "start": 1053.52,
+      "end": 1058.24,
+      "text": "something there around MCP, but uh it's"
+    },
+    {
+      "start": 1056.16,
+      "end": 1059.84,
+      "text": "such a mess of an ecosystem. Like, it"
+    },
+    {
+      "start": 1058.24,
+      "end": 1062.24,
+      "text": "just just barely"
+    },
+    {
+      "start": 1059.84,
+      "end": 1064.08,
+      "text": ">> the integrations just barely work. I'm"
+    },
+    {
+      "start": 1062.24,
+      "end": 1066.4,
+      "text": "sure I will stop looking at it at some"
+    },
+    {
+      "start": 1064.08,
+      "end": 1068.48,
+      "text": "point in the next couple months and then"
+    },
+    {
+      "start": 1066.4,
+      "end": 1070.24,
+      "text": "magically in like 6 to9 months when I'm"
+    },
+    {
+      "start": 1068.48,
+      "end": 1071.84,
+      "text": "not watching, it's actually going to"
+    },
+    {
+      "start": 1070.24,
+      "end": 1073.28,
+      "text": "work really, really well. I mean, some"
+    },
+    {
+      "start": 1071.84,
+      "end": 1075.76,
+      "text": "of the consumer things that we're seeing"
+    },
+    {
+      "start": 1073.28,
+      "end": 1078.96,
+      "text": "are literally taking large data sets"
+    },
+    {
+      "start": 1075.76,
+      "end": 1082.72,
+      "text": "that um are somewhat hard to get at and"
+    },
+    {
+      "start": 1078.96,
+      "end": 1084.16,
+      "text": "then just plugging them into LLM. Uh I"
+    },
+    {
+      "start": 1082.72,
+      "end": 1085.84,
+      "text": "mean there's a company called Nori in"
+    },
+    {
+      "start": 1084.16,
+      "end": 1086.64,
+      "text": "the current batch that it's literally"
+    },
+    {
+      "start": 1085.84,
+      "end": 1087.2,
+      "text": "Apple Health."
+    },
+    {
+      "start": 1086.64,
+      "end": 1090.0,
+      "text": ">> Oh, right."
+    },
+    {
+      "start": 1087.2,
+      "end": 1091.92,
+      "text": ">> Dropped into LLM. Yeah. Dave Z. Yeah."
+    },
+    {
+      "start": 1090.0,
+      "end": 1094.4,
+      "text": "Fellow podcast. Yeah. He he did"
+    },
+    {
+      "start": 1091.92,
+      "end": 1095.52,
+      "text": "Chartable and sold that to Spotify. So,"
+    },
+    {
+      "start": 1094.4,
+      "end": 1097.68,
+      "text": ">> I think that's really interesting"
+    },
+    {
+      "start": 1095.52,
+      "end": 1098.88,
+      "text": "actually. I think I I think um I think"
+    },
+    {
+      "start": 1097.68,
+      "end": 1102.64,
+      "text": "that's an opportunity. We actually"
+    },
+    {
+      "start": 1098.88,
+      "end": 1104.32,
+      "text": "invested uh in a company called Dtronic"
+    },
+    {
+      "start": 1102.64,
+      "end": 1107.84,
+      "text": "um which is right now doing you know"
+    },
+    {
+      "start": 1104.32,
+      "end": 1111.2,
+      "text": "kind of uh medical triage similar to"
+    },
+    {
+      "start": 1107.84,
+      "end": 1112.56,
+      "text": "what you can do in ChhattT but um you"
+    },
+    {
+      "start": 1111.2,
+      "end": 1116.24,
+      "text": "know they have a model that's that's"
+    },
+    {
+      "start": 1112.56,
+      "end": 1118.48,
+      "text": "trained on uh gigantic corpus of health"
+    },
+    {
+      "start": 1116.24,
+      "end": 1120.32,
+      "text": "information and data and you know"
+    },
+    {
+      "start": 1118.48,
+      "end": 1122.4,
+      "text": "medical research and you can imagine a"
+    },
+    {
+      "start": 1120.32,
+      "end": 1124.16,
+      "text": "world in which similarly like you're"
+    },
+    {
+      "start": 1122.4,
+      "end": 1125.92,
+      "text": "getting your your medical records in"
+    },
+    {
+      "start": 1124.16,
+      "end": 1127.76,
+      "text": "there and you're able to chat with it. I"
+    },
+    {
+      "start": 1125.92,
+      "end": 1130.0,
+      "text": "I'm doing this today just in like a"
+    },
+    {
+      "start": 1127.76,
+      "end": 1131.44,
+      "text": "clawed project, but it's super manual,"
+    },
+    {
+      "start": 1130.0,
+      "end": 1133.04,
+      "text": "right? Like uploading all this stuff."
+    },
+    {
+      "start": 1131.44,
+      "end": 1133.52,
+      "text": "So, I think Nory sounds super"
+    },
+    {
+      "start": 1133.04,
+      "end": 1136.32,
+      "text": "interesting."
+    },
+    {
+      "start": 1133.52,
+      "end": 1138.0,
+      "text": ">> My dad went to the hospital and um he"
+    },
+    {
+      "start": 1136.32,
+      "end": 1139.06,
+      "text": "was fine, but he you know, passed out."
+    },
+    {
+      "start": 1138.0,
+      "end": 1140.88,
+      "text": "He'd never done that in a"
+    },
+    {
+      "start": 1139.06,
+      "end": 1142.88,
+      "text": "[clears throat] restaurant and we went,"
+    },
+    {
+      "start": 1140.88,
+      "end": 1145.6,
+      "text": "you know, hurried over to the hospital"
+    },
+    {
+      "start": 1142.88,
+      "end": 1148.16,
+      "text": "and uh you know, I logged in with his uh"
+    },
+    {
+      "start": 1145.6,
+      "end": 1150.64,
+      "text": "Kaiser login to get all of his I could"
+    },
+    {
+      "start": 1148.16,
+      "end": 1152.96,
+      "text": "see the labs come in on the website. So,"
+    },
+    {
+      "start": 1150.64,
+      "end": 1156.0,
+      "text": "I downloaded them PDF, uploaded a chat"
+    },
+    {
+      "start": 1152.96,
+      "end": 1158.16,
+      "text": "GPT, and then it just told me exactly"
+    },
+    {
+      "start": 1156.0,
+      "end": 1160.56,
+      "text": "what was going on, even though like the"
+    },
+    {
+      "start": 1158.16,
+      "end": 1162.8,
+      "text": "emergency room doc hadn't come by. But"
+    },
+    {
+      "start": 1160.56,
+      "end": 1165.68,
+      "text": "the funniest thing was like uh when he"
+    },
+    {
+      "start": 1162.8,
+      "end": 1167.6,
+      "text": "did come, I asked my three questions and"
+    },
+    {
+      "start": 1165.68,
+      "end": 1168.72,
+      "text": "then actually helped get him a better"
+    },
+    {
+      "start": 1167.6,
+      "end": 1169.44,
+      "text": "standard of care from that."
+    },
+    {
+      "start": 1168.72,
+      "end": 1171.6,
+      "text": ">> That's amazing"
+    },
+    {
+      "start": 1169.44,
+      "end": 1173.6,
+      "text": ">> cuz um I was like, \"Well, had you"
+    },
+    {
+      "start": 1171.6,
+      "end": 1175.36,
+      "text": "thought about this?\" And you know, I"
+    },
+    {
+      "start": 1173.6,
+      "end": 1177.44,
+      "text": "half expected him to be like, \"Ah, don't"
+    },
+    {
+      "start": 1175.36,
+      "end": 1178.88,
+      "text": "don't use Chad GPT on me.\" But in"
+    },
+    {
+      "start": 1177.44,
+      "end": 1180.24,
+      "text": ">> Oh, the doctor appreciated the doctor"
+    },
+    {
+      "start": 1178.88,
+      "end": 1181.44,
+      "text": "was like, \"Oh, yeah, that's a good idea."
+    },
+    {
+      "start": 1180.24,
+      "end": 1182.64,
+      "text": "We should check for that.\" Right?"
+    },
+    {
+      "start": 1181.44,
+      "end": 1184.16,
+      "text": ">> I'm sure they're seeing this all the"
+    },
+    {
+      "start": 1182.64,
+      "end": 1185.76,
+      "text": "time now. And yeah, you have to wonder,"
+    },
+    {
+      "start": 1184.16,
+      "end": 1187.53,
+      "text": "are they welcoming it or are they like,"
+    },
+    {
+      "start": 1185.76,
+      "end": 1188.32,
+      "text": "\"Come on, please. Enough with the chat.\""
+    },
+    {
+      "start": 1187.53,
+      "end": 1190.72,
+      "text": "[laughter]"
+    },
+    {
+      "start": 1188.32,
+      "end": 1191.84,
+      "text": ">> But I mean, I think it's that good"
+    },
+    {
+      "start": 1190.72,
+      "end": 1193.28,
+      "text": "distribution now. So,"
+    },
+    {
+      "start": 1191.84,
+      "end": 1194.24,
+      "text": ">> yeah. One area I'm thinking a lot about"
+    },
+    {
+      "start": 1193.28,
+      "end": 1196.4,
+      "text": "is is social."
+    },
+    {
+      "start": 1194.24,
+      "end": 1197.76,
+      "text": ">> Interesting to see Sora at least."
+    },
+    {
+      "start": 1196.4,
+      "end": 1200.56,
+      "text": ">> Sora, I think, is [clears throat] really"
+    },
+    {
+      "start": 1197.76,
+      "end": 1203.44,
+      "text": "interesting. I kind of think of it as in"
+    },
+    {
+      "start": 1200.56,
+      "end": 1205.84,
+      "text": "a way the end of social media u or like"
+    },
+    {
+      "start": 1203.44,
+      "end": 1207.84,
+      "text": "the the last the last phase of social"
+    },
+    {
+      "start": 1205.84,
+      "end": 1209.52,
+      "text": "media. I I I currently bucket social"
+    },
+    {
+      "start": 1207.84,
+      "end": 1212.56,
+      "text": "media into like three phases. The first"
+    },
+    {
+      "start": 1209.52,
+      "end": 1214.64,
+      "text": "is true social media where you know"
+    },
+    {
+      "start": 1212.56,
+      "end": 1215.76,
+      "text": "companies are building up social graphs."
+    },
+    {
+      "start": 1214.64,
+      "end": 1217.52,
+      "text": "You know people are following each"
+    },
+    {
+      "start": 1215.76,
+      "end": 1219.76,
+      "text": "other. Content is being distributed"
+    },
+    {
+      "start": 1217.52,
+      "end": 1221.2,
+      "text": "based on who you follow and so you"
+    },
+    {
+      "start": 1219.76,
+      "end": 1222.8,
+      "text": "follow your friends and maybe some"
+    },
+    {
+      "start": 1221.2,
+      "end": 1224.88,
+      "text": "random influencers and then when they"
+    },
+    {
+      "start": 1222.8,
+      "end": 1226.56,
+      "text": "make content you get served that content"
+    },
+    {
+      "start": 1224.88,
+      "end": 1227.92,
+      "text": "and it's like pretty efficient. Some of"
+    },
+    {
+      "start": 1226.56,
+      "end": 1229.92,
+      "text": "the content is relevant to you, some of"
+    },
+    {
+      "start": 1227.92,
+      "end": 1231.92,
+      "text": "it isn't but it kind of works. And then"
+    },
+    {
+      "start": 1229.92,
+      "end": 1234.0,
+      "text": "the second phase is like the Tik Tok"
+    },
+    {
+      "start": 1231.92,
+      "end": 1236.8,
+      "text": "kind of I call it recommendation media"
+    },
+    {
+      "start": 1234.0,
+      "end": 1238.24,
+      "text": "where they figure out what you like and"
+    },
+    {
+      "start": 1236.8,
+      "end": 1239.6,
+      "text": "creators make content and then they"
+    },
+    {
+      "start": 1238.24,
+      "end": 1242.32,
+      "text": "program that content against your"
+    },
+    {
+      "start": 1239.6,
+      "end": 1244.32,
+      "text": "interests. Sora to me feels like this"
+    },
+    {
+      "start": 1242.32,
+      "end": 1245.36,
+      "text": "third the start of this third phase"
+    },
+    {
+      "start": 1244.32,
+      "end": 1247.28,
+      "text": "where"
+    },
+    {
+      "start": 1245.36,
+      "end": 1249.36,
+      "text": ">> eventually they don't really need"
+    },
+    {
+      "start": 1247.28,
+      "end": 1251.52,
+      "text": "creators to make content. Right? Yes."
+    },
+    {
+      "start": 1249.36,
+      "end": 1253.92,
+      "text": "today people are prompting but you could"
+    },
+    {
+      "start": 1251.52,
+      "end": 1255.6,
+      "text": "very easily imagine a world in which"
+    },
+    {
+      "start": 1253.92,
+      "end": 1257.44,
+      "text": "you're just coming into the feed and the"
+    },
+    {
+      "start": 1255.6,
+      "end": 1260.4,
+      "text": "content is just being created"
+    },
+    {
+      "start": 1257.44,
+      "end": 1262.4,
+      "text": "immediately dynamically on behalf of you"
+    },
+    {
+      "start": 1260.4,
+      "end": 1264.56,
+      "text": "and I think that's really interesting uh"
+    },
+    {
+      "start": 1262.4,
+      "end": 1265.92,
+      "text": "interesting in a couple scary ways but"
+    },
+    {
+      "start": 1264.56,
+      "end": 1267.68,
+      "text": "obviously there are also some"
+    },
+    {
+      "start": 1265.92,
+      "end": 1269.2,
+      "text": "interesting opportunities the thing that"
+    },
+    {
+      "start": 1267.68,
+      "end": 1272.16,
+      "text": "I like to think about in this last phase"
+    },
+    {
+      "start": 1269.2,
+      "end": 1274.4,
+      "text": "is what is the what is the role of the"
+    },
+    {
+      "start": 1272.16,
+      "end": 1277.12,
+      "text": "human to help kind of shape that"
+    },
+    {
+      "start": 1274.4,
+      "end": 1279.52,
+      "text": "experience obviously one of the roles is"
+    },
+    {
+      "start": 1277.12,
+      "end": 1281.52,
+      "text": "just to consume and let the model train"
+    },
+    {
+      "start": 1279.52,
+      "end": 1282.72,
+      "text": "on your interest. But maybe the more"
+    },
+    {
+      "start": 1281.52,
+      "end": 1285.12,
+      "text": "interesting thing, and we've sort of"
+    },
+    {
+      "start": 1282.72,
+      "end": 1286.72,
+      "text": "seen hints of this with Sora, I think"
+    },
+    {
+      "start": 1285.12,
+      "end": 1288.96,
+      "text": "Sam published a blog post that kind of"
+    },
+    {
+      "start": 1286.72,
+      "end": 1290.72,
+      "text": "hinted at this, is kind of the the"
+    },
+    {
+      "start": 1288.96,
+      "end": 1293.36,
+      "text": "creation and distribution, potentially"
+    },
+    {
+      "start": 1290.72,
+      "end": 1294.0,
+      "text": "monetization of name and likeness and"
+    },
+    {
+      "start": 1293.36,
+      "end": 1294.48,
+      "text": "uniqueness."
+    },
+    {
+      "start": 1294.0,
+      "end": 1295.52,
+      "text": ">> Oh, yeah."
+    },
+    {
+      "start": 1294.48,
+      "end": 1299.36,
+      "text": ">> It's like"
+    },
+    {
+      "start": 1295.52,
+      "end": 1301.68,
+      "text": ">> when you cameo somebody on Sora, maybe"
+    },
+    {
+      "start": 1299.36,
+      "end": 1304.88,
+      "text": "that person is getting compensated some"
+    },
+    {
+      "start": 1301.68,
+      "end": 1307.04,
+      "text": "way. Maybe brands are are surfacing as"
+    },
+    {
+      "start": 1304.88,
+      "end": 1309.28,
+      "text": "cameoable. You talked about distribution"
+    },
+    {
+      "start": 1307.04,
+      "end": 1312.0,
+      "text": "earlier like that could be a new that"
+    },
+    {
+      "start": 1309.28,
+      "end": 1315.12,
+      "text": "maybe is the new form of distribution in"
+    },
+    {
+      "start": 1312.0,
+      "end": 1317.68,
+      "text": "social where you're sort of like"
+    },
+    {
+      "start": 1315.12,
+      "end": 1319.68,
+      "text": "injecting some uniqueness or personality"
+    },
+    {
+      "start": 1317.68,
+      "end": 1321.2,
+      "text": "or likeness into a model that will get"
+    },
+    {
+      "start": 1319.68,
+      "end": 1323.44,
+      "text": "then get distributed"
+    },
+    {
+      "start": 1321.2,
+      "end": 1325.28,
+      "text": ">> through no sort of manual human creation"
+    },
+    {
+      "start": 1323.44,
+      "end": 1327.28,
+      "text": "at all. That feels like the next it's a"
+    },
+    {
+      "start": 1325.28,
+      "end": 1329.92,
+      "text": "little it's kind of scary because"
+    },
+    {
+      "start": 1327.28,
+      "end": 1331.92,
+      "text": ">> there's probably no like actual pure"
+    },
+    {
+      "start": 1329.92,
+      "end": 1333.76,
+      "text": "human creation in that model. But"
+    },
+    {
+      "start": 1331.92,
+      "end": 1334.32,
+      "text": ">> there's the prompting. There's some art"
+    },
+    {
+      "start": 1333.76,
+      "end": 1335.92,
+      "text": "in the"
+    },
+    {
+      "start": 1334.32,
+      "end": 1337.44,
+      "text": ">> maybe. But does that just go away,"
+    },
+    {
+      "start": 1335.92,
+      "end": 1338.84,
+      "text": "right? Like"
+    },
+    {
+      "start": 1337.44,
+      "end": 1339.92,
+      "text": ">> eventually, why do you need that?"
+    },
+    {
+      "start": 1338.84,
+      "end": 1340.4,
+      "text": "[clears throat] They just know what Gary"
+    },
+    {
+      "start": 1339.92,
+      "end": 1342.16,
+      "text": "wants to"
+    },
+    {
+      "start": 1340.4,
+      "end": 1342.72,
+      "text": ">> It's just going to be the auto AI slot"
+    },
+    {
+      "start": 1342.16,
+      "end": 1344.32,
+      "text": "machine."
+    },
+    {
+      "start": 1342.72,
+      "end": 1345.68,
+      "text": ">> So, I'm a little bit terrified of that,"
+    },
+    {
+      "start": 1344.32,
+      "end": 1347.12,
+      "text": "but I also think that there's probably"
+    },
+    {
+      "start": 1345.68,
+      "end": 1350.56,
+      "text": "going to be some interesting"
+    },
+    {
+      "start": 1347.12,
+      "end": 1354.16,
+      "text": "opportunities. Um, and I and I'm totally"
+    },
+    {
+      "start": 1350.56,
+      "end": 1356.72,
+      "text": "expecting that Tik Tok and Instagram"
+    },
+    {
+      "start": 1354.16,
+      "end": 1358.4,
+      "text": "will start having pure AI generated"
+    },
+    {
+      "start": 1356.72,
+      "end": 1360.8,
+      "text": "content and eventually get to this place"
+    },
+    {
+      "start": 1358.4,
+      "end": 1362.72,
+      "text": "as well. But all in all, I I I do wonder"
+    },
+    {
+      "start": 1360.8,
+      "end": 1366.08,
+      "text": "if we're in kind of like this third and"
+    },
+    {
+      "start": 1362.72,
+      "end": 1367.2,
+      "text": "final phase of like human created media."
+    },
+    {
+      "start": 1366.08,
+      "end": 1369.52,
+      "text": "Yeah, it's a little terrifying."
+    },
+    {
+      "start": 1367.2,
+      "end": 1372.0,
+      "text": ">> If you use Sora, it it's a very"
+    },
+    {
+      "start": 1369.52,
+      "end": 1374.32,
+      "text": "promising, super funny, but also"
+    },
+    {
+      "start": 1372.0,
+      "end": 1374.72,
+      "text": "extremely frustrating like 80% of the"
+    },
+    {
+      "start": 1374.32,
+      "end": 1376.32,
+      "text": "time."
+    },
+    {
+      "start": 1374.72,
+      "end": 1377.52,
+      "text": ">> You mean on the output when you get out?"
+    },
+    {
+      "start": 1376.32,
+      "end": 1378.96,
+      "text": "Yeah, that'll get better."
+    },
+    {
+      "start": 1377.52,
+      "end": 1380.4,
+      "text": ">> Yeah, it'll get better. But also, the"
+    },
+    {
+      "start": 1378.96,
+      "end": 1383.04,
+      "text": "mobile app itself, it's clear that"
+    },
+    {
+      "start": 1380.4,
+      "end": 1384.56,
+      "text": "they're experiencing crazy uh GPU"
+    },
+    {
+      "start": 1383.04,
+      "end": 1386.32,
+      "text": "scaling issues. So,"
+    },
+    {
+      "start": 1384.56,
+      "end": 1388.4,
+      "text": ">> I think it's still number one in the app"
+    },
+    {
+      "start": 1386.32,
+      "end": 1392.16,
+      "text": "store. It's crazy. Yeah, it is funny to"
+    },
+    {
+      "start": 1388.4,
+      "end": 1394.32,
+      "text": "see XAI and um Meta sort of like"
+    },
+    {
+      "start": 1392.16,
+      "end": 1396.0,
+      "text": "struggle to try to capture that vibe."
+    },
+    {
+      "start": 1394.32,
+      "end": 1397.92,
+      "text": ">> I think Cameo was the feature that"
+    },
+    {
+      "start": 1396.0,
+      "end": 1400.0,
+      "text": "really did it for them. But I also"
+    },
+    {
+      "start": 1397.92,
+      "end": 1401.68,
+      "text": "noticed that they didn't really invest a"
+    },
+    {
+      "start": 1400.0,
+      "end": 1403.28,
+      "text": "lot. Maybe it was intentional. Maybe it"
+    },
+    {
+      "start": 1401.68,
+      "end": 1404.96,
+      "text": "was just prioritization in some of the"
+    },
+    {
+      "start": 1403.28,
+      "end": 1406.48,
+      "text": "graph stuff we mentioned. Like it almost"
+    },
+    {
+      "start": 1404.96,
+      "end": 1407.6,
+      "text": "seems like that's not going to be"
+    },
+    {
+      "start": 1406.48,
+      "end": 1409.52,
+      "text": "important."
+    },
+    {
+      "start": 1407.6,
+      "end": 1411.36,
+      "text": ">> You know, it's more going to be about we"
+    },
+    {
+      "start": 1409.52,
+      "end": 1412.8,
+      "text": "just know what to program for each user,"
+    },
+    {
+      "start": 1411.36,
+      "end": 1414.96,
+      "text": ">> right? It's like this person seems to"
+    },
+    {
+      "start": 1412.8,
+      "end": 1417.12,
+      "text": "click like on all the Shack cameos for"
+    },
+    {
+      "start": 1414.96,
+      "end": 1418.64,
+      "text": "some reason. That's me. Those Shaq"
+    },
+    {
+      "start": 1417.12,
+      "end": 1420.48,
+      "text": "cameos are good. Every everyone's"
+    },
+    {
+      "start": 1418.64,
+      "end": 1421.6,
+      "text": "cameoing Shaq. So yeah, I don't know. I"
+    },
+    {
+      "start": 1420.48,
+      "end": 1424.56,
+      "text": "don't know what happens to social media"
+    },
+    {
+      "start": 1421.6,
+      "end": 1426.08,
+      "text": "and I'm not totally sure yet what the"
+    },
+    {
+      "start": 1424.56,
+      "end": 1426.56,
+      "text": "opportunities will be for builders"
+    },
+    {
+      "start": 1426.08,
+      "end": 1428.4,
+      "text": "there."
+    },
+    {
+      "start": 1426.56,
+      "end": 1430.64,
+      "text": ">> Yeah, distribution in the end. I mean,"
+    },
+    {
+      "start": 1428.4,
+      "end": 1432.8,
+      "text": "even Tik Tok, I'm hopeful that CHPD"
+    },
+    {
+      "start": 1430.64,
+      "end": 1434.32,
+      "text": "comes around and realizes like that was"
+    },
+    {
+      "start": 1432.8,
+      "end": 1436.32,
+      "text": "one of the most amazing things that Tik"
+    },
+    {
+      "start": 1434.32,
+      "end": 1438.64,
+      "text": "Tok did and you that's what the YouTube"
+    },
+    {
+      "start": 1436.32,
+      "end": 1440.56,
+      "text": "algorithm does today. Those are the most"
+    },
+    {
+      "start": 1438.64,
+      "end": 1441.12,
+      "text": "potent places to get distribution."
+    },
+    {
+      "start": 1440.56,
+      "end": 1443.44,
+      "text": ">> Right. Right."
+    },
+    {
+      "start": 1441.12,
+      "end": 1445.28,
+      "text": ">> I mean X I think X is there. Like thanks"
+    },
+    {
+      "start": 1443.44,
+      "end": 1447.28,
+      "text": "Nikita. He's doing a great job. He's"
+    },
+    {
+      "start": 1445.28,
+      "end": 1448.16,
+      "text": "doing it. He's changing up the feed,"
+    },
+    {
+      "start": 1447.28,
+      "end": 1448.96,
+      "text": ">> creating the web view."
+    },
+    {
+      "start": 1448.16,
+      "end": 1450.48,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1448.96,
+      "end": 1450.88,
+      "text": ">> Got to love the new web view."
+    },
+    {
+      "start": 1450.48,
+      "end": 1452.4,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1450.88,
+      "end": 1453.84,
+      "text": ">> Yeah. Maybe the model is the"
+    },
+    {
+      "start": 1452.4,
+      "end": 1457.04,
+      "text": "distribution then like we're saying and"
+    },
+    {
+      "start": 1453.84,
+      "end": 1458.72,
+      "text": "and and maybe similarly how for Tik Tok"
+    },
+    {
+      "start": 1457.04,
+      "end": 1460.08,
+      "text": "it became about obviously the videos."
+    },
+    {
+      "start": 1458.72,
+      "end": 1463.04,
+      "text": "Anyone can create a video, but you could"
+    },
+    {
+      "start": 1460.08,
+      "end": 1465.68,
+      "text": "also like you could let uh creators pull"
+    },
+    {
+      "start": 1463.04,
+      "end": 1468.64,
+      "text": "from the song the the song catalog. You"
+    },
+    {
+      "start": 1465.68,
+      "end": 1470.56,
+      "text": "know, Instagram has things like stickers"
+    },
+    {
+      "start": 1468.64,
+      "end": 1473.6,
+      "text": "and filters and things like I don't"
+    },
+    {
+      "start": 1470.56,
+      "end": 1475.84,
+      "text": "know, maybe the model is a new place for"
+    },
+    {
+      "start": 1473.6,
+      "end": 1477.36,
+      "text": "some form of creator distribution. It's"
+    },
+    {
+      "start": 1475.84,
+      "end": 1479.68,
+      "text": "not your video, it's something else."
+    },
+    {
+      "start": 1477.36,
+      "end": 1481.92,
+      "text": "It's your likeness. It's your brand."
+    },
+    {
+      "start": 1479.68,
+      "end": 1484.08,
+      "text": "It's a meme, right? That others can then"
+    },
+    {
+      "start": 1481.92,
+      "end": 1486.48,
+      "text": "invoke through the model. So, we talked"
+    },
+    {
+      "start": 1484.08,
+      "end": 1488.24,
+      "text": "a little bit about media and then a lot"
+    },
+    {
+      "start": 1486.48,
+      "end": 1489.84,
+      "text": "of people watching who might be, you"
+    },
+    {
+      "start": 1488.24,
+      "end": 1491.92,
+      "text": "know, just starting their builder"
+    },
+    {
+      "start": 1489.84,
+      "end": 1494.96,
+      "text": "career. Is that like sort of the model"
+    },
+    {
+      "start": 1491.92,
+      "end": 1496.72,
+      "text": "for consumer founders in the future? you"
+    },
+    {
+      "start": 1494.96,
+      "end": 1498.08,
+      "text": "should people be creators?"
+    },
+    {
+      "start": 1496.72,
+      "end": 1499.92,
+      "text": ">> I don't know whether or not people"
+    },
+    {
+      "start": 1498.08,
+      "end": 1501.36,
+      "text": "should be creators. I mean, I'm not"
+    },
+    {
+      "start": 1499.92,
+      "end": 1502.88,
+      "text": "saying they shouldn't, but it is also"
+    },
+    {
+      "start": 1501.36,
+      "end": 1503.92,
+      "text": "it's time consuming. I mean, you're"
+    },
+    {
+      "start": 1502.88,
+      "end": 1505.28,
+      "text": "sitting here in the set. I don't know"
+    },
+    {
+      "start": 1503.92,
+      "end": 1506.64,
+      "text": "how many of these you do a week, but I'm"
+    },
+    {
+      "start": 1505.28,
+      "end": 1509.12,
+      "text": "sure it takes up a chunk of your time."
+    },
+    {
+      "start": 1506.64,
+      "end": 1511.52,
+      "text": "And I do think there is a new consumer"
+    },
+    {
+      "start": 1509.12,
+      "end": 1513.04,
+      "text": "playbook for distribution that I"
+    },
+    {
+      "start": 1511.52,
+      "end": 1516.8,
+      "text": "previously"
+    },
+    {
+      "start": 1513.04,
+      "end": 1518.8,
+      "text": "maybe maybe a couple years ago kind of"
+    },
+    {
+      "start": 1516.8,
+      "end": 1520.16,
+      "text": "maybe was too dismissive of and now I"
+    },
+    {
+      "start": 1518.8,
+      "end": 1521.44,
+      "text": "almost feel like it's table stakes,"
+    },
+    {
+      "start": 1520.16,
+      "end": 1524.08,
+      "text": "which is"
+    },
+    {
+      "start": 1521.44,
+      "end": 1526.32,
+      "text": ">> leveraging creators. Maybe it's Tik Tok"
+    },
+    {
+      "start": 1524.08,
+      "end": 1528.32,
+      "text": "influencers, you know, reals"
+    },
+    {
+      "start": 1526.32,
+      "end": 1530.56,
+      "text": "influencers, whatever kind of creators"
+    },
+    {
+      "start": 1528.32,
+      "end": 1532.24,
+      "text": "you can you can tap into to reach some"
+    },
+    {
+      "start": 1530.56,
+      "end": 1533.6,
+      "text": "massive scale of distribution. It almost"
+    },
+    {
+      "start": 1532.24,
+      "end": 1534.16,
+      "text": "feels like you have to be doing that"
+    },
+    {
+      "start": 1533.6,
+      "end": 1536.48,
+      "text": "now."
+    },
+    {
+      "start": 1534.16,
+      "end": 1539.52,
+      "text": ">> And what it can drive in terms of"
+    },
+    {
+      "start": 1536.48,
+      "end": 1543.6,
+      "text": "downloads or installs or signups is"
+    },
+    {
+      "start": 1539.52,
+      "end": 1546.32,
+      "text": "crazy compared to you know the early uh"
+    },
+    {
+      "start": 1543.6,
+      "end": 1546.64,
+      "text": "growth we saw from consumer startups 5"
+    },
+    {
+      "start": 1546.32,
+      "end": 1547.76,
+      "text": "years ago."
+    },
+    {
+      "start": 1546.64,
+      "end": 1549.76,
+      "text": ">> Yeah. I mean this is literally the"
+    },
+    {
+      "start": 1547.76,
+      "end": 1552.16,
+      "text": "definition of organic. Then when you say"
+    },
+    {
+      "start": 1549.76,
+      "end": 1555.76,
+      "text": "organic like ultimately the most potent"
+    },
+    {
+      "start": 1552.16,
+      "end": 1556.4,
+      "text": "form of organic is X feed, YouTube feed,"
+    },
+    {
+      "start": 1555.76,
+      "end": 1558.72,
+      "text": "Tik Tok feed."
+    },
+    {
+      "start": 1556.4,
+      "end": 1561.36,
+      "text": ">> Tik Tok. Yeah. And it's actually not"
+    },
+    {
+      "start": 1558.72,
+      "end": 1562.72,
+      "text": "organic if you think about it, right? A"
+    },
+    {
+      "start": 1561.36,
+      "end": 1564.64,
+      "text": "lot of these companies, they're they're"
+    },
+    {
+      "start": 1562.72,
+      "end": 1566.48,
+      "text": "figuring out kind of what works on Tik"
+    },
+    {
+      "start": 1564.64,
+      "end": 1568.32,
+      "text": "Tok and then the Tik Tok algorithm takes"
+    },
+    {
+      "start": 1566.48,
+      "end": 1570.08,
+      "text": "over and does the work and puts it in"
+    },
+    {
+      "start": 1568.32,
+      "end": 1572.32,
+      "text": "front of a million people. It's not it's"
+    },
+    {
+      "start": 1570.08,
+      "end": 1575.2,
+      "text": "not really organic, right? Like organic"
+    },
+    {
+      "start": 1572.32,
+      "end": 1576.88,
+      "text": "I would say is you build some incredible"
+    },
+    {
+      "start": 1575.2,
+      "end": 1578.48,
+      "text": "product and there's this word of mouth"
+    },
+    {
+      "start": 1576.88,
+      "end": 1581.2,
+      "text": "dynamic where everyone and their friends"
+    },
+    {
+      "start": 1578.48,
+      "end": 1582.8,
+      "text": "are talking about it's just growing but"
+    },
+    {
+      "start": 1581.2,
+      "end": 1584.72,
+      "text": "just because it's not purely organic"
+    },
+    {
+      "start": 1582.8,
+      "end": 1585.44,
+      "text": "doesn't mean you shouldn't do it. I"
+    },
+    {
+      "start": 1584.72,
+      "end": 1587.28,
+      "text": "think everyone"
+    },
+    {
+      "start": 1585.44,
+      "end": 1588.08,
+      "text": ">> correction it's not organic it's"
+    },
+    {
+      "start": 1587.28,
+      "end": 1588.72,
+      "text": "non-paid."
+    },
+    {
+      "start": 1588.08,
+      "end": 1590.8,
+      "text": ">> It's nonpaid."
+    },
+    {
+      "start": 1588.72,
+      "end": 1592.24,
+      "text": ">> Well you you still pay you pay for it in"
+    },
+    {
+      "start": 1590.8,
+      "end": 1594.0,
+      "text": "your time and your mental"
+    },
+    {
+      "start": 1592.24,
+      "end": 1595.12,
+      "text": ">> or you pay you pay the influencers or"
+    },
+    {
+      "start": 1594.0,
+      "end": 1596.4,
+      "text": "the creators or whatever"
+    },
+    {
+      "start": 1595.12,
+      "end": 1597.6,
+      "text": ">> right when you're paying someone else."
+    },
+    {
+      "start": 1596.4,
+      "end": 1599.76,
+      "text": "Like the reason why that's interesting"
+    },
+    {
+      "start": 1597.6,
+      "end": 1601.68,
+      "text": "for consumer products is uh it's a"
+    },
+    {
+      "start": 1599.76,
+      "end": 1602.08,
+      "text": "mispriced asset generally still."
+    },
+    {
+      "start": 1601.68,
+      "end": 1604.08,
+      "text": ">> Exactly."
+    },
+    {
+      "start": 1602.08,
+      "end": 1606.56,
+      "text": ">> I mean Mr. Beast is not a mispriced"
+    },
+    {
+      "start": 1604.08,
+      "end": 1608.48,
+      "text": "asset. He's like getting his value from"
+    },
+    {
+      "start": 1606.56,
+      "end": 1610.24,
+      "text": "it. Like he's, you know, but it does"
+    },
+    {
+      "start": 1608.48,
+      "end": 1612.08,
+      "text": "seem like the mispriced assets are sort"
+    },
+    {
+      "start": 1610.24,
+      "end": 1613.2,
+      "text": "of the creators with like a thousand to"
+    },
+    {
+      "start": 1612.08,
+      "end": 1614.4,
+      "text": "10,000 followers,"
+    },
+    {
+      "start": 1613.2,
+      "end": 1615.92,
+      "text": ">> right? And if you can wrangle up enough"
+    },
+    {
+      "start": 1614.4,
+      "end": 1617.52,
+      "text": "of those, you can get some real scale."
+    },
+    {
+      "start": 1615.92,
+      "end": 1619.52,
+      "text": "Yeah. I mean, I think I used to be"
+    },
+    {
+      "start": 1617.52,
+      "end": 1621.68,
+      "text": "dismissive of this as a tactic cuz it"
+    },
+    {
+      "start": 1619.52,
+      "end": 1624.4,
+      "text": "felt inorganic to me, but now I think"
+    },
+    {
+      "start": 1621.68,
+      "end": 1626.08,
+      "text": "it's table stakes. I mean, all of the"
+    },
+    {
+      "start": 1624.4,
+      "end": 1628.24,
+      "text": "best consumer startups that are pitching"
+    },
+    {
+      "start": 1626.08,
+      "end": 1630.48,
+      "text": "us, they have these crazy growth charts"
+    },
+    {
+      "start": 1628.24,
+      "end": 1632.64,
+      "text": "and they're all doing exactly this to do"
+    },
+    {
+      "start": 1630.48,
+      "end": 1634.16,
+      "text": "it. Now, there's obviously then the"
+    },
+    {
+      "start": 1632.64,
+      "end": 1636.0,
+      "text": "question of what's the retention like?"
+    },
+    {
+      "start": 1634.16,
+      "end": 1639.44,
+      "text": "Is anyone paying? What's the funnel look"
+    },
+    {
+      "start": 1636.0,
+      "end": 1641.6,
+      "text": "like? And if the funnel is trash,"
+    },
+    {
+      "start": 1639.44,
+      "end": 1643.12,
+      "text": "it's, you know, it might"
+    },
+    {
+      "start": 1641.6,
+      "end": 1645.28,
+      "text": ">> it might not be a viable investment."
+    },
+    {
+      "start": 1643.12,
+      "end": 1647.44,
+      "text": ">> If you're a bad builder, but you're a"
+    },
+    {
+      "start": 1645.28,
+      "end": 1649.04,
+      "text": "good troll, then you still build"
+    },
+    {
+      "start": 1647.44,
+      "end": 1651.36,
+      "text": "nothing. But if you're correct, you"
+    },
+    {
+      "start": 1649.04,
+      "end": 1653.68,
+      "text": "know, enough of a troll marketer who's"
+    },
+    {
+      "start": 1651.36,
+      "end": 1654.96,
+      "text": "actually got the goods, then you could"
+    },
+    {
+      "start": 1653.68,
+      "end": 1656.96,
+      "text": "build something pretty big."
+    },
+    {
+      "start": 1654.96,
+      "end": 1658.4,
+      "text": ">> Huge, I think. And I think the reason I"
+    },
+    {
+      "start": 1656.96,
+      "end": 1659.6,
+      "text": "was previously dismissive of it is"
+    },
+    {
+      "start": 1658.4,
+      "end": 1660.96,
+      "text": "because I just assumed that at some"
+    },
+    {
+      "start": 1659.6,
+      "end": 1662.64,
+      "text": "point it would go away."
+    },
+    {
+      "start": 1660.96,
+      "end": 1664.16,
+      "text": ">> It's like if you're tapping into this"
+    },
+    {
+      "start": 1662.64,
+      "end": 1666.48,
+      "text": "inorganic channel that you don't"
+    },
+    {
+      "start": 1664.16,
+      "end": 1667.76,
+      "text": "control, at some point it's going to"
+    },
+    {
+      "start": 1666.48,
+      "end": 1670.16,
+      "text": "turn off or it's going to do something"
+    },
+    {
+      "start": 1667.76,
+      "end": 1672.8,
+      "text": "else. But it's been years now and it"
+    },
+    {
+      "start": 1670.16,
+      "end": 1674.96,
+      "text": "seems as reliable as ever. So, back to"
+    },
+    {
+      "start": 1672.8,
+      "end": 1677.04,
+      "text": "the original question, maybe you should"
+    },
+    {
+      "start": 1674.96,
+      "end": 1679.04,
+      "text": "be a creator, maybe you shouldn't, but"
+    },
+    {
+      "start": 1677.04,
+      "end": 1681.2,
+      "text": "you definitely should be leveraging"
+    },
+    {
+      "start": 1679.04,
+      "end": 1683.84,
+      "text": "creators and these distribution channels"
+    },
+    {
+      "start": 1681.2,
+      "end": 1685.2,
+      "text": "that creators tap into to get a crazy"
+    },
+    {
+      "start": 1683.84,
+      "end": 1687.12,
+      "text": "amount of eyeballs on things. You You"
+    },
+    {
+      "start": 1685.2,
+      "end": 1688.96,
+      "text": "have to. The big question I I see"
+    },
+    {
+      "start": 1687.12,
+      "end": 1691.12,
+      "text": "founders asking a lot and I'd love to"
+    },
+    {
+      "start": 1688.96,
+      "end": 1693.76,
+      "text": "get your perspective on this is should"
+    },
+    {
+      "start": 1691.12,
+      "end": 1695.76,
+      "text": "you wait until you have product market"
+    },
+    {
+      "start": 1693.76,
+      "end": 1699.04,
+      "text": "fit or some level of stable retention"
+    },
+    {
+      "start": 1695.76,
+      "end": 1702.32,
+      "text": "before you start doing the inorganic you"
+    },
+    {
+      "start": 1699.04,
+      "end": 1705.68,
+      "text": "know uh social distribution play. So"
+    },
+    {
+      "start": 1702.32,
+      "end": 1708.96,
+      "text": "would you encourage a founder to seek"
+    },
+    {
+      "start": 1705.68,
+      "end": 1711.2,
+      "text": "distribution before they've found"
+    },
+    {
+      "start": 1708.96,
+      "end": 1714.16,
+      "text": "product market fit? I mean maybe as a"
+    },
+    {
+      "start": 1711.2,
+      "end": 1717.12,
+      "text": "side project it's it might be useful to"
+    },
+    {
+      "start": 1714.16,
+      "end": 1718.32,
+      "text": "you know start an accountount an account"
+    },
+    {
+      "start": 1717.12,
+      "end": 1720.64,
+      "text": "that um"
+    },
+    {
+      "start": 1718.32,
+      "end": 1722.56,
+      "text": ">> just to learn like"
+    },
+    {
+      "start": 1720.64,
+      "end": 1724.8,
+      "text": ">> how do other people think what do people"
+    },
+    {
+      "start": 1722.56,
+      "end": 1726.48,
+      "text": "click on and then"
+    },
+    {
+      "start": 1724.8,
+      "end": 1728.32,
+      "text": ">> then it's like a background process that"
+    },
+    {
+      "start": 1726.48,
+      "end": 1730.0,
+      "text": "you can call on later. A lot of the time"
+    },
+    {
+      "start": 1728.32,
+      "end": 1732.56,
+      "text": "we spend with especially consumer"
+    },
+    {
+      "start": 1730.0,
+      "end": 1734.72,
+      "text": "founders at YC is helping them with"
+    },
+    {
+      "start": 1732.56,
+      "end": 1736.24,
+      "text": "their their launch and you know how do"
+    },
+    {
+      "start": 1734.72,
+      "end": 1739.04,
+      "text": "they talk about it? What's their launch"
+    },
+    {
+      "start": 1736.24,
+      "end": 1741.36,
+      "text": "video when they meet someone in a"
+    },
+    {
+      "start": 1739.04,
+      "end": 1743.76,
+      "text": "inerson setting or an investor or a"
+    },
+    {
+      "start": 1741.36,
+      "end": 1746.88,
+      "text": "potential user? Like what do you say"
+    },
+    {
+      "start": 1743.76,
+      "end": 1748.64,
+      "text": "literally in the first 10 or 15 seconds?"
+    },
+    {
+      "start": 1746.88,
+      "end": 1751.04,
+      "text": "It's like first you have to let someone"
+    },
+    {
+      "start": 1748.64,
+      "end": 1753.44,
+      "text": "know what the heck it is. And then right"
+    },
+    {
+      "start": 1751.04,
+      "end": 1754.96,
+      "text": "after that you have to make sure that"
+    },
+    {
+      "start": 1753.44,
+      "end": 1756.56,
+      "text": "they know that what you're doing is"
+    },
+    {
+      "start": 1754.96,
+      "end": 1758.56,
+      "text": "awesome in some way. Like that you're"
+    },
+    {
+      "start": 1756.56,
+      "end": 1760.72,
+      "text": "worth spending like you know that was 10"
+    },
+    {
+      "start": 1758.56,
+      "end": 1762.4,
+      "text": "15 seconds and then it's worth at least"
+    },
+    {
+      "start": 1760.72,
+      "end": 1764.32,
+      "text": "a minute conversation. And if you can"
+    },
+    {
+      "start": 1762.4,
+      "end": 1766.32,
+      "text": "make it to a minute, you might have like"
+    },
+    {
+      "start": 1764.32,
+      "end": 1768.08,
+      "text": "this amazing like 10 20 minute"
+    },
+    {
+      "start": 1766.32,
+      "end": 1769.68,
+      "text": "conversation. They might try your"
+    },
+    {
+      "start": 1768.08,
+      "end": 1771.44,
+      "text": "product. They might tell their friends."
+    },
+    {
+      "start": 1769.68,
+      "end": 1773.2,
+      "text": "They might, you know, they might invest."
+    },
+    {
+      "start": 1771.44,
+      "end": 1776.56,
+      "text": "Like all these different things happen"
+    },
+    {
+      "start": 1773.2,
+      "end": 1779.52,
+      "text": ">> and it sort of comes out of being like"
+    },
+    {
+      "start": 1776.56,
+      "end": 1780.16,
+      "text": "perceptive, good communicator, like kind"
+    },
+    {
+      "start": 1779.52,
+      "end": 1781.76,
+      "text": "of funny."
+    },
+    {
+      "start": 1780.16,
+      "end": 1784.08,
+      "text": ">> Yeah, that's pretty interesting. And and"
+    },
+    {
+      "start": 1781.76,
+      "end": 1785.44,
+      "text": "the idea of doing it doing that or doing"
+    },
+    {
+      "start": 1784.08,
+      "end": 1787.12,
+      "text": "some of that, learning some of this as"
+    },
+    {
+      "start": 1785.44,
+      "end": 1789.2,
+      "text": "an anon is really interesting because"
+    },
+    {
+      "start": 1787.12,
+      "end": 1790.8,
+      "text": "you just lower the stakes. You're not"
+    },
+    {
+      "start": 1789.2,
+      "end": 1792.88,
+      "text": "really like burning anything. I'm, you"
+    },
+    {
+      "start": 1790.8,
+      "end": 1794.32,
+      "text": "know, thinking about um how many times"
+    },
+    {
+      "start": 1792.88,
+      "end": 1796.64,
+      "text": "have you heard like, \"Oh, don't don't do"
+    },
+    {
+      "start": 1794.32,
+      "end": 1797.84,
+      "text": "your big marketing push or your press"
+    },
+    {
+      "start": 1796.64,
+      "end": 1799.6,
+      "text": "announcement till you're ready because"
+    },
+    {
+      "start": 1797.84,
+      "end": 1800.96,
+      "text": "you'll never get these users again.\" You"
+    },
+    {
+      "start": 1799.6,
+      "end": 1802.8,
+      "text": "know, you'll like you'll like burn the"
+    },
+    {
+      "start": 1800.96,
+      "end": 1804.96,
+      "text": "opportunity. But if you're doing things"
+    },
+    {
+      "start": 1802.8,
+      "end": 1807.2,
+      "text": "like testing from an anonymous account"
+    },
+    {
+      "start": 1804.96,
+      "end": 1810.16,
+      "text": "or, you know, testing a Tik Tok"
+    },
+    {
+      "start": 1807.2,
+      "end": 1811.84,
+      "text": "influencer strategy, even that, like"
+    },
+    {
+      "start": 1810.16,
+      "end": 1814.0,
+      "text": "there's always going to be more eyeballs"
+    },
+    {
+      "start": 1811.84,
+      "end": 1816.56,
+      "text": "on Twitter you can get or on Tik Tok you"
+    },
+    {
+      "start": 1814.0,
+      "end": 1818.48,
+      "text": "can get in front of. And so maybe the"
+    },
+    {
+      "start": 1816.56,
+      "end": 1820.0,
+      "text": "lesson is you just should be practicing"
+    },
+    {
+      "start": 1818.48,
+      "end": 1822.4,
+      "text": "that. You should find a way to be"
+    },
+    {
+      "start": 1820.0,
+      "end": 1824.72,
+      "text": "practicing this stuff with lower stakes"
+    },
+    {
+      "start": 1822.4,
+      "end": 1826.56,
+      "text": "even before you're ready to launch or"
+    },
+    {
+      "start": 1824.72,
+      "end": 1828.24,
+      "text": "you're ready to like, you know, blow the"
+    },
+    {
+      "start": 1826.56,
+      "end": 1829.44,
+      "text": "thing up because figuring this stuff out"
+    },
+    {
+      "start": 1828.24,
+      "end": 1831.2,
+      "text": "is going to be hard."
+    },
+    {
+      "start": 1829.44,
+      "end": 1832.96,
+      "text": ">> Yeah. So, taste is taste matters and"
+    },
+    {
+      "start": 1831.2,
+      "end": 1834.0,
+      "text": "there are lots of ways to develop that"
+    },
+    {
+      "start": 1832.96,
+      "end": 1835.92,
+      "text": "taste and yeah,"
+    },
+    {
+      "start": 1834.0,
+      "end": 1838.4,
+      "text": ">> like it or not, you've, you know, sort"
+    },
+    {
+      "start": 1835.92,
+      "end": 1839.84,
+      "text": "of got to put on your fighting gloves if"
+    },
+    {
+      "start": 1838.4,
+      "end": 1842.32,
+      "text": "you're going to especially do the X"
+    },
+    {
+      "start": 1839.84,
+      "end": 1844.24,
+      "text": "thing and it might actually be worth it."
+    },
+    {
+      "start": 1842.32,
+      "end": 1846.48,
+      "text": ">> I feel like there was a lot of talk"
+    },
+    {
+      "start": 1844.24,
+      "end": 1848.72,
+      "text": "maybe 6 months ago, a year ago of kind"
+    },
+    {
+      "start": 1846.48,
+      "end": 1851.2,
+      "text": "of taste as a moat. It's becoming easier"
+    },
+    {
+      "start": 1848.72,
+      "end": 1852.64,
+      "text": "to build products because of AI. So,"
+    },
+    {
+      "start": 1851.2,
+      "end": 1855.12,
+      "text": "whatever you build, you got to have"
+    },
+    {
+      "start": 1852.64,
+      "end": 1857.28,
+      "text": "great taste and great great craft to be"
+    },
+    {
+      "start": 1855.12,
+      "end": 1859.12,
+      "text": "able to stand out. Um, you know, I think"
+    },
+    {
+      "start": 1857.28,
+      "end": 1860.64,
+      "text": "granola was a great example of this. I"
+    },
+    {
+      "start": 1859.12,
+      "end": 1863.84,
+      "text": "think the question is to what extent is"
+    },
+    {
+      "start": 1860.64,
+      "end": 1866.48,
+      "text": "that now a durable asset given we've"
+    },
+    {
+      "start": 1863.84,
+      "end": 1868.88,
+      "text": "seen how aggressive some of the labs"
+    },
+    {
+      "start": 1866.48,
+      "end": 1870.72,
+      "text": "are? Like, can taste really stand the"
+    },
+    {
+      "start": 1868.88,
+      "end": 1872.0,
+      "text": "test of time or is it really just a"
+    },
+    {
+      "start": 1870.72,
+      "end": 1872.72,
+      "text": "thing to give you a first mover"
+    },
+    {
+      "start": 1872.0,
+      "end": 1875.36,
+      "text": "advantage?"
+    },
+    {
+      "start": 1872.72,
+      "end": 1877.76,
+      "text": ">> Yeah, I I guess I don't know yet. I know"
+    },
+    {
+      "start": 1875.36,
+      "end": 1879.36,
+      "text": ">> every version of the model it has bigger"
+    },
+    {
+      "start": 1877.76,
+      "end": 1879.6,
+      "text": "and bigger model energy."
+    },
+    {
+      "start": 1879.36,
+      "end": 1881.84,
+      "text": ">> Yes,"
+    },
+    {
+      "start": 1879.6,
+      "end": 1883.68,
+      "text": ">> it's got some bigger and [laughter] it's"
+    },
+    {
+      "start": 1881.84,
+      "end": 1887.44,
+      "text": "got some BME these days, you know, like"
+    },
+    {
+      "start": 1883.68,
+      "end": 1889.68,
+      "text": "Opus 4.1 is uh it like feels vast."
+    },
+    {
+      "start": 1887.44,
+      "end": 1892.08,
+      "text": ">> Going back to Sora, I mean touching on"
+    },
+    {
+      "start": 1889.68,
+      "end": 1894.0,
+      "text": "this this topic a little bit like Sora"
+    },
+    {
+      "start": 1892.08,
+      "end": 1896.32,
+      "text": "kind of surprised me a little bit"
+    },
+    {
+      "start": 1894.0,
+      "end": 1897.44,
+      "text": "because it's a new product, it's a new"
+    },
+    {
+      "start": 1896.32,
+      "end": 1898.96,
+      "text": "app and it's good."
+    },
+    {
+      "start": 1897.44,
+      "end": 1901.2,
+      "text": ">> Yeah. You know, I think there was a"
+    },
+    {
+      "start": 1898.96,
+      "end": 1903.6,
+      "text": "belief among some startups and founders"
+    },
+    {
+      "start": 1901.2,
+      "end": 1906.24,
+      "text": "that um you know, as long as you're not"
+    },
+    {
+      "start": 1903.6,
+      "end": 1908.08,
+      "text": "doing exactly what Chat GBT is doing or"
+    },
+    {
+      "start": 1906.24,
+      "end": 1909.92,
+      "text": "exactly what Claude's doing, like you'll"
+    },
+    {
+      "start": 1908.08,
+      "end": 1911.36,
+      "text": "be okay because that's where they're"
+    },
+    {
+      "start": 1909.92,
+      "end": 1913.84,
+      "text": "focusing their energy into these"
+    },
+    {
+      "start": 1911.36,
+      "end": 1916.08,
+      "text": "products. But Sora is kind of proof that"
+    },
+    {
+      "start": 1913.84,
+      "end": 1917.92,
+      "text": "no, these labs like they have the taste"
+    },
+    {
+      "start": 1916.08,
+      "end": 1920.48,
+      "text": "and capability and the horsepower and"
+    },
+    {
+      "start": 1917.92,
+      "end": 1922.48,
+      "text": "the execution to build and ship net new"
+    },
+    {
+      "start": 1920.48,
+      "end": 1923.52,
+      "text": "products that also might run you over. I"
+    },
+    {
+      "start": 1922.48,
+      "end": 1925.12,
+      "text": "think the point is though all the more"
+    },
+    {
+      "start": 1923.52,
+      "end": 1926.0,
+      "text": "reason why like you got to have taste."
+    },
+    {
+      "start": 1925.12,
+      "end": 1927.44,
+      "text": "You got to be willing to put your"
+    },
+    {
+      "start": 1926.0,
+      "end": 1929.04,
+      "text": "product out there, but you have to like"
+    },
+    {
+      "start": 1927.44,
+      "end": 1931.12,
+      "text": "we're in this environment that is just"
+    },
+    {
+      "start": 1929.04,
+      "end": 1932.88,
+      "text": "so hyper competitive. Like you have to"
+    },
+    {
+      "start": 1931.12,
+      "end": 1934.72,
+      "text": "you have to move fast. You have to be"
+    },
+    {
+      "start": 1932.88,
+      "end": 1936.24,
+      "text": "aggressive. You can't just kind of like"
+    },
+    {
+      "start": 1934.72,
+      "end": 1937.04,
+      "text": "sit back and iterate and like wait for"
+    },
+    {
+      "start": 1936.24,
+      "end": 1938.8,
+      "text": "your moment."
+    },
+    {
+      "start": 1937.04,
+      "end": 1941.2,
+      "text": ">> I mean the machines don't quite have"
+    },
+    {
+      "start": 1938.8,
+      "end": 1943.28,
+      "text": "taste of their own yet. No, like that's"
+    },
+    {
+      "start": 1941.2,
+      "end": 1945.44,
+      "text": "what the eval are for. Most people are"
+    },
+    {
+      "start": 1943.28,
+      "end": 1947.44,
+      "text": "in these um consumer scenarios even"
+    },
+    {
+      "start": 1945.44,
+      "end": 1948.64,
+      "text": "they're just they're writing prompts and"
+    },
+    {
+      "start": 1947.44,
+      "end": 1951.84,
+      "text": "then they're"
+    },
+    {
+      "start": 1948.64,
+      "end": 1954.16,
+      "text": ">> trying to give a certain experience to"
+    },
+    {
+      "start": 1951.84,
+      "end": 1955.6,
+      "text": "the end user and then there's still you"
+    },
+    {
+      "start": 1954.16,
+      "end": 1956.16,
+      "text": "know a craft to that."
+    },
+    {
+      "start": 1955.6,
+      "end": 1958.16,
+      "text": ">> Totally."
+    },
+    {
+      "start": 1956.16,
+      "end": 1961.92,
+      "text": ">> So Mike, you're one of the most"
+    },
+    {
+      "start": 1958.16,
+      "end": 1963.36,
+      "text": "legendary consumer AI investors and um I"
+    },
+    {
+      "start": 1961.92,
+      "end": 1965.2,
+      "text": "think a lot of people out there would"
+    },
+    {
+      "start": 1963.36,
+      "end": 1967.04,
+      "text": "love to know like what are you seeing?"
+    },
+    {
+      "start": 1965.2,
+      "end": 1969.2,
+      "text": "What would impress you? what you know"
+    },
+    {
+      "start": 1967.04,
+      "end": 1971.28,
+      "text": "what would get over the line so that"
+    },
+    {
+      "start": 1969.2,
+      "end": 1972.16,
+      "text": "they could be um you know get the chance"
+    },
+    {
+      "start": 1971.28,
+      "end": 1975.04,
+      "text": "to work with you."
+    },
+    {
+      "start": 1972.16,
+      "end": 1977.76,
+      "text": ">> There's a huge opportunity right now to"
+    },
+    {
+      "start": 1975.04,
+      "end": 1979.44,
+      "text": "re-examine opportunities that have been"
+    },
+    {
+      "start": 1977.76,
+      "end": 1981.28,
+      "text": "previously overlooked. You know, I"
+    },
+    {
+      "start": 1979.44,
+      "end": 1983.36,
+      "text": "mentioned earlier that we recently"
+    },
+    {
+      "start": 1981.28,
+      "end": 1985.2,
+      "text": "invested in a mail app, a category that"
+    },
+    {
+      "start": 1983.36,
+      "end": 1987.36,
+      "text": "I think we previously would have ignored"
+    },
+    {
+      "start": 1985.2,
+      "end": 1989.36,
+      "text": "because it's been a graveyard typically,"
+    },
+    {
+      "start": 1987.36,
+      "end": 1991.28,
+      "text": "but AI has presented brand new"
+    },
+    {
+      "start": 1989.36,
+      "end": 1993.36,
+      "text": "opportunities. And I think we're seeing"
+    },
+    {
+      "start": 1991.28,
+      "end": 1996.0,
+      "text": "spaces like that over and over again"
+    },
+    {
+      "start": 1993.36,
+      "end": 1997.84,
+      "text": "like these these services that maybe got"
+    },
+    {
+      "start": 1996.0,
+      "end": 2000.08,
+      "text": "a lot of investment and building early"
+    },
+    {
+      "start": 1997.84,
+      "end": 2002.72,
+      "text": "on in terms of like the internet or"
+    },
+    {
+      "start": 2000.08,
+      "end": 2004.16,
+      "text": "maybe like um advertising and things"
+    },
+    {
+      "start": 2002.72,
+      "end": 2006.16,
+      "text": "like that that we've we've just like"
+    },
+    {
+      "start": 2004.16,
+      "end": 2008.16,
+      "text": "moved on from as a as an industry"
+    },
+    {
+      "start": 2006.16,
+      "end": 2010.24,
+      "text": "because we consider them baked and and"
+    },
+    {
+      "start": 2008.16,
+      "end": 2011.76,
+      "text": "done. And I think AI is presenting an"
+    },
+    {
+      "start": 2010.24,
+      "end": 2013.44,
+      "text": "opportunity to just completely like"
+    },
+    {
+      "start": 2011.76,
+      "end": 2014.8,
+      "text": "rebuild a lot of the stack that that"
+    },
+    {
+      "start": 2013.44,
+      "end": 2017.2,
+      "text": "we've already built. I would also"
+    },
+    {
+      "start": 2014.8,
+      "end": 2019.84,
+      "text": "encourage people to think about what are"
+    },
+    {
+      "start": 2017.2,
+      "end": 2023.12,
+      "text": "the large data sets that exist either"
+    },
+    {
+      "start": 2019.84,
+      "end": 2026.0,
+      "text": "sort of that are publicly accessible or"
+    },
+    {
+      "start": 2023.12,
+      "end": 2028.32,
+      "text": "that are private and personal to someone"
+    },
+    {
+      "start": 2026.0,
+      "end": 2030.8,
+      "text": "that if you layer an LLM on top of it or"
+    },
+    {
+      "start": 2028.32,
+      "end": 2032.96,
+      "text": "maybe a photo model or you know an image"
+    },
+    {
+      "start": 2030.8,
+      "end": 2034.88,
+      "text": "model or a video model or a music model"
+    },
+    {
+      "start": 2032.96,
+      "end": 2036.88,
+      "text": "like what are interesting things that"
+    },
+    {
+      "start": 2034.88,
+      "end": 2038.8,
+      "text": "you can do with these data sets that"
+    },
+    {
+      "start": 2036.88,
+      "end": 2040.16,
+      "text": "have sort of been been untouched. Um,"
+    },
+    {
+      "start": 2038.8,
+      "end": 2042.0,
+      "text": "you know, we talked a little bit about"
+    },
+    {
+      "start": 2040.16,
+      "end": 2044.0,
+      "text": "health data and going into the doctor's"
+    },
+    {
+      "start": 2042.0,
+      "end": 2045.2,
+      "text": "office. Like that's a huge opportunity."
+    },
+    {
+      "start": 2044.0,
+      "end": 2047.04,
+      "text": "Obviously, a lot of people are building"
+    },
+    {
+      "start": 2045.2,
+      "end": 2048.56,
+      "text": "for that right now, but what are some of"
+    },
+    {
+      "start": 2047.04,
+      "end": 2051.28,
+      "text": "the other data sets that no one has"
+    },
+    {
+      "start": 2048.56,
+      "end": 2053.12,
+      "text": "really like put AI around and and given"
+    },
+    {
+      "start": 2051.28,
+      "end": 2054.32,
+      "text": "you access and insight to that you"
+    },
+    {
+      "start": 2053.12,
+      "end": 2055.6,
+      "text": "haven't really thought of before?"
+    },
+    {
+      "start": 2054.32,
+      "end": 2057.2,
+      "text": ">> That kind of gives me an idea for a"
+    },
+    {
+      "start": 2055.6,
+      "end": 2058.72,
+      "text": "request for startup a little bit. I"
+    },
+    {
+      "start": 2057.2,
+      "end": 2061.68,
+      "text": "mean, there's just a lot of data and"
+    },
+    {
+      "start": 2058.72,
+      "end": 2064.0,
+      "text": "it's in your phone and it's I mean,"
+    },
+    {
+      "start": 2061.68,
+      "end": 2066.64,
+      "text": "frankly, in your medical records, it's"
+    },
+    {
+      "start": 2064.0,
+      "end": 2068.4,
+      "text": "just it's in Apple Health. Simultaneous"
+    },
+    {
+      "start": 2066.64,
+      "end": 2070.56,
+      "text": "to that, like there are great startups"
+    },
+    {
+      "start": 2068.4,
+      "end": 2073.6,
+      "text": "like Mem Zero that are kind of trying to"
+    },
+    {
+      "start": 2070.56,
+      "end": 2075.52,
+      "text": "be like a memory layer, but like inside"
+    },
+    {
+      "start": 2073.6,
+      "end": 2077.44,
+      "text": "uh the system of record, you know,"
+    },
+    {
+      "start": 2075.52,
+      "end": 2079.68,
+      "text": "inside someone else's app."
+    },
+    {
+      "start": 2077.44,
+      "end": 2081.84,
+      "text": ">> It feels like there's some space in here"
+    },
+    {
+      "start": 2079.68,
+      "end": 2084.56,
+      "text": "around like an enabling tech"
+    },
+    {
+      "start": 2081.84,
+      "end": 2087.12,
+      "text": ">> where you want a layer that um basically"
+    },
+    {
+      "start": 2084.56,
+      "end": 2088.32,
+      "text": "knows everything about a given person."
+    },
+    {
+      "start": 2087.12,
+      "end": 2090.24,
+      "text": ">> I mean, and then you could even break"
+    },
+    {
+      "start": 2088.32,
+      "end": 2092.0,
+      "text": "down that that down even further, right?"
+    },
+    {
+      "start": 2090.24,
+      "end": 2093.6,
+      "text": "Like there's probably a bunch of really"
+    },
+    {
+      "start": 2092.0,
+      "end": 2094.32,
+      "text": "cool things to be built on top of your"
+    },
+    {
+      "start": 2093.6,
+      "end": 2094.88,
+      "text": "camera roll."
+    },
+    {
+      "start": 2094.32,
+      "end": 2096.16,
+      "text": ">> Yeah. Yeah. Yeah,"
+    },
+    {
+      "start": 2094.88,
+      "end": 2097.92,
+      "text": ">> I don't know what they are. May and"
+    },
+    {
+      "start": 2096.16,
+      "end": 2099.76,
+      "text": "maybe they're social experiences, right?"
+    },
+    {
+      "start": 2097.92,
+      "end": 2101.68,
+      "text": "But if we look if we used AI to kind of"
+    },
+    {
+      "start": 2099.76,
+      "end": 2104.0,
+      "text": "look at your photos and the things that"
+    },
+    {
+      "start": 2101.68,
+      "end": 2107.04,
+      "text": "are in them, maybe the places you've"
+    },
+    {
+      "start": 2104.0,
+      "end": 2108.96,
+      "text": "been, maybe your geol locations, you"
+    },
+    {
+      "start": 2107.04,
+      "end": 2110.4,
+      "text": "could build an interesting uh thing."
+    },
+    {
+      "start": 2108.96,
+      "end": 2112.4,
+      "text": ">> I think it would know who you hang out"
+    },
+    {
+      "start": 2110.4,
+      "end": 2113.68,
+      "text": "with, who you spend time with, like are"
+    },
+    {
+      "start": 2112.4,
+      "end": 2115.68,
+      "text": "you into, you know, do you spend a lot"
+    },
+    {
+      "start": 2113.68,
+      "end": 2117.84,
+      "text": "of time with your family, do you an"
+    },
+    {
+      "start": 2115.68,
+      "end": 2120.0,
+      "text": "archer, like what your favorite beer is,"
+    },
+    {
+      "start": 2117.84,
+      "end": 2122.0,
+      "text": "like there's probably all kinds of stuff"
+    },
+    {
+      "start": 2120.0,
+      "end": 2124.48,
+      "text": "that's like implicit to that. Yeah,"
+    },
+    {
+      "start": 2122.0,
+      "end": 2125.6,
+      "text": "Dennis Crowley just uh launched some"
+    },
+    {
+      "start": 2124.48,
+      "end": 2126.8,
+      "text": "Dennis Crowley's the founder of"
+    },
+    {
+      "start": 2125.6,
+      "end": 2127.92,
+      "text": "Foursquare. You know,"
+    },
+    {
+      "start": 2126.8,
+      "end": 2130.16,
+      "text": ">> I still use Swarm."
+    },
+    {
+      "start": 2127.92,
+      "end": 2131.84,
+      "text": ">> Yeah. Amazing consumer product builder,"
+    },
+    {
+      "start": 2130.16,
+      "end": 2133.76,
+      "text": "thinker, super creative. You know, he"
+    },
+    {
+      "start": 2131.84,
+      "end": 2136.24,
+      "text": "just launched something um where when"
+    },
+    {
+      "start": 2133.76,
+      "end": 2139.04,
+      "text": "you put your AirPods in kind of AI goes"
+    },
+    {
+      "start": 2136.24,
+      "end": 2140.56,
+      "text": "to work based on your geo location. So,"
+    },
+    {
+      "start": 2139.04,
+      "end": 2142.08,
+      "text": "you know, it it might know because"
+    },
+    {
+      "start": 2140.56,
+      "end": 2144.24,
+      "text": "you've you've done it a bunch of times"
+    },
+    {
+      "start": 2142.08,
+      "end": 2145.68,
+      "text": "that you like really good coffee or"
+    },
+    {
+      "start": 2144.24,
+      "end": 2146.88,
+      "text": "margaritas and then if you're near"
+    },
+    {
+      "start": 2145.68,
+      "end": 2148.72,
+      "text": "something, it's going to tell you. It's"
+    },
+    {
+      "start": 2146.88,
+      "end": 2150.48,
+      "text": "just going to like chime into your ear"
+    },
+    {
+      "start": 2148.72,
+      "end": 2151.92,
+      "text": "um based on your previous history. So,"
+    },
+    {
+      "start": 2150.48,
+      "end": 2154.48,
+      "text": "like I just think there's a lot of"
+    },
+    {
+      "start": 2151.92,
+      "end": 2156.32,
+      "text": "opportunity to take this this memory,"
+    },
+    {
+      "start": 2154.48,
+      "end": 2157.52,
+      "text": "this this sort of like personal uh"
+    },
+    {
+      "start": 2156.32,
+      "end": 2158.88,
+      "text": "information that you're talking about"
+    },
+    {
+      "start": 2157.52,
+      "end": 2161.2,
+      "text": "and break it down on a bunch of"
+    },
+    {
+      "start": 2158.88,
+      "end": 2162.96,
+      "text": "different levels, run it through AI and"
+    },
+    {
+      "start": 2161.2,
+      "end": 2165.28,
+      "text": "create new consumer experiences."
+    },
+    {
+      "start": 2162.96,
+      "end": 2167.28,
+      "text": ">> Aside from that, you uh and your"
+    },
+    {
+      "start": 2165.28,
+      "end": 2169.2,
+      "text": "co-founders are starting a new company"
+    },
+    {
+      "start": 2167.28,
+      "end": 2171.68,
+      "text": "as well called Obo. You know, how did"
+    },
+    {
+      "start": 2169.2,
+      "end": 2173.28,
+      "text": "you decide to work on that and you know,"
+    },
+    {
+      "start": 2171.68,
+      "end": 2175.76,
+      "text": "how did you pick that idea?"
+    },
+    {
+      "start": 2173.28,
+      "end": 2178.32,
+      "text": ">> Yeah. So I think again this is another"
+    },
+    {
+      "start": 2175.76,
+      "end": 2180.24,
+      "text": "opportunity that AI I think presents uh"
+    },
+    {
+      "start": 2178.32,
+      "end": 2183.44,
+      "text": "and that is that is education. I mean"
+    },
+    {
+      "start": 2180.24,
+      "end": 2185.28,
+      "text": "the highest level premise is that we've"
+    },
+    {
+      "start": 2183.44,
+      "end": 2187.2,
+      "text": "spent billions maybe trillions of"
+    },
+    {
+      "start": 2185.28,
+      "end": 2189.28,
+      "text": "dollars to invent artificial"
+    },
+    {
+      "start": 2187.2,
+      "end": 2190.48,
+      "text": "intelligence and obviously there's"
+    },
+    {
+      "start": 2189.28,
+      "end": 2192.56,
+      "text": "amazing opportunities that are coming"
+    },
+    {
+      "start": 2190.48,
+      "end": 2193.76,
+      "text": "out of that. But what if we sort of took"
+    },
+    {
+      "start": 2192.56,
+      "end": 2195.68,
+      "text": "that artificial intelligence and"
+    },
+    {
+      "start": 2193.76,
+      "end": 2196.8,
+      "text": "invested it into human intelligence? And"
+    },
+    {
+      "start": 2195.68,
+      "end": 2198.72,
+      "text": "obviously a lot of people have been"
+    },
+    {
+      "start": 2196.8,
+      "end": 2200.0,
+      "text": "talking about this for a while. AI is"
+    },
+    {
+      "start": 2198.72,
+      "end": 2201.92,
+      "text": "going to be a great tutor. It's going to"
+    },
+    {
+      "start": 2200.0,
+      "end": 2203.76,
+      "text": "be great at teaching you things. Um but"
+    },
+    {
+      "start": 2201.92,
+      "end": 2206.48,
+      "text": "nobody's really gone in and built the"
+    },
+    {
+      "start": 2203.76,
+      "end": 2209.04,
+      "text": "product for that yet. And so so OBO and"
+    },
+    {
+      "start": 2206.48,
+      "end": 2211.36,
+      "text": "it's available now obo.fyi"
+    },
+    {
+      "start": 2209.04,
+      "end": 2213.84,
+      "text": "um it is a product that anything you"
+    },
+    {
+      "start": 2211.36,
+      "end": 2215.84,
+      "text": "want to learn it will magically create a"
+    },
+    {
+      "start": 2213.84,
+      "end": 2218.24,
+      "text": "course for you on that subject in any"
+    },
+    {
+      "start": 2215.84,
+      "end": 2220.56,
+      "text": "format you want podcast you know long"
+    },
+    {
+      "start": 2218.24,
+      "end": 2222.8,
+      "text": "form lecture. Uh it'll create the study"
+    },
+    {
+      "start": 2220.56,
+      "end": 2224.88,
+      "text": "materials for it. And over time you know"
+    },
+    {
+      "start": 2222.8,
+      "end": 2226.0,
+      "text": "to to um more to the point that we're"
+    },
+    {
+      "start": 2224.88,
+      "end": 2228.16,
+      "text": "talking about with personalization and"
+    },
+    {
+      "start": 2226.0,
+      "end": 2229.44,
+      "text": "data. It's obviously going to know how"
+    },
+    {
+      "start": 2228.16,
+      "end": 2230.72,
+      "text": "you like to learn in terms of the"
+    },
+    {
+      "start": 2229.44,
+      "end": 2232.96,
+      "text": "format, but it's going to know what you"
+    },
+    {
+      "start": 2230.72,
+      "end": 2234.32,
+      "text": "already know. And so each subsequent"
+    },
+    {
+      "start": 2232.96,
+      "end": 2236.4,
+      "text": "lesson is going to get more and more"
+    },
+    {
+      "start": 2234.32,
+      "end": 2238.16,
+      "text": "personalized and then therefore more"
+    },
+    {
+      "start": 2236.4,
+      "end": 2239.76,
+      "text": "efficient at teaching you because"
+    },
+    {
+      "start": 2238.16,
+      "end": 2241.2,
+      "text": "obviously the way in which we all learn"
+    },
+    {
+      "start": 2239.76,
+      "end": 2244.0,
+      "text": "right now, it's like extremely"
+    },
+    {
+      "start": 2241.2,
+      "end": 2245.44,
+      "text": "one-sizefits-all. All the content is the"
+    },
+    {
+      "start": 2244.0,
+      "end": 2246.88,
+      "text": "same. It's kind of a blunt instrument"
+    },
+    {
+      "start": 2245.44,
+      "end": 2249.04,
+      "text": "that's just kind of like forced upon"
+    },
+    {
+      "start": 2246.88,
+      "end": 2251.12,
+      "text": "you. Whether it's reading a Wikipedia"
+    },
+    {
+      "start": 2249.04,
+      "end": 2253.44,
+      "text": "article or, you know, going to college"
+    },
+    {
+      "start": 2251.12,
+      "end": 2255.68,
+      "text": "or whatever, it's just one sizefits-all."
+    },
+    {
+      "start": 2253.44,
+      "end": 2258.16,
+      "text": "But AI presents an opportunity to highly"
+    },
+    {
+      "start": 2255.68,
+      "end": 2259.44,
+      "text": "highly personalize education and get"
+    },
+    {
+      "start": 2258.16,
+      "end": 2261.84,
+      "text": "better and better and smarter and"
+    },
+    {
+      "start": 2259.44,
+      "end": 2263.92,
+      "text": "smarter the more you learn. And so the"
+    },
+    {
+      "start": 2261.84,
+      "end": 2266.64,
+      "text": "hope is that we can literally make"
+    },
+    {
+      "start": 2263.92,
+      "end": 2269.28,
+      "text": "humanity smarter through AI. In my"
+    },
+    {
+      "start": 2266.64,
+      "end": 2271.2,
+      "text": "opinion and in my experience, the way to"
+    },
+    {
+      "start": 2269.28,
+      "end": 2272.56,
+      "text": "build startups, it's to take these large"
+    },
+    {
+      "start": 2271.2,
+      "end": 2274.88,
+      "text": "surface areas where there's kind of"
+    },
+    {
+      "start": 2272.56,
+      "end": 2276.56,
+      "text": "obvious opportunity and yes, you start"
+    },
+    {
+      "start": 2274.88,
+      "end": 2278.24,
+      "text": "with a point of view, but like your"
+    },
+    {
+      "start": 2276.56,
+      "end": 2278.8,
+      "text": "point of view may be wrong and then you"
+    },
+    {
+      "start": 2278.24,
+      "end": 2280.48,
+      "text": "iterate, right?"
+    },
+    {
+      "start": 2278.8,
+      "end": 2281.36,
+      "text": ">> You get punched in the face and then you"
+    },
+    {
+      "start": 2280.48,
+      "end": 2282.72,
+      "text": "alter your plan."
+    },
+    {
+      "start": 2281.36,
+      "end": 2284.8,
+      "text": ">> Yeah. you're still like kind of pointed"
+    },
+    {
+      "start": 2282.72,
+      "end": 2286.24,
+      "text": "at the same north star, but you're just"
+    },
+    {
+      "start": 2284.8,
+      "end": 2287.12,
+      "text": "you're just taking a different path. I"
+    },
+    {
+      "start": 2286.24,
+      "end": 2288.56,
+      "text": "mean, that's that's what we did with"
+    },
+    {
+      "start": 2287.12,
+      "end": 2290.88,
+      "text": "Anchor. We're like, we want to"
+    },
+    {
+      "start": 2288.56,
+      "end": 2292.96,
+      "text": "democratize audio. We think it's through"
+    },
+    {
+      "start": 2290.88,
+      "end": 2295.04,
+      "text": "social audio and short form voice notes."
+    },
+    {
+      "start": 2292.96,
+      "end": 2297.44,
+      "text": "Oh, nope. It's not. Like, let's add more"
+    },
+    {
+      "start": 2295.04,
+      "end": 2299.28,
+      "text": "tools. Oh, that wasn't it. Let's add"
+    },
+    {
+      "start": 2297.44,
+      "end": 2302.72,
+      "text": "distribution to Spotify. And I think"
+    },
+    {
+      "start": 2299.28,
+      "end": 2304.08,
+      "text": "that that is a recipe for a successful"
+    },
+    {
+      "start": 2302.72,
+      "end": 2307.36,
+      "text": "startup. It's like take a really"
+    },
+    {
+      "start": 2304.08,
+      "end": 2309.76,
+      "text": "ambitious space, coin in a certain"
+    },
+    {
+      "start": 2307.36,
+      "end": 2311.44,
+      "text": "direction, and just keep iterating to"
+    },
+    {
+      "start": 2309.76,
+      "end": 2313.68,
+      "text": "find the best path until you get there."
+    },
+    {
+      "start": 2311.44,
+      "end": 2315.68,
+      "text": ">> Amazing. Mike, do you want to give a a"
+    },
+    {
+      "start": 2313.68,
+      "end": 2317.84,
+      "text": "brief plug for your podcast?"
+    },
+    {
+      "start": 2315.68,
+      "end": 2320.72,
+      "text": ">> Yeah. So, when AI kind of exploded a few"
+    },
+    {
+      "start": 2317.84,
+      "end": 2323.04,
+      "text": "years ago, uh we at Lightseed did did"
+    },
+    {
+      "start": 2320.72,
+      "end": 2325.12,
+      "text": "the thing that every VC does and we"
+    },
+    {
+      "start": 2323.04,
+      "end": 2326.32,
+      "text": "started a podcast and the whole idea was"
+    },
+    {
+      "start": 2325.12,
+      "end": 2328.4,
+      "text": "to talk to people that are building in"
+    },
+    {
+      "start": 2326.32,
+      "end": 2330.24,
+      "text": "the space. But then after a few months"
+    },
+    {
+      "start": 2328.4,
+      "end": 2331.84,
+      "text": "or you know, whatever, we realized that"
+    },
+    {
+      "start": 2330.24,
+      "end": 2334.32,
+      "text": "frankly I got bored. I was like, I'm"
+    },
+    {
+      "start": 2331.84,
+      "end": 2336.88,
+      "text": "having the same types of conversations."
+    },
+    {
+      "start": 2334.32,
+      "end": 2339.44,
+      "text": "And then so, uh, a friend of mine, Samil"
+    },
+    {
+      "start": 2336.88,
+      "end": 2341.52,
+      "text": "Shaw, was like, why don't we just go"
+    },
+    {
+      "start": 2339.44,
+      "end": 2343.76,
+      "text": "outside and record a podcast and we'll"
+    },
+    {
+      "start": 2341.52,
+      "end": 2346.4,
+      "text": "make it like Anthony or Bourdain, Parts"
+    },
+    {
+      "start": 2343.76,
+      "end": 2349.6,
+      "text": "Unknown or Comedians and Cars. So, we"
+    },
+    {
+      "start": 2346.4,
+      "end": 2351.12,
+      "text": "tried it out and we had a blast. The"
+    },
+    {
+      "start": 2349.6,
+      "end": 2352.32,
+      "text": "audience loved it as well. People were"
+    },
+    {
+      "start": 2351.12,
+      "end": 2354.0,
+      "text": "like, \"Oh, this is cool. This is"
+    },
+    {
+      "start": 2352.32,
+      "end": 2355.68,
+      "text": "different.\" And so,"
+    },
+    {
+      "start": 2354.0,
+      "end": 2357.2,
+      "text": ">> uh, now we've launched a new podcast."
+    },
+    {
+      "start": 2355.68,
+      "end": 2358.24,
+      "text": "It's called Out of Office. It's going to"
+    },
+    {
+      "start": 2357.2,
+      "end": 2358.48,
+      "text": "be fun. And you're going to come on,"
+    },
+    {
+      "start": 2358.24,
+      "end": 2359.2,
+      "text": "right?"
+    },
+    {
+      "start": 2358.48,
+      "end": 2361.52,
+      "text": ">> Yes. All right."
+    },
+    {
+      "start": 2359.2,
+      "end": 2362.24,
+      "text": ">> Can't wait. Watch out for that one real"
+    },
+    {
+      "start": 2361.52,
+      "end": 2364.08,
+      "text": "soon."
+    },
+    {
+      "start": 2362.24,
+      "end": 2365.84,
+      "text": ">> Well, we're out of time, but Mike, thank"
+    },
+    {
+      "start": 2364.08,
+      "end": 2366.64,
+      "text": "you so much for hanging out with us."
+    },
+    {
+      "start": 2365.84,
+      "end": 2370.44,
+      "text": "Really appreciate it."
+    },
+    {
+      "start": 2366.64,
+      "end": 2370.44,
+      "text": ">> Yeah, thank you. This is fun."
+    }
+  ],
+  "word_count": 8280,
+  "fetched_at": "2025-12-21T02:19:38.725793Z"
+}

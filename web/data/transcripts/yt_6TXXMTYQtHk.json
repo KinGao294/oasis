@@ -1,0 +1,294 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "At Notion, our mission is to help people build beautiful tools for their life's work. What AI has done is almost given us a different gear, new electricity to make it even simpler. It's a really fun story. After co we made our first companywide trip, [music] my co-founders Ivan and Simon had just gotten early access to GPD4. The two of them essentially locked themselves in a room to prototype a version of Notion that taps into this GP4 API. By the end of the week, they had a prototype that was really compelling. Now they can speak in their own language. We've gone from people needing to learn software to just speaking in English and seeing a software emerge on the other side of that. It felt like it's not just a notion product, but it was our combined product because it was really using [music] OpenAI's APIs to launch that >> from internal usage to GA. It's 50% faster and that [music] speed actually allows our users to use it reliably. Ultimately, we do our work in a lot [music] of places and utilizing notion AI, we've worked really hard with OpenAI to build lots of connectors and [music] integrations. So today, your notion AI isn't just connected to your notion workspace, it's connected to GitHub, [music] it's connected to Confluence, it's connected to Slack. And so when you ask a question, for instance, as an engineering manager, I have everything from who wrote the code, who [music] put the design file in Figma to what is the PD? and utilizing our embeddings from OpenAI, we're able to make that retrieval really fast and very high quality. Unsurprisingly, [music] when customers are using Notion AI, they're almost twothirds as active on notion than customers that don't. And from that, [music] 3/4 of them say that they they would never go back. That AI is integral into how they use Notion. [music] >> I think maybe the most fun part about this whole journey is that we are each other's [music] customers. And so when OpenAI tells us that our Q&A product is really good, that gives us confidence that we've built something that is truly world class. Of [music] course, tapping into the power that OpenAI has provided.",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 4.56,
+      "text": "At Notion, our mission is to help people"
+    },
+    {
+      "start": 2.8,
+      "end": 6.72,
+      "text": "build beautiful tools for their life's"
+    },
+    {
+      "start": 4.56,
+      "end": 9.36,
+      "text": "work. What AI has done is almost given"
+    },
+    {
+      "start": 6.72,
+      "end": 12.92,
+      "text": "us a different gear, new electricity to"
+    },
+    {
+      "start": 9.36,
+      "end": 12.92,
+      "text": "make it even simpler."
+    },
+    {
+      "start": 13.84,
+      "end": 18.4,
+      "text": "It's a really fun story. After co we"
+    },
+    {
+      "start": 16.72,
+      "end": 20.8,
+      "text": "made our first companywide trip, [music]"
+    },
+    {
+      "start": 18.4,
+      "end": 23.84,
+      "text": "my co-founders Ivan and Simon had just"
+    },
+    {
+      "start": 20.8,
+      "end": 25.2,
+      "text": "gotten early access to GPD4. The two of"
+    },
+    {
+      "start": 23.84,
+      "end": 27.36,
+      "text": "them essentially locked themselves in a"
+    },
+    {
+      "start": 25.2,
+      "end": 30.24,
+      "text": "room to prototype a version of Notion"
+    },
+    {
+      "start": 27.36,
+      "end": 31.76,
+      "text": "that taps into this GP4 API. By the end"
+    },
+    {
+      "start": 30.24,
+      "end": 33.68,
+      "text": "of the week, they had a prototype that"
+    },
+    {
+      "start": 31.76,
+      "end": 35.68,
+      "text": "was really compelling. Now they can"
+    },
+    {
+      "start": 33.68,
+      "end": 38.64,
+      "text": "speak in their own language. We've gone"
+    },
+    {
+      "start": 35.68,
+      "end": 40.48,
+      "text": "from people needing to learn software to"
+    },
+    {
+      "start": 38.64,
+      "end": 42.24,
+      "text": "just speaking in English and seeing a"
+    },
+    {
+      "start": 40.48,
+      "end": 44.64,
+      "text": "software emerge on the other side of"
+    },
+    {
+      "start": 42.24,
+      "end": 46.72,
+      "text": "that. It felt like it's not just a"
+    },
+    {
+      "start": 44.64,
+      "end": 49.12,
+      "text": "notion product, but it was our combined"
+    },
+    {
+      "start": 46.72,
+      "end": 51.68,
+      "text": "product because it was really using"
+    },
+    {
+      "start": 49.12,
+      "end": 54.4,
+      "text": "[music] OpenAI's APIs to launch that"
+    },
+    {
+      "start": 51.68,
+      "end": 56.48,
+      "text": ">> from internal usage to GA. It's 50%"
+    },
+    {
+      "start": 54.4,
+      "end": 58.8,
+      "text": "faster and that [music] speed actually"
+    },
+    {
+      "start": 56.48,
+      "end": 60.91,
+      "text": "allows our users to use it reliably."
+    },
+    {
+      "start": 58.8,
+      "end": 62.72,
+      "text": "Ultimately, we do our work in a lot"
+    },
+    {
+      "start": 60.91,
+      "end": 64.8,
+      "text": "[music] of places and utilizing notion"
+    },
+    {
+      "start": 62.72,
+      "end": 66.32,
+      "text": "AI, we've worked really hard with OpenAI"
+    },
+    {
+      "start": 64.8,
+      "end": 69.28,
+      "text": "to build lots of connectors and [music]"
+    },
+    {
+      "start": 66.32,
+      "end": 70.64,
+      "text": "integrations. So today, your notion AI"
+    },
+    {
+      "start": 69.28,
+      "end": 72.7,
+      "text": "isn't just connected to your notion"
+    },
+    {
+      "start": 70.64,
+      "end": 74.08,
+      "text": "workspace, it's connected to GitHub,"
+    },
+    {
+      "start": 72.7,
+      "end": 76.56,
+      "text": "[music] it's connected to Confluence,"
+    },
+    {
+      "start": 74.08,
+      "end": 78.32,
+      "text": "it's connected to Slack. And so when you"
+    },
+    {
+      "start": 76.56,
+      "end": 80.08,
+      "text": "ask a question, for instance, as an"
+    },
+    {
+      "start": 78.32,
+      "end": 82.08,
+      "text": "engineering manager, I have everything"
+    },
+    {
+      "start": 80.08,
+      "end": 84.48,
+      "text": "from who wrote the code, who [music] put"
+    },
+    {
+      "start": 82.08,
+      "end": 86.96,
+      "text": "the design file in Figma to what is the"
+    },
+    {
+      "start": 84.48,
+      "end": 88.32,
+      "text": "PD? and utilizing our embeddings from"
+    },
+    {
+      "start": 86.96,
+      "end": 90.24,
+      "text": "OpenAI, we're able to make that"
+    },
+    {
+      "start": 88.32,
+      "end": 92.48,
+      "text": "retrieval really fast and very high"
+    },
+    {
+      "start": 90.24,
+      "end": 94.56,
+      "text": "quality. Unsurprisingly, [music]"
+    },
+    {
+      "start": 92.48,
+      "end": 96.8,
+      "text": "when customers are using Notion AI,"
+    },
+    {
+      "start": 94.56,
+      "end": 98.64,
+      "text": "they're almost twothirds as active on"
+    },
+    {
+      "start": 96.8,
+      "end": 100.56,
+      "text": "notion than customers that don't. And"
+    },
+    {
+      "start": 98.64,
+      "end": 102.72,
+      "text": "from that, [music] 3/4 of them say that"
+    },
+    {
+      "start": 100.56,
+      "end": 104.15,
+      "text": "they they would never go back. That AI"
+    },
+    {
+      "start": 102.72,
+      "end": 104.96,
+      "text": "is integral into how they use Notion."
+    },
+    {
+      "start": 104.15,
+      "end": 106.8,
+      "text": "[music]"
+    },
+    {
+      "start": 104.96,
+      "end": 108.64,
+      "text": ">> I think maybe the most fun part about"
+    },
+    {
+      "start": 106.8,
+      "end": 110.88,
+      "text": "this whole journey is that we are each"
+    },
+    {
+      "start": 108.64,
+      "end": 113.44,
+      "text": "other's [music] customers. And so when"
+    },
+    {
+      "start": 110.88,
+      "end": 114.96,
+      "text": "OpenAI tells us that our Q&A product is"
+    },
+    {
+      "start": 113.44,
+      "end": 117.04,
+      "text": "really good, that gives us confidence"
+    },
+    {
+      "start": 114.96,
+      "end": 118.72,
+      "text": "that we've built something that is truly"
+    },
+    {
+      "start": 117.04,
+      "end": 123.72,
+      "text": "world class. Of [music] course, tapping"
+    },
+    {
+      "start": 118.72,
+      "end": 123.72,
+      "text": "into the power that OpenAI has provided."
+    }
+  ],
+  "word_count": 381,
+  "fetched_at": "2025-12-21T02:19:54.873720Z"
+}

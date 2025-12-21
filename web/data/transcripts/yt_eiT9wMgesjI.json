@@ -1,0 +1,119 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "If something is really hard on the technical side, I mean, I think that's an even better idea, like nobody else is going to try. If it's hard, like the bar is so high, nobody try and nobody does it. If you have the the courage, the courage to actually do it, if you have the skills to do it, that's the best idea for you ever. So, definitely go after it. Some people could use that as an excuse to just work on their idea for 6 months and stay kind of like in their garage or somewhere. It kind of happened to us at Agolia, but if I were to go back, I would spend so much more time with customers. Even if the product is not ready, you can learn so much from learning about their problem, like living their life. And so I would do that much better now as long as you don't use that as an excuse to not speak with your customers.",
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 3.6,
+      "text": "If something is really hard on the"
+    },
+    {
+      "start": 2.0,
+      "end": 5.84,
+      "text": "technical side, I mean, I think that's"
+    },
+    {
+      "start": 3.6,
+      "end": 7.68,
+      "text": "an even better idea, like nobody else is"
+    },
+    {
+      "start": 5.84,
+      "end": 9.92,
+      "text": "going to try. If it's hard, like the bar"
+    },
+    {
+      "start": 7.68,
+      "end": 11.76,
+      "text": "is so high, nobody try and nobody does"
+    },
+    {
+      "start": 9.92,
+      "end": 13.28,
+      "text": "it. If you have the the courage, the"
+    },
+    {
+      "start": 11.76,
+      "end": 14.88,
+      "text": "courage to actually do it, if you have"
+    },
+    {
+      "start": 13.28,
+      "end": 16.96,
+      "text": "the skills to do it, that's the best"
+    },
+    {
+      "start": 14.88,
+      "end": 18.56,
+      "text": "idea for you ever. So, definitely go"
+    },
+    {
+      "start": 16.96,
+      "end": 21.04,
+      "text": "after it. Some people could use that as"
+    },
+    {
+      "start": 18.56,
+      "end": 22.96,
+      "text": "an excuse to just work on their idea for"
+    },
+    {
+      "start": 21.04,
+      "end": 24.48,
+      "text": "6 months and stay kind of like in their"
+    },
+    {
+      "start": 22.96,
+      "end": 26.32,
+      "text": "garage or somewhere. It kind of happened"
+    },
+    {
+      "start": 24.48,
+      "end": 28.08,
+      "text": "to us at Agolia, but if I were to go"
+    },
+    {
+      "start": 26.32,
+      "end": 29.76,
+      "text": "back, I would spend so much more time"
+    },
+    {
+      "start": 28.08,
+      "end": 32.0,
+      "text": "with customers. Even if the product is"
+    },
+    {
+      "start": 29.76,
+      "end": 33.6,
+      "text": "not ready, you can learn so much from"
+    },
+    {
+      "start": 32.0,
+      "end": 35.12,
+      "text": "learning about their problem, like"
+    },
+    {
+      "start": 33.6,
+      "end": 36.88,
+      "text": "living their life. And so I would do"
+    },
+    {
+      "start": 35.12,
+      "end": 39.28,
+      "text": "that much better now as long as you"
+    },
+    {
+      "start": 36.88,
+      "end": 41.92,
+      "text": "don't use that as an excuse to not speak"
+    },
+    {
+      "start": 39.28,
+      "end": 41.92,
+      "text": "with your customers."
+    }
+  ],
+  "word_count": 169,
+  "fetched_at": "2025-12-21T02:19:40.160072Z"
+}

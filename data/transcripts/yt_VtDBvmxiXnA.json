@@ -1,0 +1,99 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "You can go almost anywhere and find some painoint, some problem that could be solved with software and especially with AI that frankly just isn't being solved. If you find that thing and solve it, you literally can mint a billion dollar or 10 billion or even hundred or hundreds of billions of dollars market cap business and it's just lying in plain sight. You should start with, do I have a specific person who has some sort of pain point? And it's pretty painful. It's not like a, oh, it'd be nice if I could do this. It's a, oh, I am not going to get promoted this year. Maybe I will get fired. And if you can write software or build things that actually alleviate that pain, go solve",
+  "segments": [
+    {
+      "start": 0.16,
+      "end": 5.28,
+      "text": "You can go almost anywhere and find some"
+    },
+    {
+      "start": 2.8,
+      "end": 6.96,
+      "text": "painoint, some problem that could be"
+    },
+    {
+      "start": 5.28,
+      "end": 9.68,
+      "text": "solved with software and especially with"
+    },
+    {
+      "start": 6.96,
+      "end": 12.4,
+      "text": "AI that frankly just isn't being solved."
+    },
+    {
+      "start": 9.68,
+      "end": 14.32,
+      "text": "If you find that thing and solve it, you"
+    },
+    {
+      "start": 12.4,
+      "end": 16.32,
+      "text": "literally can mint a billion dollar or"
+    },
+    {
+      "start": 14.32,
+      "end": 18.0,
+      "text": "10 billion or even hundred or hundreds"
+    },
+    {
+      "start": 16.32,
+      "end": 19.92,
+      "text": "of billions of dollars market cap"
+    },
+    {
+      "start": 18.0,
+      "end": 22.4,
+      "text": "business and it's just lying in plain"
+    },
+    {
+      "start": 19.92,
+      "end": 24.8,
+      "text": "sight. You should start with, do I have"
+    },
+    {
+      "start": 22.4,
+      "end": 27.28,
+      "text": "a specific person who has some sort of"
+    },
+    {
+      "start": 24.8,
+      "end": 29.28,
+      "text": "pain point? And it's pretty painful."
+    },
+    {
+      "start": 27.28,
+      "end": 31.6,
+      "text": "It's not like a, oh, it'd be nice if I"
+    },
+    {
+      "start": 29.28,
+      "end": 33.04,
+      "text": "could do this. It's a, oh, I am not"
+    },
+    {
+      "start": 31.6,
+      "end": 34.8,
+      "text": "going to get promoted this year. Maybe I"
+    },
+    {
+      "start": 33.04,
+      "end": 37.12,
+      "text": "will get fired. And if you can write"
+    },
+    {
+      "start": 34.8,
+      "end": 40.72,
+      "text": "software or build things that actually"
+    },
+    {
+      "start": 37.12,
+      "end": 40.72,
+      "text": "alleviate that pain, go solve"
+    }
+  ],
+  "word_count": 131,
+  "fetched_at": "2025-12-21T02:19:41.675550Z"
+}

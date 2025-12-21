@@ -1,0 +1,674 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "Hello world. It's Suriraj and today I'm unleashing five heavyweight AIs GPT40, Claude Sonnet, Gemini 2.5, Llama 4, and Deepseek into a single crypto wallet to find out whether a coordinated swarm can crap a crypto sportsbooks juice lines and spin a profit in just 48 hours. Spoiler, they stacked $5,081 while I did zero human handicapping. And over the next 10 minutes, I'm handing you every line of code, every guard rail, and every mistake I made so you can clone or improve this bot yourself. Proof first onchain wallet feed rolling besides me. Deposits, wagers, and payouts. all timestamped and hash verifiable so you know it's real. The odds all come from bet 105, a cryptoon only book that shaves juice to half a percent. I found links in the description if you want to see the same lines. Strategy next. Live market data streams in via lang graph. Think of it as a traffic cop that routes JSON packets, matchups, prices, injury blurbs, even rink temperature. So each agent then collects their replies. Then we stash the running debate in Reddus which is an in-memory database that's basically lightning fast sticky notes for AIS. And then each model returns a side a quantified edge and a one-s sentence rationale. A reducer tallies votes, break ties by the highest edge, then hands the pick to Playright, which is an automated browser that logs in headless, clicks the odds, enters the stake, confirms, and grabs a PNG slip for audit. Total roundtrip is 4 seconds. Quick detour. How does Playright know which button maps to which game ID? A 30line fuzzy matcher normalizes team names and start times. Caches mappings in Reddus for an hour and auto remaps if bet 105 tweaks its layout. So wrong game errors drop to near zero and the swarm ports to any sports book that shows public odds. Why these five models though? GBT40 crunches advanced stats in recent form. Claude Sonnet digests long injury reports and press notes summarizing context and that other models ignore. Gemini has live web search baked in catching linemoving tweets seconds after they drop. Llama of course is open source and I can fine-tune it on historical betting data so it surfaces contrarian value no other closed model sees. And then of course DeepSeek it's multimodal. It literally looks at odds boards flagging graphical misprices faster than any HTML parsers. So five perspectives, one bankroll, the variance collapses, but the edge compounds. So the spin up for this is one command. Docker compose up and that's going to launch Reddus, Langraph, five worker pods and browserless Chrome. So watch the live demo. Panthers versus the Maple Leafs. The agents debate. Gemini flags a late search for Toronto's starting goalie. Deepseek spots the Panthers at plus 110 odds. That hasn't moved yet. GPT40 confirms a 4% edge. The majority says the Maple Leaves are the moneyline pick. Playright fires it. It's confirmed. The wallet takes the for the stake. Hands-free cash. The guard rails keep things sane. Max 3% bankroll per bet. dynamic Kelly sizing, minus 10% stop loss to prevent wic nukes while I sleep, and a 25% profit lock that pauses betting if ROI spikes too fast. So, the total compute spend for 48 hours was 43 bucks, leaving $4,938 net. Self-hosting models like Together or Ola can cut that even further. Security. The bot randomizes mouse paths and human timing jitters and rotates browser fingerprints. Stealth code lives in the utils directory. For observability, I use Prometheus for a realtime P&L report and for the model hit rate. And you can see that there are two ugly equity dips that hit at hour 14 and 32. But risk rules capped draw downs and the edge won out. So, the final tally after 29 bets was 18 wins, 11 losses, 23.4% ROI, and a $5,81 lift. Absolutely amazing stuff. But we have to treat this as research, not as a printing press. But half% juice plus model diversity is hard to beat. If you want to fork this code, MIT repo below. Clone it, add your API keys, maybe swap in your own fine-tune, and then hit run. I'm curious, which AI do you think is going to dominate the swarm next week and why? Drop your prediction in the comments section. I will pin the sharpest take. But before you sprint off, three takehomes from this video. One, ensemble beats genius. Diverse agents are better than a single model. Two, edge without low juice bleeds to fees. Hunt for micro spread books relentlessly like Bet 105. That's the one I like. And then three, automation without ironclad risk is a grenade. You got to make sure the guardrails are there before you write the code. And so next week, I'm adding a prop bet fine-tune and an onchain treasury that autorebalances. So make sure to subscribe so you don't miss that blueprint as well. If this video saved you time or sparked a big idea, smash like, subscribe, ring the bell. I drop new AI money builds every week. Bet small, bet smart, or don't bet at all. I will catch you in the next build. Until next time. [Music]",
+  "segments": [
+    {
+      "start": 0.32,
+      "end": 5.88,
+      "text": "Hello world. It's Suriraj and today I'm"
+    },
+    {
+      "start": 2.8,
+      "end": 10.16,
+      "text": "unleashing five heavyweight AIs"
+    },
+    {
+      "start": 5.88,
+      "end": 13.44,
+      "text": "GPT40, Claude Sonnet, Gemini 2.5, Llama"
+    },
+    {
+      "start": 10.16,
+      "end": 16.0,
+      "text": "4, and Deepseek into a single crypto"
+    },
+    {
+      "start": 13.44,
+      "end": 19.36,
+      "text": "wallet to find out whether a coordinated"
+    },
+    {
+      "start": 16.0,
+      "end": 22.4,
+      "text": "swarm can crap a crypto sportsbooks"
+    },
+    {
+      "start": 19.36,
+      "end": 26.2,
+      "text": "juice lines and spin a profit in just 48"
+    },
+    {
+      "start": 22.4,
+      "end": 28.76,
+      "text": "hours. Spoiler, they stacked"
+    },
+    {
+      "start": 26.2,
+      "end": 31.04,
+      "text": "$5,081 while I did zero human"
+    },
+    {
+      "start": 28.76,
+      "end": 33.44,
+      "text": "handicapping. And over the next 10"
+    },
+    {
+      "start": 31.04,
+      "end": 36.4,
+      "text": "minutes, I'm handing you every line of"
+    },
+    {
+      "start": 33.44,
+      "end": 39.6,
+      "text": "code, every guard rail, and every"
+    },
+    {
+      "start": 36.4,
+      "end": 43.84,
+      "text": "mistake I made so you can clone or"
+    },
+    {
+      "start": 39.6,
+      "end": 47.28,
+      "text": "improve this bot yourself. Proof first"
+    },
+    {
+      "start": 43.84,
+      "end": 50.24,
+      "text": "onchain wallet feed rolling besides me."
+    },
+    {
+      "start": 47.28,
+      "end": 53.12,
+      "text": "Deposits, wagers, and payouts. all"
+    },
+    {
+      "start": 50.24,
+      "end": 55.76,
+      "text": "timestamped and hash verifiable so you"
+    },
+    {
+      "start": 53.12,
+      "end": 58.56,
+      "text": "know it's real. The odds all come from"
+    },
+    {
+      "start": 55.76,
+      "end": 60.88,
+      "text": "bet 105, a cryptoon only book that"
+    },
+    {
+      "start": 58.56,
+      "end": 62.8,
+      "text": "shaves juice to half a percent. I found"
+    },
+    {
+      "start": 60.88,
+      "end": 66.48,
+      "text": "links in the description if you want to"
+    },
+    {
+      "start": 62.8,
+      "end": 70.08,
+      "text": "see the same lines. Strategy next. Live"
+    },
+    {
+      "start": 66.48,
+      "end": 72.48,
+      "text": "market data streams in via lang graph."
+    },
+    {
+      "start": 70.08,
+      "end": 75.68,
+      "text": "Think of it as a traffic cop that routes"
+    },
+    {
+      "start": 72.48,
+      "end": 78.88,
+      "text": "JSON packets, matchups, prices, injury"
+    },
+    {
+      "start": 75.68,
+      "end": 81.68,
+      "text": "blurbs, even rink temperature. So each"
+    },
+    {
+      "start": 78.88,
+      "end": 84.32,
+      "text": "agent then collects their replies. Then"
+    },
+    {
+      "start": 81.68,
+      "end": 86.48,
+      "text": "we stash the running debate in Reddus"
+    },
+    {
+      "start": 84.32,
+      "end": 89.04,
+      "text": "which is an in-memory database that's"
+    },
+    {
+      "start": 86.48,
+      "end": 92.48,
+      "text": "basically lightning fast sticky notes"
+    },
+    {
+      "start": 89.04,
+      "end": 95.6,
+      "text": "for AIS. And then each model returns a"
+    },
+    {
+      "start": 92.48,
+      "end": 98.64,
+      "text": "side a quantified edge and a one-s"
+    },
+    {
+      "start": 95.6,
+      "end": 101.28,
+      "text": "sentence rationale. A reducer tallies"
+    },
+    {
+      "start": 98.64,
+      "end": 103.84,
+      "text": "votes, break ties by the highest edge,"
+    },
+    {
+      "start": 101.28,
+      "end": 106.72,
+      "text": "then hands the pick to Playright, which"
+    },
+    {
+      "start": 103.84,
+      "end": 109.36,
+      "text": "is an automated browser that logs in"
+    },
+    {
+      "start": 106.72,
+      "end": 112.56,
+      "text": "headless, clicks the odds, enters the"
+    },
+    {
+      "start": 109.36,
+      "end": 115.44,
+      "text": "stake, confirms, and grabs a PNG slip"
+    },
+    {
+      "start": 112.56,
+      "end": 118.16,
+      "text": "for audit. Total roundtrip is 4 seconds."
+    },
+    {
+      "start": 115.44,
+      "end": 121.52,
+      "text": "Quick detour. How does Playright know"
+    },
+    {
+      "start": 118.16,
+      "end": 124.8,
+      "text": "which button maps to which game ID? A"
+    },
+    {
+      "start": 121.52,
+      "end": 128.48,
+      "text": "30line fuzzy matcher normalizes team"
+    },
+    {
+      "start": 124.8,
+      "end": 131.92,
+      "text": "names and start times. Caches mappings"
+    },
+    {
+      "start": 128.48,
+      "end": 135.28,
+      "text": "in Reddus for an hour and auto remaps if"
+    },
+    {
+      "start": 131.92,
+      "end": 138.0,
+      "text": "bet 105 tweaks its layout. So wrong game"
+    },
+    {
+      "start": 135.28,
+      "end": 140.8,
+      "text": "errors drop to near zero and the swarm"
+    },
+    {
+      "start": 138.0,
+      "end": 143.12,
+      "text": "ports to any sports book that shows"
+    },
+    {
+      "start": 140.8,
+      "end": 146.48,
+      "text": "public odds. Why these five models"
+    },
+    {
+      "start": 143.12,
+      "end": 149.6,
+      "text": "though? GBT40 crunches advanced stats in"
+    },
+    {
+      "start": 146.48,
+      "end": 151.92,
+      "text": "recent form. Claude Sonnet digests long"
+    },
+    {
+      "start": 149.6,
+      "end": 154.48,
+      "text": "injury reports and press notes"
+    },
+    {
+      "start": 151.92,
+      "end": 157.68,
+      "text": "summarizing context and that other"
+    },
+    {
+      "start": 154.48,
+      "end": 160.4,
+      "text": "models ignore. Gemini has live web"
+    },
+    {
+      "start": 157.68,
+      "end": 163.68,
+      "text": "search baked in catching linemoving"
+    },
+    {
+      "start": 160.4,
+      "end": 166.24,
+      "text": "tweets seconds after they drop. Llama of"
+    },
+    {
+      "start": 163.68,
+      "end": 168.88,
+      "text": "course is open source and I can"
+    },
+    {
+      "start": 166.24,
+      "end": 172.08,
+      "text": "fine-tune it on historical betting data"
+    },
+    {
+      "start": 168.88,
+      "end": 174.32,
+      "text": "so it surfaces contrarian value no other"
+    },
+    {
+      "start": 172.08,
+      "end": 177.12,
+      "text": "closed model sees. And then of course"
+    },
+    {
+      "start": 174.32,
+      "end": 179.96,
+      "text": "DeepSeek it's multimodal. It literally"
+    },
+    {
+      "start": 177.12,
+      "end": 183.68,
+      "text": "looks at odds boards flagging graphical"
+    },
+    {
+      "start": 179.96,
+      "end": 186.72,
+      "text": "misprices faster than any HTML parsers."
+    },
+    {
+      "start": 183.68,
+      "end": 188.96,
+      "text": "So five perspectives, one bankroll, the"
+    },
+    {
+      "start": 186.72,
+      "end": 191.28,
+      "text": "variance collapses, but the edge"
+    },
+    {
+      "start": 188.96,
+      "end": 194.0,
+      "text": "compounds. So the spin up for this is"
+    },
+    {
+      "start": 191.28,
+      "end": 196.56,
+      "text": "one command. Docker compose up and"
+    },
+    {
+      "start": 194.0,
+      "end": 200.16,
+      "text": "that's going to launch Reddus, Langraph,"
+    },
+    {
+      "start": 196.56,
+      "end": 202.96,
+      "text": "five worker pods and browserless Chrome."
+    },
+    {
+      "start": 200.16,
+      "end": 205.84,
+      "text": "So watch the live demo. Panthers versus"
+    },
+    {
+      "start": 202.96,
+      "end": 208.4,
+      "text": "the Maple Leafs. The agents debate."
+    },
+    {
+      "start": 205.84,
+      "end": 210.96,
+      "text": "Gemini flags a late search for Toronto's"
+    },
+    {
+      "start": 208.4,
+      "end": 213.44,
+      "text": "starting goalie. Deepseek spots the"
+    },
+    {
+      "start": 210.96,
+      "end": 217.68,
+      "text": "Panthers at plus 110 odds. That hasn't"
+    },
+    {
+      "start": 213.44,
+      "end": 219.84,
+      "text": "moved yet. GPT40 confirms a 4% edge. The"
+    },
+    {
+      "start": 217.68,
+      "end": 222.4,
+      "text": "majority says the Maple Leaves are the"
+    },
+    {
+      "start": 219.84,
+      "end": 224.64,
+      "text": "moneyline pick. Playright fires it. It's"
+    },
+    {
+      "start": 222.4,
+      "end": 227.84,
+      "text": "confirmed. The wallet takes the for the"
+    },
+    {
+      "start": 224.64,
+      "end": 231.12,
+      "text": "stake. Hands-free cash. The guard rails"
+    },
+    {
+      "start": 227.84,
+      "end": 235.12,
+      "text": "keep things sane. Max 3% bankroll per"
+    },
+    {
+      "start": 231.12,
+      "end": 238.32,
+      "text": "bet. dynamic Kelly sizing, minus 10%"
+    },
+    {
+      "start": 235.12,
+      "end": 242.16,
+      "text": "stop loss to prevent wic nukes while I"
+    },
+    {
+      "start": 238.32,
+      "end": 245.84,
+      "text": "sleep, and a 25% profit lock that pauses"
+    },
+    {
+      "start": 242.16,
+      "end": 249.6,
+      "text": "betting if ROI spikes too fast. So, the"
+    },
+    {
+      "start": 245.84,
+      "end": 251.48,
+      "text": "total compute spend for 48 hours was 43"
+    },
+    {
+      "start": 249.6,
+      "end": 254.64,
+      "text": "bucks, leaving"
+    },
+    {
+      "start": 251.48,
+      "end": 257.04,
+      "text": "$4,938 net. Self-hosting models like"
+    },
+    {
+      "start": 254.64,
+      "end": 260.0,
+      "text": "Together or Ola can cut that even"
+    },
+    {
+      "start": 257.04,
+      "end": 262.8,
+      "text": "further. Security. The bot randomizes"
+    },
+    {
+      "start": 260.0,
+      "end": 265.44,
+      "text": "mouse paths and human timing jitters and"
+    },
+    {
+      "start": 262.8,
+      "end": 268.56,
+      "text": "rotates browser fingerprints. Stealth"
+    },
+    {
+      "start": 265.44,
+      "end": 271.36,
+      "text": "code lives in the utils directory. For"
+    },
+    {
+      "start": 268.56,
+      "end": 274.32,
+      "text": "observability, I use Prometheus for a"
+    },
+    {
+      "start": 271.36,
+      "end": 276.72,
+      "text": "realtime P&L report and for the model"
+    },
+    {
+      "start": 274.32,
+      "end": 280.72,
+      "text": "hit rate. And you can see that there are"
+    },
+    {
+      "start": 276.72,
+      "end": 285.2,
+      "text": "two ugly equity dips that hit at hour 14"
+    },
+    {
+      "start": 280.72,
+      "end": 287.28,
+      "text": "and 32. But risk rules capped draw downs"
+    },
+    {
+      "start": 285.2,
+      "end": 291.2,
+      "text": "and the edge won out. So, the final"
+    },
+    {
+      "start": 287.28,
+      "end": 297.04,
+      "text": "tally after 29 bets was 18 wins, 11"
+    },
+    {
+      "start": 291.2,
+      "end": 299.76,
+      "text": "losses, 23.4% ROI, and a $5,81 lift."
+    },
+    {
+      "start": 297.04,
+      "end": 301.44,
+      "text": "Absolutely amazing stuff. But we have to"
+    },
+    {
+      "start": 299.76,
+      "end": 304.24,
+      "text": "treat this as research, not as a"
+    },
+    {
+      "start": 301.44,
+      "end": 306.72,
+      "text": "printing press. But half% juice plus"
+    },
+    {
+      "start": 304.24,
+      "end": 309.68,
+      "text": "model diversity is hard to beat. If you"
+    },
+    {
+      "start": 306.72,
+      "end": 312.32,
+      "text": "want to fork this code, MIT repo below."
+    },
+    {
+      "start": 309.68,
+      "end": 314.88,
+      "text": "Clone it, add your API keys, maybe swap"
+    },
+    {
+      "start": 312.32,
+      "end": 317.68,
+      "text": "in your own fine-tune, and then hit run."
+    },
+    {
+      "start": 314.88,
+      "end": 319.84,
+      "text": "I'm curious, which AI do you think is"
+    },
+    {
+      "start": 317.68,
+      "end": 322.24,
+      "text": "going to dominate the swarm next week"
+    },
+    {
+      "start": 319.84,
+      "end": 324.16,
+      "text": "and why? Drop your prediction in the"
+    },
+    {
+      "start": 322.24,
+      "end": 326.24,
+      "text": "comments section. I will pin the"
+    },
+    {
+      "start": 324.16,
+      "end": 328.72,
+      "text": "sharpest take. But before you sprint"
+    },
+    {
+      "start": 326.24,
+      "end": 331.68,
+      "text": "off, three takehomes from this video."
+    },
+    {
+      "start": 328.72,
+      "end": 334.0,
+      "text": "One, ensemble beats genius. Diverse"
+    },
+    {
+      "start": 331.68,
+      "end": 337.04,
+      "text": "agents are better than a single model."
+    },
+    {
+      "start": 334.0,
+      "end": 339.76,
+      "text": "Two, edge without low juice bleeds to"
+    },
+    {
+      "start": 337.04,
+      "end": 341.92,
+      "text": "fees. Hunt for micro spread books"
+    },
+    {
+      "start": 339.76,
+      "end": 344.16,
+      "text": "relentlessly like Bet 105. That's the"
+    },
+    {
+      "start": 341.92,
+      "end": 346.88,
+      "text": "one I like. And then three, automation"
+    },
+    {
+      "start": 344.16,
+      "end": 348.16,
+      "text": "without ironclad risk is a grenade. You"
+    },
+    {
+      "start": 346.88,
+      "end": 350.4,
+      "text": "got to make sure the guardrails are"
+    },
+    {
+      "start": 348.16,
+      "end": 352.24,
+      "text": "there before you write the code. And so"
+    },
+    {
+      "start": 350.4,
+      "end": 355.56,
+      "text": "next week, I'm adding a prop bet"
+    },
+    {
+      "start": 352.24,
+      "end": 357.36,
+      "text": "fine-tune and an onchain treasury that"
+    },
+    {
+      "start": 355.56,
+      "end": 359.12,
+      "text": "autorebalances. So make sure to"
+    },
+    {
+      "start": 357.36,
+      "end": 361.6,
+      "text": "subscribe so you don't miss that"
+    },
+    {
+      "start": 359.12,
+      "end": 364.56,
+      "text": "blueprint as well. If this video saved"
+    },
+    {
+      "start": 361.6,
+      "end": 366.88,
+      "text": "you time or sparked a big idea, smash"
+    },
+    {
+      "start": 364.56,
+      "end": 370.08,
+      "text": "like, subscribe, ring the bell. I drop"
+    },
+    {
+      "start": 366.88,
+      "end": 373.12,
+      "text": "new AI money builds every week. Bet"
+    },
+    {
+      "start": 370.08,
+      "end": 375.6,
+      "text": "small, bet smart, or don't bet at all. I"
+    },
+    {
+      "start": 373.12,
+      "end": 377.16,
+      "text": "will catch you in the next build. Until"
+    },
+    {
+      "start": 375.6,
+      "end": 384.86,
+      "text": "next time."
+    },
+    {
+      "start": 377.16,
+      "end": 384.86,
+      "text": "[Music]"
+    }
+  ],
+  "word_count": 875,
+  "fetched_at": "2025-12-21T02:20:41.705353Z"
+}

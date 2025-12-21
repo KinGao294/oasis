@@ -1,0 +1,1209 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "This AI is about to place a $1,500 bet on tonight's basketball game. If it wins, I make $3,000 in pure profit. If it loses, I just burned $1,500. Should I actually do this? Chat GPT says this bet has a 72% chance of hitting, but Poly Market's odds only give it 58%. That means the AI found a 14% edge. Let me show you exactly what's happening in real time. [Music] And it's in. The bet is placed. $1,500 on the line. No going back now. But here's the thing. We won't know if this bet wins for the next few hours. While we wait for that result, let me show you exactly how this AI works and what it's accomplished so far. What you're looking at is my actual Poly Market AI agent dashboard. After 72 hours of autonomous trading, starting with just $1,000 in initial testing, it grew to over $13,500. $3,500 in profit without me lifting a finger. I'm in $500,000. These aren't mock trades or simulations. These are real bets placed with real money on real games. This entire system runs 24/7, analyzing markets, finding edges, calculating optimal bet sizes, and executing trades automatically. The most incredible part though, I built this while taking care of my newborn son. The AI did all the work while I was changing diapers and trying to get some sleep. So, why Poly Market specifically? There are three key reasons that make it perfect for AI automation. burst. It operates 24/7 unlike traditional betting platforms with limited hours. This means the AI can trade continuously without any breaks. Second, the fee structure is significantly better, only 0% compared to 5 to 10% on other more traditional platforms. But the most important reason is market inefficiency. Poly market is newer than established betting markets, which means there are pricing discrepancies an AI can identify and exploit. These inefficiencies are basically free money waiting to be claimed, but they require constant monitoring that no human could reasonably do. Add full API access that allows an AI to place orders automatically, and you've got the perfect environment for an autonomous trading system. My strategy has three core components that work together seamlessly. Analysis, decision, and execution. The analysis module uses chat GPT to analyze upcoming games and compare those predictions with current polyarket odds. It's constantly scanning for opportunities where chat GPT's predictions significantly defer from the market consensus. The decision module evaluates these opportunities and calculates the optimal bet size based on the edge and the bankroll. Instead of going deep into the math, just understand that it's using proven formulas that professional betterers use to maximize returns while managing risk. Finally, the execution module connects directly to Poly Market using their official agents SDK to place trades automatically with verification and safety measures built in. This SDK is specifically designed for building AI trading agents on Poly Market, which made my implementation much more reliable. I tried it both with the framework and without it. It was much better with the framework. And the system is built using Python with claw 3.7 to analyze all the markets like politics and sports events. Everything flows seamlessly between modules without any human intervention required. That's the key point here. Let me show you the system in action right now. Here it is scanning today's markets and it just identified a potential opportunity on this NBA game happening tonight. ChatGPT analyzed team stats, recent performance, and matchup history, giving the Pistons a 79% chance to win. But Poly Market's odds imply a just 54%. That's a 25% edge. Watch what happens next. The system is calculating the optimal bet size based on this edge. And now it's executing the trade. Just like that, $270 bet placed automatically without me having to do anything. This is happening 24/7, even while I'm sleeping or busy with other things. Boy, that's the incredible part about AI. It doesn't need sleep. It can just keep going. It can bet on literally any market on Poly Market, sports, politics, celebrity events, as long as it finds an edge. Now, for the results of the full 72-hour test, I started with a conservative $1,000 to validate the system before risking more. During the first 3 days, the system placed 18 trades across different markets with small bet sizes and generated a profit of $1,500, growing the bankroll to $2,500, a 150% return I honestly did not expect. Given these strong results, I scaled up to $5,000 total and continued over the next 2 days, and it continued to perform well, growing to $7,200. Finally, I increased to $10,000 for the last 2 days, ending with $13,500, a net profit of $3,500 or 35% ROI in a week. The key metrics, 64 total trades with a 68% win rate, completely handsoff. I literally didn't have to do anything once it was running. Let's look at the three most profitable trades and my live reactions when they hit. The single most profitable was this NBA game. Chat GPT gave one team an 86% chance to cover the spread versus Poly Markets implied 63% a 23% edge. The system bet 250 bucks and won $680. That was a 272% return on a single trade. I literally woke up to this notification. The second best trade was on a highest temperature vote outcome that returned $425 on a $200 stake. And the third was an NHL game with a 25% edge that returned $390. What's fascinating is seeing the AI's reasoning process. It's analyzing data points that would take a human hours to compile. And it's doing this continuously across dozens of markets simultaneously. All right, moment of truth. Remember that $1,500 bet that we placed at the beginning of the video? Let's check if it won. This is exactly why bankroll management is important. A loss like this sucks, but the system's long-term edge still is up overall, and that's what matters. Trading is about probabilities, not guarantees. And even a system with 68% win rate will still have losses. This is trading in real time with real money. Sometimes you win, sometimes you lose, but what matters is the long-term edge. I'm open-sourcing the entire codebase on GitHub. I'm calling it Polytrader. So, you can build your own version of this. There are four main steps to this implementation. First, set up your environment with Python 3.9 or higher. That really matters. Second, connect to both chat GPT and the Poly Market Agents SDK. Third, implement the decision engine that calculates the optimal bet sizes using what's called the Kelly Criterion. And finally, build the execution module that places trades automatically. And I've added instructions for all of those parts in the readme. The great thing is that the Poly Markets agents SDK handles most of the complex parts like connecting to the blockchain, the USDC blockchain, handling wallet management, and executing trades. This is the same official SDK that professional traders are using. We just have an AI that's trading for us. The GitHub repo has everything you need, including detailed documentation. It's all in the readme. And for those interested in the math behind the bet sizing, I've included thorough explanations in the repository. Look, start small. Test with maybe a $100 first to make sure everything works before scaling up. And don't forget to implement safety features like automatic shutdown, say if your losses exceed 10% of your bankroll. The takeaway here is pretty clear. AI agents can now perform complex tasks that previously required human expertise and constant attention. This system made $3,500 in just one week with zero human intervention. But it's important to remember that AI isn't perfect. There are risks and volatility involved. The system lost several bets during testing and past performance doesn't guarantee future results. The overall edge it provides is what makes it valuable in the long run. I'm already planning improvements to this thing for version 2.0, including multimarket correlation analysis, realtime news integration, X integration for political markets. And here's my question to you. Should I even let this thing run for a full month? What do you think the results would be? Let me know in the comments section. I'd love to hear what you think. If you want to start automating your own bets and trades, grab the full code on GitHub today. Test it out with a small amount and let's build together in Discord. I'm sharing updates in real time and I want to hear your ideas for V2.0. This is just the beginning of what's possible with AI agents. I truly believe we are entering an era where anyone can build autonomous income streams with AI. In fact, I'm planning a whole series showing different AI income streams. So, make sure you're subscribed. For now, I've got to ask my AI to build an AI. So, thanks for watching. [Music]",
+  "segments": [
+    {
+      "start": 0.48,
+      "end": 5.84,
+      "text": "This AI is about to place a $1,500 bet"
+    },
+    {
+      "start": 3.84,
+      "end": 8.64,
+      "text": "on tonight's basketball game. If it"
+    },
+    {
+      "start": 5.84,
+      "end": 11.68,
+      "text": "wins, I make $3,000 in pure profit. If"
+    },
+    {
+      "start": 8.64,
+      "end": 14.12,
+      "text": "it loses, I just burned $1,500. Should I"
+    },
+    {
+      "start": 11.68,
+      "end": 18.56,
+      "text": "actually do"
+    },
+    {
+      "start": 14.12,
+      "end": 20.48,
+      "text": "this? Chat GPT says this bet has a 72%"
+    },
+    {
+      "start": 18.56,
+      "end": 23.52,
+      "text": "chance of hitting, but Poly Market's"
+    },
+    {
+      "start": 20.48,
+      "end": 25.68,
+      "text": "odds only give it 58%. That means the AI"
+    },
+    {
+      "start": 23.52,
+      "end": 28.81,
+      "text": "found a 14% edge. Let me show you"
+    },
+    {
+      "start": 25.68,
+      "end": 30.56,
+      "text": "exactly what's happening in real time."
+    },
+    {
+      "start": 28.81,
+      "end": 34.0,
+      "text": "[Music]"
+    },
+    {
+      "start": 30.56,
+      "end": 36.4,
+      "text": "And it's in. The bet is placed. $1,500"
+    },
+    {
+      "start": 34.0,
+      "end": 38.48,
+      "text": "on the line. No going back now. But"
+    },
+    {
+      "start": 36.4,
+      "end": 41.36,
+      "text": "here's the thing. We won't know if this"
+    },
+    {
+      "start": 38.48,
+      "end": 43.96,
+      "text": "bet wins for the next few hours. While"
+    },
+    {
+      "start": 41.36,
+      "end": 47.76,
+      "text": "we wait for that result, let me show you"
+    },
+    {
+      "start": 43.96,
+      "end": 50.16,
+      "text": "exactly how this AI works and what it's"
+    },
+    {
+      "start": 47.76,
+      "end": 53.52,
+      "text": "accomplished so far. What you're looking"
+    },
+    {
+      "start": 50.16,
+      "end": 56.56,
+      "text": "at is my actual Poly Market AI agent"
+    },
+    {
+      "start": 53.52,
+      "end": 59.04,
+      "text": "dashboard. After 72 hours of autonomous"
+    },
+    {
+      "start": 56.56,
+      "end": 61.12,
+      "text": "trading, starting with just $1,000 in"
+    },
+    {
+      "start": 59.04,
+      "end": 63.64,
+      "text": "initial testing, it grew to over"
+    },
+    {
+      "start": 61.12,
+      "end": 66.4,
+      "text": "$13,500."
+    },
+    {
+      "start": 63.64,
+      "end": 70.8,
+      "text": "$3,500 in profit without me lifting a"
+    },
+    {
+      "start": 66.4,
+      "end": 73.68,
+      "text": "finger. I'm in $500,000."
+    },
+    {
+      "start": 70.8,
+      "end": 76.64,
+      "text": "These aren't mock trades or simulations."
+    },
+    {
+      "start": 73.68,
+      "end": 79.36,
+      "text": "These are real bets placed with real"
+    },
+    {
+      "start": 76.64,
+      "end": 82.4,
+      "text": "money on real games. This entire system"
+    },
+    {
+      "start": 79.36,
+      "end": 85.12,
+      "text": "runs 24/7, analyzing markets, finding"
+    },
+    {
+      "start": 82.4,
+      "end": 88.32,
+      "text": "edges, calculating optimal bet sizes,"
+    },
+    {
+      "start": 85.12,
+      "end": 90.48,
+      "text": "and executing trades automatically. The"
+    },
+    {
+      "start": 88.32,
+      "end": 93.36,
+      "text": "most incredible part though, I built"
+    },
+    {
+      "start": 90.48,
+      "end": 96.4,
+      "text": "this while taking care of my newborn"
+    },
+    {
+      "start": 93.36,
+      "end": 98.48,
+      "text": "son. The AI did all the work while I was"
+    },
+    {
+      "start": 96.4,
+      "end": 101.68,
+      "text": "changing diapers and trying to get some"
+    },
+    {
+      "start": 98.48,
+      "end": 104.24,
+      "text": "sleep. So, why Poly Market specifically?"
+    },
+    {
+      "start": 101.68,
+      "end": 107.2,
+      "text": "There are three key reasons that make it"
+    },
+    {
+      "start": 104.24,
+      "end": 110.24,
+      "text": "perfect for AI automation. burst. It"
+    },
+    {
+      "start": 107.2,
+      "end": 112.88,
+      "text": "operates 24/7 unlike traditional betting"
+    },
+    {
+      "start": 110.24,
+      "end": 116.08,
+      "text": "platforms with limited hours. This means"
+    },
+    {
+      "start": 112.88,
+      "end": 119.84,
+      "text": "the AI can trade continuously without"
+    },
+    {
+      "start": 116.08,
+      "end": 123.28,
+      "text": "any breaks. Second, the fee structure is"
+    },
+    {
+      "start": 119.84,
+      "end": 126.04,
+      "text": "significantly better, only 0% compared"
+    },
+    {
+      "start": 123.28,
+      "end": 129.28,
+      "text": "to 5 to 10% on other more traditional"
+    },
+    {
+      "start": 126.04,
+      "end": 132.48,
+      "text": "platforms. But the most important reason"
+    },
+    {
+      "start": 129.28,
+      "end": 134.96,
+      "text": "is market inefficiency. Poly market is"
+    },
+    {
+      "start": 132.48,
+      "end": 136.68,
+      "text": "newer than established betting markets,"
+    },
+    {
+      "start": 134.96,
+      "end": 139.68,
+      "text": "which means there are pricing"
+    },
+    {
+      "start": 136.68,
+      "end": 141.92,
+      "text": "discrepancies an AI can identify and"
+    },
+    {
+      "start": 139.68,
+      "end": 144.24,
+      "text": "exploit. These inefficiencies are"
+    },
+    {
+      "start": 141.92,
+      "end": 146.8,
+      "text": "basically free money waiting to be"
+    },
+    {
+      "start": 144.24,
+      "end": 148.72,
+      "text": "claimed, but they require constant"
+    },
+    {
+      "start": 146.8,
+      "end": 152.0,
+      "text": "monitoring that no human could"
+    },
+    {
+      "start": 148.72,
+      "end": 154.36,
+      "text": "reasonably do. Add full API access that"
+    },
+    {
+      "start": 152.0,
+      "end": 156.48,
+      "text": "allows an AI to place orders"
+    },
+    {
+      "start": 154.36,
+      "end": 159.52,
+      "text": "automatically, and you've got the"
+    },
+    {
+      "start": 156.48,
+      "end": 162.4,
+      "text": "perfect environment for an autonomous"
+    },
+    {
+      "start": 159.52,
+      "end": 165.36,
+      "text": "trading system. My strategy has three"
+    },
+    {
+      "start": 162.4,
+      "end": 169.0,
+      "text": "core components that work together"
+    },
+    {
+      "start": 165.36,
+      "end": 172.4,
+      "text": "seamlessly. Analysis, decision, and"
+    },
+    {
+      "start": 169.0,
+      "end": 175.28,
+      "text": "execution. The analysis module uses chat"
+    },
+    {
+      "start": 172.4,
+      "end": 177.52,
+      "text": "GPT to analyze upcoming games and"
+    },
+    {
+      "start": 175.28,
+      "end": 180.32,
+      "text": "compare those predictions with current"
+    },
+    {
+      "start": 177.52,
+      "end": 182.88,
+      "text": "polyarket odds. It's constantly scanning"
+    },
+    {
+      "start": 180.32,
+      "end": 185.92,
+      "text": "for opportunities where chat GPT's"
+    },
+    {
+      "start": 182.88,
+      "end": 189.16,
+      "text": "predictions significantly defer from the"
+    },
+    {
+      "start": 185.92,
+      "end": 192.16,
+      "text": "market consensus. The decision module"
+    },
+    {
+      "start": 189.16,
+      "end": 195.76,
+      "text": "evaluates these opportunities and"
+    },
+    {
+      "start": 192.16,
+      "end": 198.08,
+      "text": "calculates the optimal bet size based on"
+    },
+    {
+      "start": 195.76,
+      "end": 200.08,
+      "text": "the edge and the bankroll. Instead of"
+    },
+    {
+      "start": 198.08,
+      "end": 202.32,
+      "text": "going deep into the math, just"
+    },
+    {
+      "start": 200.08,
+      "end": 205.2,
+      "text": "understand that it's using proven"
+    },
+    {
+      "start": 202.32,
+      "end": 208.96,
+      "text": "formulas that professional betterers use"
+    },
+    {
+      "start": 205.2,
+      "end": 211.52,
+      "text": "to maximize returns while managing risk."
+    },
+    {
+      "start": 208.96,
+      "end": 214.08,
+      "text": "Finally, the execution module connects"
+    },
+    {
+      "start": 211.52,
+      "end": 217.12,
+      "text": "directly to Poly Market using their"
+    },
+    {
+      "start": 214.08,
+      "end": 219.6,
+      "text": "official agents SDK to place trades"
+    },
+    {
+      "start": 217.12,
+      "end": 222.32,
+      "text": "automatically with verification and"
+    },
+    {
+      "start": 219.6,
+      "end": 224.32,
+      "text": "safety measures built in. This SDK is"
+    },
+    {
+      "start": 222.32,
+      "end": 226.56,
+      "text": "specifically designed for building AI"
+    },
+    {
+      "start": 224.32,
+      "end": 228.72,
+      "text": "trading agents on Poly Market, which"
+    },
+    {
+      "start": 226.56,
+      "end": 230.56,
+      "text": "made my implementation much more"
+    },
+    {
+      "start": 228.72,
+      "end": 232.16,
+      "text": "reliable. I tried it both with the"
+    },
+    {
+      "start": 230.56,
+      "end": 233.36,
+      "text": "framework and without it. It was much"
+    },
+    {
+      "start": 232.16,
+      "end": 235.44,
+      "text": "better with the framework. And the"
+    },
+    {
+      "start": 233.36,
+      "end": 237.84,
+      "text": "system is built using Python with claw"
+    },
+    {
+      "start": 235.44,
+      "end": 239.68,
+      "text": "3.7 to analyze all the markets like"
+    },
+    {
+      "start": 237.84,
+      "end": 242.64,
+      "text": "politics and sports events. Everything"
+    },
+    {
+      "start": 239.68,
+      "end": 245.28,
+      "text": "flows seamlessly between modules without"
+    },
+    {
+      "start": 242.64,
+      "end": 247.52,
+      "text": "any human intervention required. That's"
+    },
+    {
+      "start": 245.28,
+      "end": 250.16,
+      "text": "the key point here. Let me show you the"
+    },
+    {
+      "start": 247.52,
+      "end": 252.72,
+      "text": "system in action right now. Here it is"
+    },
+    {
+      "start": 250.16,
+      "end": 255.44,
+      "text": "scanning today's markets and it just"
+    },
+    {
+      "start": 252.72,
+      "end": 259.12,
+      "text": "identified a potential opportunity on"
+    },
+    {
+      "start": 255.44,
+      "end": 262.08,
+      "text": "this NBA game happening tonight. ChatGPT"
+    },
+    {
+      "start": 259.12,
+      "end": 264.4,
+      "text": "analyzed team stats, recent performance,"
+    },
+    {
+      "start": 262.08,
+      "end": 267.44,
+      "text": "and matchup history, giving the Pistons"
+    },
+    {
+      "start": 264.4,
+      "end": 270.88,
+      "text": "a 79% chance to win. But Poly Market's"
+    },
+    {
+      "start": 267.44,
+      "end": 273.2,
+      "text": "odds imply a just 54%. That's a 25%"
+    },
+    {
+      "start": 270.88,
+      "end": 275.28,
+      "text": "edge. Watch what happens next. The"
+    },
+    {
+      "start": 273.2,
+      "end": 277.76,
+      "text": "system is calculating the optimal bet"
+    },
+    {
+      "start": 275.28,
+      "end": 281.4,
+      "text": "size based on this edge. And now it's"
+    },
+    {
+      "start": 277.76,
+      "end": 285.12,
+      "text": "executing the trade. Just like that,"
+    },
+    {
+      "start": 281.4,
+      "end": 288.52,
+      "text": "$270 bet placed automatically without me"
+    },
+    {
+      "start": 285.12,
+      "end": 291.52,
+      "text": "having to do anything. This is happening"
+    },
+    {
+      "start": 288.52,
+      "end": 294.8,
+      "text": "24/7, even while I'm sleeping or busy"
+    },
+    {
+      "start": 291.52,
+      "end": 296.88,
+      "text": "with other things. Boy, that's the"
+    },
+    {
+      "start": 294.8,
+      "end": 298.8,
+      "text": "incredible part about AI. It doesn't"
+    },
+    {
+      "start": 296.88,
+      "end": 300.72,
+      "text": "need sleep. It can just keep going. It"
+    },
+    {
+      "start": 298.8,
+      "end": 302.64,
+      "text": "can bet on literally any market on Poly"
+    },
+    {
+      "start": 300.72,
+      "end": 305.28,
+      "text": "Market, sports, politics, celebrity"
+    },
+    {
+      "start": 302.64,
+      "end": 308.24,
+      "text": "events, as long as it finds an edge."
+    },
+    {
+      "start": 305.28,
+      "end": 310.64,
+      "text": "Now, for the results of the full 72-hour"
+    },
+    {
+      "start": 308.24,
+      "end": 313.68,
+      "text": "test, I started with a conservative"
+    },
+    {
+      "start": 310.64,
+      "end": 316.48,
+      "text": "$1,000 to validate the system before"
+    },
+    {
+      "start": 313.68,
+      "end": 319.68,
+      "text": "risking more. During the first 3 days,"
+    },
+    {
+      "start": 316.48,
+      "end": 322.0,
+      "text": "the system placed 18 trades across"
+    },
+    {
+      "start": 319.68,
+      "end": 324.8,
+      "text": "different markets with small bet sizes"
+    },
+    {
+      "start": 322.0,
+      "end": 329.2,
+      "text": "and generated a profit of $1,500,"
+    },
+    {
+      "start": 324.8,
+      "end": 332.16,
+      "text": "growing the bankroll to $2,500, a 150%"
+    },
+    {
+      "start": 329.2,
+      "end": 334.64,
+      "text": "return I honestly did not expect. Given"
+    },
+    {
+      "start": 332.16,
+      "end": 337.52,
+      "text": "these strong results, I scaled up to"
+    },
+    {
+      "start": 334.64,
+      "end": 339.52,
+      "text": "$5,000 total and continued over the next"
+    },
+    {
+      "start": 337.52,
+      "end": 342.8,
+      "text": "2 days, and it continued to perform"
+    },
+    {
+      "start": 339.52,
+      "end": 345.6,
+      "text": "well, growing to $7,200."
+    },
+    {
+      "start": 342.8,
+      "end": 348.2,
+      "text": "Finally, I increased to $10,000 for the"
+    },
+    {
+      "start": 345.6,
+      "end": 352.56,
+      "text": "last 2 days, ending with"
+    },
+    {
+      "start": 348.2,
+      "end": 356.4,
+      "text": "$13,500, a net profit of $3,500 or 35%"
+    },
+    {
+      "start": 352.56,
+      "end": 359.44,
+      "text": "ROI in a week. The key metrics, 64 total"
+    },
+    {
+      "start": 356.4,
+      "end": 362.08,
+      "text": "trades with a 68% win rate, completely"
+    },
+    {
+      "start": 359.44,
+      "end": 364.64,
+      "text": "handsoff. I literally didn't have to do"
+    },
+    {
+      "start": 362.08,
+      "end": 367.84,
+      "text": "anything once it was running. Let's look"
+    },
+    {
+      "start": 364.64,
+      "end": 370.64,
+      "text": "at the three most profitable trades and"
+    },
+    {
+      "start": 367.84,
+      "end": 373.44,
+      "text": "my live reactions when they hit. The"
+    },
+    {
+      "start": 370.64,
+      "end": 376.88,
+      "text": "single most profitable was this NBA"
+    },
+    {
+      "start": 373.44,
+      "end": 379.28,
+      "text": "game. Chat GPT gave one team an 86%"
+    },
+    {
+      "start": 376.88,
+      "end": 383.44,
+      "text": "chance to cover the spread versus Poly"
+    },
+    {
+      "start": 379.28,
+      "end": 386.76,
+      "text": "Markets implied 63% a 23% edge. The"
+    },
+    {
+      "start": 383.44,
+      "end": 389.08,
+      "text": "system bet 250 bucks and won"
+    },
+    {
+      "start": 386.76,
+      "end": 391.92,
+      "text": "$680. That was a"
+    },
+    {
+      "start": 389.08,
+      "end": 394.4,
+      "text": "272% return on a single trade. I"
+    },
+    {
+      "start": 391.92,
+      "end": 397.36,
+      "text": "literally woke up to this notification."
+    },
+    {
+      "start": 394.4,
+      "end": 399.8,
+      "text": "The second best trade was on a highest"
+    },
+    {
+      "start": 397.36,
+      "end": 403.28,
+      "text": "temperature vote outcome that returned"
+    },
+    {
+      "start": 399.8,
+      "end": 405.84,
+      "text": "$425 on a $200 stake. And the third was"
+    },
+    {
+      "start": 403.28,
+      "end": 406.68,
+      "text": "an NHL game with a 25% edge that"
+    },
+    {
+      "start": 405.84,
+      "end": 409.36,
+      "text": "returned"
+    },
+    {
+      "start": 406.68,
+      "end": 412.24,
+      "text": "$390. What's fascinating is seeing the"
+    },
+    {
+      "start": 409.36,
+      "end": 414.32,
+      "text": "AI's reasoning process. It's analyzing"
+    },
+    {
+      "start": 412.24,
+      "end": 416.92,
+      "text": "data points that would take a human"
+    },
+    {
+      "start": 414.32,
+      "end": 420.36,
+      "text": "hours to compile. And it's doing this"
+    },
+    {
+      "start": 416.92,
+      "end": 422.4,
+      "text": "continuously across dozens of markets"
+    },
+    {
+      "start": 420.36,
+      "end": 425.44,
+      "text": "simultaneously. All right, moment of"
+    },
+    {
+      "start": 422.4,
+      "end": 428.24,
+      "text": "truth. Remember that $1,500 bet that we"
+    },
+    {
+      "start": 425.44,
+      "end": 430.36,
+      "text": "placed at the beginning of the video?"
+    },
+    {
+      "start": 428.24,
+      "end": 433.28,
+      "text": "Let's check if it"
+    },
+    {
+      "start": 430.36,
+      "end": 436.0,
+      "text": "won. This is exactly why bankroll"
+    },
+    {
+      "start": 433.28,
+      "end": 438.56,
+      "text": "management is important. A loss like"
+    },
+    {
+      "start": 436.0,
+      "end": 441.36,
+      "text": "this sucks, but the system's long-term"
+    },
+    {
+      "start": 438.56,
+      "end": 443.56,
+      "text": "edge still is up overall, and that's"
+    },
+    {
+      "start": 441.36,
+      "end": 446.48,
+      "text": "what matters. Trading is about"
+    },
+    {
+      "start": 443.56,
+      "end": 449.52,
+      "text": "probabilities, not guarantees. And even"
+    },
+    {
+      "start": 446.48,
+      "end": 452.08,
+      "text": "a system with 68% win rate will still"
+    },
+    {
+      "start": 449.52,
+      "end": 455.36,
+      "text": "have losses. This is trading in real"
+    },
+    {
+      "start": 452.08,
+      "end": 457.76,
+      "text": "time with real money. Sometimes you win,"
+    },
+    {
+      "start": 455.36,
+      "end": 461.12,
+      "text": "sometimes you lose, but what matters is"
+    },
+    {
+      "start": 457.76,
+      "end": 464.32,
+      "text": "the long-term edge. I'm open-sourcing"
+    },
+    {
+      "start": 461.12,
+      "end": 466.56,
+      "text": "the entire codebase on GitHub. I'm"
+    },
+    {
+      "start": 464.32,
+      "end": 468.96,
+      "text": "calling it Polytrader. So, you can build"
+    },
+    {
+      "start": 466.56,
+      "end": 471.6,
+      "text": "your own version of this. There are four"
+    },
+    {
+      "start": 468.96,
+      "end": 473.76,
+      "text": "main steps to this implementation."
+    },
+    {
+      "start": 471.6,
+      "end": 476.56,
+      "text": "First, set up your environment with"
+    },
+    {
+      "start": 473.76,
+      "end": 479.2,
+      "text": "Python 3.9 or higher. That really"
+    },
+    {
+      "start": 476.56,
+      "end": 482.88,
+      "text": "matters. Second, connect to both chat"
+    },
+    {
+      "start": 479.2,
+      "end": 485.2,
+      "text": "GPT and the Poly Market Agents SDK."
+    },
+    {
+      "start": 482.88,
+      "end": 488.16,
+      "text": "Third, implement the decision engine"
+    },
+    {
+      "start": 485.2,
+      "end": 490.8,
+      "text": "that calculates the optimal bet sizes"
+    },
+    {
+      "start": 488.16,
+      "end": 493.44,
+      "text": "using what's called the Kelly Criterion."
+    },
+    {
+      "start": 490.8,
+      "end": 496.0,
+      "text": "And finally, build the execution module"
+    },
+    {
+      "start": 493.44,
+      "end": 498.08,
+      "text": "that places trades automatically. And"
+    },
+    {
+      "start": 496.0,
+      "end": 500.4,
+      "text": "I've added instructions for all of those"
+    },
+    {
+      "start": 498.08,
+      "end": 503.76,
+      "text": "parts in the readme. The great thing is"
+    },
+    {
+      "start": 500.4,
+      "end": 506.0,
+      "text": "that the Poly Markets agents SDK handles"
+    },
+    {
+      "start": 503.76,
+      "end": 508.56,
+      "text": "most of the complex parts like"
+    },
+    {
+      "start": 506.0,
+      "end": 510.88,
+      "text": "connecting to the blockchain, the USDC"
+    },
+    {
+      "start": 508.56,
+      "end": 513.2,
+      "text": "blockchain, handling wallet management,"
+    },
+    {
+      "start": 510.88,
+      "end": 516.16,
+      "text": "and executing trades. This is the same"
+    },
+    {
+      "start": 513.2,
+      "end": 517.92,
+      "text": "official SDK that professional traders"
+    },
+    {
+      "start": 516.16,
+      "end": 520.08,
+      "text": "are using. We just have an AI that's"
+    },
+    {
+      "start": 517.92,
+      "end": 522.24,
+      "text": "trading for us. The GitHub repo has"
+    },
+    {
+      "start": 520.08,
+      "end": 524.0,
+      "text": "everything you need, including detailed"
+    },
+    {
+      "start": 522.24,
+      "end": 526.0,
+      "text": "documentation. It's all in the readme."
+    },
+    {
+      "start": 524.0,
+      "end": 528.48,
+      "text": "And for those interested in the math"
+    },
+    {
+      "start": 526.0,
+      "end": 531.28,
+      "text": "behind the bet sizing, I've included"
+    },
+    {
+      "start": 528.48,
+      "end": 533.76,
+      "text": "thorough explanations in the repository."
+    },
+    {
+      "start": 531.28,
+      "end": 537.2,
+      "text": "Look, start small. Test with maybe a"
+    },
+    {
+      "start": 533.76,
+      "end": 539.76,
+      "text": "$100 first to make sure everything works"
+    },
+    {
+      "start": 537.2,
+      "end": 542.0,
+      "text": "before scaling up. And don't forget to"
+    },
+    {
+      "start": 539.76,
+      "end": 546.08,
+      "text": "implement safety features like automatic"
+    },
+    {
+      "start": 542.0,
+      "end": 548.64,
+      "text": "shutdown, say if your losses exceed 10%"
+    },
+    {
+      "start": 546.08,
+      "end": 552.32,
+      "text": "of your bankroll. The takeaway here is"
+    },
+    {
+      "start": 548.64,
+      "end": 555.2,
+      "text": "pretty clear. AI agents can now perform"
+    },
+    {
+      "start": 552.32,
+      "end": 557.84,
+      "text": "complex tasks that previously required"
+    },
+    {
+      "start": 555.2,
+      "end": 561.2,
+      "text": "human expertise and constant attention."
+    },
+    {
+      "start": 557.84,
+      "end": 564.64,
+      "text": "This system made $3,500 in just one week"
+    },
+    {
+      "start": 561.2,
+      "end": 567.64,
+      "text": "with zero human intervention. But it's"
+    },
+    {
+      "start": 564.64,
+      "end": 570.64,
+      "text": "important to remember that AI isn't"
+    },
+    {
+      "start": 567.64,
+      "end": 573.28,
+      "text": "perfect. There are risks and volatility"
+    },
+    {
+      "start": 570.64,
+      "end": 575.84,
+      "text": "involved. The system lost several bets"
+    },
+    {
+      "start": 573.28,
+      "end": 578.08,
+      "text": "during testing and past performance"
+    },
+    {
+      "start": 575.84,
+      "end": 580.48,
+      "text": "doesn't guarantee future results. The"
+    },
+    {
+      "start": 578.08,
+      "end": 583.68,
+      "text": "overall edge it provides is what makes"
+    },
+    {
+      "start": 580.48,
+      "end": 585.84,
+      "text": "it valuable in the long run. I'm already"
+    },
+    {
+      "start": 583.68,
+      "end": 589.2,
+      "text": "planning improvements to this thing for"
+    },
+    {
+      "start": 585.84,
+      "end": 591.92,
+      "text": "version 2.0, including multimarket"
+    },
+    {
+      "start": 589.2,
+      "end": 594.24,
+      "text": "correlation analysis, realtime news"
+    },
+    {
+      "start": 591.92,
+      "end": 597.04,
+      "text": "integration, X integration for political"
+    },
+    {
+      "start": 594.24,
+      "end": 598.72,
+      "text": "markets. And here's my question to you."
+    },
+    {
+      "start": 597.04,
+      "end": 600.32,
+      "text": "Should I even let this thing run for a"
+    },
+    {
+      "start": 598.72,
+      "end": 602.72,
+      "text": "full month? What do you think the"
+    },
+    {
+      "start": 600.32,
+      "end": 605.2,
+      "text": "results would be? Let me know in the"
+    },
+    {
+      "start": 602.72,
+      "end": 606.96,
+      "text": "comments section. I'd love to hear what"
+    },
+    {
+      "start": 605.2,
+      "end": 609.36,
+      "text": "you think. If you want to start"
+    },
+    {
+      "start": 606.96,
+      "end": 612.24,
+      "text": "automating your own bets and trades,"
+    },
+    {
+      "start": 609.36,
+      "end": 614.4,
+      "text": "grab the full code on GitHub today. Test"
+    },
+    {
+      "start": 612.24,
+      "end": 617.36,
+      "text": "it out with a small amount and let's"
+    },
+    {
+      "start": 614.4,
+      "end": 619.92,
+      "text": "build together in Discord. I'm sharing"
+    },
+    {
+      "start": 617.36,
+      "end": 621.72,
+      "text": "updates in real time and I want to hear"
+    },
+    {
+      "start": 619.92,
+      "end": 625.2,
+      "text": "your ideas for"
+    },
+    {
+      "start": 621.72,
+      "end": 628.64,
+      "text": "V2.0. This is just the beginning of"
+    },
+    {
+      "start": 625.2,
+      "end": 630.72,
+      "text": "what's possible with AI agents. I truly"
+    },
+    {
+      "start": 628.64,
+      "end": 632.88,
+      "text": "believe we are entering an era where"
+    },
+    {
+      "start": 630.72,
+      "end": 636.08,
+      "text": "anyone can build autonomous income"
+    },
+    {
+      "start": 632.88,
+      "end": 638.96,
+      "text": "streams with AI. In fact, I'm planning a"
+    },
+    {
+      "start": 636.08,
+      "end": 641.04,
+      "text": "whole series showing different AI income"
+    },
+    {
+      "start": 638.96,
+      "end": 643.76,
+      "text": "streams. So, make sure you're"
+    },
+    {
+      "start": 641.04,
+      "end": 646.8,
+      "text": "subscribed. For now, I've got to ask my"
+    },
+    {
+      "start": 643.76,
+      "end": 649.8,
+      "text": "AI to build an AI. So, thanks for"
+    },
+    {
+      "start": 646.8,
+      "end": 649.8,
+      "text": "watching."
+    },
+    {
+      "start": 657.68,
+      "end": 661.29,
+      "text": "[Music]"
+    }
+  ],
+  "word_count": 1496,
+  "fetched_at": "2025-12-21T02:20:46.497174Z"
+}

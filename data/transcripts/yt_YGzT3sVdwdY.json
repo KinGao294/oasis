@@ -1,0 +1,984 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "One time, $149 unlocks the full list. $149. Deal. Shoot it over. Now listen, that sound you hear is my AI intern closing a deal while I'm nowhere near the phone. Imagine hiring someone who never sleeps, never complains, and makes money for you before your alarm even goes off. Today you're meeting the autonomous sales representative I built that dialed 38 real estate agents, handled 11 live conversations, closed four sales, and stacked $596 into my Stripe account while I slept. But here's the punchline. All it cost me was $18 in Twilio minutes and bright data API calls. That's about $1.50 50 per closed sale. A human sales rep would charge 20 times that and they'd still ask for coffee breaks. Let's rewind. Founders like us bleed time. Spreadsheets, CRM updates, cold calls. I go straight to voicemail. The work is necessary but mindnumbing. When I tried automating the usual suspects, scraper bots, chat bots, I hit captas, IP bands, all these nasty JavaScript hurdles. Manual cold calling and expensive reps were the only reliable options until now. Meet the ultimate fourpiece band that fixes cold outreach forever. First, Bright Data's MCP servers. They're like stealth mode for bots. their unblockable realtime web access that laughs at captures. Second is GPT4. That's the whole brains of the operation writing irresistible hyperpersonalized pitches in seconds. Third is 11 Labs. It converts those words into warm humanlike voices. Fourth is Twilio which dials those prospects and reports back every detail. Together they create this tireless AI interned. I named mine Ava, autonomous voice agent, because Siraj's digital minion didn't roll off the tongue quite as well. Let me show you what I mean by showing you Ava in action. Step one is to pull every licensed real estate agent in Austin, Texas. MCP tunnels through realtor.com and Zillow, grabs names, phone numbers, brokerages, and drops everything into Firebase in 90 seconds flat. Step two is to mine live buyer intent signals from Twitter, Reddit, and Facebook groups. Think posts like, \"Moving to Austin, need a three bed in 78704?\" or \"Job transfer to Round Rock. Agent recommendations.\" Step three is to zip code match those buyers to agents actively listing homes in the same neighborhoods. That creates a microowered lead list. And no human could assemble it that fast. Now GPT4 steps in. It feeds the agents bio, the buyer's intent post, and a tiny bit of sales psychology in. And in 30 words or less, GPT4 writes a pitch like, \"Hi, Lauren. This is Ava from Home IQ. We've tracked 47 qualified buyers searching in 78704 right now. Would you like a list?\" Then 11 Laps renders that script in the Rachel voice, a friendly, confident, not too robotic voice. Then Twilio grabs that MP3, dials the agent, plays the pitch, and listens for a response. If the agent presses one, Ava speaks live using GPT4 streaming mode. If they ask for more info, Ava emails them automatically. If they hang up, Ava drops them into a followup cadence, all without me touching the keyboard at all. Now, some agents laughed, some hung up the phone, four bought instantly, one at 11:23 p.m., another at 2:07 a.m. I woke up to the best stripe pings. Now, if you've followed my channel, you know I love crazy build sprints super fast, and I wanted to prove to you that you could replicate this with zero manual coding. So, I fired up Cursor and gave it one mega prompt. I want you to copy. Build an app. Scrape agents via MCP. Store data in Firebase. Mind buyer intent from social media. Craft pitches with GPT4. Generate voices with 11 Labs. Place calls with Twilio. Log everything. Expose or React dashboard and schedule hourly jobs. Just that. I'll paste it in the GitHub. That's going to build this thing in 4 minutes or less. It scaffolded the endpoints. It wrote the Fire Store wrappers. It created a scheduler for running tasks, even a tiny React front end, so I can watch Ava work in real time. The whole project is about 240 lines of Python code plus 40 lines of TypeScript for the dashboard. I tweaked two API keys, my Twilio and the OpenAI key, and then pushed it to the web. I use Heroku and AA was live. So, full stack deployment in under a coffee. Let's unpack the results here. 38 outbound calls, 11 real conversations, four paid signups, had a $149 price point, $596. Topline, $578 in profits after cost. Average conversation length 63 seconds. Conversion rate 10.5%, triple the industry average for cold calls. and importantly zero compliance complaints because each call opened with a clear legal disclosure and opt out key press. So Ava is polite, polite and fully TCPA compliant. Now you might ask Siraj, why not just push this harder? Why stop at four sales? The answer is experiment velocity. I like to validate tiny low-risk slices. And now that the proof of concept is done, I'm spinning up three scale levers. The first is vertical expansion. We're going to replace realtor data with Shopify store lists. So the same workflow, it's going to target ecommerce owners looking for shipping solutions. So we're going to match those. And then the second is recurring revenue. We're going to convert the $149 oneoff into a $99 monthly subscription for fresh buyer lists. SAS are all subscriptions these days. The third is self optimizing ad spend. We're going to let Ava read call outcomes, feed them back into GPT4, and tweak the pitch in real time. So early tests show a 15% conversion lift. And if you're thinking, Siraj, that sounds cool, but I'm not technical at all. Pause. Every line of code is open source in the GitHub repo right now. Bright Data is giving you $10 of free NCP credits. That's enough for rough roughly 1,000 agent polls. And Cursor will write the code for you. Exactly like it did for me. So, all I'm asking you in return is tell me in the comments what niche field you want me to automate next. This is so much fun. Financial advisors, insurance brokers, indie game studios. I'll build the one with the most up votes live on stream in the coming weeks. So, a few rapid fire lessons before we wrap. Lesson one, AI and no code equals speed. Chat GPT cursor and Bright Data's MCP collapsed what used to be hundreds of hours of work into 10 minutes. Lesson two is to validate then scale. A tiny proof of concept avoided weeks of building features nobody wanted. Lesson three, trust elements convert, clear optouts, money back guarantees, and a buyer list preview drove the close. Lesson four, tiered pricing psychology wins. Multiple packages anchored value and nudged agents into a sweet spot plan. Now, if any of those points clicked, smash that subscribe button so Ava's next video lands in your feed. We are on a mission to build 10 completely autonomous income streams this year and I'm open sourcing every single one of them. Remember the full repo is in the description and the free MCP credits are waiting. My DMs are open if you hit a snag. And by the way, compliance notice. This demo follows TCPA rules and offers opt out on every call. Always verify regulations in your country before you unleash your AI on your own. Think smash that like button and for now I've got to go build an agent that scrolls X for me. Till next time. [Music]",
+  "segments": [
+    {
+      "start": 0.48,
+      "end": 6.72,
+      "text": "One time, $149 unlocks the full list."
+    },
+    {
+      "start": 3.84,
+      "end": 9.44,
+      "text": "$149. Deal. Shoot it over. Now listen,"
+    },
+    {
+      "start": 6.72,
+      "end": 11.84,
+      "text": "that sound you hear is my AI intern"
+    },
+    {
+      "start": 9.44,
+      "end": 15.12,
+      "text": "closing a deal while I'm nowhere near"
+    },
+    {
+      "start": 11.84,
+      "end": 18.88,
+      "text": "the phone. Imagine hiring someone who"
+    },
+    {
+      "start": 15.12,
+      "end": 21.84,
+      "text": "never sleeps, never complains, and makes"
+    },
+    {
+      "start": 18.88,
+      "end": 24.96,
+      "text": "money for you before your alarm even"
+    },
+    {
+      "start": 21.84,
+      "end": 27.84,
+      "text": "goes off. Today you're meeting the"
+    },
+    {
+      "start": 24.96,
+      "end": 31.12,
+      "text": "autonomous sales representative I built"
+    },
+    {
+      "start": 27.84,
+      "end": 35.04,
+      "text": "that dialed 38 real estate agents,"
+    },
+    {
+      "start": 31.12,
+      "end": 38.04,
+      "text": "handled 11 live conversations, closed"
+    },
+    {
+      "start": 35.04,
+      "end": 41.76,
+      "text": "four sales, and stacked"
+    },
+    {
+      "start": 38.04,
+      "end": 44.88,
+      "text": "$596 into my Stripe account while I"
+    },
+    {
+      "start": 41.76,
+      "end": 48.32,
+      "text": "slept. But here's the punchline. All it"
+    },
+    {
+      "start": 44.88,
+      "end": 50.88,
+      "text": "cost me was $18 in Twilio minutes and"
+    },
+    {
+      "start": 48.32,
+      "end": 54.48,
+      "text": "bright data API calls. That's about"
+    },
+    {
+      "start": 50.88,
+      "end": 57.6,
+      "text": "$1.50 50 per closed sale. A human sales"
+    },
+    {
+      "start": 54.48,
+      "end": 60.16,
+      "text": "rep would charge 20 times that and"
+    },
+    {
+      "start": 57.6,
+      "end": 62.48,
+      "text": "they'd still ask for coffee breaks."
+    },
+    {
+      "start": 60.16,
+      "end": 62.48,
+      "text": "Let's"
+    },
+    {
+      "start": 65.0,
+      "end": 71.52,
+      "text": "rewind. Founders like us bleed time."
+    },
+    {
+      "start": 68.2,
+      "end": 74.08,
+      "text": "Spreadsheets, CRM updates, cold calls. I"
+    },
+    {
+      "start": 71.52,
+      "end": 77.44,
+      "text": "go straight to voicemail. The work is"
+    },
+    {
+      "start": 74.08,
+      "end": 80.32,
+      "text": "necessary but mindnumbing. When I tried"
+    },
+    {
+      "start": 77.44,
+      "end": 85.44,
+      "text": "automating the usual suspects, scraper"
+    },
+    {
+      "start": 80.32,
+      "end": 87.68,
+      "text": "bots, chat bots, I hit captas, IP bands,"
+    },
+    {
+      "start": 85.44,
+      "end": 90.24,
+      "text": "all these nasty JavaScript hurdles."
+    },
+    {
+      "start": 87.68,
+      "end": 93.04,
+      "text": "Manual cold calling and expensive reps"
+    },
+    {
+      "start": 90.24,
+      "end": 96.4,
+      "text": "were the only reliable options until"
+    },
+    {
+      "start": 93.04,
+      "end": 99.92,
+      "text": "now. Meet the ultimate fourpiece band"
+    },
+    {
+      "start": 96.4,
+      "end": 102.8,
+      "text": "that fixes cold outreach forever. First,"
+    },
+    {
+      "start": 99.92,
+      "end": 105.6,
+      "text": "Bright Data's MCP servers. They're like"
+    },
+    {
+      "start": 102.8,
+      "end": 108.32,
+      "text": "stealth mode for bots. their unblockable"
+    },
+    {
+      "start": 105.6,
+      "end": 111.12,
+      "text": "realtime web access that laughs at"
+    },
+    {
+      "start": 108.32,
+      "end": 113.56,
+      "text": "captures. Second is GPT4. That's the"
+    },
+    {
+      "start": 111.12,
+      "end": 116.4,
+      "text": "whole brains of the operation writing"
+    },
+    {
+      "start": 113.56,
+      "end": 119.84,
+      "text": "irresistible hyperpersonalized pitches"
+    },
+    {
+      "start": 116.4,
+      "end": 123.6,
+      "text": "in seconds. Third is 11 Labs. It"
+    },
+    {
+      "start": 119.84,
+      "end": 126.72,
+      "text": "converts those words into warm humanlike"
+    },
+    {
+      "start": 123.6,
+      "end": 129.28,
+      "text": "voices. Fourth is Twilio which dials"
+    },
+    {
+      "start": 126.72,
+      "end": 132.48,
+      "text": "those prospects and reports back every"
+    },
+    {
+      "start": 129.28,
+      "end": 136.08,
+      "text": "detail. Together they create this"
+    },
+    {
+      "start": 132.48,
+      "end": 139.28,
+      "text": "tireless AI interned. I named mine Ava,"
+    },
+    {
+      "start": 136.08,
+      "end": 141.36,
+      "text": "autonomous voice agent, because Siraj's"
+    },
+    {
+      "start": 139.28,
+      "end": 143.6,
+      "text": "digital minion didn't roll off the"
+    },
+    {
+      "start": 141.36,
+      "end": 145.68,
+      "text": "tongue quite as well. Let me show you"
+    },
+    {
+      "start": 143.6,
+      "end": 148.08,
+      "text": "what I mean by showing you Ava in"
+    },
+    {
+      "start": 145.68,
+      "end": 150.4,
+      "text": "action. Step one is to pull every"
+    },
+    {
+      "start": 148.08,
+      "end": 153.6,
+      "text": "licensed real estate agent in Austin,"
+    },
+    {
+      "start": 150.4,
+      "end": 156.76,
+      "text": "Texas. MCP tunnels through realtor.com"
+    },
+    {
+      "start": 153.6,
+      "end": 159.92,
+      "text": "and Zillow, grabs names, phone numbers,"
+    },
+    {
+      "start": 156.76,
+      "end": 164.24,
+      "text": "brokerages, and drops everything into"
+    },
+    {
+      "start": 159.92,
+      "end": 167.12,
+      "text": "Firebase in 90 seconds flat. Step two is"
+    },
+    {
+      "start": 164.24,
+      "end": 169.84,
+      "text": "to mine live buyer intent signals from"
+    },
+    {
+      "start": 167.12,
+      "end": 172.32,
+      "text": "Twitter, Reddit, and Facebook groups."
+    },
+    {
+      "start": 169.84,
+      "end": 174.28,
+      "text": "Think posts like, \"Moving to Austin,"
+    },
+    {
+      "start": 172.32,
+      "end": 177.84,
+      "text": "need a three bed in"
+    },
+    {
+      "start": 174.28,
+      "end": 180.8,
+      "text": "78704?\" or \"Job transfer to Round Rock."
+    },
+    {
+      "start": 177.84,
+      "end": 184.08,
+      "text": "Agent recommendations.\" Step three is to"
+    },
+    {
+      "start": 180.8,
+      "end": 187.0,
+      "text": "zip code match those buyers to agents"
+    },
+    {
+      "start": 184.08,
+      "end": 189.48,
+      "text": "actively listing homes in the same"
+    },
+    {
+      "start": 187.0,
+      "end": 192.32,
+      "text": "neighborhoods. That creates a"
+    },
+    {
+      "start": 189.48,
+      "end": 196.0,
+      "text": "microowered lead list. And no human"
+    },
+    {
+      "start": 192.32,
+      "end": 199.04,
+      "text": "could assemble it that fast. Now GPT4"
+    },
+    {
+      "start": 196.0,
+      "end": 201.68,
+      "text": "steps in. It feeds the agents bio, the"
+    },
+    {
+      "start": 199.04,
+      "end": 204.32,
+      "text": "buyer's intent post, and a tiny bit of"
+    },
+    {
+      "start": 201.68,
+      "end": 207.36,
+      "text": "sales psychology in. And in 30 words or"
+    },
+    {
+      "start": 204.32,
+      "end": 210.32,
+      "text": "less, GPT4 writes a pitch like, \"Hi,"
+    },
+    {
+      "start": 207.36,
+      "end": 213.64,
+      "text": "Lauren. This is Ava from Home IQ. We've"
+    },
+    {
+      "start": 210.32,
+      "end": 217.04,
+      "text": "tracked 47 qualified buyers searching in"
+    },
+    {
+      "start": 213.64,
+      "end": 219.92,
+      "text": "78704 right now. Would you like a list?\""
+    },
+    {
+      "start": 217.04,
+      "end": 222.72,
+      "text": "Then 11 Laps renders that script in the"
+    },
+    {
+      "start": 219.92,
+      "end": 225.28,
+      "text": "Rachel voice, a friendly, confident, not"
+    },
+    {
+      "start": 222.72,
+      "end": 228.32,
+      "text": "too robotic voice. Then Twilio grabs"
+    },
+    {
+      "start": 225.28,
+      "end": 230.64,
+      "text": "that MP3, dials the agent, plays the"
+    },
+    {
+      "start": 228.32,
+      "end": 233.6,
+      "text": "pitch, and listens for a response. If"
+    },
+    {
+      "start": 230.64,
+      "end": 236.72,
+      "text": "the agent presses one, Ava speaks live"
+    },
+    {
+      "start": 233.6,
+      "end": 239.56,
+      "text": "using GPT4 streaming mode. If they ask"
+    },
+    {
+      "start": 236.72,
+      "end": 242.24,
+      "text": "for more info, Ava emails them"
+    },
+    {
+      "start": 239.56,
+      "end": 245.52,
+      "text": "automatically. If they hang up, Ava"
+    },
+    {
+      "start": 242.24,
+      "end": 248.48,
+      "text": "drops them into a followup cadence, all"
+    },
+    {
+      "start": 245.52,
+      "end": 251.28,
+      "text": "without me touching the keyboard at all."
+    },
+    {
+      "start": 248.48,
+      "end": 253.8,
+      "text": "Now, some agents laughed, some hung up"
+    },
+    {
+      "start": 251.28,
+      "end": 258.0,
+      "text": "the phone, four bought instantly, one at"
+    },
+    {
+      "start": 253.8,
+      "end": 260.96,
+      "text": "11:23 p.m., another at 2:07 a.m. I woke"
+    },
+    {
+      "start": 258.0,
+      "end": 263.28,
+      "text": "up to the best stripe pings. Now, if"
+    },
+    {
+      "start": 260.96,
+      "end": 266.88,
+      "text": "you've followed my channel, you know I"
+    },
+    {
+      "start": 263.28,
+      "end": 268.96,
+      "text": "love crazy build sprints super fast, and"
+    },
+    {
+      "start": 266.88,
+      "end": 272.24,
+      "text": "I wanted to prove to you that you could"
+    },
+    {
+      "start": 268.96,
+      "end": 274.88,
+      "text": "replicate this with zero manual coding."
+    },
+    {
+      "start": 272.24,
+      "end": 277.36,
+      "text": "So, I fired up Cursor and gave it one"
+    },
+    {
+      "start": 274.88,
+      "end": 280.72,
+      "text": "mega prompt. I want you to copy. Build"
+    },
+    {
+      "start": 277.36,
+      "end": 283.52,
+      "text": "an app. Scrape agents via MCP. Store"
+    },
+    {
+      "start": 280.72,
+      "end": 286.8,
+      "text": "data in Firebase. Mind buyer intent from"
+    },
+    {
+      "start": 283.52,
+      "end": 289.28,
+      "text": "social media. Craft pitches with GPT4."
+    },
+    {
+      "start": 286.8,
+      "end": 291.92,
+      "text": "Generate voices with 11 Labs. Place"
+    },
+    {
+      "start": 289.28,
+      "end": 294.88,
+      "text": "calls with Twilio. Log everything."
+    },
+    {
+      "start": 291.92,
+      "end": 297.68,
+      "text": "Expose or React dashboard and schedule"
+    },
+    {
+      "start": 294.88,
+      "end": 299.44,
+      "text": "hourly jobs. Just that. I'll paste it in"
+    },
+    {
+      "start": 297.68,
+      "end": 301.44,
+      "text": "the GitHub. That's going to build this"
+    },
+    {
+      "start": 299.44,
+      "end": 303.68,
+      "text": "thing in 4 minutes or less. It"
+    },
+    {
+      "start": 301.44,
+      "end": 306.08,
+      "text": "scaffolded the endpoints. It wrote the"
+    },
+    {
+      "start": 303.68,
+      "end": 308.72,
+      "text": "Fire Store wrappers. It created a"
+    },
+    {
+      "start": 306.08,
+      "end": 311.44,
+      "text": "scheduler for running tasks, even a tiny"
+    },
+    {
+      "start": 308.72,
+      "end": 314.92,
+      "text": "React front end, so I can watch Ava work"
+    },
+    {
+      "start": 311.44,
+      "end": 318.88,
+      "text": "in real time. The whole project is about"
+    },
+    {
+      "start": 314.92,
+      "end": 321.6,
+      "text": "240 lines of Python code plus 40 lines"
+    },
+    {
+      "start": 318.88,
+      "end": 325.2,
+      "text": "of TypeScript for the dashboard. I"
+    },
+    {
+      "start": 321.6,
+      "end": 327.44,
+      "text": "tweaked two API keys, my Twilio and the"
+    },
+    {
+      "start": 325.2,
+      "end": 330.8,
+      "text": "OpenAI key, and then pushed it to the"
+    },
+    {
+      "start": 327.44,
+      "end": 333.84,
+      "text": "web. I use Heroku and AA was live. So,"
+    },
+    {
+      "start": 330.8,
+      "end": 336.56,
+      "text": "full stack deployment in under a coffee."
+    },
+    {
+      "start": 333.84,
+      "end": 340.08,
+      "text": "Let's unpack the results here. 38"
+    },
+    {
+      "start": 336.56,
+      "end": 342.92,
+      "text": "outbound calls, 11 real conversations,"
+    },
+    {
+      "start": 340.08,
+      "end": 345.88,
+      "text": "four paid signups, had a"
+    },
+    {
+      "start": 342.92,
+      "end": 348.92,
+      "text": "$149 price point,"
+    },
+    {
+      "start": 345.88,
+      "end": 353.04,
+      "text": "$596. Topline,"
+    },
+    {
+      "start": 348.92,
+      "end": 356.24,
+      "text": "$578 in profits after cost. Average"
+    },
+    {
+      "start": 353.04,
+      "end": 358.84,
+      "text": "conversation length 63 seconds."
+    },
+    {
+      "start": 356.24,
+      "end": 362.24,
+      "text": "Conversion rate"
+    },
+    {
+      "start": 358.84,
+      "end": 365.36,
+      "text": "10.5%, triple the industry average for"
+    },
+    {
+      "start": 362.24,
+      "end": 368.56,
+      "text": "cold calls. and importantly zero"
+    },
+    {
+      "start": 365.36,
+      "end": 371.84,
+      "text": "compliance complaints because each call"
+    },
+    {
+      "start": 368.56,
+      "end": 374.96,
+      "text": "opened with a clear legal disclosure and"
+    },
+    {
+      "start": 371.84,
+      "end": 378.0,
+      "text": "opt out key press. So Ava is polite,"
+    },
+    {
+      "start": 374.96,
+      "end": 380.16,
+      "text": "polite and fully TCPA compliant. Now you"
+    },
+    {
+      "start": 378.0,
+      "end": 383.12,
+      "text": "might ask Siraj, why not just push this"
+    },
+    {
+      "start": 380.16,
+      "end": 386.0,
+      "text": "harder? Why stop at four sales? The"
+    },
+    {
+      "start": 383.12,
+      "end": 389.04,
+      "text": "answer is experiment velocity. I like to"
+    },
+    {
+      "start": 386.0,
+      "end": 391.52,
+      "text": "validate tiny low-risk slices. And now"
+    },
+    {
+      "start": 389.04,
+      "end": 394.4,
+      "text": "that the proof of concept is done, I'm"
+    },
+    {
+      "start": 391.52,
+      "end": 397.04,
+      "text": "spinning up three scale levers. The"
+    },
+    {
+      "start": 394.4,
+      "end": 399.44,
+      "text": "first is vertical expansion. We're going"
+    },
+    {
+      "start": 397.04,
+      "end": 402.0,
+      "text": "to replace realtor data with Shopify"
+    },
+    {
+      "start": 399.44,
+      "end": 404.96,
+      "text": "store lists. So the same workflow, it's"
+    },
+    {
+      "start": 402.0,
+      "end": 406.56,
+      "text": "going to target ecommerce owners looking"
+    },
+    {
+      "start": 404.96,
+      "end": 408.72,
+      "text": "for shipping solutions. So we're going"
+    },
+    {
+      "start": 406.56,
+      "end": 409.92,
+      "text": "to match those. And then the second is"
+    },
+    {
+      "start": 408.72,
+      "end": 410.92,
+      "text": "recurring revenue. We're going to"
+    },
+    {
+      "start": 409.92,
+      "end": 415.16,
+      "text": "convert the"
+    },
+    {
+      "start": 410.92,
+      "end": 418.56,
+      "text": "$149 oneoff into a $99 monthly"
+    },
+    {
+      "start": 415.16,
+      "end": 421.12,
+      "text": "subscription for fresh buyer lists. SAS"
+    },
+    {
+      "start": 418.56,
+      "end": 423.44,
+      "text": "are all subscriptions these days. The"
+    },
+    {
+      "start": 421.12,
+      "end": 426.16,
+      "text": "third is self optimizing ad spend. We're"
+    },
+    {
+      "start": 423.44,
+      "end": 428.96,
+      "text": "going to let Ava read call outcomes,"
+    },
+    {
+      "start": 426.16,
+      "end": 432.16,
+      "text": "feed them back into GPT4, and tweak the"
+    },
+    {
+      "start": 428.96,
+      "end": 435.12,
+      "text": "pitch in real time. So early tests show"
+    },
+    {
+      "start": 432.16,
+      "end": 437.84,
+      "text": "a 15% conversion lift. And if you're"
+    },
+    {
+      "start": 435.12,
+      "end": 441.44,
+      "text": "thinking, Siraj, that sounds cool, but"
+    },
+    {
+      "start": 437.84,
+      "end": 443.68,
+      "text": "I'm not technical at all. Pause. Every"
+    },
+    {
+      "start": 441.44,
+      "end": 446.8,
+      "text": "line of code is open source in the"
+    },
+    {
+      "start": 443.68,
+      "end": 449.68,
+      "text": "GitHub repo right now. Bright Data is"
+    },
+    {
+      "start": 446.8,
+      "end": 452.48,
+      "text": "giving you $10 of free NCP credits."
+    },
+    {
+      "start": 449.68,
+      "end": 455.2,
+      "text": "That's enough for rough roughly 1,000"
+    },
+    {
+      "start": 452.48,
+      "end": 457.6,
+      "text": "agent polls. And Cursor will write the"
+    },
+    {
+      "start": 455.2,
+      "end": 460.4,
+      "text": "code for you. Exactly like it did for"
+    },
+    {
+      "start": 457.6,
+      "end": 462.72,
+      "text": "me. So, all I'm asking you in return is"
+    },
+    {
+      "start": 460.4,
+      "end": 464.96,
+      "text": "tell me in the comments what niche field"
+    },
+    {
+      "start": 462.72,
+      "end": 468.32,
+      "text": "you want me to automate next. This is so"
+    },
+    {
+      "start": 464.96,
+      "end": 471.36,
+      "text": "much fun. Financial advisors, insurance"
+    },
+    {
+      "start": 468.32,
+      "end": 474.32,
+      "text": "brokers, indie game studios. I'll build"
+    },
+    {
+      "start": 471.36,
+      "end": 477.2,
+      "text": "the one with the most up votes live on"
+    },
+    {
+      "start": 474.32,
+      "end": 479.44,
+      "text": "stream in the coming weeks. So, a few"
+    },
+    {
+      "start": 477.2,
+      "end": 483.04,
+      "text": "rapid fire lessons before we wrap."
+    },
+    {
+      "start": 479.44,
+      "end": 486.16,
+      "text": "Lesson one, AI and no code equals speed."
+    },
+    {
+      "start": 483.04,
+      "end": 487.84,
+      "text": "Chat GPT cursor and Bright Data's MCP"
+    },
+    {
+      "start": 486.16,
+      "end": 490.56,
+      "text": "collapsed what used to be hundreds of"
+    },
+    {
+      "start": 487.84,
+      "end": 493.52,
+      "text": "hours of work into 10 minutes. Lesson"
+    },
+    {
+      "start": 490.56,
+      "end": 496.08,
+      "text": "two is to validate then scale. A tiny"
+    },
+    {
+      "start": 493.52,
+      "end": 499.44,
+      "text": "proof of concept avoided weeks of"
+    },
+    {
+      "start": 496.08,
+      "end": 502.44,
+      "text": "building features nobody wanted. Lesson"
+    },
+    {
+      "start": 499.44,
+      "end": 505.76,
+      "text": "three, trust elements convert, clear"
+    },
+    {
+      "start": 502.44,
+      "end": 508.64,
+      "text": "optouts, money back guarantees, and a"
+    },
+    {
+      "start": 505.76,
+      "end": 511.52,
+      "text": "buyer list preview drove the close."
+    },
+    {
+      "start": 508.64,
+      "end": 514.48,
+      "text": "Lesson four, tiered pricing psychology"
+    },
+    {
+      "start": 511.52,
+      "end": 517.52,
+      "text": "wins. Multiple packages anchored value"
+    },
+    {
+      "start": 514.48,
+      "end": 520.08,
+      "text": "and nudged agents into a sweet spot"
+    },
+    {
+      "start": 517.52,
+      "end": 522.4,
+      "text": "plan. Now, if any of those points"
+    },
+    {
+      "start": 520.08,
+      "end": 525.76,
+      "text": "clicked, smash that subscribe button so"
+    },
+    {
+      "start": 522.4,
+      "end": 529.24,
+      "text": "Ava's next video lands in your feed. We"
+    },
+    {
+      "start": 525.76,
+      "end": 532.32,
+      "text": "are on a mission to build 10 completely"
+    },
+    {
+      "start": 529.24,
+      "end": 534.56,
+      "text": "autonomous income streams this year and"
+    },
+    {
+      "start": 532.32,
+      "end": 537.76,
+      "text": "I'm open sourcing every single one of"
+    },
+    {
+      "start": 534.56,
+      "end": 540.72,
+      "text": "them. Remember the full repo is in the"
+    },
+    {
+      "start": 537.76,
+      "end": 543.36,
+      "text": "description and the free MCP credits are"
+    },
+    {
+      "start": 540.72,
+      "end": 546.4,
+      "text": "waiting. My DMs are open if you hit a"
+    },
+    {
+      "start": 543.36,
+      "end": 549.44,
+      "text": "snag. And by the way, compliance notice."
+    },
+    {
+      "start": 546.4,
+      "end": 552.32,
+      "text": "This demo follows TCPA rules and offers"
+    },
+    {
+      "start": 549.44,
+      "end": 555.12,
+      "text": "opt out on every call. Always verify"
+    },
+    {
+      "start": 552.32,
+      "end": 558.0,
+      "text": "regulations in your country before you"
+    },
+    {
+      "start": 555.12,
+      "end": 559.68,
+      "text": "unleash your AI on your own. Think smash"
+    },
+    {
+      "start": 558.0,
+      "end": 563.12,
+      "text": "that like button and for now I've got to"
+    },
+    {
+      "start": 559.68,
+      "end": 565.17,
+      "text": "go build an agent that scrolls X for me."
+    },
+    {
+      "start": 563.12,
+      "end": 572.59,
+      "text": "Till next time."
+    },
+    {
+      "start": 565.17,
+      "end": 572.59,
+      "text": "[Music]"
+    }
+  ],
+  "word_count": 1270,
+  "fetched_at": "2025-12-21T02:20:43.463851Z"
+}

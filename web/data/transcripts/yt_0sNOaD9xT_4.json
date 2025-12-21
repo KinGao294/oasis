@@ -1,0 +1,3279 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "Andrew Mayne: Hello, I'm Andrew Mayne and this is the OpenAI Podcast. Andrew Mayne: Today my guests are Kevin Weil, head of OpenAI for Science, and Alex Lupsasca, who is an OpenAI research scientist and professor of physics at Vanderbilt University. Andrew Mayne: We're going to be discussing how AI is impacting science, an upcoming research paper, and where science might be headed in the next five years. Kevin Weil: Maybe the most profound way that people are going to feel AGI in their lives is through science. Alex Lupsasca: With ChatGPT I can just Alex Lupsasca: Launch it in that direction, in that direction, that direction. Kevin Weil: The acceleration that is going to come from these tools is going to change science. Andrew Mayne: So you're running the Open AI for Science Initiative. Andrew Mayne: Could you explain what that's about? Kevin Weil: Yeah, the the mission of Open AI for science is to accelerate science. Kevin Weil: So the the question is, can we Kevin Weil: Help scientists do the next, say, 25 years of scientific research and scientific discovery in five years instead. Kevin Weil: Science underpins so much of what we do and how we live. Kevin Weil: And if we can make progress go faster by putting our most advanced models into the hands of the best scientists in the world, we should do that. Kevin Weil: And that's what we're trying to do. Kevin Weil: You could ask like why now? Kevin Weil: Why didn't we do this a year ago? Kevin Weil: Why aren't we doing this a year from now? Kevin Weil: One of the big reasons is we're just starting to see Kevin Weil: our frontier AI models being able to do novel science. Kevin Weil: So we're starting to see examples where GPT-5 can actually prove new things. Kevin Weil: Maybe not yet things that humans could not do, but things that humans have not done. Kevin Weil: So there these are like these little existence proofs of GPT-5 being able to break out past the frontier of human knowledge and into the unknown. Kevin Weil: And if there's one thing that I've learned from now, you know, a year and a half or so at OpenAI, it's that you go very quickly from Kevin Weil: the model can't do something, to the model can just barely do something, and it's not great at it yet, but you see these these these early examples. Kevin Weil: And then, you know, six months later, twelve months later, all of a sudden you couldn't imagine doing this thing without AI. Kevin Weil: And I think science is in that initial phase where we're seeing real acceleration for scientists that are using AI. Kevin Weil: Sometimes novel Kevin Weil: you know not yet maybe large breakthroughs, call them small breakthroughs. Kevin Weil: And that just says that there's so much potential in this space. Andrew Mayne: We've seen examples of let's say AI helping with mathematical proofs. Andrew Mayne: Could you give me an example of how it might do things in some other areas like physics or whatever kind of things we might see in the short term? Kevin Weil: Yeah, I mean we're seeing examples every day and they're across Kevin Weil: the the range of of sort of the scientific frontier. Kevin Weil: You see examples in mathematics, in physics, astronomy Kevin Weil: life sciences, like biology. Kevin Weil:  Alex, I mean, you've you've worked on some of these. Kevin Weil: Maybe maybe it's a good time to talk about some of the physics stuff that you've seen. Alex Lupsasca: Yeah, I think coming back to  Kevin's point about how this is a special time, that's very much how I feel as well, because I started the year. Alex Lupsasca: 2025 thinking, yeah, ChatGPT is cool. Alex Lupsasca: Like everybody, I used it when it came out and I thought it's a great chat bot, but Alex Lupsasca: I was sure it would take a very long time before it would become really relevant for my own work. Alex Lupsasca: So I started the year I would say as an AI skeptic Alex Lupsasca: because I like to see evidence before I'm convinced of something. Alex Lupsasca: And I saw people using it to help in their writing. Alex Lupsasca: And it I started to use it for that as well. Alex Lupsasca: It's very useful for proofreading, but I thought Alex Lupsasca: Oh, it's gonna be a while before it gets to do the special stuff that I'm really a specialist at. Alex Lupsasca: You're like black holes, right? Alex Lupsasca: Like black hole physics, exactly. Alex Lupsasca: And I had this experience early this year where I was trying to find this magnetic field solution that describes what happens around a pulsar, which is a rotating star with very powerful magnetic fields. Alex Lupsasca: And I was going for this very particular solution. Alex Lupsasca: I had to solve a partial differential equation. Alex Lupsasca: I was able to identify that solution as an infinite sum over products of special functions called Alex Lupsasca: Le genre polynomials. Alex Lupsasca: And if you won't go to physics grad school, this is the kind of thing that you spent a lot of time getting familiar with. Alex Lupsasca: And I also like these puzzles. Alex Lupsasca: And I was playing around with the sum and I felt like there should be a simple formula that it evaluates to. Alex Lupsasca: And I thought, okay, I have this friend who has ChatGPT o3 Pro, which I didn't have access to at the time. Alex Lupsasca: And I thought, okay, I'm just gonna send it to him and see what comes out of it. Alex Lupsasca: And he sends me back this output. Alex Lupsasca: It thought for 11 minutes, which at the time I had never seen it do because I was using the free version, which doesn't think for as long. Alex Lupsasca: And it gave this beautiful answer where it was able to understand what the sum was. Alex Lupsasca: and break it down into pieces that it could tackle. Alex Lupsasca: And then it had to go and find the special identity that was published in one paper from the 1950s in a Norwegian Journal of Mathematics. Alex Lupsasca: And so it understood what the problem was and it knew about this random identity that was just the thing for the job and it used them. Alex Lupsasca: And it gave this beautiful output. Alex Lupsasca: And at the end, the answer was wrong because it made the silly typo. Alex Lupsasca: It added an extra factor in front for it's almost kind of like a human making a silly typo at the end. Alex Lupsasca: But it was very easy to check the derivation and I went through it and I realized, okay, there's this extra factor, but aside from that, it it did the work. Alex Lupsasca: And that really sent me reeling because I thought, okay. Alex Lupsasca: I would say that's a uniquely human ability. Alex Lupsasca: I thought that's something that makes theoretical physicists special. Alex Lupsasca: you know, now in 2025, clearly they're capable of doing things that I would consider amazing. Kevin Weil: Yeah. Kevin Weil: I think one of the cool things, so you've got examples like Kevin Weil: Alex's where it was probably not something that he like he could have done it himself over you know eventually, but GPT was able to do it faster. Kevin Weil: That's acceleration on its own. Kevin Weil: And there's something qualitative about that even as well, because if you can explore, instead of exploring two paths over the course of a week, Kevin Weil: If you can explore 10 paths in parallel in, you know, an hour, all of a sudden there's a lot more ideas that you can try. Kevin Weil: And that's also acceleration. Kevin Weil: We also see examples in like literature search, which you don't think of as maybe like deep scientific innovation, but it's really important to be able to understand, you know, has somebody worked on this problem before? Kevin Weil: And if so, is there something I can learn to speed up my own work? Kevin Weil: So, and we've seen interesting examples where there was one, I might get the details of this wrong, but we were talking to this researcher, and  he was saying he was exploring this particular idea in like high-dimensional optimization. Kevin Weil: And he was like, man, you know, this thing I'm working on, it's interesting, but somebody must have worked on this before. Kevin Weil: I can't be the first person to have had this idea. Kevin Weil: I just can't. Kevin Weil: But I can't find any examples. Kevin Weil: And then he had given it, he'd sort of given a description of what he was working on to GPT-5. Kevin Weil: And GPT-5 found an example from, I think it was like economics or something, a completely different field that Kevin Weil: used completely different terminology, so no keyword lookup would have ever worked. Kevin Weil: GPT-5 did sort of a con a conceptual level literature search. Alex Lupsasca: Yeah. Kevin Weil: Found somebody's PhD thesis in German. Kevin Weil: So also a completely different language, you know, it was like basically lost to time, but this person had done really interesting, sort of related work that helped him in his research. Kevin Weil: And so, you know, that's another area. Kevin Weil: So you can talk about  the acceleration that comes from just like novel proofs and GPT-5 being able to do something on its own or guided by an expert. Kevin Weil: But there's also these examples of acceleration in calculations and literature search and and all of them contribute to accelerating science. Alex Lupsasca: Yeah, and the the exact same thing happened to me. Alex Lupsasca: I was Alex Lupsasca: trying to derive this property of black holes, and I got this equation that described this phenomenon I was after, and it had a three derivative term, which is pretty unusual. Alex Lupsasca: And I looked at it and I recognized it's something called the Schwarzen derivative, which is a special thing that appears in math. Alex Lupsasca: And I thought, hmm. Alex Lupsasca: Wow, this is really strange that this would show up. Alex Lupsasca: And I just copy pasted the equation into ChatGPT and said, do you have you seen this before? Alex Lupsasca: And it said, oh yes, this is the conformal bridge equation. Alex Lupsasca: I had no idea what a conformal bridge was at the time. Alex Lupsasca: And it said, oh, just look up this paper. Alex Lupsasca: And that was amazing because it turns out that this equation that showed up Alex Lupsasca: in my work, had already been studied in some other works, and I've heard from a lot of colleagues doing research in physics that there's a lot of that going on. Alex Lupsasca: And at the forefront of knowledge, everything becomes so niche that it's very hard to know the latest details in neighboring fields. Alex Lupsasca: And GPT is an amazing help with that. Kevin Weil: Yeah, that's another thing that we've heard from  professors. Kevin Weil: and researchers that we've talked to is there's so much you have to be so specialized today. Kevin Weil: And so sometimes it gets hard to explore an area outside of your main area. Kevin Weil: There's one particular Kevin Weil: Mathematician we were talking to said, you know, one of my last papers, I knew there was an area that I I wanted to go follow it off in this direction. Kevin Weil: But it wasn't my specialty and it would have taken me a long time and I just kind of ended up feeling like, you know, maybe that's not the most efficient place for me to spend my time. Kevin Weil: Now with GPT-5, I'm gonna go back and explore that because I've got a coworker effectively, a collaborator who has read just about every scientific paper that's out there and is Kevin Weil: is a you know a pretty meaningful expert on just about any topic you want. Kevin Weil: And I think I'm going to be able to go explore these adjacencies in a far better way with ChatGPT than I could have on my own Kevin Weil: And so that's also a fascinating new take, right? Kevin Weil: It helps every it it can help you go deeper, like you were saying, and it can also help you go more broad. Andrew Mayne: Literature search is pretty interesting because like one of my weird hobbies is I like to go back and look at when was some early scientific discovery made that didn't get utilized till much later on. Andrew Mayne: Yeah, famous one was carbon filaments, you know, when Thomas Edison spent all that effort to try to find it, and it'd been published in like 20 years before. Andrew Mayne: Of course, you know, Dewey Decimal System was invented that year, so you can't blame him. Andrew Mayne:  other things like  silicon assistant semiconductor. Andrew Mayne: You know, if somebody would reading the literature, we might have had that five to ten years earlier. Andrew Mayne: Ability to replicate DNA, that had been published like 10 or 12 years earlier before somebody figured that out. Andrew Mayne: And then Andrew Mayne: The shotgun technique we use for DNA, you know, understanding, you know, figuring out like the DNA sequencing. Andrew Mayne: That was first published in like 1982, but at that time there weren't supercomputers that could run it. Kevin Weil: Right. Andrew Mayne: And that's exciting just to think of just having a really good tool that can search through all this stuff and pull up these answers you have. Kevin Weil: Yeah. Kevin Weil: And I think especially some of the most interesting research now happens at the at the intersections of of two fields. Kevin Weil: And i again, it's it's hard for one person to be an expert in two fields, let alone three or four or five. Kevin Weil: And sometimes it's tough for humans to collaborate. Kevin Weil: You don't necessarily find the right person, the person doesn't have infinite patience. Kevin Weil: And Kevin Weil: Here with GPT, you have now the option to have a collaborator that will work 24-7, has infinite patience. Kevin Weil: you know, has read substantially every scientific paper written in the last however many years. Kevin Weil: And so it's just it's it's a new kind of collaboration that is its own form of acceleration Andrew Mayne: You think about like Claude Shannon's wife was a mathematician and how much that to help what he was able to do. Andrew Mayne: And I think we forget how much collaboration really is a factor of that. Andrew Mayne: But I would say some people hearing this might go, yeah, but  it couldn't spell strawberry last year. Andrew Mayne: Yeah. Andrew Mayne: It couldn't do math. Andrew Mayne: So why are we gonna have it do, you know, science? Kevin Weil: Yeah. Kevin Weil: So actually  I don't even know if I've told you this, my own sort of origin story with appreciating   what Kevin Weil: GPT-5 could do, or in this case it was, I think, oh this was almost a year ago, so it was oh one preview maybe. Kevin Weil: Um but I was meeting with this this guy named Brian Spears, who's a physicist at Lawrence Livermore. Kevin Weil: Um, it was in DC and we'd never met before. Kevin Weil: So I I didn't know sort of what to expect. Kevin Weil: I I thought maybe I was gonna go in and um be talking to him about what was new and what he could do with O1 Preview and why he should give it a try. Kevin Weil: Little did I know. Kevin Weil: I sat down and and he immediately took control of the conversation and said, Let me tell you what I can do with your models and like these are the most amazing things for science and this is gonna change the world and he was like, Okay, let me take you through this. Kevin Weil: And he opened up his laptop. Kevin Weil:  and you know, he works on fusion, right? Kevin Weil: Lawrence Livermore  was the first to do large-scale fusion with positive energy, like super exciting. Kevin Weil: So Kevin Weil: He's like, all right, we're gonna take a fusion example. Kevin Weil: And first I'm gonna start with the undergrad version of this problem. Kevin Weil: And so he he shows me this conversation and he's like Kevin Weil: All right, so you've got you know   a copper rod and we're gonna bombard it with super high pressure waves. Kevin Weil: What happens? Kevin Weil: And you know he's like it. Kevin Weil: So he he answered and and oh one preview gives a good answer. Kevin Weil: It's like okay, cool. Kevin Weil: So it got the it got the  Kevin Weil: Got the undergrad problem right. Kevin Weil: And then now let's let's ask the graduate version of this. Kevin Weil: Now what happens inside the the rod itself as you're doing this? Kevin Weil: And you know what what needs to be true in order for it to generate these certain kinds of shock waves? Kevin Weil: And he goes through and he's like, okay, so got that right. Kevin Weil: All right, now let's ask the postdoc level question. Kevin Weil: All right. Kevin Weil: Now let's ask the and at this point I'm like, you know, despite having a physics background, I'm just following along for the ride because he's beyond anything I can do. Kevin Weil: Like, all right. Kevin Weil: Now let's ask the you just joined Lawrence Livermore and you, you know, kind of question. Kevin Weil: You've gone through your postdoc, you're a nuclear physicist, and he keeps going. Kevin Weil: And o1 preview keeps getting the answer right. Kevin Weil: And then he's like, all right, now let me ask you the you've worked at Lawrence Livermore for twenty years question. Kevin Weil: And it goes and and it gets it right. Kevin Weil: And then not only that, but it like Kevin Weil: suggests that the only way to go forward is to use these these set of simulation tools that are like partially classified or that only Lawrence Livermore has. Kevin Weil: It's like, you know, I don't have access to these, but if you did, you would want to use these tools. Kevin Weil: And he's like, look, nothing in here that nothing that I just showed you was something that I couldn't do. Kevin Weil: But it would have taken me days. Kevin Weil: And certainly not everybody at the lab can do this. Kevin Weil: Like the acceleration that comes, that is going to come from these tools, is going to change science. Kevin Weil: And so I went from like sitting down with this guy who I thought maybe I was going to be sort of talking to him about the value of AI, to him just completely blowing my mind about the potential of AI. Kevin Weil: And this is Kevin Weil: A year ago. Kevin Weil: This is o1 preview, you know. Kevin Weil: We've come leaps and bounds since then. Kevin Weil: And the thing that I always try and and like Kevin Weil: Remind everybody, the AI models that we're using today, as good as GPT5.1 Pro is. Kevin Weil: These are the worst AI models that we will ever use for the rest of our lives. Kevin Weil: And when you think about that, the fact that we're here just implies that the future is very bright. Andrew Mayne: How have your colleagues been using these tools? Alex Lupsasca: Yeah, there's a lot of different usages, I think. Alex Lupsasca: literature search, here's what I'm working on, does it connect to any other thing? Alex Lupsasca: And Alex Lupsasca: This is something that we spend a lot of time on as scientists, just understanding when something new shows up in our work, how it connects to other things. Alex Lupsasca: And okay, my own experience that Alex Lupsasca: Made me become AI pilled, I think. Andrew Mayne: This is the reason you came to OpenAI. Alex Lupsasca: I met Mark Chen, who works here at OpenAI, he's chief research officer, and he gave me a challenge. Alex Lupsasca: He was very proud. Alex Lupsasca: He said, you know, why don't you just give it a hard problem? Alex Lupsasca: And I thought, h, ha, you want a hard problem, okay. Alex Lupsasca: And so I gave it this question. Alex Lupsasca: Right. Alex Lupsasca: So I had just found these  new symmetries of black holes, which is something that doesn't happen that often. Alex Lupsasca: And I'd written up a paper that came out in June on the archive, and I was very happy about that. Alex Lupsasca: And I thought, okay, well let's see how GPT Pro handles this new question. Alex Lupsasca: And so I gave it the equation. Alex Lupsasca: And I didn't say that it has some symmetries. Alex Lupsasca: I didn't give it a leading question. Alex Lupsasca: I just said, what are the symmetries? Alex Lupsasca: And it thought for five minutes and it said, no symmetries. Alex Lupsasca: And I go, ha. Alex Lupsasca: It's not there yet. Alex Lupsasca: Still better than the AI. Alex Lupsasca: And and Mark Chen is visibly crestfallen. Alex Lupsasca: He goes, okay, well just um just give it an easier question then. Alex Lupsasca: And so I think, okay, I'm gonna give it the warm-up baby version of the problem, which is find the symmetries of this equation, not in the full black hole space-time, which is complicated, but in the flat space limit with where the space-time is empty. Alex Lupsasca: And Alex Lupsasca: Hit enter, it thinks for you know nine minutes, and it comes back with this beautiful answer. Alex Lupsasca: Oh, this equation has conformal symmetry, which is the the correct thing, and here are the three generators, and it was very beautiful. Alex Lupsasca: And you know this version of the equation it Alex Lupsasca: probably has been studied, I'm sure has been studied many times over the decades. Alex Lupsasca: So I don't know what he did exactly, but he came up with the answer. Alex Lupsasca: And I thought, okay, this is very good. Alex Lupsasca: This is a great outcome. Alex Lupsasca: And then Mark said, okay, well, but now that it's been primed on the warm-up example, try again in this instance of chat the harder problem. Alex Lupsasca: And I thought, okay, let's go. Alex Lupsasca: And so we give it the heart problem again. Alex Lupsasca: Hit enter and it thinks and it thinks and that was the first time I saw it thing for so long. Alex Lupsasca: I think it took 18 minutes and it comes out with this beautiful answer that was completely correct. Alex Lupsasca: And that blew my mind because I had been working on this for a very long time. Alex Lupsasca: And I would say that that calculation is at the edge of my abilities. Alex Lupsasca: I think it's something that, you know, very few people could have done the way I did it. Alex Lupsasca: And so I was really shocked because you know you spend years of your life training to be best in class or something and finding symmetries of black holes and these kinds of equations. Alex Lupsasca: That's that's my jam. Alex Lupsasca: And I thought, okay, so I guess that just happened. Alex Lupsasca: And it really sent my mind reeling. Alex Lupsasca: And I was a little bit shell-shocked for a few days, and then I just couldn't stop thinking about it. Alex Lupsasca: And after that I realized, okay, I have to become involved in this because to see this capability emerge into the world. Alex Lupsasca: Like right now and not to not be involved with this just seemed crazy to me. Kevin Weil: I was gonna I actually think you made  you made a really important point in the middle of that around the the fact that you gave it the hard question. Kevin Weil: It didn't get it right. Kevin Weil: You gave it an easier question, it got that right, and then you were able to give it a harder question, it got there is still, you know, as excited as we clearly are about the future here, there's also a very real sense, like you when you're giving Kevin Weil: GPT-5 or any of these AI models a problem that's on the frontier, that's at the limit of their capabilities, they tend to still be wrong a lot. Kevin Weil: Right. Kevin Weil: Kind of like any human would be at operating at the level of  at the frontier of their capabilities. Kevin Weil: And it takes you know, it isn't just Kevin Weil: Automatic yet. Kevin Weil: Hopefully in the future it will be, you know, enter in any hard question and the model answers it. Kevin Weil: But today there's a lot of back and forth. Kevin Weil: And the people that are best, the the researchers that are best at getting the most out of the models Kevin Weil: have a sort of patience to go back and forth with them. Kevin Weil: I think that's natural. Kevin Weil: It's probably the way that you would work with any any you know any two people operating at at about the limit of their capabilities. Kevin Weil: But I think it's important especially for folks listening to this who are doing research with the models to know that it's not it isn't just one shot and it always works. Kevin Weil: It there really is a a back and forth and sort of a patience that it takes.  Kevin Weil: And one of the interesting research problems that we're spending a lot of time thinking about is how we how we help people with Kevin Weil: Yeah, how we sort of help reduce that that cognitive load. Kevin Weil: Because when you're working on a problem, say the model is has a 5% pass rate on some problem. Kevin Weil: So technically the model can get it right once out of 20 times. Kevin Weil: But it's really at the frontier, so it's not going to get it right nearly, you know, even close to every time. Kevin Weil: If you're sitting inside ChatGPT and just entering in this question, Kevin Weil: You're gonna have to enter it in, you know, what, ten times before you have the odds that it's gonna get the right answer? Kevin Weil: And that's most people aren't gonna do that Kevin Weil: and so there's a whole host of problems that the model can solve that people probably try and are like, oh after three tries, it didn't get it right, so let's I'll move on. Kevin Weil: The model's not good enough yet. Kevin Weil: And actually it is, but it's just very hard to tell apart low pass rate problems from problems that are too hard. Kevin Weil: And  I think that's actually a really important thing for us to help researchers and mathematicians get past. Kevin Weil: because the most interesting problems right now are going to be the ones where the model has a very low but non-zero pass rate. Kevin Weil: Those are going to be the hardest problems that the model can solve, the best ways that it can Kevin Weil: that it can help accelerate science. Kevin Weil: And so that's a really interesting research problem that we're taking on  to try and make that a little more automatic, a little less grunt work. Kevin Weil: But for now, I like Kevin Weil: Putting in the time and really going back and forth with the model does yield results. Andrew Mayne: Well, it it feels like we're at a moment kind of like when we went from GPT 3.5 to ChatGPT. Andrew Mayne: 3.5 was a model Andrew Mayne: extremely capable model, but it was still effectively a base model. Andrew Mayne: And and I was a prompt engineer at the time and knowing how to prompt it, I could get great results for it. Andrew Mayne: but it took all those little tricks to sort of understand the context. Andrew Mayne: Then when we went to ChatGPT and we understood, okay, we know the kind of problems people are trying to solve. Andrew Mayne: Let's make it a little bit easier for them to get there without having to do that. Andrew Mayne: It feels like that's kind of where we're heading into a science though, that now that you have people like Alex explaining the problems you're trying to solve and what you're doing, that we may see like a big acceleration with this Kevin Weil: I think it's probably just a characteristic of any question that's on the frontier of or sort of at the limit of what the models can do. Kevin Weil: And back with GPT 3 and early versions of 4. Kevin Weil: the questions that were at the the limit of what the model can do were were much more basic. Kevin Weil: Now they're they're questions of you know scientific research, but you still, when you're operating at the frontier, Kevin Weil: The the pass rate will be low. Kevin Weil: And so you gotta kinda like there's value in in sticking with it and trying a few different things and taking the parts that it gets right and refining them while telling the model where it got other things wrong. Alex Lupsasca: In this example I mentioned, it needed a warmup, but the warmup was the obvious warmup that you would do as a human. Alex Lupsasca: Right. Alex Lupsasca: Because actually when I was Alex Lupsasca: attacking this problem, I wasn't thinking about the black hole case first. Alex Lupsasca: The the this flat space limit was the obvious place to start and that is where where I began. Alex Lupsasca: And so I think Alex Lupsasca: The models are actually really good, but we could get better at making them think of the warm-up problem themselves so they can go go there directly. Alex Lupsasca: But more generally, I think there's this Alex Lupsasca: Thing we have to bear in mind, which is that as scientists, our role is to push the edge of knowledge. Alex Lupsasca: There are things that are just beyond the edge. Alex Lupsasca: And our goal is to bring them before the edge of knowledge by understanding them, but this edge is very jagged. Alex Lupsasca: So And Alex Lupsasca: There are very basic questions about the universe, like why are there three dimensions of space? Alex Lupsasca: Or, you know, what happened to the Big Bang? Alex Lupsasca: These are things that everybody wants to know the answer to. Alex Lupsasca: And yet, even though there's simple questions, there's really nothing intelligent to say about this. Alex Lupsasca: We just don't know. Alex Lupsasca: They're very hard problems, actually. Alex Lupsasca: And then meanwhile, there are these very hard questions that you would think we wouldn't be able to answer at all, to which we have extremely detailed answers. Alex Lupsasca: We can predict the electron dipole moment to, I don't know, 12 decimal places, something crazy. Alex Lupsasca: So Alex Lupsasca: They're the the edge of human knowledge itself is is very jagged. Alex Lupsasca: And it takes many years of graduate school to learn where the edge is. Alex Lupsasca: And I think what we've we're finding with these AI models is that the edge of their knowledge is also very jagged. Alex Lupsasca: So you mentioned, you know, there's some basic questions that it can't that the models can't answer. Alex Lupsasca: That's true. Alex Lupsasca: At the same time, there's some very hard questions that they're very well suited for already today. Alex Lupsasca: And I think what's exciting is that their edge of knowledge is very jagged in a way that's different from ours. Alex Lupsasca: so obviously as time goes on, I think the edge of Alex Lupsasca: of ability for these models is going to keep expanding. Alex Lupsasca: But as long as it expands in a way that is slightly different from our edge, that's also really interesting because at at the intersection Alex Lupsasca: Where where it can go farther than us or we can get ahead of it, that's where a lot of interesting things are gonna happen, I think. Kevin Weil: Yeah, and human and AI together are exactly Kevin Weil: much more powerful than human alone or AI alone. Andrew Mayne: Exactly. Andrew Mayne: I want to explore that a little bit more, but first tell me about the research paper. Kevin Weil: Yeah, so I we we've we've talked a bunch about these anecdotal examples that Kevin Weil: Alex has gotten from the time that he spent with his colleagues that we see coming in across Twitter, you know, on a semi-daily basis at this point. Kevin Weil: And we wanted to sort of bring them together and just write something, publish something about that that lays out the current sort of state of GPT-5 with respect to science. Kevin Weil: And so what we we've got, it's a handful of collaborators from inside OpenAI and I think eight or nine academics from beyond our walls. Kevin Weil: across a bunch of different fields, math, physics, astronomy,  computer science, biology, materials science. Kevin Weil: And the paper is  something on the order of twelve sections, each one highlighting a different way that GPT-5 is accelerating their work. Kevin Weil: The goal was not to be, you know, hypey and say everything is solved. Kevin Weil: It's, you know, it's really to say, look. Andrew Mayne: Hoverboards for everybody. Kevin Weil: Yeah. Kevin Weil: Like this is what works. Kevin Weil: This is what doesn't work. Kevin Weil: Here's what I tried. Kevin Weil: In many cases, we're sharing the the ChatGPT, you know, the full share links, the conversation, so you can see the back and forth. Kevin Weil: that the scientist has with the model. Kevin Weil: And it's it's meant to be kind of a moment in time to say, this is where we are today. Kevin Weil: And I think we'll look back in six months, twelve months and and Kevin Weil: You know, we'll we'll probably be much further and that'll be exciting. Kevin Weil: But even where we are today, we've got  a section in the paper on the different a bunch of different examples around literature search. Kevin Weil: A section of the paper with a bunch of different examples around acceleration, whether it's calculations and other things like that. Kevin Weil: And then a section where we actually contribute four or five new Kevin Weil: non-trivial results in mathematics. Kevin Weil: and a couple of these are small, a couple of them probably could have been papers on their own. Kevin Weil: and so you go from kind of the the mundane but but very pragmatic and real bits of acceleration to the the more Kevin Weil: sort of profound GPT-5 actually pushing past the the current frontier of human knowledge. Kevin Weil: and so we're super excited about this paper. Kevin Weil: it's, you know, I think there'll be a lot more to come. Kevin Weil: We're not the only lab doing great work, by the way. it Kevin Weil: Google has been doing this for a while, and I have a ton of respect for what Demis and the team have done with AlphaFold and more. Kevin Weil:  I just think we're at a really exciting time. Kevin Weil: You know, ideas in science often have their moment. Kevin Weil: when you have multiple people coming with the same idea, whether it's quantum mechanics like like Alex was talking about or the light bulb. Kevin Weil: Right now it's very clear that AI is is just beginning to change science. Kevin Weil: And it's going to be an exciting few years. Andrew Mayne: What advice do you have for students and grad students in the sciences? Andrew Mayne: Because Andrew Mayne: I hear people talk about like, oh, we're not going to need scientists anymore, which sounds absolutely crazy. Andrew Mayne: It's not like the telescope got rid of the astronomer. Andrew Mayne: It actually created the astronomer. Andrew Mayne: how do you feel about that and what advice do you have? Alex Lupsasca: Okay, I think first of all it's important to acknowledge there's a lot of anxiety in academia right now that is unrelated to AI. Alex Lupsasca: It has to do with Alex Lupsasca: Lots of changes in the way that science is organized in this country and we're still going through these changes. Alex Lupsasca: I think that  talking to young people, there's a lot of anxiety surrounding this. Alex Lupsasca: I actually think AI is a really exciting new tool that's coming, that's becoming available, that is going to help a lot because it's just going to make everybody just so much more efficient. Alex Lupsasca: As Kevin was mentioning earlier, when you work on a research project, oftentimes you don't know which way exactly. Alex Lupsasca: to go. Alex Lupsasca: You know you're here, you want to get there, but there are different possible paths, different lines of attack. Alex Lupsasca: And the whole point of research is that from the get-go, you don't know which which way to go. Alex Lupsasca: And one of the things that's really fun, actually fun with GPT is that you can just say, hey, I'm trying to solve this. Alex Lupsasca: Here's some ideas I have. Alex Lupsasca: You can upload some notes that you have or just this describe it in a few sentences. Alex Lupsasca: And it's very good at getting what you're trying to do. Alex Lupsasca: And then you can just say, what if I approached it this way? Alex Lupsasca: Or what if I were to do it this way? Alex Lupsasca: And it can immediately go off and chart a path through the unknown, just signposting. Alex Lupsasca: different potential avenues. Alex Lupsasca: And that actually saves so much time because, you know, I okay, I'm a human. Alex Lupsasca: I have limited time, energy. Alex Lupsasca: And when I'm gonna put in the effort to do a calculation, I spend a lot of time trying to prototype it and think ahead where it's gonna take me. Alex Lupsasca: And with ChatGPT, I can just launch it in that direction, in that direction, that direction. Alex Lupsasca: And it doesn't like completely get everything right, but just having these signposts along the way is so helpful because then when you do go down the path yourself. Alex Lupsasca: you you have somebody helping you along, it feels like. Alex Lupsasca: and I think that's just gonna make everybody faster, more productive. Alex Lupsasca: And you know, I already the young people that I meet are spending a lot of time Alex Lupsasca: experimenting with Chat GPT and and figuring out its capabilities. Alex Lupsasca: And I think it's gonna be a boon for everyone. Andrew Mayne: You mentioned part of the idea of the paper was to say, okay, this is where we are now. Andrew Mayne: Let's go look in six months. Andrew Mayne: Let's talk. Andrew Mayne: We're five years since GPT 3. Andrew Mayne: We're five years from now, we're sitting down here. Andrew Mayne: What are we gonna see? Kevin Weil: Oh man. Kevin Weil: The five year question is so hard. Andrew Mayne: I mean it's a great question. Kevin Weil: Here's a crystal ball. Kevin Weil: Yeah, you know, I think I mean the exciting thing about this field in general is from  you look back twelve months and you're completely embarrassed by where you were twelve months ago. Kevin Weil: You know, the idea if if I Kevin Weil: When GPT-3 launched, it was unbelievable. Kevin Weil: Right. Kevin Weil: I mean, it it I'll speak for myself. Kevin Weil: It blew my mind the idea that AI could do any of these things. Kevin Weil: And then Kevin Weil: Somewhere in around like three point GPT 3.5 and 4, the the the Turing test, which we had held up for like what, 75 years as the pinnacle of artificial intelligence research. Kevin Weil: like oh man the world will be different when an AI can pass the Turing test. Kevin Weil: We just went whooshing by and like now we just don't talk about the Turing test anymore. Kevin Weil: and even you look back to the beginning of of this year of 2025 Kevin Weil: And most people were writing code themselves. Kevin Weil: Most engineers were writing all of their own code. Andrew Mayne: And the idea that you're writing it yourself. Kevin Weil: And now fast forward, and you've got like the idea that you would do Kevin Weil: really much of anything without leveraging codecs, claud code, GitHub Copilot, you know, any of these tools. Kevin Weil: They're all incredible. Kevin Weil: Is crazy, right? Kevin Weil: You're so much more productive with it. Kevin Weil: So just in 12 months, and I don't I in 12 months software engineering has fundamentally changed. Kevin Weil: I think over the next 12 months, we're going to see profound changes in the way that science is done, you know, both in the stuff that we can do in silico, in theoretical physics and mathematics, and computer science. Kevin Weil: And I think we're going to begin to see it in the life sciences, in the physical sciences. Kevin Weil: That's over the next twelve months. Kevin Weil: I mean five years? Andrew Mayne: So that yeah, that that's a a question I think about a lot because when it comes to mathematical proof, I can kind of go into Andrew Mayne: a computer and I can test that, I can verify that, or at least test with it with some extent. Andrew Mayne: The same with some sort of equation for physics. Andrew Mayne: But when you get into talking about the life sciences or material sciences and stuff Andrew Mayne: Are we going to have a bottleneck of way more predictions than ways to test them? Kevin Weil: Well, I think one of the valuable Kevin Weil: Th there's so many areas where models can help with life sciences. Kevin Weil: If you take, you know, biology drug discovery, for example, they're Kevin Weil: you have a huge search space. Kevin Weil: And the the more that the models can learn  how to prune that search space Kevin Weil: The more, even if you're going to end up with a bunch of physical real-world experiments to run at the end of the day, if you can intelligently prune the search space, then you can more rapidly converge on the drugs that are likely to work in particular scenarios. Kevin Weil: and and then you can think about the impact, you know, to for  for that to have real world impact, you need to make it all the way through the the the regulatory process. Kevin Weil: that is its own process that AI can help speed up because you end up needing to write these huge papers that that bring together you know tons of different findings and and and so on. Kevin Weil: So the Kevin Weil: You can take each step of the process. Kevin Weil: It can and AI can help upfront as you prune the search space and try and find candidates that are more likely to be to meet your needs and meet the goals that you have. Kevin Weil: And then as you go through the process to getting this thing out to consumers and making a real world impact,  AI can contribute there. Kevin Weil: And we have we have pilots with a number of the companies in the space doing that. Kevin Weil: So it's Kevin Weil: really is fairly broad-based. Andrew Mayne: You started off with an interest in particle physics, you were studying that, and then you found other things, and now you find yourself back in the sciences. Andrew Mayne: Do you think other people are gonna follow that pattern? Kevin Weil: I mean, I it is an absolute privilege for me to to get to come back and work on science. Kevin Weil: And, you know, I am nowhere near the scientist that Kevin Weil:  folks like Alex and other people here at OpenAI are, but I don't know of something you know I think we talk a lot about AGI at OpenAI, artificial general intelligence. Kevin Weil: I think maybe the most profound way that people are going to feel AGI in their lives is through science. Kevin Weil: Yeah, ChatGPT is an incredible tool. Kevin Weil: I use it Kevin Weil: tons of times every single day. Kevin Weil: But AGI inside ChatGPT will be will will be able to do lots of things. Kevin Weil: But when I can have, you know, personalized medicine if Kevin Weil: AI models can contribute to science, you know, finding a way to do scalable fusion more quickly. Kevin Weil: Those kinds of things will change all of our lives. Kevin Weil:  and Kevin Weil: I think these are very real possibilities at the pace that we're going. Kevin Weil: So that's why this is the most exciting thing in the world to me to get to work on. Alex Lupsasca: I don't know what AGI will look like, but sometimes the experience you have of giving ChatGPT a really hard equation you're working on and it just spits out the answer, to me that feels Alex Lupsasca: certainly like something approaching that. Alex Lupsasca: And I I also don't have a crystal ball and also clearly a bad track record of predicting where AI is going given that Alex Lupsasca: At the start of the year, I didn't think I'd be here. Alex Lupsasca: But there's two things that are simultaneously clear to me. Alex Lupsasca: One is Alex Lupsasca: the models are definitely going to keep getting better. Alex Lupsasca: And sometimes my colleagues ask me, oh, are we reaching a plateau? Alex Lupsasca: And that that is actually something I was wondering about too. Alex Lupsasca: And Alex Lupsasca: Then I joined OpenAI and I got to play with some internal models that we have that are even stronger. Alex Lupsasca: And I was like, okay, this is definitely gonna keep getting really, really good. Alex Lupsasca: And then the second thing is I think already with GPT-5 Pro, which is I think our best, or 5. Pro today, our best model that's available on the outside. Alex Lupsasca: I think there's a big gap between what the models can do and what the science community uses them for. Alex Lupsasca: And one of our goals here at OpenAI for science is to start bridging that gap. Alex Lupsasca: because I think the models move so fast that unless you're really paying attention, you may not realize how much has changed in just the last few months. Alex Lupsasca: and so I think these two Alex Lupsasca: facts are true and are going to, you know, over the next year really lead to big changes in in science. Alex Lupsasca: The models just keep getting better and people are starting to catch on. Alex Lupsasca: And that's why we're seeing Alex Lupsasca: all this chatter on Twitter and social media, and that's only going to accelerate. Alex Lupsasca: So where that takes us, I don't know, but I'm excited to find out. Andrew Mayne: I think you've both made a very good point in that is that Andrew Mayne: These models improve at such a rapid pace that sometimes people have a very firm idea of what they are because they tried something six months ago. Kevin Weil: Yeah. Andrew Mayne: And I've encountered people who I really respect and the scientists are like, oh, I tried it. Andrew Mayne: And I'm like, I tried it 18 months ago. Kevin Weil: Yeah. Andrew Mayne: And they're not used to a tool evolving that quickly. Kevin Weil: Yeah. Kevin Weil: Or they're using the free version because you know, of course, that's how everyone starts. Kevin Weil: and the free version doesn't think for as long, and so it can't solve problems that are as challenging. Kevin Weil: yeah, I think that's really real. Kevin Weil: It's one of the reasons that I think the best advice is to just like keep trying the problems. Kevin Weil: Even if you're working on problems and Kevin Weil: As you try them on GPT-5, it like isn't super helpful. Kevin Weil: I wouldn't give up. Kevin Weil: I would keep trying it every few months. Kevin Weil: And I think at some point, you know, it's gonna start being valuable if it's not already there today. Kevin Weil: We talked about sort of thinking time. Kevin Weil: Yeah, that's another area that we're really i excited to see that with GPT-5 Pro. Kevin Weil: You can get the model. Kevin Weil: I've seen it think for what, maybe 40 minutes on some of the hardest problems. Kevin Weil: But you know, it has a it has a certain amount of of sort of compute allowance because we have to serve it to Kevin Weil: Many, many, many people. Kevin Weil:  forty minutes is certainly not a limit on thinking. Kevin Weil: Like the models can think for two hours, six hours, twelve hours, twenty-four hours. Kevin Weil: And one thing we continue to see is that pass rate on hard problems continues to improve as you give the models more time to think. Kevin Weil: Which is like, you know, it's surprising actually the number of times there's a totally reasonable human Kevin Weil: like intuitive human analogy to these things. Kevin Weil: There are a lot of problems that I can't solve in 20 minutes, but that I might be able to solve if you gave me two hours. Andrew Mayne: System one and system two thinking. Kevin Weil: Yeah, and some that I can't solve in two hours, but if I had a day to really think about it and try different things, I might get there. Kevin Weil: And the models are the same way. Kevin Weil: So being able to give a much small, you know, there aren't as many scientists in the world as there are users of ChatGPT, if we could find ways to give Kevin Weil: scientists that really know how to use the models well, just a huge amount of compute. Kevin Weil: I think that is yet another way that we can accelerate science. Andrew Mayne: Yeah, it's a it's a very good point because Andrew Mayne: You'll hear people talk about we hit a wall or whatever. Andrew Mayne: And one of the things that was really  an amazing discovery, which you know, a year ago we found out about the whole the reasoning paradigm and the fact that Andrew Mayne: You can just take the model of today and let it think longer and we think about, you know, people go, what would we do with all this compute we're building, all these this hyperscaling? Andrew Mayne: It's like Andrew Mayne: Even using today's models and letting them think for a long time, we could probably have some amazing discoveries. Kevin Weil: Yeah, a hundred percent. Kevin Weil: I I think if Kevin Weil: If model progress stopped today, just the process of of driving awareness within the scientific community and giving people more of the best that the models can deliver, I think we would see Kevin Weil:  a large amount of scientific acceleration, but of course progress is not going to stop, as Alex was saying. Kevin Weil: And so it when you think about the models being able to think for a longer time Kevin Weil: being able to train them to do harder and harder scientific tasks. Kevin Weil: And actually also just, you know, getting out in the scientific community and helping people see what the frontier really is and how they can use the models better to do the work that they're doing. Kevin Weil: I just like I'm excited to see where this goes over the course of the next six months, twelve months, twenty-four months. Alex Lupsasca: Yeah, I think this is a really unique time in history. Alex Lupsasca: It feels like a special moment. Alex Lupsasca: And to be clear, we're not telling people drop whatever you're doing and come do AI. Alex Lupsasca: That's not the message. Alex Lupsasca: I think what we want to say is Alex Lupsasca: Keep doing what you're doing, but also there's this great new collaborator, this new tool you get to use that's gonna make it even more fun and it's gonna bring new life into a lot of different fields. Andrew Mayne: One of the challenges right now with benchmarks is that models when we talk about terms like saturation, it seems like models have done that. Andrew Mayne: don't seem that impressive anymore. Andrew Mayne: Now it looks like we're moving to the scientific frontier. Andrew Mayne: What do scientific benchmarks look like? Kevin Weil: Yeah. Kevin Weil: Like with many things, there's sort of an intuitive  Kevin Weil:  way to understand this is the models get smarter, benchmarks are just a way of of testing the model in some sense. Kevin Weil: And as the models get smarter, you need to give them harder and harder tests because they learn how to ace the the earlier tests. Kevin Weil: So if you take GPQA, which  stands for Google Proof QA, it's a it's a scientific benchmark that asks basically PhD level questions across a range of scientific fields. Kevin Weil: We thought for a long time that was a very hard benchmark to beat. Kevin Weil: I think it came out in 2023 and GPT-4 originally was like at 39% on this benchmark. Kevin Weil: Humans, by the way, are at about 70%. Kevin Weil: But now you fast forward two years and our latest models are nearly at 90%. Andrew Mayne: Wow. Kevin Weil: So they're surpassing the capability of most humans in their field of scientific study. Kevin Weil: across every field at once, which is kind of amazing when you think about it. Kevin Weil: But that isn't, you know, those aren't the hardest questions in the world. Kevin Weil: And that's one of the reasons that we're focused on Kevin Weil:  new evaluations that ask frontier science and mathematics questions. Kevin Weil: It's also, you know, we released something called GDP Val recently, which is an eval that tests the model's ability to do economically valuable tasks. Kevin Weil: So the the smarter the models get, the harder the tests that we want to keep giving them. Kevin Weil: Because, you know, every gap that we see, every place where the model can't answer a certain question. Kevin Weil: That's feedback for us and gives us a way to improve the model further. Andrew Mayne: Curing disease, great. Andrew Mayne: What area though beyond that would you really like to see? Andrew Mayne: And it could be crazy or weird or odd you'd like to see scientific acceleration. Kevin Weil: You want to go first? Alex Lupsasca: Well, I'm very selfish. Alex Lupsasca: So I have my own interest. Alex Lupsasca: Um I really like black holes. Alex Lupsasca: That's my passion. Andrew Mayne: You want to build a black hole. Alex Lupsasca:  I think there's a lot of potential for how AI can accelerate black hole research. Alex Lupsasca: And of course I want to see it help with cancer and drug discovery and all these good things, but my first priority is yeah, I want I want to see more AI helping with black holes. Alex Lupsasca: so Alex Lupsasca: You know, there's a lot of ideas on the table and so much potential. Alex Lupsasca: One thing is um there are a lot of theoretical questions that are very thorny. Alex Lupsasca: And I think if Alex Lupsasca:  you just sat down and you could understand everything that is known and you could integrate it, integrate that knowledge. Alex Lupsasca: I think a lot of things would fall out of that. Alex Lupsasca: and that's one of the things that we're exploring. Alex Lupsasca: You know, dark matter, for instance, is something that we've been talking about because there's a lot of data on dark matter from various experiments. Alex Lupsasca: But we still have no idea really what it is. Alex Lupsasca: There's a bunch of theories out there. Alex Lupsasca: I think a really interesting idea is could it be that by Alex Lupsasca: Feeding ChatGPT all the experimental data that is known about dark matter and all the theories, it could rule some of them out already by combining bits of knowledge that are just so disparate that it's hard for our human minds to hold them together. Alex Lupsasca: I think that's kind of an exciting frontier. Alex Lupsasca: And then I think also since we were talking about the far future, experimental Alex Lupsasca: Work is totally not out of the question. Alex Lupsasca: Right now we're focused on more theoretical fields because they can be done in silico. Alex Lupsasca: But you could totally imagine using AI Alex Lupsasca: to design better experiments and maybe run very hard, complicated experiments, including maybe for black hole physics and other fields. Alex Lupsasca: I think there's a lot of Alex Lupsasca: ground to explore here and very exciting possibilities. Kevin Weil: Yeah and I'll say fusion. Kevin Weil: just because the i if we can actually we have again small scale  or I mean large scale but small small  existence proofs of it. Kevin Weil: So clearly it can work and the the challenge now is to do it like  at at bigger scale, more reliably. Kevin Weil: Clearly it's possible. Kevin Weil: We will figure this out, but if we can accelerate it, then you know the world the world with fusion is a significantly better place than the world without. Kevin Weil: We solve a lot of problems if we if we solve fusion. Kevin Weil: And , you know, I'm excited to see if maybe we can contribute in some way. Andrew Mayne: I think it's easily overlooked by people how much Andrew Mayne: We're dependent upon energy and if we had the same orders of magnitude improvement on energy productive production that we had in the last 200 years, what that unlocks. Andrew Mayne: And you think about, you know, things that are energy intensive like desalinization, you know, or construction and other things. Andrew Mayne: And when you have really, really, really unbound energy. Kevin Weil: Yeah. Kevin Weil: It's incredible. Kevin Weil: I mean some groups might need to like might be looking to build lots of infrastructure for lots of GPUs, for example. Kevin Weil: Yeah. Kevin Weil: Yeah. Alex Lupsasca: Who knows who who might want to do that? Andrew Mayne: But even yeah, even beyond that, I think that we're gonna probably see from that the infrastructure build-out a lot more energy devoted to energy. Andrew Mayne: And much like mobile phones and laptops made electric cars a lot more efficient because of all this money being thrown into battery technology, I think we'll probably see that offshoot. Kevin Weil: Yeah. Kevin Weil: And I think anytime you change something by an order of magnitude, the world changes. Kevin Weil: I think the the what we've seen over the past year with the way that software engineering has changed, you now don't need to be trained as a software engineer to write, you know, meaningful amounts of of code. Kevin Weil: That means you can bring, you know, there are like what 30 million software engineers in the world. Kevin Weil: I think now 300 million, maybe 3 billion people can can write software. Kevin Weil: And that's gonna fundamentally change things. Kevin Weil: If we can move, you know, if we can make energy ten times more prevalent, ten times cheaper. Kevin Weil: It will change the world and I think it's a really high potential place for us to apply the intelligence of our models. Alex Lupsasca: If I can add something Alex Lupsasca: We have ideas that we're excited about in terms of the potential of AI to change science, but this is very much not supposed to be a top-down effort where we dictate what AI is gonna do in the world. Alex Lupsasca: We're actually very excited about building the best general purpose AI. Alex Lupsasca: And if we release that into the world, then everybody will take it and use it for their own purposes. Alex Lupsasca: And you know, for me, I'm a black hole physicist, I want to use AI to further black hole science. Alex Lupsasca: But you know, for a scientist in another field, I think it's natural to use it for that. Alex Lupsasca: And the nature of research is such that it's very hard to know where the next breakthrough is going to come from, really. Alex Lupsasca: And so I think our our vision is to push this out into the world. Alex Lupsasca: we can see I think we could see a lot more adoption than we have today. Alex Lupsasca: And once that happens, Alex Lupsasca: Who knows who knows where the next biggest discovery will come, but that's how we give us the the give ourselves the best chance to accelerate scientific discovery. Kevin Weil: Yeah, it's such an important point. Kevin Weil: The the the frontier or the the the the surface area of science is massive. Kevin Weil: And this is not about what we can do within OpenAI individually to to accelerate science or to accelerate specific scientific projects. Kevin Weil: It's about giving Kevin Weil: scientists all around the world, AI, so that they can accelerate their work. Kevin Weil: That's how we move science forward faster. Kevin Weil: So, you know, there there are pieces I think that we will try and do because it'll help us learn. Kevin Weil: But the vast majority, like what we really want is to see a hundred scientists win Nobel Prizes using AI. Andrew Mayne: Yeah, it feels like it's not the end of science, it's really the start. Kevin Weil: Exactly. Alex Lupsasca: Exactly. Kevin Weil: Certainly it's a it's sort of a there's a science 2.0 moment happening, I think.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.44,
+      "text": "Andrew Mayne: Hello, I'm Andrew Mayne and this is the OpenAI Podcast."
+    },
+    {
+      "start": 3.6,
+      "end": 14.56,
+      "text": "Andrew Mayne: Today my guests are Kevin Weil, head of OpenAI for Science, and Alex Lupsasca, who is an OpenAI research scientist and professor of physics at Vanderbilt University."
+    },
+    {
+      "start": 14.6,
+      "end": 22.44,
+      "text": "Andrew Mayne: We're going to be discussing how AI is impacting science, an upcoming research paper, and where science might be headed in the next five years."
+    },
+    {
+      "start": 22.92,
+      "end": 28.84,
+      "text": "Kevin Weil: Maybe the most profound way that people are going to feel AGI in their lives is through science."
+    },
+    {
+      "start": 29.08,
+      "end": 30.68,
+      "text": "Alex Lupsasca: With ChatGPT I can just"
+    },
+    {
+      "start": 30.76,
+      "end": 33.0,
+      "text": "Alex Lupsasca: Launch it in that direction, in that direction, that direction."
+    },
+    {
+      "start": 33.16,
+      "end": 38.52,
+      "text": "Kevin Weil: The acceleration that is going to come from these tools is going to change science."
+    },
+    {
+      "start": 40.94,
+      "end": 43.5,
+      "text": "Andrew Mayne: So you're running the Open AI for Science Initiative."
+    },
+    {
+      "start": 43.66,
+      "end": 44.62,
+      "text": "Andrew Mayne: Could you explain what that's about?"
+    },
+    {
+      "start": 44.86,
+      "end": 48.06,
+      "text": "Kevin Weil: Yeah, the the mission of Open AI for science is to accelerate science."
+    },
+    {
+      "start": 48.14,
+      "end": 49.74,
+      "text": "Kevin Weil: So the the question is, can we"
+    },
+    {
+      "start": 49.86,
+      "end": 57.06,
+      "text": "Kevin Weil: Help scientists do the next, say, 25 years of scientific research and scientific discovery in five years instead."
+    },
+    {
+      "start": 57.3,
+      "end": 62.82,
+      "text": "Kevin Weil: Science underpins so much of what we do and how we live."
+    },
+    {
+      "start": 63.24,
+      "end": 71.24,
+      "text": "Kevin Weil: And if we can make progress go faster by putting our most advanced models into the hands of the best scientists in the world, we should do that."
+    },
+    {
+      "start": 71.46,
+      "end": 72.74,
+      "text": "Kevin Weil: And that's what we're trying to do."
+    },
+    {
+      "start": 73.22,
+      "end": 74.74,
+      "text": "Kevin Weil: You could ask like why now?"
+    },
+    {
+      "start": 74.82,
+      "end": 76.02,
+      "text": "Kevin Weil: Why didn't we do this a year ago?"
+    },
+    {
+      "start": 76.1,
+      "end": 77.62,
+      "text": "Kevin Weil: Why aren't we doing this a year from now?"
+    },
+    {
+      "start": 77.86,
+      "end": 80.66,
+      "text": "Kevin Weil: One of the big reasons is we're just starting to see"
+    },
+    {
+      "start": 80.86,
+      "end": 84.46,
+      "text": "Kevin Weil: our frontier AI models being able to do novel science."
+    },
+    {
+      "start": 84.7,
+      "end": 90.14,
+      "text": "Kevin Weil: So we're starting to see examples where GPT-5 can actually prove new things."
+    },
+    {
+      "start": 90.34,
+      "end": 95.38,
+      "text": "Kevin Weil: Maybe not yet things that humans could not do, but things that humans have not done."
+    },
+    {
+      "start": 95.46,
+      "end": 104.42,
+      "text": "Kevin Weil: So there these are like these little existence proofs of GPT-5 being able to break out past the frontier of human knowledge and into the unknown."
+    },
+    {
+      "start": 104.26,
+      "end": 112.42,
+      "text": "Kevin Weil: And if there's one thing that I've learned from now, you know, a year and a half or so at OpenAI, it's that you go very quickly from"
+    },
+    {
+      "start": 112.94,
+      "end": 120.7,
+      "text": "Kevin Weil: the model can't do something, to the model can just barely do something, and it's not great at it yet, but you see these these these early examples."
+    },
+    {
+      "start": 121.04,
+      "end": 126.48,
+      "text": "Kevin Weil: And then, you know, six months later, twelve months later, all of a sudden you couldn't imagine doing this thing without AI."
+    },
+    {
+      "start": 126.64,
+      "end": 132.48,
+      "text": "Kevin Weil: And I think science is in that initial phase where we're seeing real acceleration for scientists that are using AI."
+    },
+    {
+      "start": 132.64,
+      "end": 133.76,
+      "text": "Kevin Weil: Sometimes novel"
+    },
+    {
+      "start": 134.04,
+      "end": 137.8,
+      "text": "Kevin Weil: you know not yet maybe large breakthroughs, call them small breakthroughs."
+    },
+    {
+      "start": 137.88,
+      "end": 140.6,
+      "text": "Kevin Weil: And that just says that there's so much potential in this space."
+    },
+    {
+      "start": 140.92,
+      "end": 145.08,
+      "text": "Andrew Mayne: We've seen examples of let's say AI helping with mathematical proofs."
+    },
+    {
+      "start": 145.28,
+      "end": 151.12,
+      "text": "Andrew Mayne: Could you give me an example of how it might do things in some other areas like physics or whatever kind of things we might see in the short term?"
+    },
+    {
+      "start": 151.44,
+      "end": 154.64,
+      "text": "Kevin Weil: Yeah, I mean we're seeing examples every day and they're across"
+    },
+    {
+      "start": 155.32,
+      "end": 158.52,
+      "text": "Kevin Weil: the the range of of sort of the scientific frontier."
+    },
+    {
+      "start": 158.6,
+      "end": 163.08,
+      "text": "Kevin Weil: You see examples in mathematics, in physics, astronomy"
+    },
+    {
+      "start": 163.44,
+      "end": 165.44,
+      "text": "Kevin Weil: life sciences, like biology."
+    },
+    {
+      "start": 165.6,
+      "end": 168.96,
+      "text": "Kevin Weil:  Alex, I mean, you've you've worked on some of these."
+    },
+    {
+      "start": 169.04,
+      "end": 172.16,
+      "text": "Kevin Weil: Maybe maybe it's a good time to talk about some of the physics stuff that you've seen."
+    },
+    {
+      "start": 172.18,
+      "end": 180.1,
+      "text": "Alex Lupsasca: Yeah, I think coming back to  Kevin's point about how this is a special time, that's very much how I feel as well, because I started the year."
+    },
+    {
+      "start": 180.24,
+      "end": 184.64,
+      "text": "Alex Lupsasca: 2025 thinking, yeah, ChatGPT is cool."
+    },
+    {
+      "start": 184.8,
+      "end": 188.4,
+      "text": "Alex Lupsasca: Like everybody, I used it when it came out and I thought it's a great chat bot, but"
+    },
+    {
+      "start": 188.82,
+      "end": 193.7,
+      "text": "Alex Lupsasca: I was sure it would take a very long time before it would become really relevant for my own work."
+    },
+    {
+      "start": 193.78,
+      "end": 196.74,
+      "text": "Alex Lupsasca: So I started the year I would say as an AI skeptic"
+    },
+    {
+      "start": 197.04,
+      "end": 200.16,
+      "text": "Alex Lupsasca: because I like to see evidence before I'm convinced of something."
+    },
+    {
+      "start": 200.24,
+      "end": 203.12,
+      "text": "Alex Lupsasca: And I saw people using it to help in their writing."
+    },
+    {
+      "start": 203.2,
+      "end": 204.8,
+      "text": "Alex Lupsasca: And it I started to use it for that as well."
+    },
+    {
+      "start": 204.96,
+      "end": 207.12,
+      "text": "Alex Lupsasca: It's very useful for proofreading, but I thought"
+    },
+    {
+      "start": 207.16,
+      "end": 211.96,
+      "text": "Alex Lupsasca: Oh, it's gonna be a while before it gets to do the special stuff that I'm really a specialist at."
+    },
+    {
+      "start": 212.2,
+      "end": 213.24,
+      "text": "Alex Lupsasca: You're like black holes, right?"
+    },
+    {
+      "start": 213.4,
+      "end": 215.24,
+      "text": "Alex Lupsasca: Like black hole physics, exactly."
+    },
+    {
+      "start": 215.06,
+      "end": 227.46,
+      "text": "Alex Lupsasca: And I had this experience early this year where I was trying to find this magnetic field solution that describes what happens around a pulsar, which is a rotating star with very powerful magnetic fields."
+    },
+    {
+      "start": 227.3,
+      "end": 229.3,
+      "text": "Alex Lupsasca: And I was going for this very particular solution."
+    },
+    {
+      "start": 229.46,
+      "end": 231.14,
+      "text": "Alex Lupsasca: I had to solve a partial differential equation."
+    },
+    {
+      "start": 231.3,
+      "end": 237.38,
+      "text": "Alex Lupsasca: I was able to identify that solution as an infinite sum over products of special functions called"
+    },
+    {
+      "start": 237.58,
+      "end": 238.78,
+      "text": "Alex Lupsasca: Le genre polynomials."
+    },
+    {
+      "start": 239.02,
+      "end": 245.5,
+      "text": "Alex Lupsasca: And if you won't go to physics grad school, this is the kind of thing that you spent a lot of time getting familiar with."
+    },
+    {
+      "start": 245.74,
+      "end": 248.06,
+      "text": "Alex Lupsasca: And I also like these puzzles."
+    },
+    {
+      "start": 248.16,
+      "end": 253.36,
+      "text": "Alex Lupsasca: And I was playing around with the sum and I felt like there should be a simple formula that it evaluates to."
+    },
+    {
+      "start": 253.68,
+      "end": 259.52,
+      "text": "Alex Lupsasca: And I thought, okay, I have this friend who has ChatGPT o3 Pro, which I didn't have access to at the time."
+    },
+    {
+      "start": 259.6,
+      "end": 262.8,
+      "text": "Alex Lupsasca: And I thought, okay, I'm just gonna send it to him and see what comes out of it."
+    },
+    {
+      "start": 263.42,
+      "end": 265.66,
+      "text": "Alex Lupsasca: And he sends me back this output."
+    },
+    {
+      "start": 265.82,
+      "end": 271.98,
+      "text": "Alex Lupsasca: It thought for 11 minutes, which at the time I had never seen it do because I was using the free version, which doesn't think for as long."
+    },
+    {
+      "start": 272.14,
+      "end": 277.34,
+      "text": "Alex Lupsasca: And it gave this beautiful answer where it was able to understand what the sum was."
+    },
+    {
+      "start": 277.8,
+      "end": 281.48,
+      "text": "Alex Lupsasca: and break it down into pieces that it could tackle."
+    },
+    {
+      "start": 281.64,
+      "end": 289.96,
+      "text": "Alex Lupsasca: And then it had to go and find the special identity that was published in one paper from the 1950s in a Norwegian Journal of Mathematics."
+    },
+    {
+      "start": 290.06,
+      "end": 297.98,
+      "text": "Alex Lupsasca: And so it understood what the problem was and it knew about this random identity that was just the thing for the job and it used them."
+    },
+    {
+      "start": 298.04,
+      "end": 299.56,
+      "text": "Alex Lupsasca: And it gave this beautiful output."
+    },
+    {
+      "start": 299.64,
+      "end": 302.68,
+      "text": "Alex Lupsasca: And at the end, the answer was wrong because it made the silly typo."
+    },
+    {
+      "start": 302.76,
+      "end": 308.36,
+      "text": "Alex Lupsasca: It added an extra factor in front for it's almost kind of like a human making a silly typo at the end."
+    },
+    {
+      "start": 308.2,
+      "end": 314.84,
+      "text": "Alex Lupsasca: But it was very easy to check the derivation and I went through it and I realized, okay, there's this extra factor, but aside from that, it it did the work."
+    },
+    {
+      "start": 315.0,
+      "end": 318.36,
+      "text": "Alex Lupsasca: And that really sent me reeling because I thought, okay."
+    },
+    {
+      "start": 318.88,
+      "end": 321.6,
+      "text": "Alex Lupsasca: I would say that's a uniquely human ability."
+    },
+    {
+      "start": 321.68,
+      "end": 325.2,
+      "text": "Alex Lupsasca: I thought that's something that makes theoretical physicists special."
+    },
+    {
+      "start": 325.36,
+      "end": 330.56,
+      "text": "Alex Lupsasca: you know, now in 2025, clearly they're capable of doing things that I would consider amazing."
+    },
+    {
+      "start": 330.8,
+      "end": 330.88,
+      "text": "Kevin Weil: Yeah."
+    },
+    {
+      "start": 330.96,
+      "end": 333.2,
+      "text": "Kevin Weil: I think one of the cool things, so you've got examples like"
+    },
+    {
+      "start": 333.44,
+      "end": 341.2,
+      "text": "Kevin Weil: Alex's where it was probably not something that he like he could have done it himself over you know eventually, but GPT was able to do it faster."
+    },
+    {
+      "start": 341.28,
+      "end": 343.12,
+      "text": "Kevin Weil: That's acceleration on its own."
+    },
+    {
+      "start": 343.16,
+      "end": 351.56,
+      "text": "Kevin Weil: And there's something qualitative about that even as well, because if you can explore, instead of exploring two paths over the course of a week,"
+    },
+    {
+      "start": 351.34,
+      "end": 358.14,
+      "text": "Kevin Weil: If you can explore 10 paths in parallel in, you know, an hour, all of a sudden there's a lot more ideas that you can try."
+    },
+    {
+      "start": 358.22,
+      "end": 359.9,
+      "text": "Kevin Weil: And that's also acceleration."
+    },
+    {
+      "start": 360.06,
+      "end": 371.26,
+      "text": "Kevin Weil: We also see examples in like literature search, which you don't think of as maybe like deep scientific innovation, but it's really important to be able to understand, you know, has somebody worked on this problem before?"
+    },
+    {
+      "start": 371.34,
+      "end": 374.54,
+      "text": "Kevin Weil: And if so, is there something I can learn to speed up my own work?"
+    },
+    {
+      "start": 374.74,
+      "end": 387.54,
+      "text": "Kevin Weil: So, and we've seen interesting examples where there was one, I might get the details of this wrong, but we were talking to this researcher, and  he was saying he was exploring this particular idea in like high-dimensional optimization."
+    },
+    {
+      "start": 387.6,
+      "end": 392.48,
+      "text": "Kevin Weil: And he was like, man, you know, this thing I'm working on, it's interesting, but somebody must have worked on this before."
+    },
+    {
+      "start": 392.56,
+      "end": 394.32,
+      "text": "Kevin Weil: I can't be the first person to have had this idea."
+    },
+    {
+      "start": 394.4,
+      "end": 395.2,
+      "text": "Kevin Weil: I just can't."
+    },
+    {
+      "start": 395.36,
+      "end": 397.36,
+      "text": "Kevin Weil: But I can't find any examples."
+    },
+    {
+      "start": 397.66,
+      "end": 403.1,
+      "text": "Kevin Weil: And then he had given it, he'd sort of given a description of what he was working on to GPT-5."
+    },
+    {
+      "start": 403.98,
+      "end": 411.66,
+      "text": "Kevin Weil: And GPT-5 found an example from, I think it was like economics or something, a completely different field that"
+    },
+    {
+      "start": 411.84,
+      "end": 415.44,
+      "text": "Kevin Weil: used completely different terminology, so no keyword lookup would have ever worked."
+    },
+    {
+      "start": 415.6,
+      "end": 419.6,
+      "text": "Kevin Weil: GPT-5 did sort of a con a conceptual level literature search."
+    },
+    {
+      "start": 419.76,
+      "end": 420.0,
+      "text": "Alex Lupsasca: Yeah."
+    },
+    {
+      "start": 420.16,
+      "end": 423.36,
+      "text": "Kevin Weil: Found somebody's PhD thesis in German."
+    },
+    {
+      "start": 423.84,
+      "end": 435.28,
+      "text": "Kevin Weil: So also a completely different language, you know, it was like basically lost to time, but this person had done really interesting, sort of related work that helped him in his research."
+    },
+    {
+      "start": 435.64,
+      "end": 437.48,
+      "text": "Kevin Weil: And so, you know, that's another area."
+    },
+    {
+      "start": 437.72,
+      "end": 446.52,
+      "text": "Kevin Weil: So you can talk about  the acceleration that comes from just like novel proofs and GPT-5 being able to do something on its own or guided by an expert."
+    },
+    {
+      "start": 446.66,
+      "end": 453.38,
+      "text": "Kevin Weil: But there's also these examples of acceleration in calculations and literature search and and all of them contribute to accelerating science."
+    },
+    {
+      "start": 453.7,
+      "end": 455.7,
+      "text": "Alex Lupsasca: Yeah, and the the exact same thing happened to me."
+    },
+    {
+      "start": 455.86,
+      "end": 456.42,
+      "text": "Alex Lupsasca: I was"
+    },
+    {
+      "start": 456.54,
+      "end": 465.58,
+      "text": "Alex Lupsasca: trying to derive this property of black holes, and I got this equation that described this phenomenon I was after, and it had a three derivative term, which is pretty unusual."
+    },
+    {
+      "start": 465.74,
+      "end": 470.38,
+      "text": "Alex Lupsasca: And I looked at it and I recognized it's something called the Schwarzen derivative, which is a special thing that appears in math."
+    },
+    {
+      "start": 470.46,
+      "end": 471.1,
+      "text": "Alex Lupsasca: And I thought, hmm."
+    },
+    {
+      "start": 471.36,
+      "end": 473.36,
+      "text": "Alex Lupsasca: Wow, this is really strange that this would show up."
+    },
+    {
+      "start": 473.52,
+      "end": 478.8,
+      "text": "Alex Lupsasca: And I just copy pasted the equation into ChatGPT and said, do you have you seen this before?"
+    },
+    {
+      "start": 478.8,
+      "end": 480.88,
+      "text": "Alex Lupsasca: And it said, oh yes, this is the conformal bridge equation."
+    },
+    {
+      "start": 481.28,
+      "end": 483.28,
+      "text": "Alex Lupsasca: I had no idea what a conformal bridge was at the time."
+    },
+    {
+      "start": 483.44,
+      "end": 485.28,
+      "text": "Alex Lupsasca: And it said, oh, just look up this paper."
+    },
+    {
+      "start": 485.36,
+      "end": 488.72,
+      "text": "Alex Lupsasca: And that was amazing because it turns out that this equation that showed up"
+    },
+    {
+      "start": 488.86,
+      "end": 496.54,
+      "text": "Alex Lupsasca: in my work, had already been studied in some other works, and I've heard from a lot of colleagues doing research in physics that there's a lot of that going on."
+    },
+    {
+      "start": 496.96,
+      "end": 504.8,
+      "text": "Alex Lupsasca: And at the forefront of knowledge, everything becomes so niche that it's very hard to know the latest details in neighboring fields."
+    },
+    {
+      "start": 504.96,
+      "end": 506.56,
+      "text": "Alex Lupsasca: And GPT is an amazing help with that."
+    },
+    {
+      "start": 506.72,
+      "end": 509.28,
+      "text": "Kevin Weil: Yeah, that's another thing that we've heard from  professors."
+    },
+    {
+      "start": 509.58,
+      "end": 514.3,
+      "text": "Kevin Weil: and researchers that we've talked to is there's so much you have to be so specialized today."
+    },
+    {
+      "start": 514.54,
+      "end": 519.5,
+      "text": "Kevin Weil: And so sometimes it gets hard to explore an area outside of your main area."
+    },
+    {
+      "start": 519.82,
+      "end": 521.66,
+      "text": "Kevin Weil: There's one particular"
+    },
+    {
+      "start": 522.42,
+      "end": 530.02,
+      "text": "Kevin Weil: Mathematician we were talking to said, you know, one of my last papers, I knew there was an area that I I wanted to go follow it off in this direction."
+    },
+    {
+      "start": 530.32,
+      "end": 538.72,
+      "text": "Kevin Weil: But it wasn't my specialty and it would have taken me a long time and I just kind of ended up feeling like, you know, maybe that's not the most efficient place for me to spend my time."
+    },
+    {
+      "start": 539.48,
+      "end": 550.52,
+      "text": "Kevin Weil: Now with GPT-5, I'm gonna go back and explore that because I've got a coworker effectively, a collaborator who has read just about every scientific paper that's out there and is"
+    },
+    {
+      "start": 550.84,
+      "end": 554.76,
+      "text": "Kevin Weil: is a you know a pretty meaningful expert on just about any topic you want."
+    },
+    {
+      "start": 554.92,
+      "end": 561.32,
+      "text": "Kevin Weil: And I think I'm going to be able to go explore these adjacencies in a far better way with ChatGPT than I could have on my own"
+    },
+    {
+      "start": 561.34,
+      "end": 563.66,
+      "text": "Kevin Weil: And so that's also a fascinating new take, right?"
+    },
+    {
+      "start": 563.74,
+      "end": 569.26,
+      "text": "Kevin Weil: It helps every it it can help you go deeper, like you were saying, and it can also help you go more broad."
+    },
+    {
+      "start": 569.16,
+      "end": 578.28,
+      "text": "Andrew Mayne: Literature search is pretty interesting because like one of my weird hobbies is I like to go back and look at when was some early scientific discovery made that didn't get utilized till much later on."
+    },
+    {
+      "start": 578.48,
+      "end": 585.2,
+      "text": "Andrew Mayne: Yeah, famous one was carbon filaments, you know, when Thomas Edison spent all that effort to try to find it, and it'd been published in like 20 years before."
+    },
+    {
+      "start": 585.28,
+      "end": 588.88,
+      "text": "Andrew Mayne: Of course, you know, Dewey Decimal System was invented that year, so you can't blame him."
+    },
+    {
+      "start": 589.14,
+      "end": 592.66,
+      "text": "Andrew Mayne:  other things like  silicon assistant semiconductor."
+    },
+    {
+      "start": 592.74,
+      "end": 596.18,
+      "text": "Andrew Mayne: You know, if somebody would reading the literature, we might have had that five to ten years earlier."
+    },
+    {
+      "start": 596.42,
+      "end": 601.38,
+      "text": "Andrew Mayne: Ability to replicate DNA, that had been published like 10 or 12 years earlier before somebody figured that out."
+    },
+    {
+      "start": 601.46,
+      "end": 601.86,
+      "text": "Andrew Mayne: And then"
+    },
+    {
+      "start": 602.06,
+      "end": 607.66,
+      "text": "Andrew Mayne: The shotgun technique we use for DNA, you know, understanding, you know, figuring out like the DNA sequencing."
+    },
+    {
+      "start": 607.82,
+      "end": 611.98,
+      "text": "Andrew Mayne: That was first published in like 1982, but at that time there weren't supercomputers that could run it."
+    },
+    {
+      "start": 611.9,
+      "end": 612.06,
+      "text": "Kevin Weil: Right."
+    },
+    {
+      "start": 612.3,
+      "end": 618.46,
+      "text": "Andrew Mayne: And that's exciting just to think of just having a really good tool that can search through all this stuff and pull up these answers you have."
+    },
+    {
+      "start": 618.7,
+      "end": 618.86,
+      "text": "Kevin Weil: Yeah."
+    },
+    {
+      "start": 619.02,
+      "end": 626.22,
+      "text": "Kevin Weil: And I think especially some of the most interesting research now happens at the at the intersections of of two fields."
+    },
+    {
+      "start": 626.32,
+      "end": 633.04,
+      "text": "Kevin Weil: And i again, it's it's hard for one person to be an expert in two fields, let alone three or four or five."
+    },
+    {
+      "start": 633.28,
+      "end": 635.6,
+      "text": "Kevin Weil: And sometimes it's tough for humans to collaborate."
+    },
+    {
+      "start": 635.68,
+      "end": 639.28,
+      "text": "Kevin Weil: You don't necessarily find the right person, the person doesn't have infinite patience."
+    },
+    {
+      "start": 639.6,
+      "end": 639.92,
+      "text": "Kevin Weil: And"
+    },
+    {
+      "start": 640.7,
+      "end": 648.14,
+      "text": "Kevin Weil: Here with GPT, you have now the option to have a collaborator that will work 24-7, has infinite patience."
+    },
+    {
+      "start": 648.26,
+      "end": 653.62,
+      "text": "Kevin Weil: you know, has read substantially every scientific paper written in the last however many years."
+    },
+    {
+      "start": 653.86,
+      "end": 660.42,
+      "text": "Kevin Weil: And so it's just it's it's a new kind of collaboration that is its own form of acceleration"
+    },
+    {
+      "start": 660.38,
+      "end": 665.74,
+      "text": "Andrew Mayne: You think about like Claude Shannon's wife was a mathematician and how much that to help what he was able to do."
+    },
+    {
+      "start": 665.9,
+      "end": 669.5,
+      "text": "Andrew Mayne: And I think we forget how much collaboration really is a factor of that."
+    },
+    {
+      "start": 669.82,
+      "end": 674.78,
+      "text": "Andrew Mayne: But I would say some people hearing this might go, yeah, but  it couldn't spell strawberry last year."
+    },
+    {
+      "start": 674.94,
+      "end": 675.02,
+      "text": "Andrew Mayne: Yeah."
+    },
+    {
+      "start": 675.18,
+      "end": 676.06,
+      "text": "Andrew Mayne: It couldn't do math."
+    },
+    {
+      "start": 676.14,
+      "end": 678.78,
+      "text": "Andrew Mayne: So why are we gonna have it do, you know, science?"
+    },
+    {
+      "start": 678.94,
+      "end": 679.26,
+      "text": "Kevin Weil: Yeah."
+    },
+    {
+      "start": 679.66,
+      "end": 687.02,
+      "text": "Kevin Weil: So actually  I don't even know if I've told you this, my own sort of origin story with appreciating   what"
+    },
+    {
+      "start": 687.44,
+      "end": 694.08,
+      "text": "Kevin Weil: GPT-5 could do, or in this case it was, I think, oh this was almost a year ago, so it was oh one preview maybe."
+    },
+    {
+      "start": 694.72,
+      "end": 701.84,
+      "text": "Kevin Weil: Um but I was meeting with this this guy named Brian Spears, who's a physicist at Lawrence Livermore."
+    },
+    {
+      "start": 701.92,
+      "end": 704.64,
+      "text": "Kevin Weil: Um, it was in DC and we'd never met before."
+    },
+    {
+      "start": 704.72,
+      "end": 706.72,
+      "text": "Kevin Weil: So I I didn't know sort of what to expect."
+    },
+    {
+      "start": 706.8,
+      "end": 715.2,
+      "text": "Kevin Weil: I I thought maybe I was gonna go in and um be talking to him about what was new and what he could do with O1 Preview and why he should give it a try."
+    },
+    {
+      "start": 715.54,
+      "end": 716.66,
+      "text": "Kevin Weil: Little did I know."
+    },
+    {
+      "start": 716.82,
+      "end": 730.1,
+      "text": "Kevin Weil: I sat down and and he immediately took control of the conversation and said, Let me tell you what I can do with your models and like these are the most amazing things for science and this is gonna change the world and he was like, Okay, let me take you through this."
+    },
+    {
+      "start": 730.24,
+      "end": 732.16,
+      "text": "Kevin Weil: And he opened up his laptop."
+    },
+    {
+      "start": 732.24,
+      "end": 734.16,
+      "text": "Kevin Weil:  and you know, he works on fusion, right?"
+    },
+    {
+      "start": 734.24,
+      "end": 741.68,
+      "text": "Kevin Weil: Lawrence Livermore  was the first to do large-scale fusion with positive energy, like super exciting."
+    },
+    {
+      "start": 741.92,
+      "end": 742.24,
+      "text": "Kevin Weil: So"
+    },
+    {
+      "start": 742.56,
+      "end": 745.92,
+      "text": "Kevin Weil: He's like, all right, we're gonna take a fusion example."
+    },
+    {
+      "start": 746.08,
+      "end": 749.2,
+      "text": "Kevin Weil: And first I'm gonna start with the undergrad version of this problem."
+    },
+    {
+      "start": 749.36,
+      "end": 752.48,
+      "text": "Kevin Weil: And so he he shows me this conversation and he's like"
+    },
+    {
+      "start": 752.58,
+      "end": 758.66,
+      "text": "Kevin Weil: All right, so you've got you know   a copper rod and we're gonna bombard it with super high pressure waves."
+    },
+    {
+      "start": 758.9,
+      "end": 759.94,
+      "text": "Kevin Weil: What happens?"
+    },
+    {
+      "start": 760.26,
+      "end": 761.54,
+      "text": "Kevin Weil: And you know he's like it."
+    },
+    {
+      "start": 761.62,
+      "end": 764.26,
+      "text": "Kevin Weil: So he he answered and and oh one preview gives a good answer."
+    },
+    {
+      "start": 764.34,
+      "end": 764.98,
+      "text": "Kevin Weil: It's like okay, cool."
+    },
+    {
+      "start": 765.06,
+      "end": 766.66,
+      "text": "Kevin Weil: So it got the it got the "
+    },
+    {
+      "start": 767.04,
+      "end": 768.56,
+      "text": "Kevin Weil: Got the undergrad problem right."
+    },
+    {
+      "start": 768.72,
+      "end": 771.52,
+      "text": "Kevin Weil: And then now let's let's ask the graduate version of this."
+    },
+    {
+      "start": 771.76,
+      "end": 775.68,
+      "text": "Kevin Weil: Now what happens inside the the rod itself as you're doing this?"
+    },
+    {
+      "start": 775.76,
+      "end": 779.92,
+      "text": "Kevin Weil: And you know what what needs to be true in order for it to generate these certain kinds of shock waves?"
+    },
+    {
+      "start": 779.98,
+      "end": 782.38,
+      "text": "Kevin Weil: And he goes through and he's like, okay, so got that right."
+    },
+    {
+      "start": 782.54,
+      "end": 786.78,
+      "text": "Kevin Weil: All right, now let's ask the postdoc level question."
+    },
+    {
+      "start": 787.26,
+      "end": 787.74,
+      "text": "Kevin Weil: All right."
+    },
+    {
+      "start": 787.94,
+      "end": 795.78,
+      "text": "Kevin Weil: Now let's ask the and at this point I'm like, you know, despite having a physics background, I'm just following along for the ride because he's beyond anything I can do."
+    },
+    {
+      "start": 795.94,
+      "end": 796.66,
+      "text": "Kevin Weil: Like, all right."
+    },
+    {
+      "start": 796.74,
+      "end": 801.7,
+      "text": "Kevin Weil: Now let's ask the you just joined Lawrence Livermore and you, you know, kind of question."
+    },
+    {
+      "start": 801.78,
+      "end": 805.62,
+      "text": "Kevin Weil: You've gone through your postdoc, you're a nuclear physicist, and he keeps going."
+    },
+    {
+      "start": 805.7,
+      "end": 808.5,
+      "text": "Kevin Weil: And o1 preview keeps getting the answer right."
+    },
+    {
+      "start": 808.56,
+      "end": 813.84,
+      "text": "Kevin Weil: And then he's like, all right, now let me ask you the you've worked at Lawrence Livermore for twenty years question."
+    },
+    {
+      "start": 814.32,
+      "end": 816.56,
+      "text": "Kevin Weil: And it goes and and it gets it right."
+    },
+    {
+      "start": 816.64,
+      "end": 818.24,
+      "text": "Kevin Weil: And then not only that, but it like"
+    },
+    {
+      "start": 818.42,
+      "end": 827.78,
+      "text": "Kevin Weil: suggests that the only way to go forward is to use these these set of simulation tools that are like partially classified or that only Lawrence Livermore has."
+    },
+    {
+      "start": 827.86,
+      "end": 831.86,
+      "text": "Kevin Weil: It's like, you know, I don't have access to these, but if you did, you would want to use these tools."
+    },
+    {
+      "start": 832.2,
+      "end": 838.68,
+      "text": "Kevin Weil: And he's like, look, nothing in here that nothing that I just showed you was something that I couldn't do."
+    },
+    {
+      "start": 838.84,
+      "end": 840.68,
+      "text": "Kevin Weil: But it would have taken me days."
+    },
+    {
+      "start": 841.12,
+      "end": 843.84,
+      "text": "Kevin Weil: And certainly not everybody at the lab can do this."
+    },
+    {
+      "start": 844.0,
+      "end": 850.72,
+      "text": "Kevin Weil: Like the acceleration that comes, that is going to come from these tools, is going to change science."
+    },
+    {
+      "start": 850.6,
+      "end": 862.28,
+      "text": "Kevin Weil: And so I went from like sitting down with this guy who I thought maybe I was going to be sort of talking to him about the value of AI, to him just completely blowing my mind about the potential of AI."
+    },
+    {
+      "start": 862.36,
+      "end": 863.08,
+      "text": "Kevin Weil: And this is"
+    },
+    {
+      "start": 863.6,
+      "end": 864.24,
+      "text": "Kevin Weil: A year ago."
+    },
+    {
+      "start": 864.32,
+      "end": 866.16,
+      "text": "Kevin Weil: This is o1 preview, you know."
+    },
+    {
+      "start": 866.32,
+      "end": 869.04,
+      "text": "Kevin Weil: We've come leaps and bounds since then."
+    },
+    {
+      "start": 869.28,
+      "end": 871.84,
+      "text": "Kevin Weil: And the thing that I always try and and like"
+    },
+    {
+      "start": 872.32,
+      "end": 879.44,
+      "text": "Kevin Weil: Remind everybody, the AI models that we're using today, as good as GPT5.1 Pro is."
+    },
+    {
+      "start": 880.24,
+      "end": 884.32,
+      "text": "Kevin Weil: These are the worst AI models that we will ever use for the rest of our lives."
+    },
+    {
+      "start": 884.48,
+      "end": 890.16,
+      "text": "Kevin Weil: And when you think about that, the fact that we're here just implies that the future is very bright."
+    },
+    {
+      "start": 890.26,
+      "end": 892.5,
+      "text": "Andrew Mayne: How have your colleagues been using these tools?"
+    },
+    {
+      "start": 892.9,
+      "end": 895.54,
+      "text": "Alex Lupsasca: Yeah, there's a lot of different usages, I think."
+    },
+    {
+      "start": 895.7,
+      "end": 900.18,
+      "text": "Alex Lupsasca: literature search, here's what I'm working on, does it connect to any other thing?"
+    },
+    {
+      "start": 900.34,
+      "end": 900.58,
+      "text": "Alex Lupsasca: And"
+    },
+    {
+      "start": 901.04,
+      "end": 908.16,
+      "text": "Alex Lupsasca: This is something that we spend a lot of time on as scientists, just understanding when something new shows up in our work, how it connects to other things."
+    },
+    {
+      "start": 908.96,
+      "end": 911.44,
+      "text": "Alex Lupsasca: And okay, my own experience that"
+    },
+    {
+      "start": 911.72,
+      "end": 913.16,
+      "text": "Alex Lupsasca: Made me become AI pilled, I think."
+    },
+    {
+      "start": 913.64,
+      "end": 914.92,
+      "text": "Andrew Mayne: This is the reason you came to OpenAI."
+    },
+    {
+      "start": 920.38,
+      "end": 925.26,
+      "text": "Alex Lupsasca: I met Mark Chen, who works here at OpenAI, he's chief research officer, and he gave me a challenge."
+    },
+    {
+      "start": 925.34,
+      "end": 925.82,
+      "text": "Alex Lupsasca: He was very proud."
+    },
+    {
+      "start": 925.9,
+      "end": 927.82,
+      "text": "Alex Lupsasca: He said, you know, why don't you just give it a hard problem?"
+    },
+    {
+      "start": 927.9,
+      "end": 932.22,
+      "text": "Alex Lupsasca: And I thought, h, ha, you want a hard problem, okay."
+    },
+    {
+      "start": 932.26,
+      "end": 933.38,
+      "text": "Alex Lupsasca: And so I gave it this question."
+    },
+    {
+      "start": 934.98,
+      "end": 935.3,
+      "text": "Alex Lupsasca: Right."
+    },
+    {
+      "start": 935.38,
+      "end": 940.26,
+      "text": "Alex Lupsasca: So I had just found these  new symmetries of black holes, which is something that doesn't happen that often."
+    },
+    {
+      "start": 940.42,
+      "end": 944.74,
+      "text": "Alex Lupsasca: And I'd written up a paper that came out in June on the archive, and I was very happy about that."
+    },
+    {
+      "start": 945.68,
+      "end": 950.8,
+      "text": "Alex Lupsasca: And I thought, okay, well let's see how GPT Pro handles this new question."
+    },
+    {
+      "start": 950.96,
+      "end": 953.44,
+      "text": "Alex Lupsasca: And so I gave it the equation."
+    },
+    {
+      "start": 953.82,
+      "end": 956.46,
+      "text": "Alex Lupsasca: And I didn't say that it has some symmetries."
+    },
+    {
+      "start": 957.18,
+      "end": 958.86,
+      "text": "Alex Lupsasca: I didn't give it a leading question."
+    },
+    {
+      "start": 958.94,
+      "end": 961.18,
+      "text": "Alex Lupsasca: I just said, what are the symmetries?"
+    },
+    {
+      "start": 961.5,
+      "end": 965.98,
+      "text": "Alex Lupsasca: And it thought for five minutes and it said, no symmetries."
+    },
+    {
+      "start": 966.06,
+      "end": 966.86,
+      "text": "Alex Lupsasca: And I go, ha."
+    },
+    {
+      "start": 968.22,
+      "end": 969.42,
+      "text": "Alex Lupsasca: It's not there yet."
+    },
+    {
+      "start": 969.66,
+      "end": 971.34,
+      "text": "Alex Lupsasca: Still better than the AI."
+    },
+    {
+      "start": 971.82,
+      "end": 974.14,
+      "text": "Alex Lupsasca: And and Mark Chen is visibly crestfallen."
+    },
+    {
+      "start": 974.3,
+      "end": 978.3,
+      "text": "Alex Lupsasca: He goes, okay, well just um just give it an easier question then."
+    },
+    {
+      "start": 978.34,
+      "end": 991.14,
+      "text": "Alex Lupsasca: And so I think, okay, I'm gonna give it the warm-up baby version of the problem, which is find the symmetries of this equation, not in the full black hole space-time, which is complicated, but in the flat space limit with where the space-time is empty."
+    },
+    {
+      "start": 991.46,
+      "end": 991.78,
+      "text": "Alex Lupsasca: And"
+    },
+    {
+      "start": 992.5,
+      "end": 998.9,
+      "text": "Alex Lupsasca: Hit enter, it thinks for you know nine minutes, and it comes back with this beautiful answer."
+    },
+    {
+      "start": 999.14,
+      "end": 1004.66,
+      "text": "Alex Lupsasca: Oh, this equation has conformal symmetry, which is the the correct thing, and here are the three generators, and it was very beautiful."
+    },
+    {
+      "start": 1004.82,
+      "end": 1006.66,
+      "text": "Alex Lupsasca: And you know this version of the equation it"
+    },
+    {
+      "start": 1007.26,
+      "end": 1011.34,
+      "text": "Alex Lupsasca: probably has been studied, I'm sure has been studied many times over the decades."
+    },
+    {
+      "start": 1011.5,
+      "end": 1013.74,
+      "text": "Alex Lupsasca: So I don't know what he did exactly, but he came up with the answer."
+    },
+    {
+      "start": 1013.82,
+      "end": 1015.1,
+      "text": "Alex Lupsasca: And I thought, okay, this is very good."
+    },
+    {
+      "start": 1015.9,
+      "end": 1017.5,
+      "text": "Alex Lupsasca: This is a great outcome."
+    },
+    {
+      "start": 1017.3,
+      "end": 1024.18,
+      "text": "Alex Lupsasca: And then Mark said, okay, well, but now that it's been primed on the warm-up example, try again in this instance of chat the harder problem."
+    },
+    {
+      "start": 1024.34,
+      "end": 1026.18,
+      "text": "Alex Lupsasca: And I thought, okay, let's go."
+    },
+    {
+      "start": 1026.34,
+      "end": 1028.82,
+      "text": "Alex Lupsasca: And so we give it the heart problem again."
+    },
+    {
+      "start": 1029.04,
+      "end": 1033.84,
+      "text": "Alex Lupsasca: Hit enter and it thinks and it thinks and that was the first time I saw it thing for so long."
+    },
+    {
+      "start": 1033.92,
+      "end": 1041.44,
+      "text": "Alex Lupsasca: I think it took 18 minutes and it comes out with this beautiful answer that was completely correct."
+    },
+    {
+      "start": 1041.64,
+      "end": 1046.04,
+      "text": "Alex Lupsasca: And that blew my mind because I had been working on this for a very long time."
+    },
+    {
+      "start": 1046.76,
+      "end": 1050.92,
+      "text": "Alex Lupsasca: And I would say that that calculation is at the edge of my abilities."
+    },
+    {
+      "start": 1051.08,
+      "end": 1054.76,
+      "text": "Alex Lupsasca: I think it's something that, you know, very few people could have done the way I did it."
+    },
+    {
+      "start": 1055.58,
+      "end": 1066.14,
+      "text": "Alex Lupsasca: And so I was really shocked because you know you spend years of your life training to be best in class or something and finding symmetries of black holes and these kinds of equations."
+    },
+    {
+      "start": 1066.22,
+      "end": 1067.5,
+      "text": "Alex Lupsasca: That's that's my jam."
+    },
+    {
+      "start": 1068.3,
+      "end": 1072.22,
+      "text": "Alex Lupsasca: And I thought, okay, so I guess that just happened."
+    },
+    {
+      "start": 1072.38,
+      "end": 1074.54,
+      "text": "Alex Lupsasca: And it really sent my mind reeling."
+    },
+    {
+      "start": 1074.7,
+      "end": 1079.66,
+      "text": "Alex Lupsasca: And I was a little bit shell-shocked for a few days, and then I just couldn't stop thinking about it."
+    },
+    {
+      "start": 1080.16,
+      "end": 1087.76,
+      "text": "Alex Lupsasca: And after that I realized, okay, I have to become involved in this because to see this capability emerge into the world."
+    },
+    {
+      "start": 1088.1,
+      "end": 1092.74,
+      "text": "Alex Lupsasca: Like right now and not to not be involved with this just seemed crazy to me."
+    },
+    {
+      "start": 1093.06,
+      "end": 1101.86,
+      "text": "Kevin Weil: I was gonna I actually think you made  you made a really important point in the middle of that around the the fact that you gave it the hard question."
+    },
+    {
+      "start": 1102.12,
+      "end": 1103.48,
+      "text": "Kevin Weil: It didn't get it right."
+    },
+    {
+      "start": 1103.64,
+      "end": 1116.44,
+      "text": "Kevin Weil: You gave it an easier question, it got that right, and then you were able to give it a harder question, it got there is still, you know, as excited as we clearly are about the future here, there's also a very real sense, like you when you're giving"
+    },
+    {
+      "start": 1116.54,
+      "end": 1124.54,
+      "text": "Kevin Weil: GPT-5 or any of these AI models a problem that's on the frontier, that's at the limit of their capabilities, they tend to still be wrong a lot."
+    },
+    {
+      "start": 1124.82,
+      "end": 1124.98,
+      "text": "Kevin Weil: Right."
+    },
+    {
+      "start": 1125.22,
+      "end": 1131.14,
+      "text": "Kevin Weil: Kind of like any human would be at operating at the level of  at the frontier of their capabilities."
+    },
+    {
+      "start": 1131.38,
+      "end": 1134.42,
+      "text": "Kevin Weil: And it takes you know, it isn't just"
+    },
+    {
+      "start": 1135.1,
+      "end": 1135.98,
+      "text": "Kevin Weil: Automatic yet."
+    },
+    {
+      "start": 1136.3,
+      "end": 1140.22,
+      "text": "Kevin Weil: Hopefully in the future it will be, you know, enter in any hard question and the model answers it."
+    },
+    {
+      "start": 1140.3,
+      "end": 1142.22,
+      "text": "Kevin Weil: But today there's a lot of back and forth."
+    },
+    {
+      "start": 1142.3,
+      "end": 1146.62,
+      "text": "Kevin Weil: And the people that are best, the the researchers that are best at getting the most out of the models"
+    },
+    {
+      "start": 1146.92,
+      "end": 1150.68,
+      "text": "Kevin Weil: have a sort of patience to go back and forth with them."
+    },
+    {
+      "start": 1151.0,
+      "end": 1152.04,
+      "text": "Kevin Weil: I think that's natural."
+    },
+    {
+      "start": 1152.2,
+      "end": 1158.68,
+      "text": "Kevin Weil: It's probably the way that you would work with any any you know any two people operating at at about the limit of their capabilities."
+    },
+    {
+      "start": 1159.08,
+      "end": 1168.68,
+      "text": "Kevin Weil: But I think it's important especially for folks listening to this who are doing research with the models to know that it's not it isn't just one shot and it always works."
+    },
+    {
+      "start": 1168.84,
+      "end": 1173.24,
+      "text": "Kevin Weil: It there really is a a back and forth and sort of a patience that it takes. "
+    },
+    {
+      "start": 1173.94,
+      "end": 1181.14,
+      "text": "Kevin Weil: And one of the interesting research problems that we're spending a lot of time thinking about is how we how we help people with"
+    },
+    {
+      "start": 1181.56,
+      "end": 1184.6,
+      "text": "Kevin Weil: Yeah, how we sort of help reduce that that cognitive load."
+    },
+    {
+      "start": 1184.92,
+      "end": 1190.2,
+      "text": "Kevin Weil: Because when you're working on a problem, say the model is has a 5% pass rate on some problem."
+    },
+    {
+      "start": 1190.44,
+      "end": 1194.04,
+      "text": "Kevin Weil: So technically the model can get it right once out of 20 times."
+    },
+    {
+      "start": 1194.06,
+      "end": 1198.54,
+      "text": "Kevin Weil: But it's really at the frontier, so it's not going to get it right nearly, you know, even close to every time."
+    },
+    {
+      "start": 1199.1,
+      "end": 1204.22,
+      "text": "Kevin Weil: If you're sitting inside ChatGPT and just entering in this question,"
+    },
+    {
+      "start": 1204.72,
+      "end": 1209.76,
+      "text": "Kevin Weil: You're gonna have to enter it in, you know, what, ten times before you have the odds that it's gonna get the right answer?"
+    },
+    {
+      "start": 1209.84,
+      "end": 1212.24,
+      "text": "Kevin Weil: And that's most people aren't gonna do that"
+    },
+    {
+      "start": 1212.26,
+      "end": 1220.58,
+      "text": "Kevin Weil: and so there's a whole host of problems that the model can solve that people probably try and are like, oh after three tries, it didn't get it right, so let's I'll move on."
+    },
+    {
+      "start": 1220.74,
+      "end": 1222.18,
+      "text": "Kevin Weil: The model's not good enough yet."
+    },
+    {
+      "start": 1222.18,
+      "end": 1227.62,
+      "text": "Kevin Weil: And actually it is, but it's just very hard to tell apart low pass rate problems from problems that are too hard."
+    },
+    {
+      "start": 1227.86,
+      "end": 1235.54,
+      "text": "Kevin Weil: And  I think that's actually a really important thing for us to help researchers and mathematicians get past."
+    },
+    {
+      "start": 1236.22,
+      "end": 1243.02,
+      "text": "Kevin Weil: because the most interesting problems right now are going to be the ones where the model has a very low but non-zero pass rate."
+    },
+    {
+      "start": 1243.18,
+      "end": 1247.1,
+      "text": "Kevin Weil: Those are going to be the hardest problems that the model can solve, the best ways that it can"
+    },
+    {
+      "start": 1247.18,
+      "end": 1248.86,
+      "text": "Kevin Weil: that it can help accelerate science."
+    },
+    {
+      "start": 1249.1,
+      "end": 1255.98,
+      "text": "Kevin Weil: And so that's a really interesting research problem that we're taking on  to try and make that a little more automatic, a little less grunt work."
+    },
+    {
+      "start": 1256.14,
+      "end": 1257.42,
+      "text": "Kevin Weil: But for now, I like"
+    },
+    {
+      "start": 1257.92,
+      "end": 1261.2,
+      "text": "Kevin Weil: Putting in the time and really going back and forth with the model does yield results."
+    },
+    {
+      "start": 1261.52,
+      "end": 1268.08,
+      "text": "Andrew Mayne: Well, it it feels like we're at a moment kind of like when we went from GPT 3.5 to ChatGPT."
+    },
+    {
+      "start": 1268.24,
+      "end": 1269.6,
+      "text": "Andrew Mayne: 3.5 was a model"
+    },
+    {
+      "start": 1270.18,
+      "end": 1273.06,
+      "text": "Andrew Mayne: extremely capable model, but it was still effectively a base model."
+    },
+    {
+      "start": 1273.46,
+      "end": 1277.94,
+      "text": "Andrew Mayne: And and I was a prompt engineer at the time and knowing how to prompt it, I could get great results for it."
+    },
+    {
+      "start": 1277.98,
+      "end": 1280.94,
+      "text": "Andrew Mayne: but it took all those little tricks to sort of understand the context."
+    },
+    {
+      "start": 1281.18,
+      "end": 1285.82,
+      "text": "Andrew Mayne: Then when we went to ChatGPT and we understood, okay, we know the kind of problems people are trying to solve."
+    },
+    {
+      "start": 1285.98,
+      "end": 1289.1,
+      "text": "Andrew Mayne: Let's make it a little bit easier for them to get there without having to do that."
+    },
+    {
+      "start": 1289.26,
+      "end": 1298.54,
+      "text": "Andrew Mayne: It feels like that's kind of where we're heading into a science though, that now that you have people like Alex explaining the problems you're trying to solve and what you're doing, that we may see like a big acceleration with this"
+    },
+    {
+      "start": 1298.56,
+      "end": 1305.52,
+      "text": "Kevin Weil: I think it's probably just a characteristic of any question that's on the frontier of or sort of at the limit of what the models can do."
+    },
+    {
+      "start": 1305.76,
+      "end": 1310.08,
+      "text": "Kevin Weil: And back with GPT 3 and early versions of 4."
+    },
+    {
+      "start": 1310.16,
+      "end": 1314.64,
+      "text": "Kevin Weil: the questions that were at the the limit of what the model can do were were much more basic."
+    },
+    {
+      "start": 1315.28,
+      "end": 1323.12,
+      "text": "Kevin Weil: Now they're they're questions of you know scientific research, but you still, when you're operating at the frontier,"
+    },
+    {
+      "start": 1323.22,
+      "end": 1325.3,
+      "text": "Kevin Weil: The the pass rate will be low."
+    },
+    {
+      "start": 1325.46,
+      "end": 1335.94,
+      "text": "Kevin Weil: And so you gotta kinda like there's value in in sticking with it and trying a few different things and taking the parts that it gets right and refining them while telling the model where it got other things wrong."
+    },
+    {
+      "start": 1336.58,
+      "end": 1342.42,
+      "text": "Alex Lupsasca: In this example I mentioned, it needed a warmup, but the warmup was the obvious warmup that you would do as a human."
+    },
+    {
+      "start": 1342.58,
+      "end": 1342.74,
+      "text": "Alex Lupsasca: Right."
+    },
+    {
+      "start": 1342.98,
+      "end": 1344.34,
+      "text": "Alex Lupsasca: Because actually when I was"
+    },
+    {
+      "start": 1344.64,
+      "end": 1347.76,
+      "text": "Alex Lupsasca: attacking this problem, I wasn't thinking about the black hole case first."
+    },
+    {
+      "start": 1347.92,
+      "end": 1352.32,
+      "text": "Alex Lupsasca: The the this flat space limit was the obvious place to start and that is where where I began."
+    },
+    {
+      "start": 1352.56,
+      "end": 1353.84,
+      "text": "Alex Lupsasca: And so I think"
+    },
+    {
+      "start": 1354.36,
+      "end": 1361.88,
+      "text": "Alex Lupsasca: The models are actually really good, but we could get better at making them think of the warm-up problem themselves so they can go go there directly."
+    },
+    {
+      "start": 1362.04,
+      "end": 1364.44,
+      "text": "Alex Lupsasca: But more generally, I think there's this"
+    },
+    {
+      "start": 1365.98,
+      "end": 1371.82,
+      "text": "Alex Lupsasca: Thing we have to bear in mind, which is that as scientists, our role is to push the edge of knowledge."
+    },
+    {
+      "start": 1371.98,
+      "end": 1374.06,
+      "text": "Alex Lupsasca: There are things that are just beyond the edge."
+    },
+    {
+      "start": 1374.08,
+      "end": 1380.48,
+      "text": "Alex Lupsasca: And our goal is to bring them before the edge of knowledge by understanding them, but this edge is very jagged."
+    },
+    {
+      "start": 1380.8,
+      "end": 1383.76,
+      "text": "Alex Lupsasca: So And"
+    },
+    {
+      "start": 1381.76,
+      "end": 1385.84,
+      "text": "Alex Lupsasca: There are very basic questions about the universe, like why are there three dimensions of space?"
+    },
+    {
+      "start": 1386.0,
+      "end": 1388.56,
+      "text": "Alex Lupsasca: Or, you know, what happened to the Big Bang?"
+    },
+    {
+      "start": 1388.64,
+      "end": 1391.68,
+      "text": "Alex Lupsasca: These are things that everybody wants to know the answer to."
+    },
+    {
+      "start": 1391.86,
+      "end": 1396.82,
+      "text": "Alex Lupsasca: And yet, even though there's simple questions, there's really nothing intelligent to say about this."
+    },
+    {
+      "start": 1397.06,
+      "end": 1397.62,
+      "text": "Alex Lupsasca: We just don't know."
+    },
+    {
+      "start": 1397.78,
+      "end": 1399.7,
+      "text": "Alex Lupsasca: They're very hard problems, actually."
+    },
+    {
+      "start": 1399.56,
+      "end": 1407.56,
+      "text": "Alex Lupsasca: And then meanwhile, there are these very hard questions that you would think we wouldn't be able to answer at all, to which we have extremely detailed answers."
+    },
+    {
+      "start": 1407.72,
+      "end": 1412.76,
+      "text": "Alex Lupsasca: We can predict the electron dipole moment to, I don't know, 12 decimal places, something crazy."
+    },
+    {
+      "start": 1412.92,
+      "end": 1413.24,
+      "text": "Alex Lupsasca: So"
+    },
+    {
+      "start": 1413.6,
+      "end": 1417.52,
+      "text": "Alex Lupsasca: They're the the edge of human knowledge itself is is very jagged."
+    },
+    {
+      "start": 1418.08,
+      "end": 1422.48,
+      "text": "Alex Lupsasca: And it takes many years of graduate school to learn where the edge is."
+    },
+    {
+      "start": 1422.5,
+      "end": 1428.02,
+      "text": "Alex Lupsasca: And I think what we've we're finding with these AI models is that the edge of their knowledge is also very jagged."
+    },
+    {
+      "start": 1428.18,
+      "end": 1433.38,
+      "text": "Alex Lupsasca: So you mentioned, you know, there's some basic questions that it can't that the models can't answer."
+    },
+    {
+      "start": 1433.54,
+      "end": 1434.34,
+      "text": "Alex Lupsasca: That's true."
+    },
+    {
+      "start": 1434.54,
+      "end": 1439.26,
+      "text": "Alex Lupsasca: At the same time, there's some very hard questions that they're very well suited for already today."
+    },
+    {
+      "start": 1439.42,
+      "end": 1445.66,
+      "text": "Alex Lupsasca: And I think what's exciting is that their edge of knowledge is very jagged in a way that's different from ours."
+    },
+    {
+      "start": 1445.82,
+      "end": 1448.86,
+      "text": "Alex Lupsasca: so obviously as time goes on, I think the edge of"
+    },
+    {
+      "start": 1449.2,
+      "end": 1452.56,
+      "text": "Alex Lupsasca: of ability for these models is going to keep expanding."
+    },
+    {
+      "start": 1452.8,
+      "end": 1460.96,
+      "text": "Alex Lupsasca: But as long as it expands in a way that is slightly different from our edge, that's also really interesting because at at the intersection"
+    },
+    {
+      "start": 1461.22,
+      "end": 1466.82,
+      "text": "Alex Lupsasca: Where where it can go farther than us or we can get ahead of it, that's where a lot of interesting things are gonna happen, I think."
+    },
+    {
+      "start": 1467.06,
+      "end": 1470.34,
+      "text": "Kevin Weil: Yeah, and human and AI together are exactly"
+    },
+    {
+      "start": 1470.44,
+      "end": 1472.84,
+      "text": "Kevin Weil: much more powerful than human alone or AI alone."
+    },
+    {
+      "start": 1473.08,
+      "end": 1473.32,
+      "text": "Andrew Mayne: Exactly."
+    },
+    {
+      "start": 1473.48,
+      "end": 1477.24,
+      "text": "Andrew Mayne: I want to explore that a little bit more, but first tell me about the research paper."
+    },
+    {
+      "start": 1477.64,
+      "end": 1482.52,
+      "text": "Kevin Weil: Yeah, so I we we've we've talked a bunch about these anecdotal examples that"
+    },
+    {
+      "start": 1482.82,
+      "end": 1490.34,
+      "text": "Kevin Weil: Alex has gotten from the time that he spent with his colleagues that we see coming in across Twitter, you know, on a semi-daily basis at this point."
+    },
+    {
+      "start": 1490.82,
+      "end": 1503.46,
+      "text": "Kevin Weil: And we wanted to sort of bring them together and just write something, publish something about that that lays out the current sort of state of GPT-5 with respect to science."
+    },
+    {
+      "start": 1504.06,
+      "end": 1513.02,
+      "text": "Kevin Weil: And so what we we've got, it's a handful of collaborators from inside OpenAI and I think eight or nine academics from beyond our walls."
+    },
+    {
+      "start": 1513.14,
+      "end": 1520.5,
+      "text": "Kevin Weil: across a bunch of different fields, math, physics, astronomy,  computer science, biology, materials science."
+    },
+    {
+      "start": 1520.84,
+      "end": 1530.04,
+      "text": "Kevin Weil: And the paper is  something on the order of twelve sections, each one highlighting a different way that GPT-5 is accelerating their work."
+    },
+    {
+      "start": 1530.24,
+      "end": 1533.92,
+      "text": "Kevin Weil: The goal was not to be, you know, hypey and say everything is solved."
+    },
+    {
+      "start": 1534.0,
+      "end": 1535.52,
+      "text": "Kevin Weil: It's, you know, it's really to say, look."
+    },
+    {
+      "start": 1535.92,
+      "end": 1536.88,
+      "text": "Andrew Mayne: Hoverboards for everybody."
+    },
+    {
+      "start": 1537.04,
+      "end": 1537.2,
+      "text": "Kevin Weil: Yeah."
+    },
+    {
+      "start": 1537.76,
+      "end": 1539.44,
+      "text": "Kevin Weil: Like this is what works."
+    },
+    {
+      "start": 1539.64,
+      "end": 1540.84,
+      "text": "Kevin Weil: This is what doesn't work."
+    },
+    {
+      "start": 1540.92,
+      "end": 1541.72,
+      "text": "Kevin Weil: Here's what I tried."
+    },
+    {
+      "start": 1541.8,
+      "end": 1548.52,
+      "text": "Kevin Weil: In many cases, we're sharing the the ChatGPT, you know, the full share links, the conversation, so you can see the back and forth."
+    },
+    {
+      "start": 1548.74,
+      "end": 1550.82,
+      "text": "Kevin Weil: that the scientist has with the model."
+    },
+    {
+      "start": 1551.62,
+      "end": 1555.7,
+      "text": "Kevin Weil: And it's it's meant to be kind of a moment in time to say, this is where we are today."
+    },
+    {
+      "start": 1555.86,
+      "end": 1559.06,
+      "text": "Kevin Weil: And I think we'll look back in six months, twelve months and and"
+    },
+    {
+      "start": 1559.44,
+      "end": 1562.4,
+      "text": "Kevin Weil: You know, we'll we'll probably be much further and that'll be exciting."
+    },
+    {
+      "start": 1562.56,
+      "end": 1570.16,
+      "text": "Kevin Weil: But even where we are today, we've got  a section in the paper on the different a bunch of different examples around literature search."
+    },
+    {
+      "start": 1570.44,
+      "end": 1576.6,
+      "text": "Kevin Weil: A section of the paper with a bunch of different examples around acceleration, whether it's calculations and other things like that."
+    },
+    {
+      "start": 1577.0,
+      "end": 1581.8,
+      "text": "Kevin Weil: And then a section where we actually contribute four or five new"
+    },
+    {
+      "start": 1582.52,
+      "end": 1584.6,
+      "text": "Kevin Weil: non-trivial results in mathematics."
+    },
+    {
+      "start": 1585.08,
+      "end": 1590.28,
+      "text": "Kevin Weil: and a couple of these are small, a couple of them probably could have been papers on their own."
+    },
+    {
+      "start": 1590.72,
+      "end": 1599.52,
+      "text": "Kevin Weil: and so you go from kind of the the mundane but but very pragmatic and real bits of acceleration to the the more"
+    },
+    {
+      "start": 1600.5,
+      "end": 1605.78,
+      "text": "Kevin Weil: sort of profound GPT-5 actually pushing past the the current frontier of human knowledge."
+    },
+    {
+      "start": 1605.94,
+      "end": 1608.42,
+      "text": "Kevin Weil: and so we're super excited about this paper."
+    },
+    {
+      "start": 1608.5,
+      "end": 1611.06,
+      "text": "Kevin Weil: it's, you know, I think there'll be a lot more to come."
+    },
+    {
+      "start": 1611.22,
+      "end": 1614.26,
+      "text": "Kevin Weil: We're not the only lab doing great work, by the way. it"
+    },
+    {
+      "start": 1614.46,
+      "end": 1621.02,
+      "text": "Kevin Weil: Google has been doing this for a while, and I have a ton of respect for what Demis and the team have done with AlphaFold and more."
+    },
+    {
+      "start": 1621.26,
+      "end": 1623.34,
+      "text": "Kevin Weil:  I just think we're at a really exciting time."
+    },
+    {
+      "start": 1623.42,
+      "end": 1626.22,
+      "text": "Kevin Weil: You know, ideas in science often have their moment."
+    },
+    {
+      "start": 1626.46,
+      "end": 1633.74,
+      "text": "Kevin Weil: when you have multiple people coming with the same idea, whether it's quantum mechanics like like Alex was talking about or the light bulb."
+    },
+    {
+      "start": 1633.98,
+      "end": 1639.02,
+      "text": "Kevin Weil: Right now it's very clear that AI is is just beginning to change science."
+    },
+    {
+      "start": 1639.66,
+      "end": 1639.98,
+      "text": "Kevin Weil: And it's going to be an exciting few years."
+    },
+    {
+      "start": 1642.7,
+      "end": 1647.98,
+      "text": "Andrew Mayne: What advice do you have for students and grad students in the sciences?"
+    },
+    {
+      "start": 1648.14,
+      "end": 1648.38,
+      "text": "Andrew Mayne: Because"
+    },
+    {
+      "start": 1648.66,
+      "end": 1652.98,
+      "text": "Andrew Mayne: I hear people talk about like, oh, we're not going to need scientists anymore, which sounds absolutely crazy."
+    },
+    {
+      "start": 1653.14,
+      "end": 1655.06,
+      "text": "Andrew Mayne: It's not like the telescope got rid of the astronomer."
+    },
+    {
+      "start": 1655.14,
+      "end": 1656.98,
+      "text": "Andrew Mayne: It actually created the astronomer."
+    },
+    {
+      "start": 1657.14,
+      "end": 1660.58,
+      "text": "Andrew Mayne: how do you feel about that and what advice do you have?"
+    },
+    {
+      "start": 1661.06,
+      "end": 1667.38,
+      "text": "Alex Lupsasca: Okay, I think first of all it's important to acknowledge there's a lot of anxiety in academia right now that is unrelated to AI."
+    },
+    {
+      "start": 1667.54,
+      "end": 1668.82,
+      "text": "Alex Lupsasca: It has to do with"
+    },
+    {
+      "start": 1669.2,
+      "end": 1674.56,
+      "text": "Alex Lupsasca: Lots of changes in the way that science is organized in this country and we're still going through these changes."
+    },
+    {
+      "start": 1674.72,
+      "end": 1679.36,
+      "text": "Alex Lupsasca: I think that  talking to young people, there's a lot of anxiety surrounding this."
+    },
+    {
+      "start": 1679.46,
+      "end": 1691.22,
+      "text": "Alex Lupsasca: I actually think AI is a really exciting new tool that's coming, that's becoming available, that is going to help a lot because it's just going to make everybody just so much more efficient."
+    },
+    {
+      "start": 1692.0,
+      "end": 1699.6,
+      "text": "Alex Lupsasca: As Kevin was mentioning earlier, when you work on a research project, oftentimes you don't know which way exactly."
+    },
+    {
+      "start": 1699.84,
+      "end": 1700.48,
+      "text": "Alex Lupsasca: to go."
+    },
+    {
+      "start": 1700.88,
+      "end": 1706.72,
+      "text": "Alex Lupsasca: You know you're here, you want to get there, but there are different possible paths, different lines of attack."
+    },
+    {
+      "start": 1706.88,
+      "end": 1711.84,
+      "text": "Alex Lupsasca: And the whole point of research is that from the get-go, you don't know which which way to go."
+    },
+    {
+      "start": 1712.12,
+      "end": 1720.76,
+      "text": "Alex Lupsasca: And one of the things that's really fun, actually fun with GPT is that you can just say, hey, I'm trying to solve this."
+    },
+    {
+      "start": 1720.96,
+      "end": 1722.4,
+      "text": "Alex Lupsasca: Here's some ideas I have."
+    },
+    {
+      "start": 1722.48,
+      "end": 1727.04,
+      "text": "Alex Lupsasca: You can upload some notes that you have or just this describe it in a few sentences."
+    },
+    {
+      "start": 1727.2,
+      "end": 1730.64,
+      "text": "Alex Lupsasca: And it's very good at getting what you're trying to do."
+    },
+    {
+      "start": 1730.68,
+      "end": 1733.56,
+      "text": "Alex Lupsasca: And then you can just say, what if I approached it this way?"
+    },
+    {
+      "start": 1733.8,
+      "end": 1735.4,
+      "text": "Alex Lupsasca: Or what if I were to do it this way?"
+    },
+    {
+      "start": 1735.56,
+      "end": 1741.72,
+      "text": "Alex Lupsasca: And it can immediately go off and chart a path through the unknown, just signposting."
+    },
+    {
+      "start": 1742.82,
+      "end": 1744.5,
+      "text": "Alex Lupsasca: different potential avenues."
+    },
+    {
+      "start": 1744.74,
+      "end": 1749.14,
+      "text": "Alex Lupsasca: And that actually saves so much time because, you know, I okay, I'm a human."
+    },
+    {
+      "start": 1749.22,
+      "end": 1750.58,
+      "text": "Alex Lupsasca: I have limited time, energy."
+    },
+    {
+      "start": 1750.66,
+      "end": 1757.22,
+      "text": "Alex Lupsasca: And when I'm gonna put in the effort to do a calculation, I spend a lot of time trying to prototype it and think ahead where it's gonna take me."
+    },
+    {
+      "start": 1757.34,
+      "end": 1762.38,
+      "text": "Alex Lupsasca: And with ChatGPT, I can just launch it in that direction, in that direction, that direction."
+    },
+    {
+      "start": 1762.54,
+      "end": 1770.94,
+      "text": "Alex Lupsasca: And it doesn't like completely get everything right, but just having these signposts along the way is so helpful because then when you do go down the path yourself."
+    },
+    {
+      "start": 1770.84,
+      "end": 1773.88,
+      "text": "Alex Lupsasca: you you have somebody helping you along, it feels like."
+    },
+    {
+      "start": 1774.04,
+      "end": 1779.08,
+      "text": "Alex Lupsasca: and I think that's just gonna make everybody faster, more productive."
+    },
+    {
+      "start": 1779.32,
+      "end": 1784.44,
+      "text": "Alex Lupsasca: And you know, I already the young people that I meet are spending a lot of time"
+    },
+    {
+      "start": 1785.0,
+      "end": 1789.4,
+      "text": "Alex Lupsasca: experimenting with Chat GPT and and figuring out its capabilities."
+    },
+    {
+      "start": 1789.96,
+      "end": 1793.32,
+      "text": "Alex Lupsasca: And I think it's gonna be a boon for everyone."
+    },
+    {
+      "start": 1793.72,
+      "end": 1797.08,
+      "text": "Andrew Mayne: You mentioned part of the idea of the paper was to say, okay, this is where we are now."
+    },
+    {
+      "start": 1797.16,
+      "end": 1798.36,
+      "text": "Andrew Mayne: Let's go look in six months."
+    },
+    {
+      "start": 1798.44,
+      "end": 1799.32,
+      "text": "Andrew Mayne: Let's talk."
+    },
+    {
+      "start": 1799.5,
+      "end": 1801.74,
+      "text": "Andrew Mayne: We're five years since GPT 3."
+    },
+    {
+      "start": 1801.9,
+      "end": 1804.14,
+      "text": "Andrew Mayne: We're five years from now, we're sitting down here."
+    },
+    {
+      "start": 1805.18,
+      "end": 1806.62,
+      "text": "Andrew Mayne: What are we gonna see?"
+    },
+    {
+      "start": 1806.86,
+      "end": 1807.66,
+      "text": "Kevin Weil: Oh man."
+    },
+    {
+      "start": 1807.98,
+      "end": 1809.82,
+      "text": "Kevin Weil: The five year question is so hard."
+    },
+    {
+      "start": 1809.98,
+      "end": 1811.58,
+      "text": "Andrew Mayne: I mean it's a great question."
+    },
+    {
+      "start": 1813.36,
+      "end": 1814.16,
+      "text": "Kevin Weil: Here's a crystal ball."
+    },
+    {
+      "start": 1814.4,
+      "end": 1824.96,
+      "text": "Kevin Weil: Yeah, you know, I think I mean the exciting thing about this field in general is from  you look back twelve months and you're completely embarrassed by where you were twelve months ago."
+    },
+    {
+      "start": 1825.12,
+      "end": 1826.96,
+      "text": "Kevin Weil: You know, the idea if if I"
+    },
+    {
+      "start": 1827.34,
+      "end": 1831.02,
+      "text": "Kevin Weil: When GPT-3 launched, it was unbelievable."
+    },
+    {
+      "start": 1831.1,
+      "end": 1831.34,
+      "text": "Kevin Weil: Right."
+    },
+    {
+      "start": 1831.42,
+      "end": 1833.1,
+      "text": "Kevin Weil: I mean, it it I'll speak for myself."
+    },
+    {
+      "start": 1833.18,
+      "end": 1835.98,
+      "text": "Kevin Weil: It blew my mind the idea that AI could do any of these things."
+    },
+    {
+      "start": 1836.06,
+      "end": 1836.62,
+      "text": "Kevin Weil: And then"
+    },
+    {
+      "start": 1836.94,
+      "end": 1848.94,
+      "text": "Kevin Weil: Somewhere in around like three point GPT 3.5 and 4, the the the Turing test, which we had held up for like what, 75 years as the pinnacle of artificial intelligence research."
+    },
+    {
+      "start": 1848.88,
+      "end": 1852.88,
+      "text": "Kevin Weil: like oh man the world will be different when an AI can pass the Turing test."
+    },
+    {
+      "start": 1853.12,
+      "end": 1857.04,
+      "text": "Kevin Weil: We just went whooshing by and like now we just don't talk about the Turing test anymore."
+    },
+    {
+      "start": 1857.76,
+      "end": 1863.12,
+      "text": "Kevin Weil: and even you look back to the beginning of of this year of 2025"
+    },
+    {
+      "start": 1863.62,
+      "end": 1866.26,
+      "text": "Kevin Weil: And most people were writing code themselves."
+    },
+    {
+      "start": 1866.42,
+      "end": 1868.18,
+      "text": "Kevin Weil: Most engineers were writing all of their own code."
+    },
+    {
+      "start": 1868.26,
+      "end": 1869.94,
+      "text": "Andrew Mayne: And the idea that you're writing it yourself."
+    },
+    {
+      "start": 1871.38,
+      "end": 1875.3,
+      "text": "Kevin Weil: And now fast forward, and you've got like the idea that you would do"
+    },
+    {
+      "start": 1875.82,
+      "end": 1883.18,
+      "text": "Kevin Weil: really much of anything without leveraging codecs, claud code, GitHub Copilot, you know, any of these tools."
+    },
+    {
+      "start": 1883.34,
+      "end": 1884.38,
+      "text": "Kevin Weil: They're all incredible."
+    },
+    {
+      "start": 1884.72,
+      "end": 1885.68,
+      "text": "Kevin Weil: Is crazy, right?"
+    },
+    {
+      "start": 1885.76,
+      "end": 1887.12,
+      "text": "Kevin Weil: You're so much more productive with it."
+    },
+    {
+      "start": 1887.28,
+      "end": 1894.0,
+      "text": "Kevin Weil: So just in 12 months, and I don't I in 12 months software engineering has fundamentally changed."
+    },
+    {
+      "start": 1894.58,
+      "end": 1905.54,
+      "text": "Kevin Weil: I think over the next 12 months, we're going to see profound changes in the way that science is done, you know, both in the stuff that we can do in silico, in theoretical physics and mathematics, and computer science."
+    },
+    {
+      "start": 1905.74,
+      "end": 1911.26,
+      "text": "Kevin Weil: And I think we're going to begin to see it in the life sciences, in the physical sciences."
+    },
+    {
+      "start": 1911.5,
+      "end": 1913.58,
+      "text": "Kevin Weil: That's over the next twelve months."
+    },
+    {
+      "start": 1913.44,
+      "end": 1914.48,
+      "text": "Kevin Weil: I mean five years?"
+    },
+    {
+      "start": 1914.88,
+      "end": 1921.28,
+      "text": "Andrew Mayne: So that yeah, that that's a a question I think about a lot because when it comes to mathematical proof, I can kind of go into"
+    },
+    {
+      "start": 1921.82,
+      "end": 1925.74,
+      "text": "Andrew Mayne: a computer and I can test that, I can verify that, or at least test with it with some extent."
+    },
+    {
+      "start": 1925.82,
+      "end": 1928.14,
+      "text": "Andrew Mayne: The same with some sort of equation for physics."
+    },
+    {
+      "start": 1928.3,
+      "end": 1933.18,
+      "text": "Andrew Mayne: But when you get into talking about the life sciences or material sciences and stuff"
+    },
+    {
+      "start": 1933.62,
+      "end": 1939.06,
+      "text": "Andrew Mayne: Are we going to have a bottleneck of way more predictions than ways to test them?"
+    },
+    {
+      "start": 1939.38,
+      "end": 1940.66,
+      "text": "Kevin Weil: Well, I think one of the valuable"
+    },
+    {
+      "start": 1941.06,
+      "end": 1945.86,
+      "text": "Kevin Weil: Th there's so many areas where models can help with life sciences."
+    },
+    {
+      "start": 1946.02,
+      "end": 1949.14,
+      "text": "Kevin Weil: If you take, you know, biology drug discovery, for example, they're"
+    },
+    {
+      "start": 1949.72,
+      "end": 1953.4,
+      "text": "Kevin Weil: you have a huge search space."
+    },
+    {
+      "start": 1953.72,
+      "end": 1959.0,
+      "text": "Kevin Weil: And the the more that the models can learn  how to prune that search space"
+    },
+    {
+      "start": 1959.16,
+      "end": 1971.8,
+      "text": "Kevin Weil: The more, even if you're going to end up with a bunch of physical real-world experiments to run at the end of the day, if you can intelligently prune the search space, then you can more rapidly converge on the drugs that are likely to work in particular scenarios."
+    },
+    {
+      "start": 1972.12,
+      "end": 1985.88,
+      "text": "Kevin Weil: and and then you can think about the impact, you know, to for  for that to have real world impact, you need to make it all the way through the the the regulatory process."
+    },
+    {
+      "start": 1986.62,
+      "end": 1999.98,
+      "text": "Kevin Weil: that is its own process that AI can help speed up because you end up needing to write these huge papers that that bring together you know tons of different findings and and and so on."
+    },
+    {
+      "start": 2000.22,
+      "end": 2000.7,
+      "text": "Kevin Weil: So the"
+    },
+    {
+      "start": 2002.04,
+      "end": 2003.8,
+      "text": "Kevin Weil: You can take each step of the process."
+    },
+    {
+      "start": 2003.88,
+      "end": 2012.12,
+      "text": "Kevin Weil: It can and AI can help upfront as you prune the search space and try and find candidates that are more likely to be to meet your needs and meet the goals that you have."
+    },
+    {
+      "start": 2012.08,
+      "end": 2018.32,
+      "text": "Kevin Weil: And then as you go through the process to getting this thing out to consumers and making a real world impact,  AI can contribute there."
+    },
+    {
+      "start": 2018.4,
+      "end": 2021.76,
+      "text": "Kevin Weil: And we have we have pilots with a number of the companies in the space doing that."
+    },
+    {
+      "start": 2021.92,
+      "end": 2023.2,
+      "text": "Kevin Weil: So it's"
+    },
+    {
+      "start": 2023.9,
+      "end": 2026.22,
+      "text": "Kevin Weil: really is fairly broad-based."
+    },
+    {
+      "start": 2026.7,
+      "end": 2034.22,
+      "text": "Andrew Mayne: You started off with an interest in particle physics, you were studying that, and then you found other things, and now you find yourself back in the sciences."
+    },
+    {
+      "start": 2034.3,
+      "end": 2036.38,
+      "text": "Andrew Mayne: Do you think other people are gonna follow that pattern?"
+    },
+    {
+      "start": 2036.56,
+      "end": 2042.56,
+      "text": "Kevin Weil: I mean, I it is an absolute privilege for me to to get to come back and work on science."
+    },
+    {
+      "start": 2042.64,
+      "end": 2045.04,
+      "text": "Kevin Weil: And, you know, I am nowhere near the scientist that"
+    },
+    {
+      "start": 2045.32,
+      "end": 2058.04,
+      "text": "Kevin Weil:  folks like Alex and other people here at OpenAI are, but I don't know of something you know I think we talk a lot about AGI at OpenAI, artificial general intelligence."
+    },
+    {
+      "start": 2058.68,
+      "end": 2066.12,
+      "text": "Kevin Weil: I think maybe the most profound way that people are going to feel AGI in their lives is through science."
+    },
+    {
+      "start": 2066.68,
+      "end": 2068.84,
+      "text": "Kevin Weil: Yeah, ChatGPT is an incredible tool."
+    },
+    {
+      "start": 2068.92,
+      "end": 2069.56,
+      "text": "Kevin Weil: I use it"
+    },
+    {
+      "start": 2070.0,
+      "end": 2072.0,
+      "text": "Kevin Weil: tons of times every single day."
+    },
+    {
+      "start": 2072.32,
+      "end": 2077.04,
+      "text": "Kevin Weil: But AGI inside ChatGPT will be will will be able to do lots of things."
+    },
+    {
+      "start": 2077.12,
+      "end": 2079.76,
+      "text": "Kevin Weil: But when I can have, you know, personalized medicine if"
+    },
+    {
+      "start": 2080.14,
+      "end": 2087.26,
+      "text": "Kevin Weil: AI models can contribute to science, you know, finding a way to do scalable fusion more quickly."
+    },
+    {
+      "start": 2087.42,
+      "end": 2090.3,
+      "text": "Kevin Weil: Those kinds of things will change all of our lives."
+    },
+    {
+      "start": 2090.54,
+      "end": 2091.42,
+      "text": "Kevin Weil:  and"
+    },
+    {
+      "start": 2093.64,
+      "end": 2097.08,
+      "text": "Kevin Weil: I think these are very real possibilities at the pace that we're going."
+    },
+    {
+      "start": 2097.24,
+      "end": 2102.12,
+      "text": "Kevin Weil: So that's why this is the most exciting thing in the world to me to get to work on."
+    },
+    {
+      "start": 2102.34,
+      "end": 2111.78,
+      "text": "Alex Lupsasca: I don't know what AGI will look like, but sometimes the experience you have of giving ChatGPT a really hard equation you're working on and it just spits out the answer, to me that feels"
+    },
+    {
+      "start": 2112.38,
+      "end": 2114.38,
+      "text": "Alex Lupsasca: certainly like something approaching that."
+    },
+    {
+      "start": 2114.46,
+      "end": 2120.38,
+      "text": "Alex Lupsasca: And I I also don't have a crystal ball and also clearly a bad track record of predicting where AI is going given that"
+    },
+    {
+      "start": 2120.54,
+      "end": 2122.7,
+      "text": "Alex Lupsasca: At the start of the year, I didn't think I'd be here."
+    },
+    {
+      "start": 2123.5,
+      "end": 2127.5,
+      "text": "Alex Lupsasca: But there's two things that are simultaneously clear to me."
+    },
+    {
+      "start": 2127.82,
+      "end": 2128.7,
+      "text": "Alex Lupsasca: One is"
+    },
+    {
+      "start": 2129.82,
+      "end": 2134.06,
+      "text": "Alex Lupsasca: the models are definitely going to keep getting better."
+    },
+    {
+      "start": 2134.7,
+      "end": 2138.14,
+      "text": "Alex Lupsasca: And sometimes my colleagues ask me, oh, are we reaching a plateau?"
+    },
+    {
+      "start": 2138.3,
+      "end": 2140.7,
+      "text": "Alex Lupsasca: And that that is actually something I was wondering about too."
+    },
+    {
+      "start": 2140.78,
+      "end": 2141.02,
+      "text": "Alex Lupsasca: And"
+    },
+    {
+      "start": 2141.0,
+      "end": 2145.96,
+      "text": "Alex Lupsasca: Then I joined OpenAI and I got to play with some internal models that we have that are even stronger."
+    },
+    {
+      "start": 2146.12,
+      "end": 2150.68,
+      "text": "Alex Lupsasca: And I was like, okay, this is definitely gonna keep getting really, really good."
+    },
+    {
+      "start": 2150.96,
+      "end": 2160.56,
+      "text": "Alex Lupsasca: And then the second thing is I think already with GPT-5 Pro, which is I think our best, or 5. Pro today, our best model that's available on the outside."
+    },
+    {
+      "start": 2161.04,
+      "end": 2167.12,
+      "text": "Alex Lupsasca: I think there's a big gap between what the models can do and what the science community uses them for."
+    },
+    {
+      "start": 2167.36,
+      "end": 2172.96,
+      "text": "Alex Lupsasca: And one of our goals here at OpenAI for science is to start bridging that gap."
+    },
+    {
+      "start": 2173.12,
+      "end": 2181.76,
+      "text": "Alex Lupsasca: because I think the models move so fast that unless you're really paying attention, you may not realize how much has changed in just the last few months."
+    },
+    {
+      "start": 2181.92,
+      "end": 2184.08,
+      "text": "Alex Lupsasca: and so I think these two"
+    },
+    {
+      "start": 2184.64,
+      "end": 2189.68,
+      "text": "Alex Lupsasca: facts are true and are going to, you know, over the next year really lead to big changes in in science."
+    },
+    {
+      "start": 2189.84,
+      "end": 2193.76,
+      "text": "Alex Lupsasca: The models just keep getting better and people are starting to catch on."
+    },
+    {
+      "start": 2193.84,
+      "end": 2195.28,
+      "text": "Alex Lupsasca: And that's why we're seeing"
+    },
+    {
+      "start": 2195.24,
+      "end": 2199.72,
+      "text": "Alex Lupsasca: all this chatter on Twitter and social media, and that's only going to accelerate."
+    },
+    {
+      "start": 2199.8,
+      "end": 2203.32,
+      "text": "Alex Lupsasca: So where that takes us, I don't know, but I'm excited to find out."
+    },
+    {
+      "start": 2203.72,
+      "end": 2206.2,
+      "text": "Andrew Mayne: I think you've both made a very good point in that is that"
+    },
+    {
+      "start": 2206.52,
+      "end": 2213.48,
+      "text": "Andrew Mayne: These models improve at such a rapid pace that sometimes people have a very firm idea of what they are because they tried something six months ago."
+    },
+    {
+      "start": 2213.56,
+      "end": 2213.72,
+      "text": "Kevin Weil: Yeah."
+    },
+    {
+      "start": 2213.88,
+      "end": 2217.56,
+      "text": "Andrew Mayne: And I've encountered people who I really respect and the scientists are like, oh, I tried it."
+    },
+    {
+      "start": 2217.64,
+      "end": 2219.48,
+      "text": "Andrew Mayne: And I'm like, I tried it 18 months ago."
+    },
+    {
+      "start": 2219.28,
+      "end": 2219.36,
+      "text": "Kevin Weil: Yeah."
+    },
+    {
+      "start": 2219.52,
+      "end": 2221.84,
+      "text": "Andrew Mayne: And they're not used to a tool evolving that quickly."
+    },
+    {
+      "start": 2222.24,
+      "end": 2222.4,
+      "text": "Kevin Weil: Yeah."
+    },
+    {
+      "start": 2222.64,
+      "end": 2226.56,
+      "text": "Kevin Weil: Or they're using the free version because you know, of course, that's how everyone starts."
+    },
+    {
+      "start": 2226.72,
+      "end": 2232.56,
+      "text": "Kevin Weil: and the free version doesn't think for as long, and so it can't solve problems that are as challenging."
+    },
+    {
+      "start": 2232.76,
+      "end": 2234.04,
+      "text": "Kevin Weil: yeah, I think that's really real."
+    },
+    {
+      "start": 2234.12,
+      "end": 2239.64,
+      "text": "Kevin Weil: It's one of the reasons that I think the best advice is to just like keep trying the problems."
+    },
+    {
+      "start": 2239.72,
+      "end": 2242.12,
+      "text": "Kevin Weil: Even if you're working on problems and"
+    },
+    {
+      "start": 2243.26,
+      "end": 2248.14,
+      "text": "Kevin Weil: As you try them on GPT-5, it like isn't super helpful."
+    },
+    {
+      "start": 2248.38,
+      "end": 2249.42,
+      "text": "Kevin Weil: I wouldn't give up."
+    },
+    {
+      "start": 2249.58,
+      "end": 2251.58,
+      "text": "Kevin Weil: I would keep trying it every few months."
+    },
+    {
+      "start": 2251.66,
+      "end": 2256.22,
+      "text": "Kevin Weil: And I think at some point, you know, it's gonna start being valuable if it's not already there today."
+    },
+    {
+      "start": 2257.6,
+      "end": 2261.2,
+      "text": "Kevin Weil: We talked about sort of thinking time."
+    },
+    {
+      "start": 2261.28,
+      "end": 2266.64,
+      "text": "Kevin Weil: Yeah, that's another area that we're really i excited to see that with GPT-5 Pro."
+    },
+    {
+      "start": 2267.54,
+      "end": 2268.5,
+      "text": "Kevin Weil: You can get the model."
+    },
+    {
+      "start": 2268.66,
+      "end": 2272.02,
+      "text": "Kevin Weil: I've seen it think for what, maybe 40 minutes on some of the hardest problems."
+    },
+    {
+      "start": 2273.3,
+      "end": 2279.54,
+      "text": "Kevin Weil: But you know, it has a it has a certain amount of of sort of compute allowance because we have to serve it to"
+    },
+    {
+      "start": 2280.02,
+      "end": 2281.62,
+      "text": "Kevin Weil: Many, many, many people."
+    },
+    {
+      "start": 2282.18,
+      "end": 2286.1,
+      "text": "Kevin Weil:  forty minutes is certainly not a limit on thinking."
+    },
+    {
+      "start": 2286.18,
+      "end": 2292.02,
+      "text": "Kevin Weil: Like the models can think for two hours, six hours, twelve hours, twenty-four hours."
+    },
+    {
+      "start": 2292.18,
+      "end": 2299.38,
+      "text": "Kevin Weil: And one thing we continue to see is that pass rate on hard problems continues to improve as you give the models more time to think."
+    },
+    {
+      "start": 2299.54,
+      "end": 2304.5,
+      "text": "Kevin Weil: Which is like, you know, it's surprising actually the number of times there's a totally reasonable human"
+    },
+    {
+      "start": 2304.76,
+      "end": 2306.92,
+      "text": "Kevin Weil: like intuitive human analogy to these things."
+    },
+    {
+      "start": 2307.16,
+      "end": 2312.28,
+      "text": "Kevin Weil: There are a lot of problems that I can't solve in 20 minutes, but that I might be able to solve if you gave me two hours."
+    },
+    {
+      "start": 2312.6,
+      "end": 2313.8,
+      "text": "Andrew Mayne: System one and system two thinking."
+    },
+    {
+      "start": 2314.12,
+      "end": 2319.24,
+      "text": "Kevin Weil: Yeah, and some that I can't solve in two hours, but if I had a day to really think about it and try different things, I might get there."
+    },
+    {
+      "start": 2319.18,
+      "end": 2320.54,
+      "text": "Kevin Weil: And the models are the same way."
+    },
+    {
+      "start": 2320.78,
+      "end": 2328.78,
+      "text": "Kevin Weil: So being able to give a much small, you know, there aren't as many scientists in the world as there are users of ChatGPT, if we could find ways to give"
+    },
+    {
+      "start": 2328.94,
+      "end": 2332.46,
+      "text": "Kevin Weil: scientists that really know how to use the models well, just a huge amount of compute."
+    },
+    {
+      "start": 2332.78,
+      "end": 2335.74,
+      "text": "Kevin Weil: I think that is yet another way that we can accelerate science."
+    },
+    {
+      "start": 2336.06,
+      "end": 2338.14,
+      "text": "Andrew Mayne: Yeah, it's a it's a very good point because"
+    },
+    {
+      "start": 2338.74,
+      "end": 2340.98,
+      "text": "Andrew Mayne: You'll hear people talk about we hit a wall or whatever."
+    },
+    {
+      "start": 2341.06,
+      "end": 2347.94,
+      "text": "Andrew Mayne: And one of the things that was really  an amazing discovery, which you know, a year ago we found out about the whole the reasoning paradigm and the fact that"
+    },
+    {
+      "start": 2348.26,
+      "end": 2355.78,
+      "text": "Andrew Mayne: You can just take the model of today and let it think longer and we think about, you know, people go, what would we do with all this compute we're building, all these this hyperscaling?"
+    },
+    {
+      "start": 2355.94,
+      "end": 2356.26,
+      "text": "Andrew Mayne: It's like"
+    },
+    {
+      "start": 2356.64,
+      "end": 2361.68,
+      "text": "Andrew Mayne: Even using today's models and letting them think for a long time, we could probably have some amazing discoveries."
+    },
+    {
+      "start": 2361.92,
+      "end": 2363.36,
+      "text": "Kevin Weil: Yeah, a hundred percent."
+    },
+    {
+      "start": 2363.52,
+      "end": 2364.4,
+      "text": "Kevin Weil: I I think if"
+    },
+    {
+      "start": 2364.74,
+      "end": 2376.66,
+      "text": "Kevin Weil: If model progress stopped today, just the process of of driving awareness within the scientific community and giving people more of the best that the models can deliver, I think we would see"
+    },
+    {
+      "start": 2376.96,
+      "end": 2382.4,
+      "text": "Kevin Weil:  a large amount of scientific acceleration, but of course progress is not going to stop, as Alex was saying."
+    },
+    {
+      "start": 2382.56,
+      "end": 2387.04,
+      "text": "Kevin Weil: And so it when you think about the models being able to think for a longer time"
+    },
+    {
+      "start": 2387.56,
+      "end": 2392.2,
+      "text": "Kevin Weil: being able to train them to do harder and harder scientific tasks."
+    },
+    {
+      "start": 2392.76,
+      "end": 2401.72,
+      "text": "Kevin Weil: And actually also just, you know, getting out in the scientific community and helping people see what the frontier really is and how they can use the models better to do the work that they're doing."
+    },
+    {
+      "start": 2401.82,
+      "end": 2408.22,
+      "text": "Kevin Weil: I just like I'm excited to see where this goes over the course of the next six months, twelve months, twenty-four months."
+    },
+    {
+      "start": 2408.54,
+      "end": 2411.1,
+      "text": "Alex Lupsasca: Yeah, I think this is a really unique time in history."
+    },
+    {
+      "start": 2411.18,
+      "end": 2412.94,
+      "text": "Alex Lupsasca: It feels like a special moment."
+    },
+    {
+      "start": 2413.34,
+      "end": 2417.98,
+      "text": "Alex Lupsasca: And to be clear, we're not telling people drop whatever you're doing and come do AI."
+    },
+    {
+      "start": 2418.06,
+      "end": 2419.26,
+      "text": "Alex Lupsasca: That's not the message."
+    },
+    {
+      "start": 2419.5,
+      "end": 2421.18,
+      "text": "Alex Lupsasca: I think what we want to say is"
+    },
+    {
+      "start": 2421.72,
+      "end": 2431.72,
+      "text": "Alex Lupsasca: Keep doing what you're doing, but also there's this great new collaborator, this new tool you get to use that's gonna make it even more fun and it's gonna bring new life into a lot of different fields."
+    },
+    {
+      "start": 2431.74,
+      "end": 2439.42,
+      "text": "Andrew Mayne: One of the challenges right now with benchmarks is that models when we talk about terms like saturation, it seems like models have done that."
+    },
+    {
+      "start": 2441.32,
+      "end": 2443.4,
+      "text": "Andrew Mayne: don't seem that impressive anymore."
+    },
+    {
+      "start": 2443.64,
+      "end": 2446.12,
+      "text": "Andrew Mayne: Now it looks like we're moving to the scientific frontier."
+    },
+    {
+      "start": 2446.2,
+      "end": 2447.8,
+      "text": "Andrew Mayne: What do scientific benchmarks look like?"
+    },
+    {
+      "start": 2448.04,
+      "end": 2448.28,
+      "text": "Kevin Weil: Yeah."
+    },
+    {
+      "start": 2448.44,
+      "end": 2451.08,
+      "text": "Kevin Weil: Like with many things, there's sort of an intuitive "
+    },
+    {
+      "start": 2451.56,
+      "end": 2457.32,
+      "text": "Kevin Weil:  way to understand this is the models get smarter, benchmarks are just a way of of testing the model in some sense."
+    },
+    {
+      "start": 2457.48,
+      "end": 2464.44,
+      "text": "Kevin Weil: And as the models get smarter, you need to give them harder and harder tests because they learn how to ace the the earlier tests."
+    },
+    {
+      "start": 2464.58,
+      "end": 2475.86,
+      "text": "Kevin Weil: So if you take GPQA, which  stands for Google Proof QA, it's a it's a scientific benchmark that asks basically PhD level questions across a range of scientific fields."
+    },
+    {
+      "start": 2475.96,
+      "end": 2479.08,
+      "text": "Kevin Weil: We thought for a long time that was a very hard benchmark to beat."
+    },
+    {
+      "start": 2479.16,
+      "end": 2485.0,
+      "text": "Kevin Weil: I think it came out in 2023 and GPT-4 originally was like at 39% on this benchmark."
+    },
+    {
+      "start": 2485.16,
+      "end": 2487.32,
+      "text": "Kevin Weil: Humans, by the way, are at about 70%."
+    },
+    {
+      "start": 2487.74,
+      "end": 2492.94,
+      "text": "Kevin Weil: But now you fast forward two years and our latest models are nearly at 90%."
+    },
+    {
+      "start": 2493.18,
+      "end": 2493.42,
+      "text": "Andrew Mayne: Wow."
+    },
+    {
+      "start": 2493.66,
+      "end": 2500.22,
+      "text": "Kevin Weil: So they're surpassing the capability of most humans in their field of scientific study."
+    },
+    {
+      "start": 2500.34,
+      "end": 2504.02,
+      "text": "Kevin Weil: across every field at once, which is kind of amazing when you think about it."
+    },
+    {
+      "start": 2504.58,
+      "end": 2507.38,
+      "text": "Kevin Weil: But that isn't, you know, those aren't the hardest questions in the world."
+    },
+    {
+      "start": 2507.46,
+      "end": 2509.86,
+      "text": "Kevin Weil: And that's one of the reasons that we're focused on"
+    },
+    {
+      "start": 2510.04,
+      "end": 2514.44,
+      "text": "Kevin Weil:  new evaluations that ask frontier science and mathematics questions."
+    },
+    {
+      "start": 2514.6,
+      "end": 2522.2,
+      "text": "Kevin Weil: It's also, you know, we released something called GDP Val recently, which is an eval that tests the model's ability to do economically valuable tasks."
+    },
+    {
+      "start": 2522.44,
+      "end": 2527.32,
+      "text": "Kevin Weil: So the the smarter the models get, the harder the tests that we want to keep giving them."
+    },
+    {
+      "start": 2527.64,
+      "end": 2532.44,
+      "text": "Kevin Weil: Because, you know, every gap that we see, every place where the model can't answer a certain question."
+    },
+    {
+      "start": 2532.66,
+      "end": 2535.7,
+      "text": "Kevin Weil: That's feedback for us and gives us a way to improve the model further."
+    },
+    {
+      "start": 2536.02,
+      "end": 2538.02,
+      "text": "Andrew Mayne: Curing disease, great."
+    },
+    {
+      "start": 2538.34,
+      "end": 2541.62,
+      "text": "Andrew Mayne: What area though beyond that would you really like to see?"
+    },
+    {
+      "start": 2541.7,
+      "end": 2545.38,
+      "text": "Andrew Mayne: And it could be crazy or weird or odd you'd like to see scientific acceleration."
+    },
+    {
+      "start": 2545.62,
+      "end": 2546.58,
+      "text": "Kevin Weil: You want to go first?"
+    },
+    {
+      "start": 2546.46,
+      "end": 2547.74,
+      "text": "Alex Lupsasca: Well, I'm very selfish."
+    },
+    {
+      "start": 2547.82,
+      "end": 2549.82,
+      "text": "Alex Lupsasca: So I have my own interest."
+    },
+    {
+      "start": 2550.14,
+      "end": 2551.82,
+      "text": "Alex Lupsasca: Um I really like black holes."
+    },
+    {
+      "start": 2551.9,
+      "end": 2552.46,
+      "text": "Alex Lupsasca: That's my passion."
+    },
+    {
+      "start": 2552.78,
+      "end": 2554.06,
+      "text": "Andrew Mayne: You want to build a black hole."
+    },
+    {
+      "start": 2554.3,
+      "end": 2559.34,
+      "text": "Alex Lupsasca:  I think there's a lot of potential for how AI can accelerate black hole research."
+    },
+    {
+      "start": 2559.26,
+      "end": 2569.5,
+      "text": "Alex Lupsasca: And of course I want to see it help with cancer and drug discovery and all these good things, but my first priority is yeah, I want I want to see more AI helping with black holes."
+    },
+    {
+      "start": 2569.66,
+      "end": 2570.46,
+      "text": "Alex Lupsasca: so"
+    },
+    {
+      "start": 2571.12,
+      "end": 2574.64,
+      "text": "Alex Lupsasca: You know, there's a lot of ideas on the table and so much potential."
+    },
+    {
+      "start": 2574.96,
+      "end": 2580.24,
+      "text": "Alex Lupsasca: One thing is um there are a lot of theoretical questions that are very thorny."
+    },
+    {
+      "start": 2580.4,
+      "end": 2581.76,
+      "text": "Alex Lupsasca: And I think if"
+    },
+    {
+      "start": 2582.3,
+      "end": 2588.14,
+      "text": "Alex Lupsasca:  you just sat down and you could understand everything that is known and you could integrate it, integrate that knowledge."
+    },
+    {
+      "start": 2588.3,
+      "end": 2590.22,
+      "text": "Alex Lupsasca: I think a lot of things would fall out of that."
+    },
+    {
+      "start": 2590.3,
+      "end": 2593.26,
+      "text": "Alex Lupsasca: and that's one of the things that we're exploring."
+    },
+    {
+      "start": 2594.06,
+      "end": 2603.42,
+      "text": "Alex Lupsasca: You know, dark matter, for instance, is something that we've been talking about because there's a lot of data on dark matter from various experiments."
+    },
+    {
+      "start": 2603.56,
+      "end": 2605.8,
+      "text": "Alex Lupsasca: But we still have no idea really what it is."
+    },
+    {
+      "start": 2605.96,
+      "end": 2607.32,
+      "text": "Alex Lupsasca: There's a bunch of theories out there."
+    },
+    {
+      "start": 2607.56,
+      "end": 2611.48,
+      "text": "Alex Lupsasca: I think a really interesting idea is could it be that by"
+    },
+    {
+      "start": 2612.14,
+      "end": 2625.42,
+      "text": "Alex Lupsasca: Feeding ChatGPT all the experimental data that is known about dark matter and all the theories, it could rule some of them out already by combining bits of knowledge that are just so disparate that it's hard for our human minds to hold them together."
+    },
+    {
+      "start": 2625.58,
+      "end": 2627.98,
+      "text": "Alex Lupsasca: I think that's kind of an exciting frontier."
+    },
+    {
+      "start": 2628.54,
+      "end": 2634.46,
+      "text": "Alex Lupsasca: And then I think also since we were talking about the far future, experimental"
+    },
+    {
+      "start": 2634.92,
+      "end": 2637.24,
+      "text": "Alex Lupsasca: Work is totally not out of the question."
+    },
+    {
+      "start": 2637.32,
+      "end": 2641.56,
+      "text": "Alex Lupsasca: Right now we're focused on more theoretical fields because they can be done in silico."
+    },
+    {
+      "start": 2642.2,
+      "end": 2644.68,
+      "text": "Alex Lupsasca: But you could totally imagine using AI"
+    },
+    {
+      "start": 2644.76,
+      "end": 2652.2,
+      "text": "Alex Lupsasca: to design better experiments and maybe run very hard, complicated experiments, including maybe for black hole physics and other fields."
+    },
+    {
+      "start": 2652.36,
+      "end": 2654.2,
+      "text": "Alex Lupsasca: I think there's a lot of"
+    },
+    {
+      "start": 2654.72,
+      "end": 2656.88,
+      "text": "Alex Lupsasca: ground to explore here and very exciting possibilities."
+    },
+    {
+      "start": 2657.2,
+      "end": 2658.32,
+      "text": "Kevin Weil: Yeah and I'll say fusion."
+    },
+    {
+      "start": 2658.4,
+      "end": 2667.76,
+      "text": "Kevin Weil: just because the i if we can actually we have again small scale  or I mean large scale but small small  existence proofs of it."
+    },
+    {
+      "start": 2668.5,
+      "end": 2676.98,
+      "text": "Kevin Weil: So clearly it can work and the the challenge now is to do it like  at at bigger scale, more reliably."
+    },
+    {
+      "start": 2677.88,
+      "end": 2679.0,
+      "text": "Kevin Weil: Clearly it's possible."
+    },
+    {
+      "start": 2679.08,
+      "end": 2687.96,
+      "text": "Kevin Weil: We will figure this out, but if we can accelerate it, then you know the world the world with fusion is a significantly better place than the world without."
+    },
+    {
+      "start": 2688.12,
+      "end": 2691.0,
+      "text": "Kevin Weil: We solve a lot of problems if we if we solve fusion."
+    },
+    {
+      "start": 2691.24,
+      "end": 2694.92,
+      "text": "Kevin Weil: And , you know, I'm excited to see if maybe we can contribute in some way."
+    },
+    {
+      "start": 2695.32,
+      "end": 2699.24,
+      "text": "Andrew Mayne: I think it's easily overlooked by people how much"
+    },
+    {
+      "start": 2700.22,
+      "end": 2709.42,
+      "text": "Andrew Mayne: We're dependent upon energy and if we had the same orders of magnitude improvement on energy productive production that we had in the last 200 years, what that unlocks."
+    },
+    {
+      "start": 2709.64,
+      "end": 2717.0,
+      "text": "Andrew Mayne: And you think about, you know, things that are energy intensive like desalinization, you know, or construction and other things."
+    },
+    {
+      "start": 2717.16,
+      "end": 2720.44,
+      "text": "Andrew Mayne: And when you have really, really, really unbound energy."
+    },
+    {
+      "start": 2720.72,
+      "end": 2720.88,
+      "text": "Kevin Weil: Yeah."
+    },
+    {
+      "start": 2721.12,
+      "end": 2721.68,
+      "text": "Kevin Weil: It's incredible."
+    },
+    {
+      "start": 2721.92,
+      "end": 2728.32,
+      "text": "Kevin Weil: I mean some groups might need to like might be looking to build lots of infrastructure for lots of GPUs, for example."
+    },
+    {
+      "start": 2728.66,
+      "end": 2728.82,
+      "text": "Kevin Weil: Yeah."
+    },
+    {
+      "start": 2729.06,
+      "end": 2729.38,
+      "text": "Kevin Weil: Yeah."
+    },
+    {
+      "start": 2729.62,
+      "end": 2731.22,
+      "text": "Alex Lupsasca: Who knows who who might want to do that?"
+    },
+    {
+      "start": 2731.46,
+      "end": 2739.46,
+      "text": "Andrew Mayne: But even yeah, even beyond that, I think that we're gonna probably see from that the infrastructure build-out a lot more energy devoted to energy."
+    },
+    {
+      "start": 2739.62,
+      "end": 2748.02,
+      "text": "Andrew Mayne: And much like mobile phones and laptops made electric cars a lot more efficient because of all this money being thrown into battery technology, I think we'll probably see that offshoot."
+    },
+    {
+      "start": 2748.26,
+      "end": 2748.42,
+      "text": "Kevin Weil: Yeah."
+    },
+    {
+      "start": 2748.5,
+      "end": 2752.9,
+      "text": "Kevin Weil: And I think anytime you change something by an order of magnitude, the world changes."
+    },
+    {
+      "start": 2753.22,
+      "end": 2764.34,
+      "text": "Kevin Weil: I think the the what we've seen over the past year with the way that software engineering has changed, you now don't need to be trained as a software engineer to write, you know, meaningful amounts of of code."
+    },
+    {
+      "start": 2764.46,
+      "end": 2769.34,
+      "text": "Kevin Weil: That means you can bring, you know, there are like what 30 million software engineers in the world."
+    },
+    {
+      "start": 2769.58,
+      "end": 2775.34,
+      "text": "Kevin Weil: I think now 300 million, maybe 3 billion people can can write software."
+    },
+    {
+      "start": 2775.56,
+      "end": 2777.64,
+      "text": "Kevin Weil: And that's gonna fundamentally change things."
+    },
+    {
+      "start": 2777.96,
+      "end": 2784.2,
+      "text": "Kevin Weil: If we can move, you know, if we can make energy ten times more prevalent, ten times cheaper."
+    },
+    {
+      "start": 2784.72,
+      "end": 2791.12,
+      "text": "Kevin Weil: It will change the world and I think it's a really high potential place for us to apply the intelligence of our models."
+    },
+    {
+      "start": 2791.6,
+      "end": 2792.96,
+      "text": "Alex Lupsasca: If I can add something"
+    },
+    {
+      "start": 2793.48,
+      "end": 2804.6,
+      "text": "Alex Lupsasca: We have ideas that we're excited about in terms of the potential of AI to change science, but this is very much not supposed to be a top-down effort where we dictate what AI is gonna do in the world."
+    },
+    {
+      "start": 2804.4,
+      "end": 2807.84,
+      "text": "Alex Lupsasca: We're actually very excited about building the best general purpose AI."
+    },
+    {
+      "start": 2807.92,
+      "end": 2813.28,
+      "text": "Alex Lupsasca: And if we release that into the world, then everybody will take it and use it for their own purposes."
+    },
+    {
+      "start": 2813.36,
+      "end": 2817.92,
+      "text": "Alex Lupsasca: And you know, for me, I'm a black hole physicist, I want to use AI to further black hole science."
+    },
+    {
+      "start": 2818.0,
+      "end": 2821.68,
+      "text": "Alex Lupsasca: But you know, for a scientist in another field, I think it's natural to use it for that."
+    },
+    {
+      "start": 2821.7,
+      "end": 2826.9,
+      "text": "Alex Lupsasca: And the nature of research is such that it's very hard to know where the next breakthrough is going to come from, really."
+    },
+    {
+      "start": 2827.06,
+      "end": 2831.46,
+      "text": "Alex Lupsasca: And so I think our our vision is to push this out into the world."
+    },
+    {
+      "start": 2831.74,
+      "end": 2836.3,
+      "text": "Alex Lupsasca: we can see I think we could see a lot more adoption than we have today."
+    },
+    {
+      "start": 2836.46,
+      "end": 2838.14,
+      "text": "Alex Lupsasca: And once that happens,"
+    },
+    {
+      "start": 2839.26,
+      "end": 2846.46,
+      "text": "Alex Lupsasca: Who knows who knows where the next biggest discovery will come, but that's how we give us the the give ourselves the best chance to accelerate scientific discovery."
+    },
+    {
+      "start": 2846.7,
+      "end": 2847.98,
+      "text": "Kevin Weil: Yeah, it's such an important point."
+    },
+    {
+      "start": 2848.14,
+      "end": 2852.78,
+      "text": "Kevin Weil: The the the frontier or the the the the surface area of science is massive."
+    },
+    {
+      "start": 2852.82,
+      "end": 2861.78,
+      "text": "Kevin Weil: And this is not about what we can do within OpenAI individually to to accelerate science or to accelerate specific scientific projects."
+    },
+    {
+      "start": 2862.02,
+      "end": 2863.3,
+      "text": "Kevin Weil: It's about giving"
+    },
+    {
+      "start": 2863.52,
+      "end": 2867.68,
+      "text": "Kevin Weil: scientists all around the world, AI, so that they can accelerate their work."
+    },
+    {
+      "start": 2867.84,
+      "end": 2870.72,
+      "text": "Kevin Weil: That's how we move science forward faster."
+    },
+    {
+      "start": 2871.28,
+      "end": 2875.92,
+      "text": "Kevin Weil: So, you know, there there are pieces I think that we will try and do because it'll help us learn."
+    },
+    {
+      "start": 2875.9,
+      "end": 2882.38,
+      "text": "Kevin Weil: But the vast majority, like what we really want is to see a hundred scientists win Nobel Prizes using AI."
+    },
+    {
+      "start": 2883.1,
+      "end": 2886.22,
+      "text": "Andrew Mayne: Yeah, it feels like it's not the end of science, it's really the start."
+    },
+    {
+      "start": 2886.62,
+      "end": 2886.94,
+      "text": "Kevin Weil: Exactly."
+    },
+    {
+      "start": 2887.18,
+      "end": 2887.42,
+      "text": "Alex Lupsasca: Exactly."
+    },
+    {
+      "start": 2887.66,
+      "end": 2891.9,
+      "text": "Kevin Weil: Certainly it's a it's sort of a there's a science 2.0 moment happening, I think."
+    }
+  ],
+  "word_count": 10702,
+  "fetched_at": "2025-12-21T02:19:44.649154Z"
+}

@@ -1,0 +1,494 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "My big idea for 2026 is the renaissance [music] of the American factory. I think next year we'll see companies approach challenges from energy to mining to construction [music] to manufacturing with a factory first mindset. The modular deployment of AI and autonomy alongside skilled labor will make complex bespoke processes operate like an assembly line. America's first great century was built on industrial strength, but it's no secret that we've lost a lot of that muscle. Some of that has been from offshoring, [music] from the financialization of everything in the 80s leading to the large-scale offshoring of industrial [music] manufacturing in the '9s and 2000s. Some of it dates back to regulation. So rules and agencies and processes that were put in place usually for very good and specific reasons at the time have built up over time into a crust that makes it, you know, very hard to do [music] new things and to build new things in America. But here we are and we have to figure out how to reinstill a culture of building in this [music] country. I'm not just talking about a factory in a literal sense like you have a [music] warehouse with an assembly line where you have some mix of humans and machines and at the end of the factory line there's a widget that pops out. [music] I'm really thinking about the principles of an assembly line full stop and how [music] are those principles getting applied to industries that aren't you know traditionally industries you'd think of when you think of a factory. [music] So housing, the construction of data centers, the construction of mines, the construction [music] of large scale energy infrastructure and energy projects. We're seeing founders try to reduce these problems [music] into kind of a decomposible set of modular parts such that you can apply the [music] principles of an assembly line to society scale problems. And AI is a really amazing [music] way to do that because you can understand and map out different complexities in a regulation in [music] a very formulaic and agentic way without having to completely redesign your entire [music] processes from scratch every single time. How do we take technology and bring the factory [music] out into the world? You know, we're building data centers at an unprecedented rate today and we're, you know, creating standard IP and standard [music] designs and putting them up in in record time. It's a great opportunity for us to test [music] where autonomy, AI, robotics, other technologies that are coming to maturity right now can be deployed on these sort of large scale physical assets because [music] these building projects are moving so fast. As the data center market develops, these technologies [music] spin out and become useful across a broad cross-section of industrial projects. Whether that's the construction of new freeways and airports and landing strips or the [music] construction of mines and mining and refining facilities which are so desperately needed. How do we take some of the learnings about how quickly we're able to move in data centers and apply them to building [music] new factories, new fabs, new facilities to manufacture goods, whether it's for the defense sector, for the consumer sector [music] or the commercial sector in the United States. How do we build things at scale? How do we create industrial capacity and use our ability to scale [music] as an advantage? If you're a founder or a builder and you were excited about reinventing what it means to build [music] a factory in the United States, come talk to us.",
+  "segments": [
+    {
+      "start": 0.16,
+      "end": 3.2,
+      "text": "My big idea for 2026 is the renaissance"
+    },
+    {
+      "start": 2.62,
+      "end": 5.36,
+      "text": "[music]"
+    },
+    {
+      "start": 3.2,
+      "end": 7.12,
+      "text": "of the American factory. I think next"
+    },
+    {
+      "start": 5.36,
+      "end": 10.32,
+      "text": "year we'll see companies approach"
+    },
+    {
+      "start": 7.12,
+      "end": 11.04,
+      "text": "challenges from energy to mining to"
+    },
+    {
+      "start": 10.32,
+      "end": 13.44,
+      "text": "construction [music]"
+    },
+    {
+      "start": 11.04,
+      "end": 16.08,
+      "text": "to manufacturing with a factory first"
+    },
+    {
+      "start": 13.44,
+      "end": 18.48,
+      "text": "mindset. The modular deployment of AI"
+    },
+    {
+      "start": 16.08,
+      "end": 21.12,
+      "text": "and autonomy alongside skilled labor"
+    },
+    {
+      "start": 18.48,
+      "end": 23.6,
+      "text": "will make complex bespoke processes"
+    },
+    {
+      "start": 21.12,
+      "end": 26.08,
+      "text": "operate like an assembly line. America's"
+    },
+    {
+      "start": 23.6,
+      "end": 28.0,
+      "text": "first great century was built on"
+    },
+    {
+      "start": 26.08,
+      "end": 29.84,
+      "text": "industrial strength, but it's no secret"
+    },
+    {
+      "start": 28.0,
+      "end": 31.44,
+      "text": "that we've lost a lot of that muscle."
+    },
+    {
+      "start": 29.84,
+      "end": 32.0,
+      "text": "Some of that has been from offshoring,"
+    },
+    {
+      "start": 31.44,
+      "end": 33.76,
+      "text": "[music]"
+    },
+    {
+      "start": 32.0,
+      "end": 36.16,
+      "text": "from the financialization of everything"
+    },
+    {
+      "start": 33.76,
+      "end": 37.52,
+      "text": "in the 80s leading to the large-scale"
+    },
+    {
+      "start": 36.16,
+      "end": 40.08,
+      "text": "offshoring of industrial [music]"
+    },
+    {
+      "start": 37.52,
+      "end": 42.72,
+      "text": "manufacturing in the '9s and 2000s. Some"
+    },
+    {
+      "start": 40.08,
+      "end": 45.92,
+      "text": "of it dates back to regulation. So rules"
+    },
+    {
+      "start": 42.72,
+      "end": 47.68,
+      "text": "and agencies and processes that were put"
+    },
+    {
+      "start": 45.92,
+      "end": 49.76,
+      "text": "in place usually for very good and"
+    },
+    {
+      "start": 47.68,
+      "end": 52.24,
+      "text": "specific reasons at the time have built"
+    },
+    {
+      "start": 49.76,
+      "end": 54.32,
+      "text": "up over time into a crust that makes it,"
+    },
+    {
+      "start": 52.24,
+      "end": 56.08,
+      "text": "you know, very hard to do [music] new"
+    },
+    {
+      "start": 54.32,
+      "end": 58.32,
+      "text": "things and to build new things in"
+    },
+    {
+      "start": 56.08,
+      "end": 60.88,
+      "text": "America. But here we are and we have to"
+    },
+    {
+      "start": 58.32,
+      "end": 62.24,
+      "text": "figure out how to reinstill a culture of"
+    },
+    {
+      "start": 60.88,
+      "end": 64.88,
+      "text": "building in this [music] country. I'm"
+    },
+    {
+      "start": 62.24,
+      "end": 67.04,
+      "text": "not just talking about a factory in a"
+    },
+    {
+      "start": 64.88,
+      "end": 70.32,
+      "text": "literal sense like you have a [music]"
+    },
+    {
+      "start": 67.04,
+      "end": 72.4,
+      "text": "warehouse with an assembly line where"
+    },
+    {
+      "start": 70.32,
+      "end": 74.48,
+      "text": "you have some mix of humans and machines"
+    },
+    {
+      "start": 72.4,
+      "end": 76.4,
+      "text": "and at the end of the factory line"
+    },
+    {
+      "start": 74.48,
+      "end": 78.48,
+      "text": "there's a widget that pops out. [music]"
+    },
+    {
+      "start": 76.4,
+      "end": 81.22,
+      "text": "I'm really thinking about the principles"
+    },
+    {
+      "start": 78.48,
+      "end": 82.96,
+      "text": "of an assembly line full stop and how"
+    },
+    {
+      "start": 81.22,
+      "end": 85.04,
+      "text": "[music] are those principles getting"
+    },
+    {
+      "start": 82.96,
+      "end": 86.48,
+      "text": "applied to industries that aren't you"
+    },
+    {
+      "start": 85.04,
+      "end": 87.77,
+      "text": "know traditionally industries you'd"
+    },
+    {
+      "start": 86.48,
+      "end": 89.84,
+      "text": "think of when you think of a factory."
+    },
+    {
+      "start": 87.77,
+      "end": 91.92,
+      "text": "[music] So housing, the construction of"
+    },
+    {
+      "start": 89.84,
+      "end": 93.28,
+      "text": "data centers, the construction of mines,"
+    },
+    {
+      "start": 91.92,
+      "end": 94.88,
+      "text": "the construction [music] of large scale"
+    },
+    {
+      "start": 93.28,
+      "end": 97.2,
+      "text": "energy infrastructure and energy"
+    },
+    {
+      "start": 94.88,
+      "end": 98.96,
+      "text": "projects. We're seeing founders try to"
+    },
+    {
+      "start": 97.2,
+      "end": 101.04,
+      "text": "reduce these problems [music]"
+    },
+    {
+      "start": 98.96,
+      "end": 103.84,
+      "text": "into kind of a decomposible set of"
+    },
+    {
+      "start": 101.04,
+      "end": 105.44,
+      "text": "modular parts such that you can apply"
+    },
+    {
+      "start": 103.84,
+      "end": 108.56,
+      "text": "the [music] principles of an assembly"
+    },
+    {
+      "start": 105.44,
+      "end": 109.84,
+      "text": "line to society scale problems. And AI"
+    },
+    {
+      "start": 108.56,
+      "end": 112.16,
+      "text": "is a really amazing [music] way to do"
+    },
+    {
+      "start": 109.84,
+      "end": 114.0,
+      "text": "that because you can understand and map"
+    },
+    {
+      "start": 112.16,
+      "end": 115.76,
+      "text": "out different complexities in a"
+    },
+    {
+      "start": 114.0,
+      "end": 118.24,
+      "text": "regulation in [music] a very formulaic"
+    },
+    {
+      "start": 115.76,
+      "end": 119.92,
+      "text": "and agentic way without having to"
+    },
+    {
+      "start": 118.24,
+      "end": 121.68,
+      "text": "completely redesign your entire [music]"
+    },
+    {
+      "start": 119.92,
+      "end": 124.16,
+      "text": "processes from scratch every single"
+    },
+    {
+      "start": 121.68,
+      "end": 126.48,
+      "text": "time. How do we take technology and"
+    },
+    {
+      "start": 124.16,
+      "end": 128.4,
+      "text": "bring the factory [music] out into the"
+    },
+    {
+      "start": 126.48,
+      "end": 130.64,
+      "text": "world? You know, we're building data"
+    },
+    {
+      "start": 128.4,
+      "end": 132.72,
+      "text": "centers at an unprecedented rate today"
+    },
+    {
+      "start": 130.64,
+      "end": 134.8,
+      "text": "and we're, you know, creating standard"
+    },
+    {
+      "start": 132.72,
+      "end": 136.96,
+      "text": "IP and standard [music] designs and"
+    },
+    {
+      "start": 134.8,
+      "end": 138.86,
+      "text": "putting them up in in record time. It's"
+    },
+    {
+      "start": 136.96,
+      "end": 142.96,
+      "text": "a great opportunity for us to test"
+    },
+    {
+      "start": 138.86,
+      "end": 144.56,
+      "text": "[music] where autonomy, AI, robotics,"
+    },
+    {
+      "start": 142.96,
+      "end": 146.4,
+      "text": "other technologies that are coming to"
+    },
+    {
+      "start": 144.56,
+      "end": 147.76,
+      "text": "maturity right now can be deployed on"
+    },
+    {
+      "start": 146.4,
+      "end": 149.68,
+      "text": "these sort of large scale physical"
+    },
+    {
+      "start": 147.76,
+      "end": 151.84,
+      "text": "assets because [music] these building"
+    },
+    {
+      "start": 149.68,
+      "end": 153.6,
+      "text": "projects are moving so fast. As the data"
+    },
+    {
+      "start": 151.84,
+      "end": 155.52,
+      "text": "center market develops, these"
+    },
+    {
+      "start": 153.6,
+      "end": 157.92,
+      "text": "technologies [music] spin out and become"
+    },
+    {
+      "start": 155.52,
+      "end": 159.68,
+      "text": "useful across a broad cross-section of"
+    },
+    {
+      "start": 157.92,
+      "end": 161.68,
+      "text": "industrial projects. Whether that's the"
+    },
+    {
+      "start": 159.68,
+      "end": 163.75,
+      "text": "construction of new freeways and"
+    },
+    {
+      "start": 161.68,
+      "end": 166.56,
+      "text": "airports and landing strips or the"
+    },
+    {
+      "start": 163.75,
+      "end": 168.24,
+      "text": "[music] construction of mines and mining"
+    },
+    {
+      "start": 166.56,
+      "end": 169.68,
+      "text": "and refining facilities which are so"
+    },
+    {
+      "start": 168.24,
+      "end": 171.36,
+      "text": "desperately needed. How do we take some"
+    },
+    {
+      "start": 169.68,
+      "end": 173.76,
+      "text": "of the learnings about how quickly we're"
+    },
+    {
+      "start": 171.36,
+      "end": 175.28,
+      "text": "able to move in data centers and apply"
+    },
+    {
+      "start": 173.76,
+      "end": 178.0,
+      "text": "them to building [music] new factories,"
+    },
+    {
+      "start": 175.28,
+      "end": 179.28,
+      "text": "new fabs, new facilities to manufacture"
+    },
+    {
+      "start": 178.0,
+      "end": 181.52,
+      "text": "goods, whether it's for the defense"
+    },
+    {
+      "start": 179.28,
+      "end": 183.04,
+      "text": "sector, for the consumer sector [music]"
+    },
+    {
+      "start": 181.52,
+      "end": 185.44,
+      "text": "or the commercial sector in the United"
+    },
+    {
+      "start": 183.04,
+      "end": 188.16,
+      "text": "States. How do we build things at scale?"
+    },
+    {
+      "start": 185.44,
+      "end": 189.84,
+      "text": "How do we create industrial capacity and"
+    },
+    {
+      "start": 188.16,
+      "end": 191.68,
+      "text": "use our ability to scale [music] as an"
+    },
+    {
+      "start": 189.84,
+      "end": 194.32,
+      "text": "advantage? If you're a founder or a"
+    },
+    {
+      "start": 191.68,
+      "end": 195.86,
+      "text": "builder and you were excited about"
+    },
+    {
+      "start": 194.32,
+      "end": 197.6,
+      "text": "reinventing what it means to build"
+    },
+    {
+      "start": 195.86,
+      "end": 201.16,
+      "text": "[music] a factory in the United States,"
+    },
+    {
+      "start": 197.6,
+      "end": 201.16,
+      "text": "come talk to us."
+    }
+  ],
+  "word_count": 606,
+  "fetched_at": "2025-12-21T02:19:08.375901Z"
+}

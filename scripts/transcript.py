@@ -28,18 +28,16 @@ def fetch_youtube_transcript(video_id):
     """
     try:
         from youtube_transcript_api import YouTubeTranscriptApi
-        from youtube_transcript_api._errors import (
-            TranscriptsDisabled,
-            NoTranscriptFound,
-            VideoUnavailable
-        )
     except ImportError:
         print("  ! youtube-transcript-api not installed")
         return None
     
     try:
+        # Create API instance (new API in v1.x)
+        api = YouTubeTranscriptApi()
+        
         # Try to get transcript in preferred languages
-        transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
+        transcript_list = api.list(video_id)
         
         # Prefer manual transcripts over auto-generated
         transcript = None
@@ -72,12 +70,12 @@ def fetch_youtube_transcript(video_id):
         
         for item in transcript_data:
             segment = {
-                "start": round(item['start'], 2),
-                "end": round(item['start'] + item['duration'], 2),
-                "text": item['text']
+                "start": round(item.start, 2),
+                "end": round(item.start + item.duration, 2),
+                "text": item.text
             }
             segments.append(segment)
-            full_text_parts.append(item['text'])
+            full_text_parts.append(item.text)
         
         full_text = ' '.join(full_text_parts)
         
@@ -90,10 +88,6 @@ def fetch_youtube_transcript(video_id):
             "fetched_at": datetime.utcnow().isoformat() + "Z"
         }
         
-    except (TranscriptsDisabled, NoTranscriptFound):
-        return None
-    except VideoUnavailable:
-        return None
     except Exception as e:
         print(f"  ! Error fetching YouTube transcript: {e}")
         return None

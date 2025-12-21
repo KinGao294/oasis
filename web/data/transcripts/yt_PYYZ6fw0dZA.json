@@ -1,0 +1,89 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "The AI revolution has a secret fatal flaw. It's power. What if the answer fits inside a shipping container? I flew all the way to Denmark to meet an incredible team of people building what is the future of nuclear energy, molten salt reactors. >> It lends itself to mass manufacturing. >> The vision is a gigafactory producing one reactor every day. >> The mass manufacturing is not difficult. The difficult thing is the approval. >> I spent 9 hours inside Copenhagen Atomics to see a reactor built for AI's power future and what could stop it.",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 4.8,
+      "text": "The AI revolution has a secret fatal"
+    },
+    {
+      "start": 3.28,
+      "end": 7.92,
+      "text": "flaw."
+    },
+    {
+      "start": 4.8,
+      "end": 10.08,
+      "text": "It's power."
+    },
+    {
+      "start": 7.92,
+      "end": 12.48,
+      "text": "What if the answer fits inside a"
+    },
+    {
+      "start": 10.08,
+      "end": 14.4,
+      "text": "shipping container? I flew all the way"
+    },
+    {
+      "start": 12.48,
+      "end": 16.72,
+      "text": "to Denmark to meet an incredible team of"
+    },
+    {
+      "start": 14.4,
+      "end": 19.68,
+      "text": "people building what is the future of"
+    },
+    {
+      "start": 16.72,
+      "end": 22.4,
+      "text": "nuclear energy, molten salt reactors."
+    },
+    {
+      "start": 19.68,
+      "end": 24.48,
+      "text": ">> It lends itself to mass manufacturing."
+    },
+    {
+      "start": 22.4,
+      "end": 26.48,
+      "text": ">> The vision is a gigafactory producing"
+    },
+    {
+      "start": 24.48,
+      "end": 28.48,
+      "text": "one reactor every day."
+    },
+    {
+      "start": 26.48,
+      "end": 30.32,
+      "text": ">> The mass manufacturing is not difficult."
+    },
+    {
+      "start": 28.48,
+      "end": 32.72,
+      "text": "The difficult thing is the approval."
+    },
+    {
+      "start": 30.32,
+      "end": 35.84,
+      "text": ">> I spent 9 hours inside Copenhagen"
+    },
+    {
+      "start": 32.72,
+      "end": 40.84,
+      "text": "Atomics to see a reactor built for AI's"
+    },
+    {
+      "start": 35.84,
+      "end": 40.84,
+      "text": "power future and what could stop it."
+    }
+  ],
+  "word_count": 97,
+  "fetched_at": "2025-12-21T02:20:10.273400Z"
+}

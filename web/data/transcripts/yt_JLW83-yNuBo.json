@@ -1,0 +1,159 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "A lot of great startup ideas are sort [music] of in this gray area of like the law is not totally clear. It's a little bit murky whether it's legal or [clears throat] illegal. Even Open AI is like that, [music] right? I mean, they they crawled the entire web without permission. You could argue that that's fair use or you could argue [music] it's like massive copyright theft. I remember talking to the Lyft founders the week before they launched Lyft [music] and they were extremely worried that they would go to jail and they decided to like roll the dice and launch this thing anyway. I think a big reason why other people didn't launch Lyft and Uber before [music] was literally that it's like it was basically illegal to do that and they were worried that they would go to jail. [music] >> What's funny now is uh it does seem like the world will sort of change the laws as it were. If it turns [music] out that the end user, the end consumer wins by that much. Finding laws that were written in a time before some big tech shift that [music] changes everything and just don't reflect reality can be really valuable.",
+  "segments": [
+    {
+      "start": 0.16,
+      "end": 4.16,
+      "text": "A lot of great startup ideas are sort"
+    },
+    {
+      "start": 1.96,
+      "end": 5.92,
+      "text": "[music] of in this gray area of like the"
+    },
+    {
+      "start": 4.16,
+      "end": 7.21,
+      "text": "law is not totally clear. It's a little"
+    },
+    {
+      "start": 5.92,
+      "end": 8.88,
+      "text": "bit murky whether it's legal or"
+    },
+    {
+      "start": 7.21,
+      "end": 9.76,
+      "text": "[clears throat] illegal. Even Open AI is"
+    },
+    {
+      "start": 8.88,
+      "end": 11.76,
+      "text": "like that, [music] right? I mean, they"
+    },
+    {
+      "start": 9.76,
+      "end": 13.44,
+      "text": "they crawled the entire web without"
+    },
+    {
+      "start": 11.76,
+      "end": 14.88,
+      "text": "permission. You could argue that that's"
+    },
+    {
+      "start": 13.44,
+      "end": 16.88,
+      "text": "fair use or you could argue [music] it's"
+    },
+    {
+      "start": 14.88,
+      "end": 18.72,
+      "text": "like massive copyright theft. I remember"
+    },
+    {
+      "start": 16.88,
+      "end": 20.48,
+      "text": "talking to the Lyft founders the week"
+    },
+    {
+      "start": 18.72,
+      "end": 21.68,
+      "text": "before they launched Lyft [music] and"
+    },
+    {
+      "start": 20.48,
+      "end": 23.04,
+      "text": "they were extremely worried that they"
+    },
+    {
+      "start": 21.68,
+      "end": 24.4,
+      "text": "would go to jail and they decided to"
+    },
+    {
+      "start": 23.04,
+      "end": 26.56,
+      "text": "like roll the dice and launch this thing"
+    },
+    {
+      "start": 24.4,
+      "end": 28.0,
+      "text": "anyway. I think a big reason why other"
+    },
+    {
+      "start": 26.56,
+      "end": 29.92,
+      "text": "people didn't launch Lyft and Uber"
+    },
+    {
+      "start": 28.0,
+      "end": 31.52,
+      "text": "before [music] was literally that it's"
+    },
+    {
+      "start": 29.92,
+      "end": 32.56,
+      "text": "like it was basically illegal to do that"
+    },
+    {
+      "start": 31.52,
+      "end": 32.96,
+      "text": "and they were worried that they would go"
+    },
+    {
+      "start": 32.56,
+      "end": 34.96,
+      "text": "to jail. [music]"
+    },
+    {
+      "start": 32.96,
+      "end": 37.12,
+      "text": ">> What's funny now is uh it does seem like"
+    },
+    {
+      "start": 34.96,
+      "end": 39.2,
+      "text": "the world will sort of change the laws"
+    },
+    {
+      "start": 37.12,
+      "end": 41.68,
+      "text": "as it were. If it turns [music] out that"
+    },
+    {
+      "start": 39.2,
+      "end": 43.84,
+      "text": "the end user, the end consumer wins by"
+    },
+    {
+      "start": 41.68,
+      "end": 46.24,
+      "text": "that much. Finding laws that were"
+    },
+    {
+      "start": 43.84,
+      "end": 47.52,
+      "text": "written in a time before some big tech"
+    },
+    {
+      "start": 46.24,
+      "end": 50.24,
+      "text": "shift that [music] changes everything"
+    },
+    {
+      "start": 47.52,
+      "end": 52.56,
+      "text": "and just don't reflect reality can be"
+    },
+    {
+      "start": 50.24,
+      "end": 52.56,
+      "text": "really valuable."
+    }
+  ],
+  "word_count": 208,
+  "fetched_at": "2025-12-21T02:19:23.295426Z"
+}

@@ -1,0 +1,69 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "If you're an individual contributor and you're doing [music] work, it's very nice to know that your manager is going through more pain than you. If you're a senior leader or an executive, you're 5 days. If you're a manager, [music] 4 days. If you're an IC, 3 days. I think that's also a general principle for shipping fast. It has to [music] start at the top. And you have to be willing to do yourself to an even [music] higher degree what what you ask of of everyone",
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 2.88,
+      "text": "If you're an individual contributor and"
+    },
+    {
+      "start": 1.6,
+      "end": 4.72,
+      "text": "you're doing [music] work, it's very"
+    },
+    {
+      "start": 2.88,
+      "end": 6.56,
+      "text": "nice to know that your manager is going"
+    },
+    {
+      "start": 4.72,
+      "end": 8.56,
+      "text": "through more pain than you. If you're a"
+    },
+    {
+      "start": 6.56,
+      "end": 10.32,
+      "text": "senior leader or an executive, you're 5"
+    },
+    {
+      "start": 8.56,
+      "end": 12.72,
+      "text": "days. If you're a manager, [music] 4"
+    },
+    {
+      "start": 10.32,
+      "end": 14.48,
+      "text": "days. If you're an IC, 3 days. I think"
+    },
+    {
+      "start": 12.72,
+      "end": 15.92,
+      "text": "that's also a general principle for"
+    },
+    {
+      "start": 14.48,
+      "end": 18.88,
+      "text": "shipping fast. It has to [music] start"
+    },
+    {
+      "start": 15.92,
+      "end": 21.52,
+      "text": "at the top. And you have to be willing"
+    },
+    {
+      "start": 18.88,
+      "end": 25.52,
+      "text": "to do yourself to an even [music] higher"
+    },
+    {
+      "start": 21.52,
+      "end": 25.52,
+      "text": "degree what what you ask of of everyone"
+    }
+  ],
+  "word_count": 89,
+  "fetched_at": "2025-12-21T02:19:06.979337Z"
+}

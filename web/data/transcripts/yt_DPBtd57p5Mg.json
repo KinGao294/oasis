@@ -1,0 +1,69 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "reflecting all the angry skies. Soft and fragile body left here on the wet. Still float fresh from the boat. Arms and neck plus regrets. Arms and neck plus breathing. No more flow under the skin become sad. Souls left the room.",
+  "segments": [
+    {
+      "start": 2.96,
+      "end": 9.8,
+      "text": "reflecting"
+    },
+    {
+      "start": 5.44,
+      "end": 9.8,
+      "text": "all the angry skies."
+    },
+    {
+      "start": 10.96,
+      "end": 18.64,
+      "text": "Soft and fragile body"
+    },
+    {
+      "start": 15.12,
+      "end": 24.28,
+      "text": "left here on the wet."
+    },
+    {
+      "start": 18.64,
+      "end": 24.28,
+      "text": "Still float fresh from the boat."
+    },
+    {
+      "start": 26.08,
+      "end": 32.28,
+      "text": "Arms and neck"
+    },
+    {
+      "start": 28.24,
+      "end": 32.28,
+      "text": "plus regrets."
+    },
+    {
+      "start": 33.76,
+      "end": 38.92,
+      "text": "Arms and neck"
+    },
+    {
+      "start": 35.92,
+      "end": 38.92,
+      "text": "plus"
+    },
+    {
+      "start": 44.4,
+      "end": 50.96,
+      "text": "breathing. No more flow under the skin"
+    },
+    {
+      "start": 49.28,
+      "end": 55.4,
+      "text": "become"
+    },
+    {
+      "start": 50.96,
+      "end": 55.4,
+      "text": "sad. Souls left the room."
+    }
+  ],
+  "word_count": 42,
+  "fetched_at": "2025-12-21T02:19:05.508655Z"
+}

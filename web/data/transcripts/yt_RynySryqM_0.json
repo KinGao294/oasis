@@ -1,0 +1,6169 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "Today I'm excited to welcome Rio Lou. He's the head of design at Cursor, the leading AI coding tool used by more than a million people worldwide. Before that, he was a founding designer at Notion and a product designer at Stripe and Asana. Today, we're going to review a bunch of user submitted websites all built in cursor. And Rio is not going to hold back. >> Oh, we got the purple gradients. They're here. >> Scary. What is this? What is that? >> Oh, wow. This chart sad. Oh, woah, woah, woah, woah, woah, woah. It's like distracting. Oh, yeah. It is very jargony. Let's kill all of this. >> Welcome to another episode of Design Review. >> Rio, welcome to Design Review. >> Thank you. >> Yeah, thanks so much for joining. These are all user submitted websites from YC founders in the YC community and they were all at least fully or partially built with cursor. >> Nice. >> So let's take a look. First one we've got is crunched >> logo looks like a replet. >> It does. Yeah. Okay. So AI reimagined for Excel yet started enterprise. >> Why is there like a New York uh city thingy? >> I don't know. I guess there's a lot of finance people in New York. >> I see. I see. Oh, maybe that's why set the scene for the finance people. >> Yeah. Oh. buttons jumped out. >> Oh, maybe you should do that after these things go go over. >> Yeah. >> Yeah. Too too early for that. >> Too early. It got my attention though. >> It does, but not at not in the right time. >> Yes. But it is interesting. Like that's a good use case for motion is it can steal your attention and it can be either distracting or it can be helpful. >> Yeah. Not sure what I'm getting from the hero at all. >> Yeah. And there's tiny text here that says [laughter] Excel native AI analyst. >> Um, >> not sure what it means. >> Okay. Used by professionals at >> Okay. >> Recognize BCG. There was a Harvard there. NCAD. >> Mhm. >> Okay. So, it's like consulting and universities. >> Did you notice like when you hover the logos are not like showing the right highlight? >> Oh, yeah. You're right. And then when it goes to like 100% it snaps. >> Like the right way to do it is like you're you're like slotting more things up. >> Right. Right. It should just be a continuous stream. Right. >> Okay. So they're trying to build some credibility around who uses it. >> Mhm. Does your work? What's the work? >> Transform your workflow with autonomous Excel agent. >> What does it mean? What is the workflow? What is this? >> I guess something financial analysts do. >> This is moving too fast. I can't tell what's happening here. >> Yeah. >> Okay. It can build anything. DCFs, discounted cash flows, market models, and more. >> Wow. I didn't know what DCF mean. >> Well, these are things where like they're probably speaking to their user. And here you see it again. Build a full DCF. Um, so their users will probably understand, but >> we are not their target. >> Yeah. >> Um, there's tabs here that just cuz we happen to be here, I noticed them. Otherwise, I don't think I would have even >> Yeah, I have not noticed them at all. >> Yeah. Okay. Let's see. They they had a question that they sent in. So they said, \"Looking for input on overall quality of messaging and core sections should appeal to high-end investment banks, investors, and consultants. The site was built using cursor >> uh and vibe coded by the non tech parts.\" >> Oh, interesting. Maybe that's why the hovers didn't work. >> Ah, >> so messaging wise, I'm just not getting the message. >> And maybe that's just because we're not the target. >> They should talk to the target more directly, right? Not less like in this vague high level. >> Yeah. I mean a common pattern is like a sub headline under here that >> you know sometimes people have like a cute kind of marketing headline but then if you do that you should have like a literal sub headline that explains exactly what and you should talk to the people you want to talk to. >> Yes. >> Yeah. >> Otherwise like I don't know it seems professional enough. >> It's not that horrible. >> Yeah. >> I would say say like the styles and stuff is a little off sometimes. say like you see like here >> Mhm. >> versus here. >> Mhm. >> And they all they do still feel a little sloppy. >> Yeah. >> Like the icons that are used maybe like this is like the what what is it? >> Like one of the most popular like AI like AI will just pick that one. >> Yeah. Yeah. >> Tai helica. >> How do you break out of that? You know the AI has a lot of default styles that it likes to go to and especially for people that are you know not as well versed in design. How do they create something that doesn't feel like it's been vibe coded? >> Right? I think one of the key things is to avoid using like sloppy styles or like the core tokens of your designs. You should probably think about it a little bit. If you're not sure, actually go go safe. Say like you just use system fonts. You let others decide for you instead of like you deciding. You want to avoid say all the typical AI slop say like massive shadows, purple gradients, >> purple gradients. Yeah. >> Bad typography. >> Yeah. >> Um just clean the the basics up. Then with like a really robust like foundational set of tokens and components, AI is able to compose them pretty well. >> Cool. Well, thank you, Crunch. All right. Next up, we've got Velvet. velvet.video. Create detailed brand videos with AI. >> Interesting logo choice. It's like a little face. You can't really see. >> I can't even see it from here. Yeah. >> So, obviously like the model changing here gets my attention. >> Mhm. >> Which I guess makes me think like, oh, this must be made with AI. >> What do you think about like what do brand video mean? >> I just assume like brand marketing >> type videos that are not trying to like convert you like buy now, but more trying to like set a tone, establish a brand feeling. Mhm. >> Maybe you know some of what you were going for with the cursor website. >> Mhm. >> Like I'm not sure what I'm looking at. What is this for? Is it for like a e-commerce thing? Is it for like a ad? And the guy changes his face as they like the the hatless look kind of weird. >> Yeah, this one's being choppy for some reason. But yeah, it seems like either people are changing or a background is changing. Yeah. >> Seems to be the common pattern. >> Different variants of the same thing. >> Yeah. Here the clothes are changing. >> Right. Right. Right. What is this? How is it different from other video models? >> Yeah, >> I'm not sure. >> It is true. Like they don't give a lot of information up here. >> Um they try to let the videos do the talking and the videos are striking. >> Yes, >> they seem like high quality. >> Pretty good. >> Yeah. >> But it's not clear what's exactly happening and like what what if this is their product and what if this is somebody shot a video used to >> like I want to know like what's special about it. What's different from your video thing versus say like Sora? >> Like what what kind of brand videos can I do just here versus other places? >> Yeah. And then their their book a demo uh button which I assume is the main call to action is below the fold here. >> Click on it. See what happens. >> Let's see. >> I don't hate it. It's like kind of cute. >> Yeah. But even here, you know, no detail. Yeah. There's no information about like what's going to happen or who you're going to talk to or anything like that. it. >> Um, >> it's very like obscure. >> Yep. Okay. >> And now you're asking for money. >> Yeah. And I'm not even sure what it is yet. Yeah. So, I think my biggest takeaway here is there's not enough information here to understand what this is. >> Yeah. >> I almost thought like this was YC cuz that's the more prominent logo than than their logo, which is tiny and awkward. >> Yeah. Yeah. Yeah. They should probably like make a better logo slash just use like a word mark. >> Yeah. >> Yeah. >> Or at least make it bigger. Make the logo bigger. Mhm. >> Nobody's ever heard that. >> Oh, yeah. >> All right. So, main takeaways. >> What is this? >> What is it? Do a better job of explaining what it is. >> Yes. >> More content. >> Why is it different from the other? >> Why is it different? And be a little more clear around who it who is it for? >> A lot of times when people hit a site, you know, they're asking themselves a question, what is this? >> Yeah. >> Is it for me? >> Yep. >> Does it work? >> Yep. >> Is it credible? >> And I have to work pretty hard to figure out the answers to those questions. >> Yes. And don't scare them with like money too too quickly. >> Yeah. Let's go to their question here. Let's see what they had to say. >> I would like to make sure that the words put on the website correctly emphasize the value of the product. >> I'm not sure. I'm sorry. >> Yeah. Seems like that was our main focus is that is that No, >> I guess the key words are detailed. Brand videos. What is brand videos? What is detailed? What is it? >> And there's literally only six words on the [laughter] page that describe what they do. Everything else is about sign up. There is some hints in the quotes. >> Yeah, exactly. But yeah, you don't want people to have to work that out. [laughter] Actually, those quotes are are from artists. >> Mhm. >> Awesome. Add more content, Velvet. And that will improve >> more words. >> Next up, we've got Clavis AI. >> Why is it introducing Strata? >> Yeah, I thought this was Clavis. >> Why is there two names when you're just starting? Like, why? [laughter] >> Okay, so my first impression here is that this looks like a template. >> Yes. Uh, it almost looks like old school bootstrap or something like that. And then there's a lot of things that [laughter] look like buttons. >> Yes. >> Yeah. Join our Discord, check out GitHub, >> back by YC, product of the day, start free documentation, sign up button up here. >> There's a lot of things. >> Yeah. >> So, >> kill all the distractions. >> Mhm. >> Make sure that like every single scroll there's only one main CTA. >> Mhm. >> There's always like a priority. >> Your main message. What the hell is it? The CTAs and then it's like the proofs. >> Mhm. >> Or like I want to see what the hell is this like gray box here, >> right? It's just a gray box. >> I'm not I'm not sure what it is. What why is there a gray box and I can't see it? >> Yeah. What's going to happen? Right. >> Mhm. >> Okay. So, one MCP server for AI agents to use tools reliably at any scale. And it seems like maybe this started as an open source project >> um and now this is their productized version of it. I have seen that sometimes where >> the open-source thing is maybe called Clavis AI >> and then their productized version that they're trying to get people to pay for they give it a different name. So I'm kind of curious. I'm going to click through here and see. >> It is called Clav. >> Clav. >> Oh man. >> So I I've seen this before and I think it just probably adds confusion. >> Yeah, >> they should probably just call it the same. >> Just Clavus. >> Okay. And so here we've got a video. >> Oh, it doesn't autoplay. tells us tap to play. >> AI agents struggle with too many tools leading to wrong API calls, context overload, higher costs, and limited tool [music] coverage. Meet Strata by Clavis AI. >> This music gives me like a old like TV. >> Yeah. It's like we just watched an 80s sitcom. >> Yeah. >> Okay. So, powering experiences from nextgen startups. >> I actually don't know any of these companies. >> Connect any AI tools on modern MCP infra. Okay. So they integrate with a bunch of these. >> Maybe this is more important. >> Yeah, >> maybe just show all of them like up there. >> Hey, there's cursor. >> Yeah, I feel like you might actually want like a more stable way to see these things. >> Yeah, >> maybe you just show them all and then there's like quick filters. >> Maybe you actually show them all like here, here, you know? >> Then you can get a sense of what you can do. >> Mhm. How strata works. Progressive discovery, smart navigation, precise execution. >> Not sure what they mean. >> That explains it all, right? >> What What are the problems? >> I don't know. But here's why strata is better. >> Better than what? >> Better than >> like using individual MCPS I assume. Yeah. >> Then maybe show that like the old world, the new world. What are the problems? How do you solve the problems? >> The thing I hate for like a lot of companies what they do is like they love talking in their own words >> and with their own concepts that they came up that nobody else understands, right? >> Like you just throw these like big words there but then they don't really mean anything to me. >> Yeah. The best way is to talk to your users and use the words that they understand. >> Yeah. You you talk in their language in their problems, >> the world they are used to now and the new thing, how is it different? Yeah. >> What are the problems that you solved? >> Yeah. So if users are like I need a tool for progressive discovery, >> then like great. >> But nobody's going to say that. >> Yeah. Never heard anybody say >> more like I have so many MCPS I don't know how to manage them. We're like, I don't even know what's there that can help me integrate my agent to other things. >> Yeah. >> Oh, wow. This chart. >> This looks like a screenshot from Y >> Excel or something like that. >> Yeah. Sad. >> Some dashboard. >> You got >> Oh, whoa, whoa, whoa. Whoa, whoa, whoa, whoa. >> Everything's kind of moving. >> Yeah. I don't like moving things when I'm not moving >> and when you're trying to read. >> Yeah. It's like distracting. >> Mhm. compos. >> I also don't like lines when you don't need lines like this one. >> Yeah. >> And you know headlines. >> Yeah. >> What most people do is they come down and they're going to read the headlines. They're going to say, \"Okay, what our customers say? Compliance investors. >> Choose your plan.\" >> Like you you got to be explicit and assume people are not going to read the sub headline. They're only going to read the sub headline if they're intrigued by the headline and they want to >> Why is that even there? Doesn't make sense. >> Trying to build credibility, I assume. [laughter] But um yeah, it's it's not clear what you >> More like us money off front patterns. >> Mhm. >> Is that too early for that? Probably. >> Yeah. >> You should get them to to sign up and start trial triing. >> Okay. Let's see what their question was. >> Does our homepage above the full hero section headline sub headline clearly explain our value proposition in 5 seconds? We're worried it's too jargony. >> Oh yeah, it is very jargony. Let's kill all of this. Yep. >> Kill the video. Just show all the MCPS you can connect. That uh is just one thing. >> Yeah. >> And that's probably pretty easy to show that visually, right? Just kind of all them coming into like one >> strata logo or something. >> Yep. And then maybe like you can actually like keep the little filters there and then you can filter between different set of tools. Then you can kind of find the thing. >> Yep. >> But um I think this sub headline helped. I think we read this and we understood what they do. >> Yeah. Maybe make this like the the only headline. >> Yeah. Yeah. >> And then kill your naming confusion. Just pick one. Pick one. Pick one name. That's it. >> Yep. Thank you, Clav. All right. Code crafters. >> Ah. >> Oh, we got the purple gradients. They're here. >> Scary. >> Become a better software engineer. Stop following tutorials designed for beginners. Start working on projects that actually challenge you. Become a better engineer through deliberate practice. >> Interesting. >> They don't have the name of the company up here. and I said it, but then I forgot it already and I was looking for like what is the name of this company again and I couldn't find it anywhere on the page. >> Yeah. Logo is also very generic. >> Mhm. >> Doesn't tell me anything. >> Yeah, this was a lot to get through here and it was it started out with the negative stop doing this thing. So instead of saying what they do in the positive, it started out with don't do this >> which is not informative for for what they actually do. Uh, I do like keeping things a little like aspirational. >> Mhm. >> But you do want to communicate clearly. What the hell is this? >> Yeah. >> I still don't get it. >> Yeah. It seems like learning it's a bunch of practice projects >> to become a better engineer. >> Ah, I see. >> So, I guess if you don't have side projects you want to work on, you would use this and this gives you a bunch of projects to build. >> I see. I see. >> That's my guess here. Maybe there's a pick a challenge. >> Okay, >> let's see what happens. >> Pick a challenge. >> Oh, I see. >> Build your own. >> That's cool. >> The whole website changed when we clicked through to this too. >> There's like no continuity from the marketing page to those things. >> Yeah. And like if I go a pricing, if I get a road map, >> like even all the colors >> style. Yeah. >> Like the green. >> Yeah. >> And then the other one is what? Like purple purpley purple everywhere. >> Do they actually work with these companies? uh enjoyed by developers. Really? Is that true? >> I don't know. >> I guess we'll take their word for it. >> Oh, wow. This clipping thing is kind of crazy. >> Backed by incredible engineers. Okay, so I guess these are some of their investors. >> Wait, wait, wait, wait. These are actual Well, he's at Anthropic now, right? >> Yeah. Yeah. >> Right. So, that is out of date. >> I would not like modify other people's pictures like this. It was like kind of intrusive. >> Yeah. >> Yeah. And they're all kind of a different style, >> right? >> This one's like a professional head shot. This one's like a phone photo or something like that. Probably >> one trick you can do is like maybe like you knock down all their backgrounds but keep them like white. Maybe you add a filter so that they're all like black and white. >> Mhm. Yeah. >> Then it kind of standardize the thing without like butchering the picture too much. >> Yeah. Hear it from our members. >> Engineers at top teams love this. >> Okay. Okay, >> right now projects that go way beyond the basics. >> Be in the company of prolific developers. Use your favorite tools to code. No limits. >> The world's best got better by doing. >> Okay. And try now. >> Okay. >> I'm curious. If I click on other links through here, does it go that goes to the YC site. >> Okay. >> Um change log. >> Whoa. >> Okay. Okay. It goes to their >> Look, they don't use your name. >> Yeah. Build your own X. >> Why is that? >> I don't know. I guess cuz people can make a Twitter X kind of thing. >> The X means like anything. >> I I think the X means like build your own like X. Like build your own Twitter. >> Your own Reddus, your own good. [clears throat] >> Yeah. I was wondering if they're saying build your own X because it's people on X and maybe I don't know. Question. >> Maybe one of the projects is Rebuild X. >> Okay. Okay, so here perks looks like the homepage. >> How about >> Okay, >> wait, what is perks? Is that like another product or something? >> Their members get priority access and preferential pricing on learning products. >> Interesting. >> So, this is like a learning subscription rather than a tool. Maybe makes me think it's more like a community or something. >> Where's the community? How do I talk to other? >> Oh, and this pricing one takes me to this page like in this design. Mhm. Oh, yo yo yo. >> Oh, and this just changed, too. Now we're in like black and white rather than >> What is this? Are they like doing their own like expense card? >> Yeah. Is this a credit card company? >> Wow. [laughter] >> I I think it's some kind of like learning thing to do projects. That's like that's what I've come up with after spending a few minutes looking at all of this and I can't tell. >> But there's nothing. >> Yeah, that makes me think it's a community to do something. Okay. So, be more clear around literally what this is because it's not clear right now. >> Yeah. >> Um >> less purple gradients. >> Yes. This looks vibe coded. It's got all the hallmarks of it. So, um something that feels a little more custo custom I think would be great. >> Yeah. >> We somehow kept getting to different versions of the site that all looked wildly different. So, I think consolidating all of that would be good. Yeah. And then, you know, like a main thing is like a the about page and it links off to their YC [laughter] launch, >> which is a little bit jarring. It feels like, >> you know, talking about who's behind this product is something you should have a dedicated page on your site about, >> right? >> Otherwise, it makes me seem like this company is so early. They haven't even had time to like build their own event. >> Yeah. One thing I noticed is like I think a lot of them pride on being backed on YC, but that is actually not the main thing you're doing. like make people focus on what the hell is the thing. >> Yes. >> Yeah. >> Yep. >> Less about the backing, >> right? Number one is what is this? Number two is is it for me? Three, you can focus on the social proof and credibility and things like that. But yeah, a lot of people are kind of putting it right up front. >> Yeah. >> To the point where you look at it quickly and the YC logo looks like their logo. >> Yeah. >> Thanks, Code Crafters. >> YC's next batch is now taking applications. Got a startup in you? Apply at y combinator.com/apply. It's never too early and filling out the app will level up your idea. Okay, back to the video. >> Okay, uh for this next one, let's do more of a lightning round and do some initial impressions. >> Let's do it >> when we first pull it up here. >> Slashy. >> So, this is slashy. >> Oh, for email. >> Oh, so it looks like notion mail. >> Yeah. Okay. You obviously have a lot of experience with notion and cursor. What's your initial impression here? >> A lot of details are not there. >> What's missing? So like if you look at this part, it almost feels like it's the raw like markdown output. >> The UI doesn't really fit with the rest of the thing. >> The video is like clipped wrongly. There's like an extra >> like a white border. >> I think the first impression really matters. And anything above the bold just make them as good as you can. >> Like no, you know, obvious detail bugs. >> Mhm. The power of chat GBT inside your email. >> I would say like the messaging and stuff is pretty clear. >> Mhm. >> Actually not bad. >> Yeah. >> It's more like how you present it. Look at all the like say this thing is like not aligned in the same spot. These images and the previews all have different sizes, right? >> Some of them have shadows, some of them don't. >> Yeah. Yeah. This one's got a border around it. >> There's a screenshot with a border and the window and then a border around the window. >> There's a lot of like boxes and boxes and boxes. >> Yeah. Yeah. And it I mean it seems like there's some inspiration taken from the latest cursor site as well, right? With showing some of these screenshots and calling out >> uh >> it's like the structure is fine, >> lacking some details. >> Um yeah. Oh wow, they're actually stealing like a notion picture here. [snorts] >> Yeah. Another thing that resonates with me immediately is like they're using cursor to describe what they do. So cursor for email. Yeah. >> And then you and then >> power of chat GPT. And then you come best of super deep. So they keep calling out all these other products that people may know to describe what they do rather than just literally explaining what they do. >> True. >> And owning it themselves. >> Yeah. They almost look like notion uh agent and cursor in one. >> Mhm. >> But lacking all the details. >> Yeah. >> The details are what matters. >> And it's interesting you can pick that out from the screenshot, too, because you've used those products so much, right? >> Yes. >> Cool. Thank you, Slashy. All right. Next up, we've got Freya. >> Oh, >> voice AI that sounds human for enterprise. >> How can I hear it? >> Uh, here we go. Talk to Freya. >> What does it do? >> Well, it's >> Is there a phone number? >> Let's see. Freya safely handles inbound and outbound calls from support and service to sales and beyond fluently in dozens of languages 24/7. Should we talk to Freya? >> Yeah, let's try it. >> All right. >> Hi there. I am Freya, the voice of Freya voice. We're an AI platform that helps businesses automate voice-based customer service. Our AI agents handle full conversations and 10 and sound completely natural. Ray of voice is perfect for tasks like scheduling, answering common questions or managing claims. Available 247 and over 40. >> It sounds like my response may have seemed unclear or cut off. >> Let me try that again. Freya voice is platform that automates voice based with AI agents. What did you say? >> I said like, \"Do you speak Chinese?\" >> Cuz it says fluent in dozens of >> languages. I was going to tell you to try speaking Chinese and and I think my expectation would be that she would respond back in Chinese. >> Exactly. >> Yeah. >> This is actually probably the best one we've seen today. >> It's very clear. >> Yeah. >> Oh, they're kind of hijacking the >> scrolljack. Not sure. >> Okay. Minus five points. >> Yeah. Yeah. Don't hijack the scroll. Yeah, >> but the communication demo >> yeah demo really accessible pretty good. >> Y replace entire call center operations custom use cases end to end >> lead qualification turn every lead into revenue opportunity. >> Okay. Resolve customer issues before they escalate. Built for accuracy you can trust. results that speak for themselves. Okay. >> Wow. >> Yeah. I mean, it seems like overall the the um messaging here is very clear. >> Yeah. >> And I think we understand what they do and I think if we ran a call center, >> an enterprise call center, >> we'd probably consider this and we know that this is for us. >> Yeah. >> All right. Let's see what their question is. >> Pretty good. >> Curious how to very clearly convey the information of what we should focus on and give a smooth and simple experience. I felt like they did that. >> Yeah, >> I don't think that's the thing to change. >> It's not bad. I would wonder like how to make the the demo even more like obvious. >> Maybe you can just start right here, >> right? Yeah, that's a question, right? Is like >> do you want to talk to Freya or meet the team? What's the main CTA you want to drive people to? >> It seems like meet the team because that's a button up here and that's the blue button here. Mhm. >> Um, but meet the team is kind of weird too. Like do I want to demo? Yeah. Like who is the team? >> Yeah. >> And then what does this take us? There we go. Allan >> apparently again. >> Yep. Brea team meeting. >> Okay. Yeah. Maybe like book a demo or something. >> Book a demo would be better. >> That's the main thing. Awesome. >> Not bad. >> Nice job, Fre. Okay. Finta. Magically simplify accounting and taxes. >> Mhm. >> Automate bookkeeping. Effortless tax filing. Real-time insight. set up in 10 minutes. Back to building by 5:12 p.m. >> Very detailed. Not sure what's the reference. >> I don't understand the 5:12 p.m. either. Um, >> wait, is it like >> Oh, it matches the time. >> It's 10 minutes from now. >> That's cool. That's cute. But, you know, >> Oh, now it's 5:13. >> Took a little bit to get >> Yeah. Okay. All right. That was clever. >> Very cool. Okay. Um, >> so what >> pricing get started. Yeah, it's something around simplifying accounting and taxes >> for like individuals or >> Yeah. So, this was not clear to me. And then when I go a little bit deeper, it's like automate bookkeeping. And so, that makes me think. [clears throat] >> Oh, here we go. Right down here. Think [laughter] >> for US-based C corps, LLC's, and PBC's. >> Uhhuh. Maybe like kind of fold that with the primary messaging. >> Yeah. >> And then maybe kill the time thing. >> Yeah. And and I think, you know, we're seeing a lot of consistent patterns as we've gone through a few of these, which makes me feel like a lot of these are building effectively the same template, right? >> We got the little thing up here. Some people put the backed by YC here. Some people put we're hiring. We got the blue buttons. We got two buttons next to each other. We got a headline. We got something else here. We got a logo here. We got a screenshot here. And so um sometimes for a lot of businesses that might be good enough you know um just clearly it's like a pattern that users are used to they know where to go but you know sometimes it's helpful if you want to build your own brand and identity and be different and memorable is to break out of that box and come up with something that's like really unique and focus to what you're trying to communicate and get across around how you're different. >> I actually don't mind keeping things like simple and plain. >> Mhm. Just let people scroll. Have the messaging be the primary thing. Have the product be the primary thing. >> Yeah. >> Um, as you scroll, there's like little punch points. Boom. Boom. Boom. Maybe you're just like scrolling and seeing some pictures that vibe with that idea. >> Mhm. >> So, it's not that bad. >> Yeah. And I like this too, like tax season with zero stress. You know, that probably appeals to the type of person that would be their customer. M >> and to filed our taxes and claim 17,000 in credits process was easy. >> Cool. >> Not bad. >> Yeah, we got live check. >> How the sections break is a little weird to me. >> Like I kind of want these things to be like more under the tax thing. >> Yeah. >> Like you you get this like white section and then some grays and then some whites and then some cars on top. >> Kind of up the hierarchy. >> Yeah. Yeah. It seems like the full width is like a headline, >> right? It's like a boom. >> Yeah. But then the line that goes across makes it feel like it's breaking up. >> Like why is this card like slightly on top? >> Yeah. It looks like it's supposed to be a card sticking out. >> It's like there's some cool visual treatments, but they actually cause some confusion. >> Yeah. Um but generally like visually it looks nice. It looks well organized. >> It's like if you look at each of the pieces, it's actually pretty well built. Yeah. Like there's a lot of little details in there, >> right? Yeah. The temptation is to show a big screenshot from far away and you can't tell what's going on. Instead, they're honing in on the very specific thing that >> like if I were to do this, it's almost like I want to >> just make these like maybe shrink them and make them more cardy, make them more like parts of the same hole >> instead of like uh there's like a lot of things in like flat >> that's all like kind of moving and [snorts] doing stuff. >> Yep. All right, let's see what their question is. Does it convert? >> I don't know. [laughter] They're going to have to answer that for us. But, um, I don't know. I think it communicates what it does. >> My sense is if I were in the market for a product like this, this would appeal to me and I would probably want to check it out. >> So, my hunch is probably yes. Maybe just making this more prominent, the who it's for. >> Yeah. >> Uh, and making that like ram that home a little bit more, I think, would be good. >> I would steal the little trick to hide this button until say you're here. >> Mhm. And then it kind of animates in then you know where it is, >> right? You pay attention to it >> cuz like I feel like main issue with like say I think hero is pretty good. >> Once you pass here it's like a little disorienting. >> Not sure what to do now. >> Yep. >> Cool. >> Cool. Thank you, Finta. >> Last one. >> All right, last one. >> Vibe flow. >> Vibe flow. Let's check it out. Prompt it visually. >> Okay. >> Nice. >> Where's the visuals? Um, projects. Explore your projects. Sign in to see projects. >> All right. Well, clearly they want us to engage with a broad box. Why don't you give it a shot? >> Okay. Um, >> okay. A spinner. >> It's thinking. >> Okay. >> Oh, wow. >> Showing us something. It's charging the electrons. >> This does. >> Is that some kind of preview? >> What is that? >> Is it like a a mini map of a whole page or something? Maybe it's like the canvas. >> Yeah, this is one of the core I'm curious how you think about this, cursor. Um, you know, so many products that use LLM today have this weight. >> And what do you do when the user has to wait >> to keep it engaging or make it feel like it's going faster? >> I think you want to almost like show every single state that's happening. >> So like, you know, I thought for like 29 minutes, what did it do? >> Yeah. And if it does like tool calls like just show them. >> Um but you do want to control like you don't want to show too many things at once or like it just becomes like a wall of text. You want to control like ah >> the things that are running. You show them in a more like focusable spot >> and as it pro progresses it kind of shows you like uh these are the things that are running. These maybe are the actions I need to confirm. This is my input. Mhm. >> You kind of shift people's focus. Um, and I don't want these like random empty states with spinners everywhere or like ah in the preview you saw like it it was like looping some random messages but they weren't really helpful, >> right? >> They were actually kind of distracting. >> So you need to figure out like when things are happening where do I want people to focus their eyes on. >> Yeah. It's hard too because you don't know is it gonna come back in five seconds or is it gonna come back in 10 minutes? >> Yeah. >> Okay. So, this one we hit an error. >> Let's see. >> Feels very like vibe coded the whole thing. >> What gives it that impression for you? >> If you look at all the little details, they don't melt together. >> Mhm. >> So, everything feels kind of disjointed. >> Yeah. Like there's like weird hover states like with little radius on top but not on the bottom. >> If you look at all these different views like some of them are like I don't know portals into like iframes of something. >> This is almost like a vibe code of VS Code. >> Mhm. >> That's just pure AI generated UI, you know? There's not even like a like not even say you're not using chassen or whatever. Yeah. Like it's just raw AI output. >> Yeah. What do you think this um toggle button does in the top right? The mystery toggle button. >> No tool tip either. Ah, what does it do? >> Looks like goes full screen. And I assume that's the preview. >> Yeah, I guess we can't really see much. >> Is it still working or where is it at? >> I think it failed. >> Failed again. >> Interesting. >> Okay, no luck. >> Sad. This is what I do. >> Mhm. Ah, that's cool. Like a little like suggestions. >> Mhm. >> I might steal this. >> Why is there two spinners? >> Right. >> Why can't I open the thinking? >> Why is there just spinning and not telling me what it's thinking? >> Yeah. >> Also, the suggestions came before it did anything. >> Yeah. Okay. Okay. So, it looks like the core issue is we don't have 3D libraries. >> So, it's going to try to do a CS base CSS base. >> Okay. >> Whoa, that's a very interesting attempt. >> Yeah, >> it's creative. >> Flat Earth will happy. [laughter] >> All right, let's see what their questions. General advice on how to improve the design. Okay, I think we touched. >> I guess the problem was before I came in, I couldn't even do anything or see anything. >> Mhm. >> You remember like there was the prompt box and then when you scroll down it's like all your projects sign in, >> right? >> Why not just show people like other people's projects or >> Yeah. And then we tried to make something and we got hit with a signup wall. >> Yeah. Just give them like even in Rio OS you can send three free messages before you sign in that just let people play. >> Yep. and maybe make sure that maybe the initial demo is more constrained so that it gives you better output. >> Awesome. Thank you, Vibe Flow. Rio, that does it for the reviews. >> Thank you. >> Thank you so much for joining. This was uh incredible, really great feedback and really appreciate you joining us today. Great.",
+  "segments": [
+    {
+      "start": 0.24,
+      "end": 5.2,
+      "text": "Today I'm excited to welcome Rio Lou."
+    },
+    {
+      "start": 3.04,
+      "end": 7.44,
+      "text": "He's the head of design at Cursor, the"
+    },
+    {
+      "start": 5.2,
+      "end": 10.08,
+      "text": "leading AI coding tool used by more than"
+    },
+    {
+      "start": 7.44,
+      "end": 12.4,
+      "text": "a million people worldwide. Before that,"
+    },
+    {
+      "start": 10.08,
+      "end": 15.04,
+      "text": "he was a founding designer at Notion and"
+    },
+    {
+      "start": 12.4,
+      "end": 17.28,
+      "text": "a product designer at Stripe and Asana."
+    },
+    {
+      "start": 15.04,
+      "end": 19.52,
+      "text": "Today, we're going to review a bunch of"
+    },
+    {
+      "start": 17.28,
+      "end": 22.16,
+      "text": "user submitted websites all built in"
+    },
+    {
+      "start": 19.52,
+      "end": 23.28,
+      "text": "cursor. And Rio is not going to hold"
+    },
+    {
+      "start": 22.16,
+      "end": 25.2,
+      "text": "back."
+    },
+    {
+      "start": 23.28,
+      "end": 25.84,
+      "text": ">> Oh, we got the purple gradients. They're"
+    },
+    {
+      "start": 25.2,
+      "end": 28.4,
+      "text": "here."
+    },
+    {
+      "start": 25.84,
+      "end": 31.44,
+      "text": ">> Scary. What is this? What is that?"
+    },
+    {
+      "start": 28.4,
+      "end": 33.12,
+      "text": ">> Oh, wow. This chart sad. Oh, woah, woah,"
+    },
+    {
+      "start": 31.44,
+      "end": 34.96,
+      "text": "woah, woah, woah, woah. It's like"
+    },
+    {
+      "start": 33.12,
+      "end": 37.44,
+      "text": "distracting. Oh, yeah. It is very"
+    },
+    {
+      "start": 34.96,
+      "end": 39.44,
+      "text": "jargony. Let's kill all of this."
+    },
+    {
+      "start": 37.44,
+      "end": 42.44,
+      "text": ">> Welcome to another episode of Design"
+    },
+    {
+      "start": 39.44,
+      "end": 42.44,
+      "text": "Review."
+    },
+    {
+      "start": 47.2,
+      "end": 49.92,
+      "text": ">> Rio, welcome to Design Review."
+    },
+    {
+      "start": 49.2,
+      "end": 51.44,
+      "text": ">> Thank you."
+    },
+    {
+      "start": 49.92,
+      "end": 54.8,
+      "text": ">> Yeah, thanks so much for joining. These"
+    },
+    {
+      "start": 51.44,
+      "end": 57.12,
+      "text": "are all user submitted websites from YC"
+    },
+    {
+      "start": 54.8,
+      "end": 58.8,
+      "text": "founders in the YC community and they"
+    },
+    {
+      "start": 57.12,
+      "end": 59.68,
+      "text": "were all at least fully or partially"
+    },
+    {
+      "start": 58.8,
+      "end": 60.16,
+      "text": "built with cursor."
+    },
+    {
+      "start": 59.68,
+      "end": 61.68,
+      "text": ">> Nice."
+    },
+    {
+      "start": 60.16,
+      "end": 63.92,
+      "text": ">> So let's take a look. First one we've"
+    },
+    {
+      "start": 61.68,
+      "end": 65.84,
+      "text": "got is crunched"
+    },
+    {
+      "start": 63.92,
+      "end": 68.88,
+      "text": ">> logo looks like a replet."
+    },
+    {
+      "start": 65.84,
+      "end": 71.28,
+      "text": ">> It does. Yeah. Okay. So AI reimagined"
+    },
+    {
+      "start": 68.88,
+      "end": 73.12,
+      "text": "for Excel yet started enterprise."
+    },
+    {
+      "start": 71.28,
+      "end": 73.6,
+      "text": ">> Why is there like a New York uh city"
+    },
+    {
+      "start": 73.12,
+      "end": 74.64,
+      "text": "thingy?"
+    },
+    {
+      "start": 73.6,
+      "end": 75.92,
+      "text": ">> I don't know. I guess there's a lot of"
+    },
+    {
+      "start": 74.64,
+      "end": 78.4,
+      "text": "finance people in New York."
+    },
+    {
+      "start": 75.92,
+      "end": 79.84,
+      "text": ">> I see. I see. Oh, maybe that's why set"
+    },
+    {
+      "start": 78.4,
+      "end": 81.68,
+      "text": "the scene for the finance people."
+    },
+    {
+      "start": 79.84,
+      "end": 83.6,
+      "text": ">> Yeah. Oh. buttons jumped out."
+    },
+    {
+      "start": 81.68,
+      "end": 84.88,
+      "text": ">> Oh, maybe you should do that after these"
+    },
+    {
+      "start": 83.6,
+      "end": 85.2,
+      "text": "things go go over."
+    },
+    {
+      "start": 84.88,
+      "end": 87.2,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 85.2,
+      "end": 89.28,
+      "text": ">> Yeah. Too too early for that."
+    },
+    {
+      "start": 87.2,
+      "end": 92.48,
+      "text": ">> Too early. It got my attention though."
+    },
+    {
+      "start": 89.28,
+      "end": 93.12,
+      "text": ">> It does, but not at not in the right"
+    },
+    {
+      "start": 92.48,
+      "end": 95.04,
+      "text": "time."
+    },
+    {
+      "start": 93.12,
+      "end": 97.6,
+      "text": ">> Yes. But it is interesting. Like that's"
+    },
+    {
+      "start": 95.04,
+      "end": 99.44,
+      "text": "a good use case for motion is it can"
+    },
+    {
+      "start": 97.6,
+      "end": 101.6,
+      "text": "steal your attention and it can be"
+    },
+    {
+      "start": 99.44,
+      "end": 104.88,
+      "text": "either distracting or it can be helpful."
+    },
+    {
+      "start": 101.6,
+      "end": 106.0,
+      "text": ">> Yeah. Not sure what I'm getting from the"
+    },
+    {
+      "start": 104.88,
+      "end": 108.32,
+      "text": "hero at all."
+    },
+    {
+      "start": 106.0,
+      "end": 112.0,
+      "text": ">> Yeah. And there's tiny text here that"
+    },
+    {
+      "start": 108.32,
+      "end": 112.4,
+      "text": "says [laughter] Excel native AI analyst."
+    },
+    {
+      "start": 112.0,
+      "end": 113.68,
+      "text": ">> Um,"
+    },
+    {
+      "start": 112.4,
+      "end": 117.04,
+      "text": ">> not sure what it means."
+    },
+    {
+      "start": 113.68,
+      "end": 117.68,
+      "text": ">> Okay. Used by professionals at"
+    },
+    {
+      "start": 117.04,
+      "end": 119.68,
+      "text": ">> Okay."
+    },
+    {
+      "start": 117.68,
+      "end": 121.84,
+      "text": ">> Recognize BCG. There was a Harvard"
+    },
+    {
+      "start": 119.68,
+      "end": 123.04,
+      "text": "there. NCAD."
+    },
+    {
+      "start": 121.84,
+      "end": 125.2,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 123.04,
+      "end": 125.84,
+      "text": ">> Okay. So, it's like consulting and"
+    },
+    {
+      "start": 125.2,
+      "end": 127.28,
+      "text": "universities."
+    },
+    {
+      "start": 125.84,
+      "end": 129.6,
+      "text": ">> Did you notice like when you hover the"
+    },
+    {
+      "start": 127.28,
+      "end": 130.16,
+      "text": "logos are not like showing the right"
+    },
+    {
+      "start": 129.6,
+      "end": 131.76,
+      "text": "highlight?"
+    },
+    {
+      "start": 130.16,
+      "end": 135.92,
+      "text": ">> Oh, yeah. You're right. And then when it"
+    },
+    {
+      "start": 131.76,
+      "end": 137.36,
+      "text": "goes to like 100% it snaps."
+    },
+    {
+      "start": 135.92,
+      "end": 139.12,
+      "text": ">> Like the right way to do it is like"
+    },
+    {
+      "start": 137.36,
+      "end": 139.68,
+      "text": "you're you're like slotting more things"
+    },
+    {
+      "start": 139.12,
+      "end": 141.2,
+      "text": "up."
+    },
+    {
+      "start": 139.68,
+      "end": 143.12,
+      "text": ">> Right. Right. It should just be a"
+    },
+    {
+      "start": 141.2,
+      "end": 144.32,
+      "text": "continuous stream. Right."
+    },
+    {
+      "start": 143.12,
+      "end": 145.92,
+      "text": ">> Okay. So they're trying to build some"
+    },
+    {
+      "start": 144.32,
+      "end": 148.8,
+      "text": "credibility around who uses it."
+    },
+    {
+      "start": 145.92,
+      "end": 150.96,
+      "text": ">> Mhm. Does your work? What's the work?"
+    },
+    {
+      "start": 148.8,
+      "end": 151.68,
+      "text": ">> Transform your workflow with autonomous"
+    },
+    {
+      "start": 150.96,
+      "end": 154.08,
+      "text": "Excel agent."
+    },
+    {
+      "start": 151.68,
+      "end": 154.96,
+      "text": ">> What does it mean? What is the workflow?"
+    },
+    {
+      "start": 154.08,
+      "end": 159.04,
+      "text": "What is this?"
+    },
+    {
+      "start": 154.96,
+      "end": 160.56,
+      "text": ">> I guess something financial analysts do."
+    },
+    {
+      "start": 159.04,
+      "end": 163.04,
+      "text": ">> This is moving too fast. I can't tell"
+    },
+    {
+      "start": 160.56,
+      "end": 163.36,
+      "text": "what's happening here."
+    },
+    {
+      "start": 163.04,
+      "end": 165.44,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 163.36,
+      "end": 167.28,
+      "text": ">> Okay. It can build anything. DCFs,"
+    },
+    {
+      "start": 165.44,
+      "end": 168.16,
+      "text": "discounted cash flows, market models,"
+    },
+    {
+      "start": 167.28,
+      "end": 171.68,
+      "text": "and more."
+    },
+    {
+      "start": 168.16,
+      "end": 173.12,
+      "text": ">> Wow. I didn't know what DCF mean."
+    },
+    {
+      "start": 171.68,
+      "end": 174.64,
+      "text": ">> Well, these are things where like"
+    },
+    {
+      "start": 173.12,
+      "end": 175.92,
+      "text": "they're probably speaking to their user."
+    },
+    {
+      "start": 174.64,
+      "end": 178.48,
+      "text": "And here you see it again. Build a full"
+    },
+    {
+      "start": 175.92,
+      "end": 179.68,
+      "text": "DCF. Um, so their users will probably"
+    },
+    {
+      "start": 178.48,
+      "end": 180.88,
+      "text": "understand, but"
+    },
+    {
+      "start": 179.68,
+      "end": 181.36,
+      "text": ">> we are not their target."
+    },
+    {
+      "start": 180.88,
+      "end": 183.92,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 181.36,
+      "end": 185.2,
+      "text": ">> Um, there's tabs here that just cuz we"
+    },
+    {
+      "start": 183.92,
+      "end": 186.48,
+      "text": "happen to be here, I noticed them."
+    },
+    {
+      "start": 185.2,
+      "end": 186.8,
+      "text": "Otherwise, I don't think I would have"
+    },
+    {
+      "start": 186.48,
+      "end": 188.32,
+      "text": "even"
+    },
+    {
+      "start": 186.8,
+      "end": 190.24,
+      "text": ">> Yeah, I have not noticed them at all."
+    },
+    {
+      "start": 188.32,
+      "end": 191.68,
+      "text": ">> Yeah. Okay. Let's see. They they had a"
+    },
+    {
+      "start": 190.24,
+      "end": 193.6,
+      "text": "question that they sent in. So they"
+    },
+    {
+      "start": 191.68,
+      "end": 195.52,
+      "text": "said, \"Looking for input on overall"
+    },
+    {
+      "start": 193.6,
+      "end": 197.12,
+      "text": "quality of messaging and core sections"
+    },
+    {
+      "start": 195.52,
+      "end": 199.04,
+      "text": "should appeal to high-end investment"
+    },
+    {
+      "start": 197.12,
+      "end": 200.88,
+      "text": "banks, investors, and consultants. The"
+    },
+    {
+      "start": 199.04,
+      "end": 202.56,
+      "text": "site was built using cursor"
+    },
+    {
+      "start": 200.88,
+      "end": 202.96,
+      "text": ">> uh and vibe coded by the non tech"
+    },
+    {
+      "start": 202.56,
+      "end": 204.64,
+      "text": "parts.\""
+    },
+    {
+      "start": 202.96,
+      "end": 205.84,
+      "text": ">> Oh, interesting. Maybe that's why the"
+    },
+    {
+      "start": 204.64,
+      "end": 207.36,
+      "text": "hovers didn't work."
+    },
+    {
+      "start": 205.84,
+      "end": 210.24,
+      "text": ">> Ah,"
+    },
+    {
+      "start": 207.36,
+      "end": 211.2,
+      "text": ">> so messaging wise, I'm just not getting"
+    },
+    {
+      "start": 210.24,
+      "end": 213.04,
+      "text": "the message."
+    },
+    {
+      "start": 211.2,
+      "end": 213.68,
+      "text": ">> And maybe that's just because we're not"
+    },
+    {
+      "start": 213.04,
+      "end": 216.24,
+      "text": "the target."
+    },
+    {
+      "start": 213.68,
+      "end": 218.0,
+      "text": ">> They should talk to the target more"
+    },
+    {
+      "start": 216.24,
+      "end": 219.84,
+      "text": "directly, right? Not less like in this"
+    },
+    {
+      "start": 218.0,
+      "end": 221.76,
+      "text": "vague high level."
+    },
+    {
+      "start": 219.84,
+      "end": 223.84,
+      "text": ">> Yeah. I mean a common pattern is like a"
+    },
+    {
+      "start": 221.76,
+      "end": 225.28,
+      "text": "sub headline under here that"
+    },
+    {
+      "start": 223.84,
+      "end": 227.52,
+      "text": ">> you know sometimes people have like a"
+    },
+    {
+      "start": 225.28,
+      "end": 229.68,
+      "text": "cute kind of marketing headline but then"
+    },
+    {
+      "start": 227.52,
+      "end": 231.44,
+      "text": "if you do that you should have like a"
+    },
+    {
+      "start": 229.68,
+      "end": 234.08,
+      "text": "literal sub headline that explains"
+    },
+    {
+      "start": 231.44,
+      "end": 235.6,
+      "text": "exactly what and you should talk to the"
+    },
+    {
+      "start": 234.08,
+      "end": 235.84,
+      "text": "people you want to talk to."
+    },
+    {
+      "start": 235.6,
+      "end": 236.32,
+      "text": ">> Yes."
+    },
+    {
+      "start": 235.84,
+      "end": 238.16,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 236.32,
+      "end": 239.76,
+      "text": ">> Otherwise like I don't know it seems"
+    },
+    {
+      "start": 238.16,
+      "end": 240.8,
+      "text": "professional enough."
+    },
+    {
+      "start": 239.76,
+      "end": 241.52,
+      "text": ">> It's not that horrible."
+    },
+    {
+      "start": 240.8,
+      "end": 243.44,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 241.52,
+      "end": 245.52,
+      "text": ">> I would say say like the styles and"
+    },
+    {
+      "start": 243.44,
+      "end": 247.92,
+      "text": "stuff is a little off sometimes. say"
+    },
+    {
+      "start": 245.52,
+      "end": 248.56,
+      "text": "like you see like here"
+    },
+    {
+      "start": 247.92,
+      "end": 249.68,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 248.56,
+      "end": 250.8,
+      "text": ">> versus here."
+    },
+    {
+      "start": 249.68,
+      "end": 253.12,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 250.8,
+      "end": 254.0,
+      "text": ">> And they all they do still feel a little"
+    },
+    {
+      "start": 253.12,
+      "end": 254.64,
+      "text": "sloppy."
+    },
+    {
+      "start": 254.0,
+      "end": 256.56,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 254.64,
+      "end": 258.64,
+      "text": ">> Like the icons that are used maybe like"
+    },
+    {
+      "start": 256.56,
+      "end": 260.72,
+      "text": "this is like the what what is it?"
+    },
+    {
+      "start": 258.64,
+      "end": 262.56,
+      "text": ">> Like one of the most popular like AI"
+    },
+    {
+      "start": 260.72,
+      "end": 263.52,
+      "text": "like AI will just pick that one."
+    },
+    {
+      "start": 262.56,
+      "end": 264.8,
+      "text": ">> Yeah. Yeah."
+    },
+    {
+      "start": 263.52,
+      "end": 266.4,
+      "text": ">> Tai helica."
+    },
+    {
+      "start": 264.8,
+      "end": 268.64,
+      "text": ">> How do you break out of that? You know"
+    },
+    {
+      "start": 266.4,
+      "end": 270.32,
+      "text": "the AI has a lot of default styles that"
+    },
+    {
+      "start": 268.64,
+      "end": 272.64,
+      "text": "it likes to go to and especially for"
+    },
+    {
+      "start": 270.32,
+      "end": 274.64,
+      "text": "people that are you know not as well"
+    },
+    {
+      "start": 272.64,
+      "end": 276.16,
+      "text": "versed in design. How do they create"
+    },
+    {
+      "start": 274.64,
+      "end": 277.12,
+      "text": "something that doesn't feel like it's"
+    },
+    {
+      "start": 276.16,
+      "end": 279.92,
+      "text": "been vibe coded?"
+    },
+    {
+      "start": 277.12,
+      "end": 284.72,
+      "text": ">> Right? I think one of the key things is"
+    },
+    {
+      "start": 279.92,
+      "end": 287.52,
+      "text": "to avoid using like sloppy styles or"
+    },
+    {
+      "start": 284.72,
+      "end": 288.8,
+      "text": "like the core tokens of your designs."
+    },
+    {
+      "start": 287.52,
+      "end": 291.2,
+      "text": "You should probably think about it a"
+    },
+    {
+      "start": 288.8,
+      "end": 293.92,
+      "text": "little bit. If you're not sure, actually"
+    },
+    {
+      "start": 291.2,
+      "end": 296.64,
+      "text": "go go safe. Say like you just use system"
+    },
+    {
+      "start": 293.92,
+      "end": 298.72,
+      "text": "fonts. You let others decide for you"
+    },
+    {
+      "start": 296.64,
+      "end": 303.36,
+      "text": "instead of like you deciding. You want"
+    },
+    {
+      "start": 298.72,
+      "end": 306.48,
+      "text": "to avoid say all the typical AI slop say"
+    },
+    {
+      "start": 303.36,
+      "end": 308.48,
+      "text": "like massive shadows, purple gradients,"
+    },
+    {
+      "start": 306.48,
+      "end": 309.84,
+      "text": ">> purple gradients. Yeah."
+    },
+    {
+      "start": 308.48,
+      "end": 310.56,
+      "text": ">> Bad typography."
+    },
+    {
+      "start": 309.84,
+      "end": 313.76,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 310.56,
+      "end": 316.56,
+      "text": ">> Um just clean the the basics up. Then"
+    },
+    {
+      "start": 313.76,
+      "end": 319.2,
+      "text": "with like a really robust like"
+    },
+    {
+      "start": 316.56,
+      "end": 322.08,
+      "text": "foundational set of tokens and"
+    },
+    {
+      "start": 319.2,
+      "end": 322.8,
+      "text": "components, AI is able to compose them"
+    },
+    {
+      "start": 322.08,
+      "end": 324.8,
+      "text": "pretty well."
+    },
+    {
+      "start": 322.8,
+      "end": 327.36,
+      "text": ">> Cool. Well, thank you, Crunch. All"
+    },
+    {
+      "start": 324.8,
+      "end": 328.88,
+      "text": "right. Next up, we've got Velvet."
+    },
+    {
+      "start": 327.36,
+      "end": 331.36,
+      "text": "velvet.video."
+    },
+    {
+      "start": 328.88,
+      "end": 332.96,
+      "text": "Create detailed brand videos with AI."
+    },
+    {
+      "start": 331.36,
+      "end": 334.48,
+      "text": ">> Interesting logo choice. It's like a"
+    },
+    {
+      "start": 332.96,
+      "end": 335.84,
+      "text": "little face. You can't really see."
+    },
+    {
+      "start": 334.48,
+      "end": 337.84,
+      "text": ">> I can't even see it from here. Yeah."
+    },
+    {
+      "start": 335.84,
+      "end": 340.0,
+      "text": ">> So, obviously like the model changing"
+    },
+    {
+      "start": 337.84,
+      "end": 340.64,
+      "text": "here gets my attention."
+    },
+    {
+      "start": 340.0,
+      "end": 342.4,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 340.64,
+      "end": 343.92,
+      "text": ">> Which I guess makes me think like, oh,"
+    },
+    {
+      "start": 342.4,
+      "end": 345.84,
+      "text": "this must be made with AI."
+    },
+    {
+      "start": 343.92,
+      "end": 347.04,
+      "text": ">> What do you think about like what do"
+    },
+    {
+      "start": 345.84,
+      "end": 349.44,
+      "text": "brand video mean?"
+    },
+    {
+      "start": 347.04,
+      "end": 351.2,
+      "text": ">> I just assume like brand marketing"
+    },
+    {
+      "start": 349.44,
+      "end": 353.12,
+      "text": ">> type videos that are not trying to like"
+    },
+    {
+      "start": 351.2,
+      "end": 355.52,
+      "text": "convert you like buy now, but more"
+    },
+    {
+      "start": 353.12,
+      "end": 357.28,
+      "text": "trying to like set a tone, establish a"
+    },
+    {
+      "start": 355.52,
+      "end": 358.72,
+      "text": "brand feeling. Mhm."
+    },
+    {
+      "start": 357.28,
+      "end": 360.64,
+      "text": ">> Maybe you know some of what you were"
+    },
+    {
+      "start": 358.72,
+      "end": 361.36,
+      "text": "going for with the cursor website."
+    },
+    {
+      "start": 360.64,
+      "end": 363.44,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 361.36,
+      "end": 365.44,
+      "text": ">> Like I'm not sure what I'm looking at."
+    },
+    {
+      "start": 363.44,
+      "end": 368.24,
+      "text": "What is this for? Is it for like a"
+    },
+    {
+      "start": 365.44,
+      "end": 370.4,
+      "text": "e-commerce thing? Is it for like a ad?"
+    },
+    {
+      "start": 368.24,
+      "end": 373.04,
+      "text": "And the guy changes his face as they"
+    },
+    {
+      "start": 370.4,
+      "end": 374.4,
+      "text": "like the the hatless look kind of weird."
+    },
+    {
+      "start": 373.04,
+      "end": 377.36,
+      "text": ">> Yeah, this one's being choppy for some"
+    },
+    {
+      "start": 374.4,
+      "end": 379.84,
+      "text": "reason. But yeah, it seems like either"
+    },
+    {
+      "start": 377.36,
+      "end": 380.72,
+      "text": "people are changing or a background is"
+    },
+    {
+      "start": 379.84,
+      "end": 382.16,
+      "text": "changing. Yeah."
+    },
+    {
+      "start": 380.72,
+      "end": 383.84,
+      "text": ">> Seems to be the common pattern."
+    },
+    {
+      "start": 382.16,
+      "end": 385.2,
+      "text": ">> Different variants of the same thing."
+    },
+    {
+      "start": 383.84,
+      "end": 387.12,
+      "text": ">> Yeah. Here the clothes are changing."
+    },
+    {
+      "start": 385.2,
+      "end": 389.52,
+      "text": ">> Right. Right. Right. What is this? How"
+    },
+    {
+      "start": 387.12,
+      "end": 390.16,
+      "text": "is it different from other video models?"
+    },
+    {
+      "start": 389.52,
+      "end": 390.96,
+      "text": ">> Yeah,"
+    },
+    {
+      "start": 390.16,
+      "end": 392.48,
+      "text": ">> I'm not sure."
+    },
+    {
+      "start": 390.96,
+      "end": 394.72,
+      "text": ">> It is true. Like they don't give a lot"
+    },
+    {
+      "start": 392.48,
+      "end": 396.4,
+      "text": "of information up here."
+    },
+    {
+      "start": 394.72,
+      "end": 398.0,
+      "text": ">> Um they try to let the videos do the"
+    },
+    {
+      "start": 396.4,
+      "end": 398.48,
+      "text": "talking and the videos are striking."
+    },
+    {
+      "start": 398.0,
+      "end": 400.32,
+      "text": ">> Yes,"
+    },
+    {
+      "start": 398.48,
+      "end": 400.88,
+      "text": ">> they seem like high quality."
+    },
+    {
+      "start": 400.32,
+      "end": 401.36,
+      "text": ">> Pretty good."
+    },
+    {
+      "start": 400.88,
+      "end": 403.92,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 401.36,
+      "end": 405.6,
+      "text": ">> But it's not clear what's exactly"
+    },
+    {
+      "start": 403.92,
+      "end": 407.92,
+      "text": "happening and like what what if this is"
+    },
+    {
+      "start": 405.6,
+      "end": 409.68,
+      "text": "their product and what if this is"
+    },
+    {
+      "start": 407.92,
+      "end": 411.52,
+      "text": "somebody shot a video used to"
+    },
+    {
+      "start": 409.68,
+      "end": 413.92,
+      "text": ">> like I want to know like what's special"
+    },
+    {
+      "start": 411.52,
+      "end": 416.64,
+      "text": "about it. What's different from your"
+    },
+    {
+      "start": 413.92,
+      "end": 418.96,
+      "text": "video thing versus say like Sora?"
+    },
+    {
+      "start": 416.64,
+      "end": 421.44,
+      "text": ">> Like what what kind of brand videos can"
+    },
+    {
+      "start": 418.96,
+      "end": 423.84,
+      "text": "I do just here versus other places?"
+    },
+    {
+      "start": 421.44,
+      "end": 425.52,
+      "text": ">> Yeah. And then their their book a demo"
+    },
+    {
+      "start": 423.84,
+      "end": 427.28,
+      "text": "uh button which I assume is the main"
+    },
+    {
+      "start": 425.52,
+      "end": 428.56,
+      "text": "call to action is below the fold here."
+    },
+    {
+      "start": 427.28,
+      "end": 429.76,
+      "text": ">> Click on it. See what happens."
+    },
+    {
+      "start": 428.56,
+      "end": 432.32,
+      "text": ">> Let's see."
+    },
+    {
+      "start": 429.76,
+      "end": 435.04,
+      "text": ">> I don't hate it. It's like kind of cute."
+    },
+    {
+      "start": 432.32,
+      "end": 436.56,
+      "text": ">> Yeah. But even here, you know, no"
+    },
+    {
+      "start": 435.04,
+      "end": 438.32,
+      "text": "detail. Yeah. There's no information"
+    },
+    {
+      "start": 436.56,
+      "end": 439.68,
+      "text": "about like what's going to happen or who"
+    },
+    {
+      "start": 438.32,
+      "end": 440.8,
+      "text": "you're going to talk to or anything like"
+    },
+    {
+      "start": 439.68,
+      "end": 441.2,
+      "text": "that. it."
+    },
+    {
+      "start": 440.8,
+      "end": 442.72,
+      "text": ">> Um,"
+    },
+    {
+      "start": 441.2,
+      "end": 443.6,
+      "text": ">> it's very like obscure."
+    },
+    {
+      "start": 442.72,
+      "end": 445.2,
+      "text": ">> Yep. Okay."
+    },
+    {
+      "start": 443.6,
+      "end": 447.2,
+      "text": ">> And now you're asking for money."
+    },
+    {
+      "start": 445.2,
+      "end": 448.72,
+      "text": ">> Yeah. And I'm not even sure what it is"
+    },
+    {
+      "start": 447.2,
+      "end": 451.36,
+      "text": "yet. Yeah. So, I think my biggest"
+    },
+    {
+      "start": 448.72,
+      "end": 453.2,
+      "text": "takeaway here is there's not enough"
+    },
+    {
+      "start": 451.36,
+      "end": 453.6,
+      "text": "information here to understand what this"
+    },
+    {
+      "start": 453.2,
+      "end": 453.92,
+      "text": "is."
+    },
+    {
+      "start": 453.6,
+      "end": 456.48,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 453.92,
+      "end": 458.48,
+      "text": ">> I almost thought like this was YC cuz"
+    },
+    {
+      "start": 456.48,
+      "end": 460.24,
+      "text": "that's the more prominent logo than than"
+    },
+    {
+      "start": 458.48,
+      "end": 461.68,
+      "text": "their logo, which is tiny and awkward."
+    },
+    {
+      "start": 460.24,
+      "end": 464.32,
+      "text": ">> Yeah. Yeah. Yeah. They should probably"
+    },
+    {
+      "start": 461.68,
+      "end": 465.52,
+      "text": "like make a better logo slash just use"
+    },
+    {
+      "start": 464.32,
+      "end": 466.0,
+      "text": "like a word mark."
+    },
+    {
+      "start": 465.52,
+      "end": 466.24,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 466.0,
+      "end": 467.92,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 466.24,
+      "end": 469.04,
+      "text": ">> Or at least make it bigger. Make the"
+    },
+    {
+      "start": 467.92,
+      "end": 470.08,
+      "text": "logo bigger. Mhm."
+    },
+    {
+      "start": 469.04,
+      "end": 470.64,
+      "text": ">> Nobody's ever heard that."
+    },
+    {
+      "start": 470.08,
+      "end": 473.36,
+      "text": ">> Oh, yeah."
+    },
+    {
+      "start": 470.64,
+      "end": 474.24,
+      "text": ">> All right. So, main takeaways."
+    },
+    {
+      "start": 473.36,
+      "end": 475.6,
+      "text": ">> What is this?"
+    },
+    {
+      "start": 474.24,
+      "end": 476.64,
+      "text": ">> What is it? Do a better job of"
+    },
+    {
+      "start": 475.6,
+      "end": 477.04,
+      "text": "explaining what it is."
+    },
+    {
+      "start": 476.64,
+      "end": 478.56,
+      "text": ">> Yes."
+    },
+    {
+      "start": 477.04,
+      "end": 480.16,
+      "text": ">> More content."
+    },
+    {
+      "start": 478.56,
+      "end": 481.36,
+      "text": ">> Why is it different from the other?"
+    },
+    {
+      "start": 480.16,
+      "end": 483.68,
+      "text": ">> Why is it different? And be a little"
+    },
+    {
+      "start": 481.36,
+      "end": 485.84,
+      "text": "more clear around who it who is it for?"
+    },
+    {
+      "start": 483.68,
+      "end": 487.04,
+      "text": ">> A lot of times when people hit a site,"
+    },
+    {
+      "start": 485.84,
+      "end": 488.16,
+      "text": "you know, they're asking themselves a"
+    },
+    {
+      "start": 487.04,
+      "end": 488.56,
+      "text": "question, what is this?"
+    },
+    {
+      "start": 488.16,
+      "end": 489.44,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 488.56,
+      "end": 489.92,
+      "text": ">> Is it for me?"
+    },
+    {
+      "start": 489.44,
+      "end": 490.72,
+      "text": ">> Yep."
+    },
+    {
+      "start": 489.92,
+      "end": 491.2,
+      "text": ">> Does it work?"
+    },
+    {
+      "start": 490.72,
+      "end": 492.88,
+      "text": ">> Yep."
+    },
+    {
+      "start": 491.2,
+      "end": 495.12,
+      "text": ">> Is it credible?"
+    },
+    {
+      "start": 492.88,
+      "end": 496.72,
+      "text": ">> And I have to work pretty hard to figure"
+    },
+    {
+      "start": 495.12,
+      "end": 498.8,
+      "text": "out the answers to those questions."
+    },
+    {
+      "start": 496.72,
+      "end": 500.64,
+      "text": ">> Yes. And don't scare them with like"
+    },
+    {
+      "start": 498.8,
+      "end": 502.24,
+      "text": "money too too quickly."
+    },
+    {
+      "start": 500.64,
+      "end": 504.0,
+      "text": ">> Yeah. Let's go to their question here."
+    },
+    {
+      "start": 502.24,
+      "end": 505.28,
+      "text": "Let's see what they had to say."
+    },
+    {
+      "start": 504.0,
+      "end": 507.04,
+      "text": ">> I would like to make sure that the words"
+    },
+    {
+      "start": 505.28,
+      "end": 507.92,
+      "text": "put on the website correctly emphasize"
+    },
+    {
+      "start": 507.04,
+      "end": 509.68,
+      "text": "the value of the product."
+    },
+    {
+      "start": 507.92,
+      "end": 511.52,
+      "text": ">> I'm not sure. I'm sorry."
+    },
+    {
+      "start": 509.68,
+      "end": 512.64,
+      "text": ">> Yeah. Seems like that was our main focus"
+    },
+    {
+      "start": 511.52,
+      "end": 514.88,
+      "text": "is that is that No,"
+    },
+    {
+      "start": 512.64,
+      "end": 517.28,
+      "text": ">> I guess the key words are detailed."
+    },
+    {
+      "start": 514.88,
+      "end": 519.68,
+      "text": "Brand videos. What is brand videos? What"
+    },
+    {
+      "start": 517.28,
+      "end": 522.64,
+      "text": "is detailed? What is it?"
+    },
+    {
+      "start": 519.68,
+      "end": 524.0,
+      "text": ">> And there's literally only six words on"
+    },
+    {
+      "start": 522.64,
+      "end": 526.0,
+      "text": "the [laughter] page that describe what"
+    },
+    {
+      "start": 524.0,
+      "end": 527.76,
+      "text": "they do. Everything else is about sign"
+    },
+    {
+      "start": 526.0,
+      "end": 529.28,
+      "text": "up. There is some hints in the quotes."
+    },
+    {
+      "start": 527.76,
+      "end": 530.56,
+      "text": ">> Yeah, exactly. But yeah, you don't want"
+    },
+    {
+      "start": 529.28,
+      "end": 532.32,
+      "text": "people to have to work that out."
+    },
+    {
+      "start": 530.56,
+      "end": 533.44,
+      "text": "[laughter] Actually, those quotes are"
+    },
+    {
+      "start": 532.32,
+      "end": 534.08,
+      "text": "are from artists."
+    },
+    {
+      "start": 533.44,
+      "end": 536.4,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 534.08,
+      "end": 537.28,
+      "text": ">> Awesome. Add more content, Velvet. And"
+    },
+    {
+      "start": 536.4,
+      "end": 538.32,
+      "text": "that will improve"
+    },
+    {
+      "start": 537.28,
+      "end": 542.16,
+      "text": ">> more words."
+    },
+    {
+      "start": 538.32,
+      "end": 543.92,
+      "text": ">> Next up, we've got Clavis AI."
+    },
+    {
+      "start": 542.16,
+      "end": 545.12,
+      "text": ">> Why is it introducing Strata?"
+    },
+    {
+      "start": 543.92,
+      "end": 547.44,
+      "text": ">> Yeah, I thought this was Clavis."
+    },
+    {
+      "start": 545.12,
+      "end": 549.6,
+      "text": ">> Why is there two names when you're just"
+    },
+    {
+      "start": 547.44,
+      "end": 551.28,
+      "text": "starting? Like, why? [laughter]"
+    },
+    {
+      "start": 549.6,
+      "end": 552.88,
+      "text": ">> Okay, so my first impression here is"
+    },
+    {
+      "start": 551.28,
+      "end": 554.64,
+      "text": "that this looks like a template."
+    },
+    {
+      "start": 552.88,
+      "end": 556.32,
+      "text": ">> Yes. Uh, it almost looks like old school"
+    },
+    {
+      "start": 554.64,
+      "end": 558.07,
+      "text": "bootstrap or something like that. And"
+    },
+    {
+      "start": 556.32,
+      "end": 559.36,
+      "text": "then there's a lot of things that"
+    },
+    {
+      "start": 558.07,
+      "end": 559.6,
+      "text": "[laughter] look like buttons."
+    },
+    {
+      "start": 559.36,
+      "end": 561.36,
+      "text": ">> Yes."
+    },
+    {
+      "start": 559.6,
+      "end": 562.48,
+      "text": ">> Yeah. Join our Discord, check out"
+    },
+    {
+      "start": 561.36,
+      "end": 564.8,
+      "text": "GitHub,"
+    },
+    {
+      "start": 562.48,
+      "end": 567.68,
+      "text": ">> back by YC, product of the day, start"
+    },
+    {
+      "start": 564.8,
+      "end": 568.96,
+      "text": "free documentation, sign up button up"
+    },
+    {
+      "start": 567.68,
+      "end": 570.0,
+      "text": "here."
+    },
+    {
+      "start": 568.96,
+      "end": 570.64,
+      "text": ">> There's a lot of things."
+    },
+    {
+      "start": 570.0,
+      "end": 571.44,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 570.64,
+      "end": 573.12,
+      "text": ">> So,"
+    },
+    {
+      "start": 571.44,
+      "end": 573.68,
+      "text": ">> kill all the distractions."
+    },
+    {
+      "start": 573.12,
+      "end": 576.16,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 573.68,
+      "end": 578.48,
+      "text": ">> Make sure that like every single scroll"
+    },
+    {
+      "start": 576.16,
+      "end": 578.96,
+      "text": "there's only one main CTA."
+    },
+    {
+      "start": 578.48,
+      "end": 581.2,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 578.96,
+      "end": 583.52,
+      "text": ">> There's always like a priority."
+    },
+    {
+      "start": 581.2,
+      "end": 586.08,
+      "text": ">> Your main message. What the hell is it?"
+    },
+    {
+      "start": 583.52,
+      "end": 586.48,
+      "text": "The CTAs and then it's like the proofs."
+    },
+    {
+      "start": 586.08,
+      "end": 588.24,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 586.48,
+      "end": 589.84,
+      "text": ">> Or like I want to see what the hell is"
+    },
+    {
+      "start": 588.24,
+      "end": 590.88,
+      "text": "this like gray box here,"
+    },
+    {
+      "start": 589.84,
+      "end": 592.72,
+      "text": ">> right? It's just a gray box."
+    },
+    {
+      "start": 590.88,
+      "end": 595.04,
+      "text": ">> I'm not I'm not sure what it is. What"
+    },
+    {
+      "start": 592.72,
+      "end": 595.52,
+      "text": "why is there a gray box and I can't see"
+    },
+    {
+      "start": 595.04,
+      "end": 596.8,
+      "text": "it?"
+    },
+    {
+      "start": 595.52,
+      "end": 597.36,
+      "text": ">> Yeah. What's going to happen? Right."
+    },
+    {
+      "start": 596.8,
+      "end": 600.0,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 597.36,
+      "end": 602.4,
+      "text": ">> Okay. So, one MCP server for AI agents"
+    },
+    {
+      "start": 600.0,
+      "end": 604.56,
+      "text": "to use tools reliably at any scale. And"
+    },
+    {
+      "start": 602.4,
+      "end": 606.48,
+      "text": "it seems like maybe this started as an"
+    },
+    {
+      "start": 604.56,
+      "end": 608.56,
+      "text": "open source project"
+    },
+    {
+      "start": 606.48,
+      "end": 610.32,
+      "text": ">> um and now this is their productized"
+    },
+    {
+      "start": 608.56,
+      "end": 612.72,
+      "text": "version of it. I have seen that"
+    },
+    {
+      "start": 610.32,
+      "end": 615.52,
+      "text": "sometimes where"
+    },
+    {
+      "start": 612.72,
+      "end": 617.36,
+      "text": ">> the open-source thing is maybe called"
+    },
+    {
+      "start": 615.52,
+      "end": 620.64,
+      "text": "Clavis AI"
+    },
+    {
+      "start": 617.36,
+      "end": 621.76,
+      "text": ">> and then their productized version that"
+    },
+    {
+      "start": 620.64,
+      "end": 623.12,
+      "text": "they're trying to get people to pay for"
+    },
+    {
+      "start": 621.76,
+      "end": 624.72,
+      "text": "they give it a different name. So I'm"
+    },
+    {
+      "start": 623.12,
+      "end": 625.68,
+      "text": "kind of curious. I'm going to click"
+    },
+    {
+      "start": 624.72,
+      "end": 626.64,
+      "text": "through here and see."
+    },
+    {
+      "start": 625.68,
+      "end": 627.28,
+      "text": ">> It is called Clav."
+    },
+    {
+      "start": 626.64,
+      "end": 628.24,
+      "text": ">> Clav."
+    },
+    {
+      "start": 627.28,
+      "end": 630.48,
+      "text": ">> Oh man."
+    },
+    {
+      "start": 628.24,
+      "end": 632.56,
+      "text": ">> So I I've seen this before and I think"
+    },
+    {
+      "start": 630.48,
+      "end": 632.96,
+      "text": "it just probably adds confusion."
+    },
+    {
+      "start": 632.56,
+      "end": 633.92,
+      "text": ">> Yeah,"
+    },
+    {
+      "start": 632.96,
+      "end": 634.24,
+      "text": ">> they should probably just call it the"
+    },
+    {
+      "start": 633.92,
+      "end": 635.28,
+      "text": "same."
+    },
+    {
+      "start": 634.24,
+      "end": 636.8,
+      "text": ">> Just Clavus."
+    },
+    {
+      "start": 635.28,
+      "end": 639.2,
+      "text": ">> Okay. And so here we've got a video."
+    },
+    {
+      "start": 636.8,
+      "end": 640.64,
+      "text": ">> Oh, it doesn't autoplay. tells us tap to"
+    },
+    {
+      "start": 639.2,
+      "end": 643.12,
+      "text": "play."
+    },
+    {
+      "start": 640.64,
+      "end": 645.92,
+      "text": ">> AI agents struggle with too many tools"
+    },
+    {
+      "start": 643.12,
+      "end": 648.46,
+      "text": "leading to wrong API calls, context"
+    },
+    {
+      "start": 645.92,
+      "end": 650.96,
+      "text": "overload, higher costs, and limited tool"
+    },
+    {
+      "start": 648.46,
+      "end": 651.52,
+      "text": "[music] coverage. Meet Strata by Clavis"
+    },
+    {
+      "start": 650.96,
+      "end": 654.88,
+      "text": "AI."
+    },
+    {
+      "start": 651.52,
+      "end": 656.32,
+      "text": ">> This music gives me like a old like TV."
+    },
+    {
+      "start": 654.88,
+      "end": 656.96,
+      "text": ">> Yeah. It's like we just watched an 80s"
+    },
+    {
+      "start": 656.32,
+      "end": 657.52,
+      "text": "sitcom."
+    },
+    {
+      "start": 656.96,
+      "end": 659.6,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 657.52,
+      "end": 660.96,
+      "text": ">> Okay. So, powering experiences from"
+    },
+    {
+      "start": 659.6,
+      "end": 662.32,
+      "text": "nextgen startups."
+    },
+    {
+      "start": 660.96,
+      "end": 663.2,
+      "text": ">> I actually don't know any of these"
+    },
+    {
+      "start": 662.32,
+      "end": 665.84,
+      "text": "companies."
+    },
+    {
+      "start": 663.2,
+      "end": 667.52,
+      "text": ">> Connect any AI tools on modern MCP"
+    },
+    {
+      "start": 665.84,
+      "end": 668.24,
+      "text": "infra. Okay. So they integrate with a"
+    },
+    {
+      "start": 667.52,
+      "end": 669.76,
+      "text": "bunch of these."
+    },
+    {
+      "start": 668.24,
+      "end": 670.16,
+      "text": ">> Maybe this is more important."
+    },
+    {
+      "start": 669.76,
+      "end": 671.92,
+      "text": ">> Yeah,"
+    },
+    {
+      "start": 670.16,
+      "end": 672.08,
+      "text": ">> maybe just show all of them like up"
+    },
+    {
+      "start": 671.92,
+      "end": 673.04,
+      "text": "there."
+    },
+    {
+      "start": 672.08,
+      "end": 674.64,
+      "text": ">> Hey, there's cursor."
+    },
+    {
+      "start": 673.04,
+      "end": 676.72,
+      "text": ">> Yeah, I feel like you might actually"
+    },
+    {
+      "start": 674.64,
+      "end": 677.2,
+      "text": "want like a more stable way to see these"
+    },
+    {
+      "start": 676.72,
+      "end": 677.6,
+      "text": "things."
+    },
+    {
+      "start": 677.2,
+      "end": 679.12,
+      "text": ">> Yeah,"
+    },
+    {
+      "start": 677.6,
+      "end": 681.04,
+      "text": ">> maybe you just show them all and then"
+    },
+    {
+      "start": 679.12,
+      "end": 682.32,
+      "text": "there's like quick filters."
+    },
+    {
+      "start": 681.04,
+      "end": 684.08,
+      "text": ">> Maybe you actually show them all like"
+    },
+    {
+      "start": 682.32,
+      "end": 686.0,
+      "text": "here, here, you know?"
+    },
+    {
+      "start": 684.08,
+      "end": 686.48,
+      "text": ">> Then you can get a sense of what you can"
+    },
+    {
+      "start": 686.0,
+      "end": 688.8,
+      "text": "do."
+    },
+    {
+      "start": 686.48,
+      "end": 690.96,
+      "text": ">> Mhm. How strata works. Progressive"
+    },
+    {
+      "start": 688.8,
+      "end": 691.68,
+      "text": "discovery, smart navigation, precise"
+    },
+    {
+      "start": 690.96,
+      "end": 692.64,
+      "text": "execution."
+    },
+    {
+      "start": 691.68,
+      "end": 693.92,
+      "text": ">> Not sure what they mean."
+    },
+    {
+      "start": 692.64,
+      "end": 695.28,
+      "text": ">> That explains it all, right?"
+    },
+    {
+      "start": 693.92,
+      "end": 696.96,
+      "text": ">> What What are the problems?"
+    },
+    {
+      "start": 695.28,
+      "end": 697.68,
+      "text": ">> I don't know. But here's why strata is"
+    },
+    {
+      "start": 696.96,
+      "end": 699.2,
+      "text": "better."
+    },
+    {
+      "start": 697.68,
+      "end": 699.6,
+      "text": ">> Better than what?"
+    },
+    {
+      "start": 699.2,
+      "end": 702.24,
+      "text": ">> Better than"
+    },
+    {
+      "start": 699.6,
+      "end": 703.52,
+      "text": ">> like using individual MCPS I assume."
+    },
+    {
+      "start": 702.24,
+      "end": 705.68,
+      "text": "Yeah."
+    },
+    {
+      "start": 703.52,
+      "end": 707.2,
+      "text": ">> Then maybe show that like the old world,"
+    },
+    {
+      "start": 705.68,
+      "end": 708.64,
+      "text": "the new world. What are the problems?"
+    },
+    {
+      "start": 707.2,
+      "end": 710.8,
+      "text": "How do you solve the problems?"
+    },
+    {
+      "start": 708.64,
+      "end": 713.04,
+      "text": ">> The thing I hate for like a lot of"
+    },
+    {
+      "start": 710.8,
+      "end": 715.12,
+      "text": "companies what they do is like they love"
+    },
+    {
+      "start": 713.04,
+      "end": 717.36,
+      "text": "talking in their own words"
+    },
+    {
+      "start": 715.12,
+      "end": 719.52,
+      "text": ">> and with their own concepts that they"
+    },
+    {
+      "start": 717.36,
+      "end": 719.92,
+      "text": "came up that nobody else understands,"
+    },
+    {
+      "start": 719.52,
+      "end": 721.84,
+      "text": "right?"
+    },
+    {
+      "start": 719.92,
+      "end": 723.36,
+      "text": ">> Like you just throw these like big words"
+    },
+    {
+      "start": 721.84,
+      "end": 724.16,
+      "text": "there but then they don't really mean"
+    },
+    {
+      "start": 723.36,
+      "end": 725.68,
+      "text": "anything to me."
+    },
+    {
+      "start": 724.16,
+      "end": 727.04,
+      "text": ">> Yeah. The best way is to talk to your"
+    },
+    {
+      "start": 725.68,
+      "end": 727.36,
+      "text": "users and use the words that they"
+    },
+    {
+      "start": 727.04,
+      "end": 730.56,
+      "text": "understand."
+    },
+    {
+      "start": 727.36,
+      "end": 731.92,
+      "text": ">> Yeah. You you talk in their language in"
+    },
+    {
+      "start": 730.56,
+      "end": 734.32,
+      "text": "their problems,"
+    },
+    {
+      "start": 731.92,
+      "end": 736.56,
+      "text": ">> the world they are used to now and the"
+    },
+    {
+      "start": 734.32,
+      "end": 738.48,
+      "text": "new thing, how is it different? Yeah."
+    },
+    {
+      "start": 736.56,
+      "end": 740.72,
+      "text": ">> What are the problems that you solved?"
+    },
+    {
+      "start": 738.48,
+      "end": 742.56,
+      "text": ">> Yeah. So if users are like I need a tool"
+    },
+    {
+      "start": 740.72,
+      "end": 743.52,
+      "text": "for progressive discovery,"
+    },
+    {
+      "start": 742.56,
+      "end": 744.96,
+      "text": ">> then like great."
+    },
+    {
+      "start": 743.52,
+      "end": 746.32,
+      "text": ">> But nobody's going to say that."
+    },
+    {
+      "start": 744.96,
+      "end": 748.64,
+      "text": ">> Yeah. Never heard anybody say"
+    },
+    {
+      "start": 746.32,
+      "end": 750.08,
+      "text": ">> more like I have so many MCPS I don't"
+    },
+    {
+      "start": 748.64,
+      "end": 751.6,
+      "text": "know how to manage them. We're like, I"
+    },
+    {
+      "start": 750.08,
+      "end": 753.68,
+      "text": "don't even know what's there that can"
+    },
+    {
+      "start": 751.6,
+      "end": 754.08,
+      "text": "help me integrate my agent to other"
+    },
+    {
+      "start": 753.68,
+      "end": 754.88,
+      "text": "things."
+    },
+    {
+      "start": 754.08,
+      "end": 757.04,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 754.88,
+      "end": 759.52,
+      "text": ">> Oh, wow. This chart."
+    },
+    {
+      "start": 757.04,
+      "end": 760.88,
+      "text": ">> This looks like a screenshot from Y"
+    },
+    {
+      "start": 759.52,
+      "end": 762.16,
+      "text": ">> Excel or something like that."
+    },
+    {
+      "start": 760.88,
+      "end": 764.16,
+      "text": ">> Yeah. Sad."
+    },
+    {
+      "start": 762.16,
+      "end": 764.72,
+      "text": ">> Some dashboard."
+    },
+    {
+      "start": 764.16,
+      "end": 766.8,
+      "text": ">> You got"
+    },
+    {
+      "start": 764.72,
+      "end": 769.76,
+      "text": ">> Oh, whoa, whoa, whoa."
+    },
+    {
+      "start": 766.8,
+      "end": 771.04,
+      "text": "Whoa, whoa, whoa, whoa."
+    },
+    {
+      "start": 769.76,
+      "end": 772.72,
+      "text": ">> Everything's kind of moving."
+    },
+    {
+      "start": 771.04,
+      "end": 773.52,
+      "text": ">> Yeah. I don't like moving things when"
+    },
+    {
+      "start": 772.72,
+      "end": 774.8,
+      "text": "I'm not moving"
+    },
+    {
+      "start": 773.52,
+      "end": 776.88,
+      "text": ">> and when you're trying to read."
+    },
+    {
+      "start": 774.8,
+      "end": 778.56,
+      "text": ">> Yeah. It's like distracting."
+    },
+    {
+      "start": 776.88,
+      "end": 778.96,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 778.56,
+      "end": 780.56,
+      "text": "compos."
+    },
+    {
+      "start": 778.96,
+      "end": 782.16,
+      "text": ">> I also don't like lines when you don't"
+    },
+    {
+      "start": 780.56,
+      "end": 783.52,
+      "text": "need lines like this one."
+    },
+    {
+      "start": 782.16,
+      "end": 785.52,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 783.52,
+      "end": 786.0,
+      "text": ">> And you know headlines."
+    },
+    {
+      "start": 785.52,
+      "end": 787.52,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 786.0,
+      "end": 788.88,
+      "text": ">> What most people do is they come down"
+    },
+    {
+      "start": 787.52,
+      "end": 789.92,
+      "text": "and they're going to read the headlines."
+    },
+    {
+      "start": 788.88,
+      "end": 793.28,
+      "text": "They're going to say, \"Okay, what our"
+    },
+    {
+      "start": 789.92,
+      "end": 794.88,
+      "text": "customers say? Compliance investors."
+    },
+    {
+      "start": 793.28,
+      "end": 797.04,
+      "text": ">> Choose your plan.\""
+    },
+    {
+      "start": 794.88,
+      "end": 798.48,
+      "text": ">> Like you you got to be explicit and"
+    },
+    {
+      "start": 797.04,
+      "end": 799.52,
+      "text": "assume people are not going to read the"
+    },
+    {
+      "start": 798.48,
+      "end": 800.96,
+      "text": "sub headline. They're only going to read"
+    },
+    {
+      "start": 799.52,
+      "end": 802.88,
+      "text": "the sub headline if they're intrigued by"
+    },
+    {
+      "start": 800.96,
+      "end": 805.44,
+      "text": "the headline and they want to"
+    },
+    {
+      "start": 802.88,
+      "end": 806.24,
+      "text": ">> Why is that even there?"
+    },
+    {
+      "start": 805.44,
+      "end": 807.62,
+      "text": "Doesn't make sense."
+    },
+    {
+      "start": 806.24,
+      "end": 810.64,
+      "text": ">> Trying to build credibility, I assume."
+    },
+    {
+      "start": 807.62,
+      "end": 811.44,
+      "text": "[laughter] But um yeah, it's it's not"
+    },
+    {
+      "start": 810.64,
+      "end": 813.92,
+      "text": "clear what you"
+    },
+    {
+      "start": 811.44,
+      "end": 814.88,
+      "text": ">> More like us money off front patterns."
+    },
+    {
+      "start": 813.92,
+      "end": 817.28,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 814.88,
+      "end": 818.4,
+      "text": ">> Is that too early for that? Probably."
+    },
+    {
+      "start": 817.28,
+      "end": 820.72,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 818.4,
+      "end": 822.56,
+      "text": ">> You should get them to to sign up and"
+    },
+    {
+      "start": 820.72,
+      "end": 825.52,
+      "text": "start trial triing."
+    },
+    {
+      "start": 822.56,
+      "end": 827.52,
+      "text": ">> Okay. Let's see what their question was."
+    },
+    {
+      "start": 825.52,
+      "end": 829.52,
+      "text": ">> Does our homepage above the full hero"
+    },
+    {
+      "start": 827.52,
+      "end": 831.2,
+      "text": "section headline sub headline clearly"
+    },
+    {
+      "start": 829.52,
+      "end": 832.88,
+      "text": "explain our value proposition in 5"
+    },
+    {
+      "start": 831.2,
+      "end": 835.36,
+      "text": "seconds? We're worried it's too jargony."
+    },
+    {
+      "start": 832.88,
+      "end": 836.8,
+      "text": ">> Oh yeah, it is very jargony. Let's kill"
+    },
+    {
+      "start": 835.36,
+      "end": 838.96,
+      "text": "all of this. Yep."
+    },
+    {
+      "start": 836.8,
+      "end": 840.96,
+      "text": ">> Kill the video. Just show all the MCPS"
+    },
+    {
+      "start": 838.96,
+      "end": 841.28,
+      "text": "you can connect. That uh is just one"
+    },
+    {
+      "start": 840.96,
+      "end": 841.84,
+      "text": "thing."
+    },
+    {
+      "start": 841.28,
+      "end": 843.2,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 841.84,
+      "end": 844.72,
+      "text": ">> And that's probably pretty easy to show"
+    },
+    {
+      "start": 843.2,
+      "end": 846.48,
+      "text": "that visually, right? Just kind of all"
+    },
+    {
+      "start": 844.72,
+      "end": 848.0,
+      "text": "them coming into like one"
+    },
+    {
+      "start": 846.48,
+      "end": 849.84,
+      "text": ">> strata logo or something."
+    },
+    {
+      "start": 848.0,
+      "end": 851.68,
+      "text": ">> Yep. And then maybe like you can"
+    },
+    {
+      "start": 849.84,
+      "end": 853.44,
+      "text": "actually like keep the little filters"
+    },
+    {
+      "start": 851.68,
+      "end": 855.04,
+      "text": "there and then you can filter between"
+    },
+    {
+      "start": 853.44,
+      "end": 856.4,
+      "text": "different set of tools. Then you can"
+    },
+    {
+      "start": 855.04,
+      "end": 857.6,
+      "text": "kind of find the thing."
+    },
+    {
+      "start": 856.4,
+      "end": 860.16,
+      "text": ">> Yep."
+    },
+    {
+      "start": 857.6,
+      "end": 861.68,
+      "text": ">> But um I think this sub headline helped."
+    },
+    {
+      "start": 860.16,
+      "end": 862.4,
+      "text": "I think we read this and we understood"
+    },
+    {
+      "start": 861.68,
+      "end": 864.8,
+      "text": "what they do."
+    },
+    {
+      "start": 862.4,
+      "end": 865.52,
+      "text": ">> Yeah. Maybe make this like the the only"
+    },
+    {
+      "start": 864.8,
+      "end": 866.16,
+      "text": "headline."
+    },
+    {
+      "start": 865.52,
+      "end": 868.72,
+      "text": ">> Yeah. Yeah."
+    },
+    {
+      "start": 866.16,
+      "end": 870.88,
+      "text": ">> And then kill your naming confusion."
+    },
+    {
+      "start": 868.72,
+      "end": 871.44,
+      "text": "Just pick one. Pick one. Pick one name."
+    },
+    {
+      "start": 870.88,
+      "end": 873.76,
+      "text": "That's it."
+    },
+    {
+      "start": 871.44,
+      "end": 875.6,
+      "text": ">> Yep. Thank you, Clav. All right. Code"
+    },
+    {
+      "start": 873.76,
+      "end": 876.08,
+      "text": "crafters."
+    },
+    {
+      "start": 875.6,
+      "end": 878.0,
+      "text": ">> Ah."
+    },
+    {
+      "start": 876.08,
+      "end": 879.04,
+      "text": ">> Oh, we got the purple gradients. They're"
+    },
+    {
+      "start": 878.0,
+      "end": 880.32,
+      "text": "here."
+    },
+    {
+      "start": 879.04,
+      "end": 882.48,
+      "text": ">> Scary."
+    },
+    {
+      "start": 880.32,
+      "end": 884.08,
+      "text": ">> Become a better software engineer. Stop"
+    },
+    {
+      "start": 882.48,
+      "end": 885.68,
+      "text": "following tutorials designed for"
+    },
+    {
+      "start": 884.08,
+      "end": 887.28,
+      "text": "beginners. Start working on projects"
+    },
+    {
+      "start": 885.68,
+      "end": 888.8,
+      "text": "that actually challenge you. Become a"
+    },
+    {
+      "start": 887.28,
+      "end": 889.52,
+      "text": "better engineer through deliberate"
+    },
+    {
+      "start": 888.8,
+      "end": 890.56,
+      "text": "practice."
+    },
+    {
+      "start": 889.52,
+      "end": 892.0,
+      "text": ">> Interesting."
+    },
+    {
+      "start": 890.56,
+      "end": 894.56,
+      "text": ">> They don't have the name of the company"
+    },
+    {
+      "start": 892.0,
+      "end": 896.0,
+      "text": "up here. and I said it, but then I"
+    },
+    {
+      "start": 894.56,
+      "end": 896.96,
+      "text": "forgot it already and I was looking for"
+    },
+    {
+      "start": 896.0,
+      "end": 898.48,
+      "text": "like what is the name of this company"
+    },
+    {
+      "start": 896.96,
+      "end": 898.96,
+      "text": "again and I couldn't find it anywhere on"
+    },
+    {
+      "start": 898.48,
+      "end": 901.52,
+      "text": "the page."
+    },
+    {
+      "start": 898.96,
+      "end": 902.56,
+      "text": ">> Yeah. Logo is also very generic."
+    },
+    {
+      "start": 901.52,
+      "end": 903.92,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 902.56,
+      "end": 907.04,
+      "text": ">> Doesn't tell me anything."
+    },
+    {
+      "start": 903.92,
+      "end": 909.12,
+      "text": ">> Yeah, this was a lot to get through here"
+    },
+    {
+      "start": 907.04,
+      "end": 911.12,
+      "text": "and it was it started out with the"
+    },
+    {
+      "start": 909.12,
+      "end": 912.96,
+      "text": "negative stop doing this thing. So"
+    },
+    {
+      "start": 911.12,
+      "end": 914.8,
+      "text": "instead of saying what they do in the"
+    },
+    {
+      "start": 912.96,
+      "end": 915.6,
+      "text": "positive, it started out with don't do"
+    },
+    {
+      "start": 914.8,
+      "end": 917.36,
+      "text": "this"
+    },
+    {
+      "start": 915.6,
+      "end": 920.96,
+      "text": ">> which is not informative for for what"
+    },
+    {
+      "start": 917.36,
+      "end": 923.28,
+      "text": "they actually do. Uh, I do like keeping"
+    },
+    {
+      "start": 920.96,
+      "end": 923.84,
+      "text": "things a little like aspirational."
+    },
+    {
+      "start": 923.28,
+      "end": 925.92,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 923.84,
+      "end": 926.96,
+      "text": ">> But you do want to communicate clearly."
+    },
+    {
+      "start": 925.92,
+      "end": 927.28,
+      "text": "What the hell is this?"
+    },
+    {
+      "start": 926.96,
+      "end": 928.8,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 927.28,
+      "end": 931.52,
+      "text": ">> I still don't get it."
+    },
+    {
+      "start": 928.8,
+      "end": 933.68,
+      "text": ">> Yeah. It seems like learning it's a"
+    },
+    {
+      "start": 931.52,
+      "end": 935.52,
+      "text": "bunch of practice projects"
+    },
+    {
+      "start": 933.68,
+      "end": 936.48,
+      "text": ">> to become a better engineer."
+    },
+    {
+      "start": 935.52,
+      "end": 938.48,
+      "text": ">> Ah, I see."
+    },
+    {
+      "start": 936.48,
+      "end": 940.08,
+      "text": ">> So, I guess if you don't have side"
+    },
+    {
+      "start": 938.48,
+      "end": 941.76,
+      "text": "projects you want to work on, you would"
+    },
+    {
+      "start": 940.08,
+      "end": 942.8,
+      "text": "use this and this gives you a bunch of"
+    },
+    {
+      "start": 941.76,
+      "end": 944.24,
+      "text": "projects to build."
+    },
+    {
+      "start": 942.8,
+      "end": 946.96,
+      "text": ">> I see. I see."
+    },
+    {
+      "start": 944.24,
+      "end": 948.32,
+      "text": ">> That's my guess here. Maybe there's a"
+    },
+    {
+      "start": 946.96,
+      "end": 948.8,
+      "text": "pick a challenge."
+    },
+    {
+      "start": 948.32,
+      "end": 949.76,
+      "text": ">> Okay,"
+    },
+    {
+      "start": 948.8,
+      "end": 951.12,
+      "text": ">> let's see what happens."
+    },
+    {
+      "start": 949.76,
+      "end": 953.52,
+      "text": ">> Pick a challenge."
+    },
+    {
+      "start": 951.12,
+      "end": 954.32,
+      "text": ">> Oh, I see."
+    },
+    {
+      "start": 953.52,
+      "end": 955.04,
+      "text": ">> Build your own."
+    },
+    {
+      "start": 954.32,
+      "end": 956.96,
+      "text": ">> That's cool."
+    },
+    {
+      "start": 955.04,
+      "end": 958.0,
+      "text": ">> The whole website changed when we"
+    },
+    {
+      "start": 956.96,
+      "end": 959.76,
+      "text": "clicked through to this too."
+    },
+    {
+      "start": 958.0,
+      "end": 961.28,
+      "text": ">> There's like no continuity from the"
+    },
+    {
+      "start": 959.76,
+      "end": 963.12,
+      "text": "marketing page to those things."
+    },
+    {
+      "start": 961.28,
+      "end": 963.92,
+      "text": ">> Yeah. And like if I go a pricing, if I"
+    },
+    {
+      "start": 963.12,
+      "end": 965.12,
+      "text": "get a road map,"
+    },
+    {
+      "start": 963.92,
+      "end": 965.92,
+      "text": ">> like even all the colors"
+    },
+    {
+      "start": 965.12,
+      "end": 967.12,
+      "text": ">> style. Yeah."
+    },
+    {
+      "start": 965.92,
+      "end": 967.36,
+      "text": ">> Like the green."
+    },
+    {
+      "start": 967.12,
+      "end": 968.8,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 967.36,
+      "end": 971.68,
+      "text": ">> And then the other one is what? Like"
+    },
+    {
+      "start": 968.8,
+      "end": 973.12,
+      "text": "purple purpley purple everywhere."
+    },
+    {
+      "start": 971.68,
+      "end": 974.64,
+      "text": ">> Do they actually work with these"
+    },
+    {
+      "start": 973.12,
+      "end": 977.28,
+      "text": "companies?"
+    },
+    {
+      "start": 974.64,
+      "end": 978.08,
+      "text": "uh enjoyed by developers. Really? Is"
+    },
+    {
+      "start": 977.28,
+      "end": 979.76,
+      "text": "that true?"
+    },
+    {
+      "start": 978.08,
+      "end": 981.52,
+      "text": ">> I don't know."
+    },
+    {
+      "start": 979.76,
+      "end": 983.36,
+      "text": ">> I guess we'll take their word for it."
+    },
+    {
+      "start": 981.52,
+      "end": 984.4,
+      "text": ">> Oh, wow. This clipping thing is kind of"
+    },
+    {
+      "start": 983.36,
+      "end": 986.56,
+      "text": "crazy."
+    },
+    {
+      "start": 984.4,
+      "end": 987.68,
+      "text": ">> Backed by incredible engineers. Okay, so"
+    },
+    {
+      "start": 986.56,
+      "end": 988.64,
+      "text": "I guess these are some of their"
+    },
+    {
+      "start": 987.68,
+      "end": 991.44,
+      "text": "investors."
+    },
+    {
+      "start": 988.64,
+      "end": 994.0,
+      "text": ">> Wait, wait, wait, wait. These are actual"
+    },
+    {
+      "start": 991.44,
+      "end": 994.64,
+      "text": "Well, he's at Anthropic now, right?"
+    },
+    {
+      "start": 994.0,
+      "end": 996.72,
+      "text": ">> Yeah. Yeah."
+    },
+    {
+      "start": 994.64,
+      "end": 998.96,
+      "text": ">> Right. So, that is out of date."
+    },
+    {
+      "start": 996.72,
+      "end": 1000.96,
+      "text": ">> I would not like modify other people's"
+    },
+    {
+      "start": 998.96,
+      "end": 1001.76,
+      "text": "pictures like this. It was like kind of"
+    },
+    {
+      "start": 1000.96,
+      "end": 1002.08,
+      "text": "intrusive."
+    },
+    {
+      "start": 1001.76,
+      "end": 1003.28,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1002.08,
+      "end": 1004.08,
+      "text": ">> Yeah. And they're all kind of a"
+    },
+    {
+      "start": 1003.28,
+      "end": 1004.48,
+      "text": "different style,"
+    },
+    {
+      "start": 1004.08,
+      "end": 1005.92,
+      "text": ">> right?"
+    },
+    {
+      "start": 1004.48,
+      "end": 1008.56,
+      "text": ">> This one's like a professional head"
+    },
+    {
+      "start": 1005.92,
+      "end": 1009.68,
+      "text": "shot. This one's like a phone photo or"
+    },
+    {
+      "start": 1008.56,
+      "end": 1012.4,
+      "text": "something like that. Probably"
+    },
+    {
+      "start": 1009.68,
+      "end": 1014.48,
+      "text": ">> one trick you can do is like maybe like"
+    },
+    {
+      "start": 1012.4,
+      "end": 1016.72,
+      "text": "you knock down all their backgrounds but"
+    },
+    {
+      "start": 1014.48,
+      "end": 1018.24,
+      "text": "keep them like white. Maybe you add a"
+    },
+    {
+      "start": 1016.72,
+      "end": 1018.96,
+      "text": "filter so that they're all like black"
+    },
+    {
+      "start": 1018.24,
+      "end": 1019.84,
+      "text": "and white."
+    },
+    {
+      "start": 1018.96,
+      "end": 1021.44,
+      "text": ">> Mhm. Yeah."
+    },
+    {
+      "start": 1019.84,
+      "end": 1023.6,
+      "text": ">> Then it kind of standardize the thing"
+    },
+    {
+      "start": 1021.44,
+      "end": 1024.0,
+      "text": "without like butchering the picture too"
+    },
+    {
+      "start": 1023.6,
+      "end": 1025.84,
+      "text": "much."
+    },
+    {
+      "start": 1024.0,
+      "end": 1027.76,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1025.84,
+      "end": 1031.2,
+      "text": "Hear it from our members."
+    },
+    {
+      "start": 1027.76,
+      "end": 1032.08,
+      "text": ">> Engineers at top teams love this."
+    },
+    {
+      "start": 1031.2,
+      "end": 1032.72,
+      "text": ">> Okay."
+    },
+    {
+      "start": 1032.08,
+      "end": 1034.72,
+      "text": "Okay,"
+    },
+    {
+      "start": 1032.72,
+      "end": 1037.68,
+      "text": ">> right now"
+    },
+    {
+      "start": 1034.72,
+      "end": 1039.2,
+      "text": "projects that go way beyond the basics."
+    },
+    {
+      "start": 1037.68,
+      "end": 1040.88,
+      "text": ">> Be in the company of prolific"
+    },
+    {
+      "start": 1039.2,
+      "end": 1043.2,
+      "text": "developers."
+    },
+    {
+      "start": 1040.88,
+      "end": 1044.32,
+      "text": "Use your favorite tools to code. No"
+    },
+    {
+      "start": 1043.2,
+      "end": 1046.88,
+      "text": "limits."
+    },
+    {
+      "start": 1044.32,
+      "end": 1048.16,
+      "text": ">> The world's best got better by doing."
+    },
+    {
+      "start": 1046.88,
+      "end": 1049.44,
+      "text": ">> Okay. And try now."
+    },
+    {
+      "start": 1048.16,
+      "end": 1051.04,
+      "text": ">> Okay."
+    },
+    {
+      "start": 1049.44,
+      "end": 1052.64,
+      "text": ">> I'm curious. If I click on other links"
+    },
+    {
+      "start": 1051.04,
+      "end": 1054.96,
+      "text": "through here, does it go that goes to"
+    },
+    {
+      "start": 1052.64,
+      "end": 1055.6,
+      "text": "the YC site."
+    },
+    {
+      "start": 1054.96,
+      "end": 1057.76,
+      "text": ">> Okay."
+    },
+    {
+      "start": 1055.6,
+      "end": 1058.32,
+      "text": ">> Um change log."
+    },
+    {
+      "start": 1057.76,
+      "end": 1059.84,
+      "text": ">> Whoa."
+    },
+    {
+      "start": 1058.32,
+      "end": 1062.24,
+      "text": ">> Okay. Okay. It goes to their"
+    },
+    {
+      "start": 1059.84,
+      "end": 1064.16,
+      "text": ">> Look, they don't use your name."
+    },
+    {
+      "start": 1062.24,
+      "end": 1065.04,
+      "text": ">> Yeah. Build your own X."
+    },
+    {
+      "start": 1064.16,
+      "end": 1066.64,
+      "text": ">> Why is that?"
+    },
+    {
+      "start": 1065.04,
+      "end": 1069.28,
+      "text": ">> I don't know. I guess cuz people can"
+    },
+    {
+      "start": 1066.64,
+      "end": 1071.12,
+      "text": "make a Twitter X kind of thing."
+    },
+    {
+      "start": 1069.28,
+      "end": 1073.04,
+      "text": ">> The X means like anything."
+    },
+    {
+      "start": 1071.12,
+      "end": 1076.0,
+      "text": ">> I I think the X means like build your"
+    },
+    {
+      "start": 1073.04,
+      "end": 1077.49,
+      "text": "own like X. Like build your own Twitter."
+    },
+    {
+      "start": 1076.0,
+      "end": 1078.24,
+      "text": ">> Your own Reddus, your own good."
+    },
+    {
+      "start": 1077.49,
+      "end": 1079.36,
+      "text": "[clears throat]"
+    },
+    {
+      "start": 1078.24,
+      "end": 1081.36,
+      "text": ">> Yeah. I was wondering if they're saying"
+    },
+    {
+      "start": 1079.36,
+      "end": 1084.48,
+      "text": "build your own X because it's people on"
+    },
+    {
+      "start": 1081.36,
+      "end": 1084.88,
+      "text": "X and maybe I don't know."
+    },
+    {
+      "start": 1084.48,
+      "end": 1087.92,
+      "text": "Question."
+    },
+    {
+      "start": 1084.88,
+      "end": 1090.0,
+      "text": ">> Maybe one of the projects is Rebuild X."
+    },
+    {
+      "start": 1087.92,
+      "end": 1091.52,
+      "text": ">> Okay. Okay, so here perks looks like the"
+    },
+    {
+      "start": 1090.0,
+      "end": 1092.96,
+      "text": "homepage."
+    },
+    {
+      "start": 1091.52,
+      "end": 1093.28,
+      "text": ">> How about"
+    },
+    {
+      "start": 1092.96,
+      "end": 1095.28,
+      "text": ">> Okay,"
+    },
+    {
+      "start": 1093.28,
+      "end": 1097.44,
+      "text": ">> wait, what is perks? Is that like"
+    },
+    {
+      "start": 1095.28,
+      "end": 1099.36,
+      "text": "another product or something?"
+    },
+    {
+      "start": 1097.44,
+      "end": 1102.16,
+      "text": ">> Their members get priority access and"
+    },
+    {
+      "start": 1099.36,
+      "end": 1103.84,
+      "text": "preferential pricing on learning"
+    },
+    {
+      "start": 1102.16,
+      "end": 1104.48,
+      "text": "products."
+    },
+    {
+      "start": 1103.84,
+      "end": 1106.48,
+      "text": ">> Interesting."
+    },
+    {
+      "start": 1104.48,
+      "end": 1108.8,
+      "text": ">> So, this is like a learning subscription"
+    },
+    {
+      "start": 1106.48,
+      "end": 1111.28,
+      "text": "rather than a tool. Maybe makes me think"
+    },
+    {
+      "start": 1108.8,
+      "end": 1113.68,
+      "text": "it's more like a community or something."
+    },
+    {
+      "start": 1111.28,
+      "end": 1114.0,
+      "text": ">> Where's the community? How do I talk to"
+    },
+    {
+      "start": 1113.68,
+      "end": 1115.52,
+      "text": "other?"
+    },
+    {
+      "start": 1114.0,
+      "end": 1119.52,
+      "text": ">> Oh, and this pricing one takes me to"
+    },
+    {
+      "start": 1115.52,
+      "end": 1120.48,
+      "text": "this page like in this design. Mhm."
+    },
+    {
+      "start": 1119.52,
+      "end": 1122.0,
+      "text": "Oh, yo yo yo."
+    },
+    {
+      "start": 1120.48,
+      "end": 1123.6,
+      "text": ">> Oh, and this just changed, too. Now"
+    },
+    {
+      "start": 1122.0,
+      "end": 1123.92,
+      "text": "we're in like black and white rather"
+    },
+    {
+      "start": 1123.6,
+      "end": 1127.04,
+      "text": "than"
+    },
+    {
+      "start": 1123.92,
+      "end": 1128.64,
+      "text": ">> What is this? Are they like doing their"
+    },
+    {
+      "start": 1127.04,
+      "end": 1130.32,
+      "text": "own like expense card?"
+    },
+    {
+      "start": 1128.64,
+      "end": 1132.4,
+      "text": ">> Yeah. Is this a credit card company?"
+    },
+    {
+      "start": 1130.32,
+      "end": 1134.56,
+      "text": ">> Wow. [laughter]"
+    },
+    {
+      "start": 1132.4,
+      "end": 1136.4,
+      "text": ">> I I think it's some kind of like"
+    },
+    {
+      "start": 1134.56,
+      "end": 1138.32,
+      "text": "learning thing to do projects. That's"
+    },
+    {
+      "start": 1136.4,
+      "end": 1139.76,
+      "text": "like that's what I've come up with after"
+    },
+    {
+      "start": 1138.32,
+      "end": 1141.36,
+      "text": "spending a few minutes looking at all of"
+    },
+    {
+      "start": 1139.76,
+      "end": 1143.36,
+      "text": "this and I can't tell."
+    },
+    {
+      "start": 1141.36,
+      "end": 1144.48,
+      "text": ">> But there's nothing."
+    },
+    {
+      "start": 1143.36,
+      "end": 1147.36,
+      "text": ">> Yeah, that makes me think it's a"
+    },
+    {
+      "start": 1144.48,
+      "end": 1149.28,
+      "text": "community to do something. Okay. So, be"
+    },
+    {
+      "start": 1147.36,
+      "end": 1150.72,
+      "text": "more clear around literally what this is"
+    },
+    {
+      "start": 1149.28,
+      "end": 1151.36,
+      "text": "because it's not clear right now."
+    },
+    {
+      "start": 1150.72,
+      "end": 1152.32,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1151.36,
+      "end": 1153.68,
+      "text": ">> Um"
+    },
+    {
+      "start": 1152.32,
+      "end": 1156.0,
+      "text": ">> less purple gradients."
+    },
+    {
+      "start": 1153.68,
+      "end": 1158.88,
+      "text": ">> Yes. This looks vibe coded. It's got all"
+    },
+    {
+      "start": 1156.0,
+      "end": 1160.8,
+      "text": "the hallmarks of it. So, um something"
+    },
+    {
+      "start": 1158.88,
+      "end": 1161.6,
+      "text": "that feels a little more custo custom I"
+    },
+    {
+      "start": 1160.8,
+      "end": 1162.08,
+      "text": "think would be great."
+    },
+    {
+      "start": 1161.6,
+      "end": 1163.6,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1162.08,
+      "end": 1165.44,
+      "text": ">> We somehow kept getting to different"
+    },
+    {
+      "start": 1163.6,
+      "end": 1166.8,
+      "text": "versions of the site that all looked"
+    },
+    {
+      "start": 1165.44,
+      "end": 1168.56,
+      "text": "wildly different. So, I think"
+    },
+    {
+      "start": 1166.8,
+      "end": 1170.56,
+      "text": "consolidating all of that would be good."
+    },
+    {
+      "start": 1168.56,
+      "end": 1172.96,
+      "text": "Yeah. And then, you know, like a main"
+    },
+    {
+      "start": 1170.56,
+      "end": 1175.84,
+      "text": "thing is like a the about page and it"
+    },
+    {
+      "start": 1172.96,
+      "end": 1177.6,
+      "text": "links off to their YC [laughter] launch,"
+    },
+    {
+      "start": 1175.84,
+      "end": 1178.56,
+      "text": ">> which is a little bit jarring. It feels"
+    },
+    {
+      "start": 1177.6,
+      "end": 1180.08,
+      "text": "like,"
+    },
+    {
+      "start": 1178.56,
+      "end": 1181.36,
+      "text": ">> you know, talking about who's behind"
+    },
+    {
+      "start": 1180.08,
+      "end": 1183.04,
+      "text": "this product is something you should"
+    },
+    {
+      "start": 1181.36,
+      "end": 1183.52,
+      "text": "have a dedicated page on your site"
+    },
+    {
+      "start": 1183.04,
+      "end": 1184.0,
+      "text": "about,"
+    },
+    {
+      "start": 1183.52,
+      "end": 1185.52,
+      "text": ">> right?"
+    },
+    {
+      "start": 1184.0,
+      "end": 1187.04,
+      "text": ">> Otherwise, it makes me seem like this"
+    },
+    {
+      "start": 1185.52,
+      "end": 1188.64,
+      "text": "company is so early. They haven't even"
+    },
+    {
+      "start": 1187.04,
+      "end": 1190.48,
+      "text": "had time to like build their own event."
+    },
+    {
+      "start": 1188.64,
+      "end": 1192.72,
+      "text": ">> Yeah. One thing I noticed is like I"
+    },
+    {
+      "start": 1190.48,
+      "end": 1194.96,
+      "text": "think a lot of them pride on being"
+    },
+    {
+      "start": 1192.72,
+      "end": 1197.6,
+      "text": "backed on YC, but that is actually not"
+    },
+    {
+      "start": 1194.96,
+      "end": 1199.28,
+      "text": "the main thing you're doing. like make"
+    },
+    {
+      "start": 1197.6,
+      "end": 1199.68,
+      "text": "people focus on what the hell is the"
+    },
+    {
+      "start": 1199.28,
+      "end": 1200.0,
+      "text": "thing."
+    },
+    {
+      "start": 1199.68,
+      "end": 1200.32,
+      "text": ">> Yes."
+    },
+    {
+      "start": 1200.0,
+      "end": 1201.12,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1200.32,
+      "end": 1202.32,
+      "text": ">> Yep."
+    },
+    {
+      "start": 1201.12,
+      "end": 1203.52,
+      "text": ">> Less about the backing,"
+    },
+    {
+      "start": 1202.32,
+      "end": 1205.84,
+      "text": ">> right? Number one is what is this?"
+    },
+    {
+      "start": 1203.52,
+      "end": 1207.68,
+      "text": "Number two is is it for me? Three, you"
+    },
+    {
+      "start": 1205.84,
+      "end": 1209.52,
+      "text": "can focus on the social proof and"
+    },
+    {
+      "start": 1207.68,
+      "end": 1210.64,
+      "text": "credibility and things like that. But"
+    },
+    {
+      "start": 1209.52,
+      "end": 1212.0,
+      "text": "yeah, a lot of people are kind of"
+    },
+    {
+      "start": 1210.64,
+      "end": 1212.4,
+      "text": "putting it right up front."
+    },
+    {
+      "start": 1212.0,
+      "end": 1213.76,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1212.4,
+      "end": 1215.68,
+      "text": ">> To the point where you look at it"
+    },
+    {
+      "start": 1213.76,
+      "end": 1216.16,
+      "text": "quickly and the YC logo looks like their"
+    },
+    {
+      "start": 1215.68,
+      "end": 1216.8,
+      "text": "logo."
+    },
+    {
+      "start": 1216.16,
+      "end": 1218.24,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1216.8,
+      "end": 1220.56,
+      "text": ">> Thanks, Code Crafters."
+    },
+    {
+      "start": 1218.24,
+      "end": 1222.8,
+      "text": ">> YC's next batch is now taking"
+    },
+    {
+      "start": 1220.56,
+      "end": 1225.76,
+      "text": "applications. Got a startup in you?"
+    },
+    {
+      "start": 1222.8,
+      "end": 1228.16,
+      "text": "Apply at y combinator.com/apply."
+    },
+    {
+      "start": 1225.76,
+      "end": 1231.04,
+      "text": "It's never too early and filling out the"
+    },
+    {
+      "start": 1228.16,
+      "end": 1232.0,
+      "text": "app will level up your idea. Okay, back"
+    },
+    {
+      "start": 1231.04,
+      "end": 1234.24,
+      "text": "to the video."
+    },
+    {
+      "start": 1232.0,
+      "end": 1236.0,
+      "text": ">> Okay, uh for this next one, let's do"
+    },
+    {
+      "start": 1234.24,
+      "end": 1237.12,
+      "text": "more of a lightning round and do some"
+    },
+    {
+      "start": 1236.0,
+      "end": 1237.6,
+      "text": "initial impressions."
+    },
+    {
+      "start": 1237.12,
+      "end": 1239.52,
+      "text": ">> Let's do it"
+    },
+    {
+      "start": 1237.6,
+      "end": 1240.08,
+      "text": ">> when we first pull it up here."
+    },
+    {
+      "start": 1239.52,
+      "end": 1241.68,
+      "text": ">> Slashy."
+    },
+    {
+      "start": 1240.08,
+      "end": 1243.36,
+      "text": ">> So, this is slashy."
+    },
+    {
+      "start": 1241.68,
+      "end": 1245.36,
+      "text": ">> Oh, for email."
+    },
+    {
+      "start": 1243.36,
+      "end": 1248.64,
+      "text": ">> Oh, so it looks like notion mail."
+    },
+    {
+      "start": 1245.36,
+      "end": 1250.08,
+      "text": ">> Yeah. Okay. You obviously have a lot of"
+    },
+    {
+      "start": 1248.64,
+      "end": 1252.16,
+      "text": "experience with notion and cursor."
+    },
+    {
+      "start": 1250.08,
+      "end": 1254.16,
+      "text": "What's your initial impression here?"
+    },
+    {
+      "start": 1252.16,
+      "end": 1256.16,
+      "text": ">> A lot of details are not there."
+    },
+    {
+      "start": 1254.16,
+      "end": 1258.4,
+      "text": ">> What's missing? So like if you look at"
+    },
+    {
+      "start": 1256.16,
+      "end": 1260.56,
+      "text": "this part, it almost feels like it's the"
+    },
+    {
+      "start": 1258.4,
+      "end": 1262.48,
+      "text": "raw like markdown output."
+    },
+    {
+      "start": 1260.56,
+      "end": 1263.76,
+      "text": ">> The UI doesn't really fit with the rest"
+    },
+    {
+      "start": 1262.48,
+      "end": 1266.56,
+      "text": "of the thing."
+    },
+    {
+      "start": 1263.76,
+      "end": 1268.08,
+      "text": ">> The video is like clipped wrongly."
+    },
+    {
+      "start": 1266.56,
+      "end": 1269.36,
+      "text": "There's like an extra"
+    },
+    {
+      "start": 1268.08,
+      "end": 1271.28,
+      "text": ">> like a white border."
+    },
+    {
+      "start": 1269.36,
+      "end": 1274.64,
+      "text": ">> I think the first impression really"
+    },
+    {
+      "start": 1271.28,
+      "end": 1278.16,
+      "text": "matters. And anything above the bold"
+    },
+    {
+      "start": 1274.64,
+      "end": 1282.32,
+      "text": "just make them as good as you can."
+    },
+    {
+      "start": 1278.16,
+      "end": 1285.04,
+      "text": ">> Like no, you know, obvious detail bugs."
+    },
+    {
+      "start": 1282.32,
+      "end": 1285.6,
+      "text": ">> Mhm. The power of chat GBT inside your"
+    },
+    {
+      "start": 1285.04,
+      "end": 1287.52,
+      "text": "email."
+    },
+    {
+      "start": 1285.6,
+      "end": 1288.56,
+      "text": ">> I would say like the messaging and stuff"
+    },
+    {
+      "start": 1287.52,
+      "end": 1289.2,
+      "text": "is pretty clear."
+    },
+    {
+      "start": 1288.56,
+      "end": 1290.24,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 1289.2,
+      "end": 1290.72,
+      "text": ">> Actually not bad."
+    },
+    {
+      "start": 1290.24,
+      "end": 1292.48,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1290.72,
+      "end": 1295.04,
+      "text": ">> It's more like how you present it. Look"
+    },
+    {
+      "start": 1292.48,
+      "end": 1297.92,
+      "text": "at all the like say this thing is like"
+    },
+    {
+      "start": 1295.04,
+      "end": 1299.68,
+      "text": "not aligned in the same spot. These"
+    },
+    {
+      "start": 1297.92,
+      "end": 1301.04,
+      "text": "images and the previews all have"
+    },
+    {
+      "start": 1299.68,
+      "end": 1302.72,
+      "text": "different sizes, right?"
+    },
+    {
+      "start": 1301.04,
+      "end": 1303.28,
+      "text": ">> Some of them have shadows, some of them"
+    },
+    {
+      "start": 1302.72,
+      "end": 1304.8,
+      "text": "don't."
+    },
+    {
+      "start": 1303.28,
+      "end": 1306.08,
+      "text": ">> Yeah. Yeah. This one's got a border"
+    },
+    {
+      "start": 1304.8,
+      "end": 1307.84,
+      "text": "around it."
+    },
+    {
+      "start": 1306.08,
+      "end": 1309.12,
+      "text": ">> There's a screenshot with a border and"
+    },
+    {
+      "start": 1307.84,
+      "end": 1309.28,
+      "text": "the window and then a border around the"
+    },
+    {
+      "start": 1309.12,
+      "end": 1311.12,
+      "text": "window."
+    },
+    {
+      "start": 1309.28,
+      "end": 1312.24,
+      "text": ">> There's a lot of like boxes and boxes"
+    },
+    {
+      "start": 1311.12,
+      "end": 1313.92,
+      "text": "and boxes."
+    },
+    {
+      "start": 1312.24,
+      "end": 1315.68,
+      "text": ">> Yeah. Yeah. And it I mean it seems like"
+    },
+    {
+      "start": 1313.92,
+      "end": 1317.52,
+      "text": "there's some inspiration taken from the"
+    },
+    {
+      "start": 1315.68,
+      "end": 1319.2,
+      "text": "latest cursor site as well, right? With"
+    },
+    {
+      "start": 1317.52,
+      "end": 1320.48,
+      "text": "showing some of these screenshots and"
+    },
+    {
+      "start": 1319.2,
+      "end": 1320.72,
+      "text": "calling out"
+    },
+    {
+      "start": 1320.48,
+      "end": 1323.28,
+      "text": ">> uh"
+    },
+    {
+      "start": 1320.72,
+      "end": 1325.68,
+      "text": ">> it's like the structure is fine,"
+    },
+    {
+      "start": 1323.28,
+      "end": 1328.16,
+      "text": ">> lacking some details."
+    },
+    {
+      "start": 1325.68,
+      "end": 1331.63,
+      "text": ">> Um yeah. Oh wow, they're actually"
+    },
+    {
+      "start": 1328.16,
+      "end": 1332.0,
+      "text": "stealing like a notion picture here."
+    },
+    {
+      "start": 1331.63,
+      "end": 1333.76,
+      "text": "[snorts]"
+    },
+    {
+      "start": 1332.0,
+      "end": 1335.52,
+      "text": ">> Yeah. Another thing that resonates with"
+    },
+    {
+      "start": 1333.76,
+      "end": 1337.28,
+      "text": "me immediately is like they're using"
+    },
+    {
+      "start": 1335.52,
+      "end": 1338.64,
+      "text": "cursor to describe what they do. So"
+    },
+    {
+      "start": 1337.28,
+      "end": 1340.24,
+      "text": "cursor for email. Yeah."
+    },
+    {
+      "start": 1338.64,
+      "end": 1342.88,
+      "text": ">> And then you and then"
+    },
+    {
+      "start": 1340.24,
+      "end": 1345.2,
+      "text": ">> power of chat GPT. And then you come"
+    },
+    {
+      "start": 1342.88,
+      "end": 1347.2,
+      "text": "best of super deep. So they keep calling"
+    },
+    {
+      "start": 1345.2,
+      "end": 1349.36,
+      "text": "out all these other products that people"
+    },
+    {
+      "start": 1347.2,
+      "end": 1350.96,
+      "text": "may know to describe what they do rather"
+    },
+    {
+      "start": 1349.36,
+      "end": 1351.28,
+      "text": "than just literally explaining what they"
+    },
+    {
+      "start": 1350.96,
+      "end": 1351.84,
+      "text": "do."
+    },
+    {
+      "start": 1351.28,
+      "end": 1353.2,
+      "text": ">> True."
+    },
+    {
+      "start": 1351.84,
+      "end": 1356.16,
+      "text": ">> And owning it themselves."
+    },
+    {
+      "start": 1353.2,
+      "end": 1358.32,
+      "text": ">> Yeah. They almost look like notion uh"
+    },
+    {
+      "start": 1356.16,
+      "end": 1358.88,
+      "text": "agent and cursor in one."
+    },
+    {
+      "start": 1358.32,
+      "end": 1360.32,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 1358.88,
+      "end": 1360.72,
+      "text": ">> But lacking all the details."
+    },
+    {
+      "start": 1360.32,
+      "end": 1362.16,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1360.72,
+      "end": 1363.36,
+      "text": ">> The details are what matters."
+    },
+    {
+      "start": 1362.16,
+      "end": 1364.72,
+      "text": ">> And it's interesting you can pick that"
+    },
+    {
+      "start": 1363.36,
+      "end": 1366.24,
+      "text": "out from the screenshot, too, because"
+    },
+    {
+      "start": 1364.72,
+      "end": 1366.64,
+      "text": "you've used those products so much,"
+    },
+    {
+      "start": 1366.24,
+      "end": 1367.28,
+      "text": "right?"
+    },
+    {
+      "start": 1366.64,
+      "end": 1370.08,
+      "text": ">> Yes."
+    },
+    {
+      "start": 1367.28,
+      "end": 1372.88,
+      "text": ">> Cool. Thank you, Slashy. All right. Next"
+    },
+    {
+      "start": 1370.08,
+      "end": 1373.84,
+      "text": "up, we've got Freya."
+    },
+    {
+      "start": 1372.88,
+      "end": 1375.6,
+      "text": ">> Oh,"
+    },
+    {
+      "start": 1373.84,
+      "end": 1376.16,
+      "text": ">> voice AI that sounds human for"
+    },
+    {
+      "start": 1375.6,
+      "end": 1377.76,
+      "text": "enterprise."
+    },
+    {
+      "start": 1376.16,
+      "end": 1380.32,
+      "text": ">> How can I hear it?"
+    },
+    {
+      "start": 1377.76,
+      "end": 1381.2,
+      "text": ">> Uh, here we go. Talk to Freya."
+    },
+    {
+      "start": 1380.32,
+      "end": 1381.92,
+      "text": ">> What does it do?"
+    },
+    {
+      "start": 1381.2,
+      "end": 1382.96,
+      "text": ">> Well, it's"
+    },
+    {
+      "start": 1381.92,
+      "end": 1384.72,
+      "text": ">> Is there a phone number?"
+    },
+    {
+      "start": 1382.96,
+      "end": 1386.32,
+      "text": ">> Let's see. Freya safely handles inbound"
+    },
+    {
+      "start": 1384.72,
+      "end": 1388.16,
+      "text": "and outbound calls from support and"
+    },
+    {
+      "start": 1386.32,
+      "end": 1390.72,
+      "text": "service to sales and beyond fluently in"
+    },
+    {
+      "start": 1388.16,
+      "end": 1391.28,
+      "text": "dozens of languages 24/7. Should we talk"
+    },
+    {
+      "start": 1390.72,
+      "end": 1392.0,
+      "text": "to Freya?"
+    },
+    {
+      "start": 1391.28,
+      "end": 1392.56,
+      "text": ">> Yeah, let's try it."
+    },
+    {
+      "start": 1392.0,
+      "end": 1395.12,
+      "text": ">> All right."
+    },
+    {
+      "start": 1392.56,
+      "end": 1397.68,
+      "text": ">> Hi there. I am Freya, the voice of Freya"
+    },
+    {
+      "start": 1395.12,
+      "end": 1399.52,
+      "text": "voice. We're an AI platform that helps"
+    },
+    {
+      "start": 1397.68,
+      "end": 1401.6,
+      "text": "businesses automate voice-based customer"
+    },
+    {
+      "start": 1399.52,
+      "end": 1403.92,
+      "text": "service. Our AI agents handle full"
+    },
+    {
+      "start": 1401.6,
+      "end": 1406.0,
+      "text": "conversations and 10 and sound"
+    },
+    {
+      "start": 1403.92,
+      "end": 1407.92,
+      "text": "completely natural. Ray of voice is"
+    },
+    {
+      "start": 1406.0,
+      "end": 1410.08,
+      "text": "perfect for tasks like scheduling,"
+    },
+    {
+      "start": 1407.92,
+      "end": 1415.52,
+      "text": "answering common questions or managing"
+    },
+    {
+      "start": 1410.08,
+      "end": 1417.04,
+      "text": "claims. Available 247 and over 40."
+    },
+    {
+      "start": 1415.52,
+      "end": 1419.04,
+      "text": ">> It sounds like my response may have"
+    },
+    {
+      "start": 1417.04,
+      "end": 1421.2,
+      "text": "seemed unclear or cut off."
+    },
+    {
+      "start": 1419.04,
+      "end": 1423.76,
+      "text": ">> Let me try that again. Freya voice is"
+    },
+    {
+      "start": 1421.2,
+      "end": 1426.32,
+      "text": "platform that automates voice based with"
+    },
+    {
+      "start": 1423.76,
+      "end": 1428.4,
+      "text": "AI agents. What did you say?"
+    },
+    {
+      "start": 1426.32,
+      "end": 1430.08,
+      "text": ">> I said like, \"Do you speak Chinese?\""
+    },
+    {
+      "start": 1428.4,
+      "end": 1431.2,
+      "text": ">> Cuz it says fluent in dozens of"
+    },
+    {
+      "start": 1430.08,
+      "end": 1434.16,
+      "text": ">> languages. I was going to tell you to"
+    },
+    {
+      "start": 1431.2,
+      "end": 1435.52,
+      "text": "try speaking Chinese and and I think my"
+    },
+    {
+      "start": 1434.16,
+      "end": 1436.64,
+      "text": "expectation would be that she would"
+    },
+    {
+      "start": 1435.52,
+      "end": 1437.68,
+      "text": "respond back in Chinese."
+    },
+    {
+      "start": 1436.64,
+      "end": 1438.08,
+      "text": ">> Exactly."
+    },
+    {
+      "start": 1437.68,
+      "end": 1440.0,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1438.08,
+      "end": 1441.04,
+      "text": ">> This is actually probably the best one"
+    },
+    {
+      "start": 1440.0,
+      "end": 1441.92,
+      "text": "we've seen today."
+    },
+    {
+      "start": 1441.04,
+      "end": 1442.64,
+      "text": ">> It's very clear."
+    },
+    {
+      "start": 1441.92,
+      "end": 1444.8,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1442.64,
+      "end": 1449.4,
+      "text": ">> Oh, they're kind of hijacking the"
+    },
+    {
+      "start": 1444.8,
+      "end": 1449.4,
+      "text": ">> scrolljack. Not sure."
+    },
+    {
+      "start": 1450.24,
+      "end": 1454.48,
+      "text": ">> Okay. Minus five points."
+    },
+    {
+      "start": 1452.24,
+      "end": 1454.72,
+      "text": ">> Yeah. Yeah. Don't hijack the scroll."
+    },
+    {
+      "start": 1454.48,
+      "end": 1458.4,
+      "text": "Yeah,"
+    },
+    {
+      "start": 1454.72,
+      "end": 1461.44,
+      "text": ">> but the communication demo"
+    },
+    {
+      "start": 1458.4,
+      "end": 1464.96,
+      "text": ">> yeah demo really accessible pretty good."
+    },
+    {
+      "start": 1461.44,
+      "end": 1467.2,
+      "text": ">> Y replace entire call center operations"
+    },
+    {
+      "start": 1464.96,
+      "end": 1469.68,
+      "text": "custom use cases end to end"
+    },
+    {
+      "start": 1467.2,
+      "end": 1472.24,
+      "text": ">> lead qualification turn every lead into"
+    },
+    {
+      "start": 1469.68,
+      "end": 1475.24,
+      "text": "revenue opportunity."
+    },
+    {
+      "start": 1472.24,
+      "end": 1475.24,
+      "text": ">> Okay."
+    },
+    {
+      "start": 1475.68,
+      "end": 1479.84,
+      "text": "Resolve customer issues before they"
+    },
+    {
+      "start": 1477.36,
+      "end": 1482.24,
+      "text": "escalate. Built for accuracy you can"
+    },
+    {
+      "start": 1479.84,
+      "end": 1485.2,
+      "text": "trust."
+    },
+    {
+      "start": 1482.24,
+      "end": 1486.4,
+      "text": "results that speak for themselves. Okay."
+    },
+    {
+      "start": 1485.2,
+      "end": 1488.32,
+      "text": ">> Wow."
+    },
+    {
+      "start": 1486.4,
+      "end": 1492.0,
+      "text": ">> Yeah. I mean, it seems like overall the"
+    },
+    {
+      "start": 1488.32,
+      "end": 1492.24,
+      "text": "the um messaging here is very clear."
+    },
+    {
+      "start": 1492.0,
+      "end": 1493.84,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1492.24,
+      "end": 1496.56,
+      "text": ">> And I think we understand what they do"
+    },
+    {
+      "start": 1493.84,
+      "end": 1498.72,
+      "text": "and I think if we ran a call center,"
+    },
+    {
+      "start": 1496.56,
+      "end": 1500.4,
+      "text": ">> an enterprise call center,"
+    },
+    {
+      "start": 1498.72,
+      "end": 1501.44,
+      "text": ">> we'd probably consider this and we know"
+    },
+    {
+      "start": 1500.4,
+      "end": 1502.0,
+      "text": "that this is for us."
+    },
+    {
+      "start": 1501.44,
+      "end": 1503.04,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1502.0,
+      "end": 1503.36,
+      "text": ">> All right. Let's see what their question"
+    },
+    {
+      "start": 1503.04,
+      "end": 1504.48,
+      "text": "is."
+    },
+    {
+      "start": 1503.36,
+      "end": 1506.4,
+      "text": ">> Pretty good."
+    },
+    {
+      "start": 1504.48,
+      "end": 1508.08,
+      "text": ">> Curious how to very clearly convey the"
+    },
+    {
+      "start": 1506.4,
+      "end": 1511.12,
+      "text": "information of what we should focus on"
+    },
+    {
+      "start": 1508.08,
+      "end": 1512.32,
+      "text": "and give a smooth and simple experience."
+    },
+    {
+      "start": 1511.12,
+      "end": 1512.72,
+      "text": "I felt like they did that."
+    },
+    {
+      "start": 1512.32,
+      "end": 1513.76,
+      "text": ">> Yeah,"
+    },
+    {
+      "start": 1512.72,
+      "end": 1514.0,
+      "text": ">> I don't think that's the thing to"
+    },
+    {
+      "start": 1513.76,
+      "end": 1516.32,
+      "text": "change."
+    },
+    {
+      "start": 1514.0,
+      "end": 1519.6,
+      "text": ">> It's not bad. I would wonder like how to"
+    },
+    {
+      "start": 1516.32,
+      "end": 1520.72,
+      "text": "make the the demo even more like"
+    },
+    {
+      "start": 1519.6,
+      "end": 1522.56,
+      "text": "obvious."
+    },
+    {
+      "start": 1520.72,
+      "end": 1524.08,
+      "text": ">> Maybe you can just start right here,"
+    },
+    {
+      "start": 1522.56,
+      "end": 1525.36,
+      "text": ">> right? Yeah, that's a question, right?"
+    },
+    {
+      "start": 1524.08,
+      "end": 1527.44,
+      "text": "Is like"
+    },
+    {
+      "start": 1525.36,
+      "end": 1530.0,
+      "text": ">> do you want to talk to Freya or meet the"
+    },
+    {
+      "start": 1527.44,
+      "end": 1531.2,
+      "text": "team? What's the main CTA you want to"
+    },
+    {
+      "start": 1530.0,
+      "end": 1532.72,
+      "text": "drive people to?"
+    },
+    {
+      "start": 1531.2,
+      "end": 1534.8,
+      "text": ">> It seems like meet the team because"
+    },
+    {
+      "start": 1532.72,
+      "end": 1536.88,
+      "text": "that's a button up here and that's the"
+    },
+    {
+      "start": 1534.8,
+      "end": 1539.36,
+      "text": "blue button here. Mhm."
+    },
+    {
+      "start": 1536.88,
+      "end": 1542.48,
+      "text": ">> Um, but meet the team is kind of weird"
+    },
+    {
+      "start": 1539.36,
+      "end": 1544.32,
+      "text": "too. Like do I want to demo? Yeah. Like"
+    },
+    {
+      "start": 1542.48,
+      "end": 1544.8,
+      "text": "who is the team?"
+    },
+    {
+      "start": 1544.32,
+      "end": 1546.4,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1544.8,
+      "end": 1547.28,
+      "text": ">> And then what does this take us? There"
+    },
+    {
+      "start": 1546.4,
+      "end": 1548.08,
+      "text": "we go. Allan"
+    },
+    {
+      "start": 1547.28,
+      "end": 1550.48,
+      "text": ">> apparently again."
+    },
+    {
+      "start": 1548.08,
+      "end": 1552.48,
+      "text": ">> Yep. Brea team meeting."
+    },
+    {
+      "start": 1550.48,
+      "end": 1552.88,
+      "text": ">> Okay. Yeah. Maybe like book a demo or"
+    },
+    {
+      "start": 1552.48,
+      "end": 1553.92,
+      "text": "something."
+    },
+    {
+      "start": 1552.88,
+      "end": 1555.28,
+      "text": ">> Book a demo would be better."
+    },
+    {
+      "start": 1553.92,
+      "end": 1555.76,
+      "text": ">> That's the main thing. Awesome."
+    },
+    {
+      "start": 1555.28,
+      "end": 1558.4,
+      "text": ">> Not bad."
+    },
+    {
+      "start": 1555.76,
+      "end": 1560.4,
+      "text": ">> Nice job, Fre. Okay. Finta. Magically"
+    },
+    {
+      "start": 1558.4,
+      "end": 1561.28,
+      "text": "simplify accounting and taxes."
+    },
+    {
+      "start": 1560.4,
+      "end": 1563.28,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 1561.28,
+      "end": 1565.36,
+      "text": ">> Automate bookkeeping. Effortless tax"
+    },
+    {
+      "start": 1563.28,
+      "end": 1568.4,
+      "text": "filing. Real-time insight. set up in 10"
+    },
+    {
+      "start": 1565.36,
+      "end": 1570.24,
+      "text": "minutes. Back to building by 5:12 p.m."
+    },
+    {
+      "start": 1568.4,
+      "end": 1570.72,
+      "text": ">> Very detailed. Not sure what's the"
+    },
+    {
+      "start": 1570.24,
+      "end": 1573.2,
+      "text": "reference."
+    },
+    {
+      "start": 1570.72,
+      "end": 1574.16,
+      "text": ">> I don't understand the 5:12 p.m. either."
+    },
+    {
+      "start": 1573.2,
+      "end": 1576.48,
+      "text": "Um,"
+    },
+    {
+      "start": 1574.16,
+      "end": 1578.0,
+      "text": ">> wait, is it like"
+    },
+    {
+      "start": 1576.48,
+      "end": 1579.04,
+      "text": ">> Oh,"
+    },
+    {
+      "start": 1578.0,
+      "end": 1580.08,
+      "text": "it matches the time."
+    },
+    {
+      "start": 1579.04,
+      "end": 1581.68,
+      "text": ">> It's 10 minutes from now."
+    },
+    {
+      "start": 1580.08,
+      "end": 1582.8,
+      "text": ">> That's cool. That's cute. But, you know,"
+    },
+    {
+      "start": 1581.68,
+      "end": 1584.16,
+      "text": ">> Oh, now it's 5:13."
+    },
+    {
+      "start": 1582.8,
+      "end": 1587.2,
+      "text": ">> Took a little bit to get"
+    },
+    {
+      "start": 1584.16,
+      "end": 1589.92,
+      "text": ">> Yeah. Okay. All right. That was clever."
+    },
+    {
+      "start": 1587.2,
+      "end": 1590.64,
+      "text": ">> Very cool. Okay. Um,"
+    },
+    {
+      "start": 1589.92,
+      "end": 1592.88,
+      "text": ">> so what"
+    },
+    {
+      "start": 1590.64,
+      "end": 1594.8,
+      "text": ">> pricing get started. Yeah, it's"
+    },
+    {
+      "start": 1592.88,
+      "end": 1595.76,
+      "text": "something around simplifying accounting"
+    },
+    {
+      "start": 1594.8,
+      "end": 1597.44,
+      "text": "and taxes"
+    },
+    {
+      "start": 1595.76,
+      "end": 1598.96,
+      "text": ">> for like individuals or"
+    },
+    {
+      "start": 1597.44,
+      "end": 1600.32,
+      "text": ">> Yeah. So, this was not clear to me. And"
+    },
+    {
+      "start": 1598.96,
+      "end": 1602.48,
+      "text": "then when I go a little bit deeper, it's"
+    },
+    {
+      "start": 1600.32,
+      "end": 1604.56,
+      "text": "like automate bookkeeping. And so, that"
+    },
+    {
+      "start": 1602.48,
+      "end": 1607.39,
+      "text": "makes me think. [clears throat]"
+    },
+    {
+      "start": 1604.56,
+      "end": 1607.92,
+      "text": ">> Oh, here we go. Right down here. Think"
+    },
+    {
+      "start": 1607.39,
+      "end": 1611.44,
+      "text": "[laughter]"
+    },
+    {
+      "start": 1607.92,
+      "end": 1614.56,
+      "text": ">> for US-based C corps, LLC's, and PBC's."
+    },
+    {
+      "start": 1611.44,
+      "end": 1616.0,
+      "text": ">> Uhhuh. Maybe like kind of fold that with"
+    },
+    {
+      "start": 1614.56,
+      "end": 1616.4,
+      "text": "the primary messaging."
+    },
+    {
+      "start": 1616.0,
+      "end": 1618.72,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1616.4,
+      "end": 1621.04,
+      "text": ">> And then maybe kill the time thing."
+    },
+    {
+      "start": 1618.72,
+      "end": 1622.88,
+      "text": ">> Yeah. And and I think, you know, we're"
+    },
+    {
+      "start": 1621.04,
+      "end": 1624.96,
+      "text": "seeing a lot of consistent patterns as"
+    },
+    {
+      "start": 1622.88,
+      "end": 1626.32,
+      "text": "we've gone through a few of these, which"
+    },
+    {
+      "start": 1624.96,
+      "end": 1628.08,
+      "text": "makes me feel like a lot of these are"
+    },
+    {
+      "start": 1626.32,
+      "end": 1628.72,
+      "text": "building effectively the same template,"
+    },
+    {
+      "start": 1628.08,
+      "end": 1631.12,
+      "text": "right?"
+    },
+    {
+      "start": 1628.72,
+      "end": 1632.96,
+      "text": ">> We got the little thing up here. Some"
+    },
+    {
+      "start": 1631.12,
+      "end": 1635.04,
+      "text": "people put the backed by YC here. Some"
+    },
+    {
+      "start": 1632.96,
+      "end": 1637.04,
+      "text": "people put we're hiring. We got the blue"
+    },
+    {
+      "start": 1635.04,
+      "end": 1638.88,
+      "text": "buttons. We got two buttons next to each"
+    },
+    {
+      "start": 1637.04,
+      "end": 1640.48,
+      "text": "other. We got a headline. We got"
+    },
+    {
+      "start": 1638.88,
+      "end": 1643.84,
+      "text": "something else here. We got a logo here."
+    },
+    {
+      "start": 1640.48,
+      "end": 1645.36,
+      "text": "We got a screenshot here. And so um"
+    },
+    {
+      "start": 1643.84,
+      "end": 1647.28,
+      "text": "sometimes for a lot of businesses that"
+    },
+    {
+      "start": 1645.36,
+      "end": 1649.36,
+      "text": "might be good enough you know um just"
+    },
+    {
+      "start": 1647.28,
+      "end": 1651.68,
+      "text": "clearly it's like a pattern that users"
+    },
+    {
+      "start": 1649.36,
+      "end": 1653.12,
+      "text": "are used to they know where to go but"
+    },
+    {
+      "start": 1651.68,
+      "end": 1654.56,
+      "text": "you know sometimes it's helpful if you"
+    },
+    {
+      "start": 1653.12,
+      "end": 1656.72,
+      "text": "want to build your own brand and"
+    },
+    {
+      "start": 1654.56,
+      "end": 1659.28,
+      "text": "identity and be different and memorable"
+    },
+    {
+      "start": 1656.72,
+      "end": 1661.2,
+      "text": "is to break out of that box and come up"
+    },
+    {
+      "start": 1659.28,
+      "end": 1662.72,
+      "text": "with something that's like really unique"
+    },
+    {
+      "start": 1661.2,
+      "end": 1664.4,
+      "text": "and focus to what you're trying to"
+    },
+    {
+      "start": 1662.72,
+      "end": 1665.2,
+      "text": "communicate and get across around how"
+    },
+    {
+      "start": 1664.4,
+      "end": 1667.12,
+      "text": "you're different."
+    },
+    {
+      "start": 1665.2,
+      "end": 1668.48,
+      "text": ">> I actually don't mind keeping things"
+    },
+    {
+      "start": 1667.12,
+      "end": 1671.44,
+      "text": "like simple and plain."
+    },
+    {
+      "start": 1668.48,
+      "end": 1674.0,
+      "text": ">> Mhm. Just let people scroll. Have the"
+    },
+    {
+      "start": 1671.44,
+      "end": 1675.44,
+      "text": "messaging be the primary thing. Have the"
+    },
+    {
+      "start": 1674.0,
+      "end": 1676.08,
+      "text": "product be the primary thing."
+    },
+    {
+      "start": 1675.44,
+      "end": 1678.56,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1676.08,
+      "end": 1681.52,
+      "text": ">> Um, as you scroll, there's like little"
+    },
+    {
+      "start": 1678.56,
+      "end": 1683.04,
+      "text": "punch points. Boom. Boom. Boom. Maybe"
+    },
+    {
+      "start": 1681.52,
+      "end": 1685.36,
+      "text": "you're just like scrolling and seeing"
+    },
+    {
+      "start": 1683.04,
+      "end": 1686.16,
+      "text": "some pictures that vibe with that idea."
+    },
+    {
+      "start": 1685.36,
+      "end": 1687.76,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 1686.16,
+      "end": 1689.68,
+      "text": ">> So, it's not that bad."
+    },
+    {
+      "start": 1687.76,
+      "end": 1691.6,
+      "text": ">> Yeah. And I like this too, like tax"
+    },
+    {
+      "start": 1689.68,
+      "end": 1693.84,
+      "text": "season with zero stress. You know, that"
+    },
+    {
+      "start": 1691.6,
+      "end": 1695.52,
+      "text": "probably appeals to the type of person"
+    },
+    {
+      "start": 1693.84,
+      "end": 1697.76,
+      "text": "that would be their customer. M"
+    },
+    {
+      "start": 1695.52,
+      "end": 1699.84,
+      "text": ">> and to filed our taxes and claim 17,000"
+    },
+    {
+      "start": 1697.76,
+      "end": 1700.48,
+      "text": "in credits process was easy."
+    },
+    {
+      "start": 1699.84,
+      "end": 1701.2,
+      "text": ">> Cool."
+    },
+    {
+      "start": 1700.48,
+      "end": 1703.6,
+      "text": ">> Not bad."
+    },
+    {
+      "start": 1701.2,
+      "end": 1705.44,
+      "text": ">> Yeah, we got live check."
+    },
+    {
+      "start": 1703.6,
+      "end": 1706.4,
+      "text": ">> How the sections break is a little weird"
+    },
+    {
+      "start": 1705.44,
+      "end": 1708.24,
+      "text": "to me."
+    },
+    {
+      "start": 1706.4,
+      "end": 1711.12,
+      "text": ">> Like I kind of want these things to be"
+    },
+    {
+      "start": 1708.24,
+      "end": 1712.0,
+      "text": "like more under the tax thing."
+    },
+    {
+      "start": 1711.12,
+      "end": 1714.0,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1712.0,
+      "end": 1715.92,
+      "text": ">> Like you you get this like white section"
+    },
+    {
+      "start": 1714.0,
+      "end": 1718.96,
+      "text": "and then some grays and then some whites"
+    },
+    {
+      "start": 1715.92,
+      "end": 1720.48,
+      "text": "and then some cars on top."
+    },
+    {
+      "start": 1718.96,
+      "end": 1723.44,
+      "text": ">> Kind of up the hierarchy."
+    },
+    {
+      "start": 1720.48,
+      "end": 1724.4,
+      "text": ">> Yeah. Yeah. It seems like the full width"
+    },
+    {
+      "start": 1723.44,
+      "end": 1725.52,
+      "text": "is like a headline,"
+    },
+    {
+      "start": 1724.4,
+      "end": 1728.08,
+      "text": ">> right? It's like a boom."
+    },
+    {
+      "start": 1725.52,
+      "end": 1729.84,
+      "text": ">> Yeah. But then the line that goes across"
+    },
+    {
+      "start": 1728.08,
+      "end": 1732.56,
+      "text": "makes it feel like it's breaking up."
+    },
+    {
+      "start": 1729.84,
+      "end": 1732.96,
+      "text": ">> Like why is this card like slightly on"
+    },
+    {
+      "start": 1732.56,
+      "end": 1734.16,
+      "text": "top?"
+    },
+    {
+      "start": 1732.96,
+      "end": 1736.16,
+      "text": ">> Yeah. It looks like it's supposed to be"
+    },
+    {
+      "start": 1734.16,
+      "end": 1738.56,
+      "text": "a card sticking out."
+    },
+    {
+      "start": 1736.16,
+      "end": 1740.48,
+      "text": ">> It's like there's some cool visual"
+    },
+    {
+      "start": 1738.56,
+      "end": 1741.28,
+      "text": "treatments, but they actually cause some"
+    },
+    {
+      "start": 1740.48,
+      "end": 1743.04,
+      "text": "confusion."
+    },
+    {
+      "start": 1741.28,
+      "end": 1745.44,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1743.04,
+      "end": 1747.36,
+      "text": "Um but generally like visually it looks"
+    },
+    {
+      "start": 1745.44,
+      "end": 1748.72,
+      "text": "nice. It looks well organized."
+    },
+    {
+      "start": 1747.36,
+      "end": 1750.4,
+      "text": ">> It's like if you look at each of the"
+    },
+    {
+      "start": 1748.72,
+      "end": 1751.68,
+      "text": "pieces, it's actually pretty well built."
+    },
+    {
+      "start": 1750.4,
+      "end": 1752.56,
+      "text": "Yeah. Like there's a lot of little"
+    },
+    {
+      "start": 1751.68,
+      "end": 1754.32,
+      "text": "details in there,"
+    },
+    {
+      "start": 1752.56,
+      "end": 1755.76,
+      "text": ">> right? Yeah. The temptation is to show a"
+    },
+    {
+      "start": 1754.32,
+      "end": 1757.12,
+      "text": "big screenshot from far away and you"
+    },
+    {
+      "start": 1755.76,
+      "end": 1758.8,
+      "text": "can't tell what's going on. Instead,"
+    },
+    {
+      "start": 1757.12,
+      "end": 1759.6,
+      "text": "they're honing in on the very specific"
+    },
+    {
+      "start": 1758.8,
+      "end": 1761.28,
+      "text": "thing that"
+    },
+    {
+      "start": 1759.6,
+      "end": 1763.6,
+      "text": ">> like if I were to do this, it's almost"
+    },
+    {
+      "start": 1761.28,
+      "end": 1765.6,
+      "text": "like I want to"
+    },
+    {
+      "start": 1763.6,
+      "end": 1767.44,
+      "text": ">> just make these like maybe shrink them"
+    },
+    {
+      "start": 1765.6,
+      "end": 1769.92,
+      "text": "and make them more cardy, make them more"
+    },
+    {
+      "start": 1767.44,
+      "end": 1772.0,
+      "text": "like parts of the same hole"
+    },
+    {
+      "start": 1769.92,
+      "end": 1774.16,
+      "text": ">> instead of like uh there's like a lot of"
+    },
+    {
+      "start": 1772.0,
+      "end": 1775.72,
+      "text": "things in like flat"
+    },
+    {
+      "start": 1774.16,
+      "end": 1776.48,
+      "text": ">> that's all like kind of moving and"
+    },
+    {
+      "start": 1775.72,
+      "end": 1777.76,
+      "text": "[snorts] doing stuff."
+    },
+    {
+      "start": 1776.48,
+      "end": 1779.84,
+      "text": ">> Yep. All right, let's see what their"
+    },
+    {
+      "start": 1777.76,
+      "end": 1780.96,
+      "text": "question is. Does it convert?"
+    },
+    {
+      "start": 1779.84,
+      "end": 1783.04,
+      "text": ">> I don't know. [laughter] They're going"
+    },
+    {
+      "start": 1780.96,
+      "end": 1784.88,
+      "text": "to have to answer that for us. But, um,"
+    },
+    {
+      "start": 1783.04,
+      "end": 1786.48,
+      "text": "I don't know. I think it communicates"
+    },
+    {
+      "start": 1784.88,
+      "end": 1788.72,
+      "text": "what it does."
+    },
+    {
+      "start": 1786.48,
+      "end": 1791.12,
+      "text": ">> My sense is if I were in the market for"
+    },
+    {
+      "start": 1788.72,
+      "end": 1793.2,
+      "text": "a product like this, this would appeal"
+    },
+    {
+      "start": 1791.12,
+      "end": 1794.56,
+      "text": "to me and I would probably want to check"
+    },
+    {
+      "start": 1793.2,
+      "end": 1797.12,
+      "text": "it out."
+    },
+    {
+      "start": 1794.56,
+      "end": 1798.64,
+      "text": ">> So, my hunch is probably yes. Maybe just"
+    },
+    {
+      "start": 1797.12,
+      "end": 1799.12,
+      "text": "making this more prominent, the who it's"
+    },
+    {
+      "start": 1798.64,
+      "end": 1799.6,
+      "text": "for."
+    },
+    {
+      "start": 1799.12,
+      "end": 1802.0,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1799.6,
+      "end": 1803.92,
+      "text": ">> Uh, and making that like ram that home a"
+    },
+    {
+      "start": 1802.0,
+      "end": 1806.08,
+      "text": "little bit more, I think, would be good."
+    },
+    {
+      "start": 1803.92,
+      "end": 1808.0,
+      "text": ">> I would steal the little trick to hide"
+    },
+    {
+      "start": 1806.08,
+      "end": 1810.24,
+      "text": "this button until say you're here."
+    },
+    {
+      "start": 1808.0,
+      "end": 1811.12,
+      "text": ">> Mhm. And then it kind of animates in"
+    },
+    {
+      "start": 1810.24,
+      "end": 1812.48,
+      "text": "then you know where it is,"
+    },
+    {
+      "start": 1811.12,
+      "end": 1815.52,
+      "text": ">> right? You pay attention to it"
+    },
+    {
+      "start": 1812.48,
+      "end": 1818.0,
+      "text": ">> cuz like I feel like main issue with"
+    },
+    {
+      "start": 1815.52,
+      "end": 1820.16,
+      "text": "like say I think hero is pretty good."
+    },
+    {
+      "start": 1818.0,
+      "end": 1821.2,
+      "text": ">> Once you pass here it's like a little"
+    },
+    {
+      "start": 1820.16,
+      "end": 1822.32,
+      "text": "disorienting."
+    },
+    {
+      "start": 1821.2,
+      "end": 1822.96,
+      "text": ">> Not sure what to do now."
+    },
+    {
+      "start": 1822.32,
+      "end": 1823.2,
+      "text": ">> Yep."
+    },
+    {
+      "start": 1822.96,
+      "end": 1825.04,
+      "text": ">> Cool."
+    },
+    {
+      "start": 1823.2,
+      "end": 1825.6,
+      "text": ">> Cool. Thank you, Finta."
+    },
+    {
+      "start": 1825.04,
+      "end": 1827.04,
+      "text": ">> Last one."
+    },
+    {
+      "start": 1825.6,
+      "end": 1828.32,
+      "text": ">> All right, last one."
+    },
+    {
+      "start": 1827.04,
+      "end": 1831.84,
+      "text": ">> Vibe flow."
+    },
+    {
+      "start": 1828.32,
+      "end": 1832.72,
+      "text": ">> Vibe flow. Let's check it out. Prompt it"
+    },
+    {
+      "start": 1831.84,
+      "end": 1833.28,
+      "text": "visually."
+    },
+    {
+      "start": 1832.72,
+      "end": 1834.0,
+      "text": ">> Okay."
+    },
+    {
+      "start": 1833.28,
+      "end": 1837.36,
+      "text": ">> Nice."
+    },
+    {
+      "start": 1834.0,
+      "end": 1839.28,
+      "text": ">> Where's the visuals? Um,"
+    },
+    {
+      "start": 1837.36,
+      "end": 1840.48,
+      "text": "projects. Explore your projects. Sign in"
+    },
+    {
+      "start": 1839.28,
+      "end": 1841.76,
+      "text": "to see projects."
+    },
+    {
+      "start": 1840.48,
+      "end": 1843.28,
+      "text": ">> All right. Well, clearly they want us to"
+    },
+    {
+      "start": 1841.76,
+      "end": 1844.0,
+      "text": "engage with a broad box. Why don't you"
+    },
+    {
+      "start": 1843.28,
+      "end": 1847.48,
+      "text": "give it a shot?"
+    },
+    {
+      "start": 1844.0,
+      "end": 1847.48,
+      "text": ">> Okay. Um,"
+    },
+    {
+      "start": 1849.68,
+      "end": 1853.88,
+      "text": ">> okay. A spinner."
+    },
+    {
+      "start": 1850.64,
+      "end": 1853.88,
+      "text": ">> It's thinking."
+    },
+    {
+      "start": 1854.0,
+      "end": 1855.2,
+      "text": ">> Okay."
+    },
+    {
+      "start": 1854.48,
+      "end": 1857.28,
+      "text": ">> Oh, wow."
+    },
+    {
+      "start": 1855.2,
+      "end": 1857.92,
+      "text": ">> Showing us something. It's charging the"
+    },
+    {
+      "start": 1857.28,
+      "end": 1858.96,
+      "text": "electrons."
+    },
+    {
+      "start": 1857.92,
+      "end": 1860.32,
+      "text": ">> This does."
+    },
+    {
+      "start": 1858.96,
+      "end": 1862.4,
+      "text": ">> Is that some kind of preview?"
+    },
+    {
+      "start": 1860.32,
+      "end": 1864.48,
+      "text": ">> What is that?"
+    },
+    {
+      "start": 1862.4,
+      "end": 1866.16,
+      "text": ">> Is it like a a mini map of a whole page"
+    },
+    {
+      "start": 1864.48,
+      "end": 1866.8,
+      "text": "or something? Maybe it's like the"
+    },
+    {
+      "start": 1866.16,
+      "end": 1869.2,
+      "text": "canvas."
+    },
+    {
+      "start": 1866.8,
+      "end": 1870.32,
+      "text": ">> Yeah, this is one of the core I'm"
+    },
+    {
+      "start": 1869.2,
+      "end": 1873.2,
+      "text": "curious how you think about this,"
+    },
+    {
+      "start": 1870.32,
+      "end": 1876.4,
+      "text": "cursor. Um, you know, so many products"
+    },
+    {
+      "start": 1873.2,
+      "end": 1879.6,
+      "text": "that use LLM today have this weight."
+    },
+    {
+      "start": 1876.4,
+      "end": 1880.48,
+      "text": ">> And what do you do when the user has to"
+    },
+    {
+      "start": 1879.6,
+      "end": 1882.72,
+      "text": "wait"
+    },
+    {
+      "start": 1880.48,
+      "end": 1884.0,
+      "text": ">> to keep it engaging or make it feel like"
+    },
+    {
+      "start": 1882.72,
+      "end": 1886.08,
+      "text": "it's going faster?"
+    },
+    {
+      "start": 1884.0,
+      "end": 1889.36,
+      "text": ">> I think you want to almost like show"
+    },
+    {
+      "start": 1886.08,
+      "end": 1891.68,
+      "text": "every single state that's happening."
+    },
+    {
+      "start": 1889.36,
+      "end": 1893.28,
+      "text": ">> So like, you know, I thought for like 29"
+    },
+    {
+      "start": 1891.68,
+      "end": 1895.6,
+      "text": "minutes, what did it do?"
+    },
+    {
+      "start": 1893.28,
+      "end": 1897.44,
+      "text": ">> Yeah. And if it does like tool calls"
+    },
+    {
+      "start": 1895.6,
+      "end": 1900.0,
+      "text": "like just show them."
+    },
+    {
+      "start": 1897.44,
+      "end": 1901.6,
+      "text": ">> Um but you do want to control like you"
+    },
+    {
+      "start": 1900.0,
+      "end": 1904.24,
+      "text": "don't want to show too many things at"
+    },
+    {
+      "start": 1901.6,
+      "end": 1906.8,
+      "text": "once or like it just becomes like a wall"
+    },
+    {
+      "start": 1904.24,
+      "end": 1908.56,
+      "text": "of text. You want to control like ah"
+    },
+    {
+      "start": 1906.8,
+      "end": 1912.56,
+      "text": ">> the things that are running. You show"
+    },
+    {
+      "start": 1908.56,
+      "end": 1914.96,
+      "text": "them in a more like focusable spot"
+    },
+    {
+      "start": 1912.56,
+      "end": 1916.64,
+      "text": ">> and as it pro progresses it kind of"
+    },
+    {
+      "start": 1914.96,
+      "end": 1918.48,
+      "text": "shows you like uh these are the things"
+    },
+    {
+      "start": 1916.64,
+      "end": 1920.48,
+      "text": "that are running. These maybe are the"
+    },
+    {
+      "start": 1918.48,
+      "end": 1921.52,
+      "text": "actions I need to confirm. This is my"
+    },
+    {
+      "start": 1920.48,
+      "end": 1924.64,
+      "text": "input. Mhm."
+    },
+    {
+      "start": 1921.52,
+      "end": 1928.4,
+      "text": ">> You kind of shift people's focus. Um,"
+    },
+    {
+      "start": 1924.64,
+      "end": 1930.56,
+      "text": "and I don't want these like random empty"
+    },
+    {
+      "start": 1928.4,
+      "end": 1933.44,
+      "text": "states with spinners everywhere or like"
+    },
+    {
+      "start": 1930.56,
+      "end": 1935.6,
+      "text": "ah in the preview you saw like it it was"
+    },
+    {
+      "start": 1933.44,
+      "end": 1936.8,
+      "text": "like looping some random messages but"
+    },
+    {
+      "start": 1935.6,
+      "end": 1937.2,
+      "text": "they weren't really helpful,"
+    },
+    {
+      "start": 1936.8,
+      "end": 1939.92,
+      "text": ">> right?"
+    },
+    {
+      "start": 1937.2,
+      "end": 1941.6,
+      "text": ">> They were actually kind of distracting."
+    },
+    {
+      "start": 1939.92,
+      "end": 1943.52,
+      "text": ">> So you need to figure out like when"
+    },
+    {
+      "start": 1941.6,
+      "end": 1945.28,
+      "text": "things are happening where do I want"
+    },
+    {
+      "start": 1943.52,
+      "end": 1947.04,
+      "text": "people to focus their eyes on."
+    },
+    {
+      "start": 1945.28,
+      "end": 1948.48,
+      "text": ">> Yeah. It's hard too because you don't"
+    },
+    {
+      "start": 1947.04,
+      "end": 1950.08,
+      "text": "know is it gonna come back in five"
+    },
+    {
+      "start": 1948.48,
+      "end": 1950.8,
+      "text": "seconds or is it gonna come back in 10"
+    },
+    {
+      "start": 1950.08,
+      "end": 1951.36,
+      "text": "minutes?"
+    },
+    {
+      "start": 1950.8,
+      "end": 1955.56,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 1951.36,
+      "end": 1955.56,
+      "text": ">> Okay. So, this one we hit an error."
+    },
+    {
+      "start": 1955.92,
+      "end": 1959.24,
+      "text": ">> Let's see."
+    },
+    {
+      "start": 1962.08,
+      "end": 1965.36,
+      "text": ">> Feels very like vibe coded the whole"
+    },
+    {
+      "start": 1964.16,
+      "end": 1966.96,
+      "text": "thing."
+    },
+    {
+      "start": 1965.36,
+      "end": 1968.48,
+      "text": ">> What gives it that impression for you?"
+    },
+    {
+      "start": 1966.96,
+      "end": 1970.0,
+      "text": ">> If you look at all the little details,"
+    },
+    {
+      "start": 1968.48,
+      "end": 1970.96,
+      "text": "they don't melt together."
+    },
+    {
+      "start": 1970.0,
+      "end": 1972.48,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 1970.96,
+      "end": 1974.16,
+      "text": ">> So, everything feels kind of disjointed."
+    },
+    {
+      "start": 1972.48,
+      "end": 1976.96,
+      "text": ">> Yeah. Like there's like weird hover"
+    },
+    {
+      "start": 1974.16,
+      "end": 1978.8,
+      "text": "states like with little radius on top"
+    },
+    {
+      "start": 1976.96,
+      "end": 1980.64,
+      "text": "but not on the bottom."
+    },
+    {
+      "start": 1978.8,
+      "end": 1982.32,
+      "text": ">> If you look at all these different views"
+    },
+    {
+      "start": 1980.64,
+      "end": 1984.96,
+      "text": "like some of them are like I don't know"
+    },
+    {
+      "start": 1982.32,
+      "end": 1986.72,
+      "text": "portals into like iframes of something."
+    },
+    {
+      "start": 1984.96,
+      "end": 1987.36,
+      "text": ">> This is almost like a vibe code of VS"
+    },
+    {
+      "start": 1986.72,
+      "end": 1988.56,
+      "text": "Code."
+    },
+    {
+      "start": 1987.36,
+      "end": 1991.44,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 1988.56,
+      "end": 1993.92,
+      "text": ">> That's just pure AI generated UI, you"
+    },
+    {
+      "start": 1991.44,
+      "end": 1996.88,
+      "text": "know? There's not even like a like not"
+    },
+    {
+      "start": 1993.92,
+      "end": 2000.4,
+      "text": "even say you're not using chassen or"
+    },
+    {
+      "start": 1996.88,
+      "end": 2001.04,
+      "text": "whatever. Yeah. Like it's just raw AI"
+    },
+    {
+      "start": 2000.4,
+      "end": 2003.76,
+      "text": "output."
+    },
+    {
+      "start": 2001.04,
+      "end": 2005.44,
+      "text": ">> Yeah. What do you think this um toggle"
+    },
+    {
+      "start": 2003.76,
+      "end": 2006.56,
+      "text": "button does in the top right? The"
+    },
+    {
+      "start": 2005.44,
+      "end": 2010.56,
+      "text": "mystery toggle button."
+    },
+    {
+      "start": 2006.56,
+      "end": 2012.0,
+      "text": ">> No tool tip either. Ah, what does it do?"
+    },
+    {
+      "start": 2010.56,
+      "end": 2013.28,
+      "text": ">> Looks like goes full screen. And I"
+    },
+    {
+      "start": 2012.0,
+      "end": 2016.96,
+      "text": "assume that's the preview."
+    },
+    {
+      "start": 2013.28,
+      "end": 2019.12,
+      "text": ">> Yeah, I guess we can't really see much."
+    },
+    {
+      "start": 2016.96,
+      "end": 2022.32,
+      "text": ">> Is it still working or where is it at?"
+    },
+    {
+      "start": 2019.12,
+      "end": 2022.96,
+      "text": ">> I think it failed."
+    },
+    {
+      "start": 2022.32,
+      "end": 2023.76,
+      "text": ">> Failed again."
+    },
+    {
+      "start": 2022.96,
+      "end": 2025.92,
+      "text": ">> Interesting."
+    },
+    {
+      "start": 2023.76,
+      "end": 2028.8,
+      "text": ">> Okay, no luck."
+    },
+    {
+      "start": 2025.92,
+      "end": 2030.24,
+      "text": ">> Sad."
+    },
+    {
+      "start": 2028.8,
+      "end": 2032.08,
+      "text": "This is what I do."
+    },
+    {
+      "start": 2030.24,
+      "end": 2034.64,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 2032.08,
+      "end": 2035.6,
+      "text": "Ah, that's cool. Like a little like"
+    },
+    {
+      "start": 2034.64,
+      "end": 2037.12,
+      "text": "suggestions."
+    },
+    {
+      "start": 2035.6,
+      "end": 2040.0,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 2037.12,
+      "end": 2042.16,
+      "text": ">> I might steal this."
+    },
+    {
+      "start": 2040.0,
+      "end": 2043.12,
+      "text": ">> Why is there two spinners?"
+    },
+    {
+      "start": 2042.16,
+      "end": 2046.32,
+      "text": ">> Right."
+    },
+    {
+      "start": 2043.12,
+      "end": 2048.08,
+      "text": ">> Why can't I open the thinking?"
+    },
+    {
+      "start": 2046.32,
+      "end": 2049.6,
+      "text": ">> Why is there just spinning and not"
+    },
+    {
+      "start": 2048.08,
+      "end": 2052.56,
+      "text": "telling me what it's thinking?"
+    },
+    {
+      "start": 2049.6,
+      "end": 2054.96,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 2052.56,
+      "end": 2055.6,
+      "text": ">> Also, the suggestions came before it did"
+    },
+    {
+      "start": 2054.96,
+      "end": 2058.24,
+      "text": "anything."
+    },
+    {
+      "start": 2055.6,
+      "end": 2059.52,
+      "text": ">> Yeah."
+    },
+    {
+      "start": 2058.24,
+      "end": 2063.2,
+      "text": "Okay. Okay. So, it looks like the core"
+    },
+    {
+      "start": 2059.52,
+      "end": 2066.88,
+      "text": "issue is we don't have 3D libraries."
+    },
+    {
+      "start": 2063.2,
+      "end": 2068.96,
+      "text": ">> So, it's going to try to do a CS base"
+    },
+    {
+      "start": 2066.88,
+      "end": 2069.44,
+      "text": "CSS base."
+    },
+    {
+      "start": 2068.96,
+      "end": 2071.28,
+      "text": ">> Okay."
+    },
+    {
+      "start": 2069.44,
+      "end": 2073.52,
+      "text": ">> Whoa,"
+    },
+    {
+      "start": 2071.28,
+      "end": 2074.4,
+      "text": "that's a very interesting attempt."
+    },
+    {
+      "start": 2073.52,
+      "end": 2076.48,
+      "text": ">> Yeah,"
+    },
+    {
+      "start": 2074.4,
+      "end": 2079.04,
+      "text": ">> it's creative."
+    },
+    {
+      "start": 2076.48,
+      "end": 2080.0,
+      "text": ">> Flat Earth will happy. [laughter]"
+    },
+    {
+      "start": 2079.04,
+      "end": 2081.52,
+      "text": ">> All right, let's see what their"
+    },
+    {
+      "start": 2080.0,
+      "end": 2083.28,
+      "text": "questions. General advice on how to"
+    },
+    {
+      "start": 2081.52,
+      "end": 2083.76,
+      "text": "improve the design. Okay, I think we"
+    },
+    {
+      "start": 2083.28,
+      "end": 2086.24,
+      "text": "touched."
+    },
+    {
+      "start": 2083.76,
+      "end": 2089.44,
+      "text": ">> I guess the problem was before I came"
+    },
+    {
+      "start": 2086.24,
+      "end": 2090.0,
+      "text": "in, I couldn't even do anything or see"
+    },
+    {
+      "start": 2089.44,
+      "end": 2090.48,
+      "text": "anything."
+    },
+    {
+      "start": 2090.0,
+      "end": 2092.08,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 2090.48,
+      "end": 2093.52,
+      "text": ">> You remember like there was the prompt"
+    },
+    {
+      "start": 2092.08,
+      "end": 2094.96,
+      "text": "box and then when you scroll down it's"
+    },
+    {
+      "start": 2093.52,
+      "end": 2095.44,
+      "text": "like all your projects sign in,"
+    },
+    {
+      "start": 2094.96,
+      "end": 2097.92,
+      "text": ">> right?"
+    },
+    {
+      "start": 2095.44,
+      "end": 2099.12,
+      "text": ">> Why not just show people like other"
+    },
+    {
+      "start": 2097.92,
+      "end": 2100.48,
+      "text": "people's projects or"
+    },
+    {
+      "start": 2099.12,
+      "end": 2102.08,
+      "text": ">> Yeah. And then we tried to make"
+    },
+    {
+      "start": 2100.48,
+      "end": 2102.48,
+      "text": "something and we got hit with a signup"
+    },
+    {
+      "start": 2102.08,
+      "end": 2105.68,
+      "text": "wall."
+    },
+    {
+      "start": 2102.48,
+      "end": 2107.68,
+      "text": ">> Yeah. Just give them like even in Rio OS"
+    },
+    {
+      "start": 2105.68,
+      "end": 2109.84,
+      "text": "you can send three free messages before"
+    },
+    {
+      "start": 2107.68,
+      "end": 2112.72,
+      "text": "you sign in that just let people play."
+    },
+    {
+      "start": 2109.84,
+      "end": 2114.8,
+      "text": ">> Yep. and maybe make sure that maybe the"
+    },
+    {
+      "start": 2112.72,
+      "end": 2116.24,
+      "text": "initial demo is more constrained so that"
+    },
+    {
+      "start": 2114.8,
+      "end": 2119.04,
+      "text": "it gives you better output."
+    },
+    {
+      "start": 2116.24,
+      "end": 2120.16,
+      "text": ">> Awesome. Thank you, Vibe Flow. Rio, that"
+    },
+    {
+      "start": 2119.04,
+      "end": 2120.64,
+      "text": "does it for the reviews."
+    },
+    {
+      "start": 2120.16,
+      "end": 2122.56,
+      "text": ">> Thank you."
+    },
+    {
+      "start": 2120.64,
+      "end": 2124.48,
+      "text": ">> Thank you so much for joining. This was"
+    },
+    {
+      "start": 2122.56,
+      "end": 2125.92,
+      "text": "uh incredible, really great feedback and"
+    },
+    {
+      "start": 2124.48,
+      "end": 2128.92,
+      "text": "really appreciate you joining us today."
+    },
+    {
+      "start": 2125.92,
+      "end": 2128.92,
+      "text": "Great."
+    }
+  ],
+  "word_count": 7070,
+  "fetched_at": "2025-12-21T02:19:46.230249Z"
+}

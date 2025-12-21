@@ -1,0 +1,1679 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "[Music] I flew all the way to Denmark to meet an incredible team of people building what is the future of nuclear energy. Molten salt reactors. The AI revolution has a secret fatal flaw. It's not the algorithms and it's not the chips. It's power. >> Nuclear energy at a turning point. See momentum as power demand jumps from electrification and data centers. Current AI boom could see an increase in demand for electricity saw by 40%. >> It's crazy to shut down nuclear power plants. >> If we can't feed the chips, the boom stalls. What if the answer fits inside a shipping container? >> The size of the reactor and the amount of materials you need is much, much smaller. It lends itself to mass manufacturing. >> I spent 9 hours inside Copenhagen Atomics to see a reactor built for AI's power future. And what could stop it? >> Huge. This just feels huge. >> The the building here is uh roughly 100,000 square ft. But this department here we call the loop test department. That's because they they run most of the testing that we do in this company. So right now we have a little bit more than 10 machines running. >> Wow. uh and they are running all kinds of tests. Right now our purpose is to validate that it can work for 5 years. That's that's our target. >> One H100 can draw around 2 kW rows, halls, campuses. That's cityscale electricity. We can add more gas, coal, wind, solar, but AI needs dense, steady 247 power at a price that works. [Music] And this is one of the >> Yeah. So, currently we have two test units here and we're building the third one. And uh this this particular one is quite old now. It's 3 and a half years old. And this is one of the things that we as a company has invented that makes it possible to make these reactors mass manufacturable, but also get the energy price down. Our goal is to get to $20 per megawatt hour of electricity cost. And most of the other reactors in the world, even some of the new ones being developed, the price is between $80 per megawatt hour all the way up to $150 per megawatt hour. So you can see it's like five is four four to 10 times more expensive for other reactors than the electricity from our reactors. Wow. Today's workhorse is the pressurized water reactor. A 1950s design. solid fuel rods, water pumps, over 150 atmospheres of pressure. The massive concrete dome exists to contain that pressure. Cooling is active. If pumps fail and circulation stops, heat has nowhere to go. Water boils, rods overheat. That's the meltdown risk profile engineers design around >> the the idea of the molden salt reactor was actually invented in the 1950s by a guy a guy called Alvin Weinberg. He came up with the idea. He was able to get enough funding and run a first test reactor that ran for 5 years in the 1960s. But he was not able to get enough funding to continue that research back then. But it was a really really important job. what he did. We basically just using most of what he did. >> This is a molten salt reactor. The idea isn't new. A test reactor ran successfully in the 1960s. Then funding politics killed it. An MSR runs liquid fuel. Thorium dissolved in hot viscous salt that carries heat. Crucially, it runs at ambient pressure. the size of the reactor and the amount of materials you need is much much smaller. And that helps a lot because that means it's it lends itself to mass manufacturing much better than traditional reactors or some of these advanced reactors. But I I hope you get the idea that there's a hot section where there's 600° and there's the black insulation around it and then there's the cold section where there's no insulation around it and inside there we have the electronics and the gas system. Copenhagen Atomics innovation is the onion geometry. Concentric paths that move heat efficiently designed to live in a 40ft container. And then between the two uh in a in a real reactor, there's a a thick wall, 2 and 1/2 m thick wall with steel and water and concrete to shield from the radiation so that the the cold region where we have the sensors and gas system and electronics doesn't get very much radiation. But of course in the hot section where the onion core is, it's a lot of radiation. You can't go in there. >> So this is uh what we call the inner water. So this is the center section >> and this would be full of water when the reactor is running. And then um this is the fuel channel. >> Uh you see they're shaped like that. And then we put insulation in between here >> because this one is sort of 80° C and this one here is 700° C. >> So this is really hot and this is >> cold but and then we just need a little bit of insulation in between. >> The water does get hot because of the neutrons that needs to be slowed down. >> So we do need to pump the water through there quite quickly to cool the water, but that's mostly because of the neutrons, the the energy from the neutrons. like it's flowing really fast in here. >> The part that matters most, passive safety. When the pump stops, the liquid fuel drains immediately by gravity into tanks below. No intervention needed. The chain reaction ends on its own. The fuel salt cools safely in wide spread out tanks. I know some other molden reactor designs have a freeze plug. Uh but we have designed our reactors in a way where when you cut the power the pumps all the pumps stop spinning and then all the fluids will just drain out of the oning core and into the dump tanks at the bottom >> and it seems safer even. >> Yeah, it's to me it is more safe but that can of course be debated, >> right? >> How many H100 GPUs can one of these reactors power? Uh so I forget how much power one use. I think it's like 2 kW. Uh so that would mean uh 20,000 CPUs. >> Around 20,000 H100 GPUs per reactor, a data centers worth of compute from a machine you can move on a truck. >> So So you saw the pump before in the loop and this this one is sort of the what we call the small pump. This one is uh we have made many of these more than a hundred of these that we use for testing. When it's running, it's uh at 700 degrees. So, it's glowing red hot. So, it's a freephase electrical motor just like any other industrial motor. But the special thing is that it can run at these high temperatures without melting. >> The Unlock is manufacturing repeatable units, not one-off mega projects. The vision is a gigafactory producing one reactor every day. In order to get to one gigawatt, we will have to have the 25 reactor units running at that site. So if we make one reactor every day, that would take 25 days to make all those reactors. >> And the culture here is built for this iteration. It emphasizes hands-on engineering and a maker mindset. >> We have this culture of making demos. So every time somebody has make a new version and now it works a little bit better then they allowed to call the whole company for usually it's cake or ice cream or whatever some something like that and then then we have cake and that guy or that team who made the new thing makes a demo and show how it's better than the old version and and and we do that several times a week. There's somebody who has gotten to a new milestone and got something to work and they demo that for the other team. It's not an office where a lot of people sit behind uh Windows computers and type in a keyboard. It's much more like a workshop. >> I'll try Oh, >> I'll try to explain uh sort of what's inside one of these machines uh to better understand. So, so this part here is a furnace with the insulation. This is like an insulation jacket. So everything in here will be 700° when it's running. And then this tank here has the salt inside. When it's cold, it's frozen. And then when we heat it up, it melts here. So it becomes liquid. And then this is a pump. So we can we can pump the salt around. And actually the this is the this is the pipe that is part of the loop where it's being pumped around. There's all kinds of different sensors in here that do different things. Uh and that's part of the test to test that everything is working. you've improved on it. >> Yeah. Yeah. So, so these uh test machines we have here, some of them are already generation 11. So, there's been many generations where they've been improved and and we will continue to uh to make small improvements uh over the years. >> Mhm. And we are selling these to customers around the world for anywhere from half a million dollars to, I don't know, $2 million. >> Again, depending on the on the test and the equipment inside. >> Mhm. >> This place iterates in public. Build, test, demo, repeat. >> So again, the the the room we were just in is is mainly for testing purposes. >> This room is different. This is the only room we have where it's sort of meant for commercial production. And this the whole room here will be for molten salt production uh for the fuel salt and the blanket salt. Uh and uh it's not finished. It's still being constructed. But we can go inside. The reason we have these concrete blocks here is because there will be some radiation on the other side and these are to shield the public. I mean even our workers who who walk around out here >> right >> will not get any level of radiation. So uh when we receive the materials for the salt it comes in steel drums like this and these particular ones are sodium fluoride and lithium fluoride and they're from India. Um and we will right now we don't have any uranium fluoride or thorium fluoride but it will be the same. They will arrive in the same barrels in the same size everything. Mhm. >> But once they go inside the the clean room over there, then we can start mixing them and processing them and cleaning the salt and take out some of the impurities to make them into sort of nuclear grade fuel salts. And I think this will be the biggest facility for making fuel salt for molden salt reactors in the whole world for many years to come. But who knows? I mean, but at least this will be quite a big production facility. >> Here's the villain. time and the rules around it. They are pushing for type approval like airplanes. Certify the design once, build many. >> Even in the beginning, we will not get type approval from day one. We will have to run a number of reactors in that country in order for the authorities to get to know this technology and and get ready for for type approval. >> It feels such a uphill battle. It >> it is. But uh I mean if you look at other technologies that we have developed over the years whether it be the transistor or the PC the the personal computer or the mobile phone. I mean those technologies took many decades from the first invention until they were something that everybody has. I the mass manufacturing is not difficult. The the difficult thing is the type approval and obviously it will happen slowly first in some countries and then more and more countries will get added and then in 30 years from now maybe half of the world will accept the type approval. If approvals take a decade the AI power curve won't wait. This lives or dies on data and iteration, test reactors, measured results, boring reports that unlock permission to build a lot of them. If that happens, clean base load costs drop and AI accelerates. If not, we burn what's cheapest and closest, dirtier, slower. I didn't come for a promo. I came to see if a container reactor can make AI's power problem boring. The engineering is real. Now comes the hard part. If you work in data centers, policy, or nuclear, tell me where this is right and where it's wrong. I'll pin the best critiques and we'll follow them in episode 2. Next up, the machine that prints AI's brains. Subscribe, share with someone who runs a data center, and the full podcast drops in 2 days. This is Infrastructure Wars.",
+  "segments": [
+    {
+      "start": 0.39,
+      "end": 2.53,
+      "text": "[Music]"
+    },
+    {
+      "start": 2.64,
+      "end": 6.96,
+      "text": "I flew all the way to Denmark to meet an"
+    },
+    {
+      "start": 4.64,
+      "end": 9.76,
+      "text": "incredible team of people building what"
+    },
+    {
+      "start": 6.96,
+      "end": 11.76,
+      "text": "is the future of nuclear energy. Molten"
+    },
+    {
+      "start": 9.76,
+      "end": 14.16,
+      "text": "salt reactors."
+    },
+    {
+      "start": 11.76,
+      "end": 17.76,
+      "text": "The AI revolution has a secret fatal"
+    },
+    {
+      "start": 14.16,
+      "end": 20.56,
+      "text": "flaw. It's not the algorithms and it's"
+    },
+    {
+      "start": 17.76,
+      "end": 22.64,
+      "text": "not the chips. It's power."
+    },
+    {
+      "start": 20.56,
+      "end": 24.4,
+      "text": ">> Nuclear energy at a turning point. See"
+    },
+    {
+      "start": 22.64,
+      "end": 25.76,
+      "text": "momentum as power demand jumps from"
+    },
+    {
+      "start": 24.4,
+      "end": 28.48,
+      "text": "electrification and data centers."
+    },
+    {
+      "start": 25.76,
+      "end": 31.92,
+      "text": "Current AI boom could see an increase in"
+    },
+    {
+      "start": 28.48,
+      "end": 33.6,
+      "text": "demand for electricity saw by 40%."
+    },
+    {
+      "start": 31.92,
+      "end": 34.0,
+      "text": ">> It's crazy to shut down nuclear power"
+    },
+    {
+      "start": 33.6,
+      "end": 36.32,
+      "text": "plants."
+    },
+    {
+      "start": 34.0,
+      "end": 38.32,
+      "text": ">> If we can't feed the chips, the boom"
+    },
+    {
+      "start": 36.32,
+      "end": 40.4,
+      "text": "stalls."
+    },
+    {
+      "start": 38.32,
+      "end": 42.08,
+      "text": "What if the answer fits inside a"
+    },
+    {
+      "start": 40.4,
+      "end": 43.68,
+      "text": "shipping container?"
+    },
+    {
+      "start": 42.08,
+      "end": 45.28,
+      "text": ">> The size of the reactor and the amount"
+    },
+    {
+      "start": 43.68,
+      "end": 47.44,
+      "text": "of materials you need is much, much"
+    },
+    {
+      "start": 45.28,
+      "end": 48.48,
+      "text": "smaller. It lends itself to mass"
+    },
+    {
+      "start": 47.44,
+      "end": 50.96,
+      "text": "manufacturing."
+    },
+    {
+      "start": 48.48,
+      "end": 54.0,
+      "text": ">> I spent 9 hours inside Copenhagen"
+    },
+    {
+      "start": 50.96,
+      "end": 59.08,
+      "text": "Atomics to see a reactor built for AI's"
+    },
+    {
+      "start": 54.0,
+      "end": 59.08,
+      "text": "power future. And what could stop it?"
+    },
+    {
+      "start": 65.12,
+      "end": 69.28,
+      "text": ">> Huge. This just feels huge."
+    },
+    {
+      "start": 66.96,
+      "end": 72.32,
+      "text": ">> The the building here is uh roughly"
+    },
+    {
+      "start": 69.28,
+      "end": 74.16,
+      "text": "100,000 square ft. But this department"
+    },
+    {
+      "start": 72.32,
+      "end": 76.32,
+      "text": "here we call the loop test department."
+    },
+    {
+      "start": 74.16,
+      "end": 78.56,
+      "text": "That's because they they run most of the"
+    },
+    {
+      "start": 76.32,
+      "end": 80.88,
+      "text": "testing that we do in this company. So"
+    },
+    {
+      "start": 78.56,
+      "end": 82.0,
+      "text": "right now we have a little bit more than"
+    },
+    {
+      "start": 80.88,
+      "end": 82.96,
+      "text": "10 machines running."
+    },
+    {
+      "start": 82.0,
+      "end": 84.64,
+      "text": ">> Wow."
+    },
+    {
+      "start": 82.96,
+      "end": 87.68,
+      "text": "uh and they are running all kinds of"
+    },
+    {
+      "start": 84.64,
+      "end": 90.0,
+      "text": "tests. Right now our purpose is to"
+    },
+    {
+      "start": 87.68,
+      "end": 93.12,
+      "text": "validate that it can work for 5 years."
+    },
+    {
+      "start": 90.0,
+      "end": 97.44,
+      "text": "That's that's our target."
+    },
+    {
+      "start": 93.12,
+      "end": 100.32,
+      "text": ">> One H100 can draw around 2 kW rows,"
+    },
+    {
+      "start": 97.44,
+      "end": 103.68,
+      "text": "halls, campuses. That's cityscale"
+    },
+    {
+      "start": 100.32,
+      "end": 107.76,
+      "text": "electricity. We can add more gas, coal,"
+    },
+    {
+      "start": 103.68,
+      "end": 112.58,
+      "text": "wind, solar, but AI needs dense, steady"
+    },
+    {
+      "start": 107.76,
+      "end": 115.65,
+      "text": "247 power at a price that works."
+    },
+    {
+      "start": 112.58,
+      "end": 115.65,
+      "text": "[Music]"
+    },
+    {
+      "start": 117.44,
+      "end": 120.56,
+      "text": "And this is one of the"
+    },
+    {
+      "start": 118.72,
+      "end": 122.32,
+      "text": ">> Yeah. So, currently we have two test"
+    },
+    {
+      "start": 120.56,
+      "end": 124.88,
+      "text": "units here and we're building the third"
+    },
+    {
+      "start": 122.32,
+      "end": 126.56,
+      "text": "one. And uh this this particular one is"
+    },
+    {
+      "start": 124.88,
+      "end": 128.16,
+      "text": "quite old now. It's 3 and a half years"
+    },
+    {
+      "start": 126.56,
+      "end": 130.48,
+      "text": "old. And this is one of the things that"
+    },
+    {
+      "start": 128.16,
+      "end": 132.64,
+      "text": "we as a company has invented that makes"
+    },
+    {
+      "start": 130.48,
+      "end": 134.64,
+      "text": "it possible to make these reactors mass"
+    },
+    {
+      "start": 132.64,
+      "end": 137.2,
+      "text": "manufacturable, but also get the energy"
+    },
+    {
+      "start": 134.64,
+      "end": 139.84,
+      "text": "price down. Our goal is to get to $20"
+    },
+    {
+      "start": 137.2,
+      "end": 142.32,
+      "text": "per megawatt hour of electricity cost."
+    },
+    {
+      "start": 139.84,
+      "end": 143.84,
+      "text": "And most of the other reactors in the"
+    },
+    {
+      "start": 142.32,
+      "end": 146.64,
+      "text": "world, even some of the new ones being"
+    },
+    {
+      "start": 143.84,
+      "end": 149.04,
+      "text": "developed, the price is between $80 per"
+    },
+    {
+      "start": 146.64,
+      "end": 151.12,
+      "text": "megawatt hour all the way up to $150 per"
+    },
+    {
+      "start": 149.04,
+      "end": 154.08,
+      "text": "megawatt hour. So you can see it's like"
+    },
+    {
+      "start": 151.12,
+      "end": 156.56,
+      "text": "five is four four to 10 times more"
+    },
+    {
+      "start": 154.08,
+      "end": 160.56,
+      "text": "expensive for other reactors than the"
+    },
+    {
+      "start": 156.56,
+      "end": 162.72,
+      "text": "electricity from our reactors. Wow."
+    },
+    {
+      "start": 160.56,
+      "end": 166.4,
+      "text": "Today's workhorse is the pressurized"
+    },
+    {
+      "start": 162.72,
+      "end": 169.52,
+      "text": "water reactor. A 1950s design. solid"
+    },
+    {
+      "start": 166.4,
+      "end": 172.08,
+      "text": "fuel rods, water pumps, over 150"
+    },
+    {
+      "start": 169.52,
+      "end": 174.8,
+      "text": "atmospheres of pressure."
+    },
+    {
+      "start": 172.08,
+      "end": 177.6,
+      "text": "The massive concrete dome exists to"
+    },
+    {
+      "start": 174.8,
+      "end": 180.32,
+      "text": "contain that pressure."
+    },
+    {
+      "start": 177.6,
+      "end": 183.36,
+      "text": "Cooling is active. If pumps fail and"
+    },
+    {
+      "start": 180.32,
+      "end": 185.92,
+      "text": "circulation stops, heat has nowhere to"
+    },
+    {
+      "start": 183.36,
+      "end": 189.28,
+      "text": "go."
+    },
+    {
+      "start": 185.92,
+      "end": 191.52,
+      "text": "Water boils, rods overheat."
+    },
+    {
+      "start": 189.28,
+      "end": 195.56,
+      "text": "That's the meltdown risk profile"
+    },
+    {
+      "start": 191.52,
+      "end": 195.56,
+      "text": "engineers design around"
+    },
+    {
+      "start": 197.04,
+      "end": 202.16,
+      "text": ">> the the idea of the molden salt reactor"
+    },
+    {
+      "start": 199.12,
+      "end": 204.56,
+      "text": "was actually invented in the 1950s by a"
+    },
+    {
+      "start": 202.16,
+      "end": 206.48,
+      "text": "guy a guy called Alvin Weinberg. He came"
+    },
+    {
+      "start": 204.56,
+      "end": 208.48,
+      "text": "up with the idea. He was able to get"
+    },
+    {
+      "start": 206.48,
+      "end": 210.4,
+      "text": "enough funding and run a first test"
+    },
+    {
+      "start": 208.48,
+      "end": 213.2,
+      "text": "reactor that ran for 5 years in the"
+    },
+    {
+      "start": 210.4,
+      "end": 215.12,
+      "text": "1960s. But he was not able to get enough"
+    },
+    {
+      "start": 213.2,
+      "end": 217.84,
+      "text": "funding to continue that research back"
+    },
+    {
+      "start": 215.12,
+      "end": 220.08,
+      "text": "then. But it was a really really"
+    },
+    {
+      "start": 217.84,
+      "end": 224.88,
+      "text": "important job. what he did. We basically"
+    },
+    {
+      "start": 220.08,
+      "end": 228.0,
+      "text": "just using most of what he did."
+    },
+    {
+      "start": 224.88,
+      "end": 230.08,
+      "text": ">> This is a molten salt reactor. The idea"
+    },
+    {
+      "start": 228.0,
+      "end": 233.2,
+      "text": "isn't new. A test reactor ran"
+    },
+    {
+      "start": 230.08,
+      "end": 236.56,
+      "text": "successfully in the 1960s. Then funding"
+    },
+    {
+      "start": 233.2,
+      "end": 239.92,
+      "text": "politics killed it. An MSR runs liquid"
+    },
+    {
+      "start": 236.56,
+      "end": 243.44,
+      "text": "fuel. Thorium dissolved in hot viscous"
+    },
+    {
+      "start": 239.92,
+      "end": 245.92,
+      "text": "salt that carries heat. Crucially, it"
+    },
+    {
+      "start": 243.44,
+      "end": 247.52,
+      "text": "runs at ambient pressure."
+    },
+    {
+      "start": 245.92,
+      "end": 249.2,
+      "text": "the size of the reactor and the amount"
+    },
+    {
+      "start": 247.52,
+      "end": 250.88,
+      "text": "of materials you need is much much"
+    },
+    {
+      "start": 249.2,
+      "end": 253.92,
+      "text": "smaller. And that helps a lot because"
+    },
+    {
+      "start": 250.88,
+      "end": 255.68,
+      "text": "that means it's it lends itself to mass"
+    },
+    {
+      "start": 253.92,
+      "end": 257.36,
+      "text": "manufacturing much better than"
+    },
+    {
+      "start": 255.68,
+      "end": 259.68,
+      "text": "traditional reactors or some of these"
+    },
+    {
+      "start": 257.36,
+      "end": 261.76,
+      "text": "advanced reactors. But I I hope you get"
+    },
+    {
+      "start": 259.68,
+      "end": 263.92,
+      "text": "the idea that there's a hot section"
+    },
+    {
+      "start": 261.76,
+      "end": 265.84,
+      "text": "where there's 600° and there's the black"
+    },
+    {
+      "start": 263.92,
+      "end": 267.28,
+      "text": "insulation around it and then there's"
+    },
+    {
+      "start": 265.84,
+      "end": 269.6,
+      "text": "the cold section where there's no"
+    },
+    {
+      "start": 267.28,
+      "end": 272.96,
+      "text": "insulation around it and inside there we"
+    },
+    {
+      "start": 269.6,
+      "end": 275.12,
+      "text": "have the electronics and the gas system."
+    },
+    {
+      "start": 272.96,
+      "end": 278.32,
+      "text": "Copenhagen Atomics innovation is the"
+    },
+    {
+      "start": 275.12,
+      "end": 280.88,
+      "text": "onion geometry. Concentric paths that"
+    },
+    {
+      "start": 278.32,
+      "end": 283.68,
+      "text": "move heat efficiently designed to live"
+    },
+    {
+      "start": 280.88,
+      "end": 286.56,
+      "text": "in a 40ft container. And then between"
+    },
+    {
+      "start": 283.68,
+      "end": 288.96,
+      "text": "the two uh in a in a real reactor,"
+    },
+    {
+      "start": 286.56,
+      "end": 290.88,
+      "text": "there's a a thick wall, 2 and 1/2 m"
+    },
+    {
+      "start": 288.96,
+      "end": 293.28,
+      "text": "thick wall with steel and water and"
+    },
+    {
+      "start": 290.88,
+      "end": 295.28,
+      "text": "concrete to shield from the radiation so"
+    },
+    {
+      "start": 293.28,
+      "end": 297.6,
+      "text": "that the the cold region where we have"
+    },
+    {
+      "start": 295.28,
+      "end": 299.36,
+      "text": "the sensors and gas system and"
+    },
+    {
+      "start": 297.6,
+      "end": 301.28,
+      "text": "electronics doesn't get very much"
+    },
+    {
+      "start": 299.36,
+      "end": 303.52,
+      "text": "radiation. But of course in the hot"
+    },
+    {
+      "start": 301.28,
+      "end": 306.96,
+      "text": "section where the onion core is, it's a"
+    },
+    {
+      "start": 303.52,
+      "end": 309.12,
+      "text": "lot of radiation. You can't go in there."
+    },
+    {
+      "start": 306.96,
+      "end": 311.84,
+      "text": ">> So this is uh what we call the inner"
+    },
+    {
+      "start": 309.12,
+      "end": 314.24,
+      "text": "water. So this is the center section"
+    },
+    {
+      "start": 311.84,
+      "end": 317.6,
+      "text": ">> and this would be full of water when the"
+    },
+    {
+      "start": 314.24,
+      "end": 319.76,
+      "text": "reactor is running. And then um this is"
+    },
+    {
+      "start": 317.6,
+      "end": 322.08,
+      "text": "the fuel channel."
+    },
+    {
+      "start": 319.76,
+      "end": 324.24,
+      "text": ">> Uh you see they're shaped like that. And"
+    },
+    {
+      "start": 322.08,
+      "end": 328.4,
+      "text": "then we put insulation in between here"
+    },
+    {
+      "start": 324.24,
+      "end": 330.64,
+      "text": ">> because this one is sort of 80° C and"
+    },
+    {
+      "start": 328.4,
+      "end": 333.28,
+      "text": "this one here is 700° C."
+    },
+    {
+      "start": 330.64,
+      "end": 335.6,
+      "text": ">> So this is really hot and this is"
+    },
+    {
+      "start": 333.28,
+      "end": 337.28,
+      "text": ">> cold but and then we just need a little"
+    },
+    {
+      "start": 335.6,
+      "end": 339.28,
+      "text": "bit of insulation in between."
+    },
+    {
+      "start": 337.28,
+      "end": 341.44,
+      "text": ">> The water does get hot because of the"
+    },
+    {
+      "start": 339.28,
+      "end": 344.16,
+      "text": "neutrons that needs to be slowed down."
+    },
+    {
+      "start": 341.44,
+      "end": 346.4,
+      "text": ">> So we do need to pump the water through"
+    },
+    {
+      "start": 344.16,
+      "end": 347.76,
+      "text": "there quite quickly to cool the water,"
+    },
+    {
+      "start": 346.4,
+      "end": 349.44,
+      "text": "but that's mostly because of the"
+    },
+    {
+      "start": 347.76,
+      "end": 351.6,
+      "text": "neutrons, the the energy from the"
+    },
+    {
+      "start": 349.44,
+      "end": 354.56,
+      "text": "neutrons. like it's flowing really fast"
+    },
+    {
+      "start": 351.6,
+      "end": 356.8,
+      "text": "in here."
+    },
+    {
+      "start": 354.56,
+      "end": 359.12,
+      "text": ">> The part that matters most, passive"
+    },
+    {
+      "start": 356.8,
+      "end": 361.68,
+      "text": "safety. When the pump stops, the liquid"
+    },
+    {
+      "start": 359.12,
+      "end": 364.4,
+      "text": "fuel drains immediately by gravity into"
+    },
+    {
+      "start": 361.68,
+      "end": 367.2,
+      "text": "tanks below. No intervention needed. The"
+    },
+    {
+      "start": 364.4,
+      "end": 369.92,
+      "text": "chain reaction ends on its own. The fuel"
+    },
+    {
+      "start": 367.2,
+      "end": 372.32,
+      "text": "salt cools safely in wide spread out"
+    },
+    {
+      "start": 369.92,
+      "end": 375.04,
+      "text": "tanks."
+    },
+    {
+      "start": 372.32,
+      "end": 377.44,
+      "text": "I know some other molden reactor designs"
+    },
+    {
+      "start": 375.04,
+      "end": 379.2,
+      "text": "have a freeze plug. Uh but we have"
+    },
+    {
+      "start": 377.44,
+      "end": 381.92,
+      "text": "designed our reactors in a way where"
+    },
+    {
+      "start": 379.2,
+      "end": 384.32,
+      "text": "when you cut the power the pumps all the"
+    },
+    {
+      "start": 381.92,
+      "end": 386.16,
+      "text": "pumps stop spinning and then all the"
+    },
+    {
+      "start": 384.32,
+      "end": 387.84,
+      "text": "fluids will just drain out of the oning"
+    },
+    {
+      "start": 386.16,
+      "end": 388.32,
+      "text": "core and into the dump tanks at the"
+    },
+    {
+      "start": 387.84,
+      "end": 389.76,
+      "text": "bottom"
+    },
+    {
+      "start": 388.32,
+      "end": 392.24,
+      "text": ">> and it seems safer even."
+    },
+    {
+      "start": 389.76,
+      "end": 394.24,
+      "text": ">> Yeah, it's to me it is more safe but"
+    },
+    {
+      "start": 392.24,
+      "end": 395.76,
+      "text": "that can of course be debated,"
+    },
+    {
+      "start": 394.24,
+      "end": 399.52,
+      "text": ">> right?"
+    },
+    {
+      "start": 395.76,
+      "end": 401.68,
+      "text": ">> How many H100 GPUs can one of these"
+    },
+    {
+      "start": 399.52,
+      "end": 405.04,
+      "text": "reactors power?"
+    },
+    {
+      "start": 401.68,
+      "end": 408.32,
+      "text": "Uh so I forget how much power one use. I"
+    },
+    {
+      "start": 405.04,
+      "end": 413.36,
+      "text": "think it's like 2 kW. Uh so that would"
+    },
+    {
+      "start": 408.32,
+      "end": 417.52,
+      "text": "mean uh 20,000 CPUs."
+    },
+    {
+      "start": 413.36,
+      "end": 419.84,
+      "text": ">> Around 20,000 H100 GPUs per reactor, a"
+    },
+    {
+      "start": 417.52,
+      "end": 422.72,
+      "text": "data centers worth of compute from a"
+    },
+    {
+      "start": 419.84,
+      "end": 424.48,
+      "text": "machine you can move on a truck."
+    },
+    {
+      "start": 422.72,
+      "end": 426.4,
+      "text": ">> So So you saw the pump before in the"
+    },
+    {
+      "start": 424.48,
+      "end": 428.8,
+      "text": "loop and this this one is sort of the"
+    },
+    {
+      "start": 426.4,
+      "end": 430.56,
+      "text": "what we call the small pump. This one is"
+    },
+    {
+      "start": 428.8,
+      "end": 432.48,
+      "text": "uh we have made many of these more than"
+    },
+    {
+      "start": 430.56,
+      "end": 435.2,
+      "text": "a hundred of these that we use for"
+    },
+    {
+      "start": 432.48,
+      "end": 437.6,
+      "text": "testing. When it's running, it's uh at"
+    },
+    {
+      "start": 435.2,
+      "end": 439.68,
+      "text": "700 degrees. So, it's glowing red hot."
+    },
+    {
+      "start": 437.6,
+      "end": 442.4,
+      "text": "So, it's a freephase electrical motor"
+    },
+    {
+      "start": 439.68,
+      "end": 444.48,
+      "text": "just like any other industrial motor."
+    },
+    {
+      "start": 442.4,
+      "end": 446.56,
+      "text": "But the special thing is that it can run"
+    },
+    {
+      "start": 444.48,
+      "end": 447.6,
+      "text": "at these high temperatures without"
+    },
+    {
+      "start": 446.56,
+      "end": 450.4,
+      "text": "melting."
+    },
+    {
+      "start": 447.6,
+      "end": 453.52,
+      "text": ">> The Unlock is manufacturing repeatable"
+    },
+    {
+      "start": 450.4,
+      "end": 455.76,
+      "text": "units, not one-off mega projects. The"
+    },
+    {
+      "start": 453.52,
+      "end": 458.16,
+      "text": "vision is a gigafactory producing one"
+    },
+    {
+      "start": 455.76,
+      "end": 460.08,
+      "text": "reactor every day. In order to get to"
+    },
+    {
+      "start": 458.16,
+      "end": 464.24,
+      "text": "one gigawatt, we will have to have the"
+    },
+    {
+      "start": 460.08,
+      "end": 466.32,
+      "text": "25 reactor units running at that site."
+    },
+    {
+      "start": 464.24,
+      "end": 468.32,
+      "text": "So if we make one reactor every day,"
+    },
+    {
+      "start": 466.32,
+      "end": 470.08,
+      "text": "that would take 25 days to make all"
+    },
+    {
+      "start": 468.32,
+      "end": 472.24,
+      "text": "those reactors."
+    },
+    {
+      "start": 470.08,
+      "end": 474.96,
+      "text": ">> And the culture here is built for this"
+    },
+    {
+      "start": 472.24,
+      "end": 478.96,
+      "text": "iteration. It emphasizes hands-on"
+    },
+    {
+      "start": 474.96,
+      "end": 481.52,
+      "text": "engineering and a maker mindset."
+    },
+    {
+      "start": 478.96,
+      "end": 483.04,
+      "text": ">> We have this culture of making demos. So"
+    },
+    {
+      "start": 481.52,
+      "end": 484.48,
+      "text": "every time somebody has make a new"
+    },
+    {
+      "start": 483.04,
+      "end": 486.56,
+      "text": "version and now it works a little bit"
+    },
+    {
+      "start": 484.48,
+      "end": 489.2,
+      "text": "better then they allowed to call the"
+    },
+    {
+      "start": 486.56,
+      "end": 490.56,
+      "text": "whole company for usually it's cake or"
+    },
+    {
+      "start": 489.2,
+      "end": 492.8,
+      "text": "ice cream or whatever some something"
+    },
+    {
+      "start": 490.56,
+      "end": 494.96,
+      "text": "like that and then then we have cake and"
+    },
+    {
+      "start": 492.8,
+      "end": 496.96,
+      "text": "that guy or that team who made the new"
+    },
+    {
+      "start": 494.96,
+      "end": 498.96,
+      "text": "thing makes a demo and show how it's"
+    },
+    {
+      "start": 496.96,
+      "end": 500.96,
+      "text": "better than the old version and and and"
+    },
+    {
+      "start": 498.96,
+      "end": 502.96,
+      "text": "we do that several times a week. There's"
+    },
+    {
+      "start": 500.96,
+      "end": 504.64,
+      "text": "somebody who has gotten to a new"
+    },
+    {
+      "start": 502.96,
+      "end": 506.32,
+      "text": "milestone and got something to work and"
+    },
+    {
+      "start": 504.64,
+      "end": 508.08,
+      "text": "they demo that for the other team. It's"
+    },
+    {
+      "start": 506.32,
+      "end": 510.96,
+      "text": "not an office where a lot of people sit"
+    },
+    {
+      "start": 508.08,
+      "end": 513.6,
+      "text": "behind uh Windows computers and type in"
+    },
+    {
+      "start": 510.96,
+      "end": 514.8,
+      "text": "a keyboard. It's much more like a"
+    },
+    {
+      "start": 513.6,
+      "end": 518.68,
+      "text": "workshop."
+    },
+    {
+      "start": 514.8,
+      "end": 518.68,
+      "text": ">> I'll try Oh,"
+    },
+    {
+      "start": 519.2,
+      "end": 523.36,
+      "text": ">> I'll try to explain"
+    },
+    {
+      "start": 521.36,
+      "end": 526.48,
+      "text": "uh sort of what's inside one of these"
+    },
+    {
+      "start": 523.36,
+      "end": 529.52,
+      "text": "machines uh to better understand. So, so"
+    },
+    {
+      "start": 526.48,
+      "end": 531.52,
+      "text": "this part here is a furnace with the"
+    },
+    {
+      "start": 529.52,
+      "end": 534.32,
+      "text": "insulation. This is like an insulation"
+    },
+    {
+      "start": 531.52,
+      "end": 536.88,
+      "text": "jacket. So everything in here will be"
+    },
+    {
+      "start": 534.32,
+      "end": 538.88,
+      "text": "700° when it's running. And then this"
+    },
+    {
+      "start": 536.88,
+      "end": 540.64,
+      "text": "tank here has the salt inside. When it's"
+    },
+    {
+      "start": 538.88,
+      "end": 543.2,
+      "text": "cold, it's frozen. And then when we heat"
+    },
+    {
+      "start": 540.64,
+      "end": 545.2,
+      "text": "it up, it melts here. So it becomes"
+    },
+    {
+      "start": 543.2,
+      "end": 547.12,
+      "text": "liquid. And then this is a pump. So we"
+    },
+    {
+      "start": 545.2,
+      "end": 549.44,
+      "text": "can we can pump the salt around. And"
+    },
+    {
+      "start": 547.12,
+      "end": 551.12,
+      "text": "actually the this is the this is the"
+    },
+    {
+      "start": 549.44,
+      "end": 553.04,
+      "text": "pipe that is part of the loop where it's"
+    },
+    {
+      "start": 551.12,
+      "end": 555.52,
+      "text": "being pumped around. There's all kinds"
+    },
+    {
+      "start": 553.04,
+      "end": 558.08,
+      "text": "of different sensors in here that do"
+    },
+    {
+      "start": 555.52,
+      "end": 559.92,
+      "text": "different things. Uh and that's part of"
+    },
+    {
+      "start": 558.08,
+      "end": 562.8,
+      "text": "the test to test that everything is"
+    },
+    {
+      "start": 559.92,
+      "end": 565.04,
+      "text": "working. you've improved on it."
+    },
+    {
+      "start": 562.8,
+      "end": 567.76,
+      "text": ">> Yeah. Yeah. So, so these uh test"
+    },
+    {
+      "start": 565.04,
+      "end": 570.56,
+      "text": "machines we have here,"
+    },
+    {
+      "start": 567.76,
+      "end": 572.48,
+      "text": "some of them are already generation 11."
+    },
+    {
+      "start": 570.56,
+      "end": 574.88,
+      "text": "So, there's been many generations where"
+    },
+    {
+      "start": 572.48,
+      "end": 577.04,
+      "text": "they've been improved and and we will"
+    },
+    {
+      "start": 574.88,
+      "end": 578.8,
+      "text": "continue to uh to make small"
+    },
+    {
+      "start": 577.04,
+      "end": 581.28,
+      "text": "improvements uh over the years."
+    },
+    {
+      "start": 578.8,
+      "end": 583.52,
+      "text": ">> Mhm. And we are selling these to"
+    },
+    {
+      "start": 581.28,
+      "end": 586.32,
+      "text": "customers around the world for anywhere"
+    },
+    {
+      "start": 583.52,
+      "end": 588.32,
+      "text": "from half a million dollars to, I don't"
+    },
+    {
+      "start": 586.32,
+      "end": 592.0,
+      "text": "know, $2 million."
+    },
+    {
+      "start": 588.32,
+      "end": 593.36,
+      "text": ">> Again, depending on the on the test and"
+    },
+    {
+      "start": 592.0,
+      "end": 595.04,
+      "text": "the equipment inside."
+    },
+    {
+      "start": 593.36,
+      "end": 597.6,
+      "text": ">> Mhm."
+    },
+    {
+      "start": 595.04,
+      "end": 601.36,
+      "text": ">> This place iterates in public. Build,"
+    },
+    {
+      "start": 597.6,
+      "end": 603.6,
+      "text": "test, demo, repeat."
+    },
+    {
+      "start": 601.36,
+      "end": 606.64,
+      "text": ">> So again, the the the room we were just"
+    },
+    {
+      "start": 603.6,
+      "end": 608.56,
+      "text": "in is is mainly for testing purposes."
+    },
+    {
+      "start": 606.64,
+      "end": 610.32,
+      "text": ">> This room is different. This is the only"
+    },
+    {
+      "start": 608.56,
+      "end": 613.44,
+      "text": "room we have where it's sort of meant"
+    },
+    {
+      "start": 610.32,
+      "end": 615.28,
+      "text": "for commercial production. And this the"
+    },
+    {
+      "start": 613.44,
+      "end": 617.84,
+      "text": "whole room here will be for molten salt"
+    },
+    {
+      "start": 615.28,
+      "end": 620.32,
+      "text": "production uh for the fuel salt and the"
+    },
+    {
+      "start": 617.84,
+      "end": 622.4,
+      "text": "blanket salt. Uh and uh it's not"
+    },
+    {
+      "start": 620.32,
+      "end": 624.32,
+      "text": "finished. It's still being constructed."
+    },
+    {
+      "start": 622.4,
+      "end": 626.32,
+      "text": "But we can go inside. The reason we have"
+    },
+    {
+      "start": 624.32,
+      "end": 628.08,
+      "text": "these concrete blocks here is because"
+    },
+    {
+      "start": 626.32,
+      "end": 630.4,
+      "text": "there will be some radiation on the"
+    },
+    {
+      "start": 628.08,
+      "end": 633.36,
+      "text": "other side and these are to shield the"
+    },
+    {
+      "start": 630.4,
+      "end": 634.48,
+      "text": "public. I mean even our workers who who"
+    },
+    {
+      "start": 633.36,
+      "end": 634.96,
+      "text": "walk around out here"
+    },
+    {
+      "start": 634.48,
+      "end": 640.76,
+      "text": ">> right"
+    },
+    {
+      "start": 634.96,
+      "end": 640.76,
+      "text": ">> will not get any level of radiation."
+    },
+    {
+      "start": 643.12,
+      "end": 648.64,
+      "text": "So uh when we receive the materials for"
+    },
+    {
+      "start": 646.08,
+      "end": 650.4,
+      "text": "the salt it comes in steel drums like"
+    },
+    {
+      "start": 648.64,
+      "end": 652.4,
+      "text": "this and these particular ones are"
+    },
+    {
+      "start": 650.4,
+      "end": 656.4,
+      "text": "sodium fluoride and lithium fluoride and"
+    },
+    {
+      "start": 652.4,
+      "end": 658.08,
+      "text": "they're from India. Um and we will right"
+    },
+    {
+      "start": 656.4,
+      "end": 659.68,
+      "text": "now we don't have any uranium fluoride"
+    },
+    {
+      "start": 658.08,
+      "end": 661.84,
+      "text": "or thorium fluoride but it will be the"
+    },
+    {
+      "start": 659.68,
+      "end": 664.24,
+      "text": "same. They will arrive in the same"
+    },
+    {
+      "start": 661.84,
+      "end": 664.72,
+      "text": "barrels in the same size everything."
+    },
+    {
+      "start": 664.24,
+      "end": 667.52,
+      "text": "Mhm."
+    },
+    {
+      "start": 664.72,
+      "end": 670.56,
+      "text": ">> But once they go inside the the clean"
+    },
+    {
+      "start": 667.52,
+      "end": 672.64,
+      "text": "room over there, then we can start"
+    },
+    {
+      "start": 670.56,
+      "end": 674.16,
+      "text": "mixing them and processing them and"
+    },
+    {
+      "start": 672.64,
+      "end": 676.32,
+      "text": "cleaning the salt and take out some of"
+    },
+    {
+      "start": 674.16,
+      "end": 679.12,
+      "text": "the impurities to make them into sort of"
+    },
+    {
+      "start": 676.32,
+      "end": 681.2,
+      "text": "nuclear grade fuel salts. And I think"
+    },
+    {
+      "start": 679.12,
+      "end": 683.68,
+      "text": "this will be the biggest facility for"
+    },
+    {
+      "start": 681.2,
+      "end": 685.92,
+      "text": "making fuel salt for molden salt"
+    },
+    {
+      "start": 683.68,
+      "end": 687.76,
+      "text": "reactors in the whole world for many"
+    },
+    {
+      "start": 685.92,
+      "end": 690.24,
+      "text": "years to come. But who knows? I mean,"
+    },
+    {
+      "start": 687.76,
+      "end": 691.92,
+      "text": "but at least this will be quite a big"
+    },
+    {
+      "start": 690.24,
+      "end": 694.56,
+      "text": "production facility."
+    },
+    {
+      "start": 691.92,
+      "end": 697.12,
+      "text": ">> Here's the villain. time and the rules"
+    },
+    {
+      "start": 694.56,
+      "end": 699.84,
+      "text": "around it. They are pushing for type"
+    },
+    {
+      "start": 697.12,
+      "end": 702.4,
+      "text": "approval like airplanes. Certify the"
+    },
+    {
+      "start": 699.84,
+      "end": 703.92,
+      "text": "design once, build many."
+    },
+    {
+      "start": 702.4,
+      "end": 705.76,
+      "text": ">> Even in the beginning, we will not get"
+    },
+    {
+      "start": 703.92,
+      "end": 708.32,
+      "text": "type approval from day one. We will have"
+    },
+    {
+      "start": 705.76,
+      "end": 710.24,
+      "text": "to run a number of reactors in that"
+    },
+    {
+      "start": 708.32,
+      "end": 712.8,
+      "text": "country in order for the authorities to"
+    },
+    {
+      "start": 710.24,
+      "end": 714.96,
+      "text": "get to know this technology and and get"
+    },
+    {
+      "start": 712.8,
+      "end": 717.44,
+      "text": "ready for for type approval."
+    },
+    {
+      "start": 714.96,
+      "end": 719.76,
+      "text": ">> It feels such a uphill battle. It"
+    },
+    {
+      "start": 717.44,
+      "end": 721.36,
+      "text": ">> it is. But uh I mean if you look at"
+    },
+    {
+      "start": 719.76,
+      "end": 724.08,
+      "text": "other technologies that we have"
+    },
+    {
+      "start": 721.36,
+      "end": 728.8,
+      "text": "developed over the years whether it be"
+    },
+    {
+      "start": 724.08,
+      "end": 731.6,
+      "text": "the transistor or the PC the the"
+    },
+    {
+      "start": 728.8,
+      "end": 733.44,
+      "text": "personal computer or the mobile phone. I"
+    },
+    {
+      "start": 731.6,
+      "end": 736.32,
+      "text": "mean those technologies took many"
+    },
+    {
+      "start": 733.44,
+      "end": 738.72,
+      "text": "decades from the first invention until"
+    },
+    {
+      "start": 736.32,
+      "end": 740.8,
+      "text": "they were something that everybody has."
+    },
+    {
+      "start": 738.72,
+      "end": 742.48,
+      "text": "I the mass manufacturing is not"
+    },
+    {
+      "start": 740.8,
+      "end": 744.88,
+      "text": "difficult. The the difficult thing is"
+    },
+    {
+      "start": 742.48,
+      "end": 747.12,
+      "text": "the type approval and obviously it will"
+    },
+    {
+      "start": 744.88,
+      "end": 749.12,
+      "text": "happen slowly first in some countries"
+    },
+    {
+      "start": 747.12,
+      "end": 751.2,
+      "text": "and then more and more countries will"
+    },
+    {
+      "start": 749.12,
+      "end": 753.6,
+      "text": "get added and then in 30 years from now"
+    },
+    {
+      "start": 751.2,
+      "end": 756.24,
+      "text": "maybe half of the world will accept the"
+    },
+    {
+      "start": 753.6,
+      "end": 759.2,
+      "text": "type approval."
+    },
+    {
+      "start": 756.24,
+      "end": 762.56,
+      "text": "If approvals take a decade the AI power"
+    },
+    {
+      "start": 759.2,
+      "end": 765.6,
+      "text": "curve won't wait. This lives or dies on"
+    },
+    {
+      "start": 762.56,
+      "end": 768.16,
+      "text": "data and iteration, test reactors,"
+    },
+    {
+      "start": 765.6,
+      "end": 770.32,
+      "text": "measured results, boring reports that"
+    },
+    {
+      "start": 768.16,
+      "end": 772.96,
+      "text": "unlock permission to build a lot of"
+    },
+    {
+      "start": 770.32,
+      "end": 776.48,
+      "text": "them. If that happens, clean base load"
+    },
+    {
+      "start": 772.96,
+      "end": 778.8,
+      "text": "costs drop and AI accelerates. If not,"
+    },
+    {
+      "start": 776.48,
+      "end": 782.16,
+      "text": "we burn what's cheapest and closest,"
+    },
+    {
+      "start": 778.8,
+      "end": 784.64,
+      "text": "dirtier, slower."
+    },
+    {
+      "start": 782.16,
+      "end": 786.88,
+      "text": "I didn't come for a promo. I came to see"
+    },
+    {
+      "start": 784.64,
+      "end": 789.84,
+      "text": "if a container reactor can make AI's"
+    },
+    {
+      "start": 786.88,
+      "end": 792.8,
+      "text": "power problem boring. The engineering is"
+    },
+    {
+      "start": 789.84,
+      "end": 795.04,
+      "text": "real. Now comes the hard part. If you"
+    },
+    {
+      "start": 792.8,
+      "end": 797.44,
+      "text": "work in data centers, policy, or"
+    },
+    {
+      "start": 795.04,
+      "end": 799.36,
+      "text": "nuclear, tell me where this is right and"
+    },
+    {
+      "start": 797.44,
+      "end": 801.36,
+      "text": "where it's wrong. I'll pin the best"
+    },
+    {
+      "start": 799.36,
+      "end": 803.6,
+      "text": "critiques and we'll follow them in"
+    },
+    {
+      "start": 801.36,
+      "end": 806.4,
+      "text": "episode 2. Next up, the machine that"
+    },
+    {
+      "start": 803.6,
+      "end": 808.0,
+      "text": "prints AI's brains. Subscribe, share"
+    },
+    {
+      "start": 806.4,
+      "end": 812.4,
+      "text": "with someone who runs a data center, and"
+    },
+    {
+      "start": 808.0,
+      "end": 817.0,
+      "text": "the full podcast drops in 2 days."
+    },
+    {
+      "start": 812.4,
+      "end": 817.0,
+      "text": "This is Infrastructure Wars."
+    }
+  ],
+  "word_count": 2228,
+  "fetched_at": "2025-12-21T02:20:02.802112Z"
+}

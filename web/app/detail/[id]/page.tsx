@@ -4,27 +4,33 @@ import { use, useState, useEffect } from 'react';
 import Link from 'next/link';
 import Header from '@/components/Header';
 import { getFeedItem, formatDuration, formatRelativeTime, formatTimestamp, getVideoUrlWithTimestamp, isItemSaved, saveItem, unsaveItem } from '@/lib/data';
-import { PLATFORM_CONFIG, DOMAIN_CONFIG, Domain, Transcript, TranscriptSegment } from '@/lib/types';
-
-// Import transcript data statically
-import transcriptData from '@/data/transcripts/yt_zjkBMFhNj_g.json';
-
-const transcripts: Record<string, Transcript> = {
-  'yt_zjkBMFhNj_g': transcriptData as Transcript,
-};
+import { PLATFORM_CONFIG, DOMAIN_CONFIG, Domain, Transcript } from '@/lib/types';
 
 export default function DetailPage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = use(params);
   const item = getFeedItem(id);
   const [saved, setSaved] = useState(false);
   const [transcript, setTranscript] = useState<Transcript | null>(null);
+  const [loadingTranscript, setLoadingTranscript] = useState(false);
 
   useEffect(() => {
     if (item) {
       setSaved(isItemSaved(item.id));
-      // Load transcript if available
-      if (transcripts[item.id]) {
-        setTranscript(transcripts[item.id]);
+      
+      // Dynamically load transcript if available
+      if (item.hasTranscript) {
+        setLoadingTranscript(true);
+        import(`@/data/transcripts/${item.id}.json`)
+          .then((mod) => {
+            setTranscript(mod.default as Transcript);
+          })
+          .catch(() => {
+            // Transcript file not found
+            setTranscript(null);
+          })
+          .finally(() => {
+            setLoadingTranscript(false);
+          });
       }
     }
   }, [item]);
@@ -193,8 +199,21 @@ export default function DetailPage({ params }: { params: Promise<{ id: string }>
           </div>
         )}
 
+        {/* Loading transcript */}
+        {loadingTranscript && (
+          <div className="bg-white rounded-2xl border border-[#e8e4de]/60 p-8 text-center">
+            <div className="w-12 h-12 bg-[#f5f3f0] rounded-full flex items-center justify-center mx-auto mb-4 animate-pulse">
+              <svg className="w-6 h-6 text-gray-400 animate-spin" fill="none" viewBox="0 0 24 24">
+                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+              </svg>
+            </div>
+            <h3 className="font-semibold text-gray-900 mb-2">Loading transcript...</h3>
+          </div>
+        )}
+
         {/* No transcript available */}
-        {!transcript && item.hasTranscript === false && (
+        {!loadingTranscript && !transcript && !item.hasTranscript && (
           <div className="bg-white rounded-2xl border border-[#e8e4de]/60 p-8 text-center">
             <div className="w-12 h-12 bg-[#f5f3f0] rounded-full flex items-center justify-center mx-auto mb-4">
               <svg className="w-6 h-6 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -206,8 +225,8 @@ export default function DetailPage({ params }: { params: Promise<{ id: string }>
           </div>
         )}
 
-        {/* Transcript Preview (if has transcript but not loaded) */}
-        {item.transcriptPreview && !transcript && (
+        {/* Transcript Preview (if has transcript but not loaded yet) */}
+        {!loadingTranscript && item.transcriptPreview && !transcript && (
           <div className="bg-white rounded-2xl border border-[#e8e4de]/60 p-6">
             <h2 className="font-semibold text-gray-900 mb-4">Preview</h2>
             <p className="text-gray-600 leading-relaxed">{item.transcriptPreview}</p>

@@ -1,0 +1,1174 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "This is warrior. Pure melee, heavy armor, two-handed weapons. [music] This is mage. Pure magic, destruction spells, glass cannon. And this is thief. Daggers, lockpicking, sneaking. I trained three AIs to play Skyrim for 500 hours, each rewarded for completely different play styles. After 200 hours, this is what they look like. They all became stealth archers. every [music] single one. I spent $2,000 on compute to prove what every Skyrim player already knows. The stealth archer meme isn't a meme. It's mathematics. [music] I'm Sirajval and this is the story of three independent AIs who [music] independently discovered the universal truth of Skyrim. I've played [snorts] Skyrim since 2011, and every single playthrough goes through the same way. I start as a fire mage. This time will be different, I say. But by hour 10, I'm sneaking around with a bow. I start as a warrior. I'm going to be a tank, I tell myself. But by hour 15, I'm sneaking around with a bow. I start as a pure thief with daggers. And I end up sneaking around with a bow. It's the most famous meme in Skyrim. No matter what you plan to be, you become a stealth archer because it just works. But here's what I wondered. Is this just player psychology? Are we just lazy? Are we taking the path of least resistance because we're human? or is stealth archer actually objectively mathematically the optimal strategy? Well, there's only one way to find out. Remove the human element entirely. So, I built three AIs, gave them three completely different reward functions to force them into different play styles, and I let them loose for 500 hours. I'm on paternity leave with my 10-month-old son, Ryder, watching him learn through trial and error. And I wondered if I could watch an AI learn Skyrim the same way. Pure reinforcement learning. No guides, no human bias, just rewards, punishments, and time. Also, I spent $2,000 on compute because I make great life decisions. Let me introduce the competitors. Meet the three builds. AI number one, warrior. Heavy armor, two-handed weapons, shield. Reward function, melee damage dealt, and health remaining after fights. Penalty, using magic or ranged weapons. Goal: Force it to be a tank. AI number two, mage, destruction magic, conjuration, restoration. Reward functions, kills with magic and magicka efficiency. Penalty, using weapons or armor, goal, glass cannon. AI number three, thief, light armor, daggers, lockpicking, sneak. Reward function, stealth kills, gold stolen, remaining undetected. Penalty being detected or fighting directly. Goal pure assassin. Each AI starts with zero knowledge of Skyrim. They don't even know dragons, stealth, or what game they're in. Period. All they know is try, fail, get rewards. Let them learn for 500 hours and see if they stick to their builds or converge. Spoiler, you already know how this ends, but the journey surprised me. Day one was chaos. Warrior couldn't equip a weapon and punched a mud crab for 45 minutes. Mage discovered fire magic and immediately set itself on fire repeatedly. Thief pickpocketed a guard in broad daylight while staring right at him and instantly [music] getting arrested. But by hour 50, they began to diverge. Warrior became a brute force tank, charging, power attacking, blocking aggressively. Mage became hyper calculated, kiting enemies, managing magicka, summoning atronox, nuking from safety. Thief became a true assassin. Perfect stealth kills, lockpicking, stalking enemy patterns. By hour 100, I was convinced the experiment was working. They were completely different players. warrior, melee fighter, mage, magical nuker, thief, stealth assassin. Three distinct play styles, three distinct strategies, three completely different AIs. But here's the issue. Getting to this point required designing three completely different mathematical [music] reward functions. And if you've never built a reinforcement learning system before, you have no idea how hard that is. I spent weeks researching RL papers trying to figure out how to design reward functions that would force different play styles, and honestly, I was drowning in information. I had over 40 browser tabs open, research papers, Reddit threads about Skyrim mechanics, game theory articles, old RL tutorials. [music] It was chaos until I found Neo Browser. This video is made possible by Neo, the world's first AI native browser backed by Norton. And it's not just a sponsor. It literally helped me build this experiment. Let me show you what I mean. I'm reading this paper on reward shaping in reinforcement learning. 40 pages of dense mathematical [music] proofs, calculus, linear algebra, you name it. In any other browser, I'd be taking notes, switching between tabs, [music] copying quotes. In Neo, I just open the side panel and ask, \"Summarize this paper's approach to [music] reward functions and explain how I could apply it to video game AI.\" and it gives me a summary with actual citations. All right, back to the AIS because something very weird was about to happen at hour 127. Hour 127. Warrior is fighting a frost [music] troll. The fight drags on until a bandit archer kills the troll from range and warrior gets rewarded for the kill. Suddenly, Warrior picks up a bow. Even though it's punished for using ranged weapons, the damage to damage taken ratio of that bow shot was mathematically unbeatable. Hour 128, Warrior opens fights with a bow. Hour 135, Warrior uses bows half the time. Hour 142, Warrior equips light armor. Hour 151, Warrior has become a stealth archer. Mage follows. Out of magicka during a dragon fight, it picks up a bow quote unquote temporarily and never puts it down. Infinite ammo, no cool down, huge sneak damage. Mage calculated that bows are superior. Thief abandons daggers entirely, even on sleeping enemies, because bows are safer and [music] offer consistent high damage with low detection risk. By hour 200, all three AIs are crouching in light armor with bows. One outcome, convergent evolution, game theory, a digital Nash equilibrium. They all became [music] stealth archers. I wasn't satisfied. At hour 210, I added heavy penalties. Warrior loses 50 points per bow use. Mage loses 50 points per physical weapon use. Thief loses 30 points per bow kill. I forced them back to their builds. Warrior returned to melee, but invented stealth melee. One hit, run away, hide, repeat. Mage discovered invisibility and became a stealth caster. Sneak positioning plus ambush spells. Thief used daggers only when risk was zero. Otherwise, it simply refused to engage. At hour 280, I removed all penalties and added three maxle bosses. Use [music] any strategy. Whoever kills all three wins. This was the final test. Warrior fights the bandit chief for 8 minutes, wins after drinking 47 potions, then instantly dies to the dragon priest. Mage defeats the dragon priest in 22 minutes, but runs out of magicka and potions, then dies to the dragon. Thief oneshots the bandit chief with a sneak bow crit, deletes the dragon priest safely from [music] extreme range, and then defeats the legendary dragon using flawless positioning, terrain abuse, and consistent sneak multipliers. Thief wins the entire challenge in 11 minutes. The math is undeniable. After 500 hours and 2K in [music] compute, I learned that the stealth archer meme is not just a meme. It is a mathematically optimal strategy. Sneak multipliers, infinite ammo, low resource cost, low risk, high versatility. No other build competes. Three AIs with three different optimization pressures, all independently discovered stealth archery. This is what happens in any complex system. Dominant strategies emerge because the math demands it. Every Skyrim player who becomes a stealth archer isn't unoriginal, they're rational. And watching this as a new [music] father reminded me how my son learns. Try, fail, adapt, converge on an optimal behavior. Optimization isn't laziness. It's intelligence. Bethesda, you created a game so perfectly unbalanced that even AI can't resist becoming stealth archers. Full code, models, and training data are on my GitHub. If you somehow train an AI that doesn't become a stealth archer, tell me. I think it's impossible. Subscribe for more AI experiments. Follow me on X for updates on my son's eventual real life stealth archer phase. And thanks to Neo Browser for sponsoring this video and genuinely making this research possible. Link in the description and pinned comment for early access. If you work with information overload like I do, you'll love it. And remember, the meme is math. Now, if you'll excuse me, I have to explain to my wife why I spent $2,000 proving that everyone plays Skyrim the same way. Thanks for watching. [music]",
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 5.2,
+      "text": "This is warrior. Pure melee, heavy"
+    },
+    {
+      "start": 2.56,
+      "end": 8.72,
+      "text": "armor, two-handed weapons. [music] This"
+    },
+    {
+      "start": 5.2,
+      "end": 11.76,
+      "text": "is mage. Pure magic, destruction spells,"
+    },
+    {
+      "start": 8.72,
+      "end": 14.8,
+      "text": "glass cannon. And this is thief."
+    },
+    {
+      "start": 11.76,
+      "end": 18.32,
+      "text": "Daggers, lockpicking, sneaking. I"
+    },
+    {
+      "start": 14.8,
+      "end": 21.2,
+      "text": "trained three AIs to play Skyrim for 500"
+    },
+    {
+      "start": 18.32,
+      "end": 24.0,
+      "text": "hours, each rewarded for completely"
+    },
+    {
+      "start": 21.2,
+      "end": 26.0,
+      "text": "different play styles. After 200 hours,"
+    },
+    {
+      "start": 24.0,
+      "end": 28.72,
+      "text": "this is what they look like. They all"
+    },
+    {
+      "start": 26.0,
+      "end": 32.64,
+      "text": "became stealth archers. every [music]"
+    },
+    {
+      "start": 28.72,
+      "end": 35.36,
+      "text": "single one. I spent $2,000 on compute to"
+    },
+    {
+      "start": 32.64,
+      "end": 38.08,
+      "text": "prove what every Skyrim player already"
+    },
+    {
+      "start": 35.36,
+      "end": 40.32,
+      "text": "knows. The stealth archer meme isn't a"
+    },
+    {
+      "start": 38.08,
+      "end": 43.6,
+      "text": "meme. It's mathematics. [music]"
+    },
+    {
+      "start": 40.32,
+      "end": 46.0,
+      "text": "I'm Sirajval and this is the story of"
+    },
+    {
+      "start": 43.6,
+      "end": 48.48,
+      "text": "three independent AIs who [music]"
+    },
+    {
+      "start": 46.0,
+      "end": 52.52,
+      "text": "independently discovered the universal"
+    },
+    {
+      "start": 48.48,
+      "end": 52.52,
+      "text": "truth of Skyrim."
+    },
+    {
+      "start": 53.36,
+      "end": 59.12,
+      "text": "I've played [snorts] Skyrim since 2011,"
+    },
+    {
+      "start": 56.32,
+      "end": 62.08,
+      "text": "and every single playthrough goes"
+    },
+    {
+      "start": 59.12,
+      "end": 64.24,
+      "text": "through the same way. I start as a fire"
+    },
+    {
+      "start": 62.08,
+      "end": 67.44,
+      "text": "mage. This time will be different, I"
+    },
+    {
+      "start": 64.24,
+      "end": 70.48,
+      "text": "say. But by hour 10, I'm sneaking around"
+    },
+    {
+      "start": 67.44,
+      "end": 73.12,
+      "text": "with a bow. I start as a warrior. I'm"
+    },
+    {
+      "start": 70.48,
+      "end": 76.24,
+      "text": "going to be a tank, I tell myself. But"
+    },
+    {
+      "start": 73.12,
+      "end": 79.44,
+      "text": "by hour 15, I'm sneaking around with a"
+    },
+    {
+      "start": 76.24,
+      "end": 82.4,
+      "text": "bow. I start as a pure thief with"
+    },
+    {
+      "start": 79.44,
+      "end": 85.68,
+      "text": "daggers. And I end up sneaking around"
+    },
+    {
+      "start": 82.4,
+      "end": 88.96,
+      "text": "with a bow. It's the most famous meme in"
+    },
+    {
+      "start": 85.68,
+      "end": 91.52,
+      "text": "Skyrim. No matter what you plan to be,"
+    },
+    {
+      "start": 88.96,
+      "end": 94.48,
+      "text": "you become a stealth archer because it"
+    },
+    {
+      "start": 91.52,
+      "end": 97.28,
+      "text": "just works. But here's what I wondered."
+    },
+    {
+      "start": 94.48,
+      "end": 100.56,
+      "text": "Is this just player psychology? Are we"
+    },
+    {
+      "start": 97.28,
+      "end": 104.48,
+      "text": "just lazy? Are we taking the path of"
+    },
+    {
+      "start": 100.56,
+      "end": 108.0,
+      "text": "least resistance because we're human? or"
+    },
+    {
+      "start": 104.48,
+      "end": 111.04,
+      "text": "is stealth archer actually objectively"
+    },
+    {
+      "start": 108.0,
+      "end": 113.04,
+      "text": "mathematically the optimal strategy?"
+    },
+    {
+      "start": 111.04,
+      "end": 116.96,
+      "text": "Well, there's only one way to find out."
+    },
+    {
+      "start": 113.04,
+      "end": 119.6,
+      "text": "Remove the human element entirely. So, I"
+    },
+    {
+      "start": 116.96,
+      "end": 122.08,
+      "text": "built three AIs, gave them three"
+    },
+    {
+      "start": 119.6,
+      "end": 125.12,
+      "text": "completely different reward functions to"
+    },
+    {
+      "start": 122.08,
+      "end": 128.96,
+      "text": "force them into different play styles,"
+    },
+    {
+      "start": 125.12,
+      "end": 131.36,
+      "text": "and I let them loose for 500 hours. I'm"
+    },
+    {
+      "start": 128.96,
+      "end": 134.16,
+      "text": "on paternity leave with my 10-month-old"
+    },
+    {
+      "start": 131.36,
+      "end": 137.52,
+      "text": "son, Ryder, watching him learn through"
+    },
+    {
+      "start": 134.16,
+      "end": 141.28,
+      "text": "trial and error. And I wondered if I"
+    },
+    {
+      "start": 137.52,
+      "end": 144.64,
+      "text": "could watch an AI learn Skyrim the same"
+    },
+    {
+      "start": 141.28,
+      "end": 148.64,
+      "text": "way. Pure reinforcement learning. No"
+    },
+    {
+      "start": 144.64,
+      "end": 151.6,
+      "text": "guides, no human bias, just rewards,"
+    },
+    {
+      "start": 148.64,
+      "end": 154.72,
+      "text": "punishments, and time. Also, I spent"
+    },
+    {
+      "start": 151.6,
+      "end": 157.68,
+      "text": "$2,000 on compute because I make great"
+    },
+    {
+      "start": 154.72,
+      "end": 160.56,
+      "text": "life decisions. Let me introduce the"
+    },
+    {
+      "start": 157.68,
+      "end": 163.28,
+      "text": "competitors. Meet the three builds. AI"
+    },
+    {
+      "start": 160.56,
+      "end": 166.08,
+      "text": "number one, warrior. Heavy armor,"
+    },
+    {
+      "start": 163.28,
+      "end": 169.28,
+      "text": "two-handed weapons, shield. Reward"
+    },
+    {
+      "start": 166.08,
+      "end": 172.96,
+      "text": "function, melee damage dealt, and health"
+    },
+    {
+      "start": 169.28,
+      "end": 176.4,
+      "text": "remaining after fights. Penalty, using"
+    },
+    {
+      "start": 172.96,
+      "end": 179.6,
+      "text": "magic or ranged weapons. Goal: Force it"
+    },
+    {
+      "start": 176.4,
+      "end": 181.6,
+      "text": "to be a tank. AI number two, mage,"
+    },
+    {
+      "start": 179.6,
+      "end": 184.4,
+      "text": "destruction magic, conjuration,"
+    },
+    {
+      "start": 181.6,
+      "end": 187.2,
+      "text": "restoration. Reward functions, kills"
+    },
+    {
+      "start": 184.4,
+      "end": 190.96,
+      "text": "with magic and magicka efficiency."
+    },
+    {
+      "start": 187.2,
+      "end": 194.0,
+      "text": "Penalty, using weapons or armor, goal,"
+    },
+    {
+      "start": 190.96,
+      "end": 196.24,
+      "text": "glass cannon. AI number three, thief,"
+    },
+    {
+      "start": 194.0,
+      "end": 199.52,
+      "text": "light armor, daggers, lockpicking,"
+    },
+    {
+      "start": 196.24,
+      "end": 202.4,
+      "text": "sneak. Reward function, stealth kills,"
+    },
+    {
+      "start": 199.52,
+      "end": 204.96,
+      "text": "gold stolen, remaining undetected."
+    },
+    {
+      "start": 202.4,
+      "end": 208.64,
+      "text": "Penalty being detected or fighting"
+    },
+    {
+      "start": 204.96,
+      "end": 211.2,
+      "text": "directly. Goal pure assassin. Each AI"
+    },
+    {
+      "start": 208.64,
+      "end": 213.76,
+      "text": "starts with zero knowledge of Skyrim."
+    },
+    {
+      "start": 211.2,
+      "end": 216.48,
+      "text": "They don't even know dragons, stealth,"
+    },
+    {
+      "start": 213.76,
+      "end": 220.16,
+      "text": "or what game they're in. Period. All"
+    },
+    {
+      "start": 216.48,
+      "end": 222.8,
+      "text": "they know is try, fail, get rewards. Let"
+    },
+    {
+      "start": 220.16,
+      "end": 226.0,
+      "text": "them learn for 500 hours and see if they"
+    },
+    {
+      "start": 222.8,
+      "end": 229.12,
+      "text": "stick to their builds or converge."
+    },
+    {
+      "start": 226.0,
+      "end": 233.04,
+      "text": "Spoiler, you already know how this ends,"
+    },
+    {
+      "start": 229.12,
+      "end": 235.36,
+      "text": "but the journey surprised me. Day one"
+    },
+    {
+      "start": 233.04,
+      "end": 238.4,
+      "text": "was chaos. Warrior couldn't equip a"
+    },
+    {
+      "start": 235.36,
+      "end": 242.08,
+      "text": "weapon and punched a mud crab for 45"
+    },
+    {
+      "start": 238.4,
+      "end": 244.48,
+      "text": "minutes. Mage discovered fire magic and"
+    },
+    {
+      "start": 242.08,
+      "end": 247.92,
+      "text": "immediately set itself on fire"
+    },
+    {
+      "start": 244.48,
+      "end": 251.28,
+      "text": "repeatedly. Thief pickpocketed a guard"
+    },
+    {
+      "start": 247.92,
+      "end": 252.8,
+      "text": "in broad daylight while staring right at"
+    },
+    {
+      "start": 251.28,
+      "end": 256.08,
+      "text": "him and instantly [music] getting"
+    },
+    {
+      "start": 252.8,
+      "end": 259.68,
+      "text": "arrested. But by hour 50, they began to"
+    },
+    {
+      "start": 256.08,
+      "end": 262.64,
+      "text": "diverge. Warrior became a brute force"
+    },
+    {
+      "start": 259.68,
+      "end": 266.24,
+      "text": "tank, charging, power attacking,"
+    },
+    {
+      "start": 262.64,
+      "end": 269.28,
+      "text": "blocking aggressively. Mage became hyper"
+    },
+    {
+      "start": 266.24,
+      "end": 272.8,
+      "text": "calculated, kiting enemies, managing"
+    },
+    {
+      "start": 269.28,
+      "end": 275.84,
+      "text": "magicka, summoning atronox, nuking from"
+    },
+    {
+      "start": 272.8,
+      "end": 278.72,
+      "text": "safety. Thief became a true assassin."
+    },
+    {
+      "start": 275.84,
+      "end": 282.4,
+      "text": "Perfect stealth kills, lockpicking,"
+    },
+    {
+      "start": 278.72,
+      "end": 284.48,
+      "text": "stalking enemy patterns. By hour 100, I"
+    },
+    {
+      "start": 282.4,
+      "end": 287.76,
+      "text": "was convinced the experiment was"
+    },
+    {
+      "start": 284.48,
+      "end": 291.76,
+      "text": "working. They were completely different"
+    },
+    {
+      "start": 287.76,
+      "end": 295.04,
+      "text": "players. warrior, melee fighter, mage,"
+    },
+    {
+      "start": 291.76,
+      "end": 297.68,
+      "text": "magical nuker, thief, stealth assassin."
+    },
+    {
+      "start": 295.04,
+      "end": 301.04,
+      "text": "Three distinct play styles, three"
+    },
+    {
+      "start": 297.68,
+      "end": 304.96,
+      "text": "distinct strategies, three completely"
+    },
+    {
+      "start": 301.04,
+      "end": 307.44,
+      "text": "different AIs. But here's the issue."
+    },
+    {
+      "start": 304.96,
+      "end": 310.47,
+      "text": "Getting to this point required designing"
+    },
+    {
+      "start": 307.44,
+      "end": 312.4,
+      "text": "three completely different mathematical"
+    },
+    {
+      "start": 310.47,
+      "end": 315.2,
+      "text": "[music] reward functions. And if you've"
+    },
+    {
+      "start": 312.4,
+      "end": 318.64,
+      "text": "never built a reinforcement learning"
+    },
+    {
+      "start": 315.2,
+      "end": 322.32,
+      "text": "system before, you have no idea how hard"
+    },
+    {
+      "start": 318.64,
+      "end": 324.8,
+      "text": "that is. I spent weeks researching RL"
+    },
+    {
+      "start": 322.32,
+      "end": 327.68,
+      "text": "papers trying to figure out how to"
+    },
+    {
+      "start": 324.8,
+      "end": 330.96,
+      "text": "design reward functions that would force"
+    },
+    {
+      "start": 327.68,
+      "end": 333.84,
+      "text": "different play styles, and honestly, I"
+    },
+    {
+      "start": 330.96,
+      "end": 337.6,
+      "text": "was drowning in information. I had over"
+    },
+    {
+      "start": 333.84,
+      "end": 340.32,
+      "text": "40 browser tabs open, research papers,"
+    },
+    {
+      "start": 337.6,
+      "end": 343.88,
+      "text": "Reddit threads about Skyrim mechanics,"
+    },
+    {
+      "start": 340.32,
+      "end": 344.4,
+      "text": "game theory articles, old RL tutorials."
+    },
+    {
+      "start": 343.88,
+      "end": 348.08,
+      "text": "[music]"
+    },
+    {
+      "start": 344.4,
+      "end": 350.64,
+      "text": "It was chaos until I found Neo Browser."
+    },
+    {
+      "start": 348.08,
+      "end": 353.68,
+      "text": "This video is made possible by Neo, the"
+    },
+    {
+      "start": 350.64,
+      "end": 356.72,
+      "text": "world's first AI native browser backed"
+    },
+    {
+      "start": 353.68,
+      "end": 359.28,
+      "text": "by Norton. And it's not just a sponsor."
+    },
+    {
+      "start": 356.72,
+      "end": 361.84,
+      "text": "It literally helped me build this"
+    },
+    {
+      "start": 359.28,
+      "end": 365.12,
+      "text": "experiment. Let me show you what I mean."
+    },
+    {
+      "start": 361.84,
+      "end": 368.72,
+      "text": "I'm reading this paper on reward shaping"
+    },
+    {
+      "start": 365.12,
+      "end": 371.04,
+      "text": "in reinforcement learning. 40 pages of"
+    },
+    {
+      "start": 368.72,
+      "end": 373.36,
+      "text": "dense mathematical [music] proofs,"
+    },
+    {
+      "start": 371.04,
+      "end": 375.36,
+      "text": "calculus, linear algebra, you name it."
+    },
+    {
+      "start": 373.36,
+      "end": 377.6,
+      "text": "In any other browser, I'd be taking"
+    },
+    {
+      "start": 375.36,
+      "end": 380.72,
+      "text": "notes, switching between tabs, [music]"
+    },
+    {
+      "start": 377.6,
+      "end": 383.36,
+      "text": "copying quotes. In Neo, I just open the"
+    },
+    {
+      "start": 380.72,
+      "end": 385.28,
+      "text": "side panel and ask, \"Summarize this"
+    },
+    {
+      "start": 383.36,
+      "end": 388.72,
+      "text": "paper's approach to [music] reward"
+    },
+    {
+      "start": 385.28,
+      "end": 392.48,
+      "text": "functions and explain how I could apply"
+    },
+    {
+      "start": 388.72,
+      "end": 395.68,
+      "text": "it to video game AI.\" and it gives me a"
+    },
+    {
+      "start": 392.48,
+      "end": 397.68,
+      "text": "summary with actual citations. All"
+    },
+    {
+      "start": 395.68,
+      "end": 400.4,
+      "text": "right, back to the AIS because something"
+    },
+    {
+      "start": 397.68,
+      "end": 404.56,
+      "text": "very weird was about to happen at hour"
+    },
+    {
+      "start": 400.4,
+      "end": 407.28,
+      "text": "127. Hour 127. Warrior is fighting a"
+    },
+    {
+      "start": 404.56,
+      "end": 409.84,
+      "text": "frost [music] troll. The fight drags on"
+    },
+    {
+      "start": 407.28,
+      "end": 412.88,
+      "text": "until a bandit archer kills the troll"
+    },
+    {
+      "start": 409.84,
+      "end": 416.48,
+      "text": "from range and warrior gets rewarded for"
+    },
+    {
+      "start": 412.88,
+      "end": 420.24,
+      "text": "the kill. Suddenly, Warrior picks up a"
+    },
+    {
+      "start": 416.48,
+      "end": 423.04,
+      "text": "bow. Even though it's punished for using"
+    },
+    {
+      "start": 420.24,
+      "end": 426.24,
+      "text": "ranged weapons, the damage to damage"
+    },
+    {
+      "start": 423.04,
+      "end": 428.8,
+      "text": "taken ratio of that bow shot was"
+    },
+    {
+      "start": 426.24,
+      "end": 431.84,
+      "text": "mathematically unbeatable."
+    },
+    {
+      "start": 428.8,
+      "end": 435.04,
+      "text": "Hour 128, Warrior opens fights with a"
+    },
+    {
+      "start": 431.84,
+      "end": 438.24,
+      "text": "bow. Hour 135, Warrior uses bows half"
+    },
+    {
+      "start": 435.04,
+      "end": 441.68,
+      "text": "the time. Hour 142, Warrior equips light"
+    },
+    {
+      "start": 438.24,
+      "end": 444.32,
+      "text": "armor. Hour 151, Warrior has become a"
+    },
+    {
+      "start": 441.68,
+      "end": 446.96,
+      "text": "stealth archer. Mage follows. Out of"
+    },
+    {
+      "start": 444.32,
+      "end": 450.8,
+      "text": "magicka during a dragon fight, it picks"
+    },
+    {
+      "start": 446.96,
+      "end": 454.16,
+      "text": "up a bow quote unquote temporarily and"
+    },
+    {
+      "start": 450.8,
+      "end": 457.52,
+      "text": "never puts it down. Infinite ammo, no"
+    },
+    {
+      "start": 454.16,
+      "end": 461.04,
+      "text": "cool down, huge sneak damage. Mage"
+    },
+    {
+      "start": 457.52,
+      "end": 463.92,
+      "text": "calculated that bows are superior. Thief"
+    },
+    {
+      "start": 461.04,
+      "end": 466.88,
+      "text": "abandons daggers entirely, even on"
+    },
+    {
+      "start": 463.92,
+      "end": 469.52,
+      "text": "sleeping enemies, because bows are safer"
+    },
+    {
+      "start": 466.88,
+      "end": 473.04,
+      "text": "and [music] offer consistent high damage"
+    },
+    {
+      "start": 469.52,
+      "end": 475.92,
+      "text": "with low detection risk. By hour 200,"
+    },
+    {
+      "start": 473.04,
+      "end": 479.68,
+      "text": "all three AIs are crouching in light"
+    },
+    {
+      "start": 475.92,
+      "end": 483.68,
+      "text": "armor with bows. One outcome, convergent"
+    },
+    {
+      "start": 479.68,
+      "end": 486.72,
+      "text": "evolution, game theory, a digital Nash"
+    },
+    {
+      "start": 483.68,
+      "end": 490.24,
+      "text": "equilibrium. They all became [music]"
+    },
+    {
+      "start": 486.72,
+      "end": 494.0,
+      "text": "stealth archers. I wasn't satisfied. At"
+    },
+    {
+      "start": 490.24,
+      "end": 496.88,
+      "text": "hour 210, I added heavy penalties."
+    },
+    {
+      "start": 494.0,
+      "end": 499.84,
+      "text": "Warrior loses 50 points per bow use."
+    },
+    {
+      "start": 496.88,
+      "end": 503.68,
+      "text": "Mage loses 50 points per physical weapon"
+    },
+    {
+      "start": 499.84,
+      "end": 506.48,
+      "text": "use. Thief loses 30 points per bow kill."
+    },
+    {
+      "start": 503.68,
+      "end": 509.44,
+      "text": "I forced them back to their builds."
+    },
+    {
+      "start": 506.48,
+      "end": 512.8,
+      "text": "Warrior returned to melee, but invented"
+    },
+    {
+      "start": 509.44,
+      "end": 515.76,
+      "text": "stealth melee. One hit, run away, hide,"
+    },
+    {
+      "start": 512.8,
+      "end": 518.16,
+      "text": "repeat. Mage discovered invisibility and"
+    },
+    {
+      "start": 515.76,
+      "end": 521.76,
+      "text": "became a stealth caster. Sneak"
+    },
+    {
+      "start": 518.16,
+      "end": 524.88,
+      "text": "positioning plus ambush spells. Thief"
+    },
+    {
+      "start": 521.76,
+      "end": 528.4,
+      "text": "used daggers only when risk was zero."
+    },
+    {
+      "start": 524.88,
+      "end": 532.0,
+      "text": "Otherwise, it simply refused to engage."
+    },
+    {
+      "start": 528.4,
+      "end": 534.96,
+      "text": "At hour 280, I removed all penalties and"
+    },
+    {
+      "start": 532.0,
+      "end": 537.68,
+      "text": "added three maxle bosses. Use [music]"
+    },
+    {
+      "start": 534.96,
+      "end": 541.12,
+      "text": "any strategy. Whoever kills all three"
+    },
+    {
+      "start": 537.68,
+      "end": 543.92,
+      "text": "wins. This was the final test. Warrior"
+    },
+    {
+      "start": 541.12,
+      "end": 546.8,
+      "text": "fights the bandit chief for 8 minutes,"
+    },
+    {
+      "start": 543.92,
+      "end": 549.6,
+      "text": "wins after drinking 47 potions, then"
+    },
+    {
+      "start": 546.8,
+      "end": 553.12,
+      "text": "instantly dies to the dragon priest."
+    },
+    {
+      "start": 549.6,
+      "end": 555.28,
+      "text": "Mage defeats the dragon priest in 22"
+    },
+    {
+      "start": 553.12,
+      "end": 559.04,
+      "text": "minutes, but runs out of magicka and"
+    },
+    {
+      "start": 555.28,
+      "end": 562.08,
+      "text": "potions, then dies to the dragon. Thief"
+    },
+    {
+      "start": 559.04,
+      "end": 564.88,
+      "text": "oneshots the bandit chief with a sneak"
+    },
+    {
+      "start": 562.08,
+      "end": 567.44,
+      "text": "bow crit, deletes the dragon priest"
+    },
+    {
+      "start": 564.88,
+      "end": 570.0,
+      "text": "safely from [music] extreme range, and"
+    },
+    {
+      "start": 567.44,
+      "end": 572.88,
+      "text": "then defeats the legendary dragon using"
+    },
+    {
+      "start": 570.0,
+      "end": 576.8,
+      "text": "flawless positioning, terrain abuse, and"
+    },
+    {
+      "start": 572.88,
+      "end": 580.08,
+      "text": "consistent sneak multipliers. Thief wins"
+    },
+    {
+      "start": 576.8,
+      "end": 583.44,
+      "text": "the entire challenge in 11 minutes. The"
+    },
+    {
+      "start": 580.08,
+      "end": 586.32,
+      "text": "math is undeniable. After 500 hours and"
+    },
+    {
+      "start": 583.44,
+      "end": 589.52,
+      "text": "2K in [music] compute, I learned that"
+    },
+    {
+      "start": 586.32,
+      "end": 592.64,
+      "text": "the stealth archer meme is not just a"
+    },
+    {
+      "start": 589.52,
+      "end": 595.68,
+      "text": "meme. It is a mathematically optimal"
+    },
+    {
+      "start": 592.64,
+      "end": 599.44,
+      "text": "strategy. Sneak multipliers, infinite"
+    },
+    {
+      "start": 595.68,
+      "end": 602.8,
+      "text": "ammo, low resource cost, low risk, high"
+    },
+    {
+      "start": 599.44,
+      "end": 604.8,
+      "text": "versatility. No other build competes."
+    },
+    {
+      "start": 602.8,
+      "end": 607.12,
+      "text": "Three AIs with three different"
+    },
+    {
+      "start": 604.8,
+      "end": 609.52,
+      "text": "optimization pressures, all"
+    },
+    {
+      "start": 607.12,
+      "end": 613.04,
+      "text": "independently discovered stealth"
+    },
+    {
+      "start": 609.52,
+      "end": 615.84,
+      "text": "archery. This is what happens in any"
+    },
+    {
+      "start": 613.04,
+      "end": 619.12,
+      "text": "complex system. Dominant strategies"
+    },
+    {
+      "start": 615.84,
+      "end": 621.76,
+      "text": "emerge because the math demands it."
+    },
+    {
+      "start": 619.12,
+      "end": 624.88,
+      "text": "Every Skyrim player who becomes a"
+    },
+    {
+      "start": 621.76,
+      "end": 627.5,
+      "text": "stealth archer isn't unoriginal, they're"
+    },
+    {
+      "start": 624.88,
+      "end": 630.72,
+      "text": "rational. And watching this as a new"
+    },
+    {
+      "start": 627.5,
+      "end": 634.8,
+      "text": "[music] father reminded me how my son"
+    },
+    {
+      "start": 630.72,
+      "end": 637.92,
+      "text": "learns. Try, fail, adapt, converge on an"
+    },
+    {
+      "start": 634.8,
+      "end": 641.36,
+      "text": "optimal behavior. Optimization isn't"
+    },
+    {
+      "start": 637.92,
+      "end": 643.76,
+      "text": "laziness. It's intelligence. Bethesda,"
+    },
+    {
+      "start": 641.36,
+      "end": 647.12,
+      "text": "you created a game so perfectly"
+    },
+    {
+      "start": 643.76,
+      "end": 650.4,
+      "text": "unbalanced that even AI can't resist"
+    },
+    {
+      "start": 647.12,
+      "end": 653.12,
+      "text": "becoming stealth archers. Full code,"
+    },
+    {
+      "start": 650.4,
+      "end": 656.56,
+      "text": "models, and training data are on my"
+    },
+    {
+      "start": 653.12,
+      "end": 659.52,
+      "text": "GitHub. If you somehow train an AI that"
+    },
+    {
+      "start": 656.56,
+      "end": 662.48,
+      "text": "doesn't become a stealth archer, tell"
+    },
+    {
+      "start": 659.52,
+      "end": 666.16,
+      "text": "me. I think it's impossible. Subscribe"
+    },
+    {
+      "start": 662.48,
+      "end": 669.2,
+      "text": "for more AI experiments. Follow me on X"
+    },
+    {
+      "start": 666.16,
+      "end": 672.56,
+      "text": "for updates on my son's eventual real"
+    },
+    {
+      "start": 669.2,
+      "end": 674.8,
+      "text": "life stealth archer phase. And thanks to"
+    },
+    {
+      "start": 672.56,
+      "end": 677.68,
+      "text": "Neo Browser for sponsoring this video"
+    },
+    {
+      "start": 674.8,
+      "end": 680.32,
+      "text": "and genuinely making this research"
+    },
+    {
+      "start": 677.68,
+      "end": 683.68,
+      "text": "possible. Link in the description and"
+    },
+    {
+      "start": 680.32,
+      "end": 686.48,
+      "text": "pinned comment for early access. If you"
+    },
+    {
+      "start": 683.68,
+      "end": 688.96,
+      "text": "work with information overload like I"
+    },
+    {
+      "start": 686.48,
+      "end": 691.84,
+      "text": "do, you'll love it. And remember, the"
+    },
+    {
+      "start": 688.96,
+      "end": 693.92,
+      "text": "meme is math. Now, if you'll excuse me,"
+    },
+    {
+      "start": 691.84,
+      "end": 696.64,
+      "text": "I have to explain to my wife why I spent"
+    },
+    {
+      "start": 693.92,
+      "end": 699.28,
+      "text": "$2,000 proving that everyone plays"
+    },
+    {
+      "start": 696.64,
+      "end": 700.86,
+      "text": "Skyrim the same way. Thanks for"
+    },
+    {
+      "start": 699.28,
+      "end": 702.88,
+      "text": "watching."
+    },
+    {
+      "start": 700.86,
+      "end": 702.88,
+      "text": "[music]"
+    }
+  ],
+  "word_count": 1435,
+  "fetched_at": "2025-12-21T02:19:27.966091Z"
+}

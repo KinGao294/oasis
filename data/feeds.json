@@ -1,5 +1,1356 @@
 {
-  "last_updated": "2025-12-21T01:04:49.359209Z",
-  "count": 0,
-  "items": []
+  "last_updated": "2025-12-21T00:55:31.275052Z",
+  "count": 80,
+  "items": [
+    {
+      "id": "yt_pDC8mIbjRgM",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "How AI Will Transform Fintech In 2026",
+      "url": "https://www.youtube.com/watch?v=pDC8mIbjRgM",
+      "thumbnail": "https://img.youtube.com/vi/pDC8mIbjRgM/maxresdefault.jpg",
+      "published": "2025-12-19T14:01:38+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "2018 2019 in fintech was late spring. You get into 2020 and COVID and that was utter insanity of a of a story. >> Like 25% of all venture dollars in that period went into fintech which is >> Wow. 25%...."
+    },
+    {
+      "id": "yt_4bJOe2tuLb8",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Two Futures | Runtime 2025",
+      "url": "https://www.youtube.com/watch?v=4bJOe2tuLb8",
+      "thumbnail": "https://img.youtube.com/vi/4bJOe2tuLb8/maxresdefault.jpg",
+      "published": "2025-12-18T00:25:16+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "all are from dust and all turn to dust again. >> We can create infinite universes. >> This is like the fuel that we need. There's never been a technical project of this complexity and this scale ever...."
+    },
+    {
+      "id": "yt_tR6g3zrk7eM",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "“How We Can Eliminate Crime” | Ben Horowitz and Garrett Langley",
+      "url": "https://www.youtube.com/watch?v=tR6g3zrk7eM",
+      "thumbnail": "https://img.youtube.com/vi/tR6g3zrk7eM/maxresdefault.jpg",
+      "published": "2025-12-17T15:45:44+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "If you don't enforce crime, what you end up is with lost generations. >> Yeah. If I woke up in 10 years and all we had done was put a lot of people in prison. It's actually double bad. >> Yeah. Well, ..."
+    },
+    {
+      "id": "yt_pBlIgs6w7Ss",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "How Intelligent Is AI, Really?",
+      "url": "https://www.youtube.com/watch?v=pBlIgs6w7Ss",
+      "thumbnail": "https://img.youtube.com/vi/pBlIgs6w7Ss/maxresdefault.jpg",
+      "published": "2025-12-17T15:01:40+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "I'm excited today to welcome Greg Camrad who is the president of the Ark Prize. >> That's right. >> Thanks for coming here at Europe's 2025 in beautiful San Diego. >> Thank you, Diana. >> So, what doe..."
+    },
+    {
+      "id": "pod_guigu101_pod_5094ed82_ac50_4991_b317_f340493d4d1f",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E219｜140亿欧元爱马仕股份是怎么消失的？",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5094ed82-ac50-4991-b317-f340493d4d1f.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 4752,
+      "published": "2025-12-17T15:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "12月初，爱马仕的第五代继承人之一尼古拉斯·皮埃奇，将LVMH告上了法庭，理由是对方夺走了自己价值140亿欧元的600万股爱马仕股份。 整个案件起源于皮埃奇的两个身边人：他的40年好友兼私人财富顾问，以及他最近爱到视如己出的一位摩洛哥园丁。 事情的背后却牵涉到了奢侈品行业的一场世纪收购大战：2010年10月，LVMH突然宣布它已经获得了爱马仕接近20%的股份，爱马仕家族则团结了52名家族成员，聚集"
+    },
+    {
+      "id": "yt_DPBtd57p5Mg",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "ChatGPT Images",
+      "url": "https://www.youtube.com/watch?v=DPBtd57p5Mg",
+      "thumbnail": "https://img.youtube.com/vi/DPBtd57p5Mg/maxresdefault.jpg",
+      "published": "2025-12-16T18:13:34+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "reflecting all the angry skies. Soft and fragile body left here on the wet. Still float fresh from the boat. Arms and neck plus regrets. Arms and neck plus breathing. No more flow under the skin becom..."
+    },
+    {
+      "id": "yt_gA0nwBndJ6w",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Robinhood CEO Vlad Tenev on Org Structure",
+      "url": "https://www.youtube.com/watch?v=gA0nwBndJ6w",
+      "thumbnail": "https://img.youtube.com/vi/gA0nwBndJ6w/maxresdefault.jpg",
+      "published": "2025-12-16T15:01:28+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "If you're an individual contributor and you're doing [music] work, it's very nice to know that your manager is going through more pain than you. If you're a senior leader or an executive, you're 5 day..."
+    },
+    {
+      "id": "yt_JUAj9o6xCwg",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Renaissance of the American Factory | a16z 2026 Big Ideas",
+      "url": "https://www.youtube.com/watch?v=JUAj9o6xCwg",
+      "thumbnail": "https://img.youtube.com/vi/JUAj9o6xCwg/maxresdefault.jpg",
+      "published": "2025-12-15T16:47:22+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "My big idea for 2026 is the renaissance [music] of the American factory. I think next year we'll see companies approach challenges from energy to mining to construction [music] to manufacturing with a..."
+    },
+    {
+      "id": "pod_guigu101_pod_f9859b6e_bcc3_4141_a783_4bd063a68768",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E218｜Netflix与派拉蒙竞购华纳兄弟，好莱坞的洗牌时刻？",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f9859b6e-bcc3-4141-a783-4bd063a68768.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 3223,
+      "published": "2025-12-14T15:45:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "关注Netflix历史的人都知道，这是一个几乎不参与大型收购的科技公司，而它却突然出手，提出高价收购华纳兄弟探索集团（WBD）这样一家体积庞大、历史悠久的传奇制片厂，究竟是要拯救它，还是毁了它？ 本期节目为《硅谷101》与《美轮美换》《去现场》串台节目，我们邀请到了两位资深媒体人小华和杨一，共同分析这场戏剧性的收购。我们录制的时间是12月7日，也就是派拉蒙提出敌意收购前一天。所以我们大部分的讨论，"
+    },
+    {
+      "id": "yt_oLAJFeQt3Z0",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Marc Andreessen: \"Be so good they can't ignore you\"",
+      "url": "https://www.youtube.com/watch?v=oLAJFeQt3Z0",
+      "thumbnail": "https://img.youtube.com/vi/oLAJFeQt3Z0/maxresdefault.jpg",
+      "published": "2025-12-13T17:01:26+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "be so good they can't ignore you. That remains the best advice I think which is just like quality shows. >> The thing that you want from your venture firm is power. You need the ability to be able to ..."
+    },
+    {
+      "id": "yt__bBRVNkAfkQ",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Deciphering Secrets of Ancient Civilizations, Noah's Ark, and Flood Myths | Lex Fridman Podcast #487",
+      "url": "https://www.youtube.com/watch?v=_bBRVNkAfkQ",
+      "thumbnail": "https://img.youtube.com/vi/_bBRVNkAfkQ/maxresdefault.jpg",
+      "published": "2025-12-12T20:01:08+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "The following is a conversation with Irving Finkele who is a scholar of ancient languages curator at the British Museum for over 45 years and is a much admired and respected world expert on kuneaoifor..."
+    },
+    {
+      "id": "yt_RH9vJNxFKDA",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "AI Eats the World: Benedict Evans on the Next Platform Shift",
+      "url": "https://www.youtube.com/watch?v=RH9vJNxFKDA",
+      "thumbnail": "https://img.youtube.com/vi/RH9vJNxFKDA/maxresdefault.jpg",
+      "published": "2025-12-12T17:16:08+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "Chat GPT has got 8 or 900 million weekly active users. And if you're the kind of person who is using this for hours every day, ask yourself why five times more people look at it, get it, know what it ..."
+    },
+    {
+      "id": "yt_8JXwrVQQ4jw",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "10 years.",
+      "url": "https://www.youtube.com/watch?v=8JXwrVQQ4jw",
+      "thumbnail": "https://img.youtube.com/vi/8JXwrVQQ4jw/maxresdefault.jpg",
+      "published": "2025-12-11T21:33:02+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "[Music] 10 years ago, AI could not tell the difference between dogs and cats. But we believe deep learning could go very far, that it could actually be a big triumph for humanity. So, we headed off on..."
+    },
+    {
+      "id": "pod_guigu101_pod_34b7da12_98ee_45e1_8ca0_0674278dc1da",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E217｜机器人开可乐发扑克有多难？聊聊灵巧手的硬件与算法",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/34b7da12-98ee-45e1-8ca0-0674278dc1da.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 4257,
+      "published": "2025-12-10T16:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "2026年，人形机器人将迎来规模化量产的元年。最清晰的信号来自特斯拉，“金色擎天柱”Optimus Gen 3预计在2026年第一季度亮相，并计划在年底前建成产能高达100万台的生产线。马斯克曾多次表示，特斯拉未来约80%的价值来自这里，而非汽车。而“擎天柱”的攻关关键，正在于它的“手与前臂”。 本期是我们机器人特辑之灵巧手，我们邀请了灵巧手模型算法方面和硬件方面的两位专家，一起聊聊灵巧手不同技术"
+    },
+    {
+      "id": "yt_MT4l_XrrRNc",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Unicorn Founder Who Delegated Everything.",
+      "url": "https://www.youtube.com/watch?v=MT4l_XrrRNc",
+      "thumbnail": "https://img.youtube.com/vi/MT4l_XrrRNc/maxresdefault.jpg",
+      "published": "2025-12-10T15:57:28+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "Brian Johnson wants to break the chains of biology. I want to break the chains of time. We can always raise another round or do another trade, but you can't raise another decade. >> You're running a m..."
+    },
+    {
+      "id": "yt_5WN8bfG06Hk",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "From Pivot Hell To $1.4 Billion Unicorn",
+      "url": "https://www.youtube.com/watch?v=5WN8bfG06Hk",
+      "thumbnail": "https://img.youtube.com/vi/5WN8bfG06Hk/maxresdefault.jpg",
+      "published": "2025-12-10T15:00:19+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "I'm here today with James Hawkins, CEO and founder of Post Hog from the YC Winter20 batch. James is here hot off the news of raising a 75 million series Z round of funding at a $ 1.4 billion valuation..."
+    },
+    {
+      "id": "yt_wZ4DT20OHXE",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Chip That Could Unlock AGI.",
+      "url": "https://www.youtube.com/watch?v=wZ4DT20OHXE",
+      "thumbnail": "https://img.youtube.com/vi/wZ4DT20OHXE/maxresdefault.jpg",
+      "published": "2025-12-08T15:05:01+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "I think AI is the next evolution of humanity. I think it takes us to a new level. Allows us to collaborate and understand the world in much deeper ways. >> Naveen Ralph is here expert in AI. >> Naveen..."
+    },
+    {
+      "id": "yt_W0u0J99wTgw",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Ben Horowitz on a Founding Team",
+      "url": "https://www.youtube.com/watch?v=W0u0J99wTgw",
+      "thumbnail": "https://img.youtube.com/vi/W0u0J99wTgw/maxresdefault.jpg",
+      "published": "2025-12-06T15:00:59+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "An ideal founding team is usually two people and the two people are of two different types. So one you need an inventor and it's the inventor's job to build the product that's 10 times better than any..."
+    },
+    {
+      "id": "yt_4jBcK0cYass",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "What's New with ChatGPT Voice",
+      "url": "https://www.youtube.com/watch?v=4jBcK0cYass",
+      "thumbnail": "https://img.youtube.com/vi/4jBcK0cYass/maxresdefault.jpg",
+      "published": "2025-12-05T19:07:27+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "Hey Rocky, great to have you here. >> Hey, so can you tell me what's new with voice? >> Absolutely. Voice is now built right into our chat, so you get a live transcript as we talk. Plus, I can show yo..."
+    },
+    {
+      "id": "yt_JLW83-yNuBo",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Finding Opportunity in Outdated Rules",
+      "url": "https://www.youtube.com/watch?v=JLW83-yNuBo",
+      "thumbnail": "https://img.youtube.com/vi/JLW83-yNuBo/maxresdefault.jpg",
+      "published": "2025-12-05T17:12:55+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "A lot of great startup ideas are sort [music] of in this gray area of like the law is not totally clear. It's a little bit murky whether it's legal or [clears throat] illegal. Even Open AI is like tha..."
+    },
+    {
+      "id": "yt_WsGVXiWzTpI",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Build Hour: Agent Memory Patterns",
+      "url": "https://www.youtube.com/watch?v=WsGVXiWzTpI",
+      "thumbnail": "https://img.youtube.com/vi/WsGVXiWzTpI/maxresdefault.jpg",
+      "published": "2025-12-04T20:28:02+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "Hi everyone, welcome back to another build hour. I'm Michaela on the startup marketing team and I'm here today with two members of our solution architecture team. Emry live in the studio and Brian joi..."
+    },
+    {
+      "id": "yt_z8RRfZnwsGg",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Codex brings concepts into view.",
+      "url": "https://www.youtube.com/watch?v=z8RRfZnwsGg",
+      "thumbnail": "https://img.youtube.com/vi/z8RRfZnwsGg/maxresdefault.jpg",
+      "published": "2025-12-03T16:29:22+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "Algorithms are hard to visualize and for me it's literally impossible. I have affantasia which means that I can't form mental images at all. But today I'm going to walk you through how I use codeex op..."
+    },
+    {
+      "id": "yt_18L5HOYTQAw",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "Why Every Skyrim AI Becomes a Stealth Archer",
+      "url": "https://www.youtube.com/watch?v=18L5HOYTQAw",
+      "thumbnail": "https://img.youtube.com/vi/18L5HOYTQAw/maxresdefault.jpg",
+      "published": "2025-12-03T16:15:40+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "This is warrior. Pure melee, heavy armor, two-handed weapons. [music] This is mage. Pure magic, destruction spells, glass cannon. And this is thief. Daggers, lockpicking, sneaking. I trained three AIs..."
+    },
+    {
+      "id": "yt_t8co94HS6tY",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "How Amplitude Went From Skeptics to “All In” on AI",
+      "url": "https://www.youtube.com/watch?v=t8co94HS6tY",
+      "thumbnail": "https://img.youtube.com/vi/t8co94HS6tY/maxresdefault.jpg",
+      "published": "2025-12-03T15:01:50+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "there is a point that you get to a year maybe two years in where from a rational standpoint you probably should quit but for whatever reason um those successful ones don't and so that is the number on..."
+    },
+    {
+      "id": "yt_GXAAzKX6oaQ",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Shaping Model Behavior in GPT-5.1— the OpenAI Podcast Ep. 11",
+      "url": "https://www.youtube.com/watch?v=GXAAzKX6oaQ",
+      "thumbnail": "https://img.youtube.com/vi/GXAAzKX6oaQ/maxresdefault.jpg",
+      "published": "2025-12-02T18:00:27+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "Hello, I'm Andrew Maine and this is the OpenAI podcast. Today our guests are Christina Kim who's a research lead working on post training at OpenAI and Lentia Ramen who's a product manager focused on ..."
+    },
+    {
+      "id": "yt_Qp0rCU49lMs",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Michael Levin: Hidden Reality of Alien Intelligence & Biological Life | Lex Fridman Podcast #486",
+      "url": "https://www.youtube.com/watch?v=Qp0rCU49lMs",
+      "thumbnail": "https://img.youtube.com/vi/Qp0rCU49lMs/maxresdefault.jpg",
+      "published": "2025-11-30T19:30:21+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "- The following is a conversation with\nMichael Levin, his second time on the podcast. He is one of the most\nfascinating and brilliant biologists and scientists I've\never had the pleasure of speaking w..."
+    },
+    {
+      "id": "yt_Z4L4ZqL1xqQ",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Best Consumer Startup Ideas Were Impossible Until Now",
+      "url": "https://www.youtube.com/watch?v=Z4L4ZqL1xqQ",
+      "thumbnail": "https://img.youtube.com/vi/Z4L4ZqL1xqQ/maxresdefault.jpg",
+      "published": "2025-11-28T15:01:09+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "I think increasingly we're finding ourselves betting on people [music] who are just great at building products and kind of trusting that maybe there's an opportunity that we can't [music] see that thi..."
+    },
+    {
+      "id": "pod_guigu101_pod_414ec0c8_a146_4b74_8c1f_b8ab68891094",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E216｜对话机器人投资人：投资也得看论文，规模性商业化还很远",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/414ec0c8-a146-4b74-8c1f-b8ab68891094.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 4060,
+      "published": "2025-11-27T16:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "最近，人形机器人仍然在“泡沫”与“前夜”的争论中。硅谷人形机器人初创公司1X，近期发布的Neo演示视频，在社交媒体上引发热议，但随即而来的，是外界对其依赖远程操控（Teleoperation）而非自主能力的质疑。这让人不禁联想到2023年那些声称拥有AI能力、实则依赖人工后台处理的初创公司。 与此同时，高盛的一份最新调研报告，揭示了中国机器人供应链的“现实温差”：尽管资本市场情绪高涨，企业产能规划"
+    },
+    {
+      "id": "yt_eiT9wMgesjI",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Chase the Hard Problems",
+      "url": "https://www.youtube.com/watch?v=eiT9wMgesjI",
+      "thumbnail": "https://img.youtube.com/vi/eiT9wMgesjI/maxresdefault.jpg",
+      "published": "2025-11-25T21:35:40+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "If something is really hard on the technical side, I mean, I think that's an even better idea, like nobody else is going to try. If it's hard, like the bar is so high, nobody try and nobody does it. I..."
+    },
+    {
+      "id": "yt_VtDBvmxiXnA",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Find a Pain Point Worth Solving",
+      "url": "https://www.youtube.com/watch?v=VtDBvmxiXnA",
+      "thumbnail": "https://img.youtube.com/vi/VtDBvmxiXnA/maxresdefault.jpg",
+      "published": "2025-11-24T20:08:29+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "You can go almost anywhere and find some painoint, some problem that could be solved with software and especially with AI that frankly just isn't being solved. If you find that thing and solve it, you..."
+    },
+    {
+      "id": "yt_0luMwmnvRuQ",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Scania accelerates operations across its global workforce with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=0luMwmnvRuQ",
+      "thumbnail": "https://img.youtube.com/vi/0luMwmnvRuQ/maxresdefault.jpg",
+      "published": "2025-11-21T01:43:32+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "When we announced that we would have this pilot going, then we had more than twice the requests to join, then we actually had seats. [music] We've [music] been partners with OpenAI for about a year. U..."
+    },
+    {
+      "id": "yt_0sNOaD9xT_4",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "How AI Is Accelerating Scientific Discovery Today and What's Ahead — the OpenAI Podcast Ep. 10",
+      "url": "https://www.youtube.com/watch?v=0sNOaD9xT_4",
+      "thumbnail": "https://img.youtube.com/vi/0sNOaD9xT_4/maxresdefault.jpg",
+      "published": "2025-11-20T17:00:01+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "Andrew Mayne: Hello, I'm Andrew Mayne and this is the OpenAI Podcast. Andrew Mayne: Today my guests are Kevin Weil, head of OpenAI for Science, and Alex Lupsasca, who is an OpenAI research scientist a..."
+    },
+    {
+      "id": "pod_guigu101_pod_8d3c99cb_bb35_48c5_afae_fdcfcf6e5657",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E215｜资本视角聊聊万亿大基建钱从哪儿来，以及电力破局的六条路径",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8d3c99cb-bb35-48c5-afae-fdcfcf6e5657.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 4819,
+      "published": "2025-11-20T16:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "在上一期节目中，我们从产业的角度聊了AI数据中心万亿大基建，这一几乎会贡献今年美国全部的GDP增长的行业。 嘉宾的很多观点和数据都在播客发出来之后一一被市场验证，比如微软CEO萨提亚·纳德拉称，AI缺的不是GPU是电力。 但当我们谈论的不是一个1亿、 10 亿、 100 亿的产业，而是上万亿的投资规模的时候，很多人就开始讨论，我们是不是进入了一场AI的投资泡沫？不少听众希望我们从资本市场的角度，再"
+    },
+    {
+      "id": "yt_RynySryqM_0",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Cursor Head of Design Roasts Startup Websites",
+      "url": "https://www.youtube.com/watch?v=RynySryqM_0",
+      "thumbnail": "https://img.youtube.com/vi/RynySryqM_0/maxresdefault.jpg",
+      "published": "2025-11-20T15:00:53+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "Today I'm excited to welcome Rio Lou. He's the head of design at Cursor, the leading AI coding tool used by more than a million people worldwide. Before that, he was a founding designer at Notion and ..."
+    },
+    {
+      "id": "yt_m_CFCyc2Shs",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "David Kirtley: Nuclear Fusion, Plasma Physics, and the Future of Energy | Lex Fridman Podcast #485",
+      "url": "https://www.youtube.com/watch?v=m_CFCyc2Shs",
+      "thumbnail": "https://img.youtube.com/vi/m_CFCyc2Shs/maxresdefault.jpg",
+      "published": "2025-11-17T18:27:43+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "- The following is a conversation\nwith David Kirtley, a nuclear engineer, expert on nuclear\nfusion, and the CEO of Helion Energy, a company working\non building nuclear fusion reactors and have made in..."
+    },
+    {
+      "id": "yt_OUJznQbHkI4",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Founder Stories: Rishi Choudhary",
+      "url": "https://www.youtube.com/watch?v=OUJznQbHkI4",
+      "thumbnail": "https://img.youtube.com/vi/OUJznQbHkI4/maxresdefault.jpg",
+      "published": "2025-11-16T18:36:06+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "My name is Rishi Chadri. I'm the founder and CEO of Castle AI. Castle builds voice AI agents for large banks and mortgage lenders to automate phone calls. Things are going pretty well and we actually ..."
+    },
+    {
+      "id": "pod_guigu101_pod_3e9356b8_a509_466d_ba16_e3bf10e798ae",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E214｜拯救发际线的硬核科普，现代医学与自然选择的拉锯战",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/3e9356b8-a509-466d-ba16-e3bf10e798ae.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 4557,
+      "published": "2025-11-16T16:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "雄激素脱发，这个困扰数十亿人的“头顶大事”，已经被“非那雄胺”和“米诺地尔”两款经典老药统治了数十年。 2016年之后，随着短视频的兴起，颜值经济拉动了防脱市场在全球范围内的显著增长，也激发了科学研究和药企的创新动力。 防脱药的副作用如何权衡？植发真能一劳永逸吗？防脱洗发水究竟是护理还是“玄学”？未来五年，科学家和药企将带来哪些拯救发际线的新武器？本期节目，我们邀请到振东药业董事长李昆与斯坦福医药"
+    },
+    {
+      "id": "yt_KTmxaMdUbHA",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "AI Is Eating Logistics",
+      "url": "https://www.youtube.com/watch?v=KTmxaMdUbHA",
+      "thumbnail": "https://img.youtube.com/vi/KTmxaMdUbHA/maxresdefault.jpg",
+      "published": "2025-11-14T15:00:47+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "Logistics is a very scaled driven industry and so the bigger you get the cheaper you get. Our take is that we can make the price of shipping anything by ocean container shipping between 8 and 10% chea..."
+    },
+    {
+      "id": "yt_LXwGSHZXbKs",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "How Philips is scaling AI literacy across 70,000 employees",
+      "url": "https://www.youtube.com/watch?v=LXwGSHZXbKs",
+      "thumbnail": "https://img.youtube.com/vi/LXwGSHZXbKs/maxresdefault.jpg",
+      "published": "2025-11-14T06:00:30+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "with OpenAI, you know, lots of people are already using it uh in the private world. Uh so I I consider this like you start playing with it, then you start working with it and from there you start inno..."
+    },
+    {
+      "id": "yt_6TXXMTYQtHk",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows",
+      "url": "https://www.youtube.com/watch?v=6TXXMTYQtHk",
+      "thumbnail": "https://img.youtube.com/vi/6TXXMTYQtHk/maxresdefault.jpg",
+      "published": "2025-11-14T05:05:00+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "At Notion, our mission is to help people build beautiful tools for their life's work. What AI has done is almost given us a different gear, new electricity to make it even simpler. It's a really fun s..."
+    },
+    {
+      "id": "yt_ESObIvXrKZI",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "【庫存影片】百慕大三角（拍攝於2022年2月，由於特殊原因封存至今） | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=ESObIvXrKZI",
+      "thumbnail": "https://img.youtube.com/vi/ESObIvXrKZI/maxresdefault.jpg",
+      "published": "2025-11-12T13:23:39+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_8ed8ce1e_1472_489b_bb42_7b2c1c1404f7",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E213｜从爱好到投资，卡牌能成为年轻人的第一桶金吗？",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8ed8ce1e-1472-489b-bb42-7b2c1c1404f7.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 3597,
+      "published": "2025-11-06T16:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "“80后炒股、90后炒币、00后炒鞋，进入2020年后大家转行炒卡。”虽然这只是一句玩笑话，但多少折射出了卡牌交易市场的火热。 卡牌最开始只是出现在烟草公司的烟盒里，作为赠品用来提高香烟销量。之后被开发出了对战属性，拥有了自己的卡牌游戏拥趸。 但如今的卡牌显然不只是一个小众文化那么简单。 《宝可梦》卡和球星卡目前的世界交易记录，分别是527.5万美元和1293.2万美元。 市场调研公司Verifi"
+    },
+    {
+      "id": "yt_o3gbXDjNWyI",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Dan Houser: GTA, Red Dead Redemption, Rockstar, Absurd & Future of Gaming | Lex Fridman Podcast #484",
+      "url": "https://www.youtube.com/watch?v=o3gbXDjNWyI",
+      "thumbnail": "https://img.youtube.com/vi/o3gbXDjNWyI/maxresdefault.jpg",
+      "published": "2025-10-31T20:43:57+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "- You said that Red Dead Redemption 2, in\nyour opinion, is the best thing you've ever done. I think there's a strong case to be\nmade that it's the greatest game of all time. What are the elements that..."
+    },
+    {
+      "id": "pod_guigu101_pod_80d7c07d_2fae_48a0_86e4_1bd2294f88e7",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E212｜AI数据中心的万亿大基建时代：美国GDP增长全靠它",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/80d7c07d-2fae-48a0-86e4-1bd2294f88e7.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 3251,
+      "published": "2025-10-30T17:00:00-07:00",
+      "hasTranscript": false,
+      "transcriptPreview": "“2025年上半年，美国GDP增长几乎全部来自于数据中心与信息技术。” “如果去掉信息技术与软件，美国GDP增长率仅有0.1%。” ——哈佛大学经济学家杰森·弗曼（Jason Furman） 最近一个大新闻是，OpenAI发公告完成架构与资本重组，为潜在IPO铺路，核心也是它承诺了未来1.4万亿的算力投入，这是一个巨大的资金缺口。 另一方面，美国滞后的基础设施建设，对万亿级数据中心蓝图形成了根本性"
+    },
+    {
+      "id": "yt_eoo6_lynwn8",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "This Shipping Container Powers 20,000 AI Chips",
+      "url": "https://www.youtube.com/watch?v=eoo6_lynwn8",
+      "thumbnail": "https://img.youtube.com/vi/eoo6_lynwn8/maxresdefault.jpg",
+      "published": "2025-10-22T09:00:56+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "How many H100 GPUs can one of these reactors power? >> 20,000 CPUs. around 20,000 H100 GPUs per reactor, a data centers worth of compute from a machine you can move on a"
+    },
+    {
+      "id": "yt_-F06-h8nnDg",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "How This Nuclear Reactor Prevents Meltdowns",
+      "url": "https://www.youtube.com/watch?v=-F06-h8nnDg",
+      "thumbnail": "https://img.youtube.com/vi/-F06-h8nnDg/maxresdefault.jpg",
+      "published": "2025-10-21T08:40:15+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "We have designed our reactors in a way where when you cut the power, the pumps, all the pumps stop spinning and then all the fluids will just drain out of the onion core and into the dump tanks at the..."
+    },
+    {
+      "id": "yt_wANPRZejSfg",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "This Shipping Container Powers 20,000 AI Chips",
+      "url": "https://www.youtube.com/watch?v=wANPRZejSfg",
+      "thumbnail": "https://img.youtube.com/vi/wANPRZejSfg/maxresdefault.jpg",
+      "published": "2025-10-16T15:00:06+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "[Music] I flew all the way to Denmark to meet an incredible team of people building what is the future of nuclear energy. Molten salt reactors. The AI revolution has a secret fatal flaw. It's not the ..."
+    },
+    {
+      "id": "yt_7OLVwZeMCfY",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Julia Shaw: Criminal Psychology of Murder, Serial Killers, Memory & Sex | Lex Fridman Podcast #483",
+      "url": "https://www.youtube.com/watch?v=7OLVwZeMCfY",
+      "thumbnail": "https://img.youtube.com/vi/7OLVwZeMCfY/maxresdefault.jpg",
+      "published": "2025-10-14T17:21:10+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "- We all have the capacity to kill people\nand murder people and do other terrible things. The question is why we don't\ndo those things rather than why we do those things quite often. Most men have\nfan..."
+    },
+    {
+      "id": "yt_PYYZ6fw0dZA",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "Infrastructure Wars (Official Trailer)",
+      "url": "https://www.youtube.com/watch?v=PYYZ6fw0dZA",
+      "thumbnail": "https://img.youtube.com/vi/PYYZ6fw0dZA/maxresdefault.jpg",
+      "published": "2025-10-14T15:30:32+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "The AI revolution has a secret fatal flaw. It's power. What if the answer fits inside a shipping container? I flew all the way to Denmark to meet an incredible team of people building what is the futu..."
+    },
+    {
+      "id": "yt_Iocm-1dXr-Q",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "目前為止最可信的地外生命存在的證據 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=Iocm-1dXr-Q",
+      "thumbnail": "https://img.youtube.com/vi/Iocm-1dXr-Q/maxresdefault.jpg",
+      "published": "2025-10-01T14:38:48+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_qjPH9njnaVU",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Pavel Durov: Telegram, Freedom, Censorship, Money, Power & Human Nature | Lex Fridman Podcast #482",
+      "url": "https://www.youtube.com/watch?v=qjPH9njnaVU",
+      "thumbnail": "https://img.youtube.com/vi/qjPH9njnaVU/maxresdefault.jpg",
+      "published": "2025-09-30T19:27:11+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "- The following is a\nconversation with Pavel Durov, founder and CEO of Telegram, a messaging platform actively used by over 1 billion people. Pavel has spent his life\nfighting for freedom of speech, b..."
+    },
+    {
+      "id": "yt_SvKv7D4pBjE",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Norman Ohler: Hitler, Nazis, Drugs, WW2, Blitzkrieg, LSD, MKUltra & CIA | Lex Fridman Podcast #481",
+      "url": "https://www.youtube.com/watch?v=SvKv7D4pBjE",
+      "thumbnail": "https://img.youtube.com/vi/SvKv7D4pBjE/maxresdefault.jpg",
+      "published": "2025-09-19T18:17:48+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "- Hitler invited three young\ntank generals to his office, and they had a plan, which was\nthe plan to go through the Ardennes Mountains. That was the\nvictorious idea. So it's not the drugs, actually, t..."
+    },
+    {
+      "id": "yt_VdF4cd0SitU",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "臭氧空洞，人類距離滅絕最近的一次 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=VdF4cd0SitU",
+      "thumbnail": "https://img.youtube.com/vi/VdF4cd0SitU/maxresdefault.jpg",
+      "published": "2025-09-17T14:33:34+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_-Qm1_On71Oo",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Dave Hone: T-Rex, Dinosaurs, Extinction, Evolution, and Jurassic Park | Lex Fridman Podcast #480",
+      "url": "https://www.youtube.com/watch?v=-Qm1_On71Oo",
+      "thumbnail": "https://img.youtube.com/vi/-Qm1_On71Oo/maxresdefault.jpg",
+      "published": "2025-09-04T19:56:59+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "- T. rex is definitely weird,\neven compared to all the other giant tyrannosaurs that are\nvery closely related to it, because it is by far, ludicrously by far,\nthe largest carnivore in its ecosystem. -..."
+    },
+    {
+      "id": "yt_hACEeJKE6TE",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "鉛，地球上最大的公害物質，我們都中過它的毒 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=hACEeJKE6TE",
+      "thumbnail": "https://img.youtube.com/vi/hACEeJKE6TE/maxresdefault.jpg",
+      "published": "2025-09-03T14:44:31+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_HsLgZzgpz9Y",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Dave Plummer: Programming, Autism, and Old-School Microsoft Stories | Lex Fridman Podcast #479",
+      "url": "https://www.youtube.com/watch?v=HsLgZzgpz9Y",
+      "thumbnail": "https://img.youtube.com/vi/HsLgZzgpz9Y/maxresdefault.jpg",
+      "published": "2025-08-29T23:52:25+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "- The following is a conversation with Dave\nPlummer, programmer and an old-school Microsoft software engineer who helped\nwork on Windows 95, NT, and XP, building a lot of incredible tools, some\nof whi..."
+    },
+    {
+      "id": "yt_277l16eJphI",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Tested The Top 3 AIs for Vibe Coding (Shocking Winner)",
+      "url": "https://www.youtube.com/watch?v=277l16eJphI",
+      "thumbnail": "https://img.youtube.com/vi/277l16eJphI/maxresdefault.jpg",
+      "published": "2025-08-29T21:30:02+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "This is my personal website. I built it in under five minutes. No typing, no coding. And today, I'll show you exactly how you can do the same. Hello world. I'm Sira Draval, the OG Vibe Coder. And if y..."
+    },
+    {
+      "id": "yt_jdCKiEJpwf4",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Scott Horton: The Case Against War and the Military Industrial Complex | Lex Fridman Podcast #478",
+      "url": "https://www.youtube.com/watch?v=jdCKiEJpwf4",
+      "thumbnail": "https://img.youtube.com/vi/jdCKiEJpwf4/maxresdefault.jpg",
+      "published": "2025-08-24T01:23:15+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "The following is a conversation with Scott Horton. He's the director of the Libertarian Institute, editorial director of anti-war.com, co-host of Provoked, and host of the Scott Horton Show on which h..."
+    },
+    {
+      "id": "yt_AvyJJ_Ew9no",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "【台灣猛鬼】紅衣小女孩 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=AvyJJ_Ew9no",
+      "thumbnail": "https://img.youtube.com/vi/AvyJJ_Ew9no/maxresdefault.jpg",
+      "published": "2025-08-20T14:37:25+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_XRvUWP6VaJY",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "一個星系文明可能來過太陽系，但它們直接摧毀了火星的母星，推演太陽系的形成過程發現我們可能住在一場超級核戰爭的残骸之中 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=XRvUWP6VaJY",
+      "thumbnail": "https://img.youtube.com/vi/XRvUWP6VaJY/maxresdefault.jpg",
+      "published": "2025-08-06T14:26:14+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_gHjIZwBhTgI",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "「時間之鏡」絕密實驗：在北極禁區，科學家依據「時間是能量」的驚人理論，試圖用螺旋巨鏡扭曲時空、傳送意識，竟意外接收到來自未來的訊息，更引來UFO與神秘極光。。 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=gHjIZwBhTgI",
+      "thumbnail": "https://img.youtube.com/vi/gHjIZwBhTgI/maxresdefault.jpg",
+      "published": "2025-07-23T14:39:29+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_X-cm1dk3Peo",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "百分百成為有錢人的九十七個法則，但其中有一些是禁術，最好不要用 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=X-cm1dk3Peo",
+      "thumbnail": "https://img.youtube.com/vi/X-cm1dk3Peo/maxresdefault.jpg",
+      "published": "2025-07-09T14:23:57+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_x1VY8HbGQWM",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "世界最大的監獄 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=x1VY8HbGQWM",
+      "thumbnail": "https://img.youtube.com/vi/x1VY8HbGQWM/maxresdefault.jpg",
+      "published": "2025-06-25T14:00:16+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_MgHfu0aouow",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "【震撼】這是一部需要反覆觀看的影片，你可能不知道，你的人生已經被人帶了節奏 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=MgHfu0aouow",
+      "thumbnail": "https://img.youtube.com/vi/MgHfu0aouow/maxresdefault.jpg",
+      "published": "2025-06-11T15:37:29+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_sc1woawDHKc",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Let 5 AIs Choose My Sports Bets, Results Shocked Me!",
+      "url": "https://www.youtube.com/watch?v=sc1woawDHKc",
+      "thumbnail": "https://img.youtube.com/vi/sc1woawDHKc/maxresdefault.jpg",
+      "published": "2025-05-13T18:28:56+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "Hello world. It's Suriraj and today I'm unleashing five heavyweight AIs GPT40, Claude Sonnet, Gemini 2.5, Llama 4, and Deepseek into a single crypto wallet to find out whether a coordinated swarm can ..."
+    },
+    {
+      "id": "yt_YGzT3sVdwdY",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "My AI Sales Bot Made $596 Overnight | MCP Build",
+      "url": "https://www.youtube.com/watch?v=YGzT3sVdwdY",
+      "thumbnail": "https://img.youtube.com/vi/YGzT3sVdwdY/maxresdefault.jpg",
+      "published": "2025-05-05T15:41:50+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "One time, $149 unlocks the full list. $149. Deal. Shoot it over. Now listen, that sound you hear is my AI intern closing a deal while I'm nowhere near the phone. Imagine hiring someone who never sleep..."
+    },
+    {
+      "id": "yt_Xg5SKoL1yT0",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Built an AI Credit-Score Bot That Made $1,032 in 2 Hours",
+      "url": "https://www.youtube.com/watch?v=Xg5SKoL1yT0",
+      "thumbnail": "https://img.youtube.com/vi/Xg5SKoL1yT0/maxresdefault.jpg",
+      "published": "2025-04-30T12:39:02+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "Hello world. It's Zurj. In just two hours during my son's nap time, I spun up Scorelift, an AI credit scorebot, and pulled in $1,32 on Stripe live ping's live demo and every step explained. Let's dive..."
+    },
+    {
+      "id": "yt_l5Y_aiohV0k",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Built an AI That Made $3,500 Betting While I Slept",
+      "url": "https://www.youtube.com/watch?v=l5Y_aiohV0k",
+      "thumbnail": "https://img.youtube.com/vi/l5Y_aiohV0k/maxresdefault.jpg",
+      "published": "2025-04-06T13:16:01+00:00",
+      "hasTranscript": true,
+      "transcriptPreview": "This AI is about to place a $1,500 bet on tonight's basketball game. If it wins, I make $3,000 in pure profit. If it loses, I just burned $1,500. Should I actually do this? Chat GPT says this bet has ..."
+    },
+    {
+      "id": "yt_8Cg3p9K0il4",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "送给所有知道我名字的人！For Everyone Who Knows My Name.丨Liziqi Channel",
+      "url": "https://www.youtube.com/watch?v=8Cg3p9K0il4",
+      "thumbnail": "https://img.youtube.com/vi/8Cg3p9K0il4/maxresdefault.jpg",
+      "published": "2024-11-13T04:31:19+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_JJL3ZKrHeKM",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "拿柴房造了一个森林衣帽间~I turned the Woodshed into a Forest-Themed Closet.丨Liziqi Channel",
+      "url": "https://www.youtube.com/watch?v=JJL3ZKrHeKM",
+      "thumbnail": "https://img.youtube.com/vi/JJL3ZKrHeKM/maxresdefault.jpg",
+      "published": "2024-11-12T09:00:19+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_IrXjnw8BpM0",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "奶奶的衣柜坏了，给她翻新了一下。My grandma’s wardrobe was broken, so I gave it a makeover.丨Liziqi Channel",
+      "url": "https://www.youtube.com/watch?v=IrXjnw8BpM0",
+      "thumbnail": "https://img.youtube.com/vi/IrXjnw8BpM0/maxresdefault.jpg",
+      "published": "2024-11-12T08:30:06+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_96c3b4d2_20c8_4a39_bd56_17b9f8e52a8d",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "活动预告：我们硅谷线下见",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/96c3b4d2-20c8-4a39-bd56-17b9f8e52a8d.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 133,
+      "published": "2024-09-18T21:15:00-07:00",
+      "hasTranscript": false,
+      "transcriptPreview": "硅谷101线下见面会&amp;人工智能大会线下活动购票链接（早鸟票到9月20日） 这里是我们详细的活动介绍 我们也将抽取三名幸运听众免费赠送我们的门票，欢迎大家在评论区下方留言或者发邮件到podcast@sv101.net来联系我们"
+    },
+    {
+      "id": "pod_guigu101_pod_ee4d579c_74df_485f_aa18_acba3aa48f20",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "小公告｜新播客Web3 101上线了",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/ee4d579c-74df-485f-aa18-acba3aa48f20.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 176,
+      "published": "2022-07-15T00:00:00-07:00",
+      "hasTranscript": false,
+      "transcriptPreview": "在这里关注《Web3 101》 中国听众 小宇宙 海外听众 Apple Podcast Google Podcast Amazon Music 硅谷101视频 这档节目倾向于用精炼的语言，15分钟讲清楚一个复杂的科技事件，这档节目由前CNBC双语主持人陈茜主持。 海外观众 Youtube上搜索《硅谷101》 中国观众 B站 微信公众号及视频号 微博 【招聘】 音视频后期，希望你有过音频或者视频的制"
+    },
+    {
+      "id": "yt_u-xS-dkz3a0",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "我们中国人的开门七件事，柴米油盐酱醋茶 Firewood, rice, oil, salt, soy sauce, vinegar, and tea丨Liziqi Channel",
+      "url": "https://www.youtube.com/watch?v=u-xS-dkz3a0",
+      "thumbnail": "https://img.youtube.com/vi/u-xS-dkz3a0/maxresdefault.jpg",
+      "published": "2021-07-14T12:12:22+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_RagTZHPrn_o",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "Wine table of winding canal—an exciting by-product of watching TV!这是一个看电视看出来的曲水流觞桌！丨Liziqi Channel",
+      "url": "https://www.youtube.com/watch?v=RagTZHPrn_o",
+      "thumbnail": "https://img.youtube.com/vi/RagTZHPrn_o/maxresdefault.jpg",
+      "published": "2021-06-05T14:12:40+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_3KfvUCKxCts",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "喝的是茶，过的是生活 Tea is more than a drink, but a lifestyle.丨Liziqi Channel",
+      "url": "https://www.youtube.com/watch?v=3KfvUCKxCts",
+      "thumbnail": "https://img.youtube.com/vi/3KfvUCKxCts/maxresdefault.jpg",
+      "published": "2021-05-27T13:15:09+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_J4Y12QLEaXs",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "Make a peach blossom crown with silk flowers | 用绢花工艺做了套桃花发冠，带上爱人浪了一把春天丨Liziqi Channel",
+      "url": "https://www.youtube.com/watch?v=J4Y12QLEaXs",
+      "thumbnail": "https://img.youtube.com/vi/J4Y12QLEaXs/maxresdefault.jpg",
+      "published": "2021-04-06T12:29:12+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_sGOTCCVDLtQ",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "Chinese New Year’s decorations, goods and snacks！明日除夕，挂灯笼、贴对联、备好年货过大年啦！丨Liziqi Channel",
+      "url": "https://www.youtube.com/watch?v=sGOTCCVDLtQ",
+      "thumbnail": "https://img.youtube.com/vi/sGOTCCVDLtQ/maxresdefault.jpg",
+      "published": "2021-02-10T13:00:28+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_B6bJ_vTslyo",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "The last episode of the “Life Series”: The life of white radish!一生系列产品最后一个视频——萝卜的一生丨Liziqi Channel",
+      "url": "https://www.youtube.com/watch?v=B6bJ_vTslyo",
+      "thumbnail": "https://img.youtube.com/vi/B6bJ_vTslyo/maxresdefault.jpg",
+      "published": "2021-01-09T11:45:17+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_YKIXHn3kDL0",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "May the red, red persimmons bring you a happy, prosperous new year!❤️愿一串串的红柿子给大家带来新一年的柿柿顺心 | Liziqi",
+      "url": "https://www.youtube.com/watch?v=YKIXHn3kDL0",
+      "thumbnail": "https://img.youtube.com/vi/YKIXHn3kDL0/maxresdefault.jpg",
+      "published": "2020-12-09T10:55:12+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    }
+  ]
 }
