@@ -1,0 +1,50 @@
+{
+  "video_id": "yt_l5Y_aiohV0k",
+  "title": "I Built an AI That Made $3,500 Betting While I Slept",
+  "summary": "介绍了一个基于AI的自动投注系统，该系统在72小时内使初始资金增长至13,500美元，并在72小时内实现3500美元的利润。",
+  "key_points": [
+    {
+      "timestamp": 0,
+      "title": "AI投注",
+      "content": "AI即将投注1500美元进行篮球比赛，预计盈利3000美元，但存在1500美元的潜在损失。"
+    },
+    {
+      "timestamp": 60,
+      "title": "AI工作原理",
+      "content": "AI通过分析市场、寻找边缘、计算最佳投注大小和自动执行交易来运行24/7。"
+    },
+    {
+      "timestamp": 180,
+      "title": "Poly Market优势",
+      "content": "选择Poly Market进行AI自动化，因为它24/7运行，费用结构更优，且市场效率较低，存在AI可利用的价格差异。"
+    },
+    {
+      "timestamp": 300,
+      "title": "策略组件",
+      "content": "AI策略包括分析、决策和执行模块，利用Chat GPT分析比赛，并计算最佳投注大小。"
+    },
+    {
+      "timestamp": 450,
+      "title": "测试结果",
+      "content": "72小时内，AI实现1500美元的利润，银行滚存增长至2500美元，投资回报率150%。"
+    },
+    {
+      "timestamp": 600,
+      "title": "开源代码",
+      "content": "作者开源了整个代码库，命名为Polytrader，供他人构建自己的版本。"
+    },
+    {
+      "timestamp": 750,
+      "title": "未来展望",
+      "content": "作者计划对系统进行改进，包括多市场相关性分析和实时新闻集成。"
+    }
+  ],
+  "tags": [
+    "AI投注",
+    "自动交易",
+    "Poly Market",
+    "开源代码",
+    "投资回报"
+  ],
+  "generated_at": "2025-12-21T02:44:23.928982Z"
+}

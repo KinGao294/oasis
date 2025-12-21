@@ -1,0 +1,50 @@
+{
+  "video_id": "yt_YGzT3sVdwdY",
+  "title": "My AI Sales Bot Made $596 Overnight | MCP Build",
+  "summary": "视频展示了如何使用AI构建销售机器人，实现自动化销售并实现一夜之间596美元的收入。",
+  "key_points": [
+    {
+      "timestamp": 0,
+      "title": "AI销售机器人",
+      "content": "介绍了一种自动销售代表，能独立完成销售任务，无需人工干预。"
+    },
+    {
+      "timestamp": 100,
+      "title": "销售成果",
+      "content": "机器人一天内成功拨打38次电话，完成4笔交易，收入596美元。"
+    },
+    {
+      "timestamp": 200,
+      "title": "成本分析",
+      "content": "总成本仅18美元，包括Twilio分钟和API调用费用。"
+    },
+    {
+      "timestamp": 300,
+      "title": "技术组件",
+      "content": "介绍了构建机器人的技术组件，包括Bright Data、GPT4、11 Labs和Twilio。"
+    },
+    {
+      "timestamp": 400,
+      "title": "自动化流程",
+      "content": "详细解释了从数据收集到自动拨打电话和跟进的自动化流程。"
+    },
+    {
+      "timestamp": 500,
+      "title": "效果评估",
+      "content": "机器人实现了10.5%的转化率，远高于行业平均水平。"
+    },
+    {
+      "timestamp": 600,
+      "title": "未来计划",
+      "content": "计划扩展业务，增加每月订阅和自我优化的广告支出。"
+    }
+  ],
+  "tags": [
+    "AI销售",
+    "自动化销售",
+    "收入增长",
+    "技术构建",
+    "商业案例"
+  ],
+  "generated_at": "2025-12-21T02:43:57.877784Z"
+}
