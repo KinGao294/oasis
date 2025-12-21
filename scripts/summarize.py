@@ -30,7 +30,7 @@ def format_timestamp(seconds):
     return f"{minutes}:{secs:02d}"
 
 
-def call_zhipu_api(prompt, max_tokens=4000):
+def call_zhipu_api(prompt, max_tokens=8000):
     """
     Call Zhipu GLM API
     """
@@ -99,28 +99,24 @@ def generate_summary(transcript_data, title):
 
 请按以下JSON格式返回（只返回JSON，不要其他内容）:
 {{
-  "summary": "整体内容摘要（100-200字）",
+  "summary": "整体内容摘要，200-300字，5-6句话，全面概括视频主题",
   "key_points": [
     {{
       "timestamp": 0,
-      "title": "要点标题（5-10字）",
-      "content": "要点内容详述（30-50字）"
-    }},
-    {{
-      "timestamp": 180,
       "title": "要点标题",
-      "content": "要点内容"
+      "content": "这里需要写150-200字的详细内容。必须包含5-6句话。第一句概括要点。第二三句展开具体内容。第四五句补充案例、数据或深入分析。第六句总结意义。"
     }}
   ],
   "tags": ["标签1", "标签2", "标签3"]
 }}
 
-要求：
-1. 提取5-8个关键要点
-2. 时间戳要尽量准确，根据内容出现的位置估算
-3. summary要概括整个视频的核心主题
-4. tags提取3-5个主题标签
-5. 全部使用中文"""
+【重要要求】：
+1. 提取5-8个关键要点，覆盖视频主要内容
+2. 时间戳根据内容位置估算
+3. summary必须200字以上，5-6句话
+4. 【最重要】每个key_point的content必须写150-200字、5-6句完整的话！不能只写一两句！要详细展开讲解该时间段的核心观点、论据、案例和意义
+5. tags提取3-5个主题标签
+6. 全部使用中文"""
 
     response = call_zhipu_api(prompt)
     
