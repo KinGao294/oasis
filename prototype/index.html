@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Oasis</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Plus Jakarta Sans', 'system-ui', 'sans-serif'],
+          },
+          colors: {
+            sand: { 50: '#fdfcfb', 100: '#f5f3f0', 200: '#e8e4de', 300: '#d4cdc3' },
+            forest: { 500: '#2d5a47', 600: '#234839', 700: '#1a3629' },
+            terracotta: { 500: '#c4684a', 600: '#b35940' },
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body { background: linear-gradient(180deg, #fdfcfb 0%, #f5f3f0 100%); min-height: 100vh; }
+    .card { transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+    .card:hover { transform: translateY(-4px); box-shadow: 0 20px 40px -12px rgba(0,0,0,0.1); }
+    .nav-link { position: relative; }
+    .nav-link.active::after { content: ''; position: absolute; bottom: -2px; left: 50%; transform: translateX(-50%); width: 20px; height: 2px; background: #2d5a47; border-radius: 1px; }
+    .tag { backdrop-filter: blur(8px); }
+    .line-clamp-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  </style>
+</head>
+<body class="font-sans text-gray-800 antialiased">
+  
+  <!-- Header -->
+  <header class="sticky top-0 z-50 backdrop-blur-xl bg-sand-50/80 border-b border-sand-200/50">
+    <div class="max-w-6xl mx-auto px-6">
+      <div class="flex items-center justify-between h-16">
+        <a href="index.html" class="flex items-center gap-2.5">
+          <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-forest-500 to-forest-700 flex items-center justify-center">
+            <svg class="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>
+          </div>
+          <span class="text-lg font-semibold tracking-tight text-gray-900">Oasis</span>
+        </a>
+
+        <nav class="flex items-center gap-8">
+          <a href="index.html" class="nav-link active text-sm font-medium text-forest-600">Feed</a>
+          <a href="favorites.html" class="nav-link text-sm font-medium text-gray-500 hover:text-gray-900 transition">Saved</a>
+          <a href="sources.html" class="nav-link text-sm font-medium text-gray-500 hover:text-gray-900 transition">Sources</a>
+        </nav>
+        
+        <div class="flex items-center gap-3">
+          <div class="relative">
+            <input type="text" placeholder="Search..." class="w-56 px-4 py-2 pl-9 bg-white/60 border border-sand-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-forest-500/20 focus:border-forest-500 transition">
+            <svg class="absolute left-3 top-2.5 w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="max-w-6xl mx-auto px-6 py-8">
+    
+    <!-- Hero -->
+    <div class="mb-10">
+      <h1 class="text-3xl font-bold text-gray-900 mb-2">Good morning</h1>
+      <p class="text-gray-500">12 new updates from your sources</p>
+    </div>
+
+    <!-- Filters -->
+    <div class="flex flex-wrap items-center gap-2 mb-8">
+      <button class="px-4 py-2 rounded-full text-sm font-medium bg-forest-600 text-white shadow-sm">All</button>
+      <button class="tag px-4 py-2 rounded-full text-sm font-medium bg-white/70 text-gray-600 border border-sand-200 hover:border-forest-500 hover:text-forest-600 transition">AI & Tech</button>
+      <button class="tag px-4 py-2 rounded-full text-sm font-medium bg-white/70 text-gray-600 border border-sand-200 hover:border-forest-500 hover:text-forest-600 transition">Business</button>
+      <button class="tag px-4 py-2 rounded-full text-sm font-medium bg-white/70 text-gray-600 border border-sand-200 hover:border-forest-500 hover:text-forest-600 transition">Global</button>
+      <button class="tag px-4 py-2 rounded-full text-sm font-medium bg-white/70 text-gray-600 border border-sand-200 hover:border-forest-500 hover:text-forest-600 transition">Creator</button>
+      <button class="tag px-4 py-2 rounded-full text-sm font-medium bg-white/70 text-gray-600 border border-sand-200 hover:border-forest-500 hover:text-forest-600 transition">Growth</button>
+      <button class="tag px-4 py-2 rounded-full text-sm font-medium bg-white/70 text-gray-600 border border-sand-200 hover:border-forest-500 hover:text-forest-600 transition">Design</button>
+    </div>
+
+    <!-- Content Grid -->
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+      
+      <!-- Card 1 -->
+      <article class="card bg-white rounded-2xl overflow-hidden border border-sand-200/60 group relative">
+        <button class="absolute top-3 right-3 z-10 w-9 h-9 rounded-full bg-white/90 backdrop-blur flex items-center justify-center opacity-0 group-hover:opacity-100 transition shadow-sm hover:scale-110">
+          <svg class="w-4 h-4 text-gray-400 hover:text-amber-500" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/></svg>
+        </button>
+        <a href="detail.html" class="block">
+          <div class="relative aspect-video bg-gray-100">
+            <img src="https://img.youtube.com/vi/zjkBMFhNj_g/maxresdefault.jpg" class="w-full h-full object-cover">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent"></div>
+            <span class="absolute bottom-3 right-3 px-2 py-1 bg-black/70 text-white text-xs font-medium rounded-md backdrop-blur">1:45:30</span>
+            <span class="absolute top-3 left-3 px-2.5 py-1 bg-red-600 text-white text-xs font-medium rounded-md">YouTube</span>
+          </div>
+          <div class="p-5">
+            <h3 class="font-semibold text-gray-900 line-clamp-2 mb-3 leading-snug">[1hr Talk] Intro to Large Language Models</h3>
+            <div class="flex items-center gap-2.5 mb-3">
+              <img src="https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj" class="w-7 h-7 rounded-full ring-2 ring-sand-100">
+              <span class="text-sm text-gray-600">Andrej Karpathy</span>
+            </div>
+            <div class="flex items-center gap-2">
+              <span class="px-2.5 py-1 bg-blue-50 text-blue-700 text-xs font-medium rounded-full">AI</span>
+              <span class="text-xs text-gray-400">2h ago</span>
+            </div>
+          </div>
+        </a>
+      </article>
+
+      <!-- Card 2 -->
+      <article class="card bg-white rounded-2xl overflow-hidden border border-sand-200/60 group relative">
+        <button class="absolute top-3 right-3 z-10 w-9 h-9 rounded-full bg-white/90 backdrop-blur flex items-center justify-center opacity-0 group-hover:opacity-100 transition shadow-sm hover:scale-110">
+          <svg class="w-4 h-4 text-gray-400 hover:text-amber-500" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/></svg>
+        </button>
+        <a href="detail.html" class="block">
+          <div class="relative aspect-video bg-gradient-to-br from-cyan-400 to-blue-600">
+            <div class="absolute inset-0 flex items-center justify-center">
+              <div class="w-16 h-16 rounded-2xl bg-white/20 backdrop-blur flex items-center justify-center">
+                <svg class="w-8 h-8 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+              </div>
+            </div>
+            <span class="absolute bottom-3 right-3 px-2 py-1 bg-black/70 text-white text-xs font-medium rounded-md backdrop-blur">18:42</span>
+            <span class="absolute top-3 left-3 px-2.5 py-1 bg-[#00a1d6] text-white text-xs font-medium rounded-md">Bilibili</span>
+          </div>
+          <div class="p-5">
+            <h3 class="font-semibold text-gray-900 line-clamp-2 mb-3 leading-snug">为什么我不建议你买这台相机</h3>
+            <div class="flex items-center gap-2.5 mb-3">
+              <div class="w-7 h-7 rounded-full bg-gradient-to-br from-cyan-400 to-blue-600 ring-2 ring-sand-100"></div>
+              <span class="text-sm text-gray-600">影视飓风</span>
+            </div>
+            <div class="flex items-center gap-2">
+              <span class="px-2.5 py-1 bg-pink-50 text-pink-700 text-xs font-medium rounded-full">Creator</span>
+              <span class="text-xs text-gray-400">5h ago</span>
+            </div>
+          </div>
+        </a>
+      </article>
+
+      <!-- Card 3: Podcast -->
+      <article class="card bg-white rounded-2xl overflow-hidden border border-sand-200/60 group relative">
+        <button class="absolute top-3 right-3 z-10 w-9 h-9 rounded-full bg-white/90 backdrop-blur flex items-center justify-center opacity-0 group-hover:opacity-100 transition shadow-sm hover:scale-110">
+          <svg class="w-4 h-4 text-gray-400 hover:text-amber-500" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/></svg>
+        </button>
+        <a href="detail.html" class="block">
+          <div class="relative aspect-video bg-gradient-to-br from-purple-500 via-violet-500 to-fuchsia-500">
+            <div class="absolute inset-0 flex items-center justify-center">
+              <div class="w-20 h-20 rounded-full bg-white/10 backdrop-blur border border-white/20 flex items-center justify-center">
+                <svg class="w-10 h-10 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3zm5.91-3c-.49 0-.9.36-.98.85C16.52 14.2 14.47 16 12 16s-4.52-1.8-4.93-4.15c-.08-.49-.49-.85-.98-.85-.61 0-1.09.54-1 1.14.49 3 2.89 5.35 5.91 5.78V20c0 .55.45 1 1 1s1-.45 1-1v-2.08c3.02-.43 5.42-2.78 5.91-5.78.1-.6-.39-1.14-1-1.14z"/></svg>
+              </div>
+            </div>
+            <span class="absolute bottom-3 right-3 px-2 py-1 bg-black/70 text-white text-xs font-medium rounded-md backdrop-blur">58:30</span>
+            <span class="absolute top-3 left-3 px-2.5 py-1 bg-purple-600 text-white text-xs font-medium rounded-md">Podcast</span>
+          </div>
+          <div class="p-5">
+            <h3 class="font-semibold text-gray-900 line-clamp-2 mb-3 leading-snug">E135: 2024 AI 十大预测</h3>
+            <div class="flex items-center gap-2.5 mb-3">
+              <div class="w-7 h-7 rounded-full bg-gradient-to-br from-purple-500 to-fuchsia-500 ring-2 ring-sand-100"></div>
+              <span class="text-sm text-gray-600">硅谷101</span>
+            </div>
+            <div class="flex items-center gap-2">
+              <span class="px-2.5 py-1 bg-blue-50 text-blue-700 text-xs font-medium rounded-full">AI</span>
+              <span class="px-2.5 py-1 bg-emerald-50 text-emerald-700 text-xs font-medium rounded-full">Business</span>
+              <span class="text-xs text-gray-400">8h ago</span>
+            </div>
+          </div>
+        </a>
+      </article>
+
+      <!-- Card 4: X/Twitter -->
+      <article class="card bg-white rounded-2xl overflow-hidden border border-sand-200/60 group relative">
+        <button class="absolute top-3 right-3 z-10 w-9 h-9 rounded-full bg-white/90 backdrop-blur flex items-center justify-center opacity-0 group-hover:opacity-100 transition shadow-sm hover:scale-110">
+          <svg class="w-4 h-4 text-gray-400 hover:text-amber-500" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/></svg>
+        </button>
+        <a href="#" class="block p-5">
+          <div class="flex items-start gap-3">
+            <div class="w-11 h-11 rounded-full bg-gradient-to-br from-gray-700 to-gray-900 ring-2 ring-sand-100 flex-shrink-0"></div>
+            <div class="flex-1 min-w-0">
+              <div class="flex items-center gap-2 mb-1">
+                <span class="font-semibold text-gray-900">Ryo Lu</span>
+                <span class="text-gray-400 text-sm">@ryolu_</span>
+                <span class="px-2 py-0.5 bg-gray-900 text-white text-xs font-medium rounded-md ml-auto">X</span>
+              </div>
+              <p class="text-gray-700 text-[15px] leading-relaxed mb-4">Just shipped a new feature in Cursor that lets you write code with your voice. The future is here. 🎤</p>
+              <div class="rounded-xl overflow-hidden border border-sand-200 mb-4">
+                <img src="https://pbs.twimg.com/media/GdvX1e3aUAArzj5?format=jpg&name=medium" class="w-full aspect-video object-cover">
+              </div>
+              <div class="flex items-center gap-2">
+                <span class="px-2.5 py-1 bg-blue-50 text-blue-700 text-xs font-medium rounded-full">AI</span>
+                <span class="text-xs text-gray-400">6h ago</span>
+              </div>
+            </div>
+          </div>
+        </a>
+      </article>
+
+      <!-- Card 5 -->
+      <article class="card bg-white rounded-2xl overflow-hidden border border-sand-200/60 group relative">
+        <button class="absolute top-3 right-3 z-10 w-9 h-9 rounded-full bg-white/90 backdrop-blur flex items-center justify-center opacity-0 group-hover:opacity-100 transition shadow-sm hover:scale-110">
+          <svg class="w-4 h-4 text-gray-400 hover:text-amber-500" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/></svg>
+        </button>
+        <a href="detail.html" class="block">
+          <div class="relative aspect-video bg-gray-100">
+            <img src="https://img.youtube.com/vi/kCc8FmEb1nY/maxresdefault.jpg" class="w-full h-full object-cover">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent"></div>
+            <span class="absolute bottom-3 right-3 px-2 py-1 bg-black/70 text-white text-xs font-medium rounded-md backdrop-blur">2:24:57</span>
+            <span class="absolute top-3 left-3 px-2.5 py-1 bg-red-600 text-white text-xs font-medium rounded-md">YouTube</span>
+          </div>
+          <div class="p-5">
+            <h3 class="font-semibold text-gray-900 line-clamp-2 mb-3 leading-snug">Let's build GPT: from scratch, in code</h3>
+            <div class="flex items-center gap-2.5 mb-3">
+              <img src="https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj" class="w-7 h-7 rounded-full ring-2 ring-sand-100">
+              <span class="text-sm text-gray-600">Andrej Karpathy</span>
+            </div>
+            <div class="flex items-center gap-2">
+              <span class="px-2.5 py-1 bg-blue-50 text-blue-700 text-xs font-medium rounded-full">AI</span>
+              <span class="px-2.5 py-1 bg-indigo-50 text-indigo-700 text-xs font-medium rounded-full">Dev</span>
+              <span class="text-xs text-gray-400">1d ago</span>
+            </div>
+          </div>
+        </a>
+      </article>
+
+      <!-- Card 6 -->
+      <article class="card bg-white rounded-2xl overflow-hidden border border-sand-200/60 group relative">
+        <button class="absolute top-3 right-3 z-10 w-9 h-9 rounded-full bg-white/90 backdrop-blur flex items-center justify-center opacity-0 group-hover:opacity-100 transition shadow-sm hover:scale-110">
+          <svg class="w-4 h-4 text-gray-400 hover:text-amber-500" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/></svg>
+        </button>
+        <a href="detail.html" class="block">
+          <div class="relative aspect-video bg-gradient-to-br from-emerald-400 to-teal-600">
+            <div class="absolute inset-0 flex items-center justify-center">
+              <div class="w-16 h-16 rounded-2xl bg-white/20 backdrop-blur flex items-center justify-center">
+                <svg class="w-8 h-8 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+              </div>
+            </div>
+            <span class="absolute bottom-3 right-3 px-2 py-1 bg-black/70 text-white text-xs font-medium rounded-md backdrop-blur">35:00</span>
+            <span class="absolute top-3 left-3 px-2.5 py-1 bg-red-600 text-white text-xs font-medium rounded-md">YouTube</span>
+          </div>
+          <div class="p-5">
+            <h3 class="font-semibold text-gray-900 line-clamp-2 mb-3 leading-snug">How Notion Built a $10B Company</h3>
+            <div class="flex items-center gap-2.5 mb-3">
+              <div class="w-7 h-7 rounded-full bg-gradient-to-br from-emerald-400 to-teal-600 ring-2 ring-sand-100"></div>
+              <span class="text-sm text-gray-600">Lenny's Podcast</span>
+            </div>
+            <div class="flex items-center gap-2">
+              <span class="px-2.5 py-1 bg-emerald-50 text-emerald-700 text-xs font-medium rounded-full">Business</span>
+              <span class="text-xs text-gray-400">2d ago</span>
+            </div>
+          </div>
+        </a>
+      </article>
+
+    </div>
+  </main>
+
+  <footer class="border-t border-sand-200 mt-16 py-8">
+    <div class="max-w-6xl mx-auto px-6 text-center">
+      <p class="text-sm text-gray-400">Oasis — Find your oasis in the desert of information</p>
+    </div>
+  </footer>
+
+</body>
+</html>

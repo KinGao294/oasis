@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Content Detail - Oasis</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Plus Jakarta Sans', 'system-ui', 'sans-serif'],
+          },
+          colors: {
+            sand: { 50: '#fdfcfb', 100: '#f5f3f0', 200: '#e8e4de', 300: '#d4cdc3' },
+            forest: { 500: '#2d5a47', 600: '#234839', 700: '#1a3629' },
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body { background: linear-gradient(180deg, #fdfcfb 0%, #f5f3f0 100%); min-height: 100vh; }
+    .nav-link { position: relative; }
+    .nav-link.active::after { content: ''; position: absolute; bottom: -2px; left: 50%; transform: translateX(-50%); width: 20px; height: 2px; background: #2d5a47; border-radius: 1px; }
+    .timestamp { transition: all 0.15s; }
+    .timestamp:hover { background: #2d5a47; color: white; }
+  </style>
+</head>
+<body class="font-sans text-gray-800 antialiased">
+  
+  <!-- Header -->
+  <header class="sticky top-0 z-50 backdrop-blur-xl bg-sand-50/80 border-b border-sand-200/50">
+    <div class="max-w-6xl mx-auto px-6">
+      <div class="flex items-center justify-between h-16">
+        <a href="index.html" class="flex items-center gap-2.5">
+          <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-forest-500 to-forest-700 flex items-center justify-center">
+            <svg class="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>
+          </div>
+          <span class="text-lg font-semibold tracking-tight text-gray-900">Oasis</span>
+        </a>
+
+        <nav class="flex items-center gap-8">
+          <a href="index.html" class="nav-link text-sm font-medium text-gray-500 hover:text-gray-900 transition">Feed</a>
+          <a href="favorites.html" class="nav-link text-sm font-medium text-gray-500 hover:text-gray-900 transition">Saved</a>
+          <a href="sources.html" class="nav-link text-sm font-medium text-gray-500 hover:text-gray-900 transition">Sources</a>
+        </nav>
+        
+        <div class="w-56"></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="max-w-4xl mx-auto px-6 py-8">
+    
+    <!-- Back -->
+    <a href="index.html" class="inline-flex items-center gap-2 text-sm text-gray-500 hover:text-gray-900 mb-6 transition">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 19l-7-7 7-7"/></svg>
+      Back to Feed
+    </a>
+
+    <!-- Video Player -->
+    <div class="relative aspect-video bg-gray-900 rounded-2xl overflow-hidden mb-8 group">
+      <img src="https://img.youtube.com/vi/zjkBMFhNj_g/maxresdefault.jpg" class="w-full h-full object-cover">
+      <div class="absolute inset-0 bg-black/30 flex items-center justify-center">
+        <a href="https://youtube.com/watch?v=zjkBMFhNj_g" target="_blank" class="w-20 h-20 rounded-full bg-white/20 backdrop-blur border border-white/30 flex items-center justify-center hover:scale-110 transition">
+          <svg class="w-10 h-10 text-white ml-1" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+        </a>
+      </div>
+      <span class="absolute bottom-4 right-4 px-3 py-1.5 bg-black/70 text-white text-sm font-medium rounded-lg backdrop-blur">1:45:30</span>
+    </div>
+
+    <!-- Meta -->
+    <div class="mb-8">
+      <div class="flex items-center gap-2 mb-4">
+        <span class="px-3 py-1 bg-red-600 text-white text-xs font-medium rounded-md">YouTube</span>
+        <span class="px-3 py-1 bg-blue-50 text-blue-700 text-xs font-medium rounded-full">AI</span>
+      </div>
+      
+      <h1 class="text-3xl font-bold text-gray-900 mb-4 leading-tight">[1hr Talk] Intro to Large Language Models</h1>
+      
+      <div class="flex items-center gap-4">
+        <div class="flex items-center gap-3">
+          <img src="https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj" class="w-10 h-10 rounded-full ring-2 ring-sand-100">
+          <div>
+            <div class="font-semibold text-gray-900">Andrej Karpathy</div>
+            <div class="text-sm text-gray-400">2 hours ago</div>
+          </div>
+        </div>
+        <div class="flex-1"></div>
+        <button class="px-4 py-2 bg-white border border-sand-200 rounded-xl text-sm font-medium text-gray-700 hover:border-forest-500 hover:text-forest-600 transition flex items-center gap-2">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"/></svg>
+          Save
+        </button>
+        <a href="https://youtube.com/watch?v=zjkBMFhNj_g" target="_blank" class="px-4 py-2 bg-forest-600 text-white rounded-xl text-sm font-medium hover:bg-forest-700 transition flex items-center gap-2">
+          Open Original
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>
+        </a>
+      </div>
+    </div>
+
+    <!-- Transcript -->
+    <div class="bg-white rounded-2xl border border-sand-200/60 overflow-hidden">
+      <div class="px-6 py-4 border-b border-sand-100 flex items-center justify-between">
+        <h2 class="font-semibold text-gray-900">Transcript</h2>
+        <span class="text-sm text-gray-400">5,234 words</span>
+      </div>
+      
+      <div class="p-6 space-y-4 max-h-[600px] overflow-y-auto">
+        
+        <div class="flex gap-3 group">
+          <button class="timestamp flex-shrink-0 px-2 py-1 bg-sand-100 text-gray-500 text-xs font-mono rounded-md">00:00</button>
+          <p class="text-gray-700 leading-relaxed">Hi everyone, so this is a busy one hour talk that I'm giving to introduce large language models. So this is a general audience talk so I'm not going to assume that you know much about machine learning or artificial intelligence.</p>
+        </div>
+        
+        <div class="flex gap-3 group">
+          <button class="timestamp flex-shrink-0 px-2 py-1 bg-sand-100 text-gray-500 text-xs font-mono rounded-md">00:45</button>
+          <p class="text-gray-700 leading-relaxed">And what I want to do is just give you a sense of what large language models are, how they work, what they can do, and what some of the risks and opportunities are with respect to these models.</p>
+        </div>
+        
+        <div class="flex gap-3 group">
+          <button class="timestamp flex-shrink-0 px-2 py-1 bg-sand-100 text-gray-500 text-xs font-mono rounded-md">01:30</button>
+          <p class="text-gray-700 leading-relaxed">So let me start by telling you about the architecture of these language models. The most popular architecture today is called the Transformer and it was published in 2017 in a paper called "Attention is All You Need".</p>
+        </div>
+        
+        <div class="flex gap-3 group">
+          <button class="timestamp flex-shrink-0 px-2 py-1 bg-sand-100 text-gray-500 text-xs font-mono rounded-md">02:15</button>
+          <p class="text-gray-700 leading-relaxed">The Transformer is a neural network architecture that processes sequences of tokens. A token is roughly a word or a piece of a word. So when you give it text, it breaks it up into these tokens and then processes them.</p>
+        </div>
+        
+        <div class="flex gap-3 group">
+          <button class="timestamp flex-shrink-0 px-2 py-1 bg-sand-100 text-gray-500 text-xs font-mono rounded-md">03:00</button>
+          <p class="text-gray-700 leading-relaxed">What makes the Transformer special is the attention mechanism. Attention allows the model to look at all the tokens in the sequence and figure out which ones are important for predicting the next token.</p>
+        </div>
+        
+        <div class="flex gap-3 group">
+          <button class="timestamp flex-shrink-0 px-2 py-1 bg-sand-100 text-gray-500 text-xs font-mono rounded-md">03:45</button>
+          <p class="text-gray-700 leading-relaxed">So the training process is quite simple conceptually. We take a large corpus of text from the internet - books, websites, code, everything we can find - and we train the model to predict the next word.</p>
+        </div>
+        
+        <div class="flex gap-3 group">
+          <button class="timestamp flex-shrink-0 px-2 py-1 bg-sand-100 text-gray-500 text-xs font-mono rounded-md">04:30</button>
+          <p class="text-gray-700 leading-relaxed">This is called pre-training. And it turns out that if you do this at scale - with enough data and compute - the model learns an incredible amount about the world. It learns facts, it learns to reason, it learns to code.</p>
+        </div>
+
+        <div class="flex gap-3 group">
+          <button class="timestamp flex-shrink-0 px-2 py-1 bg-sand-100 text-gray-500 text-xs font-mono rounded-md">05:15</button>
+          <p class="text-gray-700 leading-relaxed">After pre-training, we do something called fine-tuning. This is where we teach the model to follow instructions and to be helpful, harmless, and honest. We use human feedback to guide this process.</p>
+        </div>
+
+        <div class="text-center py-4">
+          <span class="text-sm text-gray-400">... transcript continues ...</span>
+        </div>
+        
+      </div>
+    </div>
+
+  </main>
+
+  <footer class="border-t border-sand-200 mt-16 py-8">
+    <div class="max-w-6xl mx-auto px-6 text-center">
+      <p class="text-sm text-gray-400">Oasis — Find your oasis in the desert of information</p>
+    </div>
+  </footer>
+
+</body>
+</html>

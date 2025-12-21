@@ -1,0 +1,118 @@
+{
+  "last_updated": "2024-12-21T08:00:00Z",
+  "count": 8,
+  "items": [
+    {
+      "id": "yt_zjkBMFhNj_g",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": ["AI", "Dev"],
+      "title": "[1hr Talk] Intro to Large Language Models",
+      "url": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+      "thumbnail": "https://img.youtube.com/vi/zjkBMFhNj_g/maxresdefault.jpg",
+      "duration": 6330,
+      "published": "2024-12-21T06:00:00Z",
+      "hasTranscript": true,
+      "transcriptPreview": "Hi everyone, so this is a busy one hour talk that I'm giving to introduce large language models. So this is a general audience talk so I'm not going to assume that you know much about machine learning..."
+    },
+    {
+      "id": "yt_kCc8FmEb1nY",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": ["AI", "Dev"],
+      "title": "Let's build GPT: from scratch, in code, spelled out",
+      "url": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
+      "thumbnail": "https://img.youtube.com/vi/kCc8FmEb1nY/maxresdefault.jpg",
+      "duration": 8697,
+      "published": "2024-12-20T10:00:00Z",
+      "hasTranscript": true,
+      "transcriptPreview": "Hi everyone. So by now you have probably heard of ChatGPT. It has taken the world and the AI community by storm..."
+    },
+    {
+      "id": "bl_BV1example1",
+      "source": "影视飓风",
+      "sourceId": "ysjufeng",
+      "platform": "bilibili",
+      "domains": ["Creator", "Design"],
+      "title": "为什么我不建议你买这台相机",
+      "url": "https://www.bilibili.com/video/BV1example1",
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/example.jpg",
+      "duration": 1122,
+      "published": "2024-12-21T03:00:00Z",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_ep135",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "platform": "podcast",
+      "domains": ["AI", "Business", "Global"],
+      "title": "E135: 2024 AI 十大预测：AGI 会来吗？",
+      "url": "https://sv101.fireside.fm/135",
+      "thumbnail": "https://assets.fireside.fm/file/fireside-images/podcasts/images/guigu101.jpg",
+      "duration": 3510,
+      "published": "2024-12-20T08:00:00Z",
+      "hasTranscript": false,
+      "transcriptPreview": "2024年对于AI来说是关键的一年，我们邀请了多位业内专家来预测明年AI领域的十大趋势..."
+    },
+    {
+      "id": "x_1234567890",
+      "source": "Ryo Lu",
+      "sourceId": "ryolu",
+      "platform": "x",
+      "domains": ["AI", "Dev"],
+      "title": null,
+      "content": "Just shipped a new feature in Cursor that lets you write code with your voice. The future of coding is here. 🎤✨",
+      "url": "https://x.com/rylooo/status/1234567890",
+      "images": ["https://pbs.twimg.com/media/example.jpg"],
+      "published": "2024-12-21T02:00:00Z",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_example_lenny",
+      "source": "Lenny's Podcast",
+      "sourceId": "lennys",
+      "platform": "youtube",
+      "domains": ["Business", "Growth"],
+      "title": "How Notion Built a $10B Company | Ivan Zhao",
+      "url": "https://www.youtube.com/watch?v=example_lenny",
+      "thumbnail": "https://img.youtube.com/vi/example_lenny/maxresdefault.jpg",
+      "duration": 4200,
+      "published": "2024-12-19T15:00:00Z",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "bl_BV1example2",
+      "source": "老师好我是何同学",
+      "sourceId": "hetongxue",
+      "platform": "bilibili",
+      "domains": ["Tech", "Creator"],
+      "title": "我做了一个能让时间倒流的相机",
+      "url": "https://www.bilibili.com/video/BV1example2",
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/example2.jpg",
+      "duration": 845,
+      "published": "2024-12-18T10:00:00Z",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_9876543210",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "platform": "x",
+      "domains": ["AI", "Dev"],
+      "title": null,
+      "content": "The new Claude 3.5 Sonnet is absolutely incredible for coding. Just used it to refactor our entire authentication system in an afternoon. The speed of iteration is unreal.",
+      "url": "https://x.com/benln/status/9876543210",
+      "published": "2024-12-20T18:00:00Z",
+      "hasTranscript": false
+    }
+  ]
+}
+

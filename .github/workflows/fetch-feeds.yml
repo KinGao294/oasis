@@ -1,0 +1,75 @@
+name: Fetch Feeds
+
+on:
+  # 每天 UTC 0:00（北京时间 8:00）自动运行
+  schedule:
+    - cron: '0 0 * * *'
+  
+  # 支持手动触发
+  workflow_dispatch:
+    inputs:
+      fetch_transcripts:
+        description: '是否抓取字幕'
+        required: false
+        default: 'true'
+        type: boolean
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: |
+          cd scripts
+          pip install -r requirements.txt
+
+      - name: Fetch all feeds
+        run: |
+          cd scripts
+          python fetch_all.py
+        env:
+          # 如果需要 Twitter API，取消下面的注释并在 Secrets 中配置
+          # TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+
+      - name: Fetch transcripts
+        if: ${{ github.event.inputs.fetch_transcripts != 'false' }}
+        run: |
+          cd scripts
+          python transcript.py
+        continue-on-error: true  # 字幕抓取失败不阻塞整个流程
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet data/ || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+          git commit -m "🔄 Auto update feeds - $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git push
+
+      - name: Summary
+        run: |
+          echo "### 📊 Fetch Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Time**: $(date -u '+%Y-%m-%d %H:%M:%S') UTC" >> $GITHUB_STEP_SUMMARY
+          echo "- **Items**: $(cat data/feeds.json | python -c 'import json,sys; print(json.load(sys.stdin)["count"])')" >> $GITHUB_STEP_SUMMARY
+          echo "- **Transcripts**: $(ls -1 data/transcripts/*.json 2>/dev/null | wc -l)" >> $GITHUB_STEP_SUMMARY

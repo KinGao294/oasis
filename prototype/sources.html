@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sources - Oasis</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Plus Jakarta Sans', 'system-ui', 'sans-serif'],
+          },
+          colors: {
+            sand: { 50: '#fdfcfb', 100: '#f5f3f0', 200: '#e8e4de', 300: '#d4cdc3' },
+            forest: { 500: '#2d5a47', 600: '#234839', 700: '#1a3629' },
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body { background: linear-gradient(180deg, #fdfcfb 0%, #f5f3f0 100%); min-height: 100vh; }
+    .card { transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+    .card:hover { transform: translateY(-2px); box-shadow: 0 12px 24px -8px rgba(0,0,0,0.08); }
+    .nav-link { position: relative; }
+    .nav-link.active::after { content: ''; position: absolute; bottom: -2px; left: 50%; transform: translateX(-50%); width: 20px; height: 2px; background: #2d5a47; border-radius: 1px; }
+  </style>
+</head>
+<body class="font-sans text-gray-800 antialiased">
+  
+  <!-- Header -->
+  <header class="sticky top-0 z-50 backdrop-blur-xl bg-sand-50/80 border-b border-sand-200/50">
+    <div class="max-w-6xl mx-auto px-6">
+      <div class="flex items-center justify-between h-16">
+        <a href="index.html" class="flex items-center gap-2.5">
+          <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-forest-500 to-forest-700 flex items-center justify-center">
+            <svg class="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>
+          </div>
+          <span class="text-lg font-semibold tracking-tight text-gray-900">Oasis</span>
+        </a>
+
+        <nav class="flex items-center gap-8">
+          <a href="index.html" class="nav-link text-sm font-medium text-gray-500 hover:text-gray-900 transition">Feed</a>
+          <a href="favorites.html" class="nav-link text-sm font-medium text-gray-500 hover:text-gray-900 transition">Saved</a>
+          <a href="sources.html" class="nav-link active text-sm font-medium text-forest-600">Sources</a>
+        </nav>
+        
+        <div class="flex items-center gap-3">
+          <div class="relative">
+            <input type="text" placeholder="Search sources..." class="w-56 px-4 py-2 pl-9 bg-white/60 border border-sand-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-forest-500/20 focus:border-forest-500 transition">
+            <svg class="absolute left-3 top-2.5 w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="max-w-6xl mx-auto px-6 py-8">
+    
+    <!-- Header -->
+    <div class="flex items-end justify-between mb-8">
+      <div>
+        <h1 class="text-3xl font-bold text-gray-900 mb-2">Sources</h1>
+        <p class="text-gray-500">Curate your information diet</p>
+      </div>
+      <button class="px-5 py-2.5 bg-forest-600 text-white rounded-xl font-medium hover:bg-forest-700 transition flex items-center gap-2 shadow-sm">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"/></svg>
+        Add Source
+      </button>
+    </div>
+
+    <!-- Stats -->
+    <div class="grid grid-cols-4 gap-4 mb-8">
+      <div class="bg-white rounded-xl p-5 border border-sand-200/60">
+        <div class="text-3xl font-bold text-gray-900 mb-1">24</div>
+        <div class="text-sm text-gray-500">Total Sources</div>
+      </div>
+      <div class="bg-white rounded-xl p-5 border border-sand-200/60">
+        <div class="text-3xl font-bold text-red-500 mb-1">8</div>
+        <div class="text-sm text-gray-500">YouTube</div>
+      </div>
+      <div class="bg-white rounded-xl p-5 border border-sand-200/60">
+        <div class="text-3xl font-bold text-[#00a1d6] mb-1">10</div>
+        <div class="text-sm text-gray-500">Bilibili</div>
+      </div>
+      <div class="bg-white rounded-xl p-5 border border-sand-200/60">
+        <div class="text-3xl font-bold text-purple-500 mb-1">6</div>
+        <div class="text-sm text-gray-500">Podcast & X</div>
+      </div>
+    </div>
+
+    <!-- Filter -->
+    <div class="flex items-center gap-2 mb-6">
+      <button class="px-4 py-2 rounded-full text-sm font-medium bg-forest-600 text-white shadow-sm">All</button>
+      <button class="px-4 py-2 rounded-full text-sm font-medium bg-white/70 text-gray-600 border border-sand-200 hover:border-forest-500 transition">YouTube</button>
+      <button class="px-4 py-2 rounded-full text-sm font-medium bg-white/70 text-gray-600 border border-sand-200 hover:border-forest-500 transition">Bilibili</button>
+      <button class="px-4 py-2 rounded-full text-sm font-medium bg-white/70 text-gray-600 border border-sand-200 hover:border-forest-500 transition">X</button>
+      <button class="px-4 py-2 rounded-full text-sm font-medium bg-white/70 text-gray-600 border border-sand-200 hover:border-forest-500 transition">Podcast</button>
+    </div>
+
+    <!-- Sources Grid -->
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+      
+      <!-- Source 1 -->
+      <div class="card bg-white rounded-xl p-5 border border-sand-200/60 group">
+        <div class="flex items-start justify-between mb-4">
+          <div class="flex items-center gap-3">
+            <img src="https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj" class="w-12 h-12 rounded-full ring-2 ring-sand-100">
+            <div>
+              <h3 class="font-semibold text-gray-900">Andrej Karpathy</h3>
+              <p class="text-sm text-gray-400">@karpathy</p>
+            </div>
+          </div>
+          <span class="px-2.5 py-1 bg-red-50 text-red-600 text-xs font-medium rounded-md">YouTube</span>
+        </div>
+        <div class="flex flex-wrap gap-1.5 mb-4">
+          <span class="px-2.5 py-1 bg-blue-50 text-blue-700 text-xs font-medium rounded-full">AI</span>
+          <span class="px-2.5 py-1 bg-indigo-50 text-indigo-700 text-xs font-medium rounded-full">Dev</span>
+        </div>
+        <div class="flex items-center justify-between pt-4 border-t border-sand-100">
+          <span class="text-xs text-gray-400">Updated 2h ago</span>
+          <div class="flex items-center gap-1 opacity-0 group-hover:opacity-100 transition">
+            <button class="p-2 text-gray-400 hover:text-gray-600 hover:bg-sand-100 rounded-lg transition" title="Edit">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/></svg>
+            </button>
+            <button class="p-2 text-gray-400 hover:text-red-500 hover:bg-red-50 rounded-lg transition" title="Remove">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/></svg>
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Source 2 -->
+      <div class="card bg-white rounded-xl p-5 border border-sand-200/60 group">
+        <div class="flex items-start justify-between mb-4">
+          <div class="flex items-center gap-3">
+            <div class="w-12 h-12 rounded-full bg-gradient-to-br from-cyan-400 to-blue-600 ring-2 ring-sand-100 flex items-center justify-center text-white font-bold">影</div>
+            <div>
+              <h3 class="font-semibold text-gray-900">影视飓风</h3>
+              <p class="text-sm text-gray-400">UID: 946974</p>
+            </div>
+          </div>
+          <span class="px-2.5 py-1 bg-[#00a1d6]/10 text-[#00a1d6] text-xs font-medium rounded-md">Bilibili</span>
+        </div>
+        <div class="flex flex-wrap gap-1.5 mb-4">
+          <span class="px-2.5 py-1 bg-pink-50 text-pink-700 text-xs font-medium rounded-full">Creator</span>
+          <span class="px-2.5 py-1 bg-cyan-50 text-cyan-700 text-xs font-medium rounded-full">Design</span>
+        </div>
+        <div class="flex items-center justify-between pt-4 border-t border-sand-100">
+          <span class="text-xs text-gray-400">Updated 5h ago</span>
+          <div class="flex items-center gap-1 opacity-0 group-hover:opacity-100 transition">
+            <button class="p-2 text-gray-400 hover:text-gray-600 hover:bg-sand-100 rounded-lg transition"><svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/></svg></button>
+            <button class="p-2 text-gray-400 hover:text-red-500 hover:bg-red-50 rounded-lg transition"><svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/></svg></button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Source 3 -->
+      <div class="card bg-white rounded-xl p-5 border border-sand-200/60 group">
+        <div class="flex items-start justify-between mb-4">
+          <div class="flex items-center gap-3">
+            <div class="w-12 h-12 rounded-full bg-gradient-to-br from-purple-500 to-fuchsia-500 ring-2 ring-sand-100 flex items-center justify-center text-white font-bold">硅</div>
+            <div>
+              <h3 class="font-semibold text-gray-900">硅谷101</h3>
+              <p class="text-sm text-gray-400">Podcast</p>
+            </div>
+          </div>
+          <span class="px-2.5 py-1 bg-purple-50 text-purple-600 text-xs font-medium rounded-md">Podcast</span>
+        </div>
+        <div class="flex flex-wrap gap-1.5 mb-4">
+          <span class="px-2.5 py-1 bg-blue-50 text-blue-700 text-xs font-medium rounded-full">AI</span>
+          <span class="px-2.5 py-1 bg-emerald-50 text-emerald-700 text-xs font-medium rounded-full">Business</span>
+          <span class="px-2.5 py-1 bg-amber-50 text-amber-700 text-xs font-medium rounded-full">Global</span>
+        </div>
+        <div class="flex items-center justify-between pt-4 border-t border-sand-100">
+          <span class="text-xs text-gray-400">Updated 8h ago</span>
+          <div class="flex items-center gap-1 opacity-0 group-hover:opacity-100 transition">
+            <button class="p-2 text-gray-400 hover:text-gray-600 hover:bg-sand-100 rounded-lg transition"><svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/></svg></button>
+            <button class="p-2 text-gray-400 hover:text-red-500 hover:bg-red-50 rounded-lg transition"><svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/></svg></button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Source 4 -->
+      <div class="card bg-white rounded-xl p-5 border border-sand-200/60 group">
+        <div class="flex items-start justify-between mb-4">
+          <div class="flex items-center gap-3">
+            <div class="w-12 h-12 rounded-full bg-gradient-to-br from-gray-700 to-gray-900 ring-2 ring-sand-100 flex items-center justify-center text-white font-bold">R</div>
+            <div>
+              <h3 class="font-semibold text-gray-900">Ryo Lu</h3>
+              <p class="text-sm text-gray-400">@ryolu_</p>
+            </div>
+          </div>
+          <span class="px-2.5 py-1 bg-gray-900 text-white text-xs font-medium rounded-md">X</span>
+        </div>
+        <div class="flex flex-wrap gap-1.5 mb-4">
+          <span class="px-2.5 py-1 bg-blue-50 text-blue-700 text-xs font-medium rounded-full">AI</span>
+          <span class="px-2.5 py-1 bg-indigo-50 text-indigo-700 text-xs font-medium rounded-full">Dev</span>
+        </div>
+        <div class="flex items-center justify-between pt-4 border-t border-sand-100">
+          <span class="text-xs text-gray-400">Updated 6h ago</span>
+          <div class="flex items-center gap-1 opacity-0 group-hover:opacity-100 transition">
+            <button class="p-2 text-gray-400 hover:text-gray-600 hover:bg-sand-100 rounded-lg transition"><svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/></svg></button>
+            <button class="p-2 text-gray-400 hover:text-red-500 hover:bg-red-50 rounded-lg transition"><svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/></svg></button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Source 5 -->
+      <div class="card bg-white rounded-xl p-5 border border-sand-200/60 group">
+        <div class="flex items-start justify-between mb-4">
+          <div class="flex items-center gap-3">
+            <div class="w-12 h-12 rounded-full bg-gradient-to-br from-emerald-400 to-teal-600 ring-2 ring-sand-100 flex items-center justify-center text-white font-bold">L</div>
+            <div>
+              <h3 class="font-semibold text-gray-900">Lenny's Podcast</h3>
+              <p class="text-sm text-gray-400">@lennysan</p>
+            </div>
+          </div>
+          <span class="px-2.5 py-1 bg-red-50 text-red-600 text-xs font-medium rounded-md">YouTube</span>
+        </div>
+        <div class="flex flex-wrap gap-1.5 mb-4">
+          <span class="px-2.5 py-1 bg-emerald-50 text-emerald-700 text-xs font-medium rounded-full">Business</span>
+          <span class="px-2.5 py-1 bg-rose-50 text-rose-700 text-xs font-medium rounded-full">Growth</span>
+        </div>
+        <div class="flex items-center justify-between pt-4 border-t border-sand-100">
+          <span class="text-xs text-gray-400">Updated 1d ago</span>
+          <div class="flex items-center gap-1 opacity-0 group-hover:opacity-100 transition">
+            <button class="p-2 text-gray-400 hover:text-gray-600 hover:bg-sand-100 rounded-lg transition"><svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/></svg></button>
+            <button class="p-2 text-gray-400 hover:text-red-500 hover:bg-red-50 rounded-lg transition"><svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/></svg></button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Add New -->
+      <div class="border-2 border-dashed border-sand-300 rounded-xl p-5 flex flex-col items-center justify-center min-h-[200px] hover:border-forest-400 hover:bg-forest-50/30 transition cursor-pointer group">
+        <div class="w-12 h-12 rounded-full bg-sand-100 group-hover:bg-forest-100 flex items-center justify-center mb-3 transition">
+          <svg class="w-5 h-5 text-gray-400 group-hover:text-forest-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 4v16m8-8H4"/></svg>
+        </div>
+        <span class="text-sm text-gray-500 group-hover:text-forest-600 font-medium">Add New Source</span>
+        <span class="text-xs text-gray-400 mt-1">YouTube, Bilibili, X, Podcast</span>
+      </div>
+
+    </div>
+  </main>
+
+  <footer class="border-t border-sand-200 mt-16 py-8">
+    <div class="max-w-6xl mx-auto px-6 text-center">
+      <p class="text-sm text-gray-400">Oasis — Find your oasis in the desert of information</p>
+    </div>
+  </footer>
+
+</body>
+</html>
