@@ -1,7 +1,24 @@
 {
-  "last_updated": "2025-12-21T00:55:31.275052Z",
+  "last_updated": "2025-12-22T01:22:36.579470Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_Wy0HD9Q8kl8",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Brian Armstrong on why action beats thinking",
+      "url": "https://www.youtube.com/watch?v=Wy0HD9Q8kl8",
+      "thumbnail": "https://img.youtube.com/vi/Wy0HD9Q8kl8/maxresdefault.jpg",
+      "published": "2025-12-21T20:00:33+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_pDC8mIbjRgM",
       "source": "a16z",
@@ -16,8 +33,8 @@
       "url": "https://www.youtube.com/watch?v=pDC8mIbjRgM",
       "thumbnail": "https://img.youtube.com/vi/pDC8mIbjRgM/maxresdefault.jpg",
       "published": "2025-12-19T14:01:38+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "2018 2019 in fintech was late spring. You get into 2020 and COVID and that was utter insanity of a of a story. >> Like 25% of all venture dollars in that period went into fintech which is >> Wow. 25%...."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_4bJOe2tuLb8",
@@ -33,8 +50,8 @@
       "url": "https://www.youtube.com/watch?v=4bJOe2tuLb8",
       "thumbnail": "https://img.youtube.com/vi/4bJOe2tuLb8/maxresdefault.jpg",
       "published": "2025-12-18T00:25:16+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "all are from dust and all turn to dust again. >> We can create infinite universes. >> This is like the fuel that we need. There's never been a technical project of this complexity and this scale ever...."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_tR6g3zrk7eM",
@@ -50,8 +67,8 @@
       "url": "https://www.youtube.com/watch?v=tR6g3zrk7eM",
       "thumbnail": "https://img.youtube.com/vi/tR6g3zrk7eM/maxresdefault.jpg",
       "published": "2025-12-17T15:45:44+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "If you don't enforce crime, what you end up is with lost generations. >> Yeah. If I woke up in 10 years and all we had done was put a lot of people in prison. It's actually double bad. >> Yeah. Well, ..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_pBlIgs6w7Ss",
@@ -67,8 +84,8 @@
       "url": "https://www.youtube.com/watch?v=pBlIgs6w7Ss",
       "thumbnail": "https://img.youtube.com/vi/pBlIgs6w7Ss/maxresdefault.jpg",
       "published": "2025-12-17T15:01:40+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "I'm excited today to welcome Greg Camrad who is the president of the Ark Prize. >> That's right. >> Thanks for coming here at Europe's 2025 in beautiful San Diego. >> Thank you, Diana. >> So, what doe..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_5094ed82_ac50_4991_b317_f340493d4d1f",
@@ -102,8 +119,8 @@
       "url": "https://www.youtube.com/watch?v=DPBtd57p5Mg",
       "thumbnail": "https://img.youtube.com/vi/DPBtd57p5Mg/maxresdefault.jpg",
       "published": "2025-12-16T18:13:34+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "reflecting all the angry skies. Soft and fragile body left here on the wet. Still float fresh from the boat. Arms and neck plus regrets. Arms and neck plus breathing. No more flow under the skin becom..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_gA0nwBndJ6w",
@@ -119,8 +136,8 @@
       "url": "https://www.youtube.com/watch?v=gA0nwBndJ6w",
       "thumbnail": "https://img.youtube.com/vi/gA0nwBndJ6w/maxresdefault.jpg",
       "published": "2025-12-16T15:01:28+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "If you're an individual contributor and you're doing [music] work, it's very nice to know that your manager is going through more pain than you. If you're a senior leader or an executive, you're 5 day..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_JUAj9o6xCwg",
@@ -136,8 +153,8 @@
       "url": "https://www.youtube.com/watch?v=JUAj9o6xCwg",
       "thumbnail": "https://img.youtube.com/vi/JUAj9o6xCwg/maxresdefault.jpg",
       "published": "2025-12-15T16:47:22+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "My big idea for 2026 is the renaissance [music] of the American factory. I think next year we'll see companies approach challenges from energy to mining to construction [music] to manufacturing with a..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_f9859b6e_bcc3_4141_a783_4bd063a68768",
@@ -172,8 +189,8 @@
       "url": "https://www.youtube.com/watch?v=oLAJFeQt3Z0",
       "thumbnail": "https://img.youtube.com/vi/oLAJFeQt3Z0/maxresdefault.jpg",
       "published": "2025-12-13T17:01:26+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "be so good they can't ignore you. That remains the best advice I think which is just like quality shows. >> The thing that you want from your venture firm is power. You need the ability to be able to ..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt__bBRVNkAfkQ",
@@ -189,8 +206,8 @@
       "url": "https://www.youtube.com/watch?v=_bBRVNkAfkQ",
       "thumbnail": "https://img.youtube.com/vi/_bBRVNkAfkQ/maxresdefault.jpg",
       "published": "2025-12-12T20:01:08+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "The following is a conversation with Irving Finkele who is a scholar of ancient languages curator at the British Museum for over 45 years and is a much admired and respected world expert on kuneaoifor..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_RH9vJNxFKDA",
@@ -206,8 +223,8 @@
       "url": "https://www.youtube.com/watch?v=RH9vJNxFKDA",
       "thumbnail": "https://img.youtube.com/vi/RH9vJNxFKDA/maxresdefault.jpg",
       "published": "2025-12-12T17:16:08+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Chat GPT has got 8 or 900 million weekly active users. And if you're the kind of person who is using this for hours every day, ask yourself why five times more people look at it, get it, know what it ..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_8JXwrVQQ4jw",
@@ -222,8 +239,8 @@
       "url": "https://www.youtube.com/watch?v=8JXwrVQQ4jw",
       "thumbnail": "https://img.youtube.com/vi/8JXwrVQQ4jw/maxresdefault.jpg",
       "published": "2025-12-11T21:33:02+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "[Music] 10 years ago, AI could not tell the difference between dogs and cats. But we believe deep learning could go very far, that it could actually be a big triumph for humanity. So, we headed off on..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_34b7da12_98ee_45e1_8ca0_0674278dc1da",
@@ -258,8 +275,8 @@
       "url": "https://www.youtube.com/watch?v=MT4l_XrrRNc",
       "thumbnail": "https://img.youtube.com/vi/MT4l_XrrRNc/maxresdefault.jpg",
       "published": "2025-12-10T15:57:28+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Brian Johnson wants to break the chains of biology. I want to break the chains of time. We can always raise another round or do another trade, but you can't raise another decade. >> You're running a m..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_5WN8bfG06Hk",
@@ -275,8 +292,8 @@
       "url": "https://www.youtube.com/watch?v=5WN8bfG06Hk",
       "thumbnail": "https://img.youtube.com/vi/5WN8bfG06Hk/maxresdefault.jpg",
       "published": "2025-12-10T15:00:19+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "I'm here today with James Hawkins, CEO and founder of Post Hog from the YC Winter20 batch. James is here hot off the news of raising a 75 million series Z round of funding at a $ 1.4 billion valuation..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_wZ4DT20OHXE",
@@ -292,25 +309,8 @@
       "url": "https://www.youtube.com/watch?v=wZ4DT20OHXE",
       "thumbnail": "https://img.youtube.com/vi/wZ4DT20OHXE/maxresdefault.jpg",
       "published": "2025-12-08T15:05:01+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "I think AI is the next evolution of humanity. I think it takes us to a new level. Allows us to collaborate and understand the world in much deeper ways. >> Naveen Ralph is here expert in AI. >> Naveen..."
-    },
-    {
-      "id": "yt_W0u0J99wTgw",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Ben Horowitz on a Founding Team",
-      "url": "https://www.youtube.com/watch?v=W0u0J99wTgw",
-      "thumbnail": "https://img.youtube.com/vi/W0u0J99wTgw/maxresdefault.jpg",
-      "published": "2025-12-06T15:00:59+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "An ideal founding team is usually two people and the two people are of two different types. So one you need an inventor and it's the inventor's job to build the product that's 10 times better than any..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_4jBcK0cYass",
@@ -325,8 +325,8 @@
       "url": "https://www.youtube.com/watch?v=4jBcK0cYass",
       "thumbnail": "https://img.youtube.com/vi/4jBcK0cYass/maxresdefault.jpg",
       "published": "2025-12-05T19:07:27+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Hey Rocky, great to have you here. >> Hey, so can you tell me what's new with voice? >> Absolutely. Voice is now built right into our chat, so you get a live transcript as we talk. Plus, I can show yo..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_JLW83-yNuBo",
@@ -342,8 +342,8 @@
       "url": "https://www.youtube.com/watch?v=JLW83-yNuBo",
       "thumbnail": "https://img.youtube.com/vi/JLW83-yNuBo/maxresdefault.jpg",
       "published": "2025-12-05T17:12:55+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "A lot of great startup ideas are sort [music] of in this gray area of like the law is not totally clear. It's a little bit murky whether it's legal or [clears throat] illegal. Even Open AI is like tha..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_WsGVXiWzTpI",
@@ -358,8 +358,8 @@
       "url": "https://www.youtube.com/watch?v=WsGVXiWzTpI",
       "thumbnail": "https://img.youtube.com/vi/WsGVXiWzTpI/maxresdefault.jpg",
       "published": "2025-12-04T20:28:02+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Hi everyone, welcome back to another build hour. I'm Michaela on the startup marketing team and I'm here today with two members of our solution architecture team. Emry live in the studio and Brian joi..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_z8RRfZnwsGg",
@@ -374,8 +374,8 @@
       "url": "https://www.youtube.com/watch?v=z8RRfZnwsGg",
       "thumbnail": "https://img.youtube.com/vi/z8RRfZnwsGg/maxresdefault.jpg",
       "published": "2025-12-03T16:29:22+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Algorithms are hard to visualize and for me it's literally impossible. I have affantasia which means that I can't form mental images at all. But today I'm going to walk you through how I use codeex op..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_18L5HOYTQAw",
@@ -391,8 +391,8 @@
       "url": "https://www.youtube.com/watch?v=18L5HOYTQAw",
       "thumbnail": "https://img.youtube.com/vi/18L5HOYTQAw/maxresdefault.jpg",
       "published": "2025-12-03T16:15:40+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "This is warrior. Pure melee, heavy armor, two-handed weapons. [music] This is mage. Pure magic, destruction spells, glass cannon. And this is thief. Daggers, lockpicking, sneaking. I trained three AIs..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_t8co94HS6tY",
@@ -408,8 +408,8 @@
       "url": "https://www.youtube.com/watch?v=t8co94HS6tY",
       "thumbnail": "https://img.youtube.com/vi/t8co94HS6tY/maxresdefault.jpg",
       "published": "2025-12-03T15:01:50+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "there is a point that you get to a year maybe two years in where from a rational standpoint you probably should quit but for whatever reason um those successful ones don't and so that is the number on..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_GXAAzKX6oaQ",
@@ -424,8 +424,8 @@
       "url": "https://www.youtube.com/watch?v=GXAAzKX6oaQ",
       "thumbnail": "https://img.youtube.com/vi/GXAAzKX6oaQ/maxresdefault.jpg",
       "published": "2025-12-02T18:00:27+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Hello, I'm Andrew Maine and this is the OpenAI podcast. Today our guests are Christina Kim who's a research lead working on post training at OpenAI and Lentia Ramen who's a product manager focused on ..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_Qp0rCU49lMs",
@@ -441,8 +441,8 @@
       "url": "https://www.youtube.com/watch?v=Qp0rCU49lMs",
       "thumbnail": "https://img.youtube.com/vi/Qp0rCU49lMs/maxresdefault.jpg",
       "published": "2025-11-30T19:30:21+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "- The following is a conversation with\nMichael Levin, his second time on the podcast. He is one of the most\nfascinating and brilliant biologists and scientists I've\never had the pleasure of speaking w..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_Z4L4ZqL1xqQ",
@@ -458,8 +458,8 @@
       "url": "https://www.youtube.com/watch?v=Z4L4ZqL1xqQ",
       "thumbnail": "https://img.youtube.com/vi/Z4L4ZqL1xqQ/maxresdefault.jpg",
       "published": "2025-11-28T15:01:09+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "I think increasingly we're finding ourselves betting on people [music] who are just great at building products and kind of trusting that maybe there's an opportunity that we can't [music] see that thi..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_414ec0c8_a146_4b74_8c1f_b8ab68891094",
@@ -494,8 +494,8 @@
       "url": "https://www.youtube.com/watch?v=eiT9wMgesjI",
       "thumbnail": "https://img.youtube.com/vi/eiT9wMgesjI/maxresdefault.jpg",
       "published": "2025-11-25T21:35:40+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "If something is really hard on the technical side, I mean, I think that's an even better idea, like nobody else is going to try. If it's hard, like the bar is so high, nobody try and nobody does it. I..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_VtDBvmxiXnA",
@@ -511,8 +511,8 @@
       "url": "https://www.youtube.com/watch?v=VtDBvmxiXnA",
       "thumbnail": "https://img.youtube.com/vi/VtDBvmxiXnA/maxresdefault.jpg",
       "published": "2025-11-24T20:08:29+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "You can go almost anywhere and find some painoint, some problem that could be solved with software and especially with AI that frankly just isn't being solved. If you find that thing and solve it, you..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_0luMwmnvRuQ",
@@ -527,8 +527,8 @@
       "url": "https://www.youtube.com/watch?v=0luMwmnvRuQ",
       "thumbnail": "https://img.youtube.com/vi/0luMwmnvRuQ/maxresdefault.jpg",
       "published": "2025-11-21T01:43:32+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "When we announced that we would have this pilot going, then we had more than twice the requests to join, then we actually had seats. [music] We've [music] been partners with OpenAI for about a year. U..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_0sNOaD9xT_4",
@@ -543,8 +543,8 @@
       "url": "https://www.youtube.com/watch?v=0sNOaD9xT_4",
       "thumbnail": "https://img.youtube.com/vi/0sNOaD9xT_4/maxresdefault.jpg",
       "published": "2025-11-20T17:00:01+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Andrew Mayne: Hello, I'm Andrew Mayne and this is the OpenAI Podcast. Andrew Mayne: Today my guests are Kevin Weil, head of OpenAI for Science, and Alex Lupsasca, who is an OpenAI research scientist a..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_8d3c99cb_bb35_48c5_afae_fdcfcf6e5657",
@@ -579,9 +579,8 @@
       "url": "https://www.youtube.com/watch?v=RynySryqM_0",
       "thumbnail": "https://img.youtube.com/vi/RynySryqM_0/maxresdefault.jpg",
       "published": "2025-11-20T15:00:53+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Today I'm excited to welcome Rio Lou. He's the head of design at Cursor, the leading AI coding tool used by more than a million people worldwide. Before that, he was a founding designer at Notion and ...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_m_CFCyc2Shs",
@@ -597,9 +596,8 @@
       "url": "https://www.youtube.com/watch?v=m_CFCyc2Shs",
       "thumbnail": "https://img.youtube.com/vi/m_CFCyc2Shs/maxresdefault.jpg",
       "published": "2025-11-17T18:27:43+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "- The following is a conversation\nwith David Kirtley, a nuclear engineer, expert on nuclear\nfusion, and the CEO of Helion Energy, a company working\non building nuclear fusion reactors and have made in...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_OUJznQbHkI4",
@@ -615,9 +613,8 @@
       "url": "https://www.youtube.com/watch?v=OUJznQbHkI4",
       "thumbnail": "https://img.youtube.com/vi/OUJznQbHkI4/maxresdefault.jpg",
       "published": "2025-11-16T18:36:06+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "My name is Rishi Chadri. I'm the founder and CEO of Castle AI. Castle builds voice AI agents for large banks and mortgage lenders to automate phone calls. Things are going pretty well and we actually ...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_3e9356b8_a509_466d_ba16_e3bf10e798ae",
@@ -652,9 +649,8 @@
       "url": "https://www.youtube.com/watch?v=KTmxaMdUbHA",
       "thumbnail": "https://img.youtube.com/vi/KTmxaMdUbHA/maxresdefault.jpg",
       "published": "2025-11-14T15:00:47+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Logistics is a very scaled driven industry and so the bigger you get the cheaper you get. Our take is that we can make the price of shipping anything by ocean container shipping between 8 and 10% chea...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_LXwGSHZXbKs",
@@ -669,9 +665,8 @@
       "url": "https://www.youtube.com/watch?v=LXwGSHZXbKs",
       "thumbnail": "https://img.youtube.com/vi/LXwGSHZXbKs/maxresdefault.jpg",
       "published": "2025-11-14T06:00:30+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "with OpenAI, you know, lots of people are already using it uh in the private world. Uh so I I consider this like you start playing with it, then you start working with it and from there you start inno...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_6TXXMTYQtHk",
@@ -686,9 +681,8 @@
       "url": "https://www.youtube.com/watch?v=6TXXMTYQtHk",
       "thumbnail": "https://img.youtube.com/vi/6TXXMTYQtHk/maxresdefault.jpg",
       "published": "2025-11-14T05:05:00+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "At Notion, our mission is to help people build beautiful tools for their life's work. What AI has done is almost given us a different gear, new electricity to make it even simpler. It's a really fun s...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_ESObIvXrKZI",
@@ -739,9 +733,8 @@
       "url": "https://www.youtube.com/watch?v=o3gbXDjNWyI",
       "thumbnail": "https://img.youtube.com/vi/o3gbXDjNWyI/maxresdefault.jpg",
       "published": "2025-10-31T20:43:57+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "- You said that Red Dead Redemption 2, in\nyour opinion, is the best thing you've ever done. I think there's a strong case to be\nmade that it's the greatest game of all time. What are the elements that...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_80d7c07d_2fae_48a0_86e4_1bd2294f88e7",
@@ -776,9 +769,8 @@
       "url": "https://www.youtube.com/watch?v=eoo6_lynwn8",
       "thumbnail": "https://img.youtube.com/vi/eoo6_lynwn8/maxresdefault.jpg",
       "published": "2025-10-22T09:00:56+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "How many H100 GPUs can one of these reactors power? >> 20,000 CPUs. around 20,000 H100 GPUs per reactor, a data centers worth of compute from a machine you can move on a",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_-F06-h8nnDg",
@@ -794,9 +786,8 @@
       "url": "https://www.youtube.com/watch?v=-F06-h8nnDg",
       "thumbnail": "https://img.youtube.com/vi/-F06-h8nnDg/maxresdefault.jpg",
       "published": "2025-10-21T08:40:15+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "We have designed our reactors in a way where when you cut the power, the pumps, all the pumps stop spinning and then all the fluids will just drain out of the onion core and into the dump tanks at the...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_wANPRZejSfg",
@@ -812,9 +803,8 @@
       "url": "https://www.youtube.com/watch?v=wANPRZejSfg",
       "thumbnail": "https://img.youtube.com/vi/wANPRZejSfg/maxresdefault.jpg",
       "published": "2025-10-16T15:00:06+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "[Music] I flew all the way to Denmark to meet an incredible team of people building what is the future of nuclear energy. Molten salt reactors. The AI revolution has a secret fatal flaw. It's not the ...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_7OLVwZeMCfY",
@@ -830,9 +820,8 @@
       "url": "https://www.youtube.com/watch?v=7OLVwZeMCfY",
       "thumbnail": "https://img.youtube.com/vi/7OLVwZeMCfY/maxresdefault.jpg",
       "published": "2025-10-14T17:21:10+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "- We all have the capacity to kill people\nand murder people and do other terrible things. The question is why we don't\ndo those things rather than why we do those things quite often. Most men have\nfan...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_PYYZ6fw0dZA",
@@ -848,9 +837,8 @@
       "url": "https://www.youtube.com/watch?v=PYYZ6fw0dZA",
       "thumbnail": "https://img.youtube.com/vi/PYYZ6fw0dZA/maxresdefault.jpg",
       "published": "2025-10-14T15:30:32+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "The AI revolution has a secret fatal flaw. It's power. What if the answer fits inside a shipping container? I flew all the way to Denmark to meet an incredible team of people building what is the futu...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_Iocm-1dXr-Q",
@@ -882,9 +870,8 @@
       "url": "https://www.youtube.com/watch?v=qjPH9njnaVU",
       "thumbnail": "https://img.youtube.com/vi/qjPH9njnaVU/maxresdefault.jpg",
       "published": "2025-09-30T19:27:11+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "- The following is a\nconversation with Pavel Durov, founder and CEO of Telegram, a messaging platform actively used by over 1 billion people. Pavel has spent his life\nfighting for freedom of speech, b...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_SvKv7D4pBjE",
@@ -900,9 +887,8 @@
       "url": "https://www.youtube.com/watch?v=SvKv7D4pBjE",
       "thumbnail": "https://img.youtube.com/vi/SvKv7D4pBjE/maxresdefault.jpg",
       "published": "2025-09-19T18:17:48+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "- Hitler invited three young\ntank generals to his office, and they had a plan, which was\nthe plan to go through the Ardennes Mountains. That was the\nvictorious idea. So it's not the drugs, actually, t...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_VdF4cd0SitU",
@@ -934,9 +920,8 @@
       "url": "https://www.youtube.com/watch?v=-Qm1_On71Oo",
       "thumbnail": "https://img.youtube.com/vi/-Qm1_On71Oo/maxresdefault.jpg",
       "published": "2025-09-04T19:56:59+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "- T. rex is definitely weird,\neven compared to all the other giant tyrannosaurs that are\nvery closely related to it, because it is by far, ludicrously by far,\nthe largest carnivore in its ecosystem. -...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_hACEeJKE6TE",
@@ -968,9 +953,8 @@
       "url": "https://www.youtube.com/watch?v=HsLgZzgpz9Y",
       "thumbnail": "https://img.youtube.com/vi/HsLgZzgpz9Y/maxresdefault.jpg",
       "published": "2025-08-29T23:52:25+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "- The following is a conversation with Dave\nPlummer, programmer and an old-school Microsoft software engineer who helped\nwork on Windows 95, NT, and XP, building a lot of incredible tools, some\nof whi...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_277l16eJphI",
@@ -986,9 +970,8 @@
       "url": "https://www.youtube.com/watch?v=277l16eJphI",
       "thumbnail": "https://img.youtube.com/vi/277l16eJphI/maxresdefault.jpg",
       "published": "2025-08-29T21:30:02+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "This is my personal website. I built it in under five minutes. No typing, no coding. And today, I'll show you exactly how you can do the same. Hello world. I'm Sira Draval, the OG Vibe Coder. And if y...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_jdCKiEJpwf4",
@@ -1004,9 +987,8 @@
       "url": "https://www.youtube.com/watch?v=jdCKiEJpwf4",
       "thumbnail": "https://img.youtube.com/vi/jdCKiEJpwf4/maxresdefault.jpg",
       "published": "2025-08-24T01:23:15+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "The following is a conversation with Scott Horton. He's the director of the Libertarian Institute, editorial director of anti-war.com, co-host of Provoked, and host of the Scott Horton Show on which h...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_AvyJJ_Ew9no",
@@ -1118,8 +1100,8 @@
       "url": "https://www.youtube.com/watch?v=sc1woawDHKc",
       "thumbnail": "https://img.youtube.com/vi/sc1woawDHKc/maxresdefault.jpg",
       "published": "2025-05-13T18:28:56+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Hello world. It's Suriraj and today I'm unleashing five heavyweight AIs GPT40, Claude Sonnet, Gemini 2.5, Llama 4, and Deepseek into a single crypto wallet to find out whether a coordinated swarm can ..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_YGzT3sVdwdY",
@@ -1135,9 +1117,8 @@
       "url": "https://www.youtube.com/watch?v=YGzT3sVdwdY",
       "thumbnail": "https://img.youtube.com/vi/YGzT3sVdwdY/maxresdefault.jpg",
       "published": "2025-05-05T15:41:50+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "One time, $149 unlocks the full list. $149. Deal. Shoot it over. Now listen, that sound you hear is my AI intern closing a deal while I'm nowhere near the phone. Imagine hiring someone who never sleep...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_Xg5SKoL1yT0",
@@ -1153,9 +1134,8 @@
       "url": "https://www.youtube.com/watch?v=Xg5SKoL1yT0",
       "thumbnail": "https://img.youtube.com/vi/Xg5SKoL1yT0/maxresdefault.jpg",
       "published": "2025-04-30T12:39:02+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Hello world. It's Zurj. In just two hours during my son's nap time, I spun up Scorelift, an AI credit scorebot, and pulled in $1,32 on Stripe live ping's live demo and every step explained. Let's dive...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_l5Y_aiohV0k",
@@ -1171,9 +1151,8 @@
       "url": "https://www.youtube.com/watch?v=l5Y_aiohV0k",
       "thumbnail": "https://img.youtube.com/vi/l5Y_aiohV0k/maxresdefault.jpg",
       "published": "2025-04-06T13:16:01+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "This AI is about to place a $1,500 bet on tonight's basketball game. If it wins, I make $3,000 in pure profit. If it loses, I just burned $1,500. Should I actually do this? Chat GPT says this bet has ...",
-      "hasSummary": true
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_8Cg3p9K0il4",
