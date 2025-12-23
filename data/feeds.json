@@ -1,7 +1,74 @@
 {
-  "last_updated": "2025-12-22T01:22:36.579470Z",
+  "last_updated": "2025-12-23T01:19:19.718824Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_F5-8IMur_14",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "This is how startups quietly pull ahead",
+      "url": "https://www.youtube.com/watch?v=F5-8IMur_14",
+      "thumbnail": "https://img.youtube.com/vi/F5-8IMur_14/maxresdefault.jpg",
+      "published": "2025-12-22T20:00:13+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_6bttVzM1tps",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Kirana Store with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=6bttVzM1tps",
+      "thumbnail": "https://img.youtube.com/vi/6bttVzM1tps/maxresdefault.jpg",
+      "published": "2025-12-22T19:44:02+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_cqrJzG03ENE",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Truth About The AI Bubble",
+      "url": "https://www.youtube.com/watch?v=cqrJzG03ENE",
+      "thumbnail": "https://img.youtube.com/vi/cqrJzG03ENE/maxresdefault.jpg",
+      "published": "2025-12-22T15:01:25+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_ULszsXDyjMY",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "AI Agents in 2026 | 3 Predictions For What’s To Come (a16z Big Ideas)",
+      "url": "https://www.youtube.com/watch?v=ULszsXDyjMY",
+      "thumbnail": "https://img.youtube.com/vi/ULszsXDyjMY/maxresdefault.jpg",
+      "published": "2025-12-22T14:01:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_Wy0HD9Q8kl8",
       "source": "a16z",
@@ -262,23 +329,6 @@
       "transcriptPreview": "2026年，人形机器人将迎来规模化量产的元年。最清晰的信号来自特斯拉，“金色擎天柱”Optimus Gen 3预计在2026年第一季度亮相，并计划在年底前建成产能高达100万台的生产线。马斯克曾多次表示，特斯拉未来约80%的价值来自这里，而非汽车。而“擎天柱”的攻关关键，正在于它的“手与前臂”。 本期是我们机器人特辑之灵巧手，我们邀请了灵巧手模型算法方面和硬件方面的两位专家，一起聊聊灵巧手不同技术"
     },
     {
-      "id": "yt_MT4l_XrrRNc",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Unicorn Founder Who Delegated Everything.",
-      "url": "https://www.youtube.com/watch?v=MT4l_XrrRNc",
-      "thumbnail": "https://img.youtube.com/vi/MT4l_XrrRNc/maxresdefault.jpg",
-      "published": "2025-12-10T15:57:28+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_5WN8bfG06Hk",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -292,23 +342,6 @@
       "url": "https://www.youtube.com/watch?v=5WN8bfG06Hk",
       "thumbnail": "https://img.youtube.com/vi/5WN8bfG06Hk/maxresdefault.jpg",
       "published": "2025-12-10T15:00:19+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_wZ4DT20OHXE",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Chip That Could Unlock AGI.",
-      "url": "https://www.youtube.com/watch?v=wZ4DT20OHXE",
-      "thumbnail": "https://img.youtube.com/vi/wZ4DT20OHXE/maxresdefault.jpg",
-      "published": "2025-12-08T15:05:01+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -636,23 +669,6 @@
       "transcriptPreview": "雄激素脱发，这个困扰数十亿人的“头顶大事”，已经被“非那雄胺”和“米诺地尔”两款经典老药统治了数十年。 2016年之后，随着短视频的兴起，颜值经济拉动了防脱市场在全球范围内的显著增长，也激发了科学研究和药企的创新动力。 防脱药的副作用如何权衡？植发真能一劳永逸吗？防脱洗发水究竟是护理还是“玄学”？未来五年，科学家和药企将带来哪些拯救发际线的新武器？本期节目，我们邀请到振东药业董事长李昆与斯坦福医药"
     },
     {
-      "id": "yt_KTmxaMdUbHA",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI Is Eating Logistics",
-      "url": "https://www.youtube.com/watch?v=KTmxaMdUbHA",
-      "thumbnail": "https://img.youtube.com/vi/KTmxaMdUbHA/maxresdefault.jpg",
-      "published": "2025-11-14T15:00:47+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_LXwGSHZXbKs",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -665,22 +681,6 @@
       "url": "https://www.youtube.com/watch?v=LXwGSHZXbKs",
       "thumbnail": "https://img.youtube.com/vi/LXwGSHZXbKs/maxresdefault.jpg",
       "published": "2025-11-14T06:00:30+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_6TXXMTYQtHk",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows",
-      "url": "https://www.youtube.com/watch?v=6TXXMTYQtHk",
-      "thumbnail": "https://img.youtube.com/vi/6TXXMTYQtHk/maxresdefault.jpg",
-      "published": "2025-11-14T05:05:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
