@@ -1,7 +1,41 @@
 {
-  "last_updated": "2025-12-23T01:19:19.718824Z",
+  "last_updated": "2025-12-24T01:18:34.969557Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_J7rr4kH8KFY",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Palmer Luckey on being “unqualified”",
+      "url": "https://www.youtube.com/watch?v=J7rr4kH8KFY",
+      "thumbnail": "https://img.youtube.com/vi/J7rr4kH8KFY/maxresdefault.jpg",
+      "published": "2025-12-23T20:00:16+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_Q7INj06TUv4",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Solved an 'Impossible' Math Problem with AI",
+      "url": "https://www.youtube.com/watch?v=Q7INj06TUv4",
+      "thumbnail": "https://img.youtube.com/vi/Q7INj06TUv4/maxresdefault.jpg",
+      "published": "2025-12-23T09:29:56+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_F5-8IMur_14",
       "source": "a16z",
@@ -273,23 +307,6 @@
       "url": "https://www.youtube.com/watch?v=_bBRVNkAfkQ",
       "thumbnail": "https://img.youtube.com/vi/_bBRVNkAfkQ/maxresdefault.jpg",
       "published": "2025-12-12T20:01:08+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_RH9vJNxFKDA",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI Eats the World: Benedict Evans on the Next Platform Shift",
-      "url": "https://www.youtube.com/watch?v=RH9vJNxFKDA",
-      "thumbnail": "https://img.youtube.com/vi/RH9vJNxFKDA/maxresdefault.jpg",
-      "published": "2025-12-12T17:16:08+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1134,23 +1151,6 @@
       "url": "https://www.youtube.com/watch?v=Xg5SKoL1yT0",
       "thumbnail": "https://img.youtube.com/vi/Xg5SKoL1yT0/maxresdefault.jpg",
       "published": "2025-04-30T12:39:02+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_l5Y_aiohV0k",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Built an AI That Made $3,500 Betting While I Slept",
-      "url": "https://www.youtube.com/watch?v=l5Y_aiohV0k",
-      "thumbnail": "https://img.youtube.com/vi/l5Y_aiohV0k/maxresdefault.jpg",
-      "published": "2025-04-06T13:16:01+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
