@@ -1,7 +1,24 @@
 {
-  "last_updated": "2025-12-26T01:19:58.855604Z",
+  "last_updated": "2025-12-27T01:17:43.402420Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_BkJyVjq457w",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "How AI Will Reshape The Economy In 2026 (a16z Big Ideas)",
+      "url": "https://www.youtube.com/watch?v=BkJyVjq457w",
+      "thumbnail": "https://img.youtube.com/vi/BkJyVjq457w/maxresdefault.jpg",
+      "published": "2025-12-26T17:00:52+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_B51v9kJQuKo",
       "source": "老高与茉莉",
@@ -291,23 +308,6 @@
       "published": "2025-12-14T15:45:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "关注Netflix历史的人都知道，这是一个几乎不参与大型收购的科技公司，而它却突然出手，提出高价收购华纳兄弟探索集团（WBD）这样一家体积庞大、历史悠久的传奇制片厂，究竟是要拯救它，还是毁了它？ 本期节目为《硅谷101》与《美轮美换》《去现场》串台节目，我们邀请到了两位资深媒体人小华和杨一，共同分析这场戏剧性的收购。我们录制的时间是12月7日，也就是派拉蒙提出敌意收购前一天。所以我们大部分的讨论，"
-    },
-    {
-      "id": "yt_oLAJFeQt3Z0",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Marc Andreessen: \"Be so good they can't ignore you\"",
-      "url": "https://www.youtube.com/watch?v=oLAJFeQt3Z0",
-      "thumbnail": "https://img.youtube.com/vi/oLAJFeQt3Z0/maxresdefault.jpg",
-      "published": "2025-12-13T17:01:26+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt__bBRVNkAfkQ",
