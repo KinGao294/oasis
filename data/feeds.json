@@ -1,7 +1,24 @@
 {
-  "last_updated": "2025-12-27T01:17:43.402420Z",
+  "last_updated": "2025-12-28T01:28:07.500127Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_j_FYmEOoWIU",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Ali Ghodsi on what really decides outcomes",
+      "url": "https://www.youtube.com/watch?v=j_FYmEOoWIU",
+      "thumbnail": "https://img.youtube.com/vi/j_FYmEOoWIU/maxresdefault.jpg",
+      "published": "2025-12-27T20:00:27+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_BkJyVjq457w",
       "source": "a16z",
@@ -270,23 +287,6 @@
       "url": "https://www.youtube.com/watch?v=gA0nwBndJ6w",
       "thumbnail": "https://img.youtube.com/vi/gA0nwBndJ6w/maxresdefault.jpg",
       "published": "2025-12-16T15:01:28+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_JUAj9o6xCwg",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Renaissance of the American Factory | a16z 2026 Big Ideas",
-      "url": "https://www.youtube.com/watch?v=JUAj9o6xCwg",
-      "thumbnail": "https://img.youtube.com/vi/JUAj9o6xCwg/maxresdefault.jpg",
-      "published": "2025-12-15T16:47:22+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
