@@ -1,7 +1,43 @@
 {
-  "last_updated": "2025-12-28T01:28:07.500127Z",
+  "last_updated": "2025-12-29T01:25:43.926945Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_tnNKfn6k-Fs",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Anish Acharya on the 3 traps founders fall into",
+      "url": "https://www.youtube.com/watch?v=tnNKfn6k-Fs",
+      "thumbnail": "https://img.youtube.com/vi/tnNKfn6k-Fs/maxresdefault.jpg",
+      "published": "2025-12-28T20:00:40+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_45abc5f3_f8e0_4fd1_80c5_09e4bb87aeff",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E220｜谈谈Hyrox，“找虐运动”如何火遍全球",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/45abc5f3-f8e0-4fd1-80c5-09e4bb87aeff.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 3800,
+      "published": "2025-12-28T16:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "在所有的体育运动里，Hyrox绝对谈不上轻松。它要求参赛者在跑8个一公里，并在每个一公里之后做一组高强度的力量训练，比如让女生推动100公斤重的雪橇。 但就是这样一个运动，成了这两年全球最时髦的健身项目。它2017年成立，初创期就遇到了疫情，2021年在伦敦办赛时只有几百人参赛。但到2025年，伦敦赛参赛者已经达到了3.4万人，和一场城市马拉松相当。而25/26赛季，它预计会在全球举办100场比赛"
+    },
     {
       "id": "yt_j_FYmEOoWIU",
       "source": "a16z",
@@ -29,7 +65,7 @@
         "Business",
         "AI"
       ],
-      "title": "How AI Will Reshape The Economy In 2026 (a16z Big Ideas)",
+      "title": "AI Is Coming For These 3 Industries In 2026 (a16z Big Ideas)",
       "url": "https://www.youtube.com/watch?v=BkJyVjq457w",
       "thumbnail": "https://img.youtube.com/vi/BkJyVjq457w/maxresdefault.jpg",
       "published": "2025-12-26T17:00:52+00:00",
@@ -270,23 +306,6 @@
       "url": "https://www.youtube.com/watch?v=DPBtd57p5Mg",
       "thumbnail": "https://img.youtube.com/vi/DPBtd57p5Mg/maxresdefault.jpg",
       "published": "2025-12-16T18:13:34+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_gA0nwBndJ6w",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Robinhood CEO Vlad Tenev on Org Structure",
-      "url": "https://www.youtube.com/watch?v=gA0nwBndJ6w",
-      "thumbnail": "https://img.youtube.com/vi/gA0nwBndJ6w/maxresdefault.jpg",
-      "published": "2025-12-16T15:01:28+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -768,25 +787,6 @@
       "published": "2025-10-31T20:43:57+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "pod_guigu101_pod_80d7c07d_2fae_48a0_86e4_1bd2294f88e7",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E212｜AI数据中心的万亿大基建时代：美国GDP增长全靠它",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/80d7c07d-2fae-48a0-86e4-1bd2294f88e7.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 3251,
-      "published": "2025-10-30T17:00:00-07:00",
-      "hasTranscript": false,
-      "transcriptPreview": "“2025年上半年，美国GDP增长几乎全部来自于数据中心与信息技术。” “如果去掉信息技术与软件，美国GDP增长率仅有0.1%。” ——哈佛大学经济学家杰森·弗曼（Jason Furman） 最近一个大新闻是，OpenAI发公告完成架构与资本重组，为潜在IPO铺路，核心也是它承诺了未来1.4万亿的算力投入，这是一个巨大的资金缺口。 另一方面，美国滞后的基础设施建设，对万亿级数据中心蓝图形成了根本性"
     },
     {
       "id": "yt_eoo6_lynwn8",
