@@ -1,7 +1,24 @@
 {
-  "last_updated": "2025-12-29T01:25:43.926945Z",
+  "last_updated": "2025-12-30T01:20:05.168981Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_p4-7x6QiYr0",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Where does consumer AI stand at the end of 2025?",
+      "url": "https://www.youtube.com/watch?v=p4-7x6QiYr0",
+      "thumbnail": "https://img.youtube.com/vi/p4-7x6QiYr0/maxresdefault.jpg",
+      "published": "2025-12-29T13:58:10+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_tnNKfn6k-Fs",
       "source": "a16z",
@@ -237,23 +254,6 @@
       "url": "https://www.youtube.com/watch?v=4bJOe2tuLb8",
       "thumbnail": "https://img.youtube.com/vi/4bJOe2tuLb8/maxresdefault.jpg",
       "published": "2025-12-18T00:25:16+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_tR6g3zrk7eM",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "“How We Can Eliminate Crime” | Ben Horowitz and Garrett Langley",
-      "url": "https://www.youtube.com/watch?v=tR6g3zrk7eM",
-      "thumbnail": "https://img.youtube.com/vi/tR6g3zrk7eM/maxresdefault.jpg",
-      "published": "2025-12-17T15:45:44+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
