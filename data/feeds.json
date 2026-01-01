@@ -1,7 +1,41 @@
 {
-  "last_updated": "2025-12-31T01:21:01.777560Z",
+  "last_updated": "2026-01-01T01:27:53.028623Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_14OPT6CcsH4",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | Lex Fridman Podcast #488",
+      "url": "https://www.youtube.com/watch?v=14OPT6CcsH4",
+      "thumbnail": "https://img.youtube.com/vi/14OPT6CcsH4/maxresdefault.jpg",
+      "published": "2025-12-31T21:26:17+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_J6_nNjy3al8",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "AI in 2026: 3 Predictions For What’s To Come (a16z Big Ideas)",
+      "url": "https://www.youtube.com/watch?v=J6_nNjy3al8",
+      "thumbnail": "https://img.youtube.com/vi/J6_nNjy3al8/maxresdefault.jpg",
+      "published": "2025-12-31T14:00:34+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_p4-7x6QiYr0",
       "source": "a16z",
@@ -237,23 +271,6 @@
       "url": "https://www.youtube.com/watch?v=pDC8mIbjRgM",
       "thumbnail": "https://img.youtube.com/vi/pDC8mIbjRgM/maxresdefault.jpg",
       "published": "2025-12-19T14:01:38+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_4bJOe2tuLb8",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Two Futures | Runtime 2025",
-      "url": "https://www.youtube.com/watch?v=4bJOe2tuLb8",
-      "thumbnail": "https://img.youtube.com/vi/4bJOe2tuLb8/maxresdefault.jpg",
-      "published": "2025-12-18T00:25:16+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1003,23 +1020,6 @@
       "url": "https://www.youtube.com/watch?v=277l16eJphI",
       "thumbnail": "https://img.youtube.com/vi/277l16eJphI/maxresdefault.jpg",
       "published": "2025-08-29T21:30:02+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_jdCKiEJpwf4",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Scott Horton: The Case Against War and the Military Industrial Complex | Lex Fridman Podcast #478",
-      "url": "https://www.youtube.com/watch?v=jdCKiEJpwf4",
-      "thumbnail": "https://img.youtube.com/vi/jdCKiEJpwf4/maxresdefault.jpg",
-      "published": "2025-08-24T01:23:15+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
