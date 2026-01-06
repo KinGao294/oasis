@@ -1,7 +1,103 @@
 {
-  "last_updated": "2026-01-05T01:27:33.897186Z",
+  "last_updated": "2026-01-06T01:21:15.897086Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_z6h7XYxQpGs",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Commonwealth Bank of Australia builds AI fluency at scale",
+      "url": "https://www.youtube.com/watch?v=z6h7XYxQpGs",
+      "thumbnail": "https://img.youtube.com/vi/z6h7XYxQpGs/maxresdefault.jpg",
+      "published": "2026-01-06T01:05:34+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt__PI32rbRh_0",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "BNY People uses OpenAI",
+      "url": "https://www.youtube.com/watch?v=_PI32rbRh_0",
+      "thumbnail": "https://img.youtube.com/vi/_PI32rbRh_0/maxresdefault.jpg",
+      "published": "2026-01-06T00:05:36+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_XrEWL98JOIY",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "BNY Sales uses OpenAI",
+      "url": "https://www.youtube.com/watch?v=XrEWL98JOIY",
+      "thumbnail": "https://img.youtube.com/vi/XrEWL98JOIY/maxresdefault.jpg",
+      "published": "2026-01-05T18:51:14+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_t6pyiLyol0Q",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "BNY Legal uses OpenAI",
+      "url": "https://www.youtube.com/watch?v=t6pyiLyol0Q",
+      "thumbnail": "https://img.youtube.com/vi/t6pyiLyol0Q/maxresdefault.jpg",
+      "published": "2026-01-05T18:28:11+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_7eB5cXNNG2k",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
+      "url": "https://www.youtube.com/watch?v=7eB5cXNNG2k",
+      "thumbnail": "https://img.youtube.com/vi/7eB5cXNNG2k/maxresdefault.jpg",
+      "published": "2026-01-05T18:08:57+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_305lqu-fmbg",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Navigating Health | with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=305lqu-fmbg",
+      "thumbnail": "https://img.youtube.com/vi/305lqu-fmbg/maxresdefault.jpg",
+      "published": "2026-01-05T17:09:28+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_14OPT6CcsH4",
       "source": "Lex Fridman",
@@ -448,38 +544,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_WsGVXiWzTpI",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Build Hour: Agent Memory Patterns",
-      "url": "https://www.youtube.com/watch?v=WsGVXiWzTpI",
-      "thumbnail": "https://img.youtube.com/vi/WsGVXiWzTpI/maxresdefault.jpg",
-      "published": "2025-12-04T20:28:02+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_z8RRfZnwsGg",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Codex brings concepts into view.",
-      "url": "https://www.youtube.com/watch?v=z8RRfZnwsGg",
-      "thumbnail": "https://img.youtube.com/vi/z8RRfZnwsGg/maxresdefault.jpg",
-      "published": "2025-12-03T16:29:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_18L5HOYTQAw",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -510,22 +574,6 @@
       "url": "https://www.youtube.com/watch?v=t8co94HS6tY",
       "thumbnail": "https://img.youtube.com/vi/t8co94HS6tY/maxresdefault.jpg",
       "published": "2025-12-03T15:01:50+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_GXAAzKX6oaQ",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Shaping Model Behavior in GPT-5.1— the OpenAI Podcast Ep. 11",
-      "url": "https://www.youtube.com/watch?v=GXAAzKX6oaQ",
-      "thumbnail": "https://img.youtube.com/vi/GXAAzKX6oaQ/maxresdefault.jpg",
-      "published": "2025-12-02T18:00:27+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -617,38 +665,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_0luMwmnvRuQ",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Scania accelerates operations across its global workforce with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=0luMwmnvRuQ",
-      "thumbnail": "https://img.youtube.com/vi/0luMwmnvRuQ/maxresdefault.jpg",
-      "published": "2025-11-21T01:43:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_0sNOaD9xT_4",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "How AI Is Accelerating Scientific Discovery Today and What's Ahead — the OpenAI Podcast Ep. 10",
-      "url": "https://www.youtube.com/watch?v=0sNOaD9xT_4",
-      "thumbnail": "https://img.youtube.com/vi/0sNOaD9xT_4/maxresdefault.jpg",
-      "published": "2025-11-20T17:00:01+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_8d3c99cb_bb35_48c5_afae_fdcfcf6e5657",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -736,22 +752,6 @@
       "published": "2025-11-16T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "雄激素脱发，这个困扰数十亿人的“头顶大事”，已经被“非那雄胺”和“米诺地尔”两款经典老药统治了数十年。 2016年之后，随着短视频的兴起，颜值经济拉动了防脱市场在全球范围内的显著增长，也激发了科学研究和药企的创新动力。 防脱药的副作用如何权衡？植发真能一劳永逸吗？防脱洗发水究竟是护理还是“玄学”？未来五年，科学家和药企将带来哪些拯救发际线的新武器？本期节目，我们邀请到振东药业董事长李昆与斯坦福医药"
-    },
-    {
-      "id": "yt_LXwGSHZXbKs",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "How Philips is scaling AI literacy across 70,000 employees",
-      "url": "https://www.youtube.com/watch?v=LXwGSHZXbKs",
-      "thumbnail": "https://img.youtube.com/vi/LXwGSHZXbKs/maxresdefault.jpg",
-      "published": "2025-11-14T06:00:30+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_ESObIvXrKZI",
