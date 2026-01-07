@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-01-06T01:21:15.897086Z",
+  "last_updated": "2026-01-07T01:21:45.814813Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_X4birkVaLas",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Understanding Inflammation | with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=X4birkVaLas",
+      "thumbnail": "https://img.youtube.com/vi/X4birkVaLas/maxresdefault.jpg",
+      "published": "2026-01-07T00:22:30+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_IDyHqwyHWGw",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Balancing Motherhood | with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=IDyHqwyHWGw",
+      "thumbnail": "https://img.youtube.com/vi/IDyHqwyHWGw/maxresdefault.jpg",
+      "published": "2026-01-06T17:40:19+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_z6h7XYxQpGs",
       "source": "OpenAI",
@@ -459,22 +491,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_8JXwrVQQ4jw",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "10 years.",
-      "url": "https://www.youtube.com/watch?v=8JXwrVQQ4jw",
-      "thumbnail": "https://img.youtube.com/vi/8JXwrVQQ4jw/maxresdefault.jpg",
-      "published": "2025-12-11T21:33:02+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_34b7da12_98ee_45e1_8ca0_0674278dc1da",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -507,22 +523,6 @@
       "url": "https://www.youtube.com/watch?v=5WN8bfG06Hk",
       "thumbnail": "https://img.youtube.com/vi/5WN8bfG06Hk/maxresdefault.jpg",
       "published": "2025-12-10T15:00:19+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_4jBcK0cYass",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "What's New with ChatGPT Voice",
-      "url": "https://www.youtube.com/watch?v=4jBcK0cYass",
-      "thumbnail": "https://img.youtube.com/vi/4jBcK0cYass/maxresdefault.jpg",
-      "published": "2025-12-05T19:07:27+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
