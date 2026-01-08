@@ -1,7 +1,104 @@
 {
-  "last_updated": "2026-01-07T01:21:45.814813Z",
+  "last_updated": "2026-01-08T01:22:10.064180Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_Z82cxeuCZ_I",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Securely connecting your information and apps with ChatGPT Health",
+      "url": "https://www.youtube.com/watch?v=Z82cxeuCZ_I",
+      "thumbnail": "https://img.youtube.com/vi/Z82cxeuCZ_I/maxresdefault.jpg",
+      "published": "2026-01-07T19:45:57+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_Aj4Wecpkee8",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Personalized nutrition tips with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=Aj4Wecpkee8",
+      "thumbnail": "https://img.youtube.com/vi/Aj4Wecpkee8/maxresdefault.jpg",
+      "published": "2026-01-07T19:45:55+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_Qsx96rg9Ai0",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Helping you choose the right insurance plan for you with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=Qsx96rg9Ai0",
+      "thumbnail": "https://img.youtube.com/vi/Qsx96rg9Ai0/maxresdefault.jpg",
+      "published": "2026-01-07T19:45:06+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_30RRJsIHmbQ",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Preparing for a doctor’s appointment with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=30RRJsIHmbQ",
+      "thumbnail": "https://img.youtube.com/vi/30RRJsIHmbQ/maxresdefault.jpg",
+      "published": "2026-01-07T19:45:02+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_rXuKh4e6gw4",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Understanding your Scan Results | with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=rXuKh4e6gw4",
+      "thumbnail": "https://img.youtube.com/vi/rXuKh4e6gw4/maxresdefault.jpg",
+      "published": "2026-01-07T16:27:56+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_xRh2sVcNXQ8",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Marc Andreessen's 2026 Outlook: AI Timelines, US vs. China, and The Price of AI",
+      "url": "https://www.youtube.com/watch?v=xRh2sVcNXQ8",
+      "thumbnail": "https://img.youtube.com/vi/xRh2sVcNXQ8/maxresdefault.jpg",
+      "published": "2026-01-07T16:23:46+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_X4birkVaLas",
       "source": "OpenAI",
@@ -79,54 +176,6 @@
       "url": "https://www.youtube.com/watch?v=XrEWL98JOIY",
       "thumbnail": "https://img.youtube.com/vi/XrEWL98JOIY/maxresdefault.jpg",
       "published": "2026-01-05T18:51:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_t6pyiLyol0Q",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "BNY Legal uses OpenAI",
-      "url": "https://www.youtube.com/watch?v=t6pyiLyol0Q",
-      "thumbnail": "https://img.youtube.com/vi/t6pyiLyol0Q/maxresdefault.jpg",
-      "published": "2026-01-05T18:28:11+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_7eB5cXNNG2k",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
-      "url": "https://www.youtube.com/watch?v=7eB5cXNNG2k",
-      "thumbnail": "https://img.youtube.com/vi/7eB5cXNNG2k/maxresdefault.jpg",
-      "published": "2026-01-05T18:08:57+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_305lqu-fmbg",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Navigating Health | with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=305lqu-fmbg",
-      "thumbnail": "https://img.youtube.com/vi/305lqu-fmbg/maxresdefault.jpg",
-      "published": "2026-01-05T17:09:28+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -319,22 +368,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_6bttVzM1tps",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Kirana Store with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=6bttVzM1tps",
-      "thumbnail": "https://img.youtube.com/vi/6bttVzM1tps/maxresdefault.jpg",
-      "published": "2025-12-22T19:44:02+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_cqrJzG03ENE",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -386,23 +419,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_pDC8mIbjRgM",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How AI Will Transform Fintech In 2026",
-      "url": "https://www.youtube.com/watch?v=pDC8mIbjRgM",
-      "thumbnail": "https://img.youtube.com/vi/pDC8mIbjRgM/maxresdefault.jpg",
-      "published": "2025-12-19T14:01:38+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_pBlIgs6w7Ss",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -437,22 +453,6 @@
       "published": "2025-12-17T15:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "12月初，爱马仕的第五代继承人之一尼古拉斯·皮埃奇，将LVMH告上了法庭，理由是对方夺走了自己价值140亿欧元的600万股爱马仕股份。 整个案件起源于皮埃奇的两个身边人：他的40年好友兼私人财富顾问，以及他最近爱到视如己出的一位摩洛哥园丁。 事情的背后却牵涉到了奢侈品行业的一场世纪收购大战：2010年10月，LVMH突然宣布它已经获得了爱马仕接近20%的股份，爱马仕家族则团结了52名家族成员，聚集"
-    },
-    {
-      "id": "yt_DPBtd57p5Mg",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "ChatGPT Images",
-      "url": "https://www.youtube.com/watch?v=DPBtd57p5Mg",
-      "thumbnail": "https://img.youtube.com/vi/DPBtd57p5Mg/maxresdefault.jpg",
-      "published": "2025-12-16T18:13:34+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_f9859b6e_bcc3_4141_a783_4bd063a68768",
