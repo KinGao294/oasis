@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-01-08T01:22:10.064180Z",
+  "last_updated": "2026-01-09T01:22:07.271673Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_uZ_BMwB647A",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Preparing for Appointments | with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=uZ_BMwB647A",
+      "thumbnail": "https://img.youtube.com/vi/uZ_BMwB647A/maxresdefault.jpg",
+      "published": "2026-01-08T17:15:32+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_2hgjgycOU_0",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "This Is The Holy Grail Of Rocket Science",
+      "url": "https://www.youtube.com/watch?v=2hgjgycOU_0",
+      "thumbnail": "https://img.youtube.com/vi/2hgjgycOU_0/maxresdefault.jpg",
+      "published": "2026-01-08T15:00:11+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_Z82cxeuCZ_I",
       "source": "OpenAI",
@@ -160,22 +193,6 @@
       "url": "https://www.youtube.com/watch?v=_PI32rbRh_0",
       "thumbnail": "https://img.youtube.com/vi/_PI32rbRh_0/maxresdefault.jpg",
       "published": "2026-01-06T00:05:36+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_XrEWL98JOIY",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "BNY Sales uses OpenAI",
-      "url": "https://www.youtube.com/watch?v=XrEWL98JOIY",
-      "thumbnail": "https://img.youtube.com/vi/XrEWL98JOIY/maxresdefault.jpg",
-      "published": "2026-01-05T18:51:14+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -714,23 +731,6 @@
       "url": "https://www.youtube.com/watch?v=m_CFCyc2Shs",
       "thumbnail": "https://img.youtube.com/vi/m_CFCyc2Shs/maxresdefault.jpg",
       "published": "2025-11-17T18:27:43+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_OUJznQbHkI4",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Founder Stories: Rishi Choudhary",
-      "url": "https://www.youtube.com/watch?v=OUJznQbHkI4",
-      "thumbnail": "https://img.youtube.com/vi/OUJznQbHkI4/maxresdefault.jpg",
-      "published": "2025-11-16T18:36:06+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
