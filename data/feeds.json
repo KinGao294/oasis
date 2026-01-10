@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-01-09T01:22:07.271673Z",
+  "last_updated": "2026-01-10T01:19:24.557255Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_cjveRUfE7dc",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "This Year with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=cjveRUfE7dc",
+      "thumbnail": "https://img.youtube.com/vi/cjveRUfE7dc/maxresdefault.jpg",
+      "published": "2026-01-09T16:00:11+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_uZ_BMwB647A",
       "source": "OpenAI",
@@ -28,7 +44,7 @@
         "Business",
         "AI"
       ],
-      "title": "This Is The Holy Grail Of Rocket Science",
+      "title": "Inside The Startup Building Reusable Rockets",
       "url": "https://www.youtube.com/watch?v=2hgjgycOU_0",
       "thumbnail": "https://img.youtube.com/vi/2hgjgycOU_0/maxresdefault.jpg",
       "published": "2026-01-08T15:00:11+00:00",
@@ -177,22 +193,6 @@
       "url": "https://www.youtube.com/watch?v=z6h7XYxQpGs",
       "thumbnail": "https://img.youtube.com/vi/z6h7XYxQpGs/maxresdefault.jpg",
       "published": "2026-01-06T01:05:34+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt__PI32rbRh_0",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "BNY People uses OpenAI",
-      "url": "https://www.youtube.com/watch?v=_PI32rbRh_0",
-      "thumbnail": "https://img.youtube.com/vi/_PI32rbRh_0/maxresdefault.jpg",
-      "published": "2026-01-06T00:05:36+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
