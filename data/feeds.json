@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-01-12T01:25:20.748093Z",
+  "last_updated": "2026-01-13T01:18:27.419425Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_g4MTiidxp8I",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Helping you choose the right insurance plan for you with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=g4MTiidxp8I",
+      "thumbnail": "https://img.youtube.com/vi/g4MTiidxp8I/maxresdefault.jpg",
+      "published": "2026-01-12T17:13:07+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_px7XlbYgk7I",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Getting started with Codex",
+      "url": "https://www.youtube.com/watch?v=px7XlbYgk7I",
+      "thumbnail": "https://img.youtube.com/vi/px7XlbYgk7I/maxresdefault.jpg",
+      "published": "2026-01-12T16:11:51+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_cjveRUfE7dc",
       "source": "OpenAI",
@@ -84,22 +116,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_Qsx96rg9Ai0",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Helping you choose the right insurance plan for you with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=Qsx96rg9Ai0",
-      "thumbnail": "https://img.youtube.com/vi/Qsx96rg9Ai0/maxresdefault.jpg",
-      "published": "2026-01-07T19:45:06+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_30RRJsIHmbQ",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -177,22 +193,6 @@
       "url": "https://www.youtube.com/watch?v=IDyHqwyHWGw",
       "thumbnail": "https://img.youtube.com/vi/IDyHqwyHWGw/maxresdefault.jpg",
       "published": "2026-01-06T17:40:19+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_z6h7XYxQpGs",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Commonwealth Bank of Australia builds AI fluency at scale",
-      "url": "https://www.youtube.com/watch?v=z6h7XYxQpGs",
-      "thumbnail": "https://img.youtube.com/vi/z6h7XYxQpGs/maxresdefault.jpg",
-      "published": "2026-01-06T01:05:34+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
