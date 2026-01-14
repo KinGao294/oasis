@@ -1,7 +1,58 @@
 {
-  "last_updated": "2026-01-13T01:18:27.419425Z",
+  "last_updated": "2026-01-14T01:24:40.531364Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_Z-FRe5AKmCU",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489",
+      "url": "https://www.youtube.com/watch?v=Z-FRe5AKmCU",
+      "thumbnail": "https://img.youtube.com/vi/Z-FRe5AKmCU/maxresdefault.jpg",
+      "published": "2026-01-13T20:06:59+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_M9VKnPMs6Rw",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "It's Time To Build",
+      "url": "https://www.youtube.com/watch?v=M9VKnPMs6Rw",
+      "thumbnail": "https://img.youtube.com/vi/M9VKnPMs6Rw/maxresdefault.jpg",
+      "published": "2026-01-13T17:15:28+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_r8_2CSpcmls",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Ben Horowitz on Investing in AI: AI Bubbles, Economic Impact, and VC Acceleration",
+      "url": "https://www.youtube.com/watch?v=r8_2CSpcmls",
+      "thumbnail": "https://img.youtube.com/vi/r8_2CSpcmls/maxresdefault.jpg",
+      "published": "2026-01-13T14:01:38+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_g4MTiidxp8I",
       "source": "OpenAI",
@@ -398,40 +449,6 @@
       "url": "https://www.youtube.com/watch?v=cqrJzG03ENE",
       "thumbnail": "https://img.youtube.com/vi/cqrJzG03ENE/maxresdefault.jpg",
       "published": "2025-12-22T15:01:25+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_ULszsXDyjMY",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How AI Agents Will Transform in 2026 (a16z Big Ideas)",
-      "url": "https://www.youtube.com/watch?v=ULszsXDyjMY",
-      "thumbnail": "https://img.youtube.com/vi/ULszsXDyjMY/maxresdefault.jpg",
-      "published": "2025-12-22T14:01:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Wy0HD9Q8kl8",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Brian Armstrong on why action beats thinking",
-      "url": "https://www.youtube.com/watch?v=Wy0HD9Q8kl8",
-      "thumbnail": "https://img.youtube.com/vi/Wy0HD9Q8kl8/maxresdefault.jpg",
-      "published": "2025-12-21T20:00:33+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -986,23 +1003,6 @@
       "url": "https://www.youtube.com/watch?v=hACEeJKE6TE",
       "thumbnail": "https://img.youtube.com/vi/hACEeJKE6TE/maxresdefault.jpg",
       "published": "2025-09-03T14:44:31+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_HsLgZzgpz9Y",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Dave Plummer: Programming, Autism, and Old-School Microsoft Stories | Lex Fridman Podcast #479",
-      "url": "https://www.youtube.com/watch?v=HsLgZzgpz9Y",
-      "thumbnail": "https://img.youtube.com/vi/HsLgZzgpz9Y/maxresdefault.jpg",
-      "published": "2025-08-29T23:52:25+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
