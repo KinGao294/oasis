@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-01-14T01:24:40.531364Z",
+  "last_updated": "2026-01-15T01:19:57.820360Z",
   "count": 80,
   "items": [
+    {
+      "id": "pod_guigu101_pod_e54b2110_670a_46fa_9678_d3fa2ffa4c31",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "新年直播1：AI的2025与2026，技术领域的共识与非共识",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/e54b2110-670a-46fa-9678-d3fa2ffa4c31.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 2720,
+      "published": "2026-01-14T16:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "本期节目是硅谷101新年直播精华系列的第一期。我们将三小时完整直播拆分成了三期播客，分别围绕2025年备受关注的几个领域：AI、自动驾驶与美股投资。 回顾2025年的AI行业，我们见证了开源势力的崛起，见证了硅谷的人才大战，见证了“循环融资”模式的上演，也见证了万亿大基建和能源争夺的疯狂。 这一年，共识出现了转变，企业不再追求最贵最好的模型，而是转向垂直领域的小模型。大家比拼的也不再是谁的AI智商"
+    },
+    {
+      "id": "yt_0kARDVL2nZg",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "How To Get Your First Users",
+      "url": "https://www.youtube.com/watch?v=0kARDVL2nZg",
+      "thumbnail": "https://img.youtube.com/vi/0kARDVL2nZg/maxresdefault.jpg",
+      "published": "2026-01-14T15:00:05+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_Z-FRe5AKmCU",
       "source": "Lex Fridman",
@@ -718,23 +754,6 @@
       "transcriptPreview": "在上一期节目中，我们从产业的角度聊了AI数据中心万亿大基建，这一几乎会贡献今年美国全部的GDP增长的行业。 嘉宾的很多观点和数据都在播客发出来之后一一被市场验证，比如微软CEO萨提亚·纳德拉称，AI缺的不是GPU是电力。 但当我们谈论的不是一个1亿、 10 亿、 100 亿的产业，而是上万亿的投资规模的时候，很多人就开始讨论，我们是不是进入了一场AI的投资泡沫？不少听众希望我们从资本市场的角度，再"
     },
     {
-      "id": "yt_RynySryqM_0",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Cursor Head of Design Roasts Startup Websites",
-      "url": "https://www.youtube.com/watch?v=RynySryqM_0",
-      "thumbnail": "https://img.youtube.com/vi/RynySryqM_0/maxresdefault.jpg",
-      "published": "2025-11-20T15:00:53+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_m_CFCyc2Shs",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -785,25 +804,6 @@
       "published": "2025-11-12T13:23:39+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "pod_guigu101_pod_8ed8ce1e_1472_489b_bb42_7b2c1c1404f7",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E213｜从爱好到投资，卡牌能成为年轻人的第一桶金吗？",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8ed8ce1e-1472-489b-bb42-7b2c1c1404f7.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 3597,
-      "published": "2025-11-06T16:00:00-08:00",
-      "hasTranscript": false,
-      "transcriptPreview": "“80后炒股、90后炒币、00后炒鞋，进入2020年后大家转行炒卡。”虽然这只是一句玩笑话，但多少折射出了卡牌交易市场的火热。 卡牌最开始只是出现在烟草公司的烟盒里，作为赠品用来提高香烟销量。之后被开发出了对战属性，拥有了自己的卡牌游戏拥趸。 但如今的卡牌显然不只是一个小众文化那么简单。 《宝可梦》卡和球星卡目前的世界交易记录，分别是527.5万美元和1293.2万美元。 市场调研公司Verifi"
     },
     {
       "id": "yt_o3gbXDjNWyI",
