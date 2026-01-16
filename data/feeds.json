@@ -1,7 +1,79 @@
 {
-  "last_updated": "2026-01-15T01:19:57.820360Z",
+  "last_updated": "2026-01-16T01:22:15.230454Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_UZbXWYY7y-A",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The AI Economy Is Stabilizing",
+      "url": "https://www.youtube.com/watch?v=UZbXWYY7y-A",
+      "thumbnail": "https://img.youtube.com/vi/UZbXWYY7y-A/maxresdefault.jpg",
+      "published": "2026-01-15T18:15:03+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_Kdql4I-NJ0M",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Ben & Marc: Why Everything Is About to Get 10x Bigger",
+      "url": "https://www.youtube.com/watch?v=Kdql4I-NJ0M",
+      "thumbnail": "https://img.youtube.com/vi/Kdql4I-NJ0M/maxresdefault.jpg",
+      "published": "2026-01-15T17:39:20+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_752a8b52_eb8b_42c6_aacc_674b998f5604",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "新年直播3：华尔街视角下的AI泡沫、芯片及黑天鹅",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/752a8b52-eb8b-42c6-aacc-674b998f5604.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 2644,
+      "published": "2026-01-14T20:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "本期节目是硅谷101新年直播精华系列的第三期。我们将三小时完整直播拆分成了三期播客，分别围绕2025年备受关注的几个领域：AI、自动驾驶与美股投资。 2025年下半年，美股市场完全被AI热潮主导。英伟达市值突破5万亿美元，定义了芯片算力的价值高度。谷歌则凭借Gemini与TPU生态全年暴涨66%，证明了其全栈AI体系深度整合的价值。 当估值已经处高位，投资却仍在加码，穆迪的最新报告指出，未来五年内"
+    },
+    {
+      "id": "pod_guigu101_pod_df80a7c5_5b5a_4a6e_a403_a7933639ea07",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "新年直播2：特斯拉FSD以及自动驾驶的商业战争",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/df80a7c5-5b5a-4a6e-a403-a7933639ea07.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 2362,
+      "published": "2026-01-14T18:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "本期节目是硅谷101新年直播精华系列的第二期。我们将三小时完整直播拆分成了三期播客，分别围绕2025年备受关注的几个领域：AI、自动驾驶与美股投资。 2026年的新年，自动驾驶圈发生了两件有趣的事。 第一件：一位特斯拉车主完全依赖FSD V14，从美国西海岸一路开到东海岸，整个行程（包括多次进出超级充电站）未出现任何人工接管。 第二件：旧金山发生了一次交通大拥堵，起因是停电影响了交通灯，让依赖规则"
+    },
     {
       "id": "pod_guigu101_pod_e54b2110_670a_46fa_9678_d3fa2ffa4c31",
       "source": "硅谷101",
@@ -455,23 +527,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_F5-8IMur_14",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "This is how startups quietly pull ahead",
-      "url": "https://www.youtube.com/watch?v=F5-8IMur_14",
-      "thumbnail": "https://img.youtube.com/vi/F5-8IMur_14/maxresdefault.jpg",
-      "published": "2025-12-22T20:00:13+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_cqrJzG03ENE",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -718,42 +773,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_VtDBvmxiXnA",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Find a Pain Point Worth Solving",
-      "url": "https://www.youtube.com/watch?v=VtDBvmxiXnA",
-      "thumbnail": "https://img.youtube.com/vi/VtDBvmxiXnA/maxresdefault.jpg",
-      "published": "2025-11-24T20:08:29+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "pod_guigu101_pod_8d3c99cb_bb35_48c5_afae_fdcfcf6e5657",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E215｜资本视角聊聊万亿大基建钱从哪儿来，以及电力破局的六条路径",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8d3c99cb-bb35-48c5-afae-fdcfcf6e5657.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 4819,
-      "published": "2025-11-20T16:00:00-08:00",
-      "hasTranscript": false,
-      "transcriptPreview": "在上一期节目中，我们从产业的角度聊了AI数据中心万亿大基建，这一几乎会贡献今年美国全部的GDP增长的行业。 嘉宾的很多观点和数据都在播客发出来之后一一被市场验证，比如微软CEO萨提亚·纳德拉称，AI缺的不是GPU是电力。 但当我们谈论的不是一个1亿、 10 亿、 100 亿的产业，而是上万亿的投资规模的时候，很多人就开始讨论，我们是不是进入了一场AI的投资泡沫？不少听众希望我们从资本市场的角度，再"
-    },
-    {
       "id": "yt_m_CFCyc2Shs",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -769,25 +788,6 @@
       "published": "2025-11-17T18:27:43+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "pod_guigu101_pod_3e9356b8_a509_466d_ba16_e3bf10e798ae",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E214｜拯救发际线的硬核科普，现代医学与自然选择的拉锯战",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/3e9356b8-a509-466d-ba16-e3bf10e798ae.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 4557,
-      "published": "2025-11-16T16:00:00-08:00",
-      "hasTranscript": false,
-      "transcriptPreview": "雄激素脱发，这个困扰数十亿人的“头顶大事”，已经被“非那雄胺”和“米诺地尔”两款经典老药统治了数十年。 2016年之后，随着短视频的兴起，颜值经济拉动了防脱市场在全球范围内的显著增长，也激发了科学研究和药企的创新动力。 防脱药的副作用如何权衡？植发真能一劳永逸吗？防脱洗发水究竟是护理还是“玄学”？未来五年，科学家和药企将带来哪些拯救发际线的新武器？本期节目，我们邀请到振东药业董事长李昆与斯坦福医药"
     },
     {
       "id": "yt_ESObIvXrKZI",
