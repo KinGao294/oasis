@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-01-16T01:22:15.230454Z",
+  "last_updated": "2026-01-17T01:18:37.958087Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_D7sJc8kJC9s",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Why Venture Capital is a game of outliers - Marc Andreessen",
+      "url": "https://www.youtube.com/watch?v=D7sJc8kJC9s",
+      "thumbnail": "https://img.youtube.com/vi/D7sJc8kJC9s/maxresdefault.jpg",
+      "published": "2026-01-16T20:00:09+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_RXJ8zqblP5M",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "ChatGPT Go is rolling out everywhere ChatGPT is available.",
+      "url": "https://www.youtube.com/watch?v=RXJ8zqblP5M",
+      "thumbnail": "https://img.youtube.com/vi/RXJ8zqblP5M/maxresdefault.jpg",
+      "published": "2026-01-16T18:06:04+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_UZbXWYY7y-A",
       "source": "Y Combinator",
@@ -29,7 +62,7 @@
         "Business",
         "AI"
       ],
-      "title": "Ben & Marc: Why Everything Is About to Get 10x Bigger",
+      "title": "a16z In The New Era: The Biggest Shift Since the Internet",
       "url": "https://www.youtube.com/watch?v=Kdql4I-NJ0M",
       "thumbnail": "https://img.youtube.com/vi/Kdql4I-NJ0M/maxresdefault.jpg",
       "published": "2026-01-15T17:39:20+00:00",
@@ -340,22 +373,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_IDyHqwyHWGw",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Balancing Motherhood | with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=IDyHqwyHWGw",
-      "thumbnail": "https://img.youtube.com/vi/IDyHqwyHWGw/maxresdefault.jpg",
-      "published": "2026-01-06T17:40:19+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_14OPT6CcsH4",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -489,23 +506,6 @@
       "url": "https://www.youtube.com/watch?v=B51v9kJQuKo",
       "thumbnail": "https://img.youtube.com/vi/B51v9kJQuKo/maxresdefault.jpg",
       "published": "2025-12-24T13:07:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_J7rr4kH8KFY",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Palmer Luckey on being “unqualified”",
-      "url": "https://www.youtube.com/watch?v=J7rr4kH8KFY",
-      "thumbnail": "https://img.youtube.com/vi/J7rr4kH8KFY/maxresdefault.jpg",
-      "published": "2025-12-23T20:00:16+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
