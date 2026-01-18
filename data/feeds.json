@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-01-17T01:18:37.958087Z",
+  "last_updated": "2026-01-18T01:27:44.608186Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_N_YIAomr35A",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Dark mode didn’t start as a trend - Marc Andreessen",
+      "url": "https://www.youtube.com/watch?v=N_YIAomr35A",
+      "thumbnail": "https://img.youtube.com/vi/N_YIAomr35A/maxresdefault.jpg",
+      "published": "2026-01-17T20:00:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_D7sJc8kJC9s",
       "source": "a16z",
@@ -62,7 +79,7 @@
         "Business",
         "AI"
       ],
-      "title": "a16z In The New Era: The Biggest Shift Since the Internet",
+      "title": "Ben & Marc: Why Everything Is About to Get 10x Bigger",
       "url": "https://www.youtube.com/watch?v=Kdql4I-NJ0M",
       "thumbnail": "https://img.youtube.com/vi/Kdql4I-NJ0M/maxresdefault.jpg",
       "published": "2026-01-15T17:39:20+00:00",
@@ -473,23 +490,6 @@
       "url": "https://www.youtube.com/watch?v=j_FYmEOoWIU",
       "thumbnail": "https://img.youtube.com/vi/j_FYmEOoWIU/maxresdefault.jpg",
       "published": "2025-12-27T20:00:27+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_BkJyVjq457w",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI Is Coming For These 3 Industries In 2026 (a16z Big Ideas)",
-      "url": "https://www.youtube.com/watch?v=BkJyVjq457w",
-      "thumbnail": "https://img.youtube.com/vi/BkJyVjq457w/maxresdefault.jpg",
-      "published": "2025-12-26T17:00:52+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
