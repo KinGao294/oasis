@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-01-20T01:21:11.427291Z",
+  "last_updated": "2026-01-21T01:24:19.195634Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_0F4RpMEhk60",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Marc Andreessen and Ben Horowitz on the worldview behind a16z",
+      "url": "https://www.youtube.com/watch?v=0F4RpMEhk60",
+      "thumbnail": "https://img.youtube.com/vi/0F4RpMEhk60/maxresdefault.jpg",
+      "published": "2026-01-20T21:23:25+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_3XVDtPU8xKE",
       "source": "a16z",
@@ -473,23 +490,6 @@
       "url": "https://www.youtube.com/watch?v=p4-7x6QiYr0",
       "thumbnail": "https://img.youtube.com/vi/p4-7x6QiYr0/maxresdefault.jpg",
       "published": "2025-12-29T13:58:10+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_tnNKfn6k-Fs",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Anish Acharya on the 3 traps founders fall into",
-      "url": "https://www.youtube.com/watch?v=tnNKfn6k-Fs",
-      "thumbnail": "https://img.youtube.com/vi/tnNKfn6k-Fs/maxresdefault.jpg",
-      "published": "2025-12-28T20:00:40+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
