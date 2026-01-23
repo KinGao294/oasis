@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-01-22T01:24:06.974571Z",
+  "last_updated": "2026-01-23T01:21:55.653483Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_1XkVsE9-ZK4",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Codex in JetBrains IDEs",
+      "url": "https://www.youtube.com/watch?v=1XkVsE9-ZK4",
+      "thumbnail": "https://img.youtube.com/vi/1XkVsE9-ZK4/maxresdefault.jpg",
+      "published": "2026-01-22T18:12:15+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_dC_3ys349bU",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The ML Technique Every Founder Should Know",
+      "url": "https://www.youtube.com/watch?v=dC_3ys349bU",
+      "thumbnail": "https://img.youtube.com/vi/dC_3ys349bU/maxresdefault.jpg",
+      "published": "2026-01-22T15:01:12+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_0F4RpMEhk60",
       "source": "a16z",
@@ -410,22 +443,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_rXuKh4e6gw4",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Understanding your Scan Results | with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=rXuKh4e6gw4",
-      "thumbnail": "https://img.youtube.com/vi/rXuKh4e6gw4/maxresdefault.jpg",
-      "published": "2026-01-07T16:27:56+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_xRh2sVcNXQ8",
       "source": "a16z",
       "sourceId": "a16z",
@@ -752,23 +769,6 @@
       "url": "https://www.youtube.com/watch?v=Z4L4ZqL1xqQ",
       "thumbnail": "https://img.youtube.com/vi/Z4L4ZqL1xqQ/maxresdefault.jpg",
       "published": "2025-11-28T15:01:09+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_eiT9wMgesjI",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Chase the Hard Problems",
-      "url": "https://www.youtube.com/watch?v=eiT9wMgesjI",
-      "thumbnail": "https://img.youtube.com/vi/eiT9wMgesjI/maxresdefault.jpg",
-      "published": "2025-11-25T21:35:40+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
