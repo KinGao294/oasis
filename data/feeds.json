@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-01-23T01:21:55.653483Z",
+  "last_updated": "2026-01-24T01:20:03.101887Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_mFG-4vUJ0kI",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Build Hour: Apps in ChatGPT",
+      "url": "https://www.youtube.com/watch?v=mFG-4vUJ0kI",
+      "thumbnail": "https://img.youtube.com/vi/mFG-4vUJ0kI/maxresdefault.jpg",
+      "published": "2026-01-23T19:34:20+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_WI_w9po5oz0",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Building The World's First Reusable Rockets",
+      "url": "https://www.youtube.com/watch?v=WI_w9po5oz0",
+      "thumbnail": "https://img.youtube.com/vi/WI_w9po5oz0/maxresdefault.jpg",
+      "published": "2026-01-23T17:01:01+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_8bSAP6VVsd0",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Built a YouTube Channel That Runs Itself with GenSpark",
+      "url": "https://www.youtube.com/watch?v=8bSAP6VVsd0",
+      "thumbnail": "https://img.youtube.com/vi/8bSAP6VVsd0/maxresdefault.jpg",
+      "published": "2026-01-23T11:11:46+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_1XkVsE9-ZK4",
       "source": "OpenAI",
@@ -427,22 +477,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_30RRJsIHmbQ",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Preparing for a doctor’s appointment with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=30RRJsIHmbQ",
-      "thumbnail": "https://img.youtube.com/vi/30RRJsIHmbQ/maxresdefault.jpg",
-      "published": "2026-01-07T19:45:02+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_xRh2sVcNXQ8",
       "source": "a16z",
       "sourceId": "a16z",
@@ -752,23 +786,6 @@
       "url": "https://www.youtube.com/watch?v=Qp0rCU49lMs",
       "thumbnail": "https://img.youtube.com/vi/Qp0rCU49lMs/maxresdefault.jpg",
       "published": "2025-11-30T19:30:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Z4L4ZqL1xqQ",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Best Consumer Startup Ideas Were Impossible Until Now",
-      "url": "https://www.youtube.com/watch?v=Z4L4ZqL1xqQ",
-      "thumbnail": "https://img.youtube.com/vi/Z4L4ZqL1xqQ/maxresdefault.jpg",
-      "published": "2025-11-28T15:01:09+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1134,23 +1151,6 @@
       "url": "https://www.youtube.com/watch?v=YGzT3sVdwdY",
       "thumbnail": "https://img.youtube.com/vi/YGzT3sVdwdY/maxresdefault.jpg",
       "published": "2025-05-05T15:41:50+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Xg5SKoL1yT0",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Built an AI Credit-Score Bot That Made $1,032 in 2 Hours",
-      "url": "https://www.youtube.com/watch?v=Xg5SKoL1yT0",
-      "thumbnail": "https://img.youtube.com/vi/Xg5SKoL1yT0/maxresdefault.jpg",
-      "published": "2025-04-30T12:39:02+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
