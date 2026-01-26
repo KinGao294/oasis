@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-01-25T01:39:47.760709Z",
+  "last_updated": "2026-01-26T01:28:28.353189Z",
   "count": 80,
   "items": [
+    {
+      "id": "pod_guigu101_pod_7966d048_80a2_4592_bb25_54d8b2827c91",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E222｜紧身裤消失，谁在定义时尚潮流？",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/7966d048-80a2-4592-bb25-54d8b2827c91.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 3727,
+      "published": "2026-01-25T16:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "紧身裤几乎快从商场和电商页面上里消失了。 尽管它是这个世纪10年代的爆火单品，但人们正在以光速厌弃它。零售情报公司Edited发现，截至2025年第一季度，紧身裤在运动品牌下装中的占比已经从2022年的47%回落到了39%，取而代之的是，各种宽松版型的裤子正在占领人们的衣橱。除此之外，过去长期被认为很土、穿着像米其林的排骨羽绒服，成为了这个冬天最畅销的外套款式之一。 曾经的爆款为什么跌落神坛？曾经"
+    },
     {
       "id": "yt_ZqvgAzFKMgk",
       "source": "a16z",
@@ -684,25 +703,6 @@
       "published": "2025-12-12T20:01:08+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "pod_guigu101_pod_34b7da12_98ee_45e1_8ca0_0674278dc1da",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E217｜机器人开可乐发扑克有多难？聊聊灵巧手的硬件与算法",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/34b7da12-98ee-45e1-8ca0-0674278dc1da.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 4257,
-      "published": "2025-12-10T16:00:00-08:00",
-      "hasTranscript": false,
-      "transcriptPreview": "2026年，人形机器人将迎来规模化量产的元年。最清晰的信号来自特斯拉，“金色擎天柱”Optimus Gen 3预计在2026年第一季度亮相，并计划在年底前建成产能高达100万台的生产线。马斯克曾多次表示，特斯拉未来约80%的价值来自这里，而非汽车。而“擎天柱”的攻关关键，正在于它的“手与前臂”。 本期是我们机器人特辑之灵巧手，我们邀请了灵巧手模型算法方面和硬件方面的两位专家，一起聊聊灵巧手不同技术"
     },
     {
       "id": "yt_5WN8bfG06Hk",
