@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-01-26T01:28:28.353189Z",
+  "last_updated": "2026-01-27T01:27:15.597985Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_Wpxv-8nG8ec",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "OpenAI Town Hall with Sam Altman",
+      "url": "https://www.youtube.com/watch?v=Wpxv-8nG8ec",
+      "thumbnail": "https://img.youtube.com/vi/Wpxv-8nG8ec/maxresdefault.jpg",
+      "published": "2026-01-27T01:06:09+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_6HxT4nQmtvc",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "AI Is Scaling Faster Than Anyone Expected",
+      "url": "https://www.youtube.com/watch?v=6HxT4nQmtvc",
+      "thumbnail": "https://img.youtube.com/vi/6HxT4nQmtvc/maxresdefault.jpg",
+      "published": "2026-01-26T16:49:43+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "pod_guigu101_pod_7966d048_80a2_4592_bb25_54d8b2827c91",
       "source": "硅谷101",
@@ -81,7 +114,7 @@
         "AI",
         "Dev"
       ],
-      "title": "I Built a YouTube Channel That Runs Itself with GenSpark",
+      "title": "I Built a YouTube Channel That Runs Itself with Genspark",
       "url": "https://www.youtube.com/watch?v=8bSAP6VVsd0",
       "thumbnail": "https://img.youtube.com/vi/8bSAP6VVsd0/maxresdefault.jpg",
       "published": "2026-01-23T11:11:46+00:00",
@@ -497,22 +530,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_Aj4Wecpkee8",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Personalized nutrition tips with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=Aj4Wecpkee8",
-      "thumbnail": "https://img.youtube.com/vi/Aj4Wecpkee8/maxresdefault.jpg",
-      "published": "2026-01-07T19:45:55+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_xRh2sVcNXQ8",
       "source": "a16z",
       "sourceId": "a16z",
@@ -543,23 +560,6 @@
       "url": "https://www.youtube.com/watch?v=14OPT6CcsH4",
       "thumbnail": "https://img.youtube.com/vi/14OPT6CcsH4/maxresdefault.jpg",
       "published": "2025-12-31T21:26:17+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_J6_nNjy3al8",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI in 2026: 3 Predictions For What’s To Come (a16z Big Ideas)",
-      "url": "https://www.youtube.com/watch?v=J6_nNjy3al8",
-      "thumbnail": "https://img.youtube.com/vi/J6_nNjy3al8/maxresdefault.jpg",
-      "published": "2025-12-31T14:00:34+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
