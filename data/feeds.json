@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-01-27T01:27:15.597985Z",
+  "last_updated": "2026-01-28T01:23:34.260963Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_xnInEsaaj9c",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Introducing Prism, a free workspace for scientists to write and collaborate on research",
+      "url": "https://www.youtube.com/watch?v=xnInEsaaj9c",
+      "thumbnail": "https://img.youtube.com/vi/xnInEsaaj9c/maxresdefault.jpg",
+      "published": "2026-01-27T18:00:11+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_Wpxv-8nG8ec",
       "source": "OpenAI",
@@ -28,7 +44,7 @@
         "Business",
         "AI"
       ],
-      "title": "AI Is Scaling Faster Than Anyone Expected",
+      "title": "How AI Is Expanding The Entire Market",
       "url": "https://www.youtube.com/watch?v=6HxT4nQmtvc",
       "thumbnail": "https://img.youtube.com/vi/6HxT4nQmtvc/maxresdefault.jpg",
       "published": "2026-01-26T16:49:43+00:00",
@@ -205,7 +221,7 @@
       "duration": 3563,
       "published": "2026-01-19T16:00:00-08:00",
       "hasTranscript": false,
-      "transcriptPreview": "今年拉斯维加斯国际消费电子展上，人形机器人再次成为焦点——舞狮、打拳击、后空翻、打乒乓球，各种炫技的Demo，将“科技春晚”氛围拉满。但如果你期待的是泛化能力的突破，那么今年的展或许不会给你太多惊艳。 本期播客是机器人特辑的延续，此前我们探讨过许多关于机器人泛化的前沿探索，今天我们掉过头来，追问一个更根本的问题：我们真的需要人形机器人吗？ 本期嘉宾傅盛认为，人形机器人硬件并不遵循“摩尔定律”，靠堆"
+      "transcriptPreview": "今年拉斯维加斯国际消费电子展上，人形机器人再次成为焦点——舞狮、打拳击、后空翻、打乒乓球，各种炫技的Demo，将“科技春晚”氛围拉满。但如果你期待的是泛化能力的突破，那么今年的展或许不会给你太多惊艳。 本期播客是机器人特辑的延续，此前我们探讨过许多关于机器人泛化的前沿探索，今天我们调过头来，追问一个更根本的问题：我们真的需要人形机器人吗？ 本期嘉宾傅盛认为，人形机器人硬件并不遵循“摩尔定律”，靠堆"
     },
     {
       "id": "yt_Z3D2UmAesN4",
@@ -510,22 +526,6 @@
       "url": "https://www.youtube.com/watch?v=2hgjgycOU_0",
       "thumbnail": "https://img.youtube.com/vi/2hgjgycOU_0/maxresdefault.jpg",
       "published": "2026-01-08T15:00:11+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Z82cxeuCZ_I",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Securely connecting your information and apps with ChatGPT Health",
-      "url": "https://www.youtube.com/watch?v=Z82cxeuCZ_I",
-      "thumbnail": "https://img.youtube.com/vi/Z82cxeuCZ_I/maxresdefault.jpg",
-      "published": "2026-01-07T19:45:57+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
