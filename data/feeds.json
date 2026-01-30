@@ -1,7 +1,41 @@
 {
-  "last_updated": "2026-01-29T01:44:24.992459Z",
+  "last_updated": "2026-01-30T01:45:02.757091Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_leQ89XSHILw",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Framer CEO Reviews Startup Websites",
+      "url": "https://www.youtube.com/watch?v=leQ89XSHILw",
+      "thumbnail": "https://img.youtube.com/vi/leQ89XSHILw/maxresdefault.jpg",
+      "published": "2026-01-29T15:01:32+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_pGyHNyOUaqg",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Built & Launched a Mobile App in 10 Minutes (No Code)",
+      "url": "https://www.youtube.com/watch?v=pGyHNyOUaqg",
+      "thumbnail": "https://img.youtube.com/vi/pGyHNyOUaqg/maxresdefault.jpg",
+      "published": "2026-01-29T10:50:14+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_xnInEsaaj9c",
       "source": "OpenAI",
@@ -756,23 +790,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_t8co94HS6tY",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How Amplitude Went From Skeptics to “All In” on AI",
-      "url": "https://www.youtube.com/watch?v=t8co94HS6tY",
-      "thumbnail": "https://img.youtube.com/vi/t8co94HS6tY/maxresdefault.jpg",
-      "published": "2025-12-03T15:01:50+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_Qp0rCU49lMs",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -1134,23 +1151,6 @@
       "url": "https://www.youtube.com/watch?v=sc1woawDHKc",
       "thumbnail": "https://img.youtube.com/vi/sc1woawDHKc/maxresdefault.jpg",
       "published": "2025-05-13T18:28:56+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_YGzT3sVdwdY",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "My AI Sales Bot Made $596 Overnight | MCP Build",
-      "url": "https://www.youtube.com/watch?v=YGzT3sVdwdY",
-      "thumbnail": "https://img.youtube.com/vi/YGzT3sVdwdY/maxresdefault.jpg",
-      "published": "2025-05-05T15:41:50+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
