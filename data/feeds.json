@@ -1,7 +1,59 @@
 {
-  "last_updated": "2026-01-30T01:45:02.757091Z",
+  "last_updated": "2026-01-31T01:41:05.576168Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_K5JoLAauzq4",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "How We Redesigned Our Website",
+      "url": "https://www.youtube.com/watch?v=K5JoLAauzq4",
+      "thumbnail": "https://img.youtube.com/vi/K5JoLAauzq4/maxresdefault.jpg",
+      "published": "2026-01-30T15:00:39+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt__6VOEvdU6hM",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "2026，好久不見 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=_6VOEvdU6hM",
+      "thumbnail": "https://img.youtube.com/vi/_6VOEvdU6hM/maxresdefault.jpg",
+      "published": "2026-01-30T14:37:30+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_cbeec8b3_b0f6_4a2d_95f5_832452362423",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E223｜大模型商业化进入“实用主义时代”，谁在加速？谁在赚钱？",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/cbeec8b3-b0f6-4a2d-95f5-832452362423.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 4002,
+      "published": "2026-01-30T03:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "2025年被称作“AI应用元年”，大模型不再只是实验室里的技术玩具，而是真正走向生产线、走进企业流程、走入消费者日常。它已经冲进各行各业，开始“搞钱”！ 这一期对话揭示了一个清晰的时代信号：大模型正在从“技术狂热”走向“商业务实”。无论是阿里通过千问大模型推动全行业渗透，还是影石和语忆科技在一线将AI融入智能硬件、企业数据分析等真实业务流程，都表明：AI的价值不在于它多“智能”，而在于它多“有用”"
+    },
     {
       "id": "yt_leQ89XSHILw",
       "source": "Y Combinator",
@@ -12,7 +64,7 @@
         "Business",
         "AI"
       ],
-      "title": "Framer CEO Reviews Startup Websites",
+      "title": "Why Your Startup Website Isn't Converting",
       "url": "https://www.youtube.com/watch?v=leQ89XSHILw",
       "thumbnail": "https://img.youtube.com/vi/leQ89XSHILw/maxresdefault.jpg",
       "published": "2026-01-29T15:01:32+00:00",
@@ -703,25 +755,6 @@
       "transcriptPreview": "12月初，爱马仕的第五代继承人之一尼古拉斯·皮埃奇，将LVMH告上了法庭，理由是对方夺走了自己价值140亿欧元的600万股爱马仕股份。 整个案件起源于皮埃奇的两个身边人：他的40年好友兼私人财富顾问，以及他最近爱到视如己出的一位摩洛哥园丁。 事情的背后却牵涉到了奢侈品行业的一场世纪收购大战：2010年10月，LVMH突然宣布它已经获得了爱马仕接近20%的股份，爱马仕家族则团结了52名家族成员，聚集"
     },
     {
-      "id": "pod_guigu101_pod_f9859b6e_bcc3_4141_a783_4bd063a68768",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E218｜Netflix与派拉蒙竞购华纳兄弟，好莱坞的洗牌时刻？",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f9859b6e-bcc3-4141-a783-4bd063a68768.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 3223,
-      "published": "2025-12-14T15:45:00-08:00",
-      "hasTranscript": false,
-      "transcriptPreview": "关注Netflix历史的人都知道，这是一个几乎不参与大型收购的科技公司，而它却突然出手，提出高价收购华纳兄弟探索集团（WBD）这样一家体积庞大、历史悠久的传奇制片厂，究竟是要拯救它，还是毁了它？ 本期节目为《硅谷101》与《美轮美换》《去现场》串台节目，我们邀请到了两位资深媒体人小华和杨一，共同分析这场戏剧性的收购。我们录制的时间是12月7日，也就是派拉蒙提出敌意收购前一天。所以我们大部分的讨论，"
-    },
-    {
       "id": "yt__bBRVNkAfkQ",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -752,23 +785,6 @@
       "url": "https://www.youtube.com/watch?v=5WN8bfG06Hk",
       "thumbnail": "https://img.youtube.com/vi/5WN8bfG06Hk/maxresdefault.jpg",
       "published": "2025-12-10T15:00:19+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_JLW83-yNuBo",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Finding Opportunity in Outdated Rules",
-      "url": "https://www.youtube.com/watch?v=JLW83-yNuBo",
-      "thumbnail": "https://img.youtube.com/vi/JLW83-yNuBo/maxresdefault.jpg",
-      "published": "2025-12-05T17:12:55+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1118,22 +1134,6 @@
       "url": "https://www.youtube.com/watch?v=X-cm1dk3Peo",
       "thumbnail": "https://img.youtube.com/vi/X-cm1dk3Peo/maxresdefault.jpg",
       "published": "2025-07-09T14:23:57+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_x1VY8HbGQWM",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "世界最大的監獄 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=x1VY8HbGQWM",
-      "thumbnail": "https://img.youtube.com/vi/x1VY8HbGQWM/maxresdefault.jpg",
-      "published": "2025-06-25T14:00:16+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
