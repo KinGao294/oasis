@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-01-31T01:41:05.576168Z",
+  "last_updated": "2026-02-01T01:59:05.729787Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_EV7WhVT270Q",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
+      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
+      "thumbnail": "https://img.youtube.com/vi/EV7WhVT270Q/maxresdefault.jpg",
+      "published": "2026-01-31T22:33:33+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_K5JoLAauzq4",
       "source": "Y Combinator",
@@ -46,7 +63,7 @@
         "Business",
         "Global"
       ],
-      "title": "E223｜大模型商业化进入“实用主义时代”，谁在加速？谁在赚钱？",
+      "title": "E223｜应用爆发之年：聊聊模型技术进化与商业化",
       "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/cbeec8b3-b0f6-4a2d-95f5-832452362423.mp3",
       "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
       "duration": 4002,
@@ -1020,23 +1037,6 @@
       "url": "https://www.youtube.com/watch?v=VdF4cd0SitU",
       "thumbnail": "https://img.youtube.com/vi/VdF4cd0SitU/maxresdefault.jpg",
       "published": "2025-09-17T14:33:34+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_-Qm1_On71Oo",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Dave Hone: T-Rex, Dinosaurs, Extinction, Evolution, and Jurassic Park | Lex Fridman Podcast #480",
-      "url": "https://www.youtube.com/watch?v=-Qm1_On71Oo",
-      "thumbnail": "https://img.youtube.com/vi/-Qm1_On71Oo/maxresdefault.jpg",
-      "published": "2025-09-04T19:56:59+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
