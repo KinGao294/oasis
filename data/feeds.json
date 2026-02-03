@@ -1,7 +1,89 @@
 {
-  "last_updated": "2026-02-02T01:51:36.076328Z",
+  "last_updated": "2026-02-03T01:50:24.450017Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_HFM3se4lNiw",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Introducing the Codex app",
+      "url": "https://www.youtube.com/watch?v=HFM3se4lNiw",
+      "thumbnail": "https://img.youtube.com/vi/HFM3se4lNiw/maxresdefault.jpg",
+      "published": "2026-02-02T22:16:58+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_NAcdcunPfJg",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Accelerating science with Prism",
+      "url": "https://www.youtube.com/watch?v=NAcdcunPfJg",
+      "thumbnail": "https://img.youtube.com/vi/NAcdcunPfJg/maxresdefault.jpg",
+      "published": "2026-02-02T21:09:07+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_iLP0YyNwpTc",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Cursor for Product Managers",
+      "url": "https://www.youtube.com/watch?v=iLP0YyNwpTc",
+      "thumbnail": "https://img.youtube.com/vi/iLP0YyNwpTc/maxresdefault.jpg",
+      "published": "2026-02-02T21:04:22+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_0e-Brv-gS9Q",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "A first look at the Codex app",
+      "url": "https://www.youtube.com/watch?v=0e-Brv-gS9Q",
+      "thumbnail": "https://img.youtube.com/vi/0e-Brv-gS9Q/maxresdefault.jpg",
+      "published": "2026-02-02T18:03:33+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_jLVgGGz5bvk",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Ben Horowitz & David Solomon on Scaling a16z and Goldman Sachs",
+      "url": "https://www.youtube.com/watch?v=jLVgGGz5bvk",
+      "thumbnail": "https://img.youtube.com/vi/jLVgGGz5bvk/maxresdefault.jpg",
+      "published": "2026-02-02T18:00:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_EV7WhVT270Q",
       "source": "Lex Fridman",
@@ -147,7 +229,7 @@
         "Business",
         "AI"
       ],
-      "title": "The Biggest Bottlenecks For AI: Enegry & Cooling",
+      "title": "The Biggest Bottlenecks For AI: Energy & Cooling",
       "url": "https://www.youtube.com/watch?v=6HxT4nQmtvc",
       "thumbnail": "https://img.youtube.com/vi/6HxT4nQmtvc/maxresdefault.jpg",
       "published": "2026-01-26T16:49:43+00:00",
@@ -568,54 +650,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_px7XlbYgk7I",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Getting started with Codex",
-      "url": "https://www.youtube.com/watch?v=px7XlbYgk7I",
-      "thumbnail": "https://img.youtube.com/vi/px7XlbYgk7I/maxresdefault.jpg",
-      "published": "2026-01-12T16:11:51+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_cjveRUfE7dc",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "This Year with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=cjveRUfE7dc",
-      "thumbnail": "https://img.youtube.com/vi/cjveRUfE7dc/maxresdefault.jpg",
-      "published": "2026-01-09T16:00:11+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_uZ_BMwB647A",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Preparing for Appointments | with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=uZ_BMwB647A",
-      "thumbnail": "https://img.youtube.com/vi/uZ_BMwB647A/maxresdefault.jpg",
-      "published": "2026-01-08T17:15:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_2hgjgycOU_0",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -629,23 +663,6 @@
       "url": "https://www.youtube.com/watch?v=2hgjgycOU_0",
       "thumbnail": "https://img.youtube.com/vi/2hgjgycOU_0/maxresdefault.jpg",
       "published": "2026-01-08T15:00:11+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_xRh2sVcNXQ8",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Marc Andreessen's 2026 Outlook: AI Timelines, US vs. China, and The Price of AI",
-      "url": "https://www.youtube.com/watch?v=xRh2sVcNXQ8",
-      "thumbnail": "https://img.youtube.com/vi/xRh2sVcNXQ8/maxresdefault.jpg",
-      "published": "2026-01-07T16:23:46+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -785,23 +802,6 @@
       "url": "https://www.youtube.com/watch?v=_bBRVNkAfkQ",
       "thumbnail": "https://img.youtube.com/vi/_bBRVNkAfkQ/maxresdefault.jpg",
       "published": "2025-12-12T20:01:08+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_5WN8bfG06Hk",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "From Pivot Hell To $1.4 Billion Unicorn",
-      "url": "https://www.youtube.com/watch?v=5WN8bfG06Hk",
-      "thumbnail": "https://img.youtube.com/vi/5WN8bfG06Hk/maxresdefault.jpg",
-      "published": "2025-12-10T15:00:19+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
