@@ -1,7 +1,59 @@
 {
-  "last_updated": "2026-02-03T01:50:24.450017Z",
+  "last_updated": "2026-02-04T01:45:26.757274Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_pOZi4PKW54M",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "AI Powered Agencies",
+      "url": "https://www.youtube.com/watch?v=pOZi4PKW54M",
+      "thumbnail": "https://img.youtube.com/vi/pOZi4PKW54M/maxresdefault.jpg",
+      "published": "2026-02-03T22:11:38+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_xHnlzAPD9QI",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Automate tasks with the Codex app",
+      "url": "https://www.youtube.com/watch?v=xHnlzAPD9QI",
+      "thumbnail": "https://img.youtube.com/vi/xHnlzAPD9QI/maxresdefault.jpg",
+      "published": "2026-02-03T18:04:15+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_a3db99dd_ae7e_4934_9902_73782ecf9053",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E224｜深度拆解Clawdbot，为何它能成为2026年第一个现象级产品？",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/a3db99dd-ae7e-4934-9902-73782ecf9053.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 4780,
+      "published": "2026-02-03T16:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "AI正在冲出浏览器，走向了接管电脑权限、主动为人打工的新阶段，为了它，你得买台Mac mini？ GitHub星标数几天内突破14万，社交媒体上全网刷屏，甚至直接带火了Mac mini的销量，Clawdbot成了2026“AI Agent爆发元年”第一个现象级产品。它不再是冷冰冰的聊天框，而是一个住在你电脑里、甚至能在AI“朋友圈”里社交的“数字生命”。 Clawdbot的“活人感“来自哪里？那些"
+    },
     {
       "id": "yt_HFM3se4lNiw",
       "source": "OpenAI",
@@ -77,7 +129,7 @@
         "Business",
         "AI"
       ],
-      "title": "Ben Horowitz & David Solomon on Scaling a16z and Goldman Sachs",
+      "title": "Ben Horowitz and David Solomon: The Sweetest Macro Spot in 40 Years",
       "url": "https://www.youtube.com/watch?v=jLVgGGz5bvk",
       "thumbnail": "https://img.youtube.com/vi/jLVgGGz5bvk/maxresdefault.jpg",
       "published": "2026-02-02T18:00:00+00:00",
@@ -634,22 +686,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_g4MTiidxp8I",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Helping you choose the right insurance plan for you with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=g4MTiidxp8I",
-      "thumbnail": "https://img.youtube.com/vi/g4MTiidxp8I/maxresdefault.jpg",
-      "published": "2026-01-12T17:13:07+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_2hgjgycOU_0",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -751,42 +787,6 @@
       "published": "2025-12-22T15:01:25+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "yt_pBlIgs6w7Ss",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How Intelligent Is AI, Really?",
-      "url": "https://www.youtube.com/watch?v=pBlIgs6w7Ss",
-      "thumbnail": "https://img.youtube.com/vi/pBlIgs6w7Ss/maxresdefault.jpg",
-      "published": "2025-12-17T15:01:40+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "pod_guigu101_pod_5094ed82_ac50_4991_b317_f340493d4d1f",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E219｜140亿欧元爱马仕股份是怎么消失的？",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5094ed82-ac50-4991-b317-f340493d4d1f.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 4752,
-      "published": "2025-12-17T15:00:00-08:00",
-      "hasTranscript": false,
-      "transcriptPreview": "12月初，爱马仕的第五代继承人之一尼古拉斯·皮埃奇，将LVMH告上了法庭，理由是对方夺走了自己价值140亿欧元的600万股爱马仕股份。 整个案件起源于皮埃奇的两个身边人：他的40年好友兼私人财富顾问，以及他最近爱到视如己出的一位摩洛哥园丁。 事情的背后却牵涉到了奢侈品行业的一场世纪收购大战：2010年10月，LVMH突然宣布它已经获得了爱马仕接近20%的股份，爱马仕家族则团结了52名家族成员，聚集"
     },
     {
       "id": "yt__bBRVNkAfkQ",
