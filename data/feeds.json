@@ -1,7 +1,74 @@
 {
-  "last_updated": "2026-02-04T01:45:26.757274Z",
+  "last_updated": "2026-02-05T01:46:42.289344Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_opFl1RXZUSE",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Ben Horowitz on Winning vs Picking",
+      "url": "https://www.youtube.com/watch?v=opFl1RXZUSE",
+      "thumbnail": "https://img.youtube.com/vi/opFl1RXZUSE/maxresdefault.jpg",
+      "published": "2026-02-04T20:00:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_P7HXxl14dCA",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "How designers prototype using the Codex app",
+      "url": "https://www.youtube.com/watch?v=P7HXxl14dCA",
+      "thumbnail": "https://img.youtube.com/vi/P7HXxl14dCA/maxresdefault.jpg",
+      "published": "2026-02-04T18:29:45+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_hSDlgCKBx6w",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "AI Guidance for Physical Work",
+      "url": "https://www.youtube.com/watch?v=hSDlgCKBx6w",
+      "thumbnail": "https://img.youtube.com/vi/hSDlgCKBx6w/maxresdefault.jpg",
+      "published": "2026-02-04T18:25:33+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_70ec37XHGIg",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Ozempic Won't Solve America's Obesity Problem",
+      "url": "https://www.youtube.com/watch?v=70ec37XHGIg",
+      "thumbnail": "https://img.youtube.com/vi/70ec37XHGIg/maxresdefault.jpg",
+      "published": "2026-02-04T16:11:37+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_pOZi4PKW54M",
       "source": "Y Combinator",
@@ -52,7 +119,7 @@
       "duration": 4780,
       "published": "2026-02-03T16:00:00-08:00",
       "hasTranscript": false,
-      "transcriptPreview": "AI正在冲出浏览器，走向了接管电脑权限、主动为人打工的新阶段，为了它，你得买台Mac mini？ GitHub星标数几天内突破14万，社交媒体上全网刷屏，甚至直接带火了Mac mini的销量，Clawdbot成了2026“AI Agent爆发元年”第一个现象级产品。它不再是冷冰冰的聊天框，而是一个住在你电脑里、甚至能在AI“朋友圈”里社交的“数字生命”。 Clawdbot的“活人感“来自哪里？那些"
+      "transcriptPreview": "AI正在冲出浏览器，走向了接管电脑权限、主动为人打工的新阶段，为了它，你得买台Mac mini？ GitHub星标数几天内突破14万，社交媒体上全网刷屏，甚至直接带火了Mac mini的销量，Clawdbot成了2026“AI Agent爆发元年”第一个现象级产品。它不再是冷冰冰的聊天框，而是一个住在你电脑里、甚至能在AI“朋友圈”（Moltbook）里社交的“数字生命”。 Clawdbot的“活"
     },
     {
       "id": "yt_HFM3se4lNiw",
@@ -511,22 +578,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_RXJ8zqblP5M",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "ChatGPT Go is rolling out everywhere ChatGPT is available.",
-      "url": "https://www.youtube.com/watch?v=RXJ8zqblP5M",
-      "thumbnail": "https://img.youtube.com/vi/RXJ8zqblP5M/maxresdefault.jpg",
-      "published": "2026-01-16T18:06:04+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_UZbXWYY7y-A",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -652,40 +703,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_M9VKnPMs6Rw",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "It's Time To Build",
-      "url": "https://www.youtube.com/watch?v=M9VKnPMs6Rw",
-      "thumbnail": "https://img.youtube.com/vi/M9VKnPMs6Rw/maxresdefault.jpg",
-      "published": "2026-01-13T17:15:28+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_r8_2CSpcmls",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Ben Horowitz on Investing in AI: AI Bubbles, Economic Impact, and VC Acceleration",
-      "url": "https://www.youtube.com/watch?v=r8_2CSpcmls",
-      "thumbnail": "https://img.youtube.com/vi/r8_2CSpcmls/maxresdefault.jpg",
-      "published": "2026-01-13T14:01:38+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_2hgjgycOU_0",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -768,23 +785,6 @@
       "url": "https://www.youtube.com/watch?v=Q7INj06TUv4",
       "thumbnail": "https://img.youtube.com/vi/Q7INj06TUv4/maxresdefault.jpg",
       "published": "2025-12-23T09:29:56+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_cqrJzG03ENE",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Truth About The AI Bubble",
-      "url": "https://www.youtube.com/watch?v=cqrJzG03ENE",
-      "thumbnail": "https://img.youtube.com/vi/cqrJzG03ENE/maxresdefault.jpg",
-      "published": "2025-12-22T15:01:25+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1049,7 +1049,7 @@
       "domains": [
         "Creator"
       ],
-      "title": "鉛，地球上最大的公害物質，我們都中過它的毒 | 老高與小茉 Mr & Mrs Gao",
+      "title": "可怕的鉛 | 老高與小茉 Mr & Mrs Gao",
       "url": "https://www.youtube.com/watch?v=hACEeJKE6TE",
       "thumbnail": "https://img.youtube.com/vi/hACEeJKE6TE/maxresdefault.jpg",
       "published": "2025-09-03T14:44:31+00:00",
