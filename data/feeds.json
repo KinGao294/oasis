@@ -1,7 +1,123 @@
 {
-  "last_updated": "2026-02-06T01:45:58.918402Z",
+  "last_updated": "2026-02-07T01:43:47.234993Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_9ohXlkbXiM4",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Multitasking with the Codex app",
+      "url": "https://www.youtube.com/watch?v=9ohXlkbXiM4",
+      "thumbnail": "https://img.youtube.com/vi/9ohXlkbXiM4/maxresdefault.jpg",
+      "published": "2026-02-06T23:08:52+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_4l_w08gcBFk",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Cricket Academy with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=4l_w08gcBFk",
+      "thumbnail": "https://img.youtube.com/vi/4l_w08gcBFk/maxresdefault.jpg",
+      "published": "2026-02-06T20:06:40+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_SkSlUt63V6Y",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "City Selections with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=SkSlUt63V6Y",
+      "thumbnail": "https://img.youtube.com/vi/SkSlUt63V6Y/maxresdefault.jpg",
+      "published": "2026-02-06T20:05:25+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_asalbJSHS8g",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Make LLMs easy",
+      "url": "https://www.youtube.com/watch?v=asalbJSHS8g",
+      "thumbnail": "https://img.youtube.com/vi/asalbJSHS8g/maxresdefault.jpg",
+      "published": "2026-02-06T17:02:45+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_1mUTuQlEnCc",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Infrastructure for Government Fraud Hunters",
+      "url": "https://www.youtube.com/watch?v=1mUTuQlEnCc",
+      "thumbnail": "https://img.youtube.com/vi/1mUTuQlEnCc/maxresdefault.jpg",
+      "published": "2026-02-06T17:02:05+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_afkFLnyrLww",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "From $0 to $11B: The ElevenLabs Story",
+      "url": "https://www.youtube.com/watch?v=afkFLnyrLww",
+      "thumbnail": "https://img.youtube.com/vi/afkFLnyrLww/maxresdefault.jpg",
+      "published": "2026-02-06T16:00:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_qwmmWzPnhog",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "We're All Addicted To Claude Code",
+      "url": "https://www.youtube.com/watch?v=qwmmWzPnhog",
+      "thumbnail": "https://img.youtube.com/vi/qwmmWzPnhog/maxresdefault.jpg",
+      "published": "2026-02-06T15:01:43+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_iupsBLiNznU",
       "source": "OpenAI",
@@ -219,22 +335,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_0e-Brv-gS9Q",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "A first look at the Codex app",
-      "url": "https://www.youtube.com/watch?v=0e-Brv-gS9Q",
-      "thumbnail": "https://img.youtube.com/vi/0e-Brv-gS9Q/maxresdefault.jpg",
-      "published": "2026-02-02T18:03:33+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_jLVgGGz5bvk",
       "source": "a16z",
       "sourceId": "a16z",
@@ -351,38 +451,6 @@
       "url": "https://www.youtube.com/watch?v=pGyHNyOUaqg",
       "thumbnail": "https://img.youtube.com/vi/pGyHNyOUaqg/maxresdefault.jpg",
       "published": "2026-01-29T10:50:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_xnInEsaaj9c",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Introducing Prism, a free workspace for scientists to write and collaborate on research",
-      "url": "https://www.youtube.com/watch?v=xnInEsaaj9c",
-      "thumbnail": "https://img.youtube.com/vi/xnInEsaaj9c/maxresdefault.jpg",
-      "published": "2026-01-27T18:00:11+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Wpxv-8nG8ec",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "OpenAI Town Hall with Sam Altman",
-      "url": "https://www.youtube.com/watch?v=Wpxv-8nG8ec",
-      "thumbnail": "https://img.youtube.com/vi/Wpxv-8nG8ec/maxresdefault.jpg",
-      "published": "2026-01-27T01:06:09+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -578,40 +646,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_UZbXWYY7y-A",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The AI Economy Is Stabilizing",
-      "url": "https://www.youtube.com/watch?v=UZbXWYY7y-A",
-      "thumbnail": "https://img.youtube.com/vi/UZbXWYY7y-A/maxresdefault.jpg",
-      "published": "2026-01-15T18:15:03+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Kdql4I-NJ0M",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Ben & Marc: Why Everything Is About to Get 10x Bigger",
-      "url": "https://www.youtube.com/watch?v=Kdql4I-NJ0M",
-      "thumbnail": "https://img.youtube.com/vi/Kdql4I-NJ0M/maxresdefault.jpg",
-      "published": "2026-01-15T17:39:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_752a8b52_eb8b_42c6_aacc_674b998f5604",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -669,23 +703,6 @@
       "transcriptPreview": "本期节目是硅谷101新年直播精华系列的第一期。我们将三小时完整直播拆分成了三期播客，分别围绕2025年备受关注的几个领域：AI、自动驾驶与美股投资。 回顾2025年的AI行业，我们见证了开源势力的崛起，见证了硅谷的人才大战，见证了“循环融资”模式的上演，也见证了万亿大基建和能源争夺的疯狂。 这一年，共识出现了转变，企业不再追求最贵最好的模型，而是转向垂直领域的小模型。大家比拼的也不再是谁的AI智商"
     },
     {
-      "id": "yt_0kARDVL2nZg",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How To Get Your First Users",
-      "url": "https://www.youtube.com/watch?v=0kARDVL2nZg",
-      "thumbnail": "https://img.youtube.com/vi/0kARDVL2nZg/maxresdefault.jpg",
-      "published": "2026-01-14T15:00:05+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_Z-FRe5AKmCU",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -699,23 +716,6 @@
       "url": "https://www.youtube.com/watch?v=Z-FRe5AKmCU",
       "thumbnail": "https://img.youtube.com/vi/Z-FRe5AKmCU/maxresdefault.jpg",
       "published": "2026-01-13T20:06:59+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_2hgjgycOU_0",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Inside The Startup Building Reusable Rockets",
-      "url": "https://www.youtube.com/watch?v=2hgjgycOU_0",
-      "thumbnail": "https://img.youtube.com/vi/2hgjgycOU_0/maxresdefault.jpg",
-      "published": "2026-01-08T15:00:11+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
