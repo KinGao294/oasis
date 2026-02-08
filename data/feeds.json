@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-02-07T01:43:47.234993Z",
+  "last_updated": "2026-02-08T02:09:37.133500Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_4uzGDAoNOZc",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "OpenClaw Creator: Why 80% Of Apps Will Disappear",
+      "url": "https://www.youtube.com/watch?v=4uzGDAoNOZc",
+      "thumbnail": "https://img.youtube.com/vi/4uzGDAoNOZc/maxresdefault.jpg",
+      "published": "2026-02-07T15:00:13+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_9ohXlkbXiM4",
       "source": "OpenAI",
@@ -538,23 +555,6 @@
       "url": "https://www.youtube.com/watch?v=8bSAP6VVsd0",
       "thumbnail": "https://img.youtube.com/vi/8bSAP6VVsd0/maxresdefault.jpg",
       "published": "2026-01-23T11:11:46+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_dC_3ys349bU",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The ML Technique Every Founder Should Know",
-      "url": "https://www.youtube.com/watch?v=dC_3ys349bU",
-      "thumbnail": "https://img.youtube.com/vi/dC_3ys349bU/maxresdefault.jpg",
-      "published": "2026-01-22T15:01:12+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
