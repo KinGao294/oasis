@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-02-08T02:09:37.133500Z",
+  "last_updated": "2026-02-09T01:53:43.110062Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_aCN9iCXNJqQ",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "OpenAI Super Bowl 2026 | Codex | You Can Just Build Things",
+      "url": "https://www.youtube.com/watch?v=aCN9iCXNJqQ",
+      "thumbnail": "https://img.youtube.com/vi/aCN9iCXNJqQ/maxresdefault.jpg",
+      "published": "2026-02-09T00:03:46+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_F-KQMMJ73s4",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Reindustrialize With Modern Metal Mills",
+      "url": "https://www.youtube.com/watch?v=F-KQMMJ73s4",
+      "thumbnail": "https://img.youtube.com/vi/F-KQMMJ73s4/maxresdefault.jpg",
+      "published": "2026-02-08T04:17:18+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_4uzGDAoNOZc",
       "source": "Y Combinator",
@@ -144,7 +177,7 @@
       "domains": [
         "AI"
       ],
-      "title": "Growing a family tamale shop | with ChatGPT",
+      "title": "Growing a family tamale shop | with ChatGPT | Super Bowl 2026",
       "url": "https://www.youtube.com/watch?v=iupsBLiNznU",
       "thumbnail": "https://img.youtube.com/vi/iupsBLiNznU/maxresdefault.jpg",
       "published": "2026-02-05T10:01:16+00:00",
@@ -160,7 +193,7 @@
       "domains": [
         "AI"
       ],
-      "title": "Modernizing an 86-year-old salvage yard | with ChatGPT",
+      "title": "Modernizing an 86-year-old salvage yard | with ChatGPT | Super Bowl 2026",
       "url": "https://www.youtube.com/watch?v=W6c7XcB6HwM",
       "thumbnail": "https://img.youtube.com/vi/W6c7XcB6HwM/maxresdefault.jpg",
       "published": "2026-02-05T10:01:10+00:00",
@@ -176,7 +209,7 @@
       "domains": [
         "AI"
       ],
-      "title": "Generations of farming | with ChatGPT",
+      "title": "Generations of farming | with ChatGPT | Super Bowl 2026",
       "url": "https://www.youtube.com/watch?v=4rzeW4dbvlQ",
       "thumbnail": "https://img.youtube.com/vi/4rzeW4dbvlQ/maxresdefault.jpg",
       "published": "2026-02-05T10:01:03+00:00",
@@ -315,22 +348,6 @@
       "url": "https://www.youtube.com/watch?v=HFM3se4lNiw",
       "thumbnail": "https://img.youtube.com/vi/HFM3se4lNiw/maxresdefault.jpg",
       "published": "2026-02-02T22:16:58+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_NAcdcunPfJg",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Accelerating science with Prism",
-      "url": "https://www.youtube.com/watch?v=NAcdcunPfJg",
-      "thumbnail": "https://img.youtube.com/vi/NAcdcunPfJg/maxresdefault.jpg",
-      "published": "2026-02-02T21:09:07+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -521,23 +538,6 @@
       "url": "https://www.youtube.com/watch?v=ZqvgAzFKMgk",
       "thumbnail": "https://img.youtube.com/vi/ZqvgAzFKMgk/maxresdefault.jpg",
       "published": "2026-01-24T20:00:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_WI_w9po5oz0",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Building The World's First Reusable Rockets",
-      "url": "https://www.youtube.com/watch?v=WI_w9po5oz0",
-      "thumbnail": "https://img.youtube.com/vi/WI_w9po5oz0/maxresdefault.jpg",
-      "published": "2026-01-23T17:01:01+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
