@@ -1,7 +1,90 @@
 {
-  "last_updated": "2026-02-09T01:53:43.110062Z",
+  "last_updated": "2026-02-10T02:04:15.934302Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_6OiE0jIY93c",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "How PMs use the Codex app",
+      "url": "https://www.youtube.com/watch?v=6OiE0jIY93c",
+      "thumbnail": "https://img.youtube.com/vi/6OiE0jIY93c/maxresdefault.jpg",
+      "published": "2026-02-09T21:48:11+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_2agJo3Jf_O4",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Episode 13 - The Thinking Behind Ads in ChatGPT",
+      "url": "https://www.youtube.com/watch?v=2agJo3Jf_O4",
+      "thumbnail": "https://img.youtube.com/vi/2agJo3Jf_O4/maxresdefault.jpg",
+      "published": "2026-02-09T19:00:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_bLFl8OffFLE",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Large Spatial Models",
+      "url": "https://www.youtube.com/watch?v=bLFl8OffFLE",
+      "thumbnail": "https://img.youtube.com/vi/bLFl8OffFLE/maxresdefault.jpg",
+      "published": "2026-02-09T16:31:58+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_s44_2s9Lkzk",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "AI for Government",
+      "url": "https://www.youtube.com/watch?v=s44_2s9Lkzk",
+      "thumbnail": "https://img.youtube.com/vi/s44_2s9Lkzk/maxresdefault.jpg",
+      "published": "2026-02-09T16:31:51+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_rSohMpT24SI",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "David George on the State of AI Markets",
+      "url": "https://www.youtube.com/watch?v=rSohMpT24SI",
+      "thumbnail": "https://img.youtube.com/vi/rSohMpT24SI/maxresdefault.jpg",
+      "published": "2026-02-09T15:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_aCN9iCXNJqQ",
       "source": "OpenAI",
@@ -276,7 +359,7 @@
         "Business",
         "AI"
       ],
-      "title": "Ozempic Won't Solve America's Obesity Problem",
+      "title": "Truemed CEO Justin Mares on Why Ozempic Won’t Solve America’s Obesity Problem",
       "url": "https://www.youtube.com/watch?v=70ec37XHGIg",
       "thumbnail": "https://img.youtube.com/vi/70ec37XHGIg/maxresdefault.jpg",
       "published": "2026-02-04T16:11:37+00:00",
@@ -301,22 +384,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_xHnlzAPD9QI",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Automate tasks with the Codex app",
-      "url": "https://www.youtube.com/watch?v=xHnlzAPD9QI",
-      "thumbnail": "https://img.youtube.com/vi/xHnlzAPD9QI/maxresdefault.jpg",
-      "published": "2026-02-03T18:04:15+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_a3db99dd_ae7e_4934_9902_73782ecf9053",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -334,22 +401,6 @@
       "published": "2026-02-03T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "AI正在冲出浏览器，走向了接管电脑权限、主动为人打工的新阶段，为了它，你得买台Mac mini？ GitHub星标数几天内突破14万，社交媒体上全网刷屏，甚至直接带火了Mac mini的销量，Clawdbot成了2026“AI Agent爆发元年”第一个现象级产品。它不再是冷冰冰的聊天框，而是一个住在你电脑里、甚至能在AI“朋友圈”（Moltbook）里社交的“数字生命”。 Clawdbot的“活"
-    },
-    {
-      "id": "yt_HFM3se4lNiw",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Introducing the Codex app",
-      "url": "https://www.youtube.com/watch?v=HFM3se4lNiw",
-      "thumbnail": "https://img.youtube.com/vi/HFM3se4lNiw/maxresdefault.jpg",
-      "published": "2026-02-02T22:16:58+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_iLP0YyNwpTc",
@@ -403,23 +454,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_K5JoLAauzq4",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How We Redesigned Our Website",
-      "url": "https://www.youtube.com/watch?v=K5JoLAauzq4",
-      "thumbnail": "https://img.youtube.com/vi/K5JoLAauzq4/maxresdefault.jpg",
-      "published": "2026-01-30T15:00:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt__6VOEvdU6hM",
       "source": "老高与茉莉",
       "sourceId": "laogao",
@@ -453,23 +487,6 @@
       "published": "2026-01-30T03:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "2025年被称作“AI应用元年”，大模型不再只是实验室里的技术玩具，而是真正走向生产线、走进企业流程、走入消费者日常。它已经冲进各行各业，开始“搞钱”！ 这一期对话揭示了一个清晰的时代信号：大模型正在从“技术狂热”走向“商业务实”。无论是阿里通过千问大模型推动全行业渗透，还是影石和语忆科技在一线将AI融入智能硬件、企业数据分析等真实业务流程，都表明：AI的价值不在于它多“智能”，而在于它多“有用”"
-    },
-    {
-      "id": "yt_leQ89XSHILw",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Why Your Startup Website Isn't Converting",
-      "url": "https://www.youtube.com/watch?v=leQ89XSHILw",
-      "thumbnail": "https://img.youtube.com/vi/leQ89XSHILw/maxresdefault.jpg",
-      "published": "2026-01-29T15:01:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_pGyHNyOUaqg",
@@ -625,23 +642,6 @@
       "url": "https://www.youtube.com/watch?v=N_YIAomr35A",
       "thumbnail": "https://img.youtube.com/vi/N_YIAomr35A/maxresdefault.jpg",
       "published": "2026-01-17T20:00:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_D7sJc8kJC9s",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Why Venture Capital is a game of outliers - Marc Andreessen",
-      "url": "https://www.youtube.com/watch?v=D7sJc8kJC9s",
-      "thumbnail": "https://img.youtube.com/vi/D7sJc8kJC9s/maxresdefault.jpg",
-      "published": "2026-01-16T20:00:09+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
