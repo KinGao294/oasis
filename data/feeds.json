@@ -1,7 +1,40 @@
 {
-  "last_updated": "2026-02-10T02:04:15.934302Z",
+  "last_updated": "2026-02-11T01:59:52.913374Z",
   "count": 80,
   "items": [
+    {
+      "id": "yt_N8ajU0uav80",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Stablecoin Financial Services",
+      "url": "https://www.youtube.com/watch?v=N8ajU0uav80",
+      "thumbnail": "https://img.youtube.com/vi/N8ajU0uav80/maxresdefault.jpg",
+      "published": "2026-02-10T22:00:15+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_2gCqVb2lBwk",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Updates to deep research in ChatGPT",
+      "url": "https://www.youtube.com/watch?v=2gCqVb2lBwk",
+      "thumbnail": "https://img.youtube.com/vi/2gCqVb2lBwk/maxresdefault.jpg",
+      "published": "2026-02-10T19:30:48+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_6OiE0jIY93c",
       "source": "OpenAI",
@@ -78,7 +111,7 @@
         "Business",
         "AI"
       ],
-      "title": "David George on the State of AI Markets",
+      "title": "AI Markets: Deep Dive with a16z's David George",
       "url": "https://www.youtube.com/watch?v=rSohMpT24SI",
       "thumbnail": "https://img.youtube.com/vi/rSohMpT24SI/maxresdefault.jpg",
       "published": "2026-02-09T15:30:00+00:00",
@@ -317,22 +350,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_P7HXxl14dCA",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "How designers prototype using the Codex app",
-      "url": "https://www.youtube.com/watch?v=P7HXxl14dCA",
-      "thumbnail": "https://img.youtube.com/vi/P7HXxl14dCA/maxresdefault.jpg",
-      "published": "2026-02-04T18:29:45+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_hSDlgCKBx6w",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -401,23 +418,6 @@
       "published": "2026-02-03T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "AI正在冲出浏览器，走向了接管电脑权限、主动为人打工的新阶段，为了它，你得买台Mac mini？ GitHub星标数几天内突破14万，社交媒体上全网刷屏，甚至直接带火了Mac mini的销量，Clawdbot成了2026“AI Agent爆发元年”第一个现象级产品。它不再是冷冰冰的聊天框，而是一个住在你电脑里、甚至能在AI“朋友圈”（Moltbook）里社交的“数字生命”。 Clawdbot的“活"
-    },
-    {
-      "id": "yt_iLP0YyNwpTc",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Cursor for Product Managers",
-      "url": "https://www.youtube.com/watch?v=iLP0YyNwpTc",
-      "thumbnail": "https://img.youtube.com/vi/iLP0YyNwpTc/maxresdefault.jpg",
-      "published": "2026-02-02T21:04:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_jLVgGGz5bvk",
