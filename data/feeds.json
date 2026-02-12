@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-02-11T01:59:52.913374Z",
-  "count": 80,
+  "last_updated": "2026-02-12T01:53:04.987625Z",
+  "count": 91,
   "items": [
+    {
+      "id": "yt_dHCNpcNyoFM",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Codex checks its work for you",
+      "url": "https://www.youtube.com/watch?v=dHCNpcNyoFM",
+      "thumbnail": "https://img.youtube.com/vi/dHCNpcNyoFM/maxresdefault.jpg",
+      "published": "2026-02-11T19:08:33+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_3-Zj8i8XNP8",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "AI Native Hedge Funds",
+      "url": "https://www.youtube.com/watch?v=3-Zj8i8XNP8",
+      "thumbnail": "https://img.youtube.com/vi/3-Zj8i8XNP8/maxresdefault.jpg",
+      "published": "2026-02-11T15:58:34+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2021599689582252242",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "These funds have the best scout programs for angel investors: • Sequoia • Greylock • Accel • a16z • Index Ventures • Lightspeed",
+      "url": "https://x.com/benln/status/2021599689582252242",
+      "images": null,
+      "published": "2026-02-11T14:58:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_r0uij_l32to",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Hired 5 AI Employees for $0 (Here's What Happened)",
+      "url": "https://www.youtube.com/watch?v=r0uij_l32to",
+      "thumbnail": "https://img.youtube.com/vi/r0uij_l32to/maxresdefault.jpg",
+      "published": "2026-02-11T14:43:36+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_uDuQKsdYfZw",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Magic Johnson on The $1B Nike Deal That Got Away | Full Conversation with a16z",
+      "url": "https://www.youtube.com/watch?v=uDuQKsdYfZw",
+      "thumbnail": "https://img.youtube.com/vi/uDuQKsdYfZw/maxresdefault.jpg",
+      "published": "2026-02-11T14:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_N8ajU0uav80",
       "source": "Y Combinator",
@@ -36,6 +120,40 @@
       "transcriptPreview": null
     },
     {
+      "id": "x_2021301857352638635",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Unlimited token budget: cursor.com/careers Ethan Mollick (@emollick) If you are considering taking a job offer, you may want to ask what your token budget will be. — https://nitter.net/emollick/status/2019621077970993265#m",
+      "url": "https://x.com/benln/status/2021301857352638635",
+      "images": null,
+      "published": "2026-02-10T19:14:51+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2021222404463145405",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor events in these cities over the next two weeks: Bangkok, Seattle, Oslo, Northampton, Boston, Puebla, Vienna, Melbourne, Adama, Khorezm, Warsaw, San Salvador, Boston, Krakow, LA, Copenhagen, Kyiv, Mendoza, Toronto, Bangkok, Baku, Istanbul, São Paulo, Santiago, Vancouver, Manta, Porto Alegre, Philadelphia, Sydney, Paris, Dushanbe, Milano, Quito, Tokyo, Amsterdam, Calgary, Atlanta, Benguerir, Bern, Pwani",
+      "url": "https://x.com/benln/status/2021222404463145405",
+      "images": null,
+      "published": "2026-02-10T13:59:08+00:00",
+      "hasTranscript": false
+    },
+    {
       "id": "yt_6OiE0jIY93c",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -52,6 +170,23 @@
       "transcriptPreview": null
     },
     {
+      "id": "x_2020969548141437158",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Composer 1.5 is here Cursor (@cursor_ai) Composer 1.5 is now available. We’ve found it to strike a strong balance between intelligence and speed. — https://nitter.net/cursor_ai/status/2020968661142380971#m",
+      "url": "https://x.com/benln/status/2020969548141437158",
+      "images": null,
+      "published": "2026-02-09T21:14:22+00:00",
+      "hasTranscript": false
+    },
+    {
       "id": "yt_2agJo3Jf_O4",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -66,6 +201,40 @@
       "published": "2026-02-09T19:00:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_2020927830809628975",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "You can now use GPT-5.3 Codex in Cursor Cursor (@cursor_ai) GPT-5.3 Codex is now available in Cursor! It's noticeably faster than 5.2 and is now the preferred model for many of our engineers. — https://nitter.net/cursor_ai/status/2020921643145519249#m",
+      "url": "https://x.com/benln/status/2020927830809628975",
+      "images": null,
+      "published": "2026-02-09T18:28:36+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2020907002369540181",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Cluj",
+      "url": "https://x.com/benln/status/2020907002369540181",
+      "images": null,
+      "published": "2026-02-09T17:05:50+00:00",
+      "hasTranscript": false
     },
     {
       "id": "yt_bLFl8OffFLE",
@@ -133,6 +302,23 @@
       "published": "2026-02-09T00:03:46+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_2020534202895159366",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "What are you building this weekend? Share links, curious to see.",
+      "url": "https://x.com/benln/status/2020534202895159366",
+      "images": null,
+      "published": "2026-02-08T16:24:28+00:00",
+      "hasTranscript": false
     },
     {
       "id": "yt_F-KQMMJ73s4",
@@ -285,6 +471,40 @@
       "transcriptPreview": null
     },
     {
+      "id": "x_2019469645531558009",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Take Opus 4.6 for a spin in Cursor Cursor (@cursor_ai) Opus 4.6 is now available in Cursor! It's highly effective at long-running tasks and reviewing code. — https://nitter.net/cursor_ai/status/2019468487610008040#m",
+      "url": "https://x.com/benln/status/2019469645531558009",
+      "images": null,
+      "published": "2026-02-05T17:54:18+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2019439389756031046",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Tallinn",
+      "url": "https://x.com/benln/status/2019439389756031046",
+      "images": null,
+      "published": "2026-02-05T15:54:04+00:00",
+      "hasTranscript": false
+    },
+    {
       "id": "yt_iupsBLiNznU",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -317,22 +537,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_4rzeW4dbvlQ",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Generations of farming | with ChatGPT | Super Bowl 2026",
-      "url": "https://www.youtube.com/watch?v=4rzeW4dbvlQ",
-      "thumbnail": "https://img.youtube.com/vi/4rzeW4dbvlQ/maxresdefault.jpg",
-      "published": "2026-02-05T10:01:03+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_opFl1RXZUSE",
       "source": "a16z",
       "sourceId": "a16z",
@@ -348,6 +552,23 @@
       "published": "2026-02-04T20:00:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_2019132782061187154",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "For any early founders considering accelerators, this is my shortlist: • @HF0Residency (SF) • @ycombinator (SF) • @southpkcommons (SF/NYC/BLR) • @sequoia Arc (US/EU) • @pearvc PearX (SF) • @Neo (SF) • @conviction Embed (SF) • @a16z Speedrun (SF) • @fdotinc (SF)",
+      "url": "https://x.com/benln/status/2019132782061187154",
+      "images": null,
+      "published": "2026-02-04T19:35:43+00:00",
+      "hasTranscript": false
     },
     {
       "id": "yt_hSDlgCKBx6w",
@@ -380,23 +601,6 @@
       "url": "https://www.youtube.com/watch?v=70ec37XHGIg",
       "thumbnail": "https://img.youtube.com/vi/70ec37XHGIg/maxresdefault.jpg",
       "published": "2026-02-04T16:11:37+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_pOZi4PKW54M",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI Powered Agencies",
-      "url": "https://www.youtube.com/watch?v=pOZi4PKW54M",
-      "thumbnail": "https://img.youtube.com/vi/pOZi4PKW54M/maxresdefault.jpg",
-      "published": "2026-02-03T22:11:38+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -627,23 +831,6 @@
       "published": "2026-01-19T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "今年拉斯维加斯国际消费电子展上，人形机器人再次成为焦点——舞狮、打拳击、后空翻、打乒乓球，各种炫技的Demo，将“科技春晚”氛围拉满。但如果你期待的是泛化能力的突破，那么今年的展或许不会给你太多惊艳。 本期播客是机器人特辑的延续，此前我们探讨过许多关于机器人泛化的前沿探索，今天我们调过头来，追问一个更根本的问题：我们真的需要人形机器人吗？ 本期嘉宾傅盛认为，人形机器人硬件并不遵循“摩尔定律”，靠堆"
-    },
-    {
-      "id": "yt_N_YIAomr35A",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Dark mode didn’t start as a trend - Marc Andreessen",
-      "url": "https://www.youtube.com/watch?v=N_YIAomr35A",
-      "thumbnail": "https://img.youtube.com/vi/N_YIAomr35A/maxresdefault.jpg",
-      "published": "2026-01-17T20:00:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_752a8b52_eb8b_42c6_aacc_674b998f5604",
@@ -1138,23 +1325,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_sc1woawDHKc",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Let 5 AIs Choose My Sports Bets, Results Shocked Me!",
-      "url": "https://www.youtube.com/watch?v=sc1woawDHKc",
-      "thumbnail": "https://img.youtube.com/vi/sc1woawDHKc/maxresdefault.jpg",
-      "published": "2025-05-13T18:28:56+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_8Cg3p9K0il4",
       "source": "李子柒",
       "sourceId": "liziqi",
@@ -1351,6 +1521,23 @@
       "published": "2020-12-09T10:55:12+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_9327720978",
+      "source": "Ryo Lu",
+      "sourceId": "ryolu",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "just doing school work",
+      "url": "https://x.com/rylooo/status/9327720978",
+      "images": null,
+      "published": "2010-02-19T09:27:07+00:00",
+      "hasTranscript": false
     }
   ]
 }
