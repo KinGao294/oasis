@@ -1,7 +1,58 @@
 {
-  "last_updated": "2026-02-12T01:53:04.987625Z",
-  "count": 91,
+  "last_updated": "2026-02-13T01:55:29.465991Z",
+  "count": 90,
   "items": [
+    {
+      "id": "x_2022020869816799413",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "This is a great signal for sourcing future breakout startups to join:",
+      "url": "https://x.com/benln/status/2022020869816799413",
+      "images": null,
+      "published": "2026-02-12T18:51:57+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_JhJPeF8DGL0",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Why OpenClaw Broke The Internet",
+      "url": "https://www.youtube.com/watch?v=JhJPeF8DGL0",
+      "thumbnail": "https://img.youtube.com/vi/JhJPeF8DGL0/maxresdefault.jpg",
+      "published": "2026-02-12T18:04:41+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_YFjfBk8HI5o",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
+      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
+      "thumbnail": "https://img.youtube.com/vi/YFjfBk8HI5o/maxresdefault.jpg",
+      "published": "2026-02-12T03:07:03+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_dHCNpcNyoFM",
       "source": "OpenAI",
@@ -79,7 +130,7 @@
         "Business",
         "AI"
       ],
-      "title": "Magic Johnson on The $1B Nike Deal That Got Away | Full Conversation with a16z",
+      "title": "Inside The Life of Silicon Valley's First Athlete Investor | Magic Johnson",
       "url": "https://www.youtube.com/watch?v=uDuQKsdYfZw",
       "thumbnail": "https://img.youtube.com/vi/uDuQKsdYfZw/maxresdefault.jpg",
       "published": "2026-02-11T14:30:00+00:00",
@@ -554,40 +605,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2019132782061187154",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "For any early founders considering accelerators, this is my shortlist: • @HF0Residency (SF) • @ycombinator (SF) • @southpkcommons (SF/NYC/BLR) • @sequoia Arc (US/EU) • @pearvc PearX (SF) • @Neo (SF) • @conviction Embed (SF) • @a16z Speedrun (SF) • @fdotinc (SF)",
-      "url": "https://x.com/benln/status/2019132782061187154",
-      "images": null,
-      "published": "2026-02-04T19:35:43+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_hSDlgCKBx6w",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI Guidance for Physical Work",
-      "url": "https://www.youtube.com/watch?v=hSDlgCKBx6w",
-      "thumbnail": "https://img.youtube.com/vi/hSDlgCKBx6w/maxresdefault.jpg",
-      "published": "2026-02-04T18:25:33+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_70ec37XHGIg",
       "source": "a16z",
       "sourceId": "a16z",
@@ -597,7 +614,7 @@
         "Business",
         "AI"
       ],
-      "title": "Truemed CEO Justin Mares on Why Ozempic Won’t Solve America’s Obesity Problem",
+      "title": "How Truemed Is Incentivizing Americans to Invest in Prevention",
       "url": "https://www.youtube.com/watch?v=70ec37XHGIg",
       "thumbnail": "https://img.youtube.com/vi/70ec37XHGIg/maxresdefault.jpg",
       "published": "2026-02-04T16:11:37+00:00",
@@ -1195,23 +1212,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_SvKv7D4pBjE",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Norman Ohler: Hitler, Nazis, Drugs, WW2, Blitzkrieg, LSD, MKUltra & CIA | Lex Fridman Podcast #481",
-      "url": "https://www.youtube.com/watch?v=SvKv7D4pBjE",
-      "thumbnail": "https://img.youtube.com/vi/SvKv7D4pBjE/maxresdefault.jpg",
-      "published": "2025-09-19T18:17:48+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_VdF4cd0SitU",
       "source": "老高与茉莉",
       "sourceId": "laogao",
@@ -1521,23 +1521,6 @@
       "published": "2020-12-09T10:55:12+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_9327720978",
-      "source": "Ryo Lu",
-      "sourceId": "ryolu",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "just doing school work",
-      "url": "https://x.com/rylooo/status/9327720978",
-      "images": null,
-      "published": "2010-02-19T09:27:07+00:00",
-      "hasTranscript": false
     }
   ]
 }
