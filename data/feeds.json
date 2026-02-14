@@ -1,23 +1,57 @@
 {
-  "last_updated": "2026-02-13T01:55:29.465991Z",
-  "count": 90,
+  "last_updated": "2026-02-14T01:45:26.313571Z",
+  "count": 80,
   "items": [
     {
-      "id": "x_2022020869816799413",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
+      "id": "yt_B2GMI0UgN_U",
+      "source": "OpenAI",
+      "sourceId": "openai",
       "sourceAvatar": null,
-      "platform": "x",
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Start It With ChatGPT",
+      "url": "https://www.youtube.com/watch?v=B2GMI0UgN_U",
+      "thumbnail": "https://img.youtube.com/vi/B2GMI0UgN_U/maxresdefault.jpg",
+      "published": "2026-02-13T23:43:33+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_PHKpsVIdAcc",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Fix With ChatGPT",
+      "url": "https://www.youtube.com/watch?v=PHKpsVIdAcc",
+      "thumbnail": "https://img.youtube.com/vi/PHKpsVIdAcc/maxresdefault.jpg",
+      "published": "2026-02-13T23:43:29+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_3b3e676b_f0cb_4a11_a9c1_c3bda3b47816",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
       "domains": [
         "AI",
-        "Dev"
+        "Business",
+        "Global"
       ],
-      "title": null,
-      "content": "This is a great signal for sourcing future breakout startups to join:",
-      "url": "https://x.com/benln/status/2022020869816799413",
-      "images": null,
-      "published": "2026-02-12T18:51:57+00:00",
-      "hasTranscript": false
+      "title": "E225｜SaaS业数千亿市值蒸发：AI如何变革组织架构？",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/3b3e676b-f0cb-4a11-a9c1-c3bda3b47816.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 3348,
+      "published": "2026-02-13T16:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "2026年2月的第一周，全球软件行业经历了一场如“葬礼”般的信仰地震。随着Anthropic基于Claude Cowork平台，发布了11款覆盖法律、金融、销售等核心业务的职能插件，全球软件板块市值，在短短一周内蒸发了数千亿美元。华尔街的交易员们直言：SaaS的末日到了。 这不仅是股价的波动，更是生存模式的更迭。当“按人头卖坐席”的万亿帝国，在AI Agent面前显得摇摇欲坠时，每一位职场人和企业"
     },
     {
       "id": "yt_JhJPeF8DGL0",
@@ -87,23 +121,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2021599689582252242",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "These funds have the best scout programs for angel investors: • Sequoia • Greylock • Accel • a16z • Index Ventures • Lightspeed",
-      "url": "https://x.com/benln/status/2021599689582252242",
-      "images": null,
-      "published": "2026-02-11T14:58:20+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_r0uij_l32to",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -171,40 +188,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2021301857352638635",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Unlimited token budget: cursor.com/careers Ethan Mollick (@emollick) If you are considering taking a job offer, you may want to ask what your token budget will be. — https://nitter.net/emollick/status/2019621077970993265#m",
-      "url": "https://x.com/benln/status/2021301857352638635",
-      "images": null,
-      "published": "2026-02-10T19:14:51+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2021222404463145405",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cursor events in these cities over the next two weeks: Bangkok, Seattle, Oslo, Northampton, Boston, Puebla, Vienna, Melbourne, Adama, Khorezm, Warsaw, San Salvador, Boston, Krakow, LA, Copenhagen, Kyiv, Mendoza, Toronto, Bangkok, Baku, Istanbul, São Paulo, Santiago, Vancouver, Manta, Porto Alegre, Philadelphia, Sydney, Paris, Dushanbe, Milano, Quito, Tokyo, Amsterdam, Calgary, Atlanta, Benguerir, Bern, Pwani",
-      "url": "https://x.com/benln/status/2021222404463145405",
-      "images": null,
-      "published": "2026-02-10T13:59:08+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_6OiE0jIY93c",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -221,23 +204,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2020969548141437158",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Composer 1.5 is here Cursor (@cursor_ai) Composer 1.5 is now available. We’ve found it to strike a strong balance between intelligence and speed. — https://nitter.net/cursor_ai/status/2020968661142380971#m",
-      "url": "https://x.com/benln/status/2020969548141437158",
-      "images": null,
-      "published": "2026-02-09T21:14:22+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_2agJo3Jf_O4",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -252,40 +218,6 @@
       "published": "2026-02-09T19:00:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2020927830809628975",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "You can now use GPT-5.3 Codex in Cursor Cursor (@cursor_ai) GPT-5.3 Codex is now available in Cursor! It's noticeably faster than 5.2 and is now the preferred model for many of our engineers. — https://nitter.net/cursor_ai/status/2020921643145519249#m",
-      "url": "https://x.com/benln/status/2020927830809628975",
-      "images": null,
-      "published": "2026-02-09T18:28:36+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2020907002369540181",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Cluj",
-      "url": "https://x.com/benln/status/2020907002369540181",
-      "images": null,
-      "published": "2026-02-09T17:05:50+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_bLFl8OffFLE",
@@ -353,23 +285,6 @@
       "published": "2026-02-09T00:03:46+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2020534202895159366",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "What are you building this weekend? Share links, curious to see.",
-      "url": "https://x.com/benln/status/2020534202895159366",
-      "images": null,
-      "published": "2026-02-08T16:24:28+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_F-KQMMJ73s4",
@@ -518,72 +433,6 @@
       "url": "https://www.youtube.com/watch?v=qwmmWzPnhog",
       "thumbnail": "https://img.youtube.com/vi/qwmmWzPnhog/maxresdefault.jpg",
       "published": "2026-02-06T15:01:43+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2019469645531558009",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Take Opus 4.6 for a spin in Cursor Cursor (@cursor_ai) Opus 4.6 is now available in Cursor! It's highly effective at long-running tasks and reviewing code. — https://nitter.net/cursor_ai/status/2019468487610008040#m",
-      "url": "https://x.com/benln/status/2019469645531558009",
-      "images": null,
-      "published": "2026-02-05T17:54:18+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2019439389756031046",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Tallinn",
-      "url": "https://x.com/benln/status/2019439389756031046",
-      "images": null,
-      "published": "2026-02-05T15:54:04+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_iupsBLiNznU",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Growing a family tamale shop | with ChatGPT | Super Bowl 2026",
-      "url": "https://www.youtube.com/watch?v=iupsBLiNznU",
-      "thumbnail": "https://img.youtube.com/vi/iupsBLiNznU/maxresdefault.jpg",
-      "published": "2026-02-05T10:01:16+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_W6c7XcB6HwM",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Modernizing an 86-year-old salvage yard | with ChatGPT | Super Bowl 2026",
-      "url": "https://www.youtube.com/watch?v=W6c7XcB6HwM",
-      "thumbnail": "https://img.youtube.com/vi/W6c7XcB6HwM/maxresdefault.jpg",
-      "published": "2026-02-05T10:01:10+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -939,25 +788,6 @@
       "published": "2025-12-31T21:26:17+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "pod_guigu101_pod_45abc5f3_f8e0_4fd1_80c5_09e4bb87aeff",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E220｜谈谈Hyrox，“找虐运动”如何火遍全球",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/45abc5f3-f8e0-4fd1-80c5-09e4bb87aeff.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 3800,
-      "published": "2025-12-28T16:00:00-08:00",
-      "hasTranscript": false,
-      "transcriptPreview": "在所有的体育运动里，Hyrox绝对谈不上轻松。它要求参赛者在跑8个一公里，并在每个一公里之后做一组高强度的力量训练，比如让女生推动100公斤重的雪橇。 但就是这样一个运动，成了这两年全球最时髦的健身项目。它2017年成立，初创期就遇到了疫情，2021年在伦敦办赛时只有几百人参赛。但到2025年，伦敦赛参赛者已经达到了3.4万人，和一场城市马拉松相当。而25/26赛季，它预计会在全球举办100场比赛"
     },
     {
       "id": "yt_B51v9kJQuKo",
