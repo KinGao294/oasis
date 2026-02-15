@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-02-14T01:45:26.313571Z",
-  "count": 80,
+  "last_updated": "2026-02-15T01:54:55.677956Z",
+  "count": 91,
   "items": [
+    {
+      "id": "yt_rWUWfj_PqmM",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The New Way To Build A Startup",
+      "url": "https://www.youtube.com/watch?v=rWUWfj_PqmM",
+      "thumbnail": "https://img.youtube.com/vi/rWUWfj_PqmM/maxresdefault.jpg",
+      "published": "2026-02-14T15:01:34+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_B2GMI0UgN_U",
       "source": "OpenAI",
@@ -52,6 +69,23 @@
       "published": "2026-02-13T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "2026年2月的第一周，全球软件行业经历了一场如“葬礼”般的信仰地震。随着Anthropic基于Claude Cowork平台，发布了11款覆盖法律、金融、销售等核心业务的职能插件，全球软件板块市值，在短短一周内蒸发了数千亿美元。华尔街的交易员们直言：SaaS的末日到了。 这不仅是股价的波动，更是生存模式的更迭。当“按人头卖坐席”的万亿帝国，在AI Agent面前显得摇摇欲坠时，每一位职场人和企业"
+    },
+    {
+      "id": "x_2022020869816799413",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "This is a great signal for sourcing future breakout startups to join:",
+      "url": "https://x.com/benln/status/2022020869816799413",
+      "images": null,
+      "published": "2026-02-12T18:51:57+00:00",
+      "hasTranscript": false
     },
     {
       "id": "yt_JhJPeF8DGL0",
@@ -121,6 +155,23 @@
       "transcriptPreview": null
     },
     {
+      "id": "x_2021599689582252242",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "These funds have the best scout programs for angel investors: • Sequoia • Greylock • Accel • a16z • Index Ventures • Lightspeed",
+      "url": "https://x.com/benln/status/2021599689582252242",
+      "images": null,
+      "published": "2026-02-11T14:58:20+00:00",
+      "hasTranscript": false
+    },
+    {
       "id": "yt_r0uij_l32to",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -188,6 +239,40 @@
       "transcriptPreview": null
     },
     {
+      "id": "x_2021301857352638635",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Unlimited token budget: cursor.com/careers Ethan Mollick (@emollick) If you are considering taking a job offer, you may want to ask what your token budget will be. — https://nitter.net/emollick/status/2019621077970993265#m",
+      "url": "https://x.com/benln/status/2021301857352638635",
+      "images": null,
+      "published": "2026-02-10T19:14:51+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2021222404463145405",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor events in these cities over the next two weeks: Bangkok, Seattle, Oslo, Northampton, Boston, Puebla, Vienna, Melbourne, Adama, Khorezm, Warsaw, San Salvador, Boston, Krakow, LA, Copenhagen, Kyiv, Mendoza, Toronto, Bangkok, Baku, Istanbul, São Paulo, Santiago, Vancouver, Manta, Porto Alegre, Philadelphia, Sydney, Paris, Dushanbe, Milano, Quito, Tokyo, Amsterdam, Calgary, Atlanta, Benguerir, Bern, Pwani",
+      "url": "https://x.com/benln/status/2021222404463145405",
+      "images": null,
+      "published": "2026-02-10T13:59:08+00:00",
+      "hasTranscript": false
+    },
+    {
       "id": "yt_6OiE0jIY93c",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -204,6 +289,23 @@
       "transcriptPreview": null
     },
     {
+      "id": "x_2020969548141437158",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Composer 1.5 is here Cursor (@cursor_ai) Composer 1.5 is now available. We’ve found it to strike a strong balance between intelligence and speed. — https://nitter.net/cursor_ai/status/2020968661142380971#m",
+      "url": "https://x.com/benln/status/2020969548141437158",
+      "images": null,
+      "published": "2026-02-09T21:14:22+00:00",
+      "hasTranscript": false
+    },
+    {
       "id": "yt_2agJo3Jf_O4",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -218,6 +320,40 @@
       "published": "2026-02-09T19:00:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_2020927830809628975",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "You can now use GPT-5.3 Codex in Cursor Cursor (@cursor_ai) GPT-5.3 Codex is now available in Cursor! It's noticeably faster than 5.2 and is now the preferred model for many of our engineers. — https://nitter.net/cursor_ai/status/2020921643145519249#m",
+      "url": "https://x.com/benln/status/2020927830809628975",
+      "images": null,
+      "published": "2026-02-09T18:28:36+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2020907002369540181",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Cluj",
+      "url": "https://x.com/benln/status/2020907002369540181",
+      "images": null,
+      "published": "2026-02-09T17:05:50+00:00",
+      "hasTranscript": false
     },
     {
       "id": "yt_bLFl8OffFLE",
@@ -285,6 +421,23 @@
       "published": "2026-02-09T00:03:46+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_2020534202895159366",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "What are you building this weekend? Share links, curious to see.",
+      "url": "https://x.com/benln/status/2020534202895159366",
+      "images": null,
+      "published": "2026-02-08T16:24:28+00:00",
+      "hasTranscript": false
     },
     {
       "id": "yt_F-KQMMJ73s4",
@@ -420,21 +573,38 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_qwmmWzPnhog",
-      "source": "Y Combinator",
-      "sourceId": "yc",
+      "id": "x_2019469645531558009",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
       "sourceAvatar": null,
-      "platform": "youtube",
+      "platform": "x",
       "domains": [
-        "Business",
-        "AI"
+        "AI",
+        "Dev"
       ],
-      "title": "We're All Addicted To Claude Code",
-      "url": "https://www.youtube.com/watch?v=qwmmWzPnhog",
-      "thumbnail": "https://img.youtube.com/vi/qwmmWzPnhog/maxresdefault.jpg",
-      "published": "2026-02-06T15:01:43+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
+      "title": null,
+      "content": "Take Opus 4.6 for a spin in Cursor Cursor (@cursor_ai) Opus 4.6 is now available in Cursor! It's highly effective at long-running tasks and reviewing code. — https://nitter.net/cursor_ai/status/2019468487610008040#m",
+      "url": "https://x.com/benln/status/2019469645531558009",
+      "images": null,
+      "published": "2026-02-05T17:54:18+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2019439389756031046",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Tallinn",
+      "url": "https://x.com/benln/status/2019439389756031046",
+      "images": null,
+      "published": "2026-02-05T15:54:04+00:00",
+      "hasTranscript": false
     },
     {
       "id": "yt_opFl1RXZUSE",
@@ -1351,6 +1521,23 @@
       "published": "2020-12-09T10:55:12+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_9327720978",
+      "source": "Ryo Lu",
+      "sourceId": "ryolu",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "just doing school work",
+      "url": "https://x.com/rylooo/status/9327720978",
+      "images": null,
+      "published": "2010-02-19T09:27:07+00:00",
+      "hasTranscript": false
     }
   ]
 }
