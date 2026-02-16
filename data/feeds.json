@@ -1,7 +1,109 @@
 {
-  "last_updated": "2026-02-15T01:54:55.677956Z",
-  "count": 91,
+  "last_updated": "2026-02-16T01:51:07.103489Z",
+  "count": 101,
   "items": [
+    {
+      "id": "x_2023210799414850033",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "kimi 发布 kimi claw 支持在 kimi 的云端虚拟机运行 open claw 基本是满血的 open claw 可以安装 Skills 也可以链接三方 IM 目前需要 allegretto 及以上会员才能尝试 Kimi.ai (@Kimi_Moonshot) Introducing Kimi Claw🦞 OpenClaw, now native to kimi.com. Living right in your browser tab, online 24/7. 🔹 ClawHub Access: 5,000+ community skills in the ClawHub library. 🔹 40GB Cloud Storage: Massive space for all your files 🔹 Pro-Grade Search: Fetch live, high-quality data directly from Yahoo Finance and more. 🔹 Bring Your Own Claw: Connect your third-party OpenClaw to kimi.com, chat with your setup, or bridge it to apps like Telegram groups. Discover, call, and chain them instantly within kimi.com. > Beta Access: Now open for Allegretto members and above. > Try it now at: kimi.com/bot Video — https://nitter.net/Kimi_Moonshot/status/2023029674549596301#m",
+      "url": "https://x.com/op7418/status/2023210799414850033",
+      "images": null,
+      "published": "2026-02-16T01:40:18+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2023209309996527756",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Sam 官宣 open claw 的作者 Peter Steinberger 会加入 Open AI open claw 将继续以开源的方式运行 期待一下 peter 在 OpenAI 能搞出一个啥样的产品来 Sam Altman (@sama) Peter Steinberger is joining OpenAI to drive the next generation of personal agents. He is a genius with a lot of amazing ideas about the future of very smart agents interacting with each other to do very useful things for people. We expect this will quickly become core to our product offerings. OpenClaw will live in a foundation as an open source project that OpenAI will continue to support. The future is going to be extremely multi-agent and it's important to us to support open source as part of that. — https://nitter.net/sama/status/2023150230905159801#m",
+      "url": "https://x.com/op7418/status/2023209309996527756",
+      "images": null,
+      "published": "2026-02-16T01:34:23+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2023102711210852849",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "a16z + YC shared their startup ideas for 2026:",
+      "url": "https://x.com/benln/status/2023102711210852849",
+      "images": null,
+      "published": "2026-02-15T18:30:48+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2023056298703479203",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Where would you like to see a Cursor meetup next?",
+      "url": "https://x.com/benln/status/2023056298703479203",
+      "images": null,
+      "published": "2026-02-15T15:26:22+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2022867153423069441",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "藏师傅的 Seedance 2.0 测评和玩法来了！ ​ ​绚丽的打斗和情节可能最近大家也看多了。 藏师傅整点能变现的，能在工作中用起来的玩法。 歸藏(guizang.ai) (@op7418) x.com/i/article/202263524311… — https://nitter.net/op7418/status/2022721414462374031#m",
+      "url": "https://x.com/op7418/status/2022867153423069441",
+      "images": null,
+      "published": "2026-02-15T02:54:47+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2022721414462374031",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "x.com/i/article/202263524311…",
+      "url": "https://x.com/op7418/status/2022721414462374031",
+      "images": null,
+      "published": "2026-02-14T17:15:40+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_rWUWfj_PqmM",
       "source": "Y Combinator",
@@ -68,7 +170,24 @@
       "duration": 3348,
       "published": "2026-02-13T16:00:00-08:00",
       "hasTranscript": false,
-      "transcriptPreview": "2026年2月的第一周，全球软件行业经历了一场如“葬礼”般的信仰地震。随着Anthropic基于Claude Cowork平台，发布了11款覆盖法律、金融、销售等核心业务的职能插件，全球软件板块市值，在短短一周内蒸发了数千亿美元。华尔街的交易员们直言：SaaS的末日到了。 这不仅是股价的波动，更是生存模式的更迭。当“按人头卖坐席”的万亿帝国，在AI Agent面前显得摇摇欲坠时，每一位职场人和企业"
+      "transcriptPreview": "本节目由百融云创赞助播出 2026年2月的第一周，全球软件行业经历了一场如“葬礼”般的信仰地震。随着Anthropic基于Claude Cowork平台，发布了11款覆盖法律、金融、销售等核心业务的职能插件，全球软件板块市值，在短短一周内蒸发了数千亿美元。华尔街的交易员们直言：SaaS的末日到了。 这不仅是股价的波动，更是生存模式的更迭。当“按人头卖坐席”的万亿帝国，在AI Agent面前显得摇摇"
+    },
+    {
+      "id": "x_2022184482183557557",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "年前最后一天了，准备放假。 顺便感谢一下大家的新年礼盒，祝 2026 年中国 AI 越来越好！ 谢谢各位：Rico 有三猫、观猹、WaytoAGI、小红书、通义、阿里云、腾讯、百度、字节、Trae、即梦、360、可灵、快手研发线、VAST、爱诗科技、智谱、知乎、电子工业出版社",
+      "url": "https://x.com/op7418/status/2022184482183557557",
+      "images": null,
+      "published": "2026-02-13T05:42:05+00:00",
+      "hasTranscript": false
     },
     {
       "id": "x_2022020869816799413",
@@ -88,6 +207,40 @@
       "hasTranscript": false
     },
     {
+      "id": "x_2022012187783659862",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "详情：openai.com/index/introducing…",
+      "url": "https://x.com/op7418/status/2022012187783659862",
+      "images": null,
+      "published": "2026-02-12T18:17:27+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2022011560269644216",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Sam 说的今晚专门给 Pro 会员发布的东西原来是： GPT‑5.3‑Codex‑Spark，这玩意每秒能输出 1000+ token。 是 GPT‑5.3‑Codex 的小型变体，专门针对“实时协作写代码”进行优化。 还做了其他优化：每次往返开销降低约 80%、每 token 开销降低 30%、首 token 时间缩短 50%。 Video",
+      "url": "https://x.com/op7418/status/2022011560269644216",
+      "images": null,
+      "published": "2026-02-12T18:14:57+00:00",
+      "hasTranscript": false
+    },
+    {
       "id": "yt_JhJPeF8DGL0",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -103,6 +256,57 @@
       "published": "2026-02-12T18:04:41+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_2022001536302473362",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "试了一下确实厉害：nitter.net/op7418/status/20220006… 歸藏(guizang.ai) (@op7418) 谷歌新发布的 Gemini 3 Deep Think 模式确实牛皮 试着让它分析了一下我的 Codepilot 项目，在各个维度和领域都给出了相当深度而且必要的优化建议 比如 Next.js 和进程优化、极限情况下的性能优化以及安全问题、甚至还有交互体验优化 — https://nitter.net/op7418/status/2022000641716236543#m",
+      "url": "https://x.com/op7418/status/2022001536302473362",
+      "images": null,
+      "published": "2026-02-12T17:35:07+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2022000641716236543",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "谷歌新发布的 Gemini 3 Deep Think 模式确实牛皮 试着让它分析了一下我的 Codepilot 项目，在各个维度和领域都给出了相当深度而且必要的优化建议 比如 Next.js 和进程优化、极限情况下的性能优化以及安全问题、甚至还有交互体验优化 歸藏(guizang.ai) (@op7418) 谷歌基于 Gemini 3 的 Deep Think 模式发布了。 各项指标再创新高，尤其是那个 ARC AGI 第二版，比 Gemini 3 Pro 翻了一倍还多。 目前，Ultra 用户可以在 Gemini APP 使用。 — https://nitter.net/op7418/status/2021985927045005656#m",
+      "url": "https://x.com/op7418/status/2022000641716236543",
+      "images": null,
+      "published": "2026-02-12T17:31:34+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2021985927045005656",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "谷歌基于 Gemini 3 的 Deep Think 模式发布了。 各项指标再创新高，尤其是那个 ARC AGI 第二版，比 Gemini 3 Pro 翻了一倍还多。 目前，Ultra 用户可以在 Gemini APP 使用。 Google DeepMind (@GoogleDeepMind) We’ve upgraded our specialized reasoning mode Gemini 3 Deep Think to help solve modern science, research, and engineering challenges – pushing the frontier of intelligence. 🧠 Watch how the Wang Lab at Duke University is using it to design new semiconductor materials. 🧵 Video — https://nitter.net/GoogleDeepMind/status/2021981510400709092#m",
+      "url": "https://x.com/op7418/status/2021985927045005656",
+      "images": null,
+      "published": "2026-02-12T16:33:06+00:00",
+      "hasTranscript": false
     },
     {
       "id": "yt_YFjfBk8HI5o",
@@ -571,40 +775,6 @@
       "published": "2026-02-06T16:00:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2019469645531558009",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Take Opus 4.6 for a spin in Cursor Cursor (@cursor_ai) Opus 4.6 is now available in Cursor! It's highly effective at long-running tasks and reviewing code. — https://nitter.net/cursor_ai/status/2019468487610008040#m",
-      "url": "https://x.com/benln/status/2019469645531558009",
-      "images": null,
-      "published": "2026-02-05T17:54:18+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2019439389756031046",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Tallinn",
-      "url": "https://x.com/benln/status/2019439389756031046",
-      "images": null,
-      "published": "2026-02-05T15:54:04+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_opFl1RXZUSE",
