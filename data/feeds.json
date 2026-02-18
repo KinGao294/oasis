@@ -1,7 +1,193 @@
 {
-  "last_updated": "2026-02-17T01:49:10.324928Z",
+  "last_updated": "2026-02-18T01:52:58.638238Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2023927561827611009",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "运行这个命令安装 Figma MCP ： claude mcp add --transport http figma-remote-mcp mcp.figma.com/mcp",
+      "url": "https://x.com/op7418/status/2023927561827611009",
+      "images": null,
+      "published": "2026-02-18T01:08:28+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2023927498921439414",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Figma 和 Claude Code 现在终于能双向交互了！ Figma MCP 的最新版本。可以把你用 Claude Code 生成的网页直接转成 Figma 的格式 可以把任意网页的内容转换成 Figma 设计稿，然后发送到剪贴板，直接粘贴到 Figma 编辑器中就可以。 我在 vibe coding 的时候，经常需要一次性提交多个交互相关的改动，这时候很难让 Claude Code 理解。 但由于我是 vibe coding，所以没有设计稿，这就很难办。 现在我们可以每次让 Claude Code 写完代码以后，备份一份设计稿。 我们就可以在设计稿上进行修改，然后再告诉他，这样表达的意图会清晰很多。 Video Dylan Field (@zoink) x.com/i/article/202375858052… — https://nitter.net/zoink/status/2023760388530307167#m",
+      "url": "https://x.com/op7418/status/2023927498921439414",
+      "images": null,
+      "published": "2026-02-18T01:08:13+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2023924709147242581",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "在 Opsu 4.6 之后 Sonnet 4.6 终于上线了 跟 Opus 4.6 一样所有领域都有提升，而且很多测评都接近 Opus 4.6 的水平。 同样有 100 万上下文的测试版本，这个应该用得起了。 定价依然与 Sonnet 4.5 保持一致，100M 3/15 美元。 这次他们强调了 Sonnet 4.6 的 computer use 水平提升了非常多。 Sonnet 4.6 已经上线了 Anthropic 的所有平台 API 平台上 Sonnet 4.6 支持自适应思维和扩展思维，加入了上下文压缩测试版本，类似 Claude Code 那种。 Claude 的网页搜索和获取工具可以自动编写执行代码，过滤和处理搜索结果，仅在上下文中保留相关内容 Claude (@claudeai) This is Claude Sonnet 4.6: our most capable Sonnet model yet. It’s a full upgrade across coding, computer use, long-context reasoning, agent planning, knowledge work, and design. It also features a 1M token context window in beta. Video — https://nitter.net/claudeai/status/2023817132581208353#m",
+      "url": "https://x.com/op7418/status/2023924709147242581",
+      "images": null,
+      "published": "2026-02-18T00:57:08+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2023920926665138422",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "NotebookLM 更新 终于支持了生成 PPT 的单页修改，还可以导出 pptx 格式的文件 Video",
+      "url": "https://x.com/op7418/status/2023920926665138422",
+      "images": null,
+      "published": "2026-02-18T00:42:06+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2023790563351556178",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "作者没有正式回复用的啥模型，但是从表现和水印位置看基本上 Seedance 2.0",
+      "url": "https://x.com/op7418/status/2023790563351556178",
+      "images": null,
+      "published": "2026-02-17T16:04:05+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2023776616237945067",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这片子确实牛逼！ Seedance 2.0 海外第一个爆款，目前原推已经快 1300 万播放了。 Video",
+      "url": "https://x.com/op7418/status/2023776616237945067",
+      "images": null,
+      "published": "2026-02-17T15:08:39+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_PQU9o_5rHC4",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Boris Cherny: How We Built Claude Code",
+      "url": "https://www.youtube.com/watch?v=PQU9o_5rHC4",
+      "thumbnail": "https://img.youtube.com/vi/PQU9o_5rHC4/maxresdefault.jpg",
+      "published": "2026-02-17T15:00:42+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2023761582493483260",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Medellín",
+      "url": "https://x.com/benln/status/2023761582493483260",
+      "images": null,
+      "published": "2026-02-17T14:08:55+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_EOIlGekiMsQ",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "史上最大規模的封閉實驗，第二個“大自然” | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=EOIlGekiMsQ",
+      "thumbnail": "https://img.youtube.com/vi/EOIlGekiMsQ/maxresdefault.jpg",
+      "published": "2026-02-17T13:30:22+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2023749219665014942",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "最新版本，支持全平台github.com/op7418/CodePilot/…",
+      "url": "https://x.com/op7418/status/2023749219665014942",
+      "images": null,
+      "published": "2026-02-17T13:19:48+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2023748965620216151",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "CodePilot 上线了一个对小白非常友好的功能！ 如果你还没有安装 Claude Code 的话，它会帮你一键安装。 搭配设置中的 API 快速设置，你可以快速配置任何模型的 Coding Plan。 与此同时，Windows 的大部分 bug 我已修复。 过年想玩玩Claude code的，可以试试codepilot 这个带ui的客户端了 歸藏(guizang.ai) (@op7418) x.com/i/article/202001842570… — https://nitter.net/op7418/status/2020021727858970890#m",
+      "url": "https://x.com/op7418/status/2023748965620216151",
+      "images": null,
+      "published": "2026-02-17T13:18:47+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2023454004311662902",
       "source": "Ben Lang",
@@ -71,40 +257,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2023210799414850033",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "kimi 发布 kimi claw 支持在 kimi 的云端虚拟机运行 open claw 基本是满血的 open claw 可以安装 Skills 也可以链接三方 IM 目前需要 allegretto 及以上会员才能尝试 Kimi.ai (@Kimi_Moonshot) Introducing Kimi Claw🦞 OpenClaw, now native to kimi.com. Living right in your browser tab, online 24/7. 🔹 ClawHub Access: 5,000+ community skills in the ClawHub library. 🔹 40GB Cloud Storage: Massive space for all your files 🔹 Pro-Grade Search: Fetch live, high-quality data directly from Yahoo Finance and more. 🔹 Bring Your Own Claw: Connect your third-party OpenClaw to kimi.com, chat with your setup, or bridge it to apps like Telegram groups. Discover, call, and chain them instantly within kimi.com. > Beta Access: Now open for Allegretto members and above. > Try it now at: kimi.com/bot Video — https://nitter.net/Kimi_Moonshot/status/2023029674549596301#m",
-      "url": "https://x.com/op7418/status/2023210799414850033",
-      "images": null,
-      "published": "2026-02-16T01:40:18+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2023209309996527756",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Sam 官宣 open claw 的作者 Peter Steinberger 会加入 Open AI open claw 将继续以开源的方式运行 期待一下 peter 在 OpenAI 能搞出一个啥样的产品来 Sam Altman (@sama) Peter Steinberger is joining OpenAI to drive the next generation of personal agents. He is a genius with a lot of amazing ideas about the future of very smart agents interacting with each other to do very useful things for people. We expect this will quickly become core to our product offerings. OpenClaw will live in a foundation as an open source project that OpenAI will continue to support. The future is going to be extremely multi-agent and it's important to us to support open source as part of that. — https://nitter.net/sama/status/2023150230905159801#m",
-      "url": "https://x.com/op7418/status/2023209309996527756",
-      "images": null,
-      "published": "2026-02-16T01:34:23+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2023102711210852849",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -136,40 +288,6 @@
       "url": "https://x.com/benln/status/2023056298703479203",
       "images": null,
       "published": "2026-02-15T15:26:22+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2022867153423069441",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "藏师傅的 Seedance 2.0 测评和玩法来了！ ​ ​绚丽的打斗和情节可能最近大家也看多了。 藏师傅整点能变现的，能在工作中用起来的玩法。 歸藏(guizang.ai) (@op7418) x.com/i/article/202263524311… — https://nitter.net/op7418/status/2022721414462374031#m",
-      "url": "https://x.com/op7418/status/2022867153423069441",
-      "images": null,
-      "published": "2026-02-15T02:54:47+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2022721414462374031",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "x.com/i/article/202263524311…",
-      "url": "https://x.com/op7418/status/2022721414462374031",
-      "images": null,
-      "published": "2026-02-14T17:15:40+00:00",
       "hasTranscript": false
     },
     {
@@ -241,23 +359,6 @@
       "transcriptPreview": "本节目由百融云创赞助播出 2026年2月的第一周，全球软件行业经历了一场如“葬礼”般的信仰地震。随着Anthropic基于Claude Cowork平台，发布了11款覆盖法律、金融、销售等核心业务的职能插件，全球软件板块市值，在短短一周内蒸发了数千亿美元。华尔街的交易员们直言：SaaS的末日到了。 这不仅是股价的波动，更是生存模式的更迭。当“按人头卖坐席”的万亿帝国，在AI Agent面前显得摇摇"
     },
     {
-      "id": "x_2022184482183557557",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "年前最后一天了，准备放假。 顺便感谢一下大家的新年礼盒，祝 2026 年中国 AI 越来越好！ 谢谢各位：Rico 有三猫、观猹、WaytoAGI、小红书、通义、阿里云、腾讯、百度、字节、Trae、即梦、360、可灵、快手研发线、VAST、爱诗科技、智谱、知乎、电子工业出版社",
-      "url": "https://x.com/op7418/status/2022184482183557557",
-      "images": null,
-      "published": "2026-02-13T05:42:05+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2022020869816799413",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -272,40 +373,6 @@
       "url": "https://x.com/benln/status/2022020869816799413",
       "images": null,
       "published": "2026-02-12T18:51:57+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2022012187783659862",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "详情：openai.com/index/introducing…",
-      "url": "https://x.com/op7418/status/2022012187783659862",
-      "images": null,
-      "published": "2026-02-12T18:17:27+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2022011560269644216",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Sam 说的今晚专门给 Pro 会员发布的东西原来是： GPT‑5.3‑Codex‑Spark，这玩意每秒能输出 1000+ token。 是 GPT‑5.3‑Codex 的小型变体，专门针对“实时协作写代码”进行优化。 还做了其他优化：每次往返开销降低约 80%、每 token 开销降低 30%、首 token 时间缩短 50%。 Video",
-      "url": "https://x.com/op7418/status/2022011560269644216",
-      "images": null,
-      "published": "2026-02-12T18:14:57+00:00",
       "hasTranscript": false
     },
     {
@@ -324,23 +391,6 @@
       "published": "2026-02-12T18:04:41+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2022001536302473362",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "试了一下确实厉害：nitter.net/op7418/status/20220006… 歸藏(guizang.ai) (@op7418) 谷歌新发布的 Gemini 3 Deep Think 模式确实牛皮 试着让它分析了一下我的 Codepilot 项目，在各个维度和领域都给出了相当深度而且必要的优化建议 比如 Next.js 和进程优化、极限情况下的性能优化以及安全问题、甚至还有交互体验优化 — https://nitter.net/op7418/status/2022000641716236543#m",
-      "url": "https://x.com/op7418/status/2022001536302473362",
-      "images": null,
-      "published": "2026-02-12T17:35:07+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_YFjfBk8HI5o",
@@ -560,23 +610,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2020927830809628975",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "You can now use GPT-5.3 Codex in Cursor Cursor (@cursor_ai) GPT-5.3 Codex is now available in Cursor! It's noticeably faster than 5.2 and is now the preferred model for many of our engineers. — https://nitter.net/cursor_ai/status/2020921643145519249#m",
-      "url": "https://x.com/benln/status/2020927830809628975",
-      "images": null,
-      "published": "2026-02-09T18:28:36+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_bLFl8OffFLE",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -743,23 +776,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_1mUTuQlEnCc",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Infrastructure for Government Fraud Hunters",
-      "url": "https://www.youtube.com/watch?v=1mUTuQlEnCc",
-      "thumbnail": "https://img.youtube.com/vi/1mUTuQlEnCc/maxresdefault.jpg",
-      "published": "2026-02-06T17:02:05+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_afkFLnyrLww",
       "source": "a16z",
       "sourceId": "a16z",
@@ -839,7 +855,7 @@
         "Business",
         "AI"
       ],
-      "title": "Ben Horowitz and David Solomon: The Sweetest Macro Spot in 40 Years",
+      "title": "Ben Horowitz & David Solomon: How AI Scales Productivity in Enterprises",
       "url": "https://www.youtube.com/watch?v=jLVgGGz5bvk",
       "thumbnail": "https://img.youtube.com/vi/jLVgGGz5bvk/maxresdefault.jpg",
       "published": "2026-02-02T18:00:00+00:00",
@@ -1475,22 +1491,6 @@
       "url": "https://www.youtube.com/watch?v=gHjIZwBhTgI",
       "thumbnail": "https://img.youtube.com/vi/gHjIZwBhTgI/maxresdefault.jpg",
       "published": "2025-07-23T14:39:29+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_X-cm1dk3Peo",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "百分百成為有錢人的九十七個法則，但其中有一些是禁術，最好不要用 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=X-cm1dk3Peo",
-      "thumbnail": "https://img.youtube.com/vi/X-cm1dk3Peo/maxresdefault.jpg",
-      "published": "2025-07-09T14:23:57+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
