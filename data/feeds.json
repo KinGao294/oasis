@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-02-18T01:52:58.638238Z",
+  "last_updated": "2026-02-19T01:51:53.093949Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_tECAkJAI_Vk",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Build Hour: Prompt Caching",
+      "url": "https://www.youtube.com/watch?v=tECAkJAI_Vk",
+      "thumbnail": "https://img.youtube.com/vi/tECAkJAI_Vk/maxresdefault.jpg",
+      "published": "2026-02-18T21:25:25+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2024177748407661022",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Startups that have done tender offers for employees recently: • Clay • Notion • Gamma • Harvey • Eleven Labs • Linear • Hightouch",
+      "url": "https://x.com/benln/status/2024177748407661022",
+      "images": null,
+      "published": "2026-02-18T17:42:37+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_2o76-z12Ttk",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "The Internet is 50% Fake. I Built a Detector.",
+      "url": "https://www.youtube.com/watch?v=2o76-z12Ttk",
+      "thumbnail": "https://img.youtube.com/vi/2o76-z12Ttk/maxresdefault.jpg",
+      "published": "2026-02-18T12:10:20+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "x_2023927561827611009",
       "source": "归藏",
@@ -71,6 +121,23 @@
       "hasTranscript": false
     },
     {
+      "id": "x_2023831687512420738",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "You can now easily give Cursor access to your knowledge bases, deployment environments, observability suite, internal tools, and design files. Ask it to figure out an error by scanning through Datadog, hunt down runbooks in Notion, deploy to AWS, or replicate a mock from Figma. Much of this was possible before, but it was too hard. Now it feels like installing an app! You can configure plugins for your whole team too. Cursor (@cursor_ai) Extend Cursor with plugins, now available in our marketplace. Video — https://nitter.net/cursor_ai/status/2023827892506161541#m",
+      "url": "https://x.com/benln/status/2023831687512420738",
+      "images": null,
+      "published": "2026-02-17T18:47:29+00:00",
+      "hasTranscript": false
+    },
+    {
       "id": "x_2023790563351556178",
       "source": "归藏",
       "sourceId": "guizang",
@@ -114,7 +181,7 @@
         "Business",
         "AI"
       ],
-      "title": "Boris Cherny: How We Built Claude Code",
+      "title": "Inside Claude Code With Its Creator Boris Cherny",
       "url": "https://www.youtube.com/watch?v=PQU9o_5rHC4",
       "thumbnail": "https://img.youtube.com/vi/PQU9o_5rHC4/maxresdefault.jpg",
       "published": "2026-02-17T15:00:42+00:00",
@@ -544,23 +611,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2021222404463145405",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cursor events in these cities over the next two weeks: Bangkok, Seattle, Oslo, Northampton, Boston, Puebla, Vienna, Melbourne, Adama, Khorezm, Warsaw, San Salvador, Boston, Krakow, LA, Copenhagen, Kyiv, Mendoza, Toronto, Bangkok, Baku, Istanbul, São Paulo, Santiago, Vancouver, Manta, Porto Alegre, Philadelphia, Sydney, Paris, Dushanbe, Milano, Quito, Tokyo, Amsterdam, Calgary, Atlanta, Benguerir, Bern, Pwani",
-      "url": "https://x.com/benln/status/2021222404463145405",
-      "images": null,
-      "published": "2026-02-10T13:59:08+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_6OiE0jIY93c",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -575,23 +625,6 @@
       "published": "2026-02-09T21:48:11+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2020969548141437158",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Composer 1.5 is here Cursor (@cursor_ai) Composer 1.5 is now available. We’ve found it to strike a strong balance between intelligence and speed. — https://nitter.net/cursor_ai/status/2020968661142380971#m",
-      "url": "https://x.com/benln/status/2020969548141437158",
-      "images": null,
-      "published": "2026-02-09T21:14:22+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_2agJo3Jf_O4",
@@ -743,22 +776,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_SkSlUt63V6Y",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "City Selections with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=SkSlUt63V6Y",
-      "thumbnail": "https://img.youtube.com/vi/SkSlUt63V6Y/maxresdefault.jpg",
-      "published": "2026-02-06T20:05:25+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_asalbJSHS8g",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -855,7 +872,7 @@
         "Business",
         "AI"
       ],
-      "title": "Ben Horowitz & David Solomon: How AI Scales Productivity in Enterprises",
+      "title": "Ben Horowitz and David Solomon: The Sweetest Macro Spot in 40 Years",
       "url": "https://www.youtube.com/watch?v=jLVgGGz5bvk",
       "thumbnail": "https://img.youtube.com/vi/jLVgGGz5bvk/maxresdefault.jpg",
       "published": "2026-02-02T18:00:00+00:00",
@@ -1426,23 +1443,6 @@
       "url": "https://www.youtube.com/watch?v=hACEeJKE6TE",
       "thumbnail": "https://img.youtube.com/vi/hACEeJKE6TE/maxresdefault.jpg",
       "published": "2025-09-03T14:44:31+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_277l16eJphI",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Tested The Top 3 AIs for Vibe Coding (Shocking Winner)",
-      "url": "https://www.youtube.com/watch?v=277l16eJphI",
-      "thumbnail": "https://img.youtube.com/vi/277l16eJphI/maxresdefault.jpg",
-      "published": "2025-08-29T21:30:02+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
