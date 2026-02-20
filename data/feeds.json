@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-02-19T01:51:53.093949Z",
+  "last_updated": "2026-02-20T01:47:40.974186Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_GWBHH4LXwOY",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "GDB on how the Codex app enables parallel work",
+      "url": "https://www.youtube.com/watch?v=GWBHH4LXwOY",
+      "thumbnail": "https://img.youtube.com/vi/GWBHH4LXwOY/maxresdefault.jpg",
+      "published": "2026-02-19T17:26:03+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2024485978476261822",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Warsaw",
+      "url": "https://x.com/benln/status/2024485978476261822",
+      "images": null,
+      "published": "2026-02-19T14:07:25+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2024457814291239022",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "We're taking over a cafe on March 5th in Tokyo Grab coffee, Cursor credits, and build together 会場でお待ちしています！See you there!",
+      "url": "https://x.com/benln/status/2024457814291239022",
+      "images": null,
+      "published": "2026-02-19T12:15:30+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_tECAkJAI_Vk",
       "source": "OpenAI",
@@ -510,23 +560,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2021599689582252242",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "These funds have the best scout programs for angel investors: • Sequoia • Greylock • Accel • a16z • Index Ventures • Lightspeed",
-      "url": "https://x.com/benln/status/2021599689582252242",
-      "images": null,
-      "published": "2026-02-11T14:58:20+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_r0uij_l32to",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -592,23 +625,6 @@
       "published": "2026-02-10T19:30:48+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2021301857352638635",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Unlimited token budget: cursor.com/careers Ethan Mollick (@emollick) If you are considering taking a job offer, you may want to ask what your token budget will be. — https://nitter.net/emollick/status/2019621077970993265#m",
-      "url": "https://x.com/benln/status/2021301857352638635",
-      "images": null,
-      "published": "2026-02-10T19:14:51+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_6OiE0jIY93c",
@@ -756,22 +772,6 @@
       "url": "https://www.youtube.com/watch?v=9ohXlkbXiM4",
       "thumbnail": "https://img.youtube.com/vi/9ohXlkbXiM4/maxresdefault.jpg",
       "published": "2026-02-06T23:08:52+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_4l_w08gcBFk",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Cricket Academy with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=4l_w08gcBFk",
-      "thumbnail": "https://img.youtube.com/vi/4l_w08gcBFk/maxresdefault.jpg",
-      "published": "2026-02-06T20:06:40+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
