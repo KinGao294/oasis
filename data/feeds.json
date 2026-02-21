@@ -1,7 +1,58 @@
 {
-  "last_updated": "2026-02-20T01:47:40.974186Z",
+  "last_updated": "2026-02-21T01:43:17.534392Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_eCjYIj-fEDw",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "What Boris Cherny Learned From Building Claude Code",
+      "url": "https://www.youtube.com/watch?v=eCjYIj-fEDw",
+      "thumbnail": "https://img.youtube.com/vi/eCjYIj-fEDw/maxresdefault.jpg",
+      "published": "2026-02-20T20:29:53+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2024684025324122177",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "详情：blog.google/innovation-and-a…",
+      "url": "https://x.com/op7418/status/2024684025324122177",
+      "images": null,
+      "published": "2026-02-20T03:14:23+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2024683950971695196",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "谷歌终于发布了 Gemini 3.1 Pro 模型 之前的 3.0 Pro Preview 实在有太多问题了 逻辑模式能力的 ARC-AGI-2 基准测试中，3.1 Pro 模型得分比 3.0 Preview 高了一倍还多 在视觉编程上，比如 SVG 绘制、根据 C4D 平面图生成 3D 模型，以及一些注重视觉表现的网页上。 Gemini 3.1 Pro 比 3.0 又强了很多，更是比其他模型强了非常多。 Video",
+      "url": "https://x.com/op7418/status/2024683950971695196",
+      "images": null,
+      "published": "2026-02-20T03:14:05+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_GWBHH4LXwOY",
       "source": "OpenAI",
@@ -11,7 +62,7 @@
       "domains": [
         "AI"
       ],
-      "title": "GDB on how the Codex app enables parallel work",
+      "title": "The Codex app enables massively parallel work",
       "url": "https://www.youtube.com/watch?v=GWBHH4LXwOY",
       "thumbnail": "https://img.youtube.com/vi/GWBHH4LXwOY/maxresdefault.jpg",
       "published": "2026-02-19T17:26:03+00:00",
@@ -337,40 +388,6 @@
       "url": "https://x.com/benln/status/2023452281228910787",
       "images": null,
       "published": "2026-02-16T17:39:52+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2023431963030511970",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "新年快乐朋友们 Video",
-      "url": "https://x.com/op7418/status/2023431963030511970",
-      "images": null,
-      "published": "2026-02-16T16:19:08+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2023378146599502328",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "贾樟柯用 Seedance 2.0 做的短片这就上了，看来提前就准备好了啊 歸藏(guizang.ai) (@op7418) 贾樟柯说要用 Seedance 2.0 整个短片 — https://nitter.net/op7418/status/2021768372195930200#m",
-      "url": "https://x.com/op7418/status/2023378146599502328",
-      "images": null,
-      "published": "2026-02-16T12:45:17+00:00",
       "hasTranscript": false
     },
     {
@@ -772,23 +789,6 @@
       "url": "https://www.youtube.com/watch?v=9ohXlkbXiM4",
       "thumbnail": "https://img.youtube.com/vi/9ohXlkbXiM4/maxresdefault.jpg",
       "published": "2026-02-06T23:08:52+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_asalbJSHS8g",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Make LLMs easy",
-      "url": "https://www.youtube.com/watch?v=asalbJSHS8g",
-      "thumbnail": "https://img.youtube.com/vi/asalbJSHS8g/maxresdefault.jpg",
-      "published": "2026-02-06T17:02:45+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
