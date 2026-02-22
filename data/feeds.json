@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-02-21T01:43:17.534392Z",
+  "last_updated": "2026-02-22T01:50:39.241793Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_Q8wVMdwhlh4",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The AI Agent Economy Is Here",
+      "url": "https://www.youtube.com/watch?v=Q8wVMdwhlh4",
+      "thumbnail": "https://img.youtube.com/vi/Q8wVMdwhlh4/maxresdefault.jpg",
+      "published": "2026-02-21T15:00:42+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_eCjYIj-fEDw",
       "source": "Y Combinator",
@@ -756,23 +773,6 @@
       "url": "https://www.youtube.com/watch?v=F-KQMMJ73s4",
       "thumbnail": "https://img.youtube.com/vi/F-KQMMJ73s4/maxresdefault.jpg",
       "published": "2026-02-08T04:17:18+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_4uzGDAoNOZc",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "OpenClaw Creator: Why 80% Of Apps Will Disappear",
-      "url": "https://www.youtube.com/watch?v=4uzGDAoNOZc",
-      "thumbnail": "https://img.youtube.com/vi/4uzGDAoNOZc/maxresdefault.jpg",
-      "published": "2026-02-07T15:00:13+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
