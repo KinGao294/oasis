@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-02-22T01:50:39.241793Z",
+  "last_updated": "2026-02-23T01:51:24.628557Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2025603363405013118",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Shabbat mode in Cursor Jacob Posel (@jacob_posel) Can a Jew let his agent run over Shabbat if the last prompt was Friday afternoon? — https://nitter.net/jacob_posel/status/2025203717113319860#m",
+      "url": "https://x.com/benln/status/2025603363405013118",
+      "images": null,
+      "published": "2026-02-22T16:07:30+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_Q8wVMdwhlh4",
       "source": "Y Combinator",
@@ -508,23 +525,6 @@
       "published": "2026-02-13T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "本节目由百融云创赞助播出 2026年2月的第一周，全球软件行业经历了一场如“葬礼”般的信仰地震。随着Anthropic基于Claude Cowork平台，发布了11款覆盖法律、金融、销售等核心业务的职能插件，全球软件板块市值，在短短一周内蒸发了数千亿美元。华尔街的交易员们直言：SaaS的末日到了。 这不仅是股价的波动，更是生存模式的更迭。当“按人头卖坐席”的万亿帝国，在AI Agent面前显得摇摇"
-    },
-    {
-      "id": "x_2022020869816799413",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "This is a great signal for sourcing future breakout startups to join:",
-      "url": "https://x.com/benln/status/2022020869816799413",
-      "images": null,
-      "published": "2026-02-12T18:51:57+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_JhJPeF8DGL0",
