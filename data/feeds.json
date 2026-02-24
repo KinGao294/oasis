@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-02-23T01:51:24.628557Z",
+  "last_updated": "2026-02-24T01:48:39.627008Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2025952690317001128",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Copenhagen",
+      "url": "https://x.com/benln/status/2025952690317001128",
+      "images": null,
+      "published": "2026-02-23T15:15:36+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2025603363405013118",
       "source": "Ben Lang",
@@ -439,23 +456,6 @@
       "url": "https://x.com/benln/status/2023102711210852849",
       "images": null,
       "published": "2026-02-15T18:30:48+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2023056298703479203",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Where would you like to see a Cursor meetup next?",
-      "url": "https://x.com/benln/status/2023056298703479203",
-      "images": null,
-      "published": "2026-02-15T15:26:22+00:00",
       "hasTranscript": false
     },
     {
