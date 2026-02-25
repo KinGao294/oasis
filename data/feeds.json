@@ -1,7 +1,190 @@
 {
-  "last_updated": "2026-02-24T01:48:39.627008Z",
+  "last_updated": "2026-02-25T01:51:31.496070Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_jnSGYd3gdOs",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Coding Will Be Solved For Everybody",
+      "url": "https://www.youtube.com/watch?v=jnSGYd3gdOs",
+      "thumbnail": "https://img.youtube.com/vi/jnSGYd3gdOs/maxresdefault.jpg",
+      "published": "2026-02-24T21:55:22+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2026370667008950442",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Huge launch from the Cursor team today: Cursor (@cursor_ai) Cursor now shows you demos, not diffs. Agents can use the software they build and send you videos of their work. Video — https://nitter.net/cursor_ai/status/2026369873321013568#m",
+      "url": "https://x.com/benln/status/2026370667008950442",
+      "images": null,
+      "published": "2026-02-24T18:56:29+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_-RDPAPjDnp8",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "OpenClaw Creator Peter Steinberger's advice for developers",
+      "url": "https://www.youtube.com/watch?v=-RDPAPjDnp8",
+      "thumbnail": "https://img.youtube.com/vi/-RDPAPjDnp8/maxresdefault.jpg",
+      "published": "2026-02-24T18:00:07+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_Rp4Q2lZ_RIQ",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Peter Steinberger on the team that built OpenClaw",
+      "url": "https://www.youtube.com/watch?v=Rp4Q2lZ_RIQ",
+      "thumbnail": "https://img.youtube.com/vi/Rp4Q2lZ_RIQ/maxresdefault.jpg",
+      "published": "2026-02-24T17:59:24+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_mR8Lz3Bc1rA",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Peter Steinberger on the excitement around OpenClaw",
+      "url": "https://www.youtube.com/watch?v=mR8Lz3Bc1rA",
+      "thumbnail": "https://img.youtube.com/vi/mR8Lz3Bc1rA/maxresdefault.jpg",
+      "published": "2026-02-24T17:55:20+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2026347477184512503",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "First time getting pitched by my Airbnb host",
+      "url": "https://x.com/benln/status/2026347477184512503",
+      "images": null,
+      "published": "2026-02-24T17:24:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_9jgcT0Fqt7U",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Builders Unscripted: Ep. 1 - Peter Steinberger, Creator of OpenClaw",
+      "url": "https://www.youtube.com/watch?v=9jgcT0Fqt7U",
+      "thumbnail": "https://img.youtube.com/vi/9jgcT0Fqt7U/maxresdefault.jpg",
+      "published": "2026-02-24T17:03:32+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2026328493882322975",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "最新 v0.14.0 增加了 Token 用量统计",
+      "url": "https://x.com/op7418/status/2026328493882322975",
+      "images": null,
+      "published": "2026-02-24T16:08:54+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2026326318040994260",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "刚更新了多语言，而且这个客户端是全平台支持，还能帮小白一键自动安装 Claude Code：github.com/op7418/CodePilot/…",
+      "url": "https://x.com/op7418/status/2026326318040994260",
+      "images": null,
+      "published": "2026-02-24T16:00:16+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2026325142398529926",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这个 Seedance 2.0 的测评除了提示词和玩法 剩下的工作全是用我自己写的 Claude Code 客户端 Codepilot 完成的 搞了一套流程可以让 Claude 完全理解素材、生成结果、提示词，里面包括了图像和视频的标注 全部纯文本优先 歸藏(guizang.ai) (@op7418) x.com/i/article/202263524311… — https://nitter.net/op7418/status/2022721414462374031#m",
+      "url": "https://x.com/op7418/status/2026325142398529926",
+      "images": null,
+      "published": "2026-02-24T15:55:35+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2026214755149680852",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Anthropic 声称 DeepSeek、Moonshot AI 和 MiniMax 通过大量伪造账户调用接口，进行“工业规模的蒸馏”。 从这条推特的反馈来看大家普遍都讨厌 Anthropic 着套说辞，都烦死 Anthropic 这种又当又立的逻辑了。 马斯克直接开团说他们自己也违规使用书籍进行训练最后花了几十亿和解。 还有人创建了一个开源项目号召大家把自己的对话导出成为 jsonl 变成开源数据集。 Anthropic (@AnthropicAI) We’ve identified industrial-scale distillation attacks on our models by DeepSeek, Moonshot AI, and MiniMax. These labs created over 24,000 fraudulent accounts and generated over 16 million exchanges with Claude, extracting its capabilities to train and improve their own models. — https://nitter.net/AnthropicAI/status/2025997928242811253#m",
+      "url": "https://x.com/op7418/status/2026214755149680852",
+      "images": null,
+      "published": "2026-02-24T08:36:57+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2025952690317001128",
       "source": "Ben Lang",
@@ -290,40 +473,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2023790563351556178",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "作者没有正式回复用的啥模型，但是从表现和水印位置看基本上 Seedance 2.0",
-      "url": "https://x.com/op7418/status/2023790563351556178",
-      "images": null,
-      "published": "2026-02-17T16:04:05+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2023776616237945067",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这片子确实牛逼！ Seedance 2.0 海外第一个爆款，目前原推已经快 1300 万播放了。 Video",
-      "url": "https://x.com/op7418/status/2023776616237945067",
-      "images": null,
-      "published": "2026-02-17T15:08:39+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_PQU9o_5rHC4",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -374,40 +523,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2023749219665014942",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "最新版本，支持全平台github.com/op7418/CodePilot/…",
-      "url": "https://x.com/op7418/status/2023749219665014942",
-      "images": null,
-      "published": "2026-02-17T13:19:48+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2023748965620216151",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "CodePilot 上线了一个对小白非常友好的功能！ 如果你还没有安装 Claude Code 的话，它会帮你一键安装。 搭配设置中的 API 快速设置，你可以快速配置任何模型的 Coding Plan。 与此同时，Windows 的大部分 bug 我已修复。 过年想玩玩Claude code的，可以试试codepilot 这个带ui的客户端了 歸藏(guizang.ai) (@op7418) x.com/i/article/202001842570… — https://nitter.net/op7418/status/2020021727858970890#m",
-      "url": "https://x.com/op7418/status/2023748965620216151",
-      "images": null,
-      "published": "2026-02-17T13:18:47+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2023454004311662902",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -422,40 +537,6 @@
       "url": "https://x.com/benln/status/2023454004311662902",
       "images": null,
       "published": "2026-02-16T17:46:43+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2023452281228910787",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "YC on how to build a 20x company:",
-      "url": "https://x.com/benln/status/2023452281228910787",
-      "images": null,
-      "published": "2026-02-16T17:39:52+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2023102711210852849",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "a16z + YC shared their startup ideas for 2026:",
-      "url": "https://x.com/benln/status/2023102711210852849",
-      "images": null,
-      "published": "2026-02-15T18:30:48+00:00",
       "hasTranscript": false
     },
     {
@@ -661,38 +742,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_6OiE0jIY93c",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "How PMs use the Codex app",
-      "url": "https://www.youtube.com/watch?v=6OiE0jIY93c",
-      "thumbnail": "https://img.youtube.com/vi/6OiE0jIY93c/maxresdefault.jpg",
-      "published": "2026-02-09T21:48:11+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_2agJo3Jf_O4",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Episode 13 - The Thinking Behind Ads in ChatGPT",
-      "url": "https://www.youtube.com/watch?v=2agJo3Jf_O4",
-      "thumbnail": "https://img.youtube.com/vi/2agJo3Jf_O4/maxresdefault.jpg",
-      "published": "2026-02-09T19:00:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_bLFl8OffFLE",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -740,55 +789,6 @@
       "url": "https://www.youtube.com/watch?v=rSohMpT24SI",
       "thumbnail": "https://img.youtube.com/vi/rSohMpT24SI/maxresdefault.jpg",
       "published": "2026-02-09T15:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_aCN9iCXNJqQ",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "OpenAI Super Bowl 2026 | Codex | You Can Just Build Things",
-      "url": "https://www.youtube.com/watch?v=aCN9iCXNJqQ",
-      "thumbnail": "https://img.youtube.com/vi/aCN9iCXNJqQ/maxresdefault.jpg",
-      "published": "2026-02-09T00:03:46+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_F-KQMMJ73s4",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Reindustrialize With Modern Metal Mills",
-      "url": "https://www.youtube.com/watch?v=F-KQMMJ73s4",
-      "thumbnail": "https://img.youtube.com/vi/F-KQMMJ73s4/maxresdefault.jpg",
-      "published": "2026-02-08T04:17:18+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_9ohXlkbXiM4",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Multitasking with the Codex app",
-      "url": "https://www.youtube.com/watch?v=9ohXlkbXiM4",
-      "thumbnail": "https://img.youtube.com/vi/9ohXlkbXiM4/maxresdefault.jpg",
-      "published": "2026-02-06T23:08:52+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
