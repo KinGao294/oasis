@@ -1,7 +1,179 @@
 {
-  "last_updated": "2026-02-25T01:51:31.496070Z",
+  "last_updated": "2026-02-26T01:46:52.897311Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_KGVpKPNUdzA",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
+      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
+      "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
+      "published": "2026-02-25T22:36:32+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_7abda28b_99c6_4ebc_8c0d_37bcc77f6a73",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/7abda28b-99c6-4ebc-8c0d-37bcc77f6a73.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 4394,
+      "published": "2026-02-25T16:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "他是霍金口中“地球上最聪明的人之一”，4岁下国际象棋，13岁获大师称号，却在一场对弈中突然顿悟，转身奔向人工智能。 他是DeepMind创始人，AlphaGo、AlphaFold背后的大脑，2024年诺贝尔化学奖得主。他也是那个因执念于强化学习险些错失大语言模型时代，又率领谷歌Gemini逆袭，成功回到牌桌的“孤傲天才”。 我们想聊聊哈萨比斯，不仅因为他的天才传奇，更想了解：发明终极技术的那一小撮"
+    },
+    {
+      "id": "x_2026662407431496138",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Things are cooking at Cafe Cursor in Paris",
+      "url": "https://x.com/benln/status/2026662407431496138",
+      "images": null,
+      "published": "2026-02-25T14:15:46+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2026596705651540363",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Paris is open today",
+      "url": "https://x.com/benln/status/2026596705651540363",
+      "images": null,
+      "published": "2026-02-25T09:54:41+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2026592396486782986",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "过年都在写这个，尝试梳理 2026 年的 Agent 发生了什么变化 我过年写了一篇一万字的文章，如果你最近很焦虑建议看看。 我会尝试告诉你这一个月 AI 领域发生了什么，为什么大家都这么焦虑。这些变化可能会带来什么影响 歸藏(guizang.ai) (@op7418) x.com/i/article/202651436616… — https://nitter.net/op7418/status/2026520431700881816#m",
+      "url": "https://x.com/op7418/status/2026592396486782986",
+      "images": null,
+      "published": "2026-02-25T09:37:34+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2026520431700881816",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "x.com/i/article/202651436616…",
+      "url": "https://x.com/op7418/status/2026520431700881816",
+      "images": null,
+      "published": "2026-02-25T04:51:36+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2026477875030102221",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "目前只有 Max 会员可以用",
+      "url": "https://x.com/op7418/status/2026477875030102221",
+      "images": null,
+      "published": "2026-02-25T02:02:30+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2026477053927895060",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Pencil 更新了，上线了类似 agent teams 得 Agent 设计集群，可以多个 Agent 并行为你生成设计 他们这个架构真不错，由于底层是 Claude Code 所以可以直接调用 CC 的 Agent Teams 能力 Video",
+      "url": "https://x.com/op7418/status/2026477053927895060",
+      "images": null,
+      "published": "2026-02-25T01:59:14+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2026476046779035723",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "指南： Claude (@claudeai) Remote Control is now available in Research Preview for Max users, and coming soon to Pro users. Run `claude rc` to get started. Docs: code.claude.com/docs/en/remo… — https://nitter.net/claudeai/status/2026418435408986423#m",
+      "url": "https://x.com/op7418/status/2026476046779035723",
+      "images": null,
+      "published": "2026-02-25T01:55:14+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2026475939664974265",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我去，这个好，Claudecode 终于做了远程控制功能 你可以用你的手机控制在你电脑上的 close code 了 开启以后，可以用手机端的 Claude 或者是网页去控制你的 Claude code Video",
+      "url": "https://x.com/op7418/status/2026475939664974265",
+      "images": null,
+      "published": "2026-02-25T01:54:48+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_jnSGYd3gdOs",
       "source": "Y Combinator",
@@ -254,40 +426,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2024684025324122177",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "详情：blog.google/innovation-and-a…",
-      "url": "https://x.com/op7418/status/2024684025324122177",
-      "images": null,
-      "published": "2026-02-20T03:14:23+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2024683950971695196",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "谷歌终于发布了 Gemini 3.1 Pro 模型 之前的 3.0 Pro Preview 实在有太多问题了 逻辑模式能力的 ARC-AGI-2 基准测试中，3.1 Pro 模型得分比 3.0 Preview 高了一倍还多 在视觉编程上，比如 SVG 绘制、根据 C4D 平面图生成 3D 模型，以及一些注重视觉表现的网页上。 Gemini 3.1 Pro 比 3.0 又强了很多，更是比其他模型强了非常多。 Video",
-      "url": "https://x.com/op7418/status/2024683950971695196",
-      "images": null,
-      "published": "2026-02-20T03:14:05+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_GWBHH4LXwOY",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -388,74 +526,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2023927561827611009",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "运行这个命令安装 Figma MCP ： claude mcp add --transport http figma-remote-mcp mcp.figma.com/mcp",
-      "url": "https://x.com/op7418/status/2023927561827611009",
-      "images": null,
-      "published": "2026-02-18T01:08:28+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2023927498921439414",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Figma 和 Claude Code 现在终于能双向交互了！ Figma MCP 的最新版本。可以把你用 Claude Code 生成的网页直接转成 Figma 的格式 可以把任意网页的内容转换成 Figma 设计稿，然后发送到剪贴板，直接粘贴到 Figma 编辑器中就可以。 我在 vibe coding 的时候，经常需要一次性提交多个交互相关的改动，这时候很难让 Claude Code 理解。 但由于我是 vibe coding，所以没有设计稿，这就很难办。 现在我们可以每次让 Claude Code 写完代码以后，备份一份设计稿。 我们就可以在设计稿上进行修改，然后再告诉他，这样表达的意图会清晰很多。 Video Dylan Field (@zoink) x.com/i/article/202375858052… — https://nitter.net/zoink/status/2023760388530307167#m",
-      "url": "https://x.com/op7418/status/2023927498921439414",
-      "images": null,
-      "published": "2026-02-18T01:08:13+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2023924709147242581",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "在 Opsu 4.6 之后 Sonnet 4.6 终于上线了 跟 Opus 4.6 一样所有领域都有提升，而且很多测评都接近 Opus 4.6 的水平。 同样有 100 万上下文的测试版本，这个应该用得起了。 定价依然与 Sonnet 4.5 保持一致，100M 3/15 美元。 这次他们强调了 Sonnet 4.6 的 computer use 水平提升了非常多。 Sonnet 4.6 已经上线了 Anthropic 的所有平台 API 平台上 Sonnet 4.6 支持自适应思维和扩展思维，加入了上下文压缩测试版本，类似 Claude Code 那种。 Claude 的网页搜索和获取工具可以自动编写执行代码，过滤和处理搜索结果，仅在上下文中保留相关内容 Claude (@claudeai) This is Claude Sonnet 4.6: our most capable Sonnet model yet. It’s a full upgrade across coding, computer use, long-context reasoning, agent planning, knowledge work, and design. It also features a 1M token context window in beta. Video — https://nitter.net/claudeai/status/2023817132581208353#m",
-      "url": "https://x.com/op7418/status/2023924709147242581",
-      "images": null,
-      "published": "2026-02-18T00:57:08+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2023920926665138422",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "NotebookLM 更新 终于支持了生成 PPT 的单页修改，还可以导出 pptx 格式的文件 Video",
-      "url": "https://x.com/op7418/status/2023920926665138422",
-      "images": null,
-      "published": "2026-02-18T00:42:06+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2023831687512420738",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -490,23 +560,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2023761582493483260",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Medellín",
-      "url": "https://x.com/benln/status/2023761582493483260",
-      "images": null,
-      "published": "2026-02-17T14:08:55+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_EOIlGekiMsQ",
       "source": "老高与茉莉",
       "sourceId": "laogao",
@@ -521,23 +574,6 @@
       "published": "2026-02-17T13:30:22+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2023454004311662902",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "notes from: piped.video/watch?v=rWUWfj_P…",
-      "url": "https://x.com/benln/status/2023454004311662902",
-      "images": null,
-      "published": "2026-02-16T17:46:43+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_rWUWfj_PqmM",
@@ -1110,25 +1146,6 @@
       "transcriptPreview": "本期节目是硅谷101新年直播精华系列的第二期。我们将三小时完整直播拆分成了三期播客，分别围绕2025年备受关注的几个领域：AI、自动驾驶与美股投资。 2026年的新年，自动驾驶圈发生了两件有趣的事。 第一件：一位特斯拉车主完全依赖FSD V14，从美国西海岸一路开到东海岸，整个行程（包括多次进出超级充电站）未出现任何人工接管。 第二件：旧金山发生了一次交通大拥堵，起因是停电影响了交通灯，让依赖规则"
     },
     {
-      "id": "pod_guigu101_pod_e54b2110_670a_46fa_9678_d3fa2ffa4c31",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "新年直播1：AI的2025与2026，技术领域的共识与非共识",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/e54b2110-670a-46fa-9678-d3fa2ffa4c31.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 2720,
-      "published": "2026-01-14T16:00:00-08:00",
-      "hasTranscript": false,
-      "transcriptPreview": "本期节目是硅谷101新年直播精华系列的第一期。我们将三小时完整直播拆分成了三期播客，分别围绕2025年备受关注的几个领域：AI、自动驾驶与美股投资。 回顾2025年的AI行业，我们见证了开源势力的崛起，见证了硅谷的人才大战，见证了“循环融资”模式的上演，也见证了万亿大基建和能源争夺的疯狂。 这一年，共识出现了转变，企业不再追求最贵最好的模型，而是转向垂直领域的小模型。大家比拼的也不再是谁的AI智商"
-    },
-    {
       "id": "yt_Z-FRe5AKmCU",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -1394,23 +1411,6 @@
       "url": "https://www.youtube.com/watch?v=Iocm-1dXr-Q",
       "thumbnail": "https://img.youtube.com/vi/Iocm-1dXr-Q/maxresdefault.jpg",
       "published": "2025-10-01T14:38:48+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_qjPH9njnaVU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Pavel Durov: Telegram, Freedom, Censorship, Money, Power & Human Nature | Lex Fridman Podcast #482",
-      "url": "https://www.youtube.com/watch?v=qjPH9njnaVU",
-      "thumbnail": "https://img.youtube.com/vi/qjPH9njnaVU/maxresdefault.jpg",
-      "published": "2025-09-30T19:27:11+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
