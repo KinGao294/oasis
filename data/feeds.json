@@ -1,7 +1,194 @@
 {
-  "last_updated": "2026-02-26T01:46:52.897311Z",
+  "last_updated": "2026-02-27T01:45:51.543471Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2027071620037415350",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "CodePilot 0.16 版本设计 Agent 模式上线，已正式支持 Nano Banana 2 模型 github.com/op7418/CodePilot/…",
+      "url": "https://x.com/op7418/status/2027071620037415350",
+      "images": null,
+      "published": "2026-02-26T17:21:50+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027068866153885824",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "价格对比nitter.net/op7418/status/20270641… 歸藏(guizang.ai) (@op7418) Nano Banana 2 和 Nano Banana Pro 的详细价格对比 我还以为会降个三四倍的价格呢，结果就降了一倍 图片是用 Nano Banana 2 做的，中文字体渲染确实好了不少 — https://nitter.net/op7418/status/2027064161201795248#m",
+      "url": "https://x.com/op7418/status/2027068866153885824",
+      "images": null,
+      "published": "2026-02-26T17:10:53+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027064161201795248",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Nano Banana 2 和 Nano Banana Pro 的详细价格对比 我还以为会降个三四倍的价格呢，结果就降了一倍 图片是用 Nano Banana 2 做的，中文字体渲染确实好了不少 歸藏(guizang.ai) (@op7418) Nano Banana 2 图像生成模型正式发布，速度更快、价格更低 谷歌又开始大撒币了，Flow 里面 Nano Banana 2 的图片生成完全免费！ - 依旧支持世界知识和搜索 - 更加精确的文本渲染和翻译 - 支持最多 14 个主体的一致性保持 - 更强的指令遵循能力 - 更高的光影、纹理和细节表现 - 非常快的生成速度 - API 价格仅为 Pro 的一半，1K 图片 $0.067 - 在谷歌所有平台都已经上线 Video — https://nitter.net/op7418/status/2027061091126460723#m",
+      "url": "https://x.com/op7418/status/2027064161201795248",
+      "images": null,
+      "published": "2026-02-26T16:52:11+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027062296133222653",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "但是从体感上看，除了价格和速度，其他方面都没有 Pro 好，可能文字渲染变好了点",
+      "url": "https://x.com/op7418/status/2027062296133222653",
+      "images": null,
+      "published": "2026-02-26T16:44:47+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027061183380177325",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "详情：blog.google/innovation-and-a…",
+      "url": "https://x.com/op7418/status/2027061183380177325",
+      "images": null,
+      "published": "2026-02-26T16:40:21+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027061091126460723",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Nano Banana 2 图像生成模型正式发布，速度更快、价格更低 谷歌又开始大撒币了，Flow 里面 Nano Banana 2 的图片生成完全免费！ - 依旧支持世界知识和搜索 - 更加精确的文本渲染和翻译 - 支持最多 14 个主体的一致性保持 - 更强的指令遵循能力 - 更高的光影、纹理和细节表现 - 非常快的生成速度 - API 价格仅为 Pro 的一半，1K 图片 $0.067 - 在谷歌所有平台都已经上线 Video",
+      "url": "https://x.com/op7418/status/2027061091126460723",
+      "images": null,
+      "published": "2026-02-26T16:39:59+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027044204392697978",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Where should we set up Cafe Cursor next?",
+      "url": "https://x.com/benln/status/2027044204392697978",
+      "images": null,
+      "published": "2026-02-26T15:32:53+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027042922164847035",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "CodePilot 马上会支持 Nano Banana 2 模型",
+      "url": "https://x.com/op7418/status/2027042922164847035",
+      "images": null,
+      "published": "2026-02-26T15:27:47+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027025995648385502",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "更新了：nitter.net/op7418/status/20270211… 歸藏(guizang.ai) (@op7418) Nano Banana 2 图像生成模型已经在 Gemini APP 中上线！ 选择图片生成就可以用，模型名称显示 Nano Banana 2 ，同时默认生成图片的分辨率提升到了 2K。 文字渲染也变好了，比原来 Gemini 里的 Nano Banana Pro 清晰了不少。 — https://nitter.net/op7418/status/2027021180667043976#m",
+      "url": "https://x.com/op7418/status/2027025995648385502",
+      "images": null,
+      "published": "2026-02-26T14:20:32+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027023484308898289",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "模型的美学表现和细节丰富度差了不少",
+      "url": "https://x.com/op7418/status/2027023484308898289",
+      "images": null,
+      "published": "2026-02-26T14:10:33+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027022317092786386",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "需要选择 Fast 或者 Thinking 模式，看起来是 Gemini 3 Flash 模型驱动的",
+      "url": "https://x.com/op7418/status/2027022317092786386",
+      "images": null,
+      "published": "2026-02-26T14:05:55+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_KGVpKPNUdzA",
       "source": "Lex Fridman",
@@ -70,108 +257,6 @@
       "url": "https://x.com/benln/status/2026596705651540363",
       "images": null,
       "published": "2026-02-25T09:54:41+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2026592396486782986",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "过年都在写这个，尝试梳理 2026 年的 Agent 发生了什么变化 我过年写了一篇一万字的文章，如果你最近很焦虑建议看看。 我会尝试告诉你这一个月 AI 领域发生了什么，为什么大家都这么焦虑。这些变化可能会带来什么影响 歸藏(guizang.ai) (@op7418) x.com/i/article/202651436616… — https://nitter.net/op7418/status/2026520431700881816#m",
-      "url": "https://x.com/op7418/status/2026592396486782986",
-      "images": null,
-      "published": "2026-02-25T09:37:34+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2026520431700881816",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "x.com/i/article/202651436616…",
-      "url": "https://x.com/op7418/status/2026520431700881816",
-      "images": null,
-      "published": "2026-02-25T04:51:36+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2026477875030102221",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "目前只有 Max 会员可以用",
-      "url": "https://x.com/op7418/status/2026477875030102221",
-      "images": null,
-      "published": "2026-02-25T02:02:30+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2026477053927895060",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Pencil 更新了，上线了类似 agent teams 得 Agent 设计集群，可以多个 Agent 并行为你生成设计 他们这个架构真不错，由于底层是 Claude Code 所以可以直接调用 CC 的 Agent Teams 能力 Video",
-      "url": "https://x.com/op7418/status/2026477053927895060",
-      "images": null,
-      "published": "2026-02-25T01:59:14+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2026476046779035723",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "指南： Claude (@claudeai) Remote Control is now available in Research Preview for Max users, and coming soon to Pro users. Run `claude rc` to get started. Docs: code.claude.com/docs/en/remo… — https://nitter.net/claudeai/status/2026418435408986423#m",
-      "url": "https://x.com/op7418/status/2026476046779035723",
-      "images": null,
-      "published": "2026-02-25T01:55:14+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2026475939664974265",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "我去，这个好，Claudecode 终于做了远程控制功能 你可以用你的手机控制在你电脑上的 close code 了 开启以后，可以用手机端的 Claude 或者是网页去控制你的 Claude code Video",
-      "url": "https://x.com/op7418/status/2026475939664974265",
-      "images": null,
-      "published": "2026-02-25T01:54:48+00:00",
       "hasTranscript": false
     },
     {
@@ -288,74 +373,6 @@
       "published": "2026-02-24T17:03:32+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2026328493882322975",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "最新 v0.14.0 增加了 Token 用量统计",
-      "url": "https://x.com/op7418/status/2026328493882322975",
-      "images": null,
-      "published": "2026-02-24T16:08:54+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2026326318040994260",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "刚更新了多语言，而且这个客户端是全平台支持，还能帮小白一键自动安装 Claude Code：github.com/op7418/CodePilot/…",
-      "url": "https://x.com/op7418/status/2026326318040994260",
-      "images": null,
-      "published": "2026-02-24T16:00:16+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2026325142398529926",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这个 Seedance 2.0 的测评除了提示词和玩法 剩下的工作全是用我自己写的 Claude Code 客户端 Codepilot 完成的 搞了一套流程可以让 Claude 完全理解素材、生成结果、提示词，里面包括了图像和视频的标注 全部纯文本优先 歸藏(guizang.ai) (@op7418) x.com/i/article/202263524311… — https://nitter.net/op7418/status/2022721414462374031#m",
-      "url": "https://x.com/op7418/status/2026325142398529926",
-      "images": null,
-      "published": "2026-02-24T15:55:35+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2026214755149680852",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Anthropic 声称 DeepSeek、Moonshot AI 和 MiniMax 通过大量伪造账户调用接口，进行“工业规模的蒸馏”。 从这条推特的反馈来看大家普遍都讨厌 Anthropic 着套说辞，都烦死 Anthropic 这种又当又立的逻辑了。 马斯克直接开团说他们自己也违规使用书籍进行训练最后花了几十亿和解。 还有人创建了一个开源项目号召大家把自己的对话导出成为 jsonl 变成开源数据集。 Anthropic (@AnthropicAI) We’ve identified industrial-scale distillation attacks on our models by DeepSeek, Moonshot AI, and MiniMax. These labs created over 24,000 fraudulent accounts and generated over 16 million exchanges with Claude, extracting its capabilities to train and improve their own models. — https://nitter.net/AnthropicAI/status/2025997928242811253#m",
-      "url": "https://x.com/op7418/status/2026214755149680852",
-      "images": null,
-      "published": "2026-02-24T08:36:57+00:00",
-      "hasTranscript": false
     },
     {
       "id": "x_2025952690317001128",
@@ -524,23 +541,6 @@
       "published": "2026-02-18T12:10:20+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2023831687512420738",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "You can now easily give Cursor access to your knowledge bases, deployment environments, observability suite, internal tools, and design files. Ask it to figure out an error by scanning through Datadog, hunt down runbooks in Notion, deploy to AWS, or replicate a mock from Figma. Much of this was possible before, but it was too hard. Now it feels like installing an app! You can configure plugins for your whole team too. Cursor (@cursor_ai) Extend Cursor with plugins, now available in our marketplace. Video — https://nitter.net/cursor_ai/status/2023827892506161541#m",
-      "url": "https://x.com/benln/status/2023831687512420738",
-      "images": null,
-      "published": "2026-02-17T18:47:29+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_PQU9o_5rHC4",
