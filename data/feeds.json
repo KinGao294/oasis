@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-27T01:45:51.543471Z",
+  "last_updated": "2026-02-28T01:27:22.884965Z",
   "count": 101,
   "items": [
     {
-      "id": "x_2027071620037415350",
+      "id": "x_2027436426967822633",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -13,14 +13,14 @@
         "Design"
       ],
       "title": null,
-      "content": "CodePilot 0.16 版本设计 Agent 模式上线，已正式支持 Nano Banana 2 模型 github.com/op7418/CodePilot/…",
-      "url": "https://x.com/op7418/status/2027071620037415350",
+      "content": "哈哈，突发奇想，给 Codepilot 搞了个超好玩的东西！ 一键分屏并行执行任务！ 帮你更好的管理你的 Agent 进度，支持快速切换和无限分屏，只需要你的屏幕够长 交互逻辑借鉴了 Dia 浏览器 Video",
+      "url": "https://x.com/op7418/status/2027436426967822633",
       "images": null,
-      "published": "2026-02-26T17:21:50+00:00",
+      "published": "2026-02-27T17:31:26+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2027068866153885824",
+      "id": "x_2027415519142490177",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -30,14 +30,31 @@
         "Design"
       ],
       "title": null,
-      "content": "价格对比nitter.net/op7418/status/20270641… 歸藏(guizang.ai) (@op7418) Nano Banana 2 和 Nano Banana Pro 的详细价格对比 我还以为会降个三四倍的价格呢，结果就降了一倍 图片是用 Nano Banana 2 做的，中文字体渲染确实好了不少 — https://nitter.net/op7418/status/2027064161201795248#m",
-      "url": "https://x.com/op7418/status/2027068866153885824",
+      "content": "当然，核心还是体验和需求，但是你如果想要融资创业起团队，做大做强，那可能需要看的远点。 nitter.net/i/status/2027393952807… 胡二虎 Will hu🐯 (@willlhhh) 新和旧对于用户来看其实都没有那么重要，重要的还是可用性。 从我的视角看来，大部分追随 Monica 而变成 All-in-one 形态的工具都还活得很好。从流量视角来看，这些 All-in-one 的工具就算在 2026 年 2 月的今天，月环比也一直在持续上涨。 所以，也许你可以通过新锐的创新去圈住那一部分早期采用者，但早期采用者的整个圈层毕竟有限。你也可以仍然沿用老的那一套，在这些小的赛道去做一些 All-in-one 的小工具，也仍然有存活的空间。新和旧对于这个时间点来说，其实我觉得没有那么大的意义。跨越鸿沟是一个缓慢且长的过程，创新不是在某个时间点突然发生和突然切换的，OpenClawd 的出现也不代表说整个工具的形态就已经进入了某个旗帜鲜明的分界点。 — https://nitter.net/willlhhh/status/2027393952807305576#m",
+      "url": "https://x.com/op7418/status/2027415519142490177",
       "images": null,
-      "published": "2026-02-26T17:10:53+00:00",
+      "published": "2026-02-27T16:08:21+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2027064161201795248",
+      "id": "yt_UPGB-hsAoVY",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Powerful Alternative To Fine-Tuning",
+      "url": "https://www.youtube.com/watch?v=UPGB-hsAoVY",
+      "thumbnail": "https://img.youtube.com/vi/UPGB-hsAoVY/maxresdefault.jpg",
+      "published": "2026-02-27T15:00:55+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2027385710710534509",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -47,31 +64,31 @@
         "Design"
       ],
       "title": null,
-      "content": "Nano Banana 2 和 Nano Banana Pro 的详细价格对比 我还以为会降个三四倍的价格呢，结果就降了一倍 图片是用 Nano Banana 2 做的，中文字体渲染确实好了不少 歸藏(guizang.ai) (@op7418) Nano Banana 2 图像生成模型正式发布，速度更快、价格更低 谷歌又开始大撒币了，Flow 里面 Nano Banana 2 的图片生成完全免费！ - 依旧支持世界知识和搜索 - 更加精确的文本渲染和翻译 - 支持最多 14 个主体的一致性保持 - 更强的指令遵循能力 - 更高的光影、纹理和细节表现 - 非常快的生成速度 - API 价格仅为 Pro 的一半，1K 图片 $0.067 - 在谷歌所有平台都已经上线 Video — https://nitter.net/op7418/status/2027061091126460723#m",
-      "url": "https://x.com/op7418/status/2027064161201795248",
+      "content": "最好是用户哈，来了别把藏师傅当客服问，真回不过来。 像那种问这东西有什么用的，和 Claude 有啥区别的，就别来了朋友们，用 Claude 就行。",
+      "url": "https://x.com/op7418/status/2027385710710534509",
       "images": null,
-      "published": "2026-02-26T16:52:11+00:00",
+      "published": "2026-02-27T14:09:55+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2027062296133222653",
-      "source": "归藏",
-      "sourceId": "guizang",
+      "id": "x_2027383754310746397",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
       "sourceAvatar": null,
       "platform": "x",
       "domains": [
         "AI",
-        "Design"
+        "Dev"
       ],
       "title": null,
-      "content": "但是从体感上看，除了价格和速度，其他方面都没有 Pro 好，可能文字渲染变好了点",
-      "url": "https://x.com/op7418/status/2027062296133222653",
+      "content": "Cafe Cursor is coming up in these cities: • Hanoi - 2/28 • Nairobi - 2/28 • Quito - 2/28 • Vilnius - 3/2 • Tokyo - 3/5 • Dubai - 3/5 • Geneva - 3/6 • Hong Kong - 3/8 • Barcelona - 3/10 • Barranquilla - 3/12 • Bangkok - 3/14 • Kigali - 3/17 • Zurich - 3/18",
+      "url": "https://x.com/benln/status/2027383754310746397",
       "images": null,
-      "published": "2026-02-26T16:44:47+00:00",
+      "published": "2026-02-27T14:02:08+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2027061183380177325",
+      "id": "x_2027383306757755029",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -81,14 +98,14 @@
         "Design"
       ],
       "title": null,
-      "content": "详情：blog.google/innovation-and-a…",
-      "url": "https://x.com/op7418/status/2027061183380177325",
+      "content": "Open AI 完成新一轮 1100 亿美元融资 投前估值 7300 亿美元，主要投资方是： 软银 300 亿美元、英伟达 300 亿美元和亚马逊 500 亿美元 OpenAI (@OpenAI) Helping AI reach more people requires deep collaboration across the ecosystem. Today we’re announcing new investment, with support from @SoftBank, @NVIDIA, and @Amazon, to scale the infrastructure needed to bring AI to everyone. openai.com/index/scaling-ai-… — https://nitter.net/OpenAI/status/2027376050263793814#m",
+      "url": "https://x.com/op7418/status/2027383306757755029",
       "images": null,
-      "published": "2026-02-26T16:40:21+00:00",
+      "published": "2026-02-27T14:00:21+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2027061091126460723",
+      "id": "x_2027379610938470544",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -98,10 +115,112 @@
         "Design"
       ],
       "title": null,
-      "content": "Nano Banana 2 图像生成模型正式发布，速度更快、价格更低 谷歌又开始大撒币了，Flow 里面 Nano Banana 2 的图片生成完全免费！ - 依旧支持世界知识和搜索 - 更加精确的文本渲染和翻译 - 支持最多 14 个主体的一致性保持 - 更强的指令遵循能力 - 更高的光影、纹理和细节表现 - 非常快的生成速度 - API 价格仅为 Pro 的一半，1K 图片 $0.067 - 在谷歌所有平台都已经上线 Video",
-      "url": "https://x.com/op7418/status/2027061091126460723",
+      "content": "搞了个用户群：nitter.net/op7418/status/20273768… 歸藏(guizang.ai) (@op7418) 我写的 Agent 工具 CodePilot 发布这么长时间了，一直没有一个用户群 发现还是得搞一个用户群，方便反馈也方便共建，用来提 PR 交流什么的 如果你是 CodePilot 的用户并且希望长期使用和共建，可以来转转 — https://nitter.net/op7418/status/2027376838344077389#m",
+      "url": "https://x.com/op7418/status/2027379610938470544",
       "images": null,
-      "published": "2026-02-26T16:39:59+00:00",
+      "published": "2026-02-27T13:45:40+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027376838344077389",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我写的 Agent 工具 CodePilot 发布这么长时间了，一直没有一个用户群 发现还是得搞一个用户群，方便反馈也方便共建，用来提 PR 交流什么的 如果你是 CodePilot 的用户并且希望长期使用和共建，可以来转转 歸藏(guizang.ai) (@op7418) 这几天一直在做设计 Agent 终于在 Nanabonana 2 上线的时候赶出来了！ 内嵌在我的开源 Claude Code 桌面端 Codepilot里。 能选参数、能连续编辑、还有素材库帮你管提示词和收藏图片，我的提示和思路后续都会内置到里面。 ------ 录个视频介绍一下： 支持Nano Banana、 Pro 和 2三个模型生图 参数自由选择：想要什么风格、什么比例，自己定。 连续编辑：反复调整细节的时候特别有用。 ## 素材库 内置素材库可以收藏用过的好图，也能快速找到之前写过的提示词。下次想生类似风格的图，直接从素材库调，效率翻倍。 ## 设置方法 5 步搞定： 1. 去 Google AI Studio 申请一个 API Key 2. 打开 Codepilot 设置，找到服务商 3. 点进 Google Gemini (Image) 4. 把 Key 填进去 5. 回到聊天页面，切换到 image-Agent 模式 Video — https://nitter.net/op7418/status/2027320336413602018#m",
+      "url": "https://x.com/op7418/status/2027376838344077389",
+      "images": null,
+      "published": "2026-02-27T13:34:39+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_Erxh0dx4nts",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "This AI Taught Me Calculus in 5 Minutes",
+      "url": "https://www.youtube.com/watch?v=Erxh0dx4nts",
+      "thumbnail": "https://img.youtube.com/vi/Erxh0dx4nts/maxresdefault.jpg",
+      "published": "2026-02-27T11:41:37+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2027324115326296256",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "有啥需求可以提 Issue 和提 PR 啊",
+      "url": "https://x.com/op7418/status/2027324115326296256",
+      "images": null,
+      "published": "2026-02-27T10:05:09+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027320453535355122",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这里尝试：github.com/op7418/CodePilot/…",
+      "url": "https://x.com/op7418/status/2027320453535355122",
+      "images": null,
+      "published": "2026-02-27T09:50:36+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027320336413602018",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这几天一直在做设计 Agent 终于在 Nanabonana 2 上线的时候赶出来了！ 内嵌在我的开源 Claude Code 桌面端 Codepilot里。 能选参数、能连续编辑、还有素材库帮你管提示词和收藏图片，我的提示和思路后续都会内置到里面。 ------ 录个视频介绍一下： 支持Nano Banana、 Pro 和 2三个模型生图 参数自由选择：想要什么风格、什么比例，自己定。 连续编辑：反复调整细节的时候特别有用。 ## 素材库 内置素材库可以收藏用过的好图，也能快速找到之前写过的提示词。下次想生类似风格的图，直接从素材库调，效率翻倍。 ## 设置方法 5 步搞定： 1. 去 Google AI Studio 申请一个 API Key 2. 打开 Codepilot 设置，找到服务商 3. 点进 Google Gemini (Image) 4. 把 Key 填进去 5. 回到聊天页面，切换到 image-Agent 模式 Video",
+      "url": "https://x.com/op7418/status/2027320336413602018",
+      "images": null,
+      "published": "2026-02-27T09:50:08+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027258387399069741",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "新增的东西特指 nitter.net/op7418/status/20265204… 歸藏(guizang.ai) (@op7418) x.com/i/article/202651436616… — https://nitter.net/op7418/status/2026520431700881816#m",
+      "url": "https://x.com/op7418/status/2027258387399069741",
+      "images": null,
+      "published": "2026-02-27T05:43:58+00:00",
       "hasTranscript": false
     },
     {
@@ -119,74 +238,6 @@
       "url": "https://x.com/benln/status/2027044204392697978",
       "images": null,
       "published": "2026-02-26T15:32:53+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2027042922164847035",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "CodePilot 马上会支持 Nano Banana 2 模型",
-      "url": "https://x.com/op7418/status/2027042922164847035",
-      "images": null,
-      "published": "2026-02-26T15:27:47+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2027025995648385502",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "更新了：nitter.net/op7418/status/20270211… 歸藏(guizang.ai) (@op7418) Nano Banana 2 图像生成模型已经在 Gemini APP 中上线！ 选择图片生成就可以用，模型名称显示 Nano Banana 2 ，同时默认生成图片的分辨率提升到了 2K。 文字渲染也变好了，比原来 Gemini 里的 Nano Banana Pro 清晰了不少。 — https://nitter.net/op7418/status/2027021180667043976#m",
-      "url": "https://x.com/op7418/status/2027025995648385502",
-      "images": null,
-      "published": "2026-02-26T14:20:32+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2027023484308898289",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "模型的美学表现和细节丰富度差了不少",
-      "url": "https://x.com/op7418/status/2027023484308898289",
-      "images": null,
-      "published": "2026-02-26T14:10:33+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2027022317092786386",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "需要选择 Fast 或者 Thinking 模式，看起来是 Gemini 3 Flash 模型驱动的",
-      "url": "https://x.com/op7418/status/2027022317092786386",
-      "images": null,
-      "published": "2026-02-26T14:05:55+00:00",
       "hasTranscript": false
     },
     {
@@ -509,23 +560,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2024177748407661022",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Startups that have done tender offers for employees recently: • Clay • Notion • Gamma • Harvey • Eleven Labs • Linear • Hightouch",
-      "url": "https://x.com/benln/status/2024177748407661022",
-      "images": null,
-      "published": "2026-02-18T17:42:37+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_2o76-z12Ttk",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -791,23 +825,6 @@
       "url": "https://www.youtube.com/watch?v=bLFl8OffFLE",
       "thumbnail": "https://img.youtube.com/vi/bLFl8OffFLE/maxresdefault.jpg",
       "published": "2026-02-09T16:31:58+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_s44_2s9Lkzk",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI for Government",
-      "url": "https://www.youtube.com/watch?v=s44_2s9Lkzk",
-      "thumbnail": "https://img.youtube.com/vi/s44_2s9Lkzk/maxresdefault.jpg",
-      "published": "2026-02-09T16:31:51+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1378,23 +1395,6 @@
       "url": "https://www.youtube.com/watch?v=7OLVwZeMCfY",
       "thumbnail": "https://img.youtube.com/vi/7OLVwZeMCfY/maxresdefault.jpg",
       "published": "2025-10-14T17:21:10+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_PYYZ6fw0dZA",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "Infrastructure Wars (Official Trailer)",
-      "url": "https://www.youtube.com/watch?v=PYYZ6fw0dZA",
-      "thumbnail": "https://img.youtube.com/vi/PYYZ6fw0dZA/maxresdefault.jpg",
-      "published": "2025-10-14T15:30:32+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
