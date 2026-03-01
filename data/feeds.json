@@ -1,7 +1,109 @@
 {
-  "last_updated": "2026-02-28T01:27:22.884965Z",
+  "last_updated": "2026-03-01T01:57:06.214430Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2027789052930625581",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "已经上线：nitter.net/op7418/status/20277887… 歸藏(guizang.ai) (@op7418) 我操太猛了，朋友们！ 我居然真的一晚上搞定了 Telegram 的连接 我的 Agent 客户端 Codepilot，现在是一个小号的 OpenClaw了！ 一旦学会这套开发体系和 Agent 的使用，工作效率高得要死。 本来是想跟他讨论一下，结果我一扭头，他已经把那个雏形开发完了。 Video — https://nitter.net/op7418/status/2027788772281356370#m",
+      "url": "https://x.com/op7418/status/2027789052930625581",
+      "images": null,
+      "published": "2026-02-28T16:52:39+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027788772281356370",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我操太猛了，朋友们！ 我居然真的一晚上搞定了 Telegram 的连接 我的 Agent 客户端 Codepilot，现在是一个小号的 OpenClaw了！ 一旦学会这套开发体系和 Agent 的使用，工作效率高得要死。 本来是想跟他讨论一下，结果我一扭头，他已经把那个雏形开发完了。 Video 歸藏(guizang.ai) (@op7418) 搞定了非常好玩的东西，朋友们！ 感觉我的 CodePilot 不能叫 Claude Code 客户端了，它应该是一个独立的 Agent 了。 也是朝着 Openclaw 迈进了 — https://nitter.net/op7418/status/2027714654752170232#m",
+      "url": "https://x.com/op7418/status/2027788772281356370",
+      "images": null,
+      "published": "2026-02-28T16:51:32+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027764187691368605",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "原料到货了，咱也整整 AI 硬件 歸藏(guizang.ai) (@op7418) 搞定了非常好玩的东西，朋友们！ 感觉我的 CodePilot 不能叫 Claude Code 客户端了，它应该是一个独立的 Agent 了。 也是朝着 Openclaw 迈进了 — https://nitter.net/op7418/status/2027714654752170232#m",
+      "url": "https://x.com/op7418/status/2027764187691368605",
+      "images": null,
+      "published": "2026-02-28T15:13:51+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027755405573820464",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "已经彻底搞定",
+      "url": "https://x.com/op7418/status/2027755405573820464",
+      "images": null,
+      "published": "2026-02-28T14:38:57+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027714654752170232",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "搞定了非常好玩的东西，朋友们！ 感觉我的 CodePilot 不能叫 Claude Code 客户端了，它应该是一个独立的 Agent 了。 也是朝着 Openclaw 迈进了",
+      "url": "https://x.com/op7418/status/2027714654752170232",
+      "images": null,
+      "published": "2026-02-28T11:57:01+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027642781695656285",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "虽然有时候达里奥（Anthropic CEO Dario）这个想法确实傻逼，但现在看来确实硬。 他不是针对中国，他他妈是针对所有人，我操。 总结了一下昨天到现在各方的看法，挺有意思的。 Anthropic 这个事，现在演变成了席卷 Anthropic 和美国国防部的大事件。 昨天还只是这两家公司之间的问题，现在已经席卷了整个美国政界和 AI 界。 感觉这是国家和政府在 AI 领域的第一次严肃对抗。以前这类事情虽然也有，但这次终于被挑明了。 政界和 AI 界的负责人基本上都被逼着站队。以前还能含糊其辞，现在没办法了。 Anthropic 的底线主要有两个部分： 1. 禁止 AI 对美国人的监控 2. 禁止使用 AI 直接驱动完全自主的武器 昨天不是有个最后通牒吗？看起来是谈崩了，特朗普也发话了，就是说合同必须允许任何“合法用途”。 然后要求任何与美军业务往来的承包商、供应商和合作伙伴，都不允许与 SRP 有商业往来。第一个感觉是，自己把自己整进美国的实体清单了，我操。 发言的其他意思就是 Anthropic 故意在模型上调教，以此迎合这种“觉醒”意识形态，暗示不爱国。 产业上的态度是两边都有。 萨姆（Sam）昨天明确地罕见表态说，虽然他跟 Anthropic 有一些分歧，但是认同 Anthropic 的观点。他也相信 Anthropic 是真正在关注 AI 安全。 但是嘴上一套说的是这样，然后反过来 OpenAI 很快地跟国防部达成了一个协议。 然后马斯克非常讨厌 Anthropic这套左翼思想，所以他依旧是反对 Anthropic 。 意思是他之前的（宪法 AI）里，比如说那个宪法中，有涉及到反西方文明的内容。 谷歌这边的员工旗帜鲜明地反对越过红线，但高层也在与国防部进行谈话，想要达成协议。 然后伊利亚（Ilya）也罕见地发声，表示同意 Anthropic 的看法，并赞扬了 OpenAI 的声明。 他认为这是一个对未来更艰难局面的预演，号召 AI 界团结到一起，跟美国政府这种越过底线的行为做抗争。 感觉从昨天和今天开始，产业界和美国政府这种对抗就开始了。 看看到最后会达成一个什么样的妥协方案吧。 Anthropic (@AnthropicAI) A statement on the comments from Secretary of War Pete Hegseth. anthropic.com/news/statement… — https://nitter.net/AnthropicAI/status/2027555481699446918#m",
+      "url": "https://x.com/op7418/status/2027642781695656285",
+      "images": null,
+      "published": "2026-02-28T07:11:25+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2027436426967822633",
       "source": "归藏",
@@ -105,40 +207,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2027379610938470544",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "搞了个用户群：nitter.net/op7418/status/20273768… 歸藏(guizang.ai) (@op7418) 我写的 Agent 工具 CodePilot 发布这么长时间了，一直没有一个用户群 发现还是得搞一个用户群，方便反馈也方便共建，用来提 PR 交流什么的 如果你是 CodePilot 的用户并且希望长期使用和共建，可以来转转 — https://nitter.net/op7418/status/2027376838344077389#m",
-      "url": "https://x.com/op7418/status/2027379610938470544",
-      "images": null,
-      "published": "2026-02-27T13:45:40+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2027376838344077389",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "我写的 Agent 工具 CodePilot 发布这么长时间了，一直没有一个用户群 发现还是得搞一个用户群，方便反馈也方便共建，用来提 PR 交流什么的 如果你是 CodePilot 的用户并且希望长期使用和共建，可以来转转 歸藏(guizang.ai) (@op7418) 这几天一直在做设计 Agent 终于在 Nanabonana 2 上线的时候赶出来了！ 内嵌在我的开源 Claude Code 桌面端 Codepilot里。 能选参数、能连续编辑、还有素材库帮你管提示词和收藏图片，我的提示和思路后续都会内置到里面。 ------ 录个视频介绍一下： 支持Nano Banana、 Pro 和 2三个模型生图 参数自由选择：想要什么风格、什么比例，自己定。 连续编辑：反复调整细节的时候特别有用。 ## 素材库 内置素材库可以收藏用过的好图，也能快速找到之前写过的提示词。下次想生类似风格的图，直接从素材库调，效率翻倍。 ## 设置方法 5 步搞定： 1. 去 Google AI Studio 申请一个 API Key 2. 打开 Codepilot 设置，找到服务商 3. 点进 Google Gemini (Image) 4. 把 Key 填进去 5. 回到聊天页面，切换到 image-Agent 模式 Video — https://nitter.net/op7418/status/2027320336413602018#m",
-      "url": "https://x.com/op7418/status/2027376838344077389",
-      "images": null,
-      "published": "2026-02-27T13:34:39+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_Erxh0dx4nts",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -154,74 +222,6 @@
       "published": "2026-02-27T11:41:37+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2027324115326296256",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "有啥需求可以提 Issue 和提 PR 啊",
-      "url": "https://x.com/op7418/status/2027324115326296256",
-      "images": null,
-      "published": "2026-02-27T10:05:09+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2027320453535355122",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这里尝试：github.com/op7418/CodePilot/…",
-      "url": "https://x.com/op7418/status/2027320453535355122",
-      "images": null,
-      "published": "2026-02-27T09:50:36+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2027320336413602018",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这几天一直在做设计 Agent 终于在 Nanabonana 2 上线的时候赶出来了！ 内嵌在我的开源 Claude Code 桌面端 Codepilot里。 能选参数、能连续编辑、还有素材库帮你管提示词和收藏图片，我的提示和思路后续都会内置到里面。 ------ 录个视频介绍一下： 支持Nano Banana、 Pro 和 2三个模型生图 参数自由选择：想要什么风格、什么比例，自己定。 连续编辑：反复调整细节的时候特别有用。 ## 素材库 内置素材库可以收藏用过的好图，也能快速找到之前写过的提示词。下次想生类似风格的图，直接从素材库调，效率翻倍。 ## 设置方法 5 步搞定： 1. 去 Google AI Studio 申请一个 API Key 2. 打开 Codepilot 设置，找到服务商 3. 点进 Google Gemini (Image) 4. 把 Key 填进去 5. 回到聊天页面，切换到 image-Agent 模式 Video",
-      "url": "https://x.com/op7418/status/2027320336413602018",
-      "images": null,
-      "published": "2026-02-27T09:50:08+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2027258387399069741",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "新增的东西特指 nitter.net/op7418/status/20265204… 歸藏(guizang.ai) (@op7418) x.com/i/article/202651436616… — https://nitter.net/op7418/status/2026520431700881816#m",
-      "url": "https://x.com/op7418/status/2027258387399069741",
-      "images": null,
-      "published": "2026-02-27T05:43:58+00:00",
-      "hasTranscript": false
     },
     {
       "id": "x_2027044204392697978",
