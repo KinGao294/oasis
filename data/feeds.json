@@ -1,7 +1,58 @@
 {
-  "last_updated": "2026-03-01T01:57:06.214430Z",
+  "last_updated": "2026-03-02T01:48:43.731527Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2028156433775087926",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Side project ideas:",
+      "url": "https://x.com/benln/status/2028156433775087926",
+      "images": null,
+      "published": "2026-03-01T17:12:29+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027953954538324430",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "出来戒一下vibe coding",
+      "url": "https://x.com/op7418/status/2027953954538324430",
+      "images": null,
+      "published": "2026-03-01T03:47:54+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_1SJiTwbSI58",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492",
+      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
+      "thumbnail": "https://img.youtube.com/vi/1SJiTwbSI58/maxresdefault.jpg",
+      "published": "2026-03-01T03:37:44+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "x_2027789052930625581",
       "source": "归藏",
@@ -122,23 +173,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2027415519142490177",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "当然，核心还是体验和需求，但是你如果想要融资创业起团队，做大做强，那可能需要看的远点。 nitter.net/i/status/2027393952807… 胡二虎 Will hu🐯 (@willlhhh) 新和旧对于用户来看其实都没有那么重要，重要的还是可用性。 从我的视角看来，大部分追随 Monica 而变成 All-in-one 形态的工具都还活得很好。从流量视角来看，这些 All-in-one 的工具就算在 2026 年 2 月的今天，月环比也一直在持续上涨。 所以，也许你可以通过新锐的创新去圈住那一部分早期采用者，但早期采用者的整个圈层毕竟有限。你也可以仍然沿用老的那一套，在这些小的赛道去做一些 All-in-one 的小工具，也仍然有存活的空间。新和旧对于这个时间点来说，其实我觉得没有那么大的意义。跨越鸿沟是一个缓慢且长的过程，创新不是在某个时间点突然发生和突然切换的，OpenClawd 的出现也不代表说整个工具的形态就已经进入了某个旗帜鲜明的分界点。 — https://nitter.net/willlhhh/status/2027393952807305576#m",
-      "url": "https://x.com/op7418/status/2027415519142490177",
-      "images": null,
-      "published": "2026-02-27T16:08:21+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_UPGB-hsAoVY",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -154,23 +188,6 @@
       "published": "2026-02-27T15:00:55+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2027385710710534509",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "最好是用户哈，来了别把藏师傅当客服问，真回不过来。 像那种问这东西有什么用的，和 Claude 有啥区别的，就别来了朋友们，用 Claude 就行。",
-      "url": "https://x.com/op7418/status/2027385710710534509",
-      "images": null,
-      "published": "2026-02-27T14:09:55+00:00",
-      "hasTranscript": false
     },
     {
       "id": "x_2027383754310746397",
@@ -190,23 +207,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2027383306757755029",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Open AI 完成新一轮 1100 亿美元融资 投前估值 7300 亿美元，主要投资方是： 软银 300 亿美元、英伟达 300 亿美元和亚马逊 500 亿美元 OpenAI (@OpenAI) Helping AI reach more people requires deep collaboration across the ecosystem. Today we’re announcing new investment, with support from @SoftBank, @NVIDIA, and @Amazon, to scale the infrastructure needed to bring AI to everyone. openai.com/index/scaling-ai-… — https://nitter.net/OpenAI/status/2027376050263793814#m",
-      "url": "https://x.com/op7418/status/2027383306757755029",
-      "images": null,
-      "published": "2026-02-27T14:00:21+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_Erxh0dx4nts",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -222,6 +222,40 @@
       "published": "2026-02-27T11:41:37+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_2027258387399069741",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "新增的东西特指 nitter.net/op7418/status/20265204… 歸藏(guizang.ai) (@op7418) x.com/i/article/202651436616… — https://nitter.net/op7418/status/2026520431700881816#m",
+      "url": "https://x.com/op7418/status/2027258387399069741",
+      "images": null,
+      "published": "2026-02-27T05:43:58+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2027257689722745268",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "如果你现在创业，一个团队做的 Agent 还是 2025 年那套，没有把 2026 年年初这些新增的东西加上。 同时你的结果也没有什么创新，有的甚至比不上我两周搓的这个东西。 我觉得这个创业就没必要干，因为 2026 年的产品和 Agent 的创作逻辑已经完全变了",
+      "url": "https://x.com/op7418/status/2027257689722745268",
+      "images": null,
+      "published": "2026-02-27T05:41:12+00:00",
+      "hasTranscript": false
     },
     {
       "id": "x_2027044204392697978",
@@ -524,23 +558,6 @@
       "url": "https://x.com/benln/status/2024485978476261822",
       "images": null,
       "published": "2026-02-19T14:07:25+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2024457814291239022",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "We're taking over a cafe on March 5th in Tokyo Grab coffee, Cursor credits, and build together 会場でお待ちしています！See you there!",
-      "url": "https://x.com/benln/status/2024457814291239022",
-      "images": null,
-      "published": "2026-02-19T12:15:30+00:00",
       "hasTranscript": false
     },
     {
@@ -1378,23 +1395,6 @@
       "url": "https://www.youtube.com/watch?v=wANPRZejSfg",
       "thumbnail": "https://img.youtube.com/vi/wANPRZejSfg/maxresdefault.jpg",
       "published": "2025-10-16T15:00:06+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_7OLVwZeMCfY",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Julia Shaw: Criminal Psychology of Murder, Serial Killers, Memory & Sex | Lex Fridman Podcast #483",
-      "url": "https://www.youtube.com/watch?v=7OLVwZeMCfY",
-      "thumbnail": "https://img.youtube.com/vi/7OLVwZeMCfY/maxresdefault.jpg",
-      "published": "2025-10-14T17:21:10+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
