@@ -1,7 +1,228 @@
 {
-  "last_updated": "2026-03-03T01:51:05.475565Z",
+  "last_updated": "2026-03-04T01:45:09.396158Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_0pmnDimaXnQ",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Improving Web Search Results in GPT-5.3 Instant",
+      "url": "https://www.youtube.com/watch?v=0pmnDimaXnQ",
+      "thumbnail": "https://img.youtube.com/vi/0pmnDimaXnQ/maxresdefault.jpg",
+      "published": "2026-03-03T17:57:22+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_DvKutXclQoc",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Reducing Overcaveating in GPT-5.3 Instant",
+      "url": "https://www.youtube.com/watch?v=DvKutXclQoc",
+      "thumbnail": "https://img.youtube.com/vi/DvKutXclQoc/maxresdefault.jpg",
+      "published": "2026-03-03T17:57:19+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_f14f8686_a6e2_47ea_92c1_ca7e71199f67",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f14f8686-a6e2-47ea-92c1-ca7e71199f67.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 3579,
+      "published": "2026-03-03T16:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "每周，有超过2.3亿人在ChatGPT上询问健康和保健问题。在人类创造的所有数据中，有30%来自医疗领域，但其中真正被利用起来的，不足5%。 一边是巨大的数据金矿，一边是与未被满足的庞大需求，这正是AI的机会。 在年初的摩根大通医疗健康大会上，我们看到医疗与AI正在加速“双向奔赴”。礼来制药与英伟达达成10亿美元合作，试图用算力重塑药物发现的底层范式；在OpenAI发布ChatGPT for He"
+    },
+    {
+      "id": "x_2028859652667293791",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "CodePilot 的 Telegram 机器人已经支持了流式输出 Video 歸藏(guizang.ai) (@op7418) 牛批，还是 Telegram 开放！ 第一个为 OpenClaw 专门适配机器人 API 的，目前Telegram 所有类型聊天机器人都已经支持流式传输 具体适配方式可以让你的 AI 查找 API 文档中的 sendMessageDraft 方法 或者直接把我下面的链接发给他 Video — https://nitter.net/op7418/status/2028529661526098361#m",
+      "url": "https://x.com/op7418/status/2028859652667293791",
+      "images": null,
+      "published": "2026-03-03T15:46:50+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2028842987774443792",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "We're taking over a cafe on March 15th in Buenos Aires Grab coffee, Cursor credits, and build together",
+      "url": "https://x.com/benln/status/2028842987774443792",
+      "images": null,
+      "published": "2026-03-03T14:40:37+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_SHlrUAkkWI0",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
+      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
+      "thumbnail": "https://img.youtube.com/vi/SHlrUAkkWI0/maxresdefault.jpg",
+      "published": "2026-03-03T12:30:21+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2028784282555298061",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "光年之外这个 AI 浏览器的还是很好的。 我用了相当长一段时间，发掘出了不少玩法，可以看看。 歸藏(guizang.ai) (@op7418) x.com/i/article/202876767403… — https://nitter.net/op7418/status/2028772619319742875#m",
+      "url": "https://x.com/op7418/status/2028784282555298061",
+      "images": null,
+      "published": "2026-03-03T10:47:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2028772841534140679",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "关于翻译插件美团和原作者的声明，解决了就好",
+      "url": "https://x.com/op7418/status/2028772841534140679",
+      "images": null,
+      "published": "2026-03-03T10:01:52+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2028772619319742875",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "x.com/i/article/202876767403…",
+      "url": "https://x.com/op7418/status/2028772619319742875",
+      "images": null,
+      "published": "2026-03-03T10:00:59+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2028752838701285813",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "修复了",
+      "url": "https://x.com/op7418/status/2028752838701285813",
+      "images": null,
+      "published": "2026-03-03T08:42:23+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2028751592837779519",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "服了，这 Claude 天天炸还行 歸藏(guizang.ai) (@op7418) 被迫戒掉 Vibe Coding Anthropic 服务全线爆炸 — https://nitter.net/op7418/status/2028442936686621030#m",
+      "url": "https://x.com/op7418/status/2028751592837779519",
+      "images": null,
+      "published": "2026-03-03T08:37:26+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2028662274748231763",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "目前在限量推送，大概只推送了 5% 的用户，所以他们这个放量很缓慢。 可能很多人用不上，有一些人能用上，他们会在几周内推全。",
+      "url": "https://x.com/op7418/status/2028662274748231763",
+      "images": null,
+      "published": "2026-03-03T02:42:31+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2028652218149449780",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "🐂🍺 Claude Code 官方支持语音模式了 输入斜杠 voice 开启，开启之后按住空格说话就行。转录的内容会出现在输入框里 Video",
+      "url": "https://x.com/op7418/status/2028652218149449780",
+      "images": null,
+      "published": "2026-03-03T02:02:33+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2028529762113880493",
       "source": "归藏",
@@ -37,40 +258,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2028499247570755604",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "有意思又一个 AI 短剧生成 Agent 产品 对话式多 Agent + Skills 协同调度，给一个文本故事就能交付成片。 支持跟 Agent 交互，比如OpenClaw 等 Bot 可自动调用，实现 7×24 小时持续制作。 Zopia AI (@Zopia_AI) We’re introducing Zopia — an end-to-end AI Video Director Agent for Film-grade creation. One idea + Zopia = a cinematic blockbuster. Zopia intelligently orchestrates leading models, enabling one-stop creation of AI Short Dramas, Films, Branded videos and more.. Through conversational multi-Agent + Skills coordination, you bring a story — Zopia delivers the finished film. An industry-level filmmaking pipeline: Script → Storyboard → Multi-shot Generation → Final Edit. Zopia solves the hardest problems in AI filmmaking: shot continuity, character consistency, and multi-scene alignment. Fully optimized for Kling 3 and Vidu Q3, Zopia produces realistic live-action scenes and coherent cinematic storyboards. Seedance 2.0 integration is coming soon — unlocking even greater expressive power. Zopia can be triggered by OpenClaw and other Bots for 24/7 automated production. You imagine. We produce. Video — https://nitter.net/Zopia_AI/status/2028491118669922318#m",
-      "url": "https://x.com/op7418/status/2028499247570755604",
-      "images": null,
-      "published": "2026-03-02T15:54:42+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2028495878148047081",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "全部修复了",
-      "url": "https://x.com/op7418/status/2028495878148047081",
-      "images": null,
-      "published": "2026-03-02T15:41:19+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2028477372593304011",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -85,108 +272,6 @@
       "url": "https://x.com/benln/status/2028477372593304011",
       "images": null,
       "published": "2026-03-02T14:27:47+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2028442936686621030",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "被迫戒掉 Vibe Coding Anthropic 服务全线爆炸",
-      "url": "https://x.com/op7418/status/2028442936686621030",
-      "images": null,
-      "published": "2026-03-02T12:10:57+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2028440613323169803",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "太多杠精了，说点专业内容没人回复，一说这个就都来劲儿了。 什么谁的智能驾驶更厉害呀，什么复读啊，什么车不行啊， 我寻思我也没提这个呀。",
-      "url": "https://x.com/op7418/status/2028440613323169803",
-      "images": null,
-      "published": "2026-03-02T12:01:43+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2028440429079978268",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这杠精怎么这么多呀？ 我就是讨论一下这个概念和这个方式。我说是提了这个概念. 一堆人在杠是不是首次提出，我又没说他是首次提出，我真服了，哥们们。",
-      "url": "https://x.com/op7418/status/2028440429079978268",
-      "images": null,
-      "published": "2026-03-02T12:00:59+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2028415504281723183",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "刚好今天何小鹏也提了这个概念。 ​ ​AI 落地确实不需要机器人，电车才是最快的，而且会很快。",
-      "url": "https://x.com/op7418/status/2028415504281723183",
-      "images": null,
-      "published": "2026-03-02T10:21:57+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2028359373958123978",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "交流记录",
-      "url": "https://x.com/op7418/status/2028359373958123978",
-      "images": null,
-      "published": "2026-03-02T06:38:54+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2028359319159537812",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "纯用 Telegram 跟 Codepilot 交流。 发了几张图片聊了一下 Kimi K2.5 给生成了一个昨天爬山的介绍网页，相当不错啊！ 而且 Kimi K2.5 的多模态能力很厉害，就发了几张只有植物没有任何人物的图片，他就能推测出我完整的徒步路线并且给出介绍 Video 歸藏(guizang.ai) (@op7418) 我操太猛了，朋友们！ 我居然真的一晚上搞定了 Telegram 的连接 我的 Agent 客户端 Codepilot，现在是一个小号的 OpenClaw了！ 一旦学会这套开发体系和 Agent 的使用，工作效率高得要死。 本来是想跟他讨论一下，结果我一扭头，他已经把那个雏形开发完了。 Video — https://nitter.net/op7418/status/2027788772281356370#m",
-      "url": "https://x.com/op7418/status/2028359319159537812",
-      "images": null,
-      "published": "2026-03-02T06:38:41+00:00",
       "hasTranscript": false
     },
     {
@@ -494,23 +579,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2025603363405013118",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Shabbat mode in Cursor Jacob Posel (@jacob_posel) Can a Jew let his agent run over Shabbat if the last prompt was Friday afternoon? — https://nitter.net/jacob_posel/status/2025203717113319860#m",
-      "url": "https://x.com/benln/status/2025603363405013118",
-      "images": null,
-      "published": "2026-02-22T16:07:30+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_Q8wVMdwhlh4",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -729,22 +797,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_dHCNpcNyoFM",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Codex checks its work for you",
-      "url": "https://www.youtube.com/watch?v=dHCNpcNyoFM",
-      "thumbnail": "https://img.youtube.com/vi/dHCNpcNyoFM/maxresdefault.jpg",
-      "published": "2026-02-11T19:08:33+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_3-Zj8i8XNP8",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -809,22 +861,6 @@
       "url": "https://www.youtube.com/watch?v=N8ajU0uav80",
       "thumbnail": "https://img.youtube.com/vi/N8ajU0uav80/maxresdefault.jpg",
       "published": "2026-02-10T22:00:15+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_2gCqVb2lBwk",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Updates to deep research in ChatGPT",
-      "url": "https://www.youtube.com/watch?v=2gCqVb2lBwk",
-      "thumbnail": "https://img.youtube.com/vi/2gCqVb2lBwk/maxresdefault.jpg",
-      "published": "2026-02-10T19:30:48+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1161,25 +1197,6 @@
       "transcriptPreview": "本期节目是硅谷101新年直播精华系列的第三期。我们将三小时完整直播拆分成了三期播客，分别围绕2025年备受关注的几个领域：AI、自动驾驶与美股投资。 2025年下半年，美股市场完全被AI热潮主导。英伟达市值突破5万亿美元，定义了芯片算力的价值高度。谷歌则凭借Gemini与TPU生态全年暴涨66%，证明了其全栈AI体系深度整合的价值。 当估值已经处高位，投资却仍在加码，穆迪的最新报告指出，未来五年内"
     },
     {
-      "id": "pod_guigu101_pod_df80a7c5_5b5a_4a6e_a403_a7933639ea07",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "新年直播2：特斯拉FSD以及自动驾驶的商业战争",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/df80a7c5-5b5a-4a6e-a403-a7933639ea07.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 2362,
-      "published": "2026-01-14T18:00:00-08:00",
-      "hasTranscript": false,
-      "transcriptPreview": "本期节目是硅谷101新年直播精华系列的第二期。我们将三小时完整直播拆分成了三期播客，分别围绕2025年备受关注的几个领域：AI、自动驾驶与美股投资。 2026年的新年，自动驾驶圈发生了两件有趣的事。 第一件：一位特斯拉车主完全依赖FSD V14，从美国西海岸一路开到东海岸，整个行程（包括多次进出超级充电站）未出现任何人工接管。 第二件：旧金山发生了一次交通大拥堵，起因是停电影响了交通灯，让依赖规则"
-    },
-    {
       "id": "yt_Z-FRe5AKmCU",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -1327,23 +1344,6 @@
       "url": "https://www.youtube.com/watch?v=ESObIvXrKZI",
       "thumbnail": "https://img.youtube.com/vi/ESObIvXrKZI/maxresdefault.jpg",
       "published": "2025-11-12T13:23:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_o3gbXDjNWyI",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Dan Houser: GTA, Red Dead Redemption, Rockstar, Absurd & Future of Gaming | Lex Fridman Podcast #484",
-      "url": "https://www.youtube.com/watch?v=o3gbXDjNWyI",
-      "thumbnail": "https://img.youtube.com/vi/o3gbXDjNWyI/maxresdefault.jpg",
-      "published": "2025-10-31T20:43:57+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
