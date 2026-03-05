@@ -1,7 +1,194 @@
 {
-  "last_updated": "2026-03-04T01:45:09.396158Z",
+  "last_updated": "2026-03-05T01:47:49.881836Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2029365178685636899",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codex Windows APP 终于发布了 而且他们为这个东西专门做了一个 AI 原生的 Agent 沙盒，用来跑一些敏感权限之类的。 更重要的是这部分还是开源的，所以如果你在做类似产品，就可以参考它的设计和代码 Video",
+      "url": "https://x.com/op7418/status/2029365178685636899",
+      "images": null,
+      "published": "2026-03-05T01:15:37+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2029220817704501457",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "架构搞定了以后接入超级快 在飞书渠道上线四小时之后，Codepilot 的 Discord 接入已经上线 歸藏(guizang.ai) (@op7418) 我自己写的 Agent 客户端 Codepilot 已经能飞书远程连接 Markdown 渲染和图片识别都是自带的，也顺便支持了飞书海外版 安装 0.25.0 版本就行，原来 Telegram 不方便的可以试试飞书了 — https://nitter.net/op7418/status/2029154461625794608#m",
+      "url": "https://x.com/op7418/status/2029220817704501457",
+      "images": null,
+      "published": "2026-03-04T15:41:58+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2029220155163853064",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "GPT-5.4 要发布了。百万上下文窗口 增加“极限推理模式”，可以更深入的思考，执行更长时间任务 现在 Codex-5.3 其实已经非常不错了，如果有一百万上下文窗口更爽了 Chubby♨️ (@kimmonismus) theinformation.com/newslette… — https://nitter.net/kimmonismus/status/2029213596404605035#m",
+      "url": "https://x.com/op7418/status/2029220155163853064",
+      "images": null,
+      "published": "2026-03-04T15:39:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2029218942649287034",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "跑通了 AI 自测，会自己打开浏览器和操作看修改结果 更省事了 哈哈哈哈",
+      "url": "https://x.com/op7418/status/2029218942649287034",
+      "images": null,
+      "published": "2026-03-04T15:34:31+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2029210086187405483",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Milan",
+      "url": "https://x.com/benln/status/2029210086187405483",
+      "images": null,
+      "published": "2026-03-04T14:59:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2029201867113423167",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这个要是能加国补的话很爽了啊",
+      "url": "https://x.com/op7418/status/2029201867113423167",
+      "images": null,
+      "published": "2026-03-04T14:26:40+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2029201057977704960",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我去苹果转性了？256G 内存居然只加 700 块 尤其是在现在这个内存价格飞涨的时候 歸藏(guizang.ai) (@op7418) 苹果居然发布了一个 4599 起售的 MacBook 叫 Neo 不过用的手机上的 A18 芯片 最近 Mac Mini 都被 Openclaw 搞得没货了，感觉没这个顶一下也行，颜色挺好看的 — https://nitter.net/op7418/status/2029198747759165493#m",
+      "url": "https://x.com/op7418/status/2029201057977704960",
+      "images": null,
+      "published": "2026-03-04T14:23:27+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2029198747759165493",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "苹果居然发布了一个 4599 起售的 MacBook 叫 Neo 不过用的手机上的 A18 芯片 最近 Mac Mini 都被 Openclaw 搞得没货了，感觉没这个顶一下也行，颜色挺好看的",
+      "url": "https://x.com/op7418/status/2029198747759165493",
+      "images": null,
+      "published": "2026-03-04T14:14:16+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2029181198711623732",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "已经发布：nitter.net/op7418/status/20291544… 歸藏(guizang.ai) (@op7418) 我自己写的 Agent 客户端 Codepilot 已经能飞书远程连接 Markdown 渲染和图片识别都是自带的，也顺便支持了飞书海外版 安装 0.25.0 版本就行，原来 Telegram 不方便的可以试试飞书了 — https://nitter.net/op7418/status/2029154461625794608#m",
+      "url": "https://x.com/op7418/status/2029181198711623732",
+      "images": null,
+      "published": "2026-03-04T13:04:32+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2029154461625794608",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我自己写的 Agent 客户端 Codepilot 已经能飞书远程连接 Markdown 渲染和图片识别都是自带的，也顺便支持了飞书海外版 安装 0.25.0 版本就行，原来 Telegram 不方便的可以试试飞书了 歸藏(guizang.ai) (@op7418) 晚上下的任务，让他搞定飞书机器人的链接 早上起来已经开发完了，一次跑通没什么 bug。 这套流程跑通以后真的爽 — https://nitter.net/op7418/status/2029102682892648813#m",
+      "url": "https://x.com/op7418/status/2029154461625794608",
+      "images": null,
+      "published": "2026-03-04T11:18:18+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2029102682892648813",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "晚上下的任务，让他搞定飞书机器人的链接 早上起来已经开发完了，一次跑通没什么 bug。 这套流程跑通以后真的爽",
+      "url": "https://x.com/op7418/status/2029102682892648813",
+      "images": null,
+      "published": "2026-03-04T07:52:33+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_0pmnDimaXnQ",
       "source": "OpenAI",
@@ -54,23 +241,6 @@
       "transcriptPreview": "每周，有超过2.3亿人在ChatGPT上询问健康和保健问题。在人类创造的所有数据中，有30%来自医疗领域，但其中真正被利用起来的，不足5%。 一边是巨大的数据金矿，一边是与未被满足的庞大需求，这正是AI的机会。 在年初的摩根大通医疗健康大会上，我们看到医疗与AI正在加速“双向奔赴”。礼来制药与英伟达达成10亿美元合作，试图用算力重塑药物发现的底层范式；在OpenAI发布ChatGPT for He"
     },
     {
-      "id": "x_2028859652667293791",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "CodePilot 的 Telegram 机器人已经支持了流式输出 Video 歸藏(guizang.ai) (@op7418) 牛批，还是 Telegram 开放！ 第一个为 OpenClaw 专门适配机器人 API 的，目前Telegram 所有类型聊天机器人都已经支持流式传输 具体适配方式可以让你的 AI 查找 API 文档中的 sendMessageDraft 方法 或者直接把我下面的链接发给他 Video — https://nitter.net/op7418/status/2028529661526098361#m",
-      "url": "https://x.com/op7418/status/2028859652667293791",
-      "images": null,
-      "published": "2026-03-03T15:46:50+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2028842987774443792",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -103,159 +273,6 @@
       "published": "2026-03-03T12:30:21+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2028784282555298061",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "光年之外这个 AI 浏览器的还是很好的。 我用了相当长一段时间，发掘出了不少玩法，可以看看。 歸藏(guizang.ai) (@op7418) x.com/i/article/202876767403… — https://nitter.net/op7418/status/2028772619319742875#m",
-      "url": "https://x.com/op7418/status/2028784282555298061",
-      "images": null,
-      "published": "2026-03-03T10:47:20+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2028772841534140679",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "关于翻译插件美团和原作者的声明，解决了就好",
-      "url": "https://x.com/op7418/status/2028772841534140679",
-      "images": null,
-      "published": "2026-03-03T10:01:52+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2028772619319742875",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "x.com/i/article/202876767403…",
-      "url": "https://x.com/op7418/status/2028772619319742875",
-      "images": null,
-      "published": "2026-03-03T10:00:59+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2028752838701285813",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "修复了",
-      "url": "https://x.com/op7418/status/2028752838701285813",
-      "images": null,
-      "published": "2026-03-03T08:42:23+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2028751592837779519",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "服了，这 Claude 天天炸还行 歸藏(guizang.ai) (@op7418) 被迫戒掉 Vibe Coding Anthropic 服务全线爆炸 — https://nitter.net/op7418/status/2028442936686621030#m",
-      "url": "https://x.com/op7418/status/2028751592837779519",
-      "images": null,
-      "published": "2026-03-03T08:37:26+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2028662274748231763",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "目前在限量推送，大概只推送了 5% 的用户，所以他们这个放量很缓慢。 可能很多人用不上，有一些人能用上，他们会在几周内推全。",
-      "url": "https://x.com/op7418/status/2028662274748231763",
-      "images": null,
-      "published": "2026-03-03T02:42:31+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2028652218149449780",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "🐂🍺 Claude Code 官方支持语音模式了 输入斜杠 voice 开启，开启之后按住空格说话就行。转录的内容会出现在输入框里 Video",
-      "url": "https://x.com/op7418/status/2028652218149449780",
-      "images": null,
-      "published": "2026-03-03T02:02:33+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2028529762113880493",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "把这个链接发给 AI 让他适配：core.telegram.org/bots/api#s…",
-      "url": "https://x.com/op7418/status/2028529762113880493",
-      "images": null,
-      "published": "2026-03-02T17:55:58+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2028529661526098361",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "牛批，还是 Telegram 开放！ 第一个为 OpenClaw 专门适配机器人 API 的，目前Telegram 所有类型聊天机器人都已经支持流式传输 具体适配方式可以让你的 AI 查找 API 文档中的 sendMessageDraft 方法 或者直接把我下面的链接发给他 Video",
-      "url": "https://x.com/op7418/status/2028529661526098361",
-      "images": null,
-      "published": "2026-03-02T17:55:34+00:00",
-      "hasTranscript": false
     },
     {
       "id": "x_2028477372593304011",
@@ -560,23 +577,6 @@
       "published": "2026-02-24T17:03:32+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2025952690317001128",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Copenhagen",
-      "url": "https://x.com/benln/status/2025952690317001128",
-      "images": null,
-      "published": "2026-02-23T15:15:36+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_Q8wVMdwhlh4",
