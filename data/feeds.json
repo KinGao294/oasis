@@ -1,7 +1,75 @@
 {
-  "last_updated": "2026-03-07T01:41:25.215706Z",
+  "last_updated": "2026-03-08T01:48:54.853773Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2030317806689120577",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codepilot 和 Claude-to-IM-Skills 都已经支持了 QQ 进行远程控制 QQ 这次的改动真不错，只需要一步就可以获取到需要的 ID 完全不需要用户在开发者后台走繁琐的授权流程，应该是小白最友好的了。 歸藏(guizang.ai) (@op7418) x.com/i/article/202956285551… — https://nitter.net/op7418/status/2029563318973952221#m",
+      "url": "https://x.com/op7418/status/2030317806689120577",
+      "images": null,
+      "published": "2026-03-07T16:21:01+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2030200150874800231",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "哈哈 Claude-to-im Skills 和 CodePilot要适配QQ吗",
+      "url": "https://x.com/op7418/status/2030200150874800231",
+      "images": null,
+      "published": "2026-03-07T08:33:29+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2030184531354173485",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这里安装：github.com/ChromeDevTools/ch…",
+      "url": "https://x.com/op7418/status/2030184531354173485",
+      "images": null,
+      "published": "2026-03-07T07:31:25+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2030184230630871457",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "谷歌的这个 CDP MCP 实在是太方便了，我去！ 完全可以让 AI 自动进行设计走查和交互的测试。如果你有设计稿的话，它的自动设计走查会更加精准和精确！ 再搭配上设计系统，基本上一次生成加多次走查就能完全搞定 UI 和交互的测试，不需要人工再干预。",
+      "url": "https://x.com/op7418/status/2030184230630871457",
+      "images": null,
+      "published": "2026-03-07T07:30:14+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2029960793278840916",
       "source": "归藏",
@@ -63,7 +131,7 @@
         "Business",
         "AI"
       ],
-      "title": "Is This the Biggest Software Shift of the Decade? | a16z Interview - Atlassian CEO",
+      "title": "Atlassian CEO on the SaaS Apocalypse, AI Agents & What Comes Next",
       "url": "https://www.youtube.com/watch?v=0lzo2tFBFy8",
       "thumbnail": "https://img.youtube.com/vi/0lzo2tFBFy8/maxresdefault.jpg",
       "published": "2026-03-06T15:50:06+00:00",
@@ -156,57 +224,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2029798207656710617",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "卧槽，太牛批了！ 龙虾加上小米的生态，这不起飞？ Agent 它终于能控制现实世界了。",
-      "url": "https://x.com/op7418/status/2029798207656710617",
-      "images": null,
-      "published": "2026-03-06T05:56:19+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2029797230056788116",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "答应朋友们的来了！ 你现在能用我的这个 Skills 远程控制 CodeX App 了！ 安装以后会自动运行配置引导，跟着 CodeX 的指引配置就可以。 同时修复了一些问题。 如果你之前装不上的话，让 Claude 或 CodeX 卸载你的 Skills，重新安装就可以。 Video 歸藏(guizang.ai) (@op7418) x.com/i/article/202956285551… — https://nitter.net/op7418/status/2029563318973952221#m",
-      "url": "https://x.com/op7418/status/2029797230056788116",
-      "images": null,
-      "published": "2026-03-06T05:52:26+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2029731579799687222",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "好像迷迷糊糊又打错字了",
-      "url": "https://x.com/op7418/status/2029731579799687222",
-      "images": null,
-      "published": "2026-03-06T01:31:33+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_8hNcRChDrNk",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -221,23 +238,6 @@
       "published": "2026-03-05T20:55:53+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2029629987662483968",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "刚好 GPT-5.4 上了，已经支持 Codex 链接到 IM 工具",
-      "url": "https://x.com/op7418/status/2029629987662483968",
-      "images": null,
-      "published": "2026-03-05T18:47:52+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_qSHMlduU6Lw",
