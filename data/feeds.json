@@ -1,7 +1,58 @@
 {
-  "last_updated": "2026-03-08T01:48:54.853773Z",
-  "count": 101,
+  "last_updated": "2026-03-09T01:50:12.568088Z",
+  "count": 100,
   "items": [
+    {
+      "id": "yt_GcdS_SqJ37Y",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Atlassian CEO on the SaaS Apocalypse, AI Agents & What Comes Next",
+      "url": "https://www.youtube.com/watch?v=GcdS_SqJ37Y",
+      "thumbnail": "https://img.youtube.com/vi/GcdS_SqJ37Y/maxresdefault.jpg",
+      "published": "2026-03-08T22:50:18+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2030653724478124495",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Tokyo is a vibe",
+      "url": "https://x.com/benln/status/2030653724478124495",
+      "images": null,
+      "published": "2026-03-08T14:35:50+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2030549756565667859",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Claude Code 新增的 /loop 命令猛啊 可以连续三天帮你执行重复性任务，最细的粒度可以到每五分钟执行一次 这下把 Openclaw 的定时任务也搞来了，比如可以帮你定时审查 github 的 PR 或者每天帮你总结相关信息进行提醒 结合我的 Feishu 或者 Telegram Skills 可以定时给你的手机推送信息了，这个想象力太大了。 Boris Cherny (@bcherny) Released today: /loop /loop is a powerful new way to schedule recurring tasks, for up to 3 days at a time eg. “/loop babysit all my PRs. Auto-fix build issues and when comments come in, use a worktree agent to fix them” eg. “/loop every morning use the Slack MCP to give me a summary of top posts I was tagged in” Let us know what you think! — https://nitter.net/bcherny/status/2030193932404150413#m",
+      "url": "https://x.com/op7418/status/2030549756565667859",
+      "images": null,
+      "published": "2026-03-08T07:42:42+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2030317806689120577",
       "source": "归藏",
@@ -204,23 +255,6 @@
       "url": "https://x.com/benln/status/2029927492438339661",
       "images": null,
       "published": "2026-03-06T14:30:03+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2029800917663633776",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "安全看起来还是有保证的",
-      "url": "https://x.com/op7418/status/2029800917663633776",
-      "images": null,
-      "published": "2026-03-06T06:07:05+00:00",
       "hasTranscript": false
     },
     {
@@ -578,23 +612,6 @@
       "published": "2026-02-25T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "他是霍金口中“地球上最聪明的人之一”，4岁下国际象棋，13岁获大师称号，却在一场对弈中突然顿悟，转身奔向人工智能。 他是DeepMind创始人，AlphaGo、AlphaFold背后的大脑，2024年诺贝尔化学奖得主。他也是那个因执念于强化学习险些错失大语言模型时代，又率领谷歌Gemini逆袭，成功回到牌桌的“孤傲天才”。 我们想聊聊哈萨比斯，不仅因为他的天才传奇，更想了解：发明终极技术的那一小撮"
-    },
-    {
-      "id": "x_2026662407431496138",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Things are cooking at Cafe Cursor in Paris",
-      "url": "https://x.com/benln/status/2026662407431496138",
-      "images": null,
-      "published": "2026-02-25T14:15:46+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_jnSGYd3gdOs",
@@ -1142,23 +1159,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_0F4RpMEhk60",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Marc Andreessen and Ben Horowitz on the worldview behind a16z",
-      "url": "https://www.youtube.com/watch?v=0F4RpMEhk60",
-      "thumbnail": "https://img.youtube.com/vi/0F4RpMEhk60/maxresdefault.jpg",
-      "published": "2026-01-20T21:23:25+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_8248bf9b_0e67_4383_abc8_79a84dcae35a",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -1691,23 +1691,6 @@
       "published": "2020-12-09T10:55:12+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_9327720978",
-      "source": "Ryo Lu",
-      "sourceId": "ryolu",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "just doing school work",
-      "url": "https://x.com/rylooo/status/9327720978",
-      "images": null,
-      "published": "2010-02-19T09:27:07+00:00",
-      "hasTranscript": false
     }
   ]
 }
