@@ -1,7 +1,211 @@
 {
-  "last_updated": "2026-03-09T01:50:12.568088Z",
-  "count": 100,
+  "last_updated": "2026-03-10T01:43:12.974333Z",
+  "count": 101,
   "items": [
+    {
+      "id": "x_2031077814070337546",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "1 year at Cursor today Grateful to support such a special community and work with such an incredible team",
+      "url": "https://x.com/benln/status/2031077814070337546",
+      "images": null,
+      "published": "2026-03-09T18:41:01+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_qTpCGe4A8PM",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Andrew Huberman: Peptides, Sleep Tech, and the End of Obesity",
+      "url": "https://www.youtube.com/watch?v=qTpCGe4A8PM",
+      "thumbnail": "https://img.youtube.com/vi/qTpCGe4A8PM/maxresdefault.jpg",
+      "published": "2026-03-09T15:08:30+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2031021585008566582",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor events in these cities over the next two weeks: • Barcelona • Ljubljana • Brisbane • Barranquilla • Copenhagen • Riga • Detroit • Salt Lake City • Cebu • Bangkok • Manila • Mannheim • Istanbul • Bangalore • Buenos Aires • Calgary • Stockholm • São Paulo • Kigali • Porto Alegre • Zurich • Toronto • Mexico City • Monterrey • Valdivia • London • Cotonou • Heilbronn • Lomé • Shenzhen • Vancouver",
+      "url": "https://x.com/benln/status/2031021585008566582",
+      "images": null,
+      "published": "2026-03-09T14:57:35+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_5gspRJVp9dI",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Future Of Brain-Computer Interfaces",
+      "url": "https://www.youtube.com/watch?v=5gspRJVp9dI",
+      "thumbnail": "https://img.youtube.com/vi/5gspRJVp9dI/maxresdefault.jpg",
+      "published": "2026-03-09T14:00:08+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2031001196249645376",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "藏师傅的体验 nitter.net/op7418/status/20309520… 歸藏(guizang.ai) (@op7418) x.com/i/article/203094994745… — https://nitter.net/op7418/status/2030952029905207643#m",
+      "url": "https://x.com/op7418/status/2031001196249645376",
+      "images": null,
+      "published": "2026-03-09T13:36:34+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2030961662476660947",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "受邀参与了小米的小龙虾 Miclaw 的测试。 ​我一屋子的小米设备终于派上了用场！ ​ ​这玩意确实顶，Agent 终于有了接触现实世界的触手。 小米的估值逻辑得改改了 歸藏(guizang.ai) (@op7418) x.com/i/article/203094994745… — https://nitter.net/op7418/status/2030952029905207643#m",
+      "url": "https://x.com/op7418/status/2030961662476660947",
+      "images": null,
+      "published": "2026-03-09T10:59:28+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2030952029905207643",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "x.com/i/article/203094994745…",
+      "url": "https://x.com/op7418/status/2030952029905207643",
+      "images": null,
+      "published": "2026-03-09T10:21:11+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2030938405119644125",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "藏师傅肯定不说，反正不会影响你的 OKR 和 KPI 的。",
+      "url": "https://x.com/op7418/status/2030938405119644125",
+      "images": null,
+      "published": "2026-03-09T09:27:03+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2030936999612276773",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "现在每个厂家一个自己实现的 OpenClaw 套壳。 ​ ​说实在了，与其一星期 Vibe Coding 一个全是bug的东西出来，不如买藏师傅的 CodePilot 源码或者买我的授权了。 ​ ​藏师傅还能给你定制 UI 和换皮呢。",
+      "url": "https://x.com/op7418/status/2030936999612276773",
+      "images": null,
+      "published": "2026-03-09T09:21:28+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2030861700048867562",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "0.29 在这里尝试：github.com/op7418/CodePilot/…",
+      "url": "https://x.com/op7418/status/2030861700048867562",
+      "images": null,
+      "published": "2026-03-09T04:22:15+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2030861559862644783",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "终于给 CodePilot 做了设计师该做的功能！ 现在支持精心配置的 13 套主题切换，都区分亮暗模式！ 灵感来自比较流行的 Vscode 主题再演绎 现在咱这个产品的颜值真的拉满，你也可以自己设计自己的主题，后面会支持加载 Video",
+      "url": "https://x.com/op7418/status/2030861559862644783",
+      "images": null,
+      "published": "2026-03-09T04:21:42+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2030849634600616218",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "笑死 Codex 批评 Claude Code 干活敷衍 只管当前的问题修复，不管修复带来的影响",
+      "url": "https://x.com/op7418/status/2030849634600616218",
+      "images": null,
+      "published": "2026-03-09T03:34:18+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_GcdS_SqJ37Y",
       "source": "a16z",
@@ -71,108 +275,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2030200150874800231",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "哈哈 Claude-to-im Skills 和 CodePilot要适配QQ吗",
-      "url": "https://x.com/op7418/status/2030200150874800231",
-      "images": null,
-      "published": "2026-03-07T08:33:29+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2030184531354173485",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这里安装：github.com/ChromeDevTools/ch…",
-      "url": "https://x.com/op7418/status/2030184531354173485",
-      "images": null,
-      "published": "2026-03-07T07:31:25+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2030184230630871457",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "谷歌的这个 CDP MCP 实在是太方便了，我去！ 完全可以让 AI 自动进行设计走查和交互的测试。如果你有设计稿的话，它的自动设计走查会更加精准和精确！ 再搭配上设计系统，基本上一次生成加多次走查就能完全搞定 UI 和交互的测试，不需要人工再干预。",
-      "url": "https://x.com/op7418/status/2030184230630871457",
-      "images": null,
-      "published": "2026-03-07T07:30:14+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2029960793278840916",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Anthropic 服软了 Anthropic (@AnthropicAI) A statement from Anthropic CEO Dario Amodei: anthropic.com/news/where-sta… — https://nitter.net/AnthropicAI/status/2029719864533721481#m",
-      "url": "https://x.com/op7418/status/2029960793278840916",
-      "images": null,
-      "published": "2026-03-06T16:42:22+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2029950810726223938",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "github: github.com/op7418/Claude-to-…",
-      "url": "https://x.com/op7418/status/2029950810726223938",
-      "images": null,
-      "published": "2026-03-06T16:02:42+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2029950690848821373",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Claude Code / Codex CLI into OpenClaw chat with your AI coding agent from Telegram or Discord. Streaming responses · inline permission buttons · persistent sessions · zero config code. <npx skills add op7418/Claude-to-IM-skill>",
-      "url": "https://x.com/op7418/status/2029950690848821373",
-      "images": null,
-      "published": "2026-03-06T16:02:14+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_0lzo2tFBFy8",
       "source": "a16z",
       "sourceId": "a16z",
@@ -188,40 +290,6 @@
       "published": "2026-03-06T15:50:06+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2029944271210766833",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "有朋友说，我开源了连接 Claude Code 和Codex 的 Skills 以后，小红书突然多出了很多类似的项目 哎，麻了 歸藏(guizang.ai) (@op7418) x.com/i/article/202956285551… — https://nitter.net/op7418/status/2029563318973952221#m",
-      "url": "https://x.com/op7418/status/2029944271210766833",
-      "images": null,
-      "published": "2026-03-06T15:36:43+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2029942220510613957",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codepilot 的长期记忆和助理功能搞定了",
-      "url": "https://x.com/op7418/status/2029942220510613957",
-      "images": null,
-      "published": "2026-03-06T15:28:34+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_DNSXlBmukck",
@@ -527,23 +595,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2027383754310746397",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor is coming up in these cities: • Hanoi - 2/28 • Nairobi - 2/28 • Quito - 2/28 • Vilnius - 3/2 • Tokyo - 3/5 • Dubai - 3/5 • Geneva - 3/6 • Hong Kong - 3/8 • Barcelona - 3/10 • Barranquilla - 3/12 • Bangkok - 3/14 • Kigali - 3/17 • Zurich - 3/18",
-      "url": "https://x.com/benln/status/2027383754310746397",
-      "images": null,
-      "published": "2026-02-27T14:02:08+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_Erxh0dx4nts",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -559,23 +610,6 @@
       "published": "2026-02-27T11:41:37+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2027044204392697978",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Where should we set up Cafe Cursor next?",
-      "url": "https://x.com/benln/status/2027044204392697978",
-      "images": null,
-      "published": "2026-02-26T15:32:53+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_KGVpKPNUdzA",
@@ -865,23 +899,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_3-Zj8i8XNP8",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI Native Hedge Funds",
-      "url": "https://www.youtube.com/watch?v=3-Zj8i8XNP8",
-      "thumbnail": "https://img.youtube.com/vi/3-Zj8i8XNP8/maxresdefault.jpg",
-      "published": "2026-02-11T15:58:34+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_r0uij_l32to",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -1123,23 +1140,6 @@
       "published": "2026-01-25T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "紧身裤几乎快从商场和电商页面上消失了。 尽管它是这个世纪10年代的爆火单品，但人们正在以光速厌弃它。零售情报公司Edited发现，截至2025年第一季度，紧身裤在运动品牌下装中的占比已经从2022年的47%回落到了39%，取而代之的是，各种宽松版型的裤子正在占领人们的衣橱。除此之外，过去长期被认为很土、穿着像米其林的排骨羽绒服，成为了这个冬天最畅销的外套款式之一。 曾经的爆款为什么跌落神坛？曾经的"
-    },
-    {
-      "id": "yt_ZqvgAzFKMgk",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Ben Horowitz breaks down the a16z structure",
-      "url": "https://www.youtube.com/watch?v=ZqvgAzFKMgk",
-      "thumbnail": "https://img.youtube.com/vi/ZqvgAzFKMgk/maxresdefault.jpg",
-      "published": "2026-01-24T20:00:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_8bSAP6VVsd0",
@@ -1691,6 +1691,23 @@
       "published": "2020-12-09T10:55:12+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_9327720978",
+      "source": "Ryo Lu",
+      "sourceId": "ryolu",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "just doing school work",
+      "url": "https://x.com/rylooo/status/9327720978",
+      "images": null,
+      "published": "2010-02-19T09:27:07+00:00",
+      "hasTranscript": false
     }
   ]
 }
