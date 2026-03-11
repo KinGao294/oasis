@@ -1,7 +1,125 @@
 {
-  "last_updated": "2026-03-10T01:43:12.974333Z",
+  "last_updated": "2026-03-11T01:43:20.211036Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_rhsSqr0jdFw",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Build Hour: API & Codex",
+      "url": "https://www.youtube.com/watch?v=rhsSqr0jdFw",
+      "thumbnail": "https://img.youtube.com/vi/rhsSqr0jdFw/maxresdefault.jpg",
+      "published": "2026-03-10T17:42:29+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2031420303533027376",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "文档也全部更新了，之前觉得不会用的朋友可以看文档了，写得相当细。",
+      "url": "https://x.com/op7418/status/2031420303533027376",
+      "images": null,
+      "published": "2026-03-10T17:21:56+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2031408970095616115",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "A bit over a year later: • Cursor: $2B annualized revenue w/ 300+ people • Lovable: $300M annualized revenue w/ 150+ people • Mercor: $500M annualized revenue w/ 200+ people Ben Lang (@benln) Tiny teams are the future: • Cursor: 0 to $100M ARR in 21 months w/ 20 people • Bolt: 0 to $20M ARR in 2 months w/ 15 people • Lovable: 0 to $10M ARR in 2 months w/ 15 people • Mercor: 0 to $50M ARR in 2 years w/ 30 people • ElevenLabs: 0 to $100M ARR in 2 years w/ 50 people — https://nitter.net/benln/status/1889388151770325427#m",
+      "url": "https://x.com/benln/status/2031408970095616115",
+      "images": null,
+      "published": "2026-03-10T16:36:54+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_U-TSafAIzXw",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Top 100 Consumer AI Apps | The a16z Show",
+      "url": "https://www.youtube.com/watch?v=U-TSafAIzXw",
+      "thumbnail": "https://img.youtube.com/vi/U-TSafAIzXw/maxresdefault.jpg",
+      "published": "2026-03-10T14:30:07+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2031363798943281191",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codepilot 终于有官网了朋友们！ 藏师傅下午 Vibe Design 了一下，文档网页也上线了 codepilot.sh/ Video",
+      "url": "https://x.com/op7418/status/2031363798943281191",
+      "images": null,
+      "published": "2026-03-10T13:37:25+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2031210541553959134",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "搞抽象这块还是得向陈抱一学习呀，我去，太牛了这用法 谁不想要一个每天早上控制全屋设备叫你起床的猫娘助理呢？ Video 歸藏(guizang.ai) (@op7418) x.com/i/article/203094994745… — https://nitter.net/op7418/status/2030952029905207643#m",
+      "url": "https://x.com/op7418/status/2031210541553959134",
+      "images": null,
+      "published": "2026-03-10T03:28:25+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2031185661265588338",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "可以帮你的 ClaudeCode 和 Codex 连接飞书、QQ 的 Claude-to-im Skills，做了个易用性改动 需要授权的时候不用写超长命令了，现在只需要回复 1、2、3 就行 歸藏(guizang.ai) (@op7418) x.com/i/article/202956285551… — https://nitter.net/op7418/status/2029563318973952221#m",
+      "url": "https://x.com/op7418/status/2031185661265588338",
+      "images": null,
+      "published": "2026-03-10T01:49:33+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2031077814070337546",
       "source": "Ben Lang",
@@ -173,40 +291,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2030861559862644783",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "终于给 CodePilot 做了设计师该做的功能！ 现在支持精心配置的 13 套主题切换，都区分亮暗模式！ 灵感来自比较流行的 Vscode 主题再演绎 现在咱这个产品的颜值真的拉满，你也可以自己设计自己的主题，后面会支持加载 Video",
-      "url": "https://x.com/op7418/status/2030861559862644783",
-      "images": null,
-      "published": "2026-03-09T04:21:42+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2030849634600616218",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "笑死 Codex 批评 Claude Code 干活敷衍 只管当前的问题修复，不管修复带来的影响",
-      "url": "https://x.com/op7418/status/2030849634600616218",
-      "images": null,
-      "published": "2026-03-09T03:34:18+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_GcdS_SqJ37Y",
       "source": "a16z",
       "sourceId": "a16z",
@@ -238,40 +322,6 @@
       "url": "https://x.com/benln/status/2030653724478124495",
       "images": null,
       "published": "2026-03-08T14:35:50+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2030549756565667859",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Claude Code 新增的 /loop 命令猛啊 可以连续三天帮你执行重复性任务，最细的粒度可以到每五分钟执行一次 这下把 Openclaw 的定时任务也搞来了，比如可以帮你定时审查 github 的 PR 或者每天帮你总结相关信息进行提醒 结合我的 Feishu 或者 Telegram Skills 可以定时给你的手机推送信息了，这个想象力太大了。 Boris Cherny (@bcherny) Released today: /loop /loop is a powerful new way to schedule recurring tasks, for up to 3 days at a time eg. “/loop babysit all my PRs. Auto-fix build issues and when comments come in, use a worktree agent to fix them” eg. “/loop every morning use the Slack MCP to give me a summary of top posts I was tagged in” Let us know what you think! — https://nitter.net/bcherny/status/2030193932404150413#m",
-      "url": "https://x.com/op7418/status/2030549756565667859",
-      "images": null,
-      "published": "2026-03-08T07:42:42+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2030317806689120577",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codepilot 和 Claude-to-IM-Skills 都已经支持了 QQ 进行远程控制 QQ 这次的改动真不错，只需要一步就可以获取到需要的 ID 完全不需要用户在开发者后台走繁琐的授权流程，应该是小白最友好的了。 歸藏(guizang.ai) (@op7418) x.com/i/article/202956285551… — https://nitter.net/op7418/status/2029563318973952221#m",
-      "url": "https://x.com/op7418/status/2030317806689120577",
-      "images": null,
-      "published": "2026-03-07T16:21:01+00:00",
       "hasTranscript": false
     },
     {
@@ -544,23 +594,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2028156433775087926",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Side project ideas:",
-      "url": "https://x.com/benln/status/2028156433775087926",
-      "images": null,
-      "published": "2026-03-01T17:12:29+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_1SJiTwbSI58",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -759,22 +792,6 @@
       "url": "https://www.youtube.com/watch?v=eCjYIj-fEDw",
       "thumbnail": "https://img.youtube.com/vi/eCjYIj-fEDw/maxresdefault.jpg",
       "published": "2026-02-20T20:29:53+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_GWBHH4LXwOY",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "The Codex app enables massively parallel work",
-      "url": "https://www.youtube.com/watch?v=GWBHH4LXwOY",
-      "thumbnail": "https://img.youtube.com/vi/GWBHH4LXwOY/maxresdefault.jpg",
-      "published": "2026-02-19T17:26:03+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1102,23 +1119,6 @@
       "url": "https://www.youtube.com/watch?v=pGyHNyOUaqg",
       "thumbnail": "https://img.youtube.com/vi/pGyHNyOUaqg/maxresdefault.jpg",
       "published": "2026-01-29T10:50:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_6HxT4nQmtvc",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Biggest Bottlenecks For AI: Energy & Cooling",
-      "url": "https://www.youtube.com/watch?v=6HxT4nQmtvc",
-      "thumbnail": "https://img.youtube.com/vi/6HxT4nQmtvc/maxresdefault.jpg",
-      "published": "2026-01-26T16:49:43+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
