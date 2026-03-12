@@ -1,7 +1,260 @@
 {
-  "last_updated": "2026-03-11T01:43:20.211036Z",
+  "last_updated": "2026-03-12T01:44:21.592524Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_H9rF1CSSh-w",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
+      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
+      "thumbnail": "https://img.youtube.com/vi/H9rF1CSSh-w/maxresdefault.jpg",
+      "published": "2026-03-11T20:21:39+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_gZQQR_tDGuM",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Rakuten fixes issues twice as fast with Codex",
+      "url": "https://www.youtube.com/watch?v=gZQQR_tDGuM",
+      "thumbnail": "https://img.youtube.com/vi/gZQQR_tDGuM/maxresdefault.jpg",
+      "published": "2026-03-11T20:11:20+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_fyQHPEAFJG8",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Rakuten x Codex: Recovery Time Reduced by 50%",
+      "url": "https://www.youtube.com/watch?v=fyQHPEAFJG8",
+      "thumbnail": "https://img.youtube.com/vi/fyQHPEAFJG8/maxresdefault.jpg",
+      "published": "2026-03-11T19:57:25+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2031790274033434927",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Claude Code 又出问题了，我目前正常使用 Thariq (@trq212) We're experiencing issues with Claude Code and Claude.ai where some users may not be able to log in & others may experience slower than usual performance. We're on it and working hard to bring service back to normal, thanks for bearing with us. — https://nitter.net/trq212/status/2031772228099203487#m",
+      "url": "https://x.com/op7418/status/2031790274033434927",
+      "images": null,
+      "published": "2026-03-11T17:52:04+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2031779663119294777",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Students who've attended YC events get $25K in free credits/tools Now includes a year of Cursor Pro+",
+      "url": "https://x.com/benln/status/2031779663119294777",
+      "images": null,
+      "published": "2026-03-11T17:09:54+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2031766688279224511",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "有人需要 CodePilot 移动端 App 吗？ 这个手机端能控制你多个桌面端设备的 Code Pilot，或者是 Claude Code 和 Codex。 你能够在多个桌面端进行多个聊天窗口并发 桌面端的桥接会更加稳定，然后也可以拉起桌面端。APP 不可能实现全功能，因为这不现实，主要是把你的主机之类的当作网盘和一个服务器在用。 然后你可以： 1. 切换模型 2. 切换你的工作目录 3. 远程查看它的进度",
+      "url": "https://x.com/op7418/status/2031766688279224511",
+      "images": null,
+      "published": "2026-03-11T16:18:21+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2031758448866775333",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Deepseek 终于不像贾跃亭一样永远下周了？ 青龍聖者 (@bdsqlsz) it is coming. — https://nitter.net/bdsqlsz/status/2031719179624362060#m",
+      "url": "https://x.com/op7418/status/2031758448866775333",
+      "images": null,
+      "published": "2026-03-11T15:45:37+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2031732737011335479",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Barcelona",
+      "url": "https://x.com/benln/status/2031732737011335479",
+      "images": null,
+      "published": "2026-03-11T14:03:26+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2031709787361292648",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "给 Codepilot 加上了 CLI 工具的推荐和一键安装 现在大家开始都给 AI 制作 CLI 工具了 你电脑上的其他已经安装的 CLI 工具也可以调用 AI 生成介绍 CLI 工具也是 Agent 基建之一 歸藏(guizang.ai) (@op7418) Codepilot 终于有官网了朋友们！ 藏师傅下午 Vibe Design 了一下，文档网页也上线了 codepilot.sh/ Video — https://nitter.net/op7418/status/2031363798943281191#m",
+      "url": "https://x.com/op7418/status/2031709787361292648",
+      "images": null,
+      "published": "2026-03-11T12:32:15+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2031597953564172501",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "另外给那些做 AI 自动回复的朋友说一下，大家都不是傻子，都能看出来。 如果你认证的话，你被人拉黑的次数过多，你的权重就会非常低，得不偿失。",
+      "url": "https://x.com/op7418/status/2031597953564172501",
+      "images": null,
+      "published": "2026-03-11T05:07:52+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2031597319377084535",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "真服了，现在下面这么多自动回复的 AI。 自动回复一眼就能看出来，好歹调也调得好一点，好好调调你的提示词。 以后再有这种，看见一个拉黑一个。",
+      "url": "https://x.com/op7418/status/2031597319377084535",
+      "images": null,
+      "published": "2026-03-11T05:05:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2031596172427845839",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "现在我的助理会每天早上读取邮件，给我一个报告 歸藏(guizang.ai) (@op7418) 谷歌新出的这个 Workspace 的 CLI 工具太好用了呀！ 我用 Codepilot 的助理模式，可以自动把我所有的日程同步到谷歌日历里。 这样的话 AI 知道我的日程，我也能方便地查看自己的日程。 有什么事就直接通过飞书远程连接截个图发给它，然后它就帮我创建日程了。 谷歌日历上面也就同步了，非常完美。 — https://nitter.net/op7418/status/2031589335552884843#m",
+      "url": "https://x.com/op7418/status/2031596172427845839",
+      "images": null,
+      "published": "2026-03-11T05:00:47+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2031594189201563904",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "当然你也可以让他每天早上给你总结邮箱、发邮件啥的",
+      "url": "https://x.com/op7418/status/2031594189201563904",
+      "images": null,
+      "published": "2026-03-11T04:52:54+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2031590755039588844",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "一些可以避免的坑我发这里了：nitter.net/op7418/status/20315906… 歸藏(guizang.ai) (@op7418) 这个流程非常爽： 1. 跟人约了时间，截图发给飞书 2. 飞书发给你电脑的 Claude Code（或者是我的 Code Pilot） 3. Code Pilot 会把日历直接同步到谷歌日历上去 一个截图发过去，什么都不用说就搞定了！ 谷歌的 CLI 有些问题，我让 AI 总结了一下这些可以避免的坑👇： — https://nitter.net/op7418/status/2031590683770028344#m",
+      "url": "https://x.com/op7418/status/2031590755039588844",
+      "images": null,
+      "published": "2026-03-11T04:39:15+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2031590683770028344",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这个流程非常爽： 1. 跟人约了时间，截图发给飞书 2. 飞书发给你电脑的 Claude Code（或者是我的 Code Pilot） 3. Code Pilot 会把日历直接同步到谷歌日历上去 一个截图发过去，什么都不用说就搞定了！ 谷歌的 CLI 有些问题，我让 AI 总结了一下这些可以避免的坑👇： 歸藏(guizang.ai) (@op7418) 谷歌新出的这个 Workspace 的 CLI 工具太好用了呀！ 我用 Codepilot 的助理模式，可以自动把我所有的日程同步到谷歌日历里。 这样的话 AI 知道我的日程，我也能方便地查看自己的日程。 有什么事就直接通过飞书远程连接截个图发给它，然后它就帮我创建日程了。 谷歌日历上面也就同步了，非常完美。 — https://nitter.net/op7418/status/2031589335552884843#m",
+      "url": "https://x.com/op7418/status/2031590683770028344",
+      "images": null,
+      "published": "2026-03-11T04:38:58+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_rhsSqr0jdFw",
       "source": "OpenAI",
@@ -17,23 +270,6 @@
       "published": "2026-03-10T17:42:29+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2031420303533027376",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "文档也全部更新了，之前觉得不会用的朋友可以看文档了，写得相当细。",
-      "url": "https://x.com/op7418/status/2031420303533027376",
-      "images": null,
-      "published": "2026-03-10T17:21:56+00:00",
-      "hasTranscript": false
     },
     {
       "id": "x_2031408970095616115",
@@ -62,63 +298,12 @@
         "Business",
         "AI"
       ],
-      "title": "The Top 100 Consumer AI Apps | The a16z Show",
+      "title": "Inside a16z’s Top 100 AI Apps Report with Olivia Moore",
       "url": "https://www.youtube.com/watch?v=U-TSafAIzXw",
       "thumbnail": "https://img.youtube.com/vi/U-TSafAIzXw/maxresdefault.jpg",
       "published": "2026-03-10T14:30:07+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2031363798943281191",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codepilot 终于有官网了朋友们！ 藏师傅下午 Vibe Design 了一下，文档网页也上线了 codepilot.sh/ Video",
-      "url": "https://x.com/op7418/status/2031363798943281191",
-      "images": null,
-      "published": "2026-03-10T13:37:25+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2031210541553959134",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "搞抽象这块还是得向陈抱一学习呀，我去，太牛了这用法 谁不想要一个每天早上控制全屋设备叫你起床的猫娘助理呢？ Video 歸藏(guizang.ai) (@op7418) x.com/i/article/203094994745… — https://nitter.net/op7418/status/2030952029905207643#m",
-      "url": "https://x.com/op7418/status/2031210541553959134",
-      "images": null,
-      "published": "2026-03-10T03:28:25+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2031185661265588338",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "可以帮你的 ClaudeCode 和 Codex 连接飞书、QQ 的 Claude-to-im Skills，做了个易用性改动 需要授权的时候不用写超长命令了，现在只需要回复 1、2、3 就行 歸藏(guizang.ai) (@op7418) x.com/i/article/202956285551… — https://nitter.net/op7418/status/2029563318973952221#m",
-      "url": "https://x.com/op7418/status/2031185661265588338",
-      "images": null,
-      "published": "2026-03-10T01:49:33+00:00",
-      "hasTranscript": false
     },
     {
       "id": "x_2031077814070337546",
@@ -187,108 +372,6 @@
       "published": "2026-03-09T14:00:08+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2031001196249645376",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "藏师傅的体验 nitter.net/op7418/status/20309520… 歸藏(guizang.ai) (@op7418) x.com/i/article/203094994745… — https://nitter.net/op7418/status/2030952029905207643#m",
-      "url": "https://x.com/op7418/status/2031001196249645376",
-      "images": null,
-      "published": "2026-03-09T13:36:34+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2030961662476660947",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "受邀参与了小米的小龙虾 Miclaw 的测试。 ​我一屋子的小米设备终于派上了用场！ ​ ​这玩意确实顶，Agent 终于有了接触现实世界的触手。 小米的估值逻辑得改改了 歸藏(guizang.ai) (@op7418) x.com/i/article/203094994745… — https://nitter.net/op7418/status/2030952029905207643#m",
-      "url": "https://x.com/op7418/status/2030961662476660947",
-      "images": null,
-      "published": "2026-03-09T10:59:28+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2030952029905207643",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "x.com/i/article/203094994745…",
-      "url": "https://x.com/op7418/status/2030952029905207643",
-      "images": null,
-      "published": "2026-03-09T10:21:11+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2030938405119644125",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "藏师傅肯定不说，反正不会影响你的 OKR 和 KPI 的。",
-      "url": "https://x.com/op7418/status/2030938405119644125",
-      "images": null,
-      "published": "2026-03-09T09:27:03+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2030936999612276773",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "现在每个厂家一个自己实现的 OpenClaw 套壳。 ​ ​说实在了，与其一星期 Vibe Coding 一个全是bug的东西出来，不如买藏师傅的 CodePilot 源码或者买我的授权了。 ​ ​藏师傅还能给你定制 UI 和换皮呢。",
-      "url": "https://x.com/op7418/status/2030936999612276773",
-      "images": null,
-      "published": "2026-03-09T09:21:28+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2030861700048867562",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "0.29 在这里尝试：github.com/op7418/CodePilot/…",
-      "url": "https://x.com/op7418/status/2030861700048867562",
-      "images": null,
-      "published": "2026-03-09T04:22:15+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_GcdS_SqJ37Y",
@@ -543,23 +626,6 @@
       "transcriptPreview": "每周，有超过2.3亿人在ChatGPT上询问健康和保健问题。在人类创造的所有数据中，有30%来自医疗领域，但其中真正被利用起来的，不足5%。 一边是巨大的数据金矿，一边是与未被满足的庞大需求，这正是AI的机会。 在年初的摩根大通医疗健康大会上，我们看到医疗与AI正在加速“双向奔赴”。礼来制药与英伟达达成10亿美元合作，试图用算力重塑药物发现的底层范式；在OpenAI发布ChatGPT for He"
     },
     {
-      "id": "x_2028842987774443792",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "We're taking over a cafe on March 15th in Buenos Aires Grab coffee, Cursor credits, and build together",
-      "url": "https://x.com/benln/status/2028842987774443792",
-      "images": null,
-      "published": "2026-03-03T14:40:37+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_SHlrUAkkWI0",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -575,23 +641,6 @@
       "published": "2026-03-03T12:30:21+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2028477372593304011",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Nairobi",
-      "url": "https://x.com/benln/status/2028477372593304011",
-      "images": null,
-      "published": "2026-03-02T14:27:47+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_1SJiTwbSI58",
@@ -726,38 +775,6 @@
       "url": "https://www.youtube.com/watch?v=Rp4Q2lZ_RIQ",
       "thumbnail": "https://img.youtube.com/vi/Rp4Q2lZ_RIQ/maxresdefault.jpg",
       "published": "2026-02-24T17:59:24+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_mR8Lz3Bc1rA",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Peter Steinberger on the excitement around OpenClaw",
-      "url": "https://www.youtube.com/watch?v=mR8Lz3Bc1rA",
-      "thumbnail": "https://img.youtube.com/vi/mR8Lz3Bc1rA/maxresdefault.jpg",
-      "published": "2026-02-24T17:55:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_9jgcT0Fqt7U",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Builders Unscripted: Ep. 1 - Peter Steinberger, Creator of OpenClaw",
-      "url": "https://www.youtube.com/watch?v=9jgcT0Fqt7U",
-      "thumbnail": "https://img.youtube.com/vi/9jgcT0Fqt7U/maxresdefault.jpg",
-      "published": "2026-02-24T17:03:32+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1311,23 +1328,6 @@
       "url": "https://www.youtube.com/watch?v=Qp0rCU49lMs",
       "thumbnail": "https://img.youtube.com/vi/Qp0rCU49lMs/maxresdefault.jpg",
       "published": "2025-11-30T19:30:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_m_CFCyc2Shs",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "David Kirtley: Nuclear Fusion, Plasma Physics, and the Future of Energy | Lex Fridman Podcast #485",
-      "url": "https://www.youtube.com/watch?v=m_CFCyc2Shs",
-      "thumbnail": "https://img.youtube.com/vi/m_CFCyc2Shs/maxresdefault.jpg",
-      "published": "2025-11-17T18:27:43+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
