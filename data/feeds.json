@@ -1,7 +1,196 @@
 {
-  "last_updated": "2026-03-12T01:44:21.592524Z",
+  "last_updated": "2026-03-13T01:46:58.529158Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2032150608984359295",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Obsidian 剪藏插件更新了不少东西，同时还改了 AI 标注的语法 顺便更新了一下我的剪藏模版，现在多了一个分类，摘要除了内容总结还有核心价值洞察 歸藏(guizang.ai) (@op7418) Obsidian 剪藏工具，现在居然可以收藏 YouTube 视频的时候，连视频字幕一起收藏下来，这个也太爽了！ — https://nitter.net/op7418/status/2032082742071193872#m",
+      "url": "https://x.com/op7418/status/2032150608984359295",
+      "images": null,
+      "published": "2026-03-12T17:43:55+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "pod_guigu101_pod_fd17090c_0d72_4c0d_aa3e_9b00bc062149",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/fd17090c-0d72-4c0d-aa3e-9b00bc062149.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 4006,
+      "published": "2026-03-12T17:00:00-07:00",
+      "hasTranscript": false,
+      "transcriptPreview": "在AI算力争霸时代，英伟达凭借GPU市值一路狂飙。但如今，它的蛋糕正在被一点点分食——2024年，苹果论文披露Apple Intelligence全部由TPU训练；2025年，Anthropic签下数十亿美元订单，购买TPU训练Claude；近期，Meta与谷歌签署数十亿美元协议，租用TPU跑Llama。 TPU一直是谷歌低调的“自家武器”，在过去十年里驱动着几乎全部核心产品。直到TPU训练的Ge"
+    },
+    {
+      "id": "x_2032106643807146391",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Wired 2 angel investments over past two weeks: • two former Ramp engineers • 3x repeat founder Reach out if you're building something new!",
+      "url": "https://x.com/benln/status/2032106643807146391",
+      "images": null,
+      "published": "2026-03-12T14:49:13+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_Wj6ttdIeBnE",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Palantir CEO on Iran, AI Weapons and America's Advantage | a16z American Dynamism Summit",
+      "url": "https://www.youtube.com/watch?v=Wj6ttdIeBnE",
+      "thumbnail": "https://img.youtube.com/vi/Wj6ttdIeBnE/maxresdefault.jpg",
+      "published": "2026-03-12T14:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2032088548946637006",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codepilot 更新了 0.33.0 版本 修复了一大堆这几天大家反馈的问题。 比如插件系统的问题，还有关于思考模式和 100 万上下文的设置问题。 以及首次安装 Claude Code 引导的问题，现在改成了原生安装，不会再让你装 Node. js了。",
+      "url": "https://x.com/op7418/status/2032088548946637006",
+      "images": null,
+      "published": "2026-03-12T13:37:19+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2032082742071193872",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Obsidian 剪藏工具，现在居然可以收藏 YouTube 视频的时候，连视频字幕一起收藏下来，这个也太爽了！",
+      "url": "https://x.com/op7418/status/2032082742071193872",
+      "images": null,
+      "published": "2026-03-12T13:14:14+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2032016233172992083",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "在 Meta 被小扎开除之后的杨乐坤（Yann LeCun）创办了一个新的公司 AMI Labs。 拿到了现在应该是最多钱的种子轮，共计 10.3 亿美元。 他看不上大语言模型这一套，所以他的目标是创建一个能够真正理解现实世界、能够长期记忆并进行规划的智能系统。 走的路线的话，应该就是他之前一直说的要做“世界模型”。 产品应该是机器人、工业控制、复杂自动化、可穿戴设备等等，旨在现实世界构建一层可以计算的、物理加常识的基础设施。 他一直认为：真正的智能并非始于语言，而是始于世界，观点主要是： 1. LLM 压缩过语言的并不能代表世界本身 2. 纯 generative 的自监督预测，不适合所有现实数据。 3. 世界模型的目标，是支持 Agent 能做长期规划和安全的进行控制 AMI Labs (@amilabs) Advanced Machine Intelligence (AMI) is building a new breed of AI systems that understand the world, have persistent memory, can reason and plan, and are controllable and safe. We’ve raised a $1.03B (~€890M) round from global investors who believe in our vision of universally intelligent systems centered on world models. This round is co-led by Cathay Innovation, Greycroft, Hiro Capital, HV Capital, and Bezos Expeditions, along with other investors and angels across the world. We are a growing team of researchers and builders, operating in Paris, New York, Montreal and Singapore from day one. Read more: amilabs.xyz/ AMI - Real world. Real intelligence. — https://nitter.net/amilabs/status/2031234832454324639#m",
+      "url": "https://x.com/op7418/status/2032016233172992083",
+      "images": null,
+      "published": "2026-03-12T08:49:57+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2032011204030578940",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "小龙虾套壳的风波终于是卷到了国外 Perplexity 出了一个 Personal Computer，马斯克也说要做类似的东西 在你的电脑里有一个长期稳定的助手，一个可以操作软件和文件的客户端。 跟一个配置好的 Open Claw 能做的事情差不多。 但比较好的是，它的交互非常舒服： 1. 你可以直接语音输入 2. 它收到以后直接语音回复，不打扰 它是常驻在右上角的，这种设计就很舒服。而且安全性、稳定性各方面都表现得比较好。 你还可以通过他们的 Perplexity 移动 APP 远程控制桌面端的 Personal Computer。 需要候补名单，感觉也是刚立个项，可能也就做了个 demo 出来。 Video Perplexity (@perplexity_ai) Announcing Personal Computer. Personal Computer is an always on, local merge with Perplexity Computer that works for you 24/7. It's personal, secure, and works across your files, apps, and sessions through a continuously running Mac mini. Video — https://nitter.net/perplexity_ai/status/2031790180521427166#m",
+      "url": "https://x.com/op7418/status/2032011204030578940",
+      "images": null,
+      "published": "2026-03-12T08:29:58+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2031932253736222899",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "通过雷电 5 控制的这个 Mac mini 的显示效果也太清晰了，比以前通过什么向日葵远程连接清晰太多了。",
+      "url": "https://x.com/op7418/status/2031932253736222899",
+      "images": null,
+      "published": "2026-03-12T03:16:15+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2031928836380897347",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "新的这个 Studio Display 自带一个麦克风阵列，所以就不用单独再搭配麦克风了，方便我语音输入",
+      "url": "https://x.com/op7418/status/2031928836380897347",
+      "images": null,
+      "published": "2026-03-12T03:02:40+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2031928728121754107",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "没忍住买了新的 Studio Display ，为了更方便的 Vibe Coding 可以用一根线和一个显示器控制我的 MacBook 和 Mac mini。 我才知道可以通过雷电 5 去连接屏幕共享，实现高分辨率下 Mac mini 和 MacBook 的相互控制。 而且还能相互粘贴文本和拖放文件，这个太顶了！",
+      "url": "https://x.com/op7418/status/2031928728121754107",
+      "images": null,
+      "published": "2026-03-12T03:02:14+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_H9rF1CSSh-w",
       "source": "Lex Fridman",
@@ -103,23 +292,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2031758448866775333",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Deepseek 终于不像贾跃亭一样永远下周了？ 青龍聖者 (@bdsqlsz) it is coming. — https://nitter.net/bdsqlsz/status/2031719179624362060#m",
-      "url": "https://x.com/op7418/status/2031758448866775333",
-      "images": null,
-      "published": "2026-03-11T15:45:37+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2031732737011335479",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -134,125 +306,6 @@
       "url": "https://x.com/benln/status/2031732737011335479",
       "images": null,
       "published": "2026-03-11T14:03:26+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2031709787361292648",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "给 Codepilot 加上了 CLI 工具的推荐和一键安装 现在大家开始都给 AI 制作 CLI 工具了 你电脑上的其他已经安装的 CLI 工具也可以调用 AI 生成介绍 CLI 工具也是 Agent 基建之一 歸藏(guizang.ai) (@op7418) Codepilot 终于有官网了朋友们！ 藏师傅下午 Vibe Design 了一下，文档网页也上线了 codepilot.sh/ Video — https://nitter.net/op7418/status/2031363798943281191#m",
-      "url": "https://x.com/op7418/status/2031709787361292648",
-      "images": null,
-      "published": "2026-03-11T12:32:15+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2031597953564172501",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "另外给那些做 AI 自动回复的朋友说一下，大家都不是傻子，都能看出来。 如果你认证的话，你被人拉黑的次数过多，你的权重就会非常低，得不偿失。",
-      "url": "https://x.com/op7418/status/2031597953564172501",
-      "images": null,
-      "published": "2026-03-11T05:07:52+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2031597319377084535",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "真服了，现在下面这么多自动回复的 AI。 自动回复一眼就能看出来，好歹调也调得好一点，好好调调你的提示词。 以后再有这种，看见一个拉黑一个。",
-      "url": "https://x.com/op7418/status/2031597319377084535",
-      "images": null,
-      "published": "2026-03-11T05:05:20+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2031596172427845839",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "现在我的助理会每天早上读取邮件，给我一个报告 歸藏(guizang.ai) (@op7418) 谷歌新出的这个 Workspace 的 CLI 工具太好用了呀！ 我用 Codepilot 的助理模式，可以自动把我所有的日程同步到谷歌日历里。 这样的话 AI 知道我的日程，我也能方便地查看自己的日程。 有什么事就直接通过飞书远程连接截个图发给它，然后它就帮我创建日程了。 谷歌日历上面也就同步了，非常完美。 — https://nitter.net/op7418/status/2031589335552884843#m",
-      "url": "https://x.com/op7418/status/2031596172427845839",
-      "images": null,
-      "published": "2026-03-11T05:00:47+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2031594189201563904",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "当然你也可以让他每天早上给你总结邮箱、发邮件啥的",
-      "url": "https://x.com/op7418/status/2031594189201563904",
-      "images": null,
-      "published": "2026-03-11T04:52:54+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2031590755039588844",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "一些可以避免的坑我发这里了：nitter.net/op7418/status/20315906… 歸藏(guizang.ai) (@op7418) 这个流程非常爽： 1. 跟人约了时间，截图发给飞书 2. 飞书发给你电脑的 Claude Code（或者是我的 Code Pilot） 3. Code Pilot 会把日历直接同步到谷歌日历上去 一个截图发过去，什么都不用说就搞定了！ 谷歌的 CLI 有些问题，我让 AI 总结了一下这些可以避免的坑👇： — https://nitter.net/op7418/status/2031590683770028344#m",
-      "url": "https://x.com/op7418/status/2031590755039588844",
-      "images": null,
-      "published": "2026-03-11T04:39:15+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2031590683770028344",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这个流程非常爽： 1. 跟人约了时间，截图发给飞书 2. 飞书发给你电脑的 Claude Code（或者是我的 Code Pilot） 3. Code Pilot 会把日历直接同步到谷歌日历上去 一个截图发过去，什么都不用说就搞定了！ 谷歌的 CLI 有些问题，我让 AI 总结了一下这些可以避免的坑👇： 歸藏(guizang.ai) (@op7418) 谷歌新出的这个 Workspace 的 CLI 工具太好用了呀！ 我用 Codepilot 的助理模式，可以自动把我所有的日程同步到谷歌日历里。 这样的话 AI 知道我的日程，我也能方便地查看自己的日程。 有什么事就直接通过飞书远程连接截个图发给它，然后它就帮我创建日程了。 谷歌日历上面也就同步了，非常完美。 — https://nitter.net/op7418/status/2031589335552884843#m",
-      "url": "https://x.com/op7418/status/2031590683770028344",
-      "images": null,
-      "published": "2026-03-11T04:38:58+00:00",
       "hasTranscript": false
     },
     {
@@ -555,23 +608,6 @@
       "url": "https://x.com/benln/status/2029558844406272354",
       "images": null,
       "published": "2026-03-05T14:05:10+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2029210086187405483",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Milan",
-      "url": "https://x.com/benln/status/2029210086187405483",
-      "images": null,
-      "published": "2026-03-04T14:59:20+00:00",
       "hasTranscript": false
     },
     {
@@ -1054,23 +1090,6 @@
       "transcriptPreview": "AI正在冲出浏览器，走向了接管电脑权限、主动为人打工的新阶段，为了它，你得买台Mac mini？ GitHub星标数几天内突破14万，社交媒体上全网刷屏，甚至直接带火了Mac mini的销量，Clawdbot成了2026“AI Agent爆发元年”第一个现象级产品。它不再是冷冰冰的聊天框，而是一个住在你电脑里、甚至能在AI“朋友圈”（Moltbook）里社交的“数字生命”。 Clawdbot的“活"
     },
     {
-      "id": "yt_jLVgGGz5bvk",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Ben Horowitz and David Solomon: The Sweetest Macro Spot in 40 Years",
-      "url": "https://www.youtube.com/watch?v=jLVgGGz5bvk",
-      "thumbnail": "https://img.youtube.com/vi/jLVgGGz5bvk/maxresdefault.jpg",
-      "published": "2026-02-02T18:00:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_EV7WhVT270Q",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -1193,25 +1212,6 @@
       "published": "2026-01-19T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "今年拉斯维加斯国际消费电子展上，人形机器人再次成为焦点——舞狮、打拳击、后空翻、打乒乓球，各种炫技的Demo，将“科技春晚”氛围拉满。但如果你期待的是泛化能力的突破，那么今年的展或许不会给你太多惊艳。 本期播客是机器人特辑的延续，此前我们探讨过许多关于机器人泛化的前沿探索，今天我们调过头来，追问一个更根本的问题：我们真的需要人形机器人吗？ 本期嘉宾傅盛认为，人形机器人硬件并不遵循“摩尔定律”，靠堆"
-    },
-    {
-      "id": "pod_guigu101_pod_752a8b52_eb8b_42c6_aacc_674b998f5604",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "新年直播3：华尔街视角下的AI泡沫、芯片及黑天鹅",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/752a8b52-eb8b-42c6-aacc-674b998f5604.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 2644,
-      "published": "2026-01-14T20:00:00-08:00",
-      "hasTranscript": false,
-      "transcriptPreview": "本期节目是硅谷101新年直播精华系列的第三期。我们将三小时完整直播拆分成了三期播客，分别围绕2025年备受关注的几个领域：AI、自动驾驶与美股投资。 2025年下半年，美股市场完全被AI热潮主导。英伟达市值突破5万亿美元，定义了芯片算力的价值高度。谷歌则凭借Gemini与TPU生态全年暴涨66%，证明了其全栈AI体系深度整合的价值。 当估值已经处高位，投资却仍在加码，穆迪的最新报告指出，未来五年内"
     },
     {
       "id": "yt_Z-FRe5AKmCU",
