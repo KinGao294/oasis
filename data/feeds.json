@@ -1,7 +1,142 @@
 {
-  "last_updated": "2026-03-13T01:46:58.529158Z",
+  "last_updated": "2026-03-14T01:44:57.657713Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2032629882904334715",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "牛逼，还是得有竞争 现在一百万的上下文的 opus 和 Sonnet 是 max 和 team 账号的默认模型了 Claude (@claudeai) 1 million context window: Now generally available for Claude Opus 4.6 and Claude Sonnet 4.6. — https://nitter.net/claudeai/status/2032509548297343196#m",
+      "url": "https://x.com/op7418/status/2032629882904334715",
+      "images": null,
+      "published": "2026-03-14T01:28:23+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_qh93rLRPw80",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "ChatGPT skills in beta for ChatGPT Business & Enterprise",
+      "url": "https://www.youtube.com/watch?v=qh93rLRPw80",
+      "thumbnail": "https://img.youtube.com/vi/qh93rLRPw80/maxresdefault.jpg",
+      "published": "2026-03-13T20:08:30+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_tL3sXpxpCPs",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Under Secretary of War on Iran, Anthropic and the AI Battle Inside the Pentagon | The a16z Show",
+      "url": "https://www.youtube.com/watch?v=tL3sXpxpCPs",
+      "thumbnail": "https://img.youtube.com/vi/tL3sXpxpCPs/maxresdefault.jpg",
+      "published": "2026-03-13T16:42:31+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2032463313561342276",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor’s Ambassador program turns one soon Comped Ultra plan, private Slack group with team, funding for events, and merch. Still working through our backlog of applications, but inviting new members every few weeks. Apply to join!",
+      "url": "https://x.com/benln/status/2032463313561342276",
+      "images": null,
+      "published": "2026-03-13T14:26:29+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2032296560877539831",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "同时也优化了 Codepilot 这部分文档的写作方式 它更像是一个教程，尤其是增加了一些基础概念的解释。 如果你是一个小白的话，也可以根据这些文档去理解和使用这些功能。 歸藏(guizang.ai) (@op7418) CodePilot 0.34.2 版本已经支持了所有的 Git 能力 你可以可视化的管理当前项目的 Git 进行提交、推送、分析差异以及创建和派生工作树 — https://nitter.net/op7418/status/2032294963703349623#m",
+      "url": "https://x.com/op7418/status/2032296560877539831",
+      "images": null,
+      "published": "2026-03-13T03:23:53+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2032294963703349623",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "CodePilot 0.34.2 版本已经支持了所有的 Git 能力 你可以可视化的管理当前项目的 Git 进行提交、推送、分析差异以及创建和派生工作树",
+      "url": "https://x.com/op7418/status/2032294963703349623",
+      "images": null,
+      "published": "2026-03-13T03:17:32+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2032293565758652727",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "用的 Obsidian 作者的 Defuddle 项目 nitter.net/kepano/status/20321231… kepano (@kepano) Defuddle now returns Youtube transcripts! Paste a YouTube link into defuddle.md to get a markdown transcript with timestamps, chapters, and pretty good diarization! ...or if you just want to read it, try the new Reader mode in Obsidian Web Clipper powered by Defuddle. Video — https://nitter.net/kepano/status/2032123160536236461#m",
+      "url": "https://x.com/op7418/status/2032293565758652727",
+      "images": null,
+      "published": "2026-03-13T03:11:58+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_jjXuP89i5T0",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Startup School is coming to India! 🇮🇳",
+      "url": "https://www.youtube.com/watch?v=jjXuP89i5T0",
+      "thumbnail": "https://img.youtube.com/vi/jjXuP89i5T0/maxresdefault.jpg",
+      "published": "2026-03-13T03:05:10+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "x_2032150608984359295",
       "source": "归藏",
@@ -17,6 +152,23 @@
       "url": "https://x.com/op7418/status/2032150608984359295",
       "images": null,
       "published": "2026-03-12T17:43:55+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2032148125448610145",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "We're sharing a new method for scoring models on agentic coding tasks. Here's how models in Cursor compare on intelligence and efficiency:",
+      "url": "https://x.com/benln/status/2032148125448610145",
+      "images": null,
+      "published": "2026-03-12T17:34:03+00:00",
       "hasTranscript": false
     },
     {
@@ -158,40 +310,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2031928836380897347",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "新的这个 Studio Display 自带一个麦克风阵列，所以就不用单独再搭配麦克风了，方便我语音输入",
-      "url": "https://x.com/op7418/status/2031928836380897347",
-      "images": null,
-      "published": "2026-03-12T03:02:40+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2031928728121754107",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "没忍住买了新的 Studio Display ，为了更方便的 Vibe Coding 可以用一根线和一个显示器控制我的 MacBook 和 Mac mini。 我才知道可以通过雷电 5 去连接屏幕共享，实现高分辨率下 Mac mini 和 MacBook 的相互控制。 而且还能相互粘贴文本和拖放文件，这个太顶了！",
-      "url": "https://x.com/op7418/status/2031928728121754107",
-      "images": null,
-      "published": "2026-03-12T03:02:14+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_H9rF1CSSh-w",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -241,23 +359,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2031790274033434927",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Claude Code 又出问题了，我目前正常使用 Thariq (@trq212) We're experiencing issues with Claude Code and Claude.ai where some users may not be able to log in & others may experience slower than usual performance. We're on it and working hard to bring service back to normal, thanks for bearing with us. — https://nitter.net/trq212/status/2031772228099203487#m",
-      "url": "https://x.com/op7418/status/2031790274033434927",
-      "images": null,
-      "published": "2026-03-11T17:52:04+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2031779663119294777",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -272,23 +373,6 @@
       "url": "https://x.com/benln/status/2031779663119294777",
       "images": null,
       "published": "2026-03-11T17:09:54+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2031766688279224511",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "有人需要 CodePilot 移动端 App 吗？ 这个手机端能控制你多个桌面端设备的 Code Pilot，或者是 Claude Code 和 Codex。 你能够在多个桌面端进行多个聊天窗口并发 桌面端的桥接会更加稳定，然后也可以拉起桌面端。APP 不可能实现全功能，因为这不现实，主要是把你的主机之类的当作网盘和一个服务器在用。 然后你可以： 1. 切换模型 2. 切换你的工作目录 3. 远程查看它的进度",
-      "url": "https://x.com/op7418/status/2031766688279224511",
-      "images": null,
-      "published": "2026-03-11T16:18:21+00:00",
       "hasTranscript": false
     },
     {
@@ -560,23 +644,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2029604733497885026",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Big launch from the Cursor team today: Cursor (@cursor_ai) We're introducing Cursor Automations to build always-on agents. Video — https://nitter.net/cursor_ai/status/2029604182286856663#m",
-      "url": "https://x.com/benln/status/2029604733497885026",
-      "images": null,
-      "published": "2026-03-05T17:07:31+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_xTwSk1tEsFE",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -592,23 +659,6 @@
       "published": "2026-03-05T15:15:02+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2029558844406272354",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Tokyo",
-      "url": "https://x.com/benln/status/2029558844406272354",
-      "images": null,
-      "published": "2026-03-05T14:05:10+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_0pmnDimaXnQ",
@@ -799,22 +849,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_Rp4Q2lZ_RIQ",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Peter Steinberger on the team that built OpenClaw",
-      "url": "https://www.youtube.com/watch?v=Rp4Q2lZ_RIQ",
-      "thumbnail": "https://img.youtube.com/vi/Rp4Q2lZ_RIQ/maxresdefault.jpg",
-      "published": "2026-02-24T17:59:24+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_Q8wVMdwhlh4",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -935,23 +969,6 @@
       "transcriptPreview": "本节目由百融云创赞助播出 2026年2月的第一周，全球软件行业经历了一场如“葬礼”般的信仰地震。随着Anthropic基于Claude Cowork平台，发布了11款覆盖法律、金融、销售等核心业务的职能插件，全球软件板块市值，在短短一周内蒸发了数千亿美元。华尔街的交易员们直言：SaaS的末日到了。 这不仅是股价的波动，更是生存模式的更迭。当“按人头卖坐席”的万亿帝国，在AI Agent面前显得摇摇"
     },
     {
-      "id": "yt_JhJPeF8DGL0",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Why OpenClaw Broke The Internet",
-      "url": "https://www.youtube.com/watch?v=JhJPeF8DGL0",
-      "thumbnail": "https://img.youtube.com/vi/JhJPeF8DGL0/maxresdefault.jpg",
-      "published": "2026-02-12T18:04:41+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_YFjfBk8HI5o",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -1050,23 +1067,6 @@
       "url": "https://www.youtube.com/watch?v=opFl1RXZUSE",
       "thumbnail": "https://img.youtube.com/vi/opFl1RXZUSE/maxresdefault.jpg",
       "published": "2026-02-04T20:00:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_70ec37XHGIg",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How Truemed Is Incentivizing Americans to Invest in Prevention",
-      "url": "https://www.youtube.com/watch?v=70ec37XHGIg",
-      "thumbnail": "https://img.youtube.com/vi/70ec37XHGIg/maxresdefault.jpg",
-      "published": "2026-02-04T16:11:37+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
