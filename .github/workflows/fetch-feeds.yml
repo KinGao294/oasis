@@ -56,17 +56,22 @@ jobs:
           python transcript.py
         continue-on-error: true  # 字幕抓取失败不阻塞整个流程
 
+      - name: Sync data for web build
+        run: |
+          mkdir -p web/data
+          rsync -a data/ web/data/
+
       - name: Check for changes
         id: changes
         run: |
-          git diff --quiet data/ || echo "changed=true" >> $GITHUB_OUTPUT
+          git diff --quiet data/ web/data/ || echo "changed=true" >> $GITHUB_OUTPUT
 
       - name: Commit and push changes
         if: steps.changes.outputs.changed == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/
+          git add data/ web/data/
           git commit -m "🔄 Auto update feeds - $(date -u '+%Y-%m-%d %H:%M') UTC"
           git push
 
