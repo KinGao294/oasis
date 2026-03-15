@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-03-14T01:44:57.657713Z",
-  "count": 101,
+  "last_updated": "2026-03-15T02:00:25.053959Z",
+  "count": 71,
   "items": [
+    {
+      "id": "x_2032745670382334455",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codepilot 的飞书桥接服务更新了！ 现在几乎可以拉齐飞书官方插件在聊天里的所有体验 流式输出、卡片式结果、带按钮的权限通知卡片 而且我还优化了切换工作目录和新开聊天的体验 现在可以在飞书里面切换工作目录和新建聊天了 更新 0.36 版本并在飞书后台补充对应权限就可以用了",
+      "url": "https://x.com/op7418/status/2032745670382334455",
+      "images": null,
+      "published": "2026-03-14T09:08:29+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2032629882904334715",
       "source": "归藏",
@@ -32,23 +49,6 @@
       "url": "https://www.youtube.com/watch?v=qh93rLRPw80",
       "thumbnail": "https://img.youtube.com/vi/qh93rLRPw80/maxresdefault.jpg",
       "published": "2026-03-13T20:08:30+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_tL3sXpxpCPs",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Under Secretary of War on Iran, Anthropic and the AI Battle Inside the Pentagon | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=tL3sXpxpCPs",
-      "thumbnail": "https://img.youtube.com/vi/tL3sXpxpCPs/maxresdefault.jpg",
-      "published": "2026-03-13T16:42:31+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -208,23 +208,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_Wj6ttdIeBnE",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Palantir CEO on Iran, AI Weapons and America's Advantage | a16z American Dynamism Summit",
-      "url": "https://www.youtube.com/watch?v=Wj6ttdIeBnE",
-      "thumbnail": "https://img.youtube.com/vi/Wj6ttdIeBnE/maxresdefault.jpg",
-      "published": "2026-03-12T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2032088548946637006",
       "source": "归藏",
       "sourceId": "guizang",
@@ -291,40 +274,6 @@
       "images": null,
       "published": "2026-03-12T08:29:58+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "x_2031932253736222899",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "通过雷电 5 控制的这个 Mac mini 的显示效果也太清晰了，比以前通过什么向日葵远程连接清晰太多了。",
-      "url": "https://x.com/op7418/status/2031932253736222899",
-      "images": null,
-      "published": "2026-03-12T03:16:15+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_H9rF1CSSh-w",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
-      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
-      "thumbnail": "https://img.youtube.com/vi/H9rF1CSSh-w/maxresdefault.jpg",
-      "published": "2026-03-11T20:21:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_gZQQR_tDGuM",
@@ -426,23 +375,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_U-TSafAIzXw",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Inside a16z’s Top 100 AI Apps Report with Olivia Moore",
-      "url": "https://www.youtube.com/watch?v=U-TSafAIzXw",
-      "thumbnail": "https://img.youtube.com/vi/U-TSafAIzXw/maxresdefault.jpg",
-      "published": "2026-03-10T14:30:07+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2031077814070337546",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -458,23 +390,6 @@
       "images": null,
       "published": "2026-03-09T18:41:01+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt_qTpCGe4A8PM",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Andrew Huberman: Peptides, Sleep Tech, and the End of Obesity",
-      "url": "https://www.youtube.com/watch?v=qTpCGe4A8PM",
-      "thumbnail": "https://img.youtube.com/vi/qTpCGe4A8PM/maxresdefault.jpg",
-      "published": "2026-03-09T15:08:30+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "x_2031021585008566582",
@@ -511,23 +426,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_GcdS_SqJ37Y",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Atlassian CEO on the SaaS Apocalypse, AI Agents & What Comes Next",
-      "url": "https://www.youtube.com/watch?v=GcdS_SqJ37Y",
-      "thumbnail": "https://img.youtube.com/vi/GcdS_SqJ37Y/maxresdefault.jpg",
-      "published": "2026-03-08T22:50:18+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2030653724478124495",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -543,23 +441,6 @@
       "images": null,
       "published": "2026-03-08T14:35:50+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt_0lzo2tFBFy8",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Atlassian CEO on the SaaS Apocalypse, AI Agents & What Comes Next",
-      "url": "https://www.youtube.com/watch?v=0lzo2tFBFy8",
-      "thumbnail": "https://img.youtube.com/vi/0lzo2tFBFy8/maxresdefault.jpg",
-      "published": "2026-03-06T15:50:06+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_DNSXlBmukck",
@@ -712,40 +593,6 @@
       "transcriptPreview": "每周，有超过2.3亿人在ChatGPT上询问健康和保健问题。在人类创造的所有数据中，有30%来自医疗领域，但其中真正被利用起来的，不足5%。 一边是巨大的数据金矿，一边是与未被满足的庞大需求，这正是AI的机会。 在年初的摩根大通医疗健康大会上，我们看到医疗与AI正在加速“双向奔赴”。礼来制药与英伟达达成10亿美元合作，试图用算力重塑药物发现的底层范式；在OpenAI发布ChatGPT for He"
     },
     {
-      "id": "yt_SHlrUAkkWI0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
-      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
-      "thumbnail": "https://img.youtube.com/vi/SHlrUAkkWI0/maxresdefault.jpg",
-      "published": "2026-03-03T12:30:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_1SJiTwbSI58",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492",
-      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
-      "thumbnail": "https://img.youtube.com/vi/1SJiTwbSI58/maxresdefault.jpg",
-      "published": "2026-03-01T03:37:44+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_UPGB-hsAoVY",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -776,23 +623,6 @@
       "url": "https://www.youtube.com/watch?v=Erxh0dx4nts",
       "thumbnail": "https://img.youtube.com/vi/Erxh0dx4nts/maxresdefault.jpg",
       "published": "2026-02-27T11:41:37+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_KGVpKPNUdzA",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
-      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
-      "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
-      "published": "2026-02-25T22:36:32+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -917,22 +747,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_EOIlGekiMsQ",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "史上最大規模的封閉實驗，第二個“大自然” | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=EOIlGekiMsQ",
-      "thumbnail": "https://img.youtube.com/vi/EOIlGekiMsQ/maxresdefault.jpg",
-      "published": "2026-02-17T13:30:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_rWUWfj_PqmM",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -969,23 +783,6 @@
       "transcriptPreview": "本节目由百融云创赞助播出 2026年2月的第一周，全球软件行业经历了一场如“葬礼”般的信仰地震。随着Anthropic基于Claude Cowork平台，发布了11款覆盖法律、金融、销售等核心业务的职能插件，全球软件板块市值，在短短一周内蒸发了数千亿美元。华尔街的交易员们直言：SaaS的末日到了。 这不仅是股价的波动，更是生存模式的更迭。当“按人头卖坐席”的万亿帝国，在AI Agent面前显得摇摇"
     },
     {
-      "id": "yt_YFjfBk8HI5o",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
-      "thumbnail": "https://img.youtube.com/vi/YFjfBk8HI5o/maxresdefault.jpg",
-      "published": "2026-02-12T03:07:03+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_r0uij_l32to",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -999,74 +796,6 @@
       "url": "https://www.youtube.com/watch?v=r0uij_l32to",
       "thumbnail": "https://img.youtube.com/vi/r0uij_l32to/maxresdefault.jpg",
       "published": "2026-02-11T14:43:36+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_uDuQKsdYfZw",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Inside The Life of Silicon Valley's First Athlete Investor | Magic Johnson",
-      "url": "https://www.youtube.com/watch?v=uDuQKsdYfZw",
-      "thumbnail": "https://img.youtube.com/vi/uDuQKsdYfZw/maxresdefault.jpg",
-      "published": "2026-02-11T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_rSohMpT24SI",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI Markets: Deep Dive with a16z's David George",
-      "url": "https://www.youtube.com/watch?v=rSohMpT24SI",
-      "thumbnail": "https://img.youtube.com/vi/rSohMpT24SI/maxresdefault.jpg",
-      "published": "2026-02-09T15:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_afkFLnyrLww",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "From $0 to $11B: The ElevenLabs Story",
-      "url": "https://www.youtube.com/watch?v=afkFLnyrLww",
-      "thumbnail": "https://img.youtube.com/vi/afkFLnyrLww/maxresdefault.jpg",
-      "published": "2026-02-06T16:00:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_opFl1RXZUSE",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Ben Horowitz on Winning vs Picking",
-      "url": "https://www.youtube.com/watch?v=opFl1RXZUSE",
-      "thumbnail": "https://img.youtube.com/vi/opFl1RXZUSE/maxresdefault.jpg",
-      "published": "2026-02-04T20:00:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1088,39 +817,6 @@
       "published": "2026-02-03T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "AI正在冲出浏览器，走向了接管电脑权限、主动为人打工的新阶段，为了它，你得买台Mac mini？ GitHub星标数几天内突破14万，社交媒体上全网刷屏，甚至直接带火了Mac mini的销量，Clawdbot成了2026“AI Agent爆发元年”第一个现象级产品。它不再是冷冰冰的聊天框，而是一个住在你电脑里、甚至能在AI“朋友圈”（Moltbook）里社交的“数字生命”。 Clawdbot的“活"
-    },
-    {
-      "id": "yt_EV7WhVT270Q",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
-      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
-      "thumbnail": "https://img.youtube.com/vi/EV7WhVT270Q/maxresdefault.jpg",
-      "published": "2026-01-31T22:33:33+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt__6VOEvdU6hM",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "2026，好久不見 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=_6VOEvdU6hM",
-      "thumbnail": "https://img.youtube.com/vi/_6VOEvdU6hM/maxresdefault.jpg",
-      "published": "2026-01-30T14:37:30+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_cbeec8b3_b0f6_4a2d_95f5_832452362423",
@@ -1214,56 +910,6 @@
       "transcriptPreview": "今年拉斯维加斯国际消费电子展上，人形机器人再次成为焦点——舞狮、打拳击、后空翻、打乒乓球，各种炫技的Demo，将“科技春晚”氛围拉满。但如果你期待的是泛化能力的突破，那么今年的展或许不会给你太多惊艳。 本期播客是机器人特辑的延续，此前我们探讨过许多关于机器人泛化的前沿探索，今天我们调过头来，追问一个更根本的问题：我们真的需要人形机器人吗？ 本期嘉宾傅盛认为，人形机器人硬件并不遵循“摩尔定律”，靠堆"
     },
     {
-      "id": "yt_Z-FRe5AKmCU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489",
-      "url": "https://www.youtube.com/watch?v=Z-FRe5AKmCU",
-      "thumbnail": "https://img.youtube.com/vi/Z-FRe5AKmCU/maxresdefault.jpg",
-      "published": "2026-01-13T20:06:59+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_14OPT6CcsH4",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | Lex Fridman Podcast #488",
-      "url": "https://www.youtube.com/watch?v=14OPT6CcsH4",
-      "thumbnail": "https://img.youtube.com/vi/14OPT6CcsH4/maxresdefault.jpg",
-      "published": "2025-12-31T21:26:17+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_B51v9kJQuKo",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "【庫存影片】仁頃事件，一個被NHK封殺的接觸事件。（本影片拍攝於1年前，因為特殊原因封存至今） | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=B51v9kJQuKo",
-      "thumbnail": "https://img.youtube.com/vi/B51v9kJQuKo/maxresdefault.jpg",
-      "published": "2025-12-24T13:07:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_Q7INj06TUv4",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -1281,23 +927,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt__bBRVNkAfkQ",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Deciphering Secrets of Ancient Civilizations, Noah's Ark, and Flood Myths | Lex Fridman Podcast #487",
-      "url": "https://www.youtube.com/watch?v=_bBRVNkAfkQ",
-      "thumbnail": "https://img.youtube.com/vi/_bBRVNkAfkQ/maxresdefault.jpg",
-      "published": "2025-12-12T20:01:08+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_18L5HOYTQAw",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -1311,39 +940,6 @@
       "url": "https://www.youtube.com/watch?v=18L5HOYTQAw",
       "thumbnail": "https://img.youtube.com/vi/18L5HOYTQAw/maxresdefault.jpg",
       "published": "2025-12-03T16:15:40+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Qp0rCU49lMs",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Michael Levin: Hidden Reality of Alien Intelligence & Biological Life | Lex Fridman Podcast #486",
-      "url": "https://www.youtube.com/watch?v=Qp0rCU49lMs",
-      "thumbnail": "https://img.youtube.com/vi/Qp0rCU49lMs/maxresdefault.jpg",
-      "published": "2025-11-30T19:30:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_ESObIvXrKZI",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "【庫存影片】百慕大三角（拍攝於2022年2月，由於特殊原因封存至今） | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=ESObIvXrKZI",
-      "thumbnail": "https://img.youtube.com/vi/ESObIvXrKZI/maxresdefault.jpg",
-      "published": "2025-11-12T13:23:39+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1395,102 +991,6 @@
       "url": "https://www.youtube.com/watch?v=wANPRZejSfg",
       "thumbnail": "https://img.youtube.com/vi/wANPRZejSfg/maxresdefault.jpg",
       "published": "2025-10-16T15:00:06+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Iocm-1dXr-Q",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "目前為止最可信的地外生命存在的證據 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=Iocm-1dXr-Q",
-      "thumbnail": "https://img.youtube.com/vi/Iocm-1dXr-Q/maxresdefault.jpg",
-      "published": "2025-10-01T14:38:48+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_VdF4cd0SitU",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "臭氧空洞，人類距離滅絕最近的一次 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=VdF4cd0SitU",
-      "thumbnail": "https://img.youtube.com/vi/VdF4cd0SitU/maxresdefault.jpg",
-      "published": "2025-09-17T14:33:34+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_hACEeJKE6TE",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "可怕的鉛 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=hACEeJKE6TE",
-      "thumbnail": "https://img.youtube.com/vi/hACEeJKE6TE/maxresdefault.jpg",
-      "published": "2025-09-03T14:44:31+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_AvyJJ_Ew9no",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "【台灣猛鬼】紅衣小女孩 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=AvyJJ_Ew9no",
-      "thumbnail": "https://img.youtube.com/vi/AvyJJ_Ew9no/maxresdefault.jpg",
-      "published": "2025-08-20T14:37:25+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_XRvUWP6VaJY",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "一個星系文明可能來過太陽系，但它們直接摧毀了火星的母星，推演太陽系的形成過程發現我們可能住在一場超級核戰爭的残骸之中 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=XRvUWP6VaJY",
-      "thumbnail": "https://img.youtube.com/vi/XRvUWP6VaJY/maxresdefault.jpg",
-      "published": "2025-08-06T14:26:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_gHjIZwBhTgI",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "「時間之鏡」絕密實驗：在北極禁區，科學家依據「時間是能量」的驚人理論，試圖用螺旋巨鏡扭曲時空、傳送意識，竟意外接收到來自未來的訊息，更引來UFO與神秘極光。。 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=gHjIZwBhTgI",
-      "thumbnail": "https://img.youtube.com/vi/gHjIZwBhTgI/maxresdefault.jpg",
-      "published": "2025-07-23T14:39:29+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
