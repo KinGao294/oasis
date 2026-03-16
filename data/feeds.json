@@ -1,7 +1,126 @@
 {
-  "last_updated": "2026-03-15T02:00:25.053959Z",
-  "count": 71,
+  "last_updated": "2026-03-16T02:01:56.004278Z",
+  "count": 91,
   "items": [
+    {
+      "id": "x_2033203159880089904",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "更新需要更 Skills 和上游依赖，跟 AI 说就行 如果你之前已经在使用飞书桥接，升级到 v0.36.0 后需要在飞书开放平台补充以下配置，否则流式卡片和权限按钮将无法正常工作。 1. 添加卡片回调（必须） 进入应用 → 事件与回调： - 确认连接模式为 长连接模式（WebSocket） - 添加回调：card.action.trigger（卡片回传交互回调） 不添加则权限审批按钮和项目选择器点击无反应。 2. 新增权限（必须） 进入应用 → 权限管理，批量添加以下 6 个 scope（可直接复制粘贴到「批量开通」）： cardkit:card:write cardkit:card:read im:message:update im:message.reactions:read im:message.reactions:write_only im:resource 分别用于：流式卡片创建与更新、卡片状态读取、卡片内容实时刷新、表情回复读取、Typing 指示器、下载消息中的图片等资源。 3. 重新发布应用（必须） 权限变更后必须重新发布应用（提交审核或自审通过），否则新权限不会生效。",
+      "url": "https://x.com/op7418/status/2033203159880089904",
+      "images": null,
+      "published": "2026-03-15T15:26:23+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2033202960843563484",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "朋友们，Claude-to-im Skills 也更新了！ 现在可以让你的 Claude 和 Codex 链接飞书有飞书官方 Openclaw 插件的全部能力 而且引导更加详细，会告诉你需要补的权限 支持：流式卡片输出、工具调用进度 、权限审批按钮、项目快捷切换、Thinking 状态等 歸藏(guizang.ai) (@op7418) x.com/i/article/202956285551… — https://nitter.net/op7418/status/2029563318973952221#m",
+      "url": "https://x.com/op7418/status/2033202960843563484",
+      "images": null,
+      "published": "2026-03-15T15:25:35+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2033161018688631267",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "对比了一下我的和他的实践，不过他不是给真的产品做，不考虑这些也无可厚非 贰万 (@ross_TNTT) Https://michaellivs.com/blog… 这个？ — https://nitter.net/ross_TNTT/status/2033148503485198764#m",
+      "url": "https://x.com/op7418/status/2033161018688631267",
+      "images": null,
+      "published": "2026-03-15T12:38:55+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2033122941110788479",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "真受不了微信公众号的傻逼氛围了 每次发文章固定 NPC，这玩意有什么用？我为什么不用官方 APP 艹了，也没拦着他用啊 歸藏(guizang.ai) (@op7418) x.com/i/article/203311162541… — https://nitter.net/op7418/status/2033113845120807170#m",
+      "url": "https://x.com/op7418/status/2033122941110788479",
+      "images": null,
+      "published": "2026-03-15T10:07:37+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2033114800897880256",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "藏师傅太牛了！ 一天时间复刻了 Claude 刚出的生成式 UI 功能！ AI 直接在聊天里画交互式图表，帮你解释和分析相关信息。 流式输出，边生成边渲染。 感兴趣可以在 Codepilot 里面体验，文章里有实现的方案细节。 Video 歸藏(guizang.ai) (@op7418) x.com/i/article/203311162541… — https://nitter.net/op7418/status/2033113845120807170#m",
+      "url": "https://x.com/op7418/status/2033114800897880256",
+      "images": null,
+      "published": "2026-03-15T09:35:16+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2033113845120807170",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "x.com/i/article/203311162541…",
+      "url": "https://x.com/op7418/status/2033113845120807170",
+      "images": null,
+      "published": "2026-03-15T09:31:28+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2033083402136813614",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "牛逼，还是得有竞争。Claude 被 Codex 卷到了！ 接下来两周工作日非高峰时段的所有用户的用量翻倍，然后周末所有用户的用量全天翻倍 高峰时段换算成北京时间的话，就是 20:00–次日 02:00 这段时间，其实跟我们没啥关系。 国内用户在白天的所有时段，用量其实都是翻倍的。 Claude (@claudeai) A small thank you to everyone using Claude: We’re doubling usage outside our peak hours for the next two weeks. Video — https://nitter.net/claudeai/status/2032911276226257206#m",
+      "url": "https://x.com/op7418/status/2033083402136813614",
+      "images": null,
+      "published": "2026-03-15T07:30:30+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2032745670382334455",
       "source": "归藏",
@@ -53,21 +172,21 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2032463313561342276",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
+      "id": "yt_tL3sXpxpCPs",
+      "source": "a16z",
+      "sourceId": "a16z",
       "sourceAvatar": null,
-      "platform": "x",
+      "platform": "youtube",
       "domains": [
-        "AI",
-        "Dev"
+        "Business",
+        "AI"
       ],
-      "title": null,
-      "content": "Cursor’s Ambassador program turns one soon Comped Ultra plan, private Slack group with team, funding for events, and merch. Still working through our backlog of applications, but inviting new members every few weeks. Apply to join!",
-      "url": "https://x.com/benln/status/2032463313561342276",
-      "images": null,
-      "published": "2026-03-13T14:26:29+00:00",
-      "hasTranscript": false
+      "title": "Emil Michael: The Department of War Is Moving Faster Than Silicon Valley on AI | The a16z Show",
+      "url": "https://www.youtube.com/watch?v=tL3sXpxpCPs",
+      "thumbnail": "https://img.youtube.com/vi/tL3sXpxpCPs/maxresdefault.jpg",
+      "published": "2026-03-13T16:42:31+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "x_2032296560877539831",
@@ -87,40 +206,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2032294963703349623",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "CodePilot 0.34.2 版本已经支持了所有的 Git 能力 你可以可视化的管理当前项目的 Git 进行提交、推送、分析差异以及创建和派生工作树",
-      "url": "https://x.com/op7418/status/2032294963703349623",
-      "images": null,
-      "published": "2026-03-13T03:17:32+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2032293565758652727",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "用的 Obsidian 作者的 Defuddle 项目 nitter.net/kepano/status/20321231… kepano (@kepano) Defuddle now returns Youtube transcripts! Paste a YouTube link into defuddle.md to get a markdown transcript with timestamps, chapters, and pretty good diarization! ...or if you just want to read it, try the new Reader mode in Obsidian Web Clipper powered by Defuddle. Video — https://nitter.net/kepano/status/2032123160536236461#m",
-      "url": "https://x.com/op7418/status/2032293565758652727",
-      "images": null,
-      "published": "2026-03-13T03:11:58+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_jjXuP89i5T0",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -136,40 +221,6 @@
       "published": "2026-03-13T03:05:10+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2032150608984359295",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Obsidian 剪藏插件更新了不少东西，同时还改了 AI 标注的语法 顺便更新了一下我的剪藏模版，现在多了一个分类，摘要除了内容总结还有核心价值洞察 歸藏(guizang.ai) (@op7418) Obsidian 剪藏工具，现在居然可以收藏 YouTube 视频的时候，连视频字幕一起收藏下来，这个也太爽了！ — https://nitter.net/op7418/status/2032082742071193872#m",
-      "url": "https://x.com/op7418/status/2032150608984359295",
-      "images": null,
-      "published": "2026-03-12T17:43:55+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2032148125448610145",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "We're sharing a new method for scoring models on agentic coding tasks. Here's how models in Cursor compare on intelligence and efficiency:",
-      "url": "https://x.com/benln/status/2032148125448610145",
-      "images": null,
-      "published": "2026-03-12T17:34:03+00:00",
-      "hasTranscript": false
     },
     {
       "id": "pod_guigu101_pod_fd17090c_0d72_4c0d_aa3e_9b00bc062149",
@@ -191,89 +242,38 @@
       "transcriptPreview": "在AI算力争霸时代，英伟达凭借GPU市值一路狂飙。但如今，它的蛋糕正在被一点点分食——2024年，苹果论文披露Apple Intelligence全部由TPU训练；2025年，Anthropic签下数十亿美元订单，购买TPU训练Claude；近期，Meta与谷歌签署数十亿美元协议，租用TPU跑Llama。 TPU一直是谷歌低调的“自家武器”，在过去十年里驱动着几乎全部核心产品。直到TPU训练的Ge"
     },
     {
-      "id": "x_2032106643807146391",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
+      "id": "yt_Wj6ttdIeBnE",
+      "source": "a16z",
+      "sourceId": "a16z",
       "sourceAvatar": null,
-      "platform": "x",
+      "platform": "youtube",
       "domains": [
-        "AI",
-        "Dev"
+        "Business",
+        "AI"
       ],
-      "title": null,
-      "content": "Wired 2 angel investments over past two weeks: • two former Ramp engineers • 3x repeat founder Reach out if you're building something new!",
-      "url": "https://x.com/benln/status/2032106643807146391",
-      "images": null,
-      "published": "2026-03-12T14:49:13+00:00",
-      "hasTranscript": false
+      "title": "Palantir CEO on Iran, AI Weapons and America's Advantage | a16z American Dynamism Summit",
+      "url": "https://www.youtube.com/watch?v=Wj6ttdIeBnE",
+      "thumbnail": "https://img.youtube.com/vi/Wj6ttdIeBnE/maxresdefault.jpg",
+      "published": "2026-03-12T14:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
-      "id": "x_2032088548946637006",
-      "source": "归藏",
-      "sourceId": "guizang",
+      "id": "yt_H9rF1CSSh-w",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
       "sourceAvatar": null,
-      "platform": "x",
+      "platform": "youtube",
       "domains": [
         "AI",
-        "Design"
+        "Business"
       ],
-      "title": null,
-      "content": "Codepilot 更新了 0.33.0 版本 修复了一大堆这几天大家反馈的问题。 比如插件系统的问题，还有关于思考模式和 100 万上下文的设置问题。 以及首次安装 Claude Code 引导的问题，现在改成了原生安装，不会再让你装 Node. js了。",
-      "url": "https://x.com/op7418/status/2032088548946637006",
-      "images": null,
-      "published": "2026-03-12T13:37:19+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2032082742071193872",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Obsidian 剪藏工具，现在居然可以收藏 YouTube 视频的时候，连视频字幕一起收藏下来，这个也太爽了！",
-      "url": "https://x.com/op7418/status/2032082742071193872",
-      "images": null,
-      "published": "2026-03-12T13:14:14+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2032016233172992083",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "在 Meta 被小扎开除之后的杨乐坤（Yann LeCun）创办了一个新的公司 AMI Labs。 拿到了现在应该是最多钱的种子轮，共计 10.3 亿美元。 他看不上大语言模型这一套，所以他的目标是创建一个能够真正理解现实世界、能够长期记忆并进行规划的智能系统。 走的路线的话，应该就是他之前一直说的要做“世界模型”。 产品应该是机器人、工业控制、复杂自动化、可穿戴设备等等，旨在现实世界构建一层可以计算的、物理加常识的基础设施。 他一直认为：真正的智能并非始于语言，而是始于世界，观点主要是： 1. LLM 压缩过语言的并不能代表世界本身 2. 纯 generative 的自监督预测，不适合所有现实数据。 3. 世界模型的目标，是支持 Agent 能做长期规划和安全的进行控制 AMI Labs (@amilabs) Advanced Machine Intelligence (AMI) is building a new breed of AI systems that understand the world, have persistent memory, can reason and plan, and are controllable and safe. We’ve raised a $1.03B (~€890M) round from global investors who believe in our vision of universally intelligent systems centered on world models. This round is co-led by Cathay Innovation, Greycroft, Hiro Capital, HV Capital, and Bezos Expeditions, along with other investors and angels across the world. We are a growing team of researchers and builders, operating in Paris, New York, Montreal and Singapore from day one. Read more: amilabs.xyz/ AMI - Real world. Real intelligence. — https://nitter.net/amilabs/status/2031234832454324639#m",
-      "url": "https://x.com/op7418/status/2032016233172992083",
-      "images": null,
-      "published": "2026-03-12T08:49:57+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2032011204030578940",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "小龙虾套壳的风波终于是卷到了国外 Perplexity 出了一个 Personal Computer，马斯克也说要做类似的东西 在你的电脑里有一个长期稳定的助手，一个可以操作软件和文件的客户端。 跟一个配置好的 Open Claw 能做的事情差不多。 但比较好的是，它的交互非常舒服： 1. 你可以直接语音输入 2. 它收到以后直接语音回复，不打扰 它是常驻在右上角的，这种设计就很舒服。而且安全性、稳定性各方面都表现得比较好。 你还可以通过他们的 Perplexity 移动 APP 远程控制桌面端的 Personal Computer。 需要候补名单，感觉也是刚立个项，可能也就做了个 demo 出来。 Video Perplexity (@perplexity_ai) Announcing Personal Computer. Personal Computer is an always on, local merge with Perplexity Computer that works for you 24/7. It's personal, secure, and works across your files, apps, and sessions through a continuously running Mac mini. Video — https://nitter.net/perplexity_ai/status/2031790180521427166#m",
-      "url": "https://x.com/op7418/status/2032011204030578940",
-      "images": null,
-      "published": "2026-03-12T08:29:58+00:00",
-      "hasTranscript": false
+      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
+      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
+      "thumbnail": "https://img.youtube.com/vi/H9rF1CSSh-w/maxresdefault.jpg",
+      "published": "2026-03-11T20:21:39+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_gZQQR_tDGuM",
@@ -308,40 +308,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2031779663119294777",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Students who've attended YC events get $25K in free credits/tools Now includes a year of Cursor Pro+",
-      "url": "https://x.com/benln/status/2031779663119294777",
-      "images": null,
-      "published": "2026-03-11T17:09:54+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2031732737011335479",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Barcelona",
-      "url": "https://x.com/benln/status/2031732737011335479",
-      "images": null,
-      "published": "2026-03-11T14:03:26+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_rhsSqr0jdFw",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -358,55 +324,38 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2031408970095616115",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
+      "id": "yt_U-TSafAIzXw",
+      "source": "a16z",
+      "sourceId": "a16z",
       "sourceAvatar": null,
-      "platform": "x",
+      "platform": "youtube",
       "domains": [
-        "AI",
-        "Dev"
+        "Business",
+        "AI"
       ],
-      "title": null,
-      "content": "A bit over a year later: • Cursor: $2B annualized revenue w/ 300+ people • Lovable: $300M annualized revenue w/ 150+ people • Mercor: $500M annualized revenue w/ 200+ people Ben Lang (@benln) Tiny teams are the future: • Cursor: 0 to $100M ARR in 21 months w/ 20 people • Bolt: 0 to $20M ARR in 2 months w/ 15 people • Lovable: 0 to $10M ARR in 2 months w/ 15 people • Mercor: 0 to $50M ARR in 2 years w/ 30 people • ElevenLabs: 0 to $100M ARR in 2 years w/ 50 people — https://nitter.net/benln/status/1889388151770325427#m",
-      "url": "https://x.com/benln/status/2031408970095616115",
-      "images": null,
-      "published": "2026-03-10T16:36:54+00:00",
-      "hasTranscript": false
+      "title": "Inside a16z’s Top 100 AI Apps Report with Olivia Moore",
+      "url": "https://www.youtube.com/watch?v=U-TSafAIzXw",
+      "thumbnail": "https://img.youtube.com/vi/U-TSafAIzXw/maxresdefault.jpg",
+      "published": "2026-03-10T14:30:07+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
-      "id": "x_2031077814070337546",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
+      "id": "yt_qTpCGe4A8PM",
+      "source": "a16z",
+      "sourceId": "a16z",
       "sourceAvatar": null,
-      "platform": "x",
+      "platform": "youtube",
       "domains": [
-        "AI",
-        "Dev"
+        "Business",
+        "AI"
       ],
-      "title": null,
-      "content": "1 year at Cursor today Grateful to support such a special community and work with such an incredible team",
-      "url": "https://x.com/benln/status/2031077814070337546",
-      "images": null,
-      "published": "2026-03-09T18:41:01+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2031021585008566582",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cursor events in these cities over the next two weeks: • Barcelona • Ljubljana • Brisbane • Barranquilla • Copenhagen • Riga • Detroit • Salt Lake City • Cebu • Bangkok • Manila • Mannheim • Istanbul • Bangalore • Buenos Aires • Calgary • Stockholm • São Paulo • Kigali • Porto Alegre • Zurich • Toronto • Mexico City • Monterrey • Valdivia • London • Cotonou • Heilbronn • Lomé • Shenzhen • Vancouver",
-      "url": "https://x.com/benln/status/2031021585008566582",
-      "images": null,
-      "published": "2026-03-09T14:57:35+00:00",
-      "hasTranscript": false
+      "title": "Andrew Huberman: Peptides, Sleep Tech, and the End of Obesity",
+      "url": "https://www.youtube.com/watch?v=qTpCGe4A8PM",
+      "thumbnail": "https://img.youtube.com/vi/qTpCGe4A8PM/maxresdefault.jpg",
+      "published": "2026-03-09T15:08:30+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_5gspRJVp9dI",
@@ -426,21 +375,38 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2030653724478124495",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
+      "id": "yt_GcdS_SqJ37Y",
+      "source": "a16z",
+      "sourceId": "a16z",
       "sourceAvatar": null,
-      "platform": "x",
+      "platform": "youtube",
       "domains": [
-        "AI",
-        "Dev"
+        "Business",
+        "AI"
       ],
-      "title": null,
-      "content": "Cafe Cursor in Tokyo is a vibe",
-      "url": "https://x.com/benln/status/2030653724478124495",
-      "images": null,
-      "published": "2026-03-08T14:35:50+00:00",
-      "hasTranscript": false
+      "title": "Atlassian CEO on the SaaS Apocalypse, AI Agents & What Comes Next",
+      "url": "https://www.youtube.com/watch?v=GcdS_SqJ37Y",
+      "thumbnail": "https://img.youtube.com/vi/GcdS_SqJ37Y/maxresdefault.jpg",
+      "published": "2026-03-08T22:50:18+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_0lzo2tFBFy8",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Atlassian CEO on the SaaS Apocalypse, AI Agents & What Comes Next",
+      "url": "https://www.youtube.com/watch?v=0lzo2tFBFy8",
+      "thumbnail": "https://img.youtube.com/vi/0lzo2tFBFy8/maxresdefault.jpg",
+      "published": "2026-03-06T15:50:06+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_DNSXlBmukck",
@@ -458,23 +424,6 @@
       "published": "2026-03-06T15:00:31+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2029927492438339661",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cursor tote bags",
-      "url": "https://x.com/benln/status/2029927492438339661",
-      "images": null,
-      "published": "2026-03-06T14:30:03+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_8hNcRChDrNk",
@@ -593,6 +542,40 @@
       "transcriptPreview": "每周，有超过2.3亿人在ChatGPT上询问健康和保健问题。在人类创造的所有数据中，有30%来自医疗领域，但其中真正被利用起来的，不足5%。 一边是巨大的数据金矿，一边是与未被满足的庞大需求，这正是AI的机会。 在年初的摩根大通医疗健康大会上，我们看到医疗与AI正在加速“双向奔赴”。礼来制药与英伟达达成10亿美元合作，试图用算力重塑药物发现的底层范式；在OpenAI发布ChatGPT for He"
     },
     {
+      "id": "yt_SHlrUAkkWI0",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
+      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
+      "thumbnail": "https://img.youtube.com/vi/SHlrUAkkWI0/maxresdefault.jpg",
+      "published": "2026-03-03T12:30:21+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_1SJiTwbSI58",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492",
+      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
+      "thumbnail": "https://img.youtube.com/vi/1SJiTwbSI58/maxresdefault.jpg",
+      "published": "2026-03-01T03:37:44+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "yt_UPGB-hsAoVY",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -623,6 +606,23 @@
       "url": "https://www.youtube.com/watch?v=Erxh0dx4nts",
       "thumbnail": "https://img.youtube.com/vi/Erxh0dx4nts/maxresdefault.jpg",
       "published": "2026-02-27T11:41:37+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_KGVpKPNUdzA",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
+      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
+      "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
+      "published": "2026-02-25T22:36:32+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -747,6 +747,22 @@
       "transcriptPreview": null
     },
     {
+      "id": "yt_EOIlGekiMsQ",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "史上最大規模的封閉實驗，第二個“大自然” | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=EOIlGekiMsQ",
+      "thumbnail": "https://img.youtube.com/vi/EOIlGekiMsQ/maxresdefault.jpg",
+      "published": "2026-02-17T13:30:22+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "yt_rWUWfj_PqmM",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -783,6 +799,23 @@
       "transcriptPreview": "本节目由百融云创赞助播出 2026年2月的第一周，全球软件行业经历了一场如“葬礼”般的信仰地震。随着Anthropic基于Claude Cowork平台，发布了11款覆盖法律、金融、销售等核心业务的职能插件，全球软件板块市值，在短短一周内蒸发了数千亿美元。华尔街的交易员们直言：SaaS的末日到了。 这不仅是股价的波动，更是生存模式的更迭。当“按人头卖坐席”的万亿帝国，在AI Agent面前显得摇摇"
     },
     {
+      "id": "yt_YFjfBk8HI5o",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
+      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
+      "thumbnail": "https://img.youtube.com/vi/YFjfBk8HI5o/maxresdefault.jpg",
+      "published": "2026-02-12T03:07:03+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "yt_r0uij_l32to",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -796,6 +829,74 @@
       "url": "https://www.youtube.com/watch?v=r0uij_l32to",
       "thumbnail": "https://img.youtube.com/vi/r0uij_l32to/maxresdefault.jpg",
       "published": "2026-02-11T14:43:36+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_uDuQKsdYfZw",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Inside The Life of Silicon Valley's First Athlete Investor | Magic Johnson",
+      "url": "https://www.youtube.com/watch?v=uDuQKsdYfZw",
+      "thumbnail": "https://img.youtube.com/vi/uDuQKsdYfZw/maxresdefault.jpg",
+      "published": "2026-02-11T14:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_rSohMpT24SI",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "AI Markets: Deep Dive with a16z's David George",
+      "url": "https://www.youtube.com/watch?v=rSohMpT24SI",
+      "thumbnail": "https://img.youtube.com/vi/rSohMpT24SI/maxresdefault.jpg",
+      "published": "2026-02-09T15:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_afkFLnyrLww",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "From $0 to $11B: The ElevenLabs Story",
+      "url": "https://www.youtube.com/watch?v=afkFLnyrLww",
+      "thumbnail": "https://img.youtube.com/vi/afkFLnyrLww/maxresdefault.jpg",
+      "published": "2026-02-06T16:00:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_opFl1RXZUSE",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Ben Horowitz on Winning vs Picking",
+      "url": "https://www.youtube.com/watch?v=opFl1RXZUSE",
+      "thumbnail": "https://img.youtube.com/vi/opFl1RXZUSE/maxresdefault.jpg",
+      "published": "2026-02-04T20:00:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -817,6 +918,39 @@
       "published": "2026-02-03T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "AI正在冲出浏览器，走向了接管电脑权限、主动为人打工的新阶段，为了它，你得买台Mac mini？ GitHub星标数几天内突破14万，社交媒体上全网刷屏，甚至直接带火了Mac mini的销量，Clawdbot成了2026“AI Agent爆发元年”第一个现象级产品。它不再是冷冰冰的聊天框，而是一个住在你电脑里、甚至能在AI“朋友圈”（Moltbook）里社交的“数字生命”。 Clawdbot的“活"
+    },
+    {
+      "id": "yt_EV7WhVT270Q",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
+      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
+      "thumbnail": "https://img.youtube.com/vi/EV7WhVT270Q/maxresdefault.jpg",
+      "published": "2026-01-31T22:33:33+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt__6VOEvdU6hM",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "2026，好久不見 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=_6VOEvdU6hM",
+      "thumbnail": "https://img.youtube.com/vi/_6VOEvdU6hM/maxresdefault.jpg",
+      "published": "2026-01-30T14:37:30+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_cbeec8b3_b0f6_4a2d_95f5_832452362423",
@@ -910,6 +1044,56 @@
       "transcriptPreview": "今年拉斯维加斯国际消费电子展上，人形机器人再次成为焦点——舞狮、打拳击、后空翻、打乒乓球，各种炫技的Demo，将“科技春晚”氛围拉满。但如果你期待的是泛化能力的突破，那么今年的展或许不会给你太多惊艳。 本期播客是机器人特辑的延续，此前我们探讨过许多关于机器人泛化的前沿探索，今天我们调过头来，追问一个更根本的问题：我们真的需要人形机器人吗？ 本期嘉宾傅盛认为，人形机器人硬件并不遵循“摩尔定律”，靠堆"
     },
     {
+      "id": "yt_Z-FRe5AKmCU",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489",
+      "url": "https://www.youtube.com/watch?v=Z-FRe5AKmCU",
+      "thumbnail": "https://img.youtube.com/vi/Z-FRe5AKmCU/maxresdefault.jpg",
+      "published": "2026-01-13T20:06:59+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_14OPT6CcsH4",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | Lex Fridman Podcast #488",
+      "url": "https://www.youtube.com/watch?v=14OPT6CcsH4",
+      "thumbnail": "https://img.youtube.com/vi/14OPT6CcsH4/maxresdefault.jpg",
+      "published": "2025-12-31T21:26:17+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_B51v9kJQuKo",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "【庫存影片】仁頃事件，一個被NHK封殺的接觸事件。（本影片拍攝於1年前，因為特殊原因封存至今） | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=B51v9kJQuKo",
+      "thumbnail": "https://img.youtube.com/vi/B51v9kJQuKo/maxresdefault.jpg",
+      "published": "2025-12-24T13:07:22+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "yt_Q7INj06TUv4",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -927,6 +1111,23 @@
       "transcriptPreview": null
     },
     {
+      "id": "yt__bBRVNkAfkQ",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Deciphering Secrets of Ancient Civilizations, Noah's Ark, and Flood Myths | Lex Fridman Podcast #487",
+      "url": "https://www.youtube.com/watch?v=_bBRVNkAfkQ",
+      "thumbnail": "https://img.youtube.com/vi/_bBRVNkAfkQ/maxresdefault.jpg",
+      "published": "2025-12-12T20:01:08+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "yt_18L5HOYTQAw",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -940,6 +1141,39 @@
       "url": "https://www.youtube.com/watch?v=18L5HOYTQAw",
       "thumbnail": "https://img.youtube.com/vi/18L5HOYTQAw/maxresdefault.jpg",
       "published": "2025-12-03T16:15:40+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_Qp0rCU49lMs",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Michael Levin: Hidden Reality of Alien Intelligence & Biological Life | Lex Fridman Podcast #486",
+      "url": "https://www.youtube.com/watch?v=Qp0rCU49lMs",
+      "thumbnail": "https://img.youtube.com/vi/Qp0rCU49lMs/maxresdefault.jpg",
+      "published": "2025-11-30T19:30:21+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_ESObIvXrKZI",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "【庫存影片】百慕大三角（拍攝於2022年2月，由於特殊原因封存至今） | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=ESObIvXrKZI",
+      "thumbnail": "https://img.youtube.com/vi/ESObIvXrKZI/maxresdefault.jpg",
+      "published": "2025-11-12T13:23:39+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -991,6 +1225,102 @@
       "url": "https://www.youtube.com/watch?v=wANPRZejSfg",
       "thumbnail": "https://img.youtube.com/vi/wANPRZejSfg/maxresdefault.jpg",
       "published": "2025-10-16T15:00:06+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_Iocm-1dXr-Q",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "目前為止最可信的地外生命存在的證據 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=Iocm-1dXr-Q",
+      "thumbnail": "https://img.youtube.com/vi/Iocm-1dXr-Q/maxresdefault.jpg",
+      "published": "2025-10-01T14:38:48+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_VdF4cd0SitU",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "臭氧空洞，人類距離滅絕最近的一次 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=VdF4cd0SitU",
+      "thumbnail": "https://img.youtube.com/vi/VdF4cd0SitU/maxresdefault.jpg",
+      "published": "2025-09-17T14:33:34+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_hACEeJKE6TE",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "可怕的鉛 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=hACEeJKE6TE",
+      "thumbnail": "https://img.youtube.com/vi/hACEeJKE6TE/maxresdefault.jpg",
+      "published": "2025-09-03T14:44:31+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_AvyJJ_Ew9no",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "【台灣猛鬼】紅衣小女孩 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=AvyJJ_Ew9no",
+      "thumbnail": "https://img.youtube.com/vi/AvyJJ_Ew9no/maxresdefault.jpg",
+      "published": "2025-08-20T14:37:25+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_XRvUWP6VaJY",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "一個星系文明可能來過太陽系，但它們直接摧毀了火星的母星，推演太陽系的形成過程發現我們可能住在一場超級核戰爭的残骸之中 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=XRvUWP6VaJY",
+      "thumbnail": "https://img.youtube.com/vi/XRvUWP6VaJY/maxresdefault.jpg",
+      "published": "2025-08-06T14:26:14+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_gHjIZwBhTgI",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "「時間之鏡」絕密實驗：在北極禁區，科學家依據「時間是能量」的驚人理論，試圖用螺旋巨鏡扭曲時空、傳送意識，竟意外接收到來自未來的訊息，更引來UFO與神秘極光。。 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=gHjIZwBhTgI",
+      "thumbnail": "https://img.youtube.com/vi/gHjIZwBhTgI/maxresdefault.jpg",
+      "published": "2025-07-23T14:39:29+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
