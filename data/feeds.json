@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-16T02:01:56.004278Z",
-  "count": 91,
+  "last_updated": "2026-03-17T01:49:29.919686Z",
+  "count": 101,
   "items": [
     {
-      "id": "x_2033203159880089904",
+      "id": "x_2033708252681392213",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -13,14 +13,14 @@
         "Design"
       ],
       "title": null,
-      "content": "更新需要更 Skills 和上游依赖，跟 AI 说就行 如果你之前已经在使用飞书桥接，升级到 v0.36.0 后需要在飞书开放平台补充以下配置，否则流式卡片和权限按钮将无法正常工作。 1. 添加卡片回调（必须） 进入应用 → 事件与回调： - 确认连接模式为 长连接模式（WebSocket） - 添加回调：card.action.trigger（卡片回传交互回调） 不添加则权限审批按钮和项目选择器点击无反应。 2. 新增权限（必须） 进入应用 → 权限管理，批量添加以下 6 个 scope（可直接复制粘贴到「批量开通」）： cardkit:card:write cardkit:card:read im:message:update im:message.reactions:read im:message.reactions:write_only im:resource 分别用于：流式卡片创建与更新、卡片状态读取、卡片内容实时刷新、表情回复读取、Typing 指示器、下载消息中的图片等资源。 3. 重新发布应用（必须） 权限变更后必须重新发布应用（提交审核或自审通过），否则新权限不会生效。",
-      "url": "https://x.com/op7418/status/2033203159880089904",
+      "content": "Kimi 昨晚这篇论文很猛 尝试用 K2.5 对 Kimi 这篇论文进行可视化解释。 Kimi.ai (@Kimi_Moonshot) Introducing 𝑨𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 𝑹𝒆𝒔𝒊𝒅𝒖𝒂𝒍𝒔: Rethinking depth-wise aggregation. Residual connections have long relied on fixed, uniform accumulation. Inspired by the duality of time and depth, we introduce Attention Residuals, replacing standard depth-wise recurrence with learned, input-dependent attention over preceding layers. 🔹 Enables networks to selectively retrieve past representations, naturally mitigating dilution and hidden-state growth. 🔹 Introduces Block AttnRes, partitioning layers into compressed blocks to make cross-layer attention practical at scale. 🔹 Serves as an efficient drop-in replacement, demonstrating a 1.25x compute advantage with negligible (<2%) inference latency overhead. 🔹 Validated on the Kimi Linear architecture (48B total, 3B activated parameters), delivering consistent downstream performance gains. 🔗Full report: github.com/MoonshotAI/Attent… — https://nitter.net/Kimi_Moonshot/status/2033378587878072424#m",
+      "url": "https://x.com/op7418/status/2033708252681392213",
       "images": null,
-      "published": "2026-03-15T15:26:23+00:00",
+      "published": "2026-03-17T00:53:26+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2033202960843563484",
+      "id": "x_2033699960664039612",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -30,14 +30,30 @@
         "Design"
       ],
       "title": null,
-      "content": "朋友们，Claude-to-im Skills 也更新了！ 现在可以让你的 Claude 和 Codex 链接飞书有飞书官方 Openclaw 插件的全部能力 而且引导更加详细，会告诉你需要补的权限 支持：流式卡片输出、工具调用进度 、权限审批按钮、项目快捷切换、Thinking 状态等 歸藏(guizang.ai) (@op7418) x.com/i/article/202956285551… — https://nitter.net/op7418/status/2029563318973952221#m",
-      "url": "https://x.com/op7418/status/2033202960843563484",
+      "content": "Codex 现在支持创建 Subagents 而且你还能切换窗口很便捷的跟踪每个Subagents 正在做的事情 Video",
+      "url": "https://x.com/op7418/status/2033699960664039612",
       "images": null,
-      "published": "2026-03-15T15:25:35+00:00",
+      "published": "2026-03-17T00:20:29+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2033161018688631267",
+      "id": "yt_VAzryGwnJW8",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Building AI for better healthcare — the OpenAI Podcast Ep. 14",
+      "url": "https://www.youtube.com/watch?v=VAzryGwnJW8",
+      "thumbnail": "https://img.youtube.com/vi/VAzryGwnJW8/maxresdefault.jpg",
+      "published": "2026-03-16T17:00:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2033567417461547144",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -47,14 +63,14 @@
         "Design"
       ],
       "title": null,
-      "content": "对比了一下我的和他的实践，不过他不是给真的产品做，不考虑这些也无可厚非 贰万 (@ross_TNTT) Https://michaellivs.com/blog… 这个？ — https://nitter.net/ross_TNTT/status/2033148503485198764#m",
-      "url": "https://x.com/op7418/status/2033161018688631267",
+      "content": "果然，Agent 只要有新形态，Manus 就会跟进。 他们发布了 My Computer，可以在你本地运行 AI Agent，操纵你的本地文件、运行自动化工作流。 有 Window 和 Mac OS 版本。 Video",
+      "url": "https://x.com/op7418/status/2033567417461547144",
       "images": null,
-      "published": "2026-03-15T12:38:55+00:00",
+      "published": "2026-03-16T15:33:48+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2033122941110788479",
+      "id": "x_2033560324004319676",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -64,14 +80,14 @@
         "Design"
       ],
       "title": null,
-      "content": "真受不了微信公众号的傻逼氛围了 每次发文章固定 NPC，这玩意有什么用？我为什么不用官方 APP 艹了，也没拦着他用啊 歸藏(guizang.ai) (@op7418) x.com/i/article/203311162541… — https://nitter.net/op7418/status/2033113845120807170#m",
-      "url": "https://x.com/op7418/status/2033122941110788479",
+      "content": "想要日历就有日历，这才是生成式 UI 的用法",
+      "url": "https://x.com/op7418/status/2033560324004319676",
       "images": null,
-      "published": "2026-03-15T10:07:37+00:00",
+      "published": "2026-03-16T15:05:37+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2033114800897880256",
+      "id": "x_2033558061831590353",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -81,14 +97,48 @@
         "Design"
       ],
       "title": null,
-      "content": "藏师傅太牛了！ 一天时间复刻了 Claude 刚出的生成式 UI 功能！ AI 直接在聊天里画交互式图表，帮你解释和分析相关信息。 流式输出，边生成边渲染。 感兴趣可以在 Codepilot 里面体验，文章里有实现的方案细节。 Video 歸藏(guizang.ai) (@op7418) x.com/i/article/203311162541… — https://nitter.net/op7418/status/2033113845120807170#m",
-      "url": "https://x.com/op7418/status/2033114800897880256",
+      "content": "受这位朋友的启发，发现了生成式 UI 的一个非常好的用法！非常牛逼！ 就是跟我的 Codepilot 助理一起使用。 它可以可视化助理这周记忆的内容，帮你分析你这周还有什么东西没做，以及已经做了哪些。 比如你的助理记了你的很多 to-do list 以及你每天应该干什么事情，以前你还是得去一些日历里看，或者翻文档让它给你输出文字。 但现在它就可以直接输出： 1. 比如你的 to-do list，它可以输出那种打勾的形式 2. 你让它统计已经完成的数量，它就会给你生成图表 3. 你要是让它看你每天要做什么事情，它就会以日历的方式呈现 MUKIwu (@EllenLaos25798) 我也做了一樣的事，同復刻，哈哈😂 — https://nitter.net/EllenLaos25798/status/2033545802350748055#m",
+      "url": "https://x.com/op7418/status/2033558061831590353",
       "images": null,
-      "published": "2026-03-15T09:35:16+00:00",
+      "published": "2026-03-16T14:56:38+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2033113845120807170",
+      "id": "yt_8SVocWnDHwE",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "India’s Fastest Growing AI Startup",
+      "url": "https://www.youtube.com/watch?v=8SVocWnDHwE",
+      "thumbnail": "https://img.youtube.com/vi/8SVocWnDHwE/maxresdefault.jpg",
+      "published": "2026-03-16T13:00:14+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_N7kdFO4gSlo",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Palantir CEO on Iran, AI Weapons and American Domination",
+      "url": "https://www.youtube.com/watch?v=N7kdFO4gSlo",
+      "thumbnail": "https://img.youtube.com/vi/N7kdFO4gSlo/maxresdefault.jpg",
+      "published": "2026-03-16T12:50:50+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2033483608946770289",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -98,14 +148,14 @@
         "Design"
       ],
       "title": null,
-      "content": "x.com/i/article/203311162541…",
-      "url": "https://x.com/op7418/status/2033113845120807170",
+      "content": "终于腾出手来解决 Codepilot 服务商连接的老大难问题了，上了个诊断，还能自动帮你修复 如果你以前用 Codepilot 有连接问题的话，可以下这个版本试试 对已有用户无破坏性变更。 现有配置、会话、provider 数据全部保留，行为向后兼容。具体变化： - 新建聊天会记住上次选择的 provider/model，不再每次回退到 env 默认值 - 错误提示更具体 — 以前统一显示 exit code 1，现在会区分\"认证失败\"\"模型不可用\"\"网络不通\"等 16 种情况并给出修复建议 - Resume 失败不再闪现通知 — 对话恢复失败时静默回退，用户无感知 - 新增 provider 后会询问是否设为默认 — 不再需要手动切换 - 设置页新增\"连接诊断\" — 一键检测 CLI/认证/网络/模型兼容性 --- 之前遇到报错的用户怎么办 ▎ 如果你之前发送消息时看到 Claude Code process exited with code 1 错误： 1. 更新到此版本后直接重试 — 大部分情况已经自动修复（provider 未生效、auth style 选错、model 没传到上游） 2. 如果仍然报错 — 错误信息现在会告诉你具体原因和怎么做，按提示操作即可 3. 不确定问题在哪？ 去 设置 → 服务商 → 运行诊断，系统会自动检测 CLI、密钥、网络等 5 项，有问题的会标红并提供一键修复 4. 诊断全绿但还是不行？ 点「导出日志」下载诊断报告，然后到 GitHub Issues 提交，附上日志文件",
+      "url": "https://x.com/op7418/status/2033483608946770289",
       "images": null,
-      "published": "2026-03-15T09:31:28+00:00",
+      "published": "2026-03-16T10:00:47+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2033083402136813614",
+      "id": "x_2033452073170473033",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -115,14 +165,14 @@
         "Design"
       ],
       "title": null,
-      "content": "牛逼，还是得有竞争。Claude 被 Codex 卷到了！ 接下来两周工作日非高峰时段的所有用户的用量翻倍，然后周末所有用户的用量全天翻倍 高峰时段换算成北京时间的话，就是 20:00–次日 02:00 这段时间，其实跟我们没啥关系。 国内用户在白天的所有时段，用量其实都是翻倍的。 Claude (@claudeai) A small thank you to everyone using Claude: We’re doubling usage outside our peak hours for the next two weeks. Video — https://nitter.net/claudeai/status/2032911276226257206#m",
-      "url": "https://x.com/op7418/status/2033083402136813614",
+      "content": "好事啊，香港以后很快就能用 Gemini 了，希望谷歌的其他服务也能开放。",
+      "url": "https://x.com/op7418/status/2033452073170473033",
       "images": null,
-      "published": "2026-03-15T07:30:30+00:00",
+      "published": "2026-03-16T07:55:28+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2032745670382334455",
+      "id": "x_2033412549711216696",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -132,14 +182,14 @@
         "Design"
       ],
       "title": null,
-      "content": "Codepilot 的飞书桥接服务更新了！ 现在几乎可以拉齐飞书官方插件在聊天里的所有体验 流式输出、卡片式结果、带按钮的权限通知卡片 而且我还优化了切换工作目录和新开聊天的体验 现在可以在飞书里面切换工作目录和新建聊天了 更新 0.36 版本并在飞书后台补充对应权限就可以用了",
-      "url": "https://x.com/op7418/status/2032745670382334455",
+      "content": "这里尝试：github.com/op7418/Generative…",
+      "url": "https://x.com/op7418/status/2033412549711216696",
       "images": null,
-      "published": "2026-03-14T09:08:29+00:00",
+      "published": "2026-03-16T05:18:25+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2032629882904334715",
+      "id": "x_2033412485433500130",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -149,10 +199,61 @@
         "Design"
       ],
       "title": null,
-      "content": "牛逼，还是得有竞争 现在一百万的上下文的 opus 和 Sonnet 是 max 和 team 账号的默认模型了 Claude (@claudeai) 1 million context window: Now generally available for Claude Opus 4.6 and Claude Sonnet 4.6. — https://nitter.net/claudeai/status/2032509548297343196#m",
-      "url": "https://x.com/op7418/status/2032629882904334715",
+      "content": "把生成式 UI 的能力做了个 Generative UI MCP 可以让其他的 Agent 产品也支持在聊天中输出这种交互式的生成式 UI 解释。 可惜的是，目前支持这种在聊天页面流式渲染 SVG 或者 HTML 的产品还是太少了。 我试了一下，就在 Craft Agent 里面可以，但是体验也比 Code Pilot 差了不少，Claude 里面用他官方的就行。 歸藏(guizang.ai) (@op7418) x.com/i/article/203311162541… — https://nitter.net/op7418/status/2033113845120807170#m",
+      "url": "https://x.com/op7418/status/2033412485433500130",
       "images": null,
-      "published": "2026-03-14T01:28:23+00:00",
+      "published": "2026-03-16T05:18:10+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2033390153419706600",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "统计工具用的：vibecafe.ai/",
+      "url": "https://x.com/op7418/status/2033390153419706600",
+      "images": null,
+      "published": "2026-03-16T03:49:25+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2033257630588674537",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Buenos Aires",
+      "url": "https://x.com/benln/status/2033257630588674537",
+      "images": null,
+      "published": "2026-03-15T19:02:49+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2033225690225803735",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Who’s building today?",
+      "url": "https://x.com/benln/status/2033225690225803735",
+      "images": null,
+      "published": "2026-03-15T16:55:54+00:00",
       "hasTranscript": false
     },
     {
@@ -189,20 +290,20 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2032296560877539831",
-      "source": "归藏",
-      "sourceId": "guizang",
+      "id": "x_2032463313561342276",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
       "sourceAvatar": null,
       "platform": "x",
       "domains": [
         "AI",
-        "Design"
+        "Dev"
       ],
       "title": null,
-      "content": "同时也优化了 Codepilot 这部分文档的写作方式 它更像是一个教程，尤其是增加了一些基础概念的解释。 如果你是一个小白的话，也可以根据这些文档去理解和使用这些功能。 歸藏(guizang.ai) (@op7418) CodePilot 0.34.2 版本已经支持了所有的 Git 能力 你可以可视化的管理当前项目的 Git 进行提交、推送、分析差异以及创建和派生工作树 — https://nitter.net/op7418/status/2032294963703349623#m",
-      "url": "https://x.com/op7418/status/2032296560877539831",
+      "content": "Cursor’s Ambassador program turns one soon Comped Ultra plan, private Slack group with team, funding for events, and merch. Still working through our backlog of applications, but inviting new members every few weeks. Apply to join!",
+      "url": "https://x.com/benln/status/2032463313561342276",
       "images": null,
-      "published": "2026-03-13T03:23:53+00:00",
+      "published": "2026-03-13T14:26:29+00:00",
       "hasTranscript": false
     },
     {
@@ -221,6 +322,23 @@
       "published": "2026-03-13T03:05:10+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_2032148125448610145",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "We're sharing a new method for scoring models on agentic coding tasks. Here's how models in Cursor compare on intelligence and efficiency:",
+      "url": "https://x.com/benln/status/2032148125448610145",
+      "images": null,
+      "published": "2026-03-12T17:34:03+00:00",
+      "hasTranscript": false
     },
     {
       "id": "pod_guigu101_pod_fd17090c_0d72_4c0d_aa3e_9b00bc062149",
@@ -242,6 +360,23 @@
       "transcriptPreview": "在AI算力争霸时代，英伟达凭借GPU市值一路狂飙。但如今，它的蛋糕正在被一点点分食——2024年，苹果论文披露Apple Intelligence全部由TPU训练；2025年，Anthropic签下数十亿美元订单，购买TPU训练Claude；近期，Meta与谷歌签署数十亿美元协议，租用TPU跑Llama。 TPU一直是谷歌低调的“自家武器”，在过去十年里驱动着几乎全部核心产品。直到TPU训练的Ge"
     },
     {
+      "id": "x_2032106643807146391",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Wired 2 angel investments over past two weeks: • two former Ramp engineers • 3x repeat founder Reach out if you're building something new!",
+      "url": "https://x.com/benln/status/2032106643807146391",
+      "images": null,
+      "published": "2026-03-12T14:49:13+00:00",
+      "hasTranscript": false
+    },
+    {
       "id": "yt_Wj6ttdIeBnE",
       "source": "a16z",
       "sourceId": "a16z",
@@ -251,7 +386,7 @@
         "Business",
         "AI"
       ],
-      "title": "Palantir CEO on Iran, AI Weapons and America's Advantage | a16z American Dynamism Summit",
+      "title": "Palantir CEO on Iran, AI Weapons and American Domination | a16z American Dynamism Summit",
       "url": "https://www.youtube.com/watch?v=Wj6ttdIeBnE",
       "thumbnail": "https://img.youtube.com/vi/Wj6ttdIeBnE/maxresdefault.jpg",
       "published": "2026-03-12T14:30:00+00:00",
@@ -308,6 +443,40 @@
       "transcriptPreview": null
     },
     {
+      "id": "x_2031779663119294777",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Students who've attended YC events get $25K in free credits/tools Now includes a year of Cursor Pro+",
+      "url": "https://x.com/benln/status/2031779663119294777",
+      "images": null,
+      "published": "2026-03-11T17:09:54+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2031732737011335479",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Barcelona",
+      "url": "https://x.com/benln/status/2031732737011335479",
+      "images": null,
+      "published": "2026-03-11T14:03:26+00:00",
+      "hasTranscript": false
+    },
+    {
       "id": "yt_rhsSqr0jdFw",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -322,6 +491,23 @@
       "published": "2026-03-10T17:42:29+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_2031408970095616115",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "A bit over a year later: • Cursor: $2B annualized revenue w/ 300+ people • Lovable: $300M annualized revenue w/ 150+ people • Mercor: $500M annualized revenue w/ 200+ people Ben Lang (@benln) Tiny teams are the future: • Cursor: 0 to $100M ARR in 21 months w/ 20 people • Bolt: 0 to $20M ARR in 2 months w/ 15 people • Lovable: 0 to $10M ARR in 2 months w/ 15 people • Mercor: 0 to $50M ARR in 2 years w/ 30 people • ElevenLabs: 0 to $100M ARR in 2 years w/ 50 people — https://nitter.net/benln/status/1889388151770325427#m",
+      "url": "https://x.com/benln/status/2031408970095616115",
+      "images": null,
+      "published": "2026-03-10T16:36:54+00:00",
+      "hasTranscript": false
     },
     {
       "id": "yt_U-TSafAIzXw",
@@ -341,6 +527,23 @@
       "transcriptPreview": null
     },
     {
+      "id": "x_2031077814070337546",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "1 year at Cursor today Grateful to support such a special community and work with such an incredible team",
+      "url": "https://x.com/benln/status/2031077814070337546",
+      "images": null,
+      "published": "2026-03-09T18:41:01+00:00",
+      "hasTranscript": false
+    },
+    {
       "id": "yt_qTpCGe4A8PM",
       "source": "a16z",
       "sourceId": "a16z",
@@ -356,6 +559,23 @@
       "published": "2026-03-09T15:08:30+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_2031021585008566582",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor events in these cities over the next two weeks: • Barcelona • Ljubljana • Brisbane • Barranquilla • Copenhagen • Riga • Detroit • Salt Lake City • Cebu • Bangkok • Manila • Mannheim • Istanbul • Bangalore • Buenos Aires • Calgary • Stockholm • São Paulo • Kigali • Porto Alegre • Zurich • Toronto • Mexico City • Monterrey • Valdivia • London • Cotonou • Heilbronn • Lomé • Shenzhen • Vancouver",
+      "url": "https://x.com/benln/status/2031021585008566582",
+      "images": null,
+      "published": "2026-03-09T14:57:35+00:00",
+      "hasTranscript": false
     },
     {
       "id": "yt_5gspRJVp9dI",
@@ -663,22 +883,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_-RDPAPjDnp8",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "OpenClaw Creator Peter Steinberger's advice for developers",
-      "url": "https://www.youtube.com/watch?v=-RDPAPjDnp8",
-      "thumbnail": "https://img.youtube.com/vi/-RDPAPjDnp8/maxresdefault.jpg",
-      "published": "2026-02-24T18:00:07+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_Q8wVMdwhlh4",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -759,23 +963,6 @@
       "url": "https://www.youtube.com/watch?v=EOIlGekiMsQ",
       "thumbnail": "https://img.youtube.com/vi/EOIlGekiMsQ/maxresdefault.jpg",
       "published": "2026-02-17T13:30:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_rWUWfj_PqmM",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The New Way To Build A Startup",
-      "url": "https://www.youtube.com/watch?v=rWUWfj_PqmM",
-      "thumbnail": "https://img.youtube.com/vi/rWUWfj_PqmM/maxresdefault.jpg",
-      "published": "2026-02-14T15:01:34+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -880,23 +1067,6 @@
       "url": "https://www.youtube.com/watch?v=afkFLnyrLww",
       "thumbnail": "https://img.youtube.com/vi/afkFLnyrLww/maxresdefault.jpg",
       "published": "2026-02-06T16:00:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_opFl1RXZUSE",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Ben Horowitz on Winning vs Picking",
-      "url": "https://www.youtube.com/watch?v=opFl1RXZUSE",
-      "thumbnail": "https://img.youtube.com/vi/opFl1RXZUSE/maxresdefault.jpg",
-      "published": "2026-02-04T20:00:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
