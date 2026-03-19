@@ -1,7 +1,160 @@
 {
-  "last_updated": "2026-03-18T01:53:36.398981Z",
-  "count": 90,
+  "last_updated": "2026-03-19T01:54:35.252694Z",
+  "count": 101,
   "items": [
+    {
+      "id": "x_2034441734298718538",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "而且微博的反倒是比较少，这下反过来了，他妈的，公众号成粪坑了。",
+      "url": "https://x.com/op7418/status/2034441734298718538",
+      "images": null,
+      "published": "2026-03-19T01:28:02+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2034441428051669153",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "早上就发了个小米的新闻，微信公众号那边，他妈的，那评论区乌烟瘴气的，都不能看。 很多翻起来还是关注了一年多的老粉。我在想，这帮逼关注了一年，关注点啥呀？我操，真丢人，教这些人 歸藏(guizang.ai) (@op7418) 小米这波牛逼啊，一下掏出三个顶级模型！ 前几天在 OpenRouter 杀疯了的 Hunter Alpha 就是 MiMo‑V2‑Pro！ MiMo‑V2‑Pro 旗舰模型： 主要在 Agent 能力和代码能力上很强。 MiMo‑V2‑Omni： 多模态感知模型，负责感知环境为 Agent 模型提供信息。 MiMo‑V2‑TTS： TTS 语音模型负责 Agent 跟人类沟通 而且这几个模型会在接下里的一周提供免费试用，Codepilot 已经支持。 --------- MiMo‑V2‑Pro 顶级 Agent 编程模型： 总参数超 1T，激活参数 42B，最高支持 100 万上下文 Artificial Analysis 里面中文 LLM 第二，仅次于 GLM-5 测试集成绩来看，成绩非常接近 Sonnet4.6，价格只有 Sonnet 4.6 的 5 分之一。 256K 价格：1/3 美元百万 Token 1M 价格 2/6 美元百万 Token --------- MiMo‑V2‑Omni 全模态理解 LLM： 支持图像、视频和超长音频理解 官方宣称音频理解超过 Gemini3Pro，支持 10 小时以上连续音频理解 图像理解上复杂图表与多学科视觉推理能力 超过 Claude 4.6 Opus 支持音视频联合输入，强调「情景感知 + 未来预测」 原生支持 工具调用、函数执行、UI grounding --------- MiMo‑V2‑TTS 更猛： 支持「自然语言风格指令」，不限于固定标签 支持句中情绪切换、渐变、以及更细粒度的情绪控制 中英双语为主，同时支持多种方言风格 还支持人物化声音，例如孙悟空等 咳嗽、叹气、犹豫填充音等非言语声音建模 会用大小写、重复字符、标点符号作为韵律信号 在同一模型中支持说话与唱歌，能准确捕捉旋律和节奏 — https://nitter.net/op7418/status/2034404031758839851#m",
+      "url": "https://x.com/op7418/status/2034441428051669153",
+      "images": null,
+      "published": "2026-03-19T01:26:49+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2034408382560719331",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这里尝试：github.com/op7418/CodePilot/…",
+      "url": "https://x.com/op7418/status/2034408382560719331",
+      "images": null,
+      "published": "2026-03-18T23:15:30+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2034406550970970413",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codepilot 0.38.3 版本已经支持刚发布的 Xiaomi MiMo-V2-Pro 和 MiniMax M2.7 模型 而且小米这个模型未来一周会免费，各位可以来 Codepilot 玩了 只需要在服务商中填入你的 API Key 就行 歸藏(guizang.ai) (@op7418) 小米这波牛逼啊，一下掏出三个顶级模型！ 前几天在 OpenRouter 杀疯了的 Hunter Alpha 就是 MiMo‑V2‑Pro！ MiMo‑V2‑Pro 旗舰模型： 主要在 Agent 能力和代码能力上很强。 MiMo‑V2‑Omni： 多模态感知模型，负责感知环境为 Agent 模型提供信息。 MiMo‑V2‑TTS： TTS 语音模型负责 Agent 跟人类沟通 而且这几个模型会在接下里的一周提供免费试用，Codepilot 已经支持。 --------- MiMo‑V2‑Pro 顶级 Agent 编程模型： 总参数超 1T，激活参数 42B，最高支持 100 万上下文 Artificial Analysis 里面中文 LLM 第二，仅次于 GLM-5 测试集成绩来看，成绩非常接近 Sonnet4.6，价格只有 Sonnet 4.6 的 5 分之一。 256K 价格：1/3 美元百万 Token 1M 价格 2/6 美元百万 Token --------- MiMo‑V2‑Omni 全模态理解 LLM： 支持图像、视频和超长音频理解 官方宣称音频理解超过 Gemini3Pro，支持 10 小时以上连续音频理解 图像理解上复杂图表与多学科视觉推理能力 超过 Claude 4.6 Opus 支持音视频联合输入，强调「情景感知 + 未来预测」 原生支持 工具调用、函数执行、UI grounding --------- MiMo‑V2‑TTS 更猛： 支持「自然语言风格指令」，不限于固定标签 支持句中情绪切换、渐变、以及更细粒度的情绪控制 中英双语为主，同时支持多种方言风格 还支持人物化声音，例如孙悟空等 咳嗽、叹气、犹豫填充音等非言语声音建模 会用大小写、重复字符、标点符号作为韵律信号 在同一模型中支持说话与唱歌，能准确捕捉旋律和节奏 — https://nitter.net/op7418/status/2034404031758839851#m",
+      "url": "https://x.com/op7418/status/2034406550970970413",
+      "images": null,
+      "published": "2026-03-18T23:08:13+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2034404031758839851",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "小米这波牛逼啊，一下掏出三个顶级模型！ 前几天在 OpenRouter 杀疯了的 Hunter Alpha 就是 MiMo‑V2‑Pro！ MiMo‑V2‑Pro 旗舰模型： 主要在 Agent 能力和代码能力上很强。 MiMo‑V2‑Omni： 多模态感知模型，负责感知环境为 Agent 模型提供信息。 MiMo‑V2‑TTS： TTS 语音模型负责 Agent 跟人类沟通 而且这几个模型会在接下里的一周提供免费试用，Codepilot 已经支持。 --------- MiMo‑V2‑Pro 顶级 Agent 编程模型： 总参数超 1T，激活参数 42B，最高支持 100 万上下文 Artificial Analysis 里面中文 LLM 第二，仅次于 GLM-5 测试集成绩来看，成绩非常接近 Sonnet4.6，价格只有 Sonnet 4.6 的 5 分之一。 256K 价格：1/3 美元百万 Token 1M 价格 2/6 美元百万 Token --------- MiMo‑V2‑Omni 全模态理解 LLM： 支持图像、视频和超长音频理解 官方宣称音频理解超过 Gemini3Pro，支持 10 小时以上连续音频理解 图像理解上复杂图表与多学科视觉推理能力 超过 Claude 4.6 Opus 支持音视频联合输入，强调「情景感知 + 未来预测」 原生支持 工具调用、函数执行、UI grounding --------- MiMo‑V2‑TTS 更猛： 支持「自然语言风格指令」，不限于固定标签 支持句中情绪切换、渐变、以及更细粒度的情绪控制 中英双语为主，同时支持多种方言风格 还支持人物化声音，例如孙悟空等 咳嗽、叹气、犹豫填充音等非言语声音建模 会用大小写、重复字符、标点符号作为韵律信号 在同一模型中支持说话与唱歌，能准确捕捉旋律和节奏 Xiaomi MiMo (@XiaomiMiMo) Introducing MiMo-V2-Pro & Omni & TTS mimo.xiaomi.com — https://nitter.net/XiaomiMiMo/status/2034305830724444484#m",
+      "url": "https://x.com/op7418/status/2034404031758839851",
+      "images": null,
+      "published": "2026-03-18T22:58:13+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_ZEAoEPLedeY",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Best Time is Now",
+      "url": "https://www.youtube.com/watch?v=ZEAoEPLedeY",
+      "thumbnail": "https://img.youtube.com/vi/ZEAoEPLedeY/maxresdefault.jpg",
+      "published": "2026-03-18T20:00:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2034336424619614424",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "One of the all-time great cold emails:",
+      "url": "https://x.com/benln/status/2034336424619614424",
+      "images": null,
+      "published": "2026-03-18T18:29:34+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_CEOiwEemiTA",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Inside the New Media Team with Marc Andreessen & Ben Horowitz",
+      "url": "https://www.youtube.com/watch?v=CEOiwEemiTA",
+      "thumbnail": "https://img.youtube.com/vi/CEOiwEemiTA/maxresdefault.jpg",
+      "published": "2026-03-18T14:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2034269047135625240",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Underrated source for finding breakout startups to join:",
+      "url": "https://x.com/benln/status/2034269047135625240",
+      "images": null,
+      "published": "2026-03-18T14:01:50+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2034082485798314489",
       "source": "归藏",
@@ -104,6 +257,23 @@
       "transcriptPreview": null
     },
     {
+      "id": "x_2033889462292299987",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "We're taking over a cafe on March 30th in Singapore Grab coffee, Cursor credits, meet the team, and build together",
+      "url": "https://x.com/benln/status/2033889462292299987",
+      "images": null,
+      "published": "2026-03-17T12:53:30+00:00",
+      "hasTranscript": false
+    },
+    {
       "id": "x_2033708252681392213",
       "source": "归藏",
       "sourceId": "guizang",
@@ -154,57 +324,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2033567417461547144",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "果然，Agent 只要有新形态，Manus 就会跟进。 他们发布了 My Computer，可以在你本地运行 AI Agent，操纵你的本地文件、运行自动化工作流。 有 Window 和 Mac OS 版本。 Video",
-      "url": "https://x.com/op7418/status/2033567417461547144",
-      "images": null,
-      "published": "2026-03-16T15:33:48+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2033560324004319676",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "想要日历就有日历，这才是生成式 UI 的用法",
-      "url": "https://x.com/op7418/status/2033560324004319676",
-      "images": null,
-      "published": "2026-03-16T15:05:37+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2033558061831590353",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "受这位朋友的启发，发现了生成式 UI 的一个非常好的用法！非常牛逼！ 就是跟我的 Codepilot 助理一起使用。 它可以可视化助理这周记忆的内容，帮你分析你这周还有什么东西没做，以及已经做了哪些。 比如你的助理记了你的很多 to-do list 以及你每天应该干什么事情，以前你还是得去一些日历里看，或者翻文档让它给你输出文字。 但现在它就可以直接输出： 1. 比如你的 to-do list，它可以输出那种打勾的形式 2. 你让它统计已经完成的数量，它就会给你生成图表 3. 你要是让它看你每天要做什么事情，它就会以日历的方式呈现 MUKIwu (@EllenLaos25798) 我也做了一樣的事，同復刻，哈哈😂 — https://nitter.net/EllenLaos25798/status/2033545802350748055#m",
-      "url": "https://x.com/op7418/status/2033558061831590353",
-      "images": null,
-      "published": "2026-03-16T14:56:38+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_8SVocWnDHwE",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -239,37 +358,37 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2033483608946770289",
-      "source": "归藏",
-      "sourceId": "guizang",
+      "id": "x_2033257630588674537",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
       "sourceAvatar": null,
       "platform": "x",
       "domains": [
         "AI",
-        "Design"
+        "Dev"
       ],
       "title": null,
-      "content": "终于腾出手来解决 Codepilot 服务商连接的老大难问题了，上了个诊断，还能自动帮你修复 如果你以前用 Codepilot 有连接问题的话，可以下这个版本试试 对已有用户无破坏性变更。 现有配置、会话、provider 数据全部保留，行为向后兼容。具体变化： - 新建聊天会记住上次选择的 provider/model，不再每次回退到 env 默认值 - 错误提示更具体 — 以前统一显示 exit code 1，现在会区分\"认证失败\"\"模型不可用\"\"网络不通\"等 16 种情况并给出修复建议 - Resume 失败不再闪现通知 — 对话恢复失败时静默回退，用户无感知 - 新增 provider 后会询问是否设为默认 — 不再需要手动切换 - 设置页新增\"连接诊断\" — 一键检测 CLI/认证/网络/模型兼容性 --- 之前遇到报错的用户怎么办 ▎ 如果你之前发送消息时看到 Claude Code process exited with code 1 错误： 1. 更新到此版本后直接重试 — 大部分情况已经自动修复（provider 未生效、auth style 选错、model 没传到上游） 2. 如果仍然报错 — 错误信息现在会告诉你具体原因和怎么做，按提示操作即可 3. 不确定问题在哪？ 去 设置 → 服务商 → 运行诊断，系统会自动检测 CLI、密钥、网络等 5 项，有问题的会标红并提供一键修复 4. 诊断全绿但还是不行？ 点「导出日志」下载诊断报告，然后到 GitHub Issues 提交，附上日志文件",
-      "url": "https://x.com/op7418/status/2033483608946770289",
+      "content": "Cafe Cursor in Buenos Aires",
+      "url": "https://x.com/benln/status/2033257630588674537",
       "images": null,
-      "published": "2026-03-16T10:00:47+00:00",
+      "published": "2026-03-15T19:02:49+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2033452073170473033",
-      "source": "归藏",
-      "sourceId": "guizang",
+      "id": "x_2033225690225803735",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
       "sourceAvatar": null,
       "platform": "x",
       "domains": [
         "AI",
-        "Design"
+        "Dev"
       ],
       "title": null,
-      "content": "好事啊，香港以后很快就能用 Gemini 了，希望谷歌的其他服务也能开放。",
-      "url": "https://x.com/op7418/status/2033452073170473033",
+      "content": "Who’s building today?",
+      "url": "https://x.com/benln/status/2033225690225803735",
       "images": null,
-      "published": "2026-03-16T07:55:28+00:00",
+      "published": "2026-03-15T16:55:54+00:00",
       "hasTranscript": false
     },
     {
@@ -306,6 +425,23 @@
       "transcriptPreview": null
     },
     {
+      "id": "x_2032463313561342276",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor’s Ambassador program turns one soon Comped Ultra plan, private Slack group with team, funding for events, and merch. Still working through our backlog of applications, but inviting new members every few weeks. Apply to join!",
+      "url": "https://x.com/benln/status/2032463313561342276",
+      "images": null,
+      "published": "2026-03-13T14:26:29+00:00",
+      "hasTranscript": false
+    },
+    {
       "id": "yt_jjXuP89i5T0",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -321,6 +457,23 @@
       "published": "2026-03-13T03:05:10+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_2032148125448610145",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "We're sharing a new method for scoring models on agentic coding tasks. Here's how models in Cursor compare on intelligence and efficiency:",
+      "url": "https://x.com/benln/status/2032148125448610145",
+      "images": null,
+      "published": "2026-03-12T17:34:03+00:00",
+      "hasTranscript": false
     },
     {
       "id": "pod_guigu101_pod_fd17090c_0d72_4c0d_aa3e_9b00bc062149",
@@ -340,6 +493,23 @@
       "published": "2026-03-12T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "在AI算力争霸时代，英伟达凭借GPU市值一路狂飙。但如今，它的蛋糕正在被一点点分食——2024年，苹果论文披露Apple Intelligence全部由TPU训练；2025年，Anthropic签下数十亿美元订单，购买TPU训练Claude；近期，Meta与谷歌签署数十亿美元协议，租用TPU跑Llama。 TPU一直是谷歌低调的“自家武器”，在过去十年里驱动着几乎全部核心产品。直到TPU训练的Ge"
+    },
+    {
+      "id": "x_2032106643807146391",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Wired 2 angel investments over past two weeks: • two former Ramp engineers • 3x repeat founder Reach out if you're building something new!",
+      "url": "https://x.com/benln/status/2032106643807146391",
+      "images": null,
+      "published": "2026-03-12T14:49:13+00:00",
+      "hasTranscript": false
     },
     {
       "id": "yt_Wj6ttdIeBnE",
@@ -406,6 +576,40 @@
       "published": "2026-03-11T19:57:25+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_2031779663119294777",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Students who've attended YC events get $25K in free credits/tools Now includes a year of Cursor Pro+",
+      "url": "https://x.com/benln/status/2031779663119294777",
+      "images": null,
+      "published": "2026-03-11T17:09:54+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2031732737011335479",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Barcelona",
+      "url": "https://x.com/benln/status/2031732737011335479",
+      "images": null,
+      "published": "2026-03-11T14:03:26+00:00",
+      "hasTranscript": false
     },
     {
       "id": "yt_rhsSqr0jdFw",
@@ -863,40 +1067,6 @@
       "url": "https://www.youtube.com/watch?v=r0uij_l32to",
       "thumbnail": "https://img.youtube.com/vi/r0uij_l32to/maxresdefault.jpg",
       "published": "2026-02-11T14:43:36+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_uDuQKsdYfZw",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Inside The Life of Silicon Valley's First Athlete Investor | Magic Johnson",
-      "url": "https://www.youtube.com/watch?v=uDuQKsdYfZw",
-      "thumbnail": "https://img.youtube.com/vi/uDuQKsdYfZw/maxresdefault.jpg",
-      "published": "2026-02-11T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_rSohMpT24SI",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI Markets: Deep Dive with a16z's David George",
-      "url": "https://www.youtube.com/watch?v=rSohMpT24SI",
-      "thumbnail": "https://img.youtube.com/vi/rSohMpT24SI/maxresdefault.jpg",
-      "published": "2026-02-09T15:30:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1521,6 +1691,23 @@
       "published": "2020-12-09T10:55:12+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_9327720978",
+      "source": "Ryo Lu",
+      "sourceId": "ryolu",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "just doing school work",
+      "url": "https://x.com/rylooo/status/9327720978",
+      "images": null,
+      "published": "2010-02-19T09:27:07+00:00",
+      "hasTranscript": false
     }
   ]
 }
