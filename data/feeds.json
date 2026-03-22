@@ -1,7 +1,41 @@
 {
-  "last_updated": "2026-03-21T01:43:14.696266Z",
+  "last_updated": "2026-03-22T01:54:08.635258Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2035181977238917420",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "正确的配置方式",
+      "url": "https://x.com/op7418/status/2035181977238917420",
+      "images": null,
+      "published": "2026-03-21T02:29:29+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2035180804410941655",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "刚才处理了一个 Codepilot 里面非常典型的服务商配置问题 这也是很多人说自己按官方文档配置却不生效的原因 比如这个，他说他配置完了，也配置对了，但没有反应。 但我检查了一下 Log 发现，他配置的那个链接是错的： 1. 他配置的是 OpenAI 的兼容链接，而不是应该在 Claude Code 的这种 Anthropic 里面填的链接。 2. 他也没有用智谱的、我默认的那套逻辑去填（那个只需要填一个 Token 就没问题）。 他直接在那个三方 Anthropic 里面填的",
+      "url": "https://x.com/op7418/status/2035180804410941655",
+      "images": null,
+      "published": "2026-03-21T02:24:50+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2035165486628184468",
       "source": "归藏",
@@ -112,7 +146,7 @@
         "Business",
         "AI"
       ],
-      "title": "Inside The Startup Reinventing America’s Trillion Dollar Chemical Industry",
+      "title": "Inside The Startup Reinventing The $6 Trillion Chemical Manufacturing Industry",
       "url": "https://www.youtube.com/watch?v=PCypBUVhff8",
       "thumbnail": "https://img.youtube.com/vi/PCypBUVhff8/maxresdefault.jpg",
       "published": "2026-03-20T13:01:00+00:00",
@@ -289,40 +323,6 @@
       "url": "https://x.com/op7418/status/2034567280433242323",
       "images": null,
       "published": "2026-03-19T09:46:54+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2034567141819613664",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "试了一下 LibLib 发布的这个 LibTV，这个有点厉害啊！ 尤其是 Skills，感觉突然开窍了。 他们做了一个 AI 视频创作平台。这个系统是同时面向人类和 Agent 设计的： 人类可以操作、Agent 也可以操作、人类和 Agent 还可以相互协作 具体包括两个部分，网站和 Skills。 首先网站： 它是一个无限画布的创作形式，你能用现在几乎市面上所有的图像模型和视频生成模型去创建视频。 支持五种类型的节点：文本、图片、视频、音频和脚本。 如果你用过 ComfyUI 或者其他同类型的这种无限画布式的产品的话，应该很容易上手。 而且你可以在这里一次性充值，就能用到几乎所有的图像和视频生成模型，非常方便。 我试了一下，这部分优化也挺好的，交互各方面都很方便。你拉过去以后，它就能直接选择节点并出现对应的设置，还能实现自动化批量运行。 第二部分就是 Skills： 它的 Skills 支持它所有的功能。你只需要在你的账号右上角生成一个 API Key，然后把它的开源 Skills 地址发给：你的龙虾或者是你的 Claude Code或者 Codex 其实都可以。 然后你的 agent 就可以去调用 LibTV 里面几乎所有的能力和所有的模型，去帮你自动化地生产：视频、图片、脚本。 比如我就直接给了它我那个项目的 GitHub 地址，然后让它读取信息，帮我生成一个类似高级化妆品广告的，这样一个生活方式的产品广告片。 你原有的 AI Agent 里的所有能力都可以调用，自动生成脚本，然后从脚本变成图片，从图片生成视频和音频。 比如说你可以让你的龙虾收集器在晚上帮你收集好昨天的 AI 新闻，然后调用 LibTV 帮你做成播客，甚至可以调用 LibTV 帮你做成视频。 这样你早上起来就可以“收菜”了，无论是你自己看还是发布出去都可以。 甚至你在 Liblib. tv 上创建了自动化的生成，然后你出去以后如果懒得打开网站，你也可以让你的 AI Agent 查询生成进度。 同时，你的 AI Agent 也可以操作你的微调项目，这样的话在外面不方便打开网页的时候也可以工作。 他们在定价上也非常猛：年卡最低可以到 39 折，订阅用户最高赠送 150 条 可灵O3 和 150 条 可灵 3.0。",
-      "url": "https://x.com/op7418/status/2034567141819613664",
-      "images": null,
-      "published": "2026-03-19T09:46:21+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2034441734298718538",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "而且微博的反倒是比较少，这下反过来了，他妈的，公众号成粪坑了。",
-      "url": "https://x.com/op7418/status/2034441734298718538",
-      "images": null,
-      "published": "2026-03-19T01:28:02+00:00",
       "hasTranscript": false
     },
     {
