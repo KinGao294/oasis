@@ -1,7 +1,245 @@
 {
-  "last_updated": "2026-03-23T01:55:12.109047Z",
+  "last_updated": "2026-03-24T01:47:18.435699Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2036256769429946567",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Openclaw 3.22 版本有个巨大的 bug， 打包的时候把网页的部分给漏掉了，导致没有办法打开网页。 建议更新到 3.23 版本，确实是 Vibe Coding，这也太草台了，我自己都不会出现这种问题。 顺便，Peter 在自动化构建的时候，也发生了跟我一样的问题。 就跟我写 Codepilot 一样，每次都会卡在苹果那个傻逼公证流程上，有时候一卡就是几个小时，我去，而且完事之后还超时失败。 歸藏(guizang.ai) (@op7418) OpenClaw 昨天憋了一周的更新发布了，主要是插件系统的重构。 现在的更新项如下： 1. 现在支持在 ClawHub 里面安装插件。 2. 同时兼容 Codex、Claude 和 Cursor 的插件系统。 — https://nitter.net/op7418/status/2036250151074013436#m",
+      "url": "https://x.com/op7418/status/2036256769429946567",
+      "images": null,
+      "published": "2026-03-24T01:40:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2036250716323586209",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "同分辨率 2K 下，Uni‑1 比 Nano Banana 2 大约便宜 10% 左右，比 Nano Banana Pro 便宜约 30%。 相较于 Nano Banana 2 没有太大优势",
+      "url": "https://x.com/op7418/status/2036250716323586209",
+      "images": null,
+      "published": "2026-03-24T01:16:17+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2036250151074013436",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "OpenClaw 昨天憋了一周的更新发布了，主要是插件系统的重构。 现在的更新项如下： 1. 现在支持在 ClawHub 里面安装插件。 2. 同时兼容 Codex、Claude 和 Cursor 的插件系统。 OpenClaw🦞 (@openclaw) OpenClaw 2026.3.22 🦞 🏪 ClawHub plugin marketplace 🤖 MiniMax M2.7, GPT-5.4-mini/nano + per-agent reasoning 💬 /btw side questions 🏖️ OpenShell + SSH sandboxes 🌐 Exa, Tavily, Firecrawl search This release is so big it needs its own table of contents. github.com/openclaw/openclaw… — https://nitter.net/openclaw/status/2036043904949330407#m",
+      "url": "https://x.com/op7418/status/2036250151074013436",
+      "images": null,
+      "published": "2026-03-24T01:14:02+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2036247992211292485",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Luma 发布了一个很厉害的图片模型 UN1 类似 Nano Banana 和 Midjourney 的集合体 支持常识场景补全、空间关系理解和合理的画面变化； 支持多图参考、风格迁移； 支持各种文化、审美、风格的图像生成和理解，尤其是对当代视觉文化和梗图的生成； 最重要的看起来支持中文； Luma (@LumaLabsAI) Uni-1 is here! A new kind of model that thinks and generates pixels simultaneously. Less artificial. More intelligent. Video — https://nitter.net/LumaLabsAI/status/2036107826498544110#m",
+      "url": "https://x.com/op7418/status/2036247992211292485",
+      "images": null,
+      "published": "2026-03-24T01:05:27+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_jHECsr9GCs8",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Why Every Satellite Needs Earth | Northwood CEO on a16z",
+      "url": "https://www.youtube.com/watch?v=jHECsr9GCs8",
+      "thumbnail": "https://img.youtube.com/vi/jHECsr9GCs8/maxresdefault.jpg",
+      "published": "2026-03-23T20:00:13+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_LonGTLDD9Qo",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Elon Musk in 2007.",
+      "url": "https://www.youtube.com/watch?v=LonGTLDD9Qo",
+      "thumbnail": "https://img.youtube.com/vi/LonGTLDD9Qo/maxresdefault.jpg",
+      "published": "2026-03-23T20:00:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2036147544300900790",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Updated my shortlist: • @tmrohan - Otherwise Fund • @lennysan - Lenny's newsletter • @cyantist - Long Journey • @brackin - Gradient • @KyleHParrish - early Figma • @vsodera - Supercharge • @DStrachman - 1517 • @alanaagoyal - basecase • @edsim - Boldstart • @fubini - XYZ • @sarahdrinkwater - Common Magic • @camillericketts - early Notion • @cjc - Linear, Stripe • @rauchg - Vercel • @haddartha - PM, Instagram • @OfficialLoganK - Deepmind • @artlevy - Brex • @scottbelsky - Adobe, A24 • @romainhuet - OpenAI • @chudson - Precursor Ventures • @annimaniac - Floodgate • @jsngr - lil fund • @jackmmcclelland - Afore VC • @rex_woodbury - Daybreak • @nikunj - FPV Ventures • @ashleymayer - Coalition VC • @BigMekaStyle - First Round • @mashadrokova - DayOne VC • @yrechtman - Slow • @akothari - Notion • @andreasklinger - Prototype Cap • @AstasiaMyers - Felicis • @bryce - Indie VC • @Markgher - MXV • @vedikaja_in - Weekend Fund • @sarahcat21 - Amplify • @hunterwalk - Homebrew • @KatieS - Moxxie Ventures • @alexiskold - 2048 Ventures • @yanatweets - angel investor • @varadh - angel investor • @AdamDraper - Boost VC • @vaibhavbetter - Better Capital • @soleio - angel investor • @jefielding - Everywhere VC • @calfonsorico - Cocoa VC • @erica_wenger - Park Rangers Cap • @ColinGardiner - Yonder • @sonyatweetybird - Sequoia • @hthieblot - Founders, Inc Ben Lang (@benln) Who are the pre-seed / seed investors every founder should want on their cap table these days? Refreshing my shortlist. — https://nitter.net/benln/status/2035780928090345672#m",
+      "url": "https://x.com/benln/status/2036147544300900790",
+      "images": null,
+      "published": "2026-03-23T18:26:19+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_vif8NQcjVf0",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
+      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
+      "thumbnail": "https://img.youtube.com/vi/vif8NQcjVf0/maxresdefault.jpg",
+      "published": "2026-03-23T16:24:14+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_g8Zs12L2kVU",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Let an AI Run My Life for 50 Days",
+      "url": "https://www.youtube.com/watch?v=g8Zs12L2kVU",
+      "thumbnail": "https://img.youtube.com/vi/g8Zs12L2kVU/maxresdefault.jpg",
+      "published": "2026-03-23T15:03:34+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2036089883429687579",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor is coming up in these cities: • Medellín - 3/25 • Cali - 3/28 • Singapore - 3/30 • HCMC - 4/1 • Cannes - 4/2 • Delft - 4/2 • Jakarta - 4/5 • Kuala Lumpur - 4/7 • Dublin - 4/11 • Copenhagen - 4/17 • Accra - 4/18 • Lagos - 4/25",
+      "url": "https://x.com/benln/status/2036089883429687579",
+      "images": null,
+      "published": "2026-03-23T14:37:11+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2036082139805180088",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "安装：github.com/NetEase/skills",
+      "url": "https://x.com/op7418/status/2036082139805180088",
+      "images": null,
+      "published": "2026-03-23T14:06:25+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2036081858770080070",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "功能列表",
+      "url": "https://x.com/op7418/status/2036081858770080070",
+      "images": null,
+      "published": "2026-03-23T14:05:18+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2036081766411514031",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "现在都 CLI 和 Skills 化了，网易云音乐都有了 还是得感谢龙虾，让国内这些，把数据当成宝贝的公司一夜间都变得开放了 看了一下需要去网易云音乐注册个人开发者，然后开通权限才能使用。 功能比较全面，拉取红心歌曲、获取歌词、获取歌单等都可以，不过下歌应该是不行的。",
+      "url": "https://x.com/op7418/status/2036081766411514031",
+      "images": null,
+      "published": "2026-03-23T14:04:56+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2035962067304505834",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "上了nitter.net/i/status/2035872378673… 歸藏(guizang.ai) (@op7418) Codepilot 0.38.5 版本已经支持微信桥接 github.com/op7418/CodePilot/… — https://nitter.net/op7418/status/2035872378673324446#m",
+      "url": "https://x.com/op7418/status/2035962067304505834",
+      "images": null,
+      "published": "2026-03-23T06:09:17+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2035875640331944064",
       "source": "归藏",
@@ -37,23 +275,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2035872378673324446",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codepilot 0.38.5 版本已经支持微信桥接 github.com/op7418/CodePilot/… 歸藏(guizang.ai) (@op7418) 微信这次也是急了，第一次这么快的追热点 上线 Openclaw 官方插件，只支持私聊 在“我-设置-插件”中启用微信 Clawbot 插件 然后在 Openclaw 安装后，扫描展示的二维码就能启用 目前正在灰度 我看看能不接到我的 Claude-to-im Skills 里面，让你的 Codex 和 Claude Code 也可以跟微信聊天 — https://nitter.net/op7418/status/2035564154636087770#m",
-      "url": "https://x.com/op7418/status/2035872378673324446",
-      "images": null,
-      "published": "2026-03-23T00:12:54+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2035780928090345672",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -71,40 +292,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2035744449129783600",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "今晚上线",
-      "url": "https://x.com/op7418/status/2035744449129783600",
-      "images": null,
-      "published": "2026-03-22T15:44:33+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2035735415534256424",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "今晚上线 歸藏(guizang.ai) (@op7418) 微信这次也是急了，第一次这么快的追热点 上线 Openclaw 官方插件，只支持私聊 在“我-设置-插件”中启用微信 Clawbot 插件 然后在 Openclaw 安装后，扫描展示的二维码就能启用 目前正在灰度 我看看能不接到我的 Claude-to-im Skills 里面，让你的 Codex 和 Claude Code 也可以跟微信聊天 — https://nitter.net/op7418/status/2035564154636087770#m",
-      "url": "https://x.com/op7418/status/2035735415534256424",
-      "images": null,
-      "published": "2026-03-22T15:08:39+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2035727665819189750",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -119,74 +306,6 @@
       "url": "https://x.com/benln/status/2035727665819189750",
       "images": null,
       "published": "2026-03-22T14:37:52+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2035564154636087770",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "微信这次也是急了，第一次这么快的追热点 上线 Openclaw 官方插件，只支持私聊 在“我-设置-插件”中启用微信 Clawbot 插件 然后在 Openclaw 安装后，扫描展示的二维码就能启用 目前正在灰度 我看看能不接到我的 Claude-to-im Skills 里面，让你的 Codex 和 Claude Code 也可以跟微信聊天",
-      "url": "https://x.com/op7418/status/2035564154636087770",
-      "images": null,
-      "published": "2026-03-22T03:48:08+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2035181977238917420",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "正确的配置方式",
-      "url": "https://x.com/op7418/status/2035181977238917420",
-      "images": null,
-      "published": "2026-03-21T02:29:29+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2035180804410941655",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "刚才处理了一个 Codepilot 里面非常典型的服务商配置问题 这也是很多人说自己按官方文档配置却不生效的原因 比如这个，他说他配置完了，也配置对了，但没有反应。 但我检查了一下 Log 发现，他配置的那个链接是错的： 1. 他配置的是 OpenAI 的兼容链接，而不是应该在 Claude Code 的这种 Anthropic 里面填的链接。 2. 他也没有用智谱的、我默认的那套逻辑去填（那个只需要填一个 Token 就没问题）。 他直接在那个三方 Anthropic 里面填的",
-      "url": "https://x.com/op7418/status/2035180804410941655",
-      "images": null,
-      "published": "2026-03-21T02:24:50+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2035165486628184468",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "真离谱啊，Cursor 昨天发布的 Composer-2 居然是基于 K2.5 训练的 他们的博客写得感觉像是他们训练从零的一样 而且到底基于 K2.5 做了多少程度的训练，其实也没有说清楚。 不过 Kimi 也解释说，他们给了技术授权。 Kimi.ai (@Kimi_Moonshot) Congrats to the @cursor_ai team on the launch of Composer 2! We are proud to see Kimi-k2.5 provide the foundation. Seeing our model integrated effectively through Cursor's continued pretraining & high-compute RL training is the open model ecosystem we love to support. Note: Cursor accesses Kimi-k2.5 via @FireworksAI_HQ ' hosted RL and inference platform as part of an authorized commercial partnership. — https://nitter.net/Kimi_Moonshot/status/2035074972943831491#m",
-      "url": "https://x.com/op7418/status/2035165486628184468",
-      "images": null,
-      "published": "2026-03-21T01:23:58+00:00",
       "hasTranscript": false
     },
     {
@@ -288,23 +407,6 @@
       "published": "2026-03-20T13:01:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2034844901641273589",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "如果你用的 API，或者想连接飞书之类的话，可以用我的 skill：nitter.net/i/status/2029563318973… 歸藏(guizang.ai) (@op7418) x.com/i/article/202956285551… — https://nitter.net/op7418/status/2029563318973952221#m",
-      "url": "https://x.com/op7418/status/2034844901641273589",
-      "images": null,
-      "published": "2026-03-20T04:10:04+00:00",
-      "hasTranscript": false
     },
     {
       "id": "pod_guigu101_pod_c457ca43_1305_44a3_b9cc_c68480802396",
@@ -545,40 +647,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2033257630588674537",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Buenos Aires",
-      "url": "https://x.com/benln/status/2033257630588674537",
-      "images": null,
-      "published": "2026-03-15T19:02:49+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2033225690225803735",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Who’s building today?",
-      "url": "https://x.com/benln/status/2033225690225803735",
-      "images": null,
-      "published": "2026-03-15T16:55:54+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_qh93rLRPw80",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -726,40 +794,6 @@
       "url": "https://www.youtube.com/watch?v=rhsSqr0jdFw",
       "thumbnail": "https://img.youtube.com/vi/rhsSqr0jdFw/maxresdefault.jpg",
       "published": "2026-03-10T17:42:29+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_U-TSafAIzXw",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Inside a16z’s Top 100 AI Apps Report with Olivia Moore",
-      "url": "https://www.youtube.com/watch?v=U-TSafAIzXw",
-      "thumbnail": "https://img.youtube.com/vi/U-TSafAIzXw/maxresdefault.jpg",
-      "published": "2026-03-10T14:30:07+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_qTpCGe4A8PM",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Andrew Huberman: Peptides, Sleep Tech, and the End of Obesity",
-      "url": "https://www.youtube.com/watch?v=qTpCGe4A8PM",
-      "thumbnail": "https://img.youtube.com/vi/qTpCGe4A8PM/maxresdefault.jpg",
-      "published": "2026-03-09T15:08:30+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1315,23 +1349,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_Qp0rCU49lMs",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Michael Levin: Hidden Reality of Alien Intelligence & Biological Life | Lex Fridman Podcast #486",
-      "url": "https://www.youtube.com/watch?v=Qp0rCU49lMs",
-      "thumbnail": "https://img.youtube.com/vi/Qp0rCU49lMs/maxresdefault.jpg",
-      "published": "2025-11-30T19:30:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_ESObIvXrKZI",
       "source": "老高与茉莉",
       "sourceId": "laogao",
@@ -1378,23 +1395,6 @@
       "url": "https://www.youtube.com/watch?v=-F06-h8nnDg",
       "thumbnail": "https://img.youtube.com/vi/-F06-h8nnDg/maxresdefault.jpg",
       "published": "2025-10-21T08:40:15+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_wANPRZejSfg",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "This Shipping Container Powers 20,000 AI Chips",
-      "url": "https://www.youtube.com/watch?v=wANPRZejSfg",
-      "thumbnail": "https://img.youtube.com/vi/wANPRZejSfg/maxresdefault.jpg",
-      "published": "2025-10-16T15:00:06+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
