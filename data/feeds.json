@@ -1,7 +1,93 @@
 {
-  "last_updated": "2026-03-25T01:52:33.344336Z",
+  "last_updated": "2026-03-26T01:59:08.090640Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_L0e9yTxnzvw",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Marc Andreessen was tech support for Mosaic.",
+      "url": "https://www.youtube.com/watch?v=L0e9yTxnzvw",
+      "thumbnail": "https://img.youtube.com/vi/L0e9yTxnzvw/maxresdefault.jpg",
+      "published": "2026-03-25T20:00:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_d97446f1_d6e3_4894_89d1_dca0a362b10b",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/d97446f1-d6e3-4894-89d1-dca0a362b10b.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 3981,
+      "published": "2026-03-25T17:00:00-07:00",
+      "hasTranscript": false,
+      "transcriptPreview": "本期播客是硅谷101在GTC 2026大会期间的线下特别录制，我们从老黄在Keynote上抛出的那几个大数字开始聊起： 1万亿——这是黄仁勋预期到2027年底，Blackwell和Vera Rubin两个平台带来的订单收入。 7块——这是大会一次性发布的Vera Rubin新芯片数量。 10倍、35倍——这是Vera Rubin NVL72 AI机架系统，相比Blackwell，它的推理效率提升了"
+    },
+    {
+      "id": "yt_H8GMRxG8suw",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Episode 15 - Inside the Model Spec",
+      "url": "https://www.youtube.com/watch?v=H8GMRxG8suw",
+      "thumbnail": "https://img.youtube.com/vi/H8GMRxG8suw/maxresdefault.jpg",
+      "published": "2026-03-25T16:55:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2036796562576171015",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Best career hack is to make sure you’re the person in the room who's always having fun.",
+      "url": "https://x.com/benln/status/2036796562576171015",
+      "images": null,
+      "published": "2026-03-25T13:25:17+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2036633979064025493",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Twitter 的分成收益算法又要改了，会提高本地区曝光的权重 同样的浏览，如果你的受众跟你的语言、地区或者相邻国家一致，那么你的分成比例就是正常的 如果你的内容受众和你所在的地区、所发的语言不一致，那你获得的收益就会大幅减少。 就比如说你是个中国人，所在地区是中国或者是日本，但你每天发关于美国政治的内容，那这部分受到的影响就会比较大。 Twitter 主要是为了减少境外运作的账号，不让那些海外的账号通过讨论美国内容去赚钱。 但很多人质疑，他们国家本来 Twitter 的受众就少，如果按这样的逻辑，他发的内容在他本国就几乎没人看，那他的收益肯定会大幅减少。 短期来看，这会减少一些境外账号的攻击行为，以及针对美国政治的套利行为。 长期来看，这会让 Twitter 更加本地化和多中心化。但主要的影响，还是那些所在国家人数较少的创作者。 如果他考虑语言的权重比较多，对于中文社区的推特用户（或者说中文社区的用户）来说，影响就不大，因为我们本来受众就是这么多。 Nikita Bier (@nikitabier) Starting Thursday, we'll be updating our revenue sharing incentives to better reward the content we want on X: We will be giving more weight to impressions from your home region—to encourage content that resonates with people in your country, in neighboring countries and people who speak your language. While we appreciate everyone's opinion on American politics, we hope this will disincentivize gaming the attention of US or Japanese accounts and instead, drive diverse conversations on the platform. We invite creators to start building an audience locally. X will be a much richer community when there's relevant posts for people in all parts of the world. Community note: Elon Musk has put this change on hold. “We will pause moving forward with this until further consideration” x.com/elonmusk/statu… — https://nitter.net/nikitabier/status/2036603028619534564#m",
+      "url": "https://x.com/op7418/status/2036633979064025493",
+      "images": null,
+      "published": "2026-03-25T02:39:14+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2036620002095464936",
       "source": "归藏",
@@ -255,23 +341,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2036247992211292485",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Luma 发布了一个很厉害的图片模型 UN1 类似 Nano Banana 和 Midjourney 的集合体 支持常识场景补全、空间关系理解和合理的画面变化； 支持多图参考、风格迁移； 支持各种文化、审美、风格的图像生成和理解，尤其是对当代视觉文化和梗图的生成； 最重要的看起来支持中文； Luma (@LumaLabsAI) Uni-1 is here! A new kind of model that thinks and generates pixels simultaneously. Less artificial. More intelligent. Video — https://nitter.net/LumaLabsAI/status/2036107826498544110#m",
-      "url": "https://x.com/op7418/status/2036247992211292485",
-      "images": null,
-      "published": "2026-03-24T01:05:27+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_jHECsr9GCs8",
       "source": "a16z",
       "sourceId": "a16z",
@@ -281,7 +350,7 @@
         "Business",
         "AI"
       ],
-      "title": "Why Every Satellite Needs Earth | Northwood CEO on a16z",
+      "title": "Inside The $100M Bet on the Future of Space | Northwood CEO on a16z",
       "url": "https://www.youtube.com/watch?v=jHECsr9GCs8",
       "thumbnail": "https://img.youtube.com/vi/jHECsr9GCs8/maxresdefault.jpg",
       "published": "2026-03-23T20:00:13+00:00",
@@ -578,23 +647,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2034336424619614424",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "One of the all-time great cold emails:",
-      "url": "https://x.com/benln/status/2034336424619614424",
-      "images": null,
-      "published": "2026-03-18T18:29:34+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_CEOiwEemiTA",
       "source": "a16z",
       "sourceId": "a16z",
@@ -728,23 +780,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_tL3sXpxpCPs",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Emil Michael: The Department of War Is Moving Faster Than Silicon Valley on AI | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=tL3sXpxpCPs",
-      "thumbnail": "https://img.youtube.com/vi/tL3sXpxpCPs/maxresdefault.jpg",
-      "published": "2026-03-13T16:42:31+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_jjXuP89i5T0",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -810,22 +845,6 @@
       "url": "https://www.youtube.com/watch?v=gZQQR_tDGuM",
       "thumbnail": "https://img.youtube.com/vi/gZQQR_tDGuM/maxresdefault.jpg",
       "published": "2026-03-11T20:11:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_fyQHPEAFJG8",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Rakuten x Codex: Recovery Time Reduced by 50%",
-      "url": "https://www.youtube.com/watch?v=fyQHPEAFJG8",
-      "thumbnail": "https://img.youtube.com/vi/fyQHPEAFJG8/maxresdefault.jpg",
-      "published": "2026-03-11T19:57:25+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1210,25 +1229,6 @@
       "published": "2026-01-29T10:50:14+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "pod_guigu101_pod_7966d048_80a2_4592_bb25_54d8b2827c91",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E222｜紧身裤消失，谁在定义时尚潮流？",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/7966d048-80a2-4592-bb25-54d8b2827c91.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 3727,
-      "published": "2026-01-25T16:00:00-08:00",
-      "hasTranscript": false,
-      "transcriptPreview": "紧身裤几乎快从商场和电商页面上消失了。 尽管它是这个世纪10年代的爆火单品，但人们正在以光速厌弃它。零售情报公司Edited发现，截至2025年第一季度，紧身裤在运动品牌下装中的占比已经从2022年的47%回落到了39%，取而代之的是，各种宽松版型的裤子正在占领人们的衣橱。除此之外，过去长期被认为很土、穿着像米其林的排骨羽绒服，成为了这个冬天最畅销的外套款式之一。 曾经的爆款为什么跌落神坛？曾经的"
     },
     {
       "id": "yt_8bSAP6VVsd0",
