@@ -1,7 +1,123 @@
 {
-  "last_updated": "2026-03-26T01:59:08.090640Z",
-  "count": 101,
+  "last_updated": "2026-03-27T01:59:58.135483Z",
+  "count": 100,
   "items": [
+    {
+      "id": "x_2037343745507823968",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codex 终于支持 Plugins 插件了 而且内置了不少有用的插件比如 Slack、Figma、Notion 等 插件在 Codex App、CLI 和 IDE 扩展中通用 而且也内置了插件创建的功能。 点击插件页面右上角的“创建插件”，然后跟 Codex 说你要创建什么类型的插件就可以了。 OpenAI Developers (@OpenAIDevs) We're rolling out plugins in Codex. Codex now works seamlessly out of the box with the most important tools builders already use, like @SlackHQ, @Figma, @NotionHQ, @gmail, and more. developers.openai.com/codex/… Video — https://nitter.net/OpenAIDevs/status/2037296316104282119#m",
+      "url": "https://x.com/op7418/status/2037343745507823968",
+      "images": null,
+      "published": "2026-03-27T01:39:35+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_fFboNpWweyE",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "ChatGPT Shopping | Research and compare products without all the tabs.",
+      "url": "https://www.youtube.com/watch?v=fFboNpWweyE",
+      "thumbnail": "https://img.youtube.com/vi/fFboNpWweyE/maxresdefault.jpg",
+      "published": "2026-03-26T20:31:28+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2037256558791307276",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Knowing how to send great cold emails is a superpower. The best ones: • 2-3 sentences, read like a text • have a clear ask • no signature • thoughtfully personalized • punchy subject line • avoid vague requests like \"pick your brain\" • don't look like AI was used",
+      "url": "https://x.com/benln/status/2037256558791307276",
+      "images": null,
+      "published": "2026-03-26T19:53:08+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_yUjfp2DlfCA",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "What Codex Unlocks for Ryan Hendler, dev at me&u",
+      "url": "https://www.youtube.com/watch?v=yUjfp2DlfCA",
+      "thumbnail": "https://img.youtube.com/vi/yUjfp2DlfCA/maxresdefault.jpg",
+      "published": "2026-03-26T17:18:07+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_4_P7R8Fjrg8",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "What Codex Unlocks for Ryan Hendler, dev at me&u",
+      "url": "https://www.youtube.com/watch?v=4_P7R8Fjrg8",
+      "thumbnail": "https://img.youtube.com/vi/4_P7R8Fjrg8/maxresdefault.jpg",
+      "published": "2026-03-26T17:07:55+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_UncP_NShij4",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Differences Between The Leading AI Models",
+      "url": "https://www.youtube.com/watch?v=UncP_NShij4",
+      "thumbnail": "https://img.youtube.com/vi/UncP_NShij4/maxresdefault.jpg",
+      "published": "2026-03-26T16:04:39+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2037166179618283853",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "We're booking out a cafe on April 16th in Lisbon Grab coffee, Cursor credits, meet the team, and build together",
+      "url": "https://x.com/benln/status/2037166179618283853",
+      "images": null,
+      "published": "2026-03-26T13:54:00+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_L0e9yTxnzvw",
       "source": "a16z",
@@ -324,23 +440,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2036250151074013436",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "OpenClaw 昨天憋了一周的更新发布了，主要是插件系统的重构。 现在的更新项如下： 1. 现在支持在 ClawHub 里面安装插件。 2. 同时兼容 Codex、Claude 和 Cursor 的插件系统。 OpenClaw🦞 (@openclaw) OpenClaw 2026.3.22 🦞 🏪 ClawHub plugin marketplace 🤖 MiniMax M2.7, GPT-5.4-mini/nano + per-agent reasoning 💬 /btw side questions 🏖️ OpenShell + SSH sandboxes 🌐 Exa, Tavily, Firecrawl search This release is so big it needs its own table of contents. github.com/openclaw/openclaw… — https://nitter.net/openclaw/status/2036043904949330407#m",
-      "url": "https://x.com/op7418/status/2036250151074013436",
-      "images": null,
-      "published": "2026-03-24T01:14:02+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_jHECsr9GCs8",
       "source": "a16z",
       "sourceId": "a16z",
@@ -596,40 +695,6 @@
       "transcriptPreview": "这几年，如果说全球制造业里，有哪个故事最值得被重新讲一遍，那一定是动力电池。 中国在动力电池产业链中，建立了极强的优势。当欧洲电池巨头Northvolt破产，日韩也不再具备领先地位，很多人会问：为什么很多原始技术并非源自中国，但最后却是中国把它做成了最完整、强势的产业？这背后到底是政策红利、市场规模，还是极致的工程能力在起作用 ？ 这一期节目，我们邀请了材料学博士、TDK Ventures 投资人"
     },
     {
-      "id": "x_2034670151740653632",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "You can now build with Composer 2 Cursor (@cursor_ai) Composer 2 is now available in Cursor. — https://nitter.net/cursor_ai/status/2034668943676244133#m",
-      "url": "https://x.com/benln/status/2034670151740653632",
-      "images": null,
-      "published": "2026-03-19T16:35:41+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2034642781449162976",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Bangkok",
-      "url": "https://x.com/benln/status/2034642781449162976",
-      "images": null,
-      "published": "2026-03-19T14:46:55+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_ZEAoEPLedeY",
       "source": "a16z",
       "sourceId": "a16z",
@@ -714,22 +779,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_VAzryGwnJW8",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Building AI for better healthcare — the OpenAI Podcast Ep. 14",
-      "url": "https://www.youtube.com/watch?v=VAzryGwnJW8",
-      "thumbnail": "https://img.youtube.com/vi/VAzryGwnJW8/maxresdefault.jpg",
-      "published": "2026-03-16T17:00:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_8SVocWnDHwE",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -760,22 +809,6 @@
       "url": "https://www.youtube.com/watch?v=N7kdFO4gSlo",
       "thumbnail": "https://img.youtube.com/vi/N7kdFO4gSlo/maxresdefault.jpg",
       "published": "2026-03-16T12:50:50+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_qh93rLRPw80",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "ChatGPT skills in beta for ChatGPT Business & Enterprise",
-      "url": "https://www.youtube.com/watch?v=qh93rLRPw80",
-      "thumbnail": "https://img.youtube.com/vi/qh93rLRPw80/maxresdefault.jpg",
-      "published": "2026-03-13T20:08:30+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -829,22 +862,6 @@
       "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
       "thumbnail": "https://img.youtube.com/vi/H9rF1CSSh-w/maxresdefault.jpg",
       "published": "2026-03-11T20:21:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_gZQQR_tDGuM",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Rakuten fixes issues twice as fast with Codex",
-      "url": "https://www.youtube.com/watch?v=gZQQR_tDGuM",
-      "thumbnail": "https://img.youtube.com/vi/gZQQR_tDGuM/maxresdefault.jpg",
-      "published": "2026-03-11T20:11:20+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1036,23 +1053,6 @@
       "url": "https://www.youtube.com/watch?v=jnSGYd3gdOs",
       "thumbnail": "https://img.youtube.com/vi/jnSGYd3gdOs/maxresdefault.jpg",
       "published": "2026-02-24T21:55:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Q8wVMdwhlh4",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The AI Agent Economy Is Here",
-      "url": "https://www.youtube.com/watch?v=Q8wVMdwhlh4",
-      "thumbnail": "https://img.youtube.com/vi/Q8wVMdwhlh4/maxresdefault.jpg",
-      "published": "2026-02-21T15:00:42+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1691,23 +1691,6 @@
       "published": "2020-12-09T10:55:12+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_9327720978",
-      "source": "Ryo Lu",
-      "sourceId": "ryolu",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "just doing school work",
-      "url": "https://x.com/rylooo/status/9327720978",
-      "images": null,
-      "published": "2010-02-19T09:27:07+00:00",
-      "hasTranscript": false
     }
   ]
 }
