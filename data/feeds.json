@@ -1,9 +1,57 @@
 {
-  "last_updated": "2026-03-27T01:59:58.135483Z",
-  "count": 100,
+  "last_updated": "2026-03-28T01:51:24.709003Z",
+  "count": 101,
   "items": [
     {
-      "id": "x_2037343745507823968",
+      "id": "yt_th8u0bqYsQk",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Find the perfect gift by shopping with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=th8u0bqYsQk",
+      "thumbnail": "https://img.youtube.com/vi/th8u0bqYsQk/maxresdefault.jpg",
+      "published": "2026-03-27T20:55:13+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_jM1oSEXssOE",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Design your dream room by shopping with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=jM1oSEXssOE",
+      "thumbnail": "https://img.youtube.com/vi/jM1oSEXssOE/maxresdefault.jpg",
+      "published": "2026-03-27T17:27:04+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_7IB1KBVm7HE",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Shopping in ChatGPT just got a whole lot more helpful",
+      "url": "https://www.youtube.com/watch?v=7IB1KBVm7HE",
+      "thumbnail": "https://img.youtube.com/vi/7IB1KBVm7HE/maxresdefault.jpg",
+      "published": "2026-03-27T17:12:13+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2037573713093394797",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -13,10 +61,214 @@
         "Design"
       ],
       "title": null,
-      "content": "Codex 终于支持 Plugins 插件了 而且内置了不少有用的插件比如 Slack、Figma、Notion 等 插件在 Codex App、CLI 和 IDE 扩展中通用 而且也内置了插件创建的功能。 点击插件页面右上角的“创建插件”，然后跟 Codex 说你要创建什么类型的插件就可以了。 OpenAI Developers (@OpenAIDevs) We're rolling out plugins in Codex. Codex now works seamlessly out of the box with the most important tools builders already use, like @SlackHQ, @Figma, @NotionHQ, @gmail, and more. developers.openai.com/codex/… Video — https://nitter.net/OpenAIDevs/status/2037296316104282119#m",
-      "url": "https://x.com/op7418/status/2037343745507823968",
+      "content": "详情：github.com/op7418/CodePilot/…",
+      "url": "https://x.com/op7418/status/2037573713093394797",
       "images": null,
-      "published": "2026-03-27T01:39:35+00:00",
+      "published": "2026-03-27T16:53:24+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2037573637319090188",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "CodePilot 0.40.0 版本应该是第一个全面拥抱 CLI 浪潮的 Agent 的产品！ 内置了很多AI 友好的 CLI 工具，有老牌的 FFmpeg，也有新增的 Strip 和网易云音乐。 同时，AI 能够帮你完成 CLI 工具的安装和入库，以及它清楚地知道应该如何使用这些工具。",
+      "url": "https://x.com/op7418/status/2037573637319090188",
+      "images": null,
+      "published": "2026-03-27T16:53:06+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2037570241144967222",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "牛批，谷歌 Chrome 有竖向标签栏了 启用方式，地址栏输入 chrome://flags/#vertical-tabs 启用后重启浏览器，然后在标签栏空白区域选择“将标签页移到侧边”",
+      "url": "https://x.com/op7418/status/2037570241144967222",
+      "images": null,
+      "published": "2026-03-27T16:39:36+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2037565551695016013",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Anthropic 又要发新模型了 很难想象这个比 Opus 大的 Mythos 会有多贵 TestingCatalog News 🗞 (@testingcatalog) BREAKING 🚨: Anthropic is preparing to release new models, Mythos and Capybara, where Mythos is a completely new tier of models, bigger then Opus. In the blog post, Anthropic also highlights that this model brings significant cybersecurity risks due to its capabilities. — https://nitter.net/testingcatalog/status/2037394888577216617#m",
+      "url": "https://x.com/op7418/status/2037565551695016013",
+      "images": null,
+      "published": "2026-03-27T16:20:58+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_YAyYCdCkwo4",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "What Tesla and SpaceX Teach Founders About Building Hardware | a16z",
+      "url": "https://www.youtube.com/watch?v=YAyYCdCkwo4",
+      "thumbnail": "https://img.youtube.com/vi/YAyYCdCkwo4/maxresdefault.jpg",
+      "published": "2026-03-27T14:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2037532535530401929",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "I genuinely think LinkedIn is great.",
+      "url": "https://x.com/benln/status/2037532535530401929",
+      "images": null,
+      "published": "2026-03-27T14:09:46+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_k2ZLQC8P7dc",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "François Chollet: Why Scaling Alone Isn’t Enough for AGI",
+      "url": "https://www.youtube.com/watch?v=k2ZLQC8P7dc",
+      "thumbnail": "https://img.youtube.com/vi/k2ZLQC8P7dc/maxresdefault.jpg",
+      "published": "2026-03-27T14:00:55+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2037488367106236493",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "更严重了",
+      "url": "https://x.com/op7418/status/2037488367106236493",
+      "images": null,
+      "published": "2026-03-27T11:14:16+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2037463994353775102",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "收到了 @vista8 乔木和姚金刚写的 GEO 的书 感觉无论是不是需要营销的，哪怕是从防范的角度，也需要了解一下这部分信息。 你可以不营销，但是别人会抢你的量。 所以在这块儿，乔木和金刚还是很专业的，推荐找个时间买来看看。",
+      "url": "https://x.com/op7418/status/2037463994353775102",
+      "images": null,
+      "published": "2026-03-27T09:37:25+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2037462800478716202",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Claude 非常懂事，知道周五了，又挂了",
+      "url": "https://x.com/op7418/status/2037462800478716202",
+      "images": null,
+      "published": "2026-03-27T09:32:40+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2037358982399148295",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Anthropic 又 tm 改账号的额度消耗方式了 与此同时，CodeX 全天候接下来一周所有用户都有两倍的额度，Open AI 🐂🍺 总额度是不变的，但是在高峰期，你的账号额度会消耗得更快。 所以逼用户把任务放在非高峰期去跑，而且这里的高峰期是按 PT 和 GMT 定义的。 所以美国和咱们这边的高峰期是一样的时间。你得在白天跑任务，不要在半夜跑。 Thariq (@trq212) To manage growing demand for Claude we're adjusting our 5 hour session limits for free/Pro/Max subs during peak hours. Your weekly limits remain unchanged. During weekdays between 5am–11am PT / 1pm–7pm GMT, you'll move through your 5-hour session limits faster than before. — https://nitter.net/trq212/status/2037254607001559305#m",
+      "url": "https://x.com/op7418/status/2037358982399148295",
+      "images": null,
+      "published": "2026-03-27T02:40:08+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2037357646983143507",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Stripe 也转向了为 Agent 构建 而且他们推出的也是 CLI，而不是 MCP 或者 SDK 这种东西 Stripe CLI 中新增了一个插件 Stripe Projects 升级到付费计划时，Stripe CLI 可以通过 Shared Payment Token 机制帮你把一次录入的支付方式安全地授权给各服务商完成扣费 无需重复在各个控制台里输入卡号，现在服务商付费也可以让 AI 帮你处理了 Stripe (@stripe) x.com/i/article/203463334708… — https://nitter.net/stripe/status/2037197998074335292#m",
+      "url": "https://x.com/op7418/status/2037357646983143507",
+      "images": null,
+      "published": "2026-03-27T02:34:49+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2037354938284831161",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "果子突然变得这么开放 有消息称在 iOS 27 里，Siri 将变成一个 AI 中枢，可以把请求转发给通过 App Store 安装的第三方大模型或 AI 助手 Siri 本身会迎来一次大改版，新增独立应用（Siri app）、更接近聊天机器人的界面，以及系统级的“Ask Siri”入口（例如在系统菜单中一键把当前内容发给 Siri）。 开发者需要在 iOS 27 中显式支持 Apple 提供的新集成能力，才能被 Siri 调用。 感觉不只是大厂的机会，小厂也有机会啊 Mark Gurman (@markgurman) BREAKING: Apple is planning to open up Siri to run any AI service via their App Store apps as part of iOS 27, dropping ChatGPT as the exclusive outside partner in Apple Intelligence and Siri. bloomberg.com/news/articles/… — https://nitter.net/markgurman/status/2037230804942610548#m",
+      "url": "https://x.com/op7418/status/2037354938284831161",
+      "images": null,
+      "published": "2026-03-27T02:24:04+00:00",
       "hasTranscript": false
     },
     {
@@ -188,74 +440,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2036633979064025493",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Twitter 的分成收益算法又要改了，会提高本地区曝光的权重 同样的浏览，如果你的受众跟你的语言、地区或者相邻国家一致，那么你的分成比例就是正常的 如果你的内容受众和你所在的地区、所发的语言不一致，那你获得的收益就会大幅减少。 就比如说你是个中国人，所在地区是中国或者是日本，但你每天发关于美国政治的内容，那这部分受到的影响就会比较大。 Twitter 主要是为了减少境外运作的账号，不让那些海外的账号通过讨论美国内容去赚钱。 但很多人质疑，他们国家本来 Twitter 的受众就少，如果按这样的逻辑，他发的内容在他本国就几乎没人看，那他的收益肯定会大幅减少。 短期来看，这会减少一些境外账号的攻击行为，以及针对美国政治的套利行为。 长期来看，这会让 Twitter 更加本地化和多中心化。但主要的影响，还是那些所在国家人数较少的创作者。 如果他考虑语言的权重比较多，对于中文社区的推特用户（或者说中文社区的用户）来说，影响就不大，因为我们本来受众就是这么多。 Nikita Bier (@nikitabier) Starting Thursday, we'll be updating our revenue sharing incentives to better reward the content we want on X: We will be giving more weight to impressions from your home region—to encourage content that resonates with people in your country, in neighboring countries and people who speak your language. While we appreciate everyone's opinion on American politics, we hope this will disincentivize gaming the attention of US or Japanese accounts and instead, drive diverse conversations on the platform. We invite creators to start building an audience locally. X will be a much richer community when there's relevant posts for people in all parts of the world. Community note: Elon Musk has put this change on hold. “We will pause moving forward with this until further consideration” x.com/elonmusk/statu… — https://nitter.net/nikitabier/status/2036603028619534564#m",
-      "url": "https://x.com/op7418/status/2036633979064025493",
-      "images": null,
-      "published": "2026-03-25T02:39:14+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2036620002095464936",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codepilot 0.39.0 更新 - 统一上下文层，消除冗余 MCP 加载 - 计划模式：Tabs 切换 UI、状态持久化 - Bridge 升级：CLI 工具上下文注入 + 补齐 SDK 选项 - 侧边栏三点菜单：项目支持删除，分屏移到三点菜单里 - 侧边栏窄宽度修复：ScrollArea display:table 溢出问题",
-      "url": "https://x.com/op7418/status/2036620002095464936",
-      "images": null,
-      "published": "2026-03-25T01:43:41+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2036609782891868298",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Claude Code 新增了一个自动模式 终于不需要你对每个文件处理和命令执行进行审批了！ 安全防护会在每个操作运行前进行检查，比以前的全部跳过权限审批更加安全 使用 claude --enable-auto-mode 启用，然后按 Shift+Tab 切换到这个模式 Video",
-      "url": "https://x.com/op7418/status/2036609782891868298",
-      "images": null,
-      "published": "2026-03-25T01:03:05+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2036601153056837742",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这个好玩🤩 3D 软件公司 Spline 发布了一个可以用 AI 帮你创建任何 3D 网页的产品 omma 聊天就可以创建非常炫酷的 3D 效果或者网页 3D 游戏，里面的代码和模型都是 AI 生成 Video",
-      "url": "https://x.com/op7418/status/2036601153056837742",
-      "images": null,
-      "published": "2026-03-25T00:28:47+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_ZA4IrqIyfzQ",
       "source": "a16z",
       "sourceId": "a16z",
@@ -352,91 +536,6 @@
       "url": "https://x.com/benln/status/2036448603598647723",
       "images": null,
       "published": "2026-03-24T14:22:37+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2036287228805259267",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "笑死，新版的 OpenClaw 因为更新了插件系统，导致微信的插件连接用不了了。 但是咱们这个还是可以用。 歸藏(guizang.ai) (@op7418) Claude Code 和 CodeX 远程连接到飞书 IM 的插件 Claude-to-IM-Skills 更新了！ 将你的 Claude Code 和 CodeX 远程连接到微信！ 而且配置方式极其简单：它会自动打开一个网页，你扫码就行。 — https://nitter.net/op7418/status/2036260385490346133#m",
-      "url": "https://x.com/op7418/status/2036287228805259267",
-      "images": null,
-      "published": "2026-03-24T03:41:22+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2036260385490346133",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Claude Code 和 CodeX 远程连接到飞书 IM 的插件 Claude-to-IM-Skills 更新了！ 将你的 Claude Code 和 CodeX 远程连接到微信！ 而且配置方式极其简单：它会自动打开一个网页，你扫码就行。 歸藏(guizang.ai) (@op7418) x.com/i/article/202956285551… — https://nitter.net/op7418/status/2029563318973952221#m",
-      "url": "https://x.com/op7418/status/2036260385490346133",
-      "images": null,
-      "published": "2026-03-24T01:54:42+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2036258883208147043",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Claude Code 更新了新的 /init 命令 现在运行不只会帮你写 Claude.md 还会扫描你的代码库询问相关信息，帮你配置对应的 Skills 、插件、Hook 将这段内容添加到 settings.json 开启：\"CLAUDE_CODE_NEW_INIT\": \"1\" Thariq (@trq212) we're testing a new version of /init based on your feedback- it should interview you and help setup skills, hooks, etc. you can enable it with this env_var flag: CLAUDE_CODE_NEW_INIT=1 claude would love your feedback! — https://nitter.net/trq212/status/2035799806640115806#m",
-      "url": "https://x.com/op7418/status/2036258883208147043",
-      "images": null,
-      "published": "2026-03-24T01:48:44+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2036256769429946567",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Openclaw 3.22 版本有个巨大的 bug， 打包的时候把网页的部分给漏掉了，导致没有办法打开网页。 建议更新到 3.23 版本，确实是 Vibe Coding，这也太草台了，我自己都不会出现这种问题。 顺便，Peter 在自动化构建的时候，也发生了跟我一样的问题。 就跟我写 Codepilot 一样，每次都会卡在苹果那个傻逼公证流程上，有时候一卡就是几个小时，我去，而且完事之后还超时失败。 歸藏(guizang.ai) (@op7418) OpenClaw 昨天憋了一周的更新发布了，主要是插件系统的重构。 现在的更新项如下： 1. 现在支持在 ClawHub 里面安装插件。 2. 同时兼容 Codex、Claude 和 Cursor 的插件系统。 — https://nitter.net/op7418/status/2036250151074013436#m",
-      "url": "https://x.com/op7418/status/2036256769429946567",
-      "images": null,
-      "published": "2026-03-24T01:40:20+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2036250716323586209",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "同分辨率 2K 下，Uni‑1 比 Nano Banana 2 大约便宜 10% 左右，比 Nano Banana Pro 便宜约 30%。 相较于 Nano Banana 2 没有太大优势",
-      "url": "https://x.com/op7418/status/2036250716323586209",
-      "images": null,
-      "published": "2026-03-24T01:16:17+00:00",
       "hasTranscript": false
     },
     {
@@ -593,38 +692,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_ApOVfOGWTJU",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "From your kitchen to customers | with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=ApOVfOGWTJU",
-      "thumbnail": "https://img.youtube.com/vi/ApOVfOGWTJU/maxresdefault.jpg",
-      "published": "2026-03-20T16:16:16+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_p2GKhlPMVO0",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Building a small business with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=p2GKhlPMVO0",
-      "thumbnail": "https://img.youtube.com/vi/p2GKhlPMVO0/maxresdefault.jpg",
-      "published": "2026-03-20T16:14:57+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_1LcH4lP9XbA",
       "source": "a16z",
       "sourceId": "a16z",
@@ -640,23 +707,6 @@
       "published": "2026-03-20T14:30:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2034995792272851006",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "I often re-read @natfriedman's personal website (former Github CEO)",
-      "url": "https://x.com/benln/status/2034995792272851006",
-      "images": null,
-      "published": "2026-03-20T14:09:39+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_PCypBUVhff8",
@@ -729,22 +779,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_uobQ5nOkPZ4",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Rakuten x Codex: AI can empower you",
-      "url": "https://www.youtube.com/watch?v=uobQ5nOkPZ4",
-      "thumbnail": "https://img.youtube.com/vi/uobQ5nOkPZ4/maxresdefault.jpg",
-      "published": "2026-03-17T21:00:42+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt__9SlOm6HHvg",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -792,23 +826,6 @@
       "url": "https://www.youtube.com/watch?v=8SVocWnDHwE",
       "thumbnail": "https://img.youtube.com/vi/8SVocWnDHwE/maxresdefault.jpg",
       "published": "2026-03-16T13:00:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_N7kdFO4gSlo",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Palantir CEO on Iran, AI Weapons and American Domination",
-      "url": "https://www.youtube.com/watch?v=N7kdFO4gSlo",
-      "thumbnail": "https://img.youtube.com/vi/N7kdFO4gSlo/maxresdefault.jpg",
-      "published": "2026-03-16T12:50:50+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1038,23 +1055,6 @@
       "published": "2026-02-25T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "他是霍金口中“地球上最聪明的人之一”，4岁下国际象棋，13岁获大师称号，却在一场对弈中突然顿悟，转身奔向人工智能。 他是DeepMind创始人，AlphaGo、AlphaFold背后的大脑，2024年诺贝尔化学奖得主。他也是那个因执念于强化学习险些错失大语言模型时代，又率领谷歌Gemini逆袭，成功回到牌桌的“孤傲天才”。 我们想聊聊哈萨比斯，不仅因为他的天才传奇，更想了解：发明终极技术的那一小撮"
-    },
-    {
-      "id": "yt_jnSGYd3gdOs",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Coding Will Be Solved For Everybody",
-      "url": "https://www.youtube.com/watch?v=jnSGYd3gdOs",
-      "thumbnail": "https://img.youtube.com/vi/jnSGYd3gdOs/maxresdefault.jpg",
-      "published": "2026-02-24T21:55:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_2o76-z12Ttk",
@@ -1691,6 +1691,23 @@
       "published": "2020-12-09T10:55:12+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_9327720978",
+      "source": "Ryo Lu",
+      "sourceId": "ryolu",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "just doing school work",
+      "url": "https://x.com/rylooo/status/9327720978",
+      "images": null,
+      "published": "2010-02-19T09:27:07+00:00",
+      "hasTranscript": false
     }
   ]
 }
