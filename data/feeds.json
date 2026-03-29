@@ -1,7 +1,109 @@
 {
-  "last_updated": "2026-03-28T01:51:24.709003Z",
+  "last_updated": "2026-03-29T02:02:30.224008Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2037889632424313194",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "skills在这里：nitter.net/i/status/2029563318973… 歸藏(guizang.ai) (@op7418) x.com/i/article/202956285551… — https://nitter.net/op7418/status/2029563318973952221#m",
+      "url": "https://x.com/op7418/status/2037889632424313194",
+      "images": null,
+      "published": "2026-03-28T13:48:45+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2037878486493192657",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "装上飞书这个 CLI，再装上藏师傅的 Claude to IM Skill。 你的 Claude Code 和 Codex 飞书协作的体验比小龙虾好一万倍！ 歸藏(guizang.ai) (@op7418) 飞书真牛逼，刚刚开源了他们的 CLI 工具！ 现在任何的 AI Agent 产品都可以调用飞书的所有能力。 飞书现在是全国所有产品里边，AI Agent 的友好度和开放程度、产品适配度都是最高的。 不只是小龙虾，哪怕是 CodeX、Claude Code 或者是其他类似的本地 AI 产品。 都可以用飞书帮你：创建文档、查看和编辑日历、管理群消息、创建多维表格，还有邮箱、视频会议的内容、任务、云空间，包括聊天和群管理，都开放了。 几乎你能想到的飞书所有能力，都在里面。 比如说让你的 AI 帮你去更新飞书日程，你跟他说创建什么日程、邀请哪些人之后，他就会自动去查看这些人的日历，同时帮你找一个合适的时间安排日程。 我自己让它连续创建三个日程，很快就创建好了。 同时它还能帮你编辑评论和创建飞书文档。 比如说，我本地可能有一些 Markdown 文件需要跟同事们分享，那我就可以让他帮我把本地的这个 Markdown 文件创建一个飞书文档。 最主要的是，它还可以帮你把这个 Markdown 文件变成飞书的文档格式，帮你美化这个文档，效果非常牛逼。 它还能编辑和创建多维表格。 我们知道，多维表格以及其配套的仪表盘看板是非常强大的功能，但由于表格本身具有复杂性，很多人觉得上手门槛比较高。 不过现在你不用担心了，AI 全部能帮你搞定。比如我这里让它分析了我过去一个月看过的所有文档（无论是我自己创建的还是别人发给我的），梳理之后，它帮我创建了一个非常清晰的仪表盘看板。 所有数据都是同步的：它会自动同步现有的数据，以后再有新文档发布，它也会实时同步更新。 我为了更新我的 Code Plan，还整了一个 CLI 工具的 Agent 友好评估。飞书的得分是最高分 5 分，基本上为 AI Agent 原生做的 CLI 工具该做的事它都做了。 比如说Json 格式输出、Dry Run，还有快速授权登录等。只需要跟 AI 说安装，然后让它帮你登录配置就可以。 完全不需要你在飞书后台操作那堆权限，只需要点一个按钮就可以完成授权。 而且这个东西是完全开源的，你可以自己去改和优化。 用小龙虾的朋友们，飞书的小龙虾官方插件很快也会包含这些内容，可以不用下载CLI。 — https://nitter.net/op7418/status/2037838579372896631#m",
+      "url": "https://x.com/op7418/status/2037878486493192657",
+      "images": null,
+      "published": "2026-03-28T13:04:27+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2037843350825672730",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "详情：github.com/op7418/CodePilot/…",
+      "url": "https://x.com/op7418/status/2037843350825672730",
+      "images": null,
+      "published": "2026-03-28T10:44:50+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2037842041754038301",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "藏师傅在 CodePilot 里做了一个 AI-native CLI 管理系统！ 新发布的网易云 CLI、飞书 CLI 和即梦 CLI，都可以在 CodePilot 一键安装和使用！ 在对话中告诉 AI 你想装什么工具，它会自动执行安装、处理权限问题、引导认证配置、生成工具简介。 每个 CLI 工具有 Agent 友好度评分（★★★★★）。 从 JSON 输出、Schema 自省、Dry Run 等 5 个维度评估对 AI的友好程度。 CLI 正在成为 AI Agent 的标准操作接口。藏师傅尝试让这个过程丝滑一点。 歸藏(guizang.ai) (@op7418) 飞书真牛逼，刚刚开源了他们的 CLI 工具！ 现在任何的 AI Agent 产品都可以调用飞书的所有能力。 飞书现在是全国所有产品里边，AI Agent 的友好度和开放程度、产品适配度都是最高的。 不只是小龙虾，哪怕是 CodeX、Claude Code 或者是其他类似的本地 AI 产品。 都可以用飞书帮你：创建文档、查看和编辑日历、管理群消息、创建多维表格，还有邮箱、视频会议的内容、任务、云空间，包括聊天和群管理，都开放了。 几乎你能想到的飞书所有能力，都在里面。 比如说让你的 AI 帮你去更新飞书日程，你跟他说创建什么日程、邀请哪些人之后，他就会自动去查看这些人的日历，同时帮你找一个合适的时间安排日程。 我自己让它连续创建三个日程，很快就创建好了。 同时它还能帮你编辑评论和创建飞书文档。 比如说，我本地可能有一些 Markdown 文件需要跟同事们分享，那我就可以让他帮我把本地的这个 Markdown 文件创建一个飞书文档。 最主要的是，它还可以帮你把这个 Markdown 文件变成飞书的文档格式，帮你美化这个文档，效果非常牛逼。 它还能编辑和创建多维表格。 我们知道，多维表格以及其配套的仪表盘看板是非常强大的功能，但由于表格本身具有复杂性，很多人觉得上手门槛比较高。 不过现在你不用担心了，AI 全部能帮你搞定。比如我这里让它分析了我过去一个月看过的所有文档（无论是我自己创建的还是别人发给我的），梳理之后，它帮我创建了一个非常清晰的仪表盘看板。 所有数据都是同步的：它会自动同步现有的数据，以后再有新文档发布，它也会实时同步更新。 我为了更新我的 Code Plan，还整了一个 CLI 工具的 Agent 友好评估。飞书的得分是最高分 5 分，基本上为 AI Agent 原生做的 CLI 工具该做的事它都做了。 比如说Json 格式输出、Dry Run，还有快速授权登录等。只需要跟 AI 说安装，然后让它帮你登录配置就可以。 完全不需要你在飞书后台操作那堆权限，只需要点一个按钮就可以完成授权。 而且这个东西是完全开源的，你可以自己去改和优化。 用小龙虾的朋友们，飞书的小龙虾官方插件很快也会包含这些内容，可以不用下载CLI。 — https://nitter.net/op7418/status/2037838579372896631#m",
+      "url": "https://x.com/op7418/status/2037842041754038301",
+      "images": null,
+      "published": "2026-03-28T10:39:38+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2037838625648566407",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "跟你的 AI 这么说就能安装： 帮我通过以下命令安装 lark-cli npm install -g @larksuite/cli 然后通过以下命令安装相关 skills npx skills add github.com/larksuite/cli -y -g 安装完成后，请给我发送应用配置链接，引导我完成应用的配置。",
+      "url": "https://x.com/op7418/status/2037838625648566407",
+      "images": null,
+      "published": "2026-03-28T10:26:04+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2037838579372896631",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "飞书真牛逼，刚刚开源了他们的 CLI 工具！ 现在任何的 AI Agent 产品都可以调用飞书的所有能力。 飞书现在是全国所有产品里边，AI Agent 的友好度和开放程度、产品适配度都是最高的。 不只是小龙虾，哪怕是 CodeX、Claude Code 或者是其他类似的本地 AI 产品。 都可以用飞书帮你：创建文档、查看和编辑日历、管理群消息、创建多维表格，还有邮箱、视频会议的内容、任务、云空间，包括聊天和群管理，都开放了。 几乎你能想到的飞书所有能力，都在里面。 比如说让你的 AI 帮你去更新飞书日程，你跟他说创建什么日程、邀请哪些人之后，他就会自动去查看这些人的日历，同时帮你找一个合适的时间安排日程。 我自己让它连续创建三个日程，很快就创建好了。 同时它还能帮你编辑评论和创建飞书文档。 比如说，我本地可能有一些 Markdown 文件需要跟同事们分享，那我就可以让他帮我把本地的这个 Markdown 文件创建一个飞书文档。 最主要的是，它还可以帮你把这个 Markdown 文件变成飞书的文档格式，帮你美化这个文档，效果非常牛逼。 它还能编辑和创建多维表格。 我们知道，多维表格以及其配套的仪表盘看板是非常强大的功能，但由于表格本身具有复杂性，很多人觉得上手门槛比较高。 不过现在你不用担心了，AI 全部能帮你搞定。比如我这里让它分析了我过去一个月看过的所有文档（无论是我自己创建的还是别人发给我的），梳理之后，它帮我创建了一个非常清晰的仪表盘看板。 所有数据都是同步的：它会自动同步现有的数据，以后再有新文档发布，它也会实时同步更新。 我为了更新我的 Code Plan，还整了一个 CLI 工具的 Agent 友好评估。飞书的得分是最高分 5 分，基本上为 AI Agent 原生做的 CLI 工具该做的事它都做了。 比如说Json 格式输出、Dry Run，还有快速授权登录等。只需要跟 AI 说安装，然后让它帮你登录配置就可以。 完全不需要你在飞书后台操作那堆权限，只需要点一个按钮就可以完成授权。 而且这个东西是完全开源的，你可以自己去改和优化。 用小龙虾的朋友们，飞书的小龙虾官方插件很快也会包含这些内容，可以不用下载CLI。",
+      "url": "https://x.com/op7418/status/2037838579372896631",
+      "images": null,
+      "published": "2026-03-28T10:25:53+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_th8u0bqYsQk",
       "source": "OpenAI",
@@ -128,7 +230,7 @@
         "Business",
         "AI"
       ],
-      "title": "What Tesla and SpaceX Teach Founders About Building Hardware | a16z",
+      "title": "Tesla and SpaceX Alumni on Elon Musk, Decision Velocity, and the Future of Hard Tech | a16z",
       "url": "https://www.youtube.com/watch?v=YAyYCdCkwo4",
       "thumbnail": "https://img.youtube.com/vi/YAyYCdCkwo4/maxresdefault.jpg",
       "published": "2026-03-27T14:30:00+00:00",
@@ -168,108 +270,6 @@
       "published": "2026-03-27T14:00:55+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2037488367106236493",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "更严重了",
-      "url": "https://x.com/op7418/status/2037488367106236493",
-      "images": null,
-      "published": "2026-03-27T11:14:16+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2037463994353775102",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "收到了 @vista8 乔木和姚金刚写的 GEO 的书 感觉无论是不是需要营销的，哪怕是从防范的角度，也需要了解一下这部分信息。 你可以不营销，但是别人会抢你的量。 所以在这块儿，乔木和金刚还是很专业的，推荐找个时间买来看看。",
-      "url": "https://x.com/op7418/status/2037463994353775102",
-      "images": null,
-      "published": "2026-03-27T09:37:25+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2037462800478716202",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Claude 非常懂事，知道周五了，又挂了",
-      "url": "https://x.com/op7418/status/2037462800478716202",
-      "images": null,
-      "published": "2026-03-27T09:32:40+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2037358982399148295",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Anthropic 又 tm 改账号的额度消耗方式了 与此同时，CodeX 全天候接下来一周所有用户都有两倍的额度，Open AI 🐂🍺 总额度是不变的，但是在高峰期，你的账号额度会消耗得更快。 所以逼用户把任务放在非高峰期去跑，而且这里的高峰期是按 PT 和 GMT 定义的。 所以美国和咱们这边的高峰期是一样的时间。你得在白天跑任务，不要在半夜跑。 Thariq (@trq212) To manage growing demand for Claude we're adjusting our 5 hour session limits for free/Pro/Max subs during peak hours. Your weekly limits remain unchanged. During weekdays between 5am–11am PT / 1pm–7pm GMT, you'll move through your 5-hour session limits faster than before. — https://nitter.net/trq212/status/2037254607001559305#m",
-      "url": "https://x.com/op7418/status/2037358982399148295",
-      "images": null,
-      "published": "2026-03-27T02:40:08+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2037357646983143507",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Stripe 也转向了为 Agent 构建 而且他们推出的也是 CLI，而不是 MCP 或者 SDK 这种东西 Stripe CLI 中新增了一个插件 Stripe Projects 升级到付费计划时，Stripe CLI 可以通过 Shared Payment Token 机制帮你把一次录入的支付方式安全地授权给各服务商完成扣费 无需重复在各个控制台里输入卡号，现在服务商付费也可以让 AI 帮你处理了 Stripe (@stripe) x.com/i/article/203463334708… — https://nitter.net/stripe/status/2037197998074335292#m",
-      "url": "https://x.com/op7418/status/2037357646983143507",
-      "images": null,
-      "published": "2026-03-27T02:34:49+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2037354938284831161",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "果子突然变得这么开放 有消息称在 iOS 27 里，Siri 将变成一个 AI 中枢，可以把请求转发给通过 App Store 安装的第三方大模型或 AI 助手 Siri 本身会迎来一次大改版，新增独立应用（Siri app）、更接近聊天机器人的界面，以及系统级的“Ask Siri”入口（例如在系统菜单中一键把当前内容发给 Siri）。 开发者需要在 iOS 27 中显式支持 Apple 提供的新集成能力，才能被 Siri 调用。 感觉不只是大厂的机会，小厂也有机会啊 Mark Gurman (@markgurman) BREAKING: Apple is planning to open up Siri to run any AI service via their App Store apps as part of iOS 27, dropping ChatGPT as the exclusive outside partner in Apple Intelligence and Siri. bloomberg.com/news/articles/… — https://nitter.net/markgurman/status/2037230804942610548#m",
-      "url": "https://x.com/op7418/status/2037354938284831161",
-      "images": null,
-      "published": "2026-03-27T02:24:04+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_fFboNpWweyE",
@@ -822,7 +822,7 @@
         "Business",
         "AI"
       ],
-      "title": "How AI Is Unlocking Millions Of New Builders",
+      "title": "AI Is Unlocking Millions Of New Builders",
       "url": "https://www.youtube.com/watch?v=8SVocWnDHwE",
       "thumbnail": "https://img.youtube.com/vi/8SVocWnDHwE/maxresdefault.jpg",
       "published": "2026-03-16T13:00:14+00:00",
