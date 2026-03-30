@@ -1,7 +1,109 @@
 {
-  "last_updated": "2026-03-29T02:02:30.224008Z",
+  "last_updated": "2026-03-30T02:04:51.290309Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2038280976841760875",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Quick practical examples to land more interviews at startups:",
+      "url": "https://x.com/benln/status/2038280976841760875",
+      "images": null,
+      "published": "2026-03-29T15:43:48+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2038226035624517699",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "是我自己写的 CodePilot Agent 的客户端哈",
+      "url": "https://x.com/op7418/status/2038226035624517699",
+      "images": null,
+      "published": "2026-03-29T12:05:29+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2038214645258047981",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "生成式 UI 的持久化看板，你甚至能给你的每个项目搭建一个专属的 UI 界面，里边的数据也是实时更新的。 这个东西非常牛逼，朋友们，理论上你能在 Code Pilot 里面再造一个 Code Pilot",
+      "url": "https://x.com/op7418/status/2038214645258047981",
+      "images": null,
+      "published": "2026-03-29T11:20:14+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2038097334677160111",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这个还有一个非常好的用处是网页指定区域渲染图片。 我们经常会出现一个情况：网页看的时候是对的，但截图生成以后就出问题了（比如内容超出去了或者重叠了）。 用这个项目就可以很好地解决这个问题。",
+      "url": "https://x.com/op7418/status/2038097334677160111",
+      "images": null,
+      "published": "2026-03-29T03:34:05+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2038095749159022800",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "想今天把它搞到 Codepilot 那个生成式 UI 的组件里试试。 详情：github.com/chenglou/pretext",
+      "url": "https://x.com/op7418/status/2038095749159022800",
+      "images": null,
+      "published": "2026-03-29T03:27:47+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2038095651234627600",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "昨天最牛逼的开源项目 Pretext 快速而且精准的文本测量算法，可以实现类似报纸的动态图文环绕效果。 这个对 AI 时代的 UI 实时生成非常有用。 有了这个以后，AI 就能清楚地知道每个字符的宽度和总宽度，不会出现闪烁、超出范围和抖动等问题。 Video",
+      "url": "https://x.com/op7418/status/2038095651234627600",
+      "images": null,
+      "published": "2026-03-29T03:27:23+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2037889632424313194",
       "source": "归藏",
@@ -88,23 +190,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2037838579372896631",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "飞书真牛逼，刚刚开源了他们的 CLI 工具！ 现在任何的 AI Agent 产品都可以调用飞书的所有能力。 飞书现在是全国所有产品里边，AI Agent 的友好度和开放程度、产品适配度都是最高的。 不只是小龙虾，哪怕是 CodeX、Claude Code 或者是其他类似的本地 AI 产品。 都可以用飞书帮你：创建文档、查看和编辑日历、管理群消息、创建多维表格，还有邮箱、视频会议的内容、任务、云空间，包括聊天和群管理，都开放了。 几乎你能想到的飞书所有能力，都在里面。 比如说让你的 AI 帮你去更新飞书日程，你跟他说创建什么日程、邀请哪些人之后，他就会自动去查看这些人的日历，同时帮你找一个合适的时间安排日程。 我自己让它连续创建三个日程，很快就创建好了。 同时它还能帮你编辑评论和创建飞书文档。 比如说，我本地可能有一些 Markdown 文件需要跟同事们分享，那我就可以让他帮我把本地的这个 Markdown 文件创建一个飞书文档。 最主要的是，它还可以帮你把这个 Markdown 文件变成飞书的文档格式，帮你美化这个文档，效果非常牛逼。 它还能编辑和创建多维表格。 我们知道，多维表格以及其配套的仪表盘看板是非常强大的功能，但由于表格本身具有复杂性，很多人觉得上手门槛比较高。 不过现在你不用担心了，AI 全部能帮你搞定。比如我这里让它分析了我过去一个月看过的所有文档（无论是我自己创建的还是别人发给我的），梳理之后，它帮我创建了一个非常清晰的仪表盘看板。 所有数据都是同步的：它会自动同步现有的数据，以后再有新文档发布，它也会实时同步更新。 我为了更新我的 Code Plan，还整了一个 CLI 工具的 Agent 友好评估。飞书的得分是最高分 5 分，基本上为 AI Agent 原生做的 CLI 工具该做的事它都做了。 比如说Json 格式输出、Dry Run，还有快速授权登录等。只需要跟 AI 说安装，然后让它帮你登录配置就可以。 完全不需要你在飞书后台操作那堆权限，只需要点一个按钮就可以完成授权。 而且这个东西是完全开源的，你可以自己去改和优化。 用小龙虾的朋友们，飞书的小龙虾官方插件很快也会包含这些内容，可以不用下载CLI。",
-      "url": "https://x.com/op7418/status/2037838579372896631",
-      "images": null,
-      "published": "2026-03-28T10:25:53+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_th8u0bqYsQk",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -119,6 +204,23 @@
       "published": "2026-03-27T20:55:13+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_2037597693166698724",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "hello hi, I am once again telling you THIS WORKS!! I sent @benln a cold email a month ago w/ a notion doc included on how I'd help scale @cursor_ai community AND NOW I WORK HERE! send the email. Ben Lang (@benln) Knowing how to send great cold emails is a superpower. The best ones: • 2-3 sentences, read like a text • have a clear ask • no signature • thoughtfully personalized • punchy subject line • avoid vague requests like \"pick your brain\" • don't look like AI was used — https://nitter.net/benln/status/2037256558791307276#m",
+      "url": "https://x.com/benln/status/2037597693166698724",
+      "images": null,
+      "published": "2026-03-27T18:28:41+00:00",
+      "hasTranscript": false
     },
     {
       "id": "yt_jM1oSEXssOE",
@@ -151,74 +253,6 @@
       "published": "2026-03-27T17:12:13+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2037573713093394797",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "详情：github.com/op7418/CodePilot/…",
-      "url": "https://x.com/op7418/status/2037573713093394797",
-      "images": null,
-      "published": "2026-03-27T16:53:24+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2037573637319090188",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "CodePilot 0.40.0 版本应该是第一个全面拥抱 CLI 浪潮的 Agent 的产品！ 内置了很多AI 友好的 CLI 工具，有老牌的 FFmpeg，也有新增的 Strip 和网易云音乐。 同时，AI 能够帮你完成 CLI 工具的安装和入库，以及它清楚地知道应该如何使用这些工具。",
-      "url": "https://x.com/op7418/status/2037573637319090188",
-      "images": null,
-      "published": "2026-03-27T16:53:06+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2037570241144967222",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "牛批，谷歌 Chrome 有竖向标签栏了 启用方式，地址栏输入 chrome://flags/#vertical-tabs 启用后重启浏览器，然后在标签栏空白区域选择“将标签页移到侧边”",
-      "url": "https://x.com/op7418/status/2037570241144967222",
-      "images": null,
-      "published": "2026-03-27T16:39:36+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2037565551695016013",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Anthropic 又要发新模型了 很难想象这个比 Opus 大的 Mythos 会有多贵 TestingCatalog News 🗞 (@testingcatalog) BREAKING 🚨: Anthropic is preparing to release new models, Mythos and Capybara, where Mythos is a completely new tier of models, bigger then Opus. In the blog post, Anthropic also highlights that this model brings significant cybersecurity risks due to its capabilities. — https://nitter.net/testingcatalog/status/2037394888577216617#m",
-      "url": "https://x.com/op7418/status/2037565551695016013",
-      "images": null,
-      "published": "2026-03-27T16:20:58+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_YAyYCdCkwo4",
@@ -638,40 +672,6 @@
       "url": "https://x.com/benln/status/2036089883429687579",
       "images": null,
       "published": "2026-03-23T14:37:11+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2035780928090345672",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Who are the pre-seed / seed investors every founder should want on their cap table these days? Refreshing my shortlist.",
-      "url": "https://x.com/benln/status/2035780928090345672",
-      "images": null,
-      "published": "2026-03-22T18:09:30+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2035727665819189750",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Hong Kong",
-      "url": "https://x.com/benln/status/2035727665819189750",
-      "images": null,
-      "published": "2026-03-22T14:37:52+00:00",
       "hasTranscript": false
     },
     {
