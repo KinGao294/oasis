@@ -1,7 +1,143 @@
 {
-  "last_updated": "2026-03-30T02:04:51.290309Z",
+  "last_updated": "2026-03-31T02:01:15.705159Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2038794973932576782",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "昨晚果子（Apple）在中国推送了 Apple Intelligence。 然后早上古尔曼（Mark Gurman）说是失误，本来不应该上线的，现在已经被下掉了。 但是很多人说，升级 iOS 26.4 以后依然可以更新和安装，而且这个功能没有被关闭，想要体验的可以试试。 Mark Gurman (@markgurman) Apple Intelligence launched in China in error - it’s been ready to go for months but Apple doesn’t yet have regulatory approval. There’s no imminent launch and this isn’t tied to the iOS 26.5 beta. Apple has pulled it offline. — https://nitter.net/markgurman/status/2038701276699967554#m",
+      "url": "https://x.com/op7418/status/2038794973932576782",
+      "images": null,
+      "published": "2026-03-31T01:46:15+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2038793945053098484",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "OpenAI 现在比 Anthropic 开放多了！ 现在能在 Claude Code 里调用 Codex 帮你审查代码！ 省得我来回复制了，还想自己写一个来着，没想到官方的就来了。 Open AI 出了一个官方插件，可以帮你在 Claude Code 里调用 Codex 总共支持 3 个命令： /codex:review 运行标准的只读 Codex 审查。 /codex:adversarial-review 运行可引导的挑战性审查，可以质疑实现逻辑。 /codex:rescue 直接将任务交给 Codex 处理。 安装插件： /plugin marketplace add openai/codex-plugin-cc /plugin install codex@openai-codex /codex:setup Vaibhav (VB) Srivastav (@reach_vb) x.com/i/article/203866059911… — https://nitter.net/reach_vb/status/2038670509768839458#m",
+      "url": "https://x.com/op7418/status/2038793945053098484",
+      "images": null,
+      "published": "2026-03-31T01:42:10+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2038670159259619644",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "The loudest story about AI is a lonely one. One person with an army of chatbots. Other humans are friction. That gets the future wrong. The best things aren’t built alone. In a moment of change, we want to remind the world (and ourselves) what Notion stands for: — Think Together Video",
+      "url": "https://x.com/benln/status/2038670159259619644",
+      "images": null,
+      "published": "2026-03-30T17:30:17+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_Afp90LAaXNw",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "\" It is very possible that the first people to live to a thousand are alive right now.\"",
+      "url": "https://www.youtube.com/watch?v=Afp90LAaXNw",
+      "thumbnail": "https://img.youtube.com/vi/Afp90LAaXNw/maxresdefault.jpg",
+      "published": "2026-03-30T17:26:44+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2038609345970114949",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Medellín",
+      "url": "https://x.com/benln/status/2038609345970114949",
+      "images": null,
+      "published": "2026-03-30T13:28:38+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2038560632677515452",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "几天没发视频，上抖音一看，1 万粉了。",
+      "url": "https://x.com/op7418/status/2038560632677515452",
+      "images": null,
+      "published": "2026-03-30T10:15:04+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2038453125733102021",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "企业微信甚至都做了 MCP！ 写了一篇文章分析了一下，为什么一夜之间大家都开始做 CLI 了，甚至是国内这些以封闭著称的厂商。 从 CLI 为什么突然变重要，到如何为 AI 构建 CLI。 和我在 CodePilot 里让 AI 管理自己工具的实验。 而且对关键概念都做了解释，即使你是个小白也能看懂。 歸藏(guizang.ai) (@op7418) x.com/i/article/203844655584… — https://nitter.net/op7418/status/2038450054688915868#m",
+      "url": "https://x.com/op7418/status/2038453125733102021",
+      "images": null,
+      "published": "2026-03-30T03:07:52+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2038450054688915868",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "x.com/i/article/203844655584…",
+      "url": "https://x.com/op7418/status/2038450054688915868",
+      "images": null,
+      "published": "2026-03-30T02:55:40+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2038280976841760875",
       "source": "Ben Lang",
@@ -102,91 +238,6 @@
       "url": "https://x.com/op7418/status/2038095651234627600",
       "images": null,
       "published": "2026-03-29T03:27:23+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2037889632424313194",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "skills在这里：nitter.net/i/status/2029563318973… 歸藏(guizang.ai) (@op7418) x.com/i/article/202956285551… — https://nitter.net/op7418/status/2029563318973952221#m",
-      "url": "https://x.com/op7418/status/2037889632424313194",
-      "images": null,
-      "published": "2026-03-28T13:48:45+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2037878486493192657",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "装上飞书这个 CLI，再装上藏师傅的 Claude to IM Skill。 你的 Claude Code 和 Codex 飞书协作的体验比小龙虾好一万倍！ 歸藏(guizang.ai) (@op7418) 飞书真牛逼，刚刚开源了他们的 CLI 工具！ 现在任何的 AI Agent 产品都可以调用飞书的所有能力。 飞书现在是全国所有产品里边，AI Agent 的友好度和开放程度、产品适配度都是最高的。 不只是小龙虾，哪怕是 CodeX、Claude Code 或者是其他类似的本地 AI 产品。 都可以用飞书帮你：创建文档、查看和编辑日历、管理群消息、创建多维表格，还有邮箱、视频会议的内容、任务、云空间，包括聊天和群管理，都开放了。 几乎你能想到的飞书所有能力，都在里面。 比如说让你的 AI 帮你去更新飞书日程，你跟他说创建什么日程、邀请哪些人之后，他就会自动去查看这些人的日历，同时帮你找一个合适的时间安排日程。 我自己让它连续创建三个日程，很快就创建好了。 同时它还能帮你编辑评论和创建飞书文档。 比如说，我本地可能有一些 Markdown 文件需要跟同事们分享，那我就可以让他帮我把本地的这个 Markdown 文件创建一个飞书文档。 最主要的是，它还可以帮你把这个 Markdown 文件变成飞书的文档格式，帮你美化这个文档，效果非常牛逼。 它还能编辑和创建多维表格。 我们知道，多维表格以及其配套的仪表盘看板是非常强大的功能，但由于表格本身具有复杂性，很多人觉得上手门槛比较高。 不过现在你不用担心了，AI 全部能帮你搞定。比如我这里让它分析了我过去一个月看过的所有文档（无论是我自己创建的还是别人发给我的），梳理之后，它帮我创建了一个非常清晰的仪表盘看板。 所有数据都是同步的：它会自动同步现有的数据，以后再有新文档发布，它也会实时同步更新。 我为了更新我的 Code Plan，还整了一个 CLI 工具的 Agent 友好评估。飞书的得分是最高分 5 分，基本上为 AI Agent 原生做的 CLI 工具该做的事它都做了。 比如说Json 格式输出、Dry Run，还有快速授权登录等。只需要跟 AI 说安装，然后让它帮你登录配置就可以。 完全不需要你在飞书后台操作那堆权限，只需要点一个按钮就可以完成授权。 而且这个东西是完全开源的，你可以自己去改和优化。 用小龙虾的朋友们，飞书的小龙虾官方插件很快也会包含这些内容，可以不用下载CLI。 — https://nitter.net/op7418/status/2037838579372896631#m",
-      "url": "https://x.com/op7418/status/2037878486493192657",
-      "images": null,
-      "published": "2026-03-28T13:04:27+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2037843350825672730",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "详情：github.com/op7418/CodePilot/…",
-      "url": "https://x.com/op7418/status/2037843350825672730",
-      "images": null,
-      "published": "2026-03-28T10:44:50+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2037842041754038301",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "藏师傅在 CodePilot 里做了一个 AI-native CLI 管理系统！ 新发布的网易云 CLI、飞书 CLI 和即梦 CLI，都可以在 CodePilot 一键安装和使用！ 在对话中告诉 AI 你想装什么工具，它会自动执行安装、处理权限问题、引导认证配置、生成工具简介。 每个 CLI 工具有 Agent 友好度评分（★★★★★）。 从 JSON 输出、Schema 自省、Dry Run 等 5 个维度评估对 AI的友好程度。 CLI 正在成为 AI Agent 的标准操作接口。藏师傅尝试让这个过程丝滑一点。 歸藏(guizang.ai) (@op7418) 飞书真牛逼，刚刚开源了他们的 CLI 工具！ 现在任何的 AI Agent 产品都可以调用飞书的所有能力。 飞书现在是全国所有产品里边，AI Agent 的友好度和开放程度、产品适配度都是最高的。 不只是小龙虾，哪怕是 CodeX、Claude Code 或者是其他类似的本地 AI 产品。 都可以用飞书帮你：创建文档、查看和编辑日历、管理群消息、创建多维表格，还有邮箱、视频会议的内容、任务、云空间，包括聊天和群管理，都开放了。 几乎你能想到的飞书所有能力，都在里面。 比如说让你的 AI 帮你去更新飞书日程，你跟他说创建什么日程、邀请哪些人之后，他就会自动去查看这些人的日历，同时帮你找一个合适的时间安排日程。 我自己让它连续创建三个日程，很快就创建好了。 同时它还能帮你编辑评论和创建飞书文档。 比如说，我本地可能有一些 Markdown 文件需要跟同事们分享，那我就可以让他帮我把本地的这个 Markdown 文件创建一个飞书文档。 最主要的是，它还可以帮你把这个 Markdown 文件变成飞书的文档格式，帮你美化这个文档，效果非常牛逼。 它还能编辑和创建多维表格。 我们知道，多维表格以及其配套的仪表盘看板是非常强大的功能，但由于表格本身具有复杂性，很多人觉得上手门槛比较高。 不过现在你不用担心了，AI 全部能帮你搞定。比如我这里让它分析了我过去一个月看过的所有文档（无论是我自己创建的还是别人发给我的），梳理之后，它帮我创建了一个非常清晰的仪表盘看板。 所有数据都是同步的：它会自动同步现有的数据，以后再有新文档发布，它也会实时同步更新。 我为了更新我的 Code Plan，还整了一个 CLI 工具的 Agent 友好评估。飞书的得分是最高分 5 分，基本上为 AI Agent 原生做的 CLI 工具该做的事它都做了。 比如说Json 格式输出、Dry Run，还有快速授权登录等。只需要跟 AI 说安装，然后让它帮你登录配置就可以。 完全不需要你在飞书后台操作那堆权限，只需要点一个按钮就可以完成授权。 而且这个东西是完全开源的，你可以自己去改和优化。 用小龙虾的朋友们，飞书的小龙虾官方插件很快也会包含这些内容，可以不用下载CLI。 — https://nitter.net/op7418/status/2037838579372896631#m",
-      "url": "https://x.com/op7418/status/2037842041754038301",
-      "images": null,
-      "published": "2026-03-28T10:39:38+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2037838625648566407",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "跟你的 AI 这么说就能安装： 帮我通过以下命令安装 lark-cli npm install -g @larksuite/cli 然后通过以下命令安装相关 skills npx skills add github.com/larksuite/cli -y -g 安装完成后，请给我发送应用配置链接，引导我完成应用的配置。",
-      "url": "https://x.com/op7418/status/2037838625648566407",
-      "images": null,
-      "published": "2026-03-28T10:26:04+00:00",
       "hasTranscript": false
     },
     {
@@ -607,23 +658,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2036147544300900790",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Updated my shortlist: • @tmrohan - Otherwise Fund • @lennysan - Lenny's newsletter • @cyantist - Long Journey • @brackin - Gradient • @KyleHParrish - early Figma • @vsodera - Supercharge • @DStrachman - 1517 • @alanaagoyal - basecase • @edsim - Boldstart • @fubini - XYZ • @sarahdrinkwater - Common Magic • @camillericketts - early Notion • @cjc - Linear, Stripe • @rauchg - Vercel • @haddartha - PM, Instagram • @OfficialLoganK - Deepmind • @artlevy - Brex • @scottbelsky - Adobe, A24 • @romainhuet - OpenAI • @chudson - Precursor Ventures • @annimaniac - Floodgate • @jsngr - lil fund • @jackmmcclelland - Afore VC • @rex_woodbury - Daybreak • @nikunj - FPV Ventures • @ashleymayer - Coalition VC • @BigMekaStyle - First Round • @mashadrokova - DayOne VC • @yrechtman - Slow • @akothari - Notion • @andreasklinger - Prototype Cap • @AstasiaMyers - Felicis • @bryce - Indie VC • @Markgher - MXV • @vedikaja_in - Weekend Fund • @sarahcat21 - Amplify • @hunterwalk - Homebrew • @KatieS - Moxxie Ventures • @alexiskold - 2048 Ventures • @yanatweets - angel investor • @varadh - angel investor • @AdamDraper - Boost VC • @vaibhavbetter - Better Capital • @soleio - angel investor • @jefielding - Everywhere VC • @calfonsorico - Cocoa VC • @erica_wenger - Park Rangers Cap • @ColinGardiner - Yonder • @sonyatweetybird - Sequoia • @hthieblot - Founders, Inc Ben Lang (@benln) Who are the pre-seed / seed investors every founder should want on their cap table these days? Refreshing my shortlist. — https://nitter.net/benln/status/2035780928090345672#m",
-      "url": "https://x.com/benln/status/2036147544300900790",
-      "images": null,
-      "published": "2026-03-23T18:26:19+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_vif8NQcjVf0",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -656,23 +690,6 @@
       "published": "2026-03-23T15:03:34+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2036089883429687579",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor is coming up in these cities: • Medellín - 3/25 • Cali - 3/28 • Singapore - 3/30 • HCMC - 4/1 • Cannes - 4/2 • Delft - 4/2 • Jakarta - 4/5 • Kuala Lumpur - 4/7 • Dublin - 4/11 • Copenhagen - 4/17 • Accra - 4/18 • Lagos - 4/25",
-      "url": "https://x.com/benln/status/2036089883429687579",
-      "images": null,
-      "published": "2026-03-23T14:37:11+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_d8tHo1sRQGA",
@@ -983,23 +1000,6 @@
       "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
       "thumbnail": "https://img.youtube.com/vi/1SJiTwbSI58/maxresdefault.jpg",
       "published": "2026-03-01T03:37:44+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_UPGB-hsAoVY",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Powerful Alternative To Fine-Tuning",
-      "url": "https://www.youtube.com/watch?v=UPGB-hsAoVY",
-      "thumbnail": "https://img.youtube.com/vi/UPGB-hsAoVY/maxresdefault.jpg",
-      "published": "2026-02-27T15:00:55+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
