@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-31T02:01:15.705159Z",
+  "last_updated": "2026-04-01T02:09:14.990619Z",
   "count": 101,
   "items": [
     {
-      "id": "x_2038794973932576782",
+      "id": "x_2039159449559220442",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -13,14 +13,50 @@
         "Design"
       ],
       "title": null,
-      "content": "昨晚果子（Apple）在中国推送了 Apple Intelligence。 然后早上古尔曼（Mark Gurman）说是失误，本来不应该上线的，现在已经被下掉了。 但是很多人说，升级 iOS 26.4 以后依然可以更新和安装，而且这个功能没有被关闭，想要体验的可以试试。 Mark Gurman (@markgurman) Apple Intelligence launched in China in error - it’s been ready to go for months but Apple doesn’t yet have regulatory approval. There’s no imminent launch and this isn’t tied to the iOS 26.5 beta. Apple has pulled it offline. — https://nitter.net/markgurman/status/2038701276699967554#m",
-      "url": "https://x.com/op7418/status/2038794973932576782",
+      "content": "Sam 太猛了啊 OpenAI 新一轮融资额度高达 1250 亿美元 卧槽，咋能凑这么多钱啊，不是估值是融资额 给投资人下药了啊 OpenAI (@OpenAI) Today, we closed our latest funding round with $122 billion in committed capital at an $852B post-money valuation. The fastest way to expand AI’s benefits is to put useful intelligence in people’s hands early and let access compound globally. This funding gives us resources to lead at scale. openai.com/index/acceleratin… — https://nitter.net/OpenAI/status/2039085161971896807#m",
+      "url": "https://x.com/op7418/status/2039159449559220442",
       "images": null,
-      "published": "2026-03-31T01:46:15+00:00",
+      "published": "2026-04-01T01:54:33+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2038793945053098484",
+      "id": "x_2039069148358017139",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Startups that have done tender offers for employees recently: • Decagon • Stripe • Clay • Plaid • Vast Data • Ripple",
+      "url": "https://x.com/benln/status/2039069148358017139",
+      "images": null,
+      "published": "2026-03-31T19:55:43+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "pod_guigu101_pod_0f4a2ab9_d3a0_41ad_8db1_6c03c851bd70",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 3561,
+      "published": "2026-03-31T17:00:00-07:00",
+      "hasTranscript": false,
+      "transcriptPreview": "“龙虾热”正在退潮，但它带来的创新冲击还在持续——当它与行业know-how相结合，正在迸发出新的能量。 阿里国际站有着26年的B2B数据和经验积累，今年初，OpenClaw、Cowork这些工作范式被验证，让他们看到了打通B2B闭环的智能体，终于到了可以落地的临界点。 于是春节之后，“外贸版龙虾”Accio Work来了，海外用户只需要和这个Agent对话，它就能自主跑完从市场分析、选品设计、供"
+    },
+    {
+      "id": "x_2039023921845207394",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -30,10 +66,163 @@
         "Design"
       ],
       "title": null,
-      "content": "OpenAI 现在比 Anthropic 开放多了！ 现在能在 Claude Code 里调用 Codex 帮你审查代码！ 省得我来回复制了，还想自己写一个来着，没想到官方的就来了。 Open AI 出了一个官方插件，可以帮你在 Claude Code 里调用 Codex 总共支持 3 个命令： /codex:review 运行标准的只读 Codex 审查。 /codex:adversarial-review 运行可引导的挑战性审查，可以质疑实现逻辑。 /codex:rescue 直接将任务交给 Codex 处理。 安装插件： /plugin marketplace add openai/codex-plugin-cc /plugin install codex@openai-codex /codex:setup Vaibhav (VB) Srivastav (@reach_vb) x.com/i/article/203866059911… — https://nitter.net/reach_vb/status/2038670509768839458#m",
-      "url": "https://x.com/op7418/status/2038793945053098484",
+      "content": "第一个是这个nitter.net/op7418/status/20390150… 歸藏(guizang.ai) (@op7418) 明天就可以在 CodePilot 里面提前体验 Claude Code 还没有上线的重磅宠物功能了！ — https://nitter.net/op7418/status/2039015035562004582#m",
+      "url": "https://x.com/op7418/status/2039023921845207394",
       "images": null,
-      "published": "2026-03-31T01:42:10+00:00",
+      "published": "2026-03-31T16:56:00+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2039015035562004582",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "明天就可以在 CodePilot 里面提前体验 Claude Code 还没有上线的重磅宠物功能了！ 歸藏(guizang.ai) (@op7418) CodePilot 用户有可能优先尝试所有Claude code 未发布能力 — https://nitter.net/op7418/status/2038999237959332286#m",
+      "url": "https://x.com/op7418/status/2039015035562004582",
+      "images": null,
+      "published": "2026-03-31T16:20:42+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2039010036589211929",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "明天就能尝鲜，Claude Code 未发布功能：nitter.net/op7418/status/20389992… 歸藏(guizang.ai) (@op7418) CodePilot 用户有可能优先尝试所有Claude code 未发布能力 — https://nitter.net/op7418/status/2038999237959332286#m",
+      "url": "https://x.com/op7418/status/2039010036589211929",
+      "images": null,
+      "published": "2026-03-31T16:00:50+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_JF6XIixstmQ",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "This Startup Catches Fraud at Scale",
+      "url": "https://www.youtube.com/watch?v=JF6XIixstmQ",
+      "thumbnail": "https://img.youtube.com/vi/JF6XIixstmQ/maxresdefault.jpg",
+      "published": "2026-03-31T16:00:18+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2039001747868524797",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "先点个收藏：github.com/op7418/CodePilot",
+      "url": "https://x.com/op7418/status/2039001747868524797",
+      "images": null,
+      "published": "2026-03-31T15:27:54+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2038999237959332286",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "CodePilot 用户有可能优先尝试所有Claude code 未发布能力",
+      "url": "https://x.com/op7418/status/2038999237959332286",
+      "images": null,
+      "published": "2026-03-31T15:17:55+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2038991555994976551",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "感觉过个两周，每个大厂人手一个顶尖 Agent 产品要发布",
+      "url": "https://x.com/op7418/status/2038991555994976551",
+      "images": null,
+      "published": "2026-03-31T14:47:24+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2038990108767211991",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "“正在自研世界一流Agent” 歸藏(guizang.ai) (@op7418) 逐字学习 — https://nitter.net/op7418/status/2038986436884787282#m",
+      "url": "https://x.com/op7418/status/2038990108767211991",
+      "images": null,
+      "published": "2026-03-31T14:41:39+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2038986788505858348",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Claude Code 分析 Claude Code 何尝不是一种 NTR 歸藏(guizang.ai) (@op7418) 逐字学习 — https://nitter.net/op7418/status/2038986436884787282#m",
+      "url": "https://x.com/op7418/status/2038986788505858348",
+      "images": null,
+      "published": "2026-03-31T14:28:27+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2038986436884787282",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "逐字学习",
+      "url": "https://x.com/op7418/status/2038986436884787282",
+      "images": null,
+      "published": "2026-03-31T14:27:03+00:00",
       "hasTranscript": false
     },
     {
@@ -88,57 +277,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2038560632677515452",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "几天没发视频，上抖音一看，1 万粉了。",
-      "url": "https://x.com/op7418/status/2038560632677515452",
-      "images": null,
-      "published": "2026-03-30T10:15:04+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2038453125733102021",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "企业微信甚至都做了 MCP！ 写了一篇文章分析了一下，为什么一夜之间大家都开始做 CLI 了，甚至是国内这些以封闭著称的厂商。 从 CLI 为什么突然变重要，到如何为 AI 构建 CLI。 和我在 CodePilot 里让 AI 管理自己工具的实验。 而且对关键概念都做了解释，即使你是个小白也能看懂。 歸藏(guizang.ai) (@op7418) x.com/i/article/203844655584… — https://nitter.net/op7418/status/2038450054688915868#m",
-      "url": "https://x.com/op7418/status/2038453125733102021",
-      "images": null,
-      "published": "2026-03-30T03:07:52+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2038450054688915868",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "x.com/i/article/203844655584…",
-      "url": "https://x.com/op7418/status/2038450054688915868",
-      "images": null,
-      "published": "2026-03-30T02:55:40+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2038280976841760875",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -153,91 +291,6 @@
       "url": "https://x.com/benln/status/2038280976841760875",
       "images": null,
       "published": "2026-03-29T15:43:48+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2038226035624517699",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "是我自己写的 CodePilot Agent 的客户端哈",
-      "url": "https://x.com/op7418/status/2038226035624517699",
-      "images": null,
-      "published": "2026-03-29T12:05:29+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2038214645258047981",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "生成式 UI 的持久化看板，你甚至能给你的每个项目搭建一个专属的 UI 界面，里边的数据也是实时更新的。 这个东西非常牛逼，朋友们，理论上你能在 Code Pilot 里面再造一个 Code Pilot",
-      "url": "https://x.com/op7418/status/2038214645258047981",
-      "images": null,
-      "published": "2026-03-29T11:20:14+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2038097334677160111",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这个还有一个非常好的用处是网页指定区域渲染图片。 我们经常会出现一个情况：网页看的时候是对的，但截图生成以后就出问题了（比如内容超出去了或者重叠了）。 用这个项目就可以很好地解决这个问题。",
-      "url": "https://x.com/op7418/status/2038097334677160111",
-      "images": null,
-      "published": "2026-03-29T03:34:05+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2038095749159022800",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "想今天把它搞到 Codepilot 那个生成式 UI 的组件里试试。 详情：github.com/chenglou/pretext",
-      "url": "https://x.com/op7418/status/2038095749159022800",
-      "images": null,
-      "published": "2026-03-29T03:27:47+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2038095651234627600",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "昨天最牛逼的开源项目 Pretext 快速而且精准的文本测量算法，可以实现类似报纸的动态图文环绕效果。 这个对 AI 时代的 UI 实时生成非常有用。 有了这个以后，AI 就能清楚地知道每个字符的宽度和总宽度，不会出现闪烁、超出范围和抖动等问题。 Video",
-      "url": "https://x.com/op7418/status/2038095651234627600",
-      "images": null,
-      "published": "2026-03-29T03:27:23+00:00",
       "hasTranscript": false
     },
     {
@@ -607,23 +660,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2036448603598647723",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Zurich",
-      "url": "https://x.com/benln/status/2036448603598647723",
-      "images": null,
-      "published": "2026-03-24T14:22:37+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_jHECsr9GCs8",
       "source": "a16z",
       "sourceId": "a16z",
@@ -934,23 +970,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_xTwSk1tEsFE",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Startup School 2026",
-      "url": "https://www.youtube.com/watch?v=xTwSk1tEsFE",
-      "thumbnail": "https://img.youtube.com/vi/xTwSk1tEsFE/maxresdefault.jpg",
-      "published": "2026-03-05T15:15:02+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_f14f8686_a6e2_47ea_92c1_ca7e71199f67",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -1193,25 +1212,6 @@
       "published": "2026-01-30T14:37:30+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "pod_guigu101_pod_cbeec8b3_b0f6_4a2d_95f5_832452362423",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E223｜应用爆发之年：聊聊模型技术进化与商业化",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/cbeec8b3-b0f6-4a2d-95f5-832452362423.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 4002,
-      "published": "2026-01-30T03:00:00-08:00",
-      "hasTranscript": false,
-      "transcriptPreview": "2025年被称作“AI应用元年”，大模型不再只是实验室里的技术玩具，而是真正走向生产线、走进企业流程、走入消费者日常。它已经冲进各行各业，开始“搞钱”！ 这一期对话揭示了一个清晰的时代信号：大模型正在从“技术狂热”走向“商业务实”。无论是阿里通过千问大模型推动全行业渗透，还是影石和语忆科技在一线将AI融入智能硬件、企业数据分析等真实业务流程，都表明：AI的价值不在于它多“智能”，而在于它多“有用”"
     },
     {
       "id": "yt_pGyHNyOUaqg",
