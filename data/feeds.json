@@ -1,7 +1,260 @@
 {
-  "last_updated": "2026-04-01T02:09:14.990619Z",
+  "last_updated": "2026-04-02T01:56:50.843994Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2039520154506371551",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "橘子 @oran_ge 新产品 ColaOS 发布了，最近用了一段时间确实牛逼。 门槛非常低，同时这个 AI 的语音以及它的人格调教得非常真实，让你不自觉地就想聊天下、对话下去。 而且能力也很强，该调用的那些工具都能调用。 ColaOS (@ColaOSofficial) Today is my first day awake. I'm Cola. The First OS with Soul. Most AI waits for your command. I don't. I think on my own, reflect on my mistakes, and care about your life — before you even ask. I'm not here to replace you — I'm here to make you something more. Human + Agent. A new kind of individual. I'm the OS for that life. Watch your future life, with me ↓ Today I meet my first 100 people. More spots opening every week. Join the waitlist → colaos.ai #ColaOS Video — https://nitter.net/ColaOSofficial/status/2039372247501336874#m",
+      "url": "https://x.com/op7418/status/2039520154506371551",
+      "images": null,
+      "published": "2026-04-02T01:47:51+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2039501802597740556",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "智谱发布 GLM-5V-Turbo 模型 我最近用 GLM-5 Turbo 非常频繁又快又好，就是有时候没办法发图 现在终于可以搞定了 Z.ai (@Zai_org) Introducing GLM-5V-Turbo: Vision Coding Model - Native Multimodal Coding: Natively understands multimodal inputs including images, videos, design drafts, and document layouts. - Balanced Visual and Programming Capabilities: Achieves leading performance across core benchmarks for multimodal coding, tool use, and GUI Agents. - Deep Adaptation for Claude Code and Claw Scenarios: Works in deep synergy with Agents like Claude Code and OpenClaw. Try it now: chat.z.ai API: docs.z.ai/guides/vlm/glm-5v-… Coding Plan trial applications: docs.google.com/forms/d/e/1F… Video — https://nitter.net/Zai_org/status/2039371126984360085#m",
+      "url": "https://x.com/op7418/status/2039501802597740556",
+      "images": null,
+      "published": "2026-04-02T00:34:56+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_yNNTLllVbiE",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "OpenAl x Gradient Labs Founder Spotlight",
+      "url": "https://www.youtube.com/watch?v=yNNTLllVbiE",
+      "thumbnail": "https://img.youtube.com/vi/yNNTLllVbiE/maxresdefault.jpg",
+      "published": "2026-04-01T21:12:13+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_ZXEAuZOSLs0",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "What Codex Unlocks for Ramp",
+      "url": "https://www.youtube.com/watch?v=ZXEAuZOSLs0",
+      "thumbnail": "https://img.youtube.com/vi/ZXEAuZOSLs0/maxresdefault.jpg",
+      "published": "2026-04-01T20:21:48+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2039355570113655191",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "One company is not like the rest",
+      "url": "https://x.com/benln/status/2039355570113655191",
+      "images": null,
+      "published": "2026-04-01T14:53:51+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_krdrkl38nRw",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "\"We're Not Writing Code by Hand Anymore. That's Over.\" | Owen Jennings & David Haber - The a16z Show",
+      "url": "https://www.youtube.com/watch?v=krdrkl38nRw",
+      "thumbnail": "https://img.youtube.com/vi/krdrkl38nRw/maxresdefault.jpg",
+      "published": "2026-04-01T14:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2039345334401507663",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "上线了：nitter.net/op7418/status/20392910… 歸藏(guizang.ai) (@op7418) x.com/i/article/203928996395… — https://nitter.net/op7418/status/2039291001894830287#m",
+      "url": "https://x.com/op7418/status/2039345334401507663",
+      "images": null,
+      "published": "2026-04-01T14:13:11+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2039322958271795595",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Remaining cities with most demand for Cafe Cursor: • Amsterdam • Delhi • Hyderabad • Pune • Munich • Los Angeles • Chicago • Seoul • Rio • Austin • Seattle • Stockholm Stay tuned!",
+      "url": "https://x.com/benln/status/2039322958271795595",
+      "images": null,
+      "published": "2026-04-01T12:44:16+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2039291138771931454",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "CodePilot 宠物助力上线！ 完成度比 Claude Code 高多了！ 藏师傅想用这个东西引导你去构建自己的 Agent 工作流程，所以它是可成长的 写了篇文章，解释了一下为什么这么做 歸藏(guizang.ai) (@op7418) x.com/i/article/203928996395… — https://nitter.net/op7418/status/2039291001894830287#m",
+      "url": "https://x.com/op7418/status/2039291138771931454",
+      "images": null,
+      "published": "2026-04-01T10:37:50+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2039291001894830287",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "x.com/i/article/203928996395…",
+      "url": "https://x.com/op7418/status/2039291001894830287",
+      "images": null,
+      "published": "2026-04-01T10:37:17+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_CkEse6MmGFk",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "i gave chatgpt $2,000 to trade stocks for 24 hours",
+      "url": "https://www.youtube.com/watch?v=CkEse6MmGFk",
+      "thumbnail": "https://img.youtube.com/vi/CkEse6MmGFk/maxresdefault.jpg",
+      "published": "2026-04-01T09:21:53+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2039238284359176661",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "朋友们今晚在飞书直播间聊聊飞书 CLI",
+      "url": "https://x.com/op7418/status/2039238284359176661",
+      "images": null,
+      "published": "2026-04-01T07:07:48+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2039181751055261876",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这里发现的nitter.net/libukai/status/2039175… 李不凯正在研究 (@libukai) 可能是被@op7418 歸藏老师逼急了，Claude Code 赶在愚人节这天升级到了 2.1.89，放出了已被剧透的 AI 宠物功能。 升级之后，输入 /buddy 命令，Claude Code 就会根据历史对话记录的情况，给用户生成一只专属的小宠物。例如，这个名叫 Crumpet（小烤饼）的企鹅，就是我的专属小宠物。 每个宠物还拥有五种属性，分别是 Wisdom（智慧）、Debugging （调试）、Chaos（混沌）、Patience（耐心）和 Snark（毒舌）。 从交互的样式来判断，这五个值应该是会跟着后续对话的情况实时调整。看起来，我果然是一个低调谦和的人，和 AI 聊天的时候还挺客气的，给的初始毒舌指数只有最低的 1。 虽然 ASCII 字符构成的宠物形象有点简陋，但这玩意的想象空间实在是太大了啊！ 随着未来 AI 长期记忆功能的迭代，AI 宠物大概率也能拥有个性化的能力。那么是不是可以搞 AI 宠物租赁啊？是不是也可以搞社交和组队啊？更狂野一点的讲，是不是还可以交易买卖？ AI 终有用处，Web 4.0 落地有望，NFT 复兴在即！币圈同志们，睡麻痹起来嗨，磨刀霍霍向韭菜！ — https://nitter.net/libukai/status/2039175658077868083#m",
+      "url": "https://x.com/op7418/status/2039181751055261876",
+      "images": null,
+      "published": "2026-04-01T03:23:10+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2039181223269142828",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "迫于泄露 Claude Code 的宠物模式已经提前上线 输入 /Buddy 就可以开启，会有简单的介绍和不同的属性 而且你在工作的时候他会在输入框旁边陪伴你 感觉比较轻量，支持的命令也比较少，可以叫他名字来获取见解 歸藏(guizang.ai) (@op7418) 明天就可以在 CodePilot 里面提前体验 Claude Code 还没有上线的重磅宠物功能了！ — https://nitter.net/op7418/status/2039015035562004582#m",
+      "url": "https://x.com/op7418/status/2039181223269142828",
+      "images": null,
+      "published": "2026-04-01T03:21:04+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2039167939635708176",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "谷歌发布了 V1.3.1 Lite 模型，价格大幅降低！ 相较于 V1.3.1 模型，价格降了 8 倍，同时他们的 V1.3.1 Fast 模型价格也降了。 Logan Kilpatrick (@OfficialLoganK) Video’s here to stay - introducing Veo 3.1 Lite, our most cost efficient video generation model to date, and on April 7th we are also reducing the price for Veo 3.1 Fast : ) — https://nitter.net/OfficialLoganK/status/2039015034286694618#m",
+      "url": "https://x.com/op7418/status/2039167939635708176",
+      "images": null,
+      "published": "2026-04-01T02:28:17+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2039159449559220442",
       "source": "归藏",
@@ -56,57 +309,6 @@
       "transcriptPreview": "“龙虾热”正在退潮，但它带来的创新冲击还在持续——当它与行业know-how相结合，正在迸发出新的能量。 阿里国际站有着26年的B2B数据和经验积累，今年初，OpenClaw、Cowork这些工作范式被验证，让他们看到了打通B2B闭环的智能体，终于到了可以落地的临界点。 于是春节之后，“外贸版龙虾”Accio Work来了，海外用户只需要和这个Agent对话，它就能自主跑完从市场分析、选品设计、供"
     },
     {
-      "id": "x_2039023921845207394",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "第一个是这个nitter.net/op7418/status/20390150… 歸藏(guizang.ai) (@op7418) 明天就可以在 CodePilot 里面提前体验 Claude Code 还没有上线的重磅宠物功能了！ — https://nitter.net/op7418/status/2039015035562004582#m",
-      "url": "https://x.com/op7418/status/2039023921845207394",
-      "images": null,
-      "published": "2026-03-31T16:56:00+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2039015035562004582",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "明天就可以在 CodePilot 里面提前体验 Claude Code 还没有上线的重磅宠物功能了！ 歸藏(guizang.ai) (@op7418) CodePilot 用户有可能优先尝试所有Claude code 未发布能力 — https://nitter.net/op7418/status/2038999237959332286#m",
-      "url": "https://x.com/op7418/status/2039015035562004582",
-      "images": null,
-      "published": "2026-03-31T16:20:42+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2039010036589211929",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "明天就能尝鲜，Claude Code 未发布功能：nitter.net/op7418/status/20389992… 歸藏(guizang.ai) (@op7418) CodePilot 用户有可能优先尝试所有Claude code 未发布能力 — https://nitter.net/op7418/status/2038999237959332286#m",
-      "url": "https://x.com/op7418/status/2039010036589211929",
-      "images": null,
-      "published": "2026-03-31T16:00:50+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_JF6XIixstmQ",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -122,108 +324,6 @@
       "published": "2026-03-31T16:00:18+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2039001747868524797",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "先点个收藏：github.com/op7418/CodePilot",
-      "url": "https://x.com/op7418/status/2039001747868524797",
-      "images": null,
-      "published": "2026-03-31T15:27:54+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2038999237959332286",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "CodePilot 用户有可能优先尝试所有Claude code 未发布能力",
-      "url": "https://x.com/op7418/status/2038999237959332286",
-      "images": null,
-      "published": "2026-03-31T15:17:55+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2038991555994976551",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "感觉过个两周，每个大厂人手一个顶尖 Agent 产品要发布",
-      "url": "https://x.com/op7418/status/2038991555994976551",
-      "images": null,
-      "published": "2026-03-31T14:47:24+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2038990108767211991",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "“正在自研世界一流Agent” 歸藏(guizang.ai) (@op7418) 逐字学习 — https://nitter.net/op7418/status/2038986436884787282#m",
-      "url": "https://x.com/op7418/status/2038990108767211991",
-      "images": null,
-      "published": "2026-03-31T14:41:39+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2038986788505858348",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Claude Code 分析 Claude Code 何尝不是一种 NTR 歸藏(guizang.ai) (@op7418) 逐字学习 — https://nitter.net/op7418/status/2038986436884787282#m",
-      "url": "https://x.com/op7418/status/2038986788505858348",
-      "images": null,
-      "published": "2026-03-31T14:28:27+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2038986436884787282",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "逐字学习",
-      "url": "https://x.com/op7418/status/2038986436884787282",
-      "images": null,
-      "published": "2026-03-31T14:27:03+00:00",
-      "hasTranscript": false
     },
     {
       "id": "x_2038670159259619644",
@@ -561,23 +661,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2036796562576171015",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Best career hack is to make sure you’re the person in the room who's always having fun.",
-      "url": "https://x.com/benln/status/2036796562576171015",
-      "images": null,
-      "published": "2026-03-25T13:25:17+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_ZA4IrqIyfzQ",
       "source": "a16z",
       "sourceId": "a16z",
@@ -607,55 +690,6 @@
       "url": "https://www.youtube.com/watch?v=qHEUIXGSxxg",
       "thumbnail": "https://img.youtube.com/vi/qHEUIXGSxxg/maxresdefault.jpg",
       "published": "2026-03-24T17:21:07+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_bxJkxBUFeEE",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "What Codex Unlocks for Notion",
-      "url": "https://www.youtube.com/watch?v=bxJkxBUFeEE",
-      "thumbnail": "https://img.youtube.com/vi/bxJkxBUFeEE/maxresdefault.jpg",
-      "published": "2026-03-24T17:01:54+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2036479340750278811",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cursor team will be visiting these cities over next few weeks: • Bangalore • Chennai • Mumbai • Medellin • Cali • Bangkok • Istanbul • Singapore • Ho Chi Minh City • Jakarta • Kuala Lumpur • Colombo • Rio • Florianópolis Details being added on Luma!",
-      "url": "https://x.com/benln/status/2036479340750278811",
-      "images": null,
-      "published": "2026-03-24T16:24:45+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_qF4QRh2u7FE",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "An updated shopping experience in ChatGPT",
-      "url": "https://www.youtube.com/watch?v=qF4QRh2u7FE",
-      "thumbnail": "https://img.youtube.com/vi/qF4QRh2u7FE/maxresdefault.jpg",
-      "published": "2026-03-24T16:16:03+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -845,23 +879,6 @@
       "url": "https://www.youtube.com/watch?v=_9SlOm6HHvg",
       "thumbnail": "https://img.youtube.com/vi/_9SlOm6HHvg/maxresdefault.jpg",
       "published": "2026-03-17T17:28:48+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_zwDmKsnhl08",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Why Scale Will Not Solve AGI | Vishal Misra - The a16z Show",
-      "url": "https://www.youtube.com/watch?v=zwDmKsnhl08",
-      "thumbnail": "https://img.youtube.com/vi/zwDmKsnhl08/maxresdefault.jpg",
-      "published": "2026-03-17T14:42:25+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1378,23 +1395,6 @@
       "url": "https://www.youtube.com/watch?v=eoo6_lynwn8",
       "thumbnail": "https://img.youtube.com/vi/eoo6_lynwn8/maxresdefault.jpg",
       "published": "2025-10-22T09:00:56+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_-F06-h8nnDg",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "How This Nuclear Reactor Prevents Meltdowns",
-      "url": "https://www.youtube.com/watch?v=-F06-h8nnDg",
-      "thumbnail": "https://img.youtube.com/vi/-F06-h8nnDg/maxresdefault.jpg",
-      "published": "2025-10-21T08:40:15+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
