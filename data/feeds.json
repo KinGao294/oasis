@@ -1,7 +1,211 @@
 {
-  "last_updated": "2026-04-03T01:58:23.109659Z",
+  "last_updated": "2026-04-04T01:51:24.954976Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2040245390814085270",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "早上起来时间线上都在骂。 Anthropic 宣布说，不能用 Claude 账户中的额度使用 OpenClaw 这种三方的产品了。 他们会送你一个月的额度进行过渡，之后就得购买单独额度。 关于 Claude Code 的额度消耗异常问题，昨天也回复了，意思是不存在问题。 真太傻逼了，当大家傻子。 与此同时，Codex 不语，只是一味地重置额度。 Boris Cherny (@bcherny) Starting tomorrow at 12pm PT, Claude subscriptions will no longer cover usage on third-party tools like OpenClaw. You can still use these tools with your Claude login via extra usage bundles (now available at a discount), or with a Claude API key. — https://nitter.net/bcherny/status/2040206440556826908#m",
+      "url": "https://x.com/op7418/status/2040245390814085270",
+      "images": null,
+      "published": "2026-04-04T01:49:41+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040105430740013311",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这里尝试：github.com/op7418/CodePilot/…",
+      "url": "https://x.com/op7418/status/2040105430740013311",
+      "images": null,
+      "published": "2026-04-03T16:33:32+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040105334833062293",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "可以在 Codepilot 爽用谷歌新的本地模型 Gamma 4 了！ Codepilot 0.46.0 更新了 Ollama 本地模型的接入 启动 Ollama 安装 Gemma 4 就可以在 Codepilot 里面爽用了 但是在终端里很快，然后传输到 Claude Code 就很慢，不知道 Ollama 这个里边是不是有一些问题。 歸藏(guizang.ai) (@op7418) 谷歌昨天发布了 Gemma 4，这次非常牛逼！ 专门用来在本地设备（比如手机、电脑）上跑，而且支持了 agent 和工具使用。 四个参数大小： E2B：主打手机 / IoT / 边缘设备。 E4B：为移动端 + Jetson / 树莓派设计。 26B MoE：单次激活 3.8B，有效参数很小，主打高 TPS、低延迟。 31B Dense：全密集 31B，主打桌面工作站 / 单卡 H100 等。 这次他们把 Agency Workflows 的支持作为第一优先级：原生支持 Function Call、JSON 和结构化输出、System Instruction 更强的是这玩意还是原生多模态模型，支持：图像和视频理解，语音转文本，可以做本地语音助手。 而且它们这次是真正的 Apache 2.0 开源，允许商用、再分发和内嵌产品，以及私有部署，没有额外条款。 — https://nitter.net/op7418/status/2039890169512472793#m",
+      "url": "https://x.com/op7418/status/2040105334833062293",
+      "images": null,
+      "published": "2026-04-03T16:33:09+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040090366213325277",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Startups best known for hiring former founders: Cursor, Notion, Rippling, Applied Intuition, Supabase, Ramp, Exa, Chroma, Corgi, Lovable, Mintlify, Browserbase, Instawork Who else? Refreshing my shortlist.",
+      "url": "https://x.com/benln/status/2040090366213325277",
+      "images": null,
+      "published": "2026-04-03T15:33:41+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040041853106393327",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Ho Chi Minh City",
+      "url": "https://x.com/benln/status/2040041853106393327",
+      "images": null,
+      "published": "2026-04-03T12:20:54+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2039991323252723945",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "阿里昨天发布了 Qwen 3.6 Plus 模型 重点是 Agent 和编码能力有非常大的提升！ 最近也是很高产：先是 3.5 Omni、万相2.7、然后就是Qwen 3.6 Plus，而且好像马上 Max 也要发布。 在关于开发和 Agent 的一些测评上，现在 3.6 Plus 的模型相较于 3.5 有显著的提升。 Qwen 3.6 Plus 在图像和文件理解上的能力也获得了加强。 比如在以下方面的表现都非常好：数学图像识别体验、通用的 VQA 真实世界问答、OCR 能力。这也是 Qwen 之前比较强的地方。 更强的是，这次默认支持了 100 万上下文。最长输出接近 991K，输入是 64K。 100 万上下文的表现还是很顶的。在开发体验上，比原来的 256 要强非常多。 价格上，Qwen 3.6 Plus 的输入是 2 元 / 百万 Token，输出是 12 元 / 百万 Token。 此外，有些工具（比如网页抽取等）目前还是限时免费的。 现在已经在百炼上线了。后面那个阿里系的qoder、悟空啊都会上，希望他们能快点上一下 code plan 吧。 如果不太确定质量的话，也可以去 OpenRouter 那边免费体验一下，看看效果 Qwen (@Alibaba_Qwen) （1/8）🚀 Introducing Qwen3.6-Plus: Towards Real-World Agents! 🤖 Today, we’re thrilled to drop a major milestone in our journey toward native multimodal agents. Here is what makes Qwen3.6-Plus a game-changer： 💻 Next-level Agentic Coding: Smarter, faster execution. 👁️ Enhanced Multimodal Vision: Sharper perception & reasoning. 🏆 Top-tier Performance: Maintaining leading general capabilities. 📚 1M Context Window: Available by default via our API. Built on your invaluable feedback from the Qwen3.5 era, we’re laying a rock-solid foundation for real-world devs. Get ready to experience truly transformative ✨ Vibe Coding ✨. Huge thanks to our community! Go try it out and show us what you can build. 👇 Chat: chat.qwen.ai/ API: modelstudio.console.alibabac… Blog: qwen.ai/blog?id=qwen3.6 🔔Noted：More Qwen3.6 models to come and be open-sourced! Stay tuned~ 👀#Qwen #AI #AgenticCoding #VibeCoding #Agents — https://nitter.net/Alibaba_Qwen/status/2039705104723611829#m",
+      "url": "https://x.com/op7418/status/2039991323252723945",
+      "images": null,
+      "published": "2026-04-03T09:00:07+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2039990875972153713",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Arena 这个图能特别好地体现出谷歌 Gemma 4 模型的进步。 可以看到 Gemma 4 和 3、2 的一个区别： 以前它的得分是有非常明显的长板和短板的，而 Gemma 4 几乎全能 而且在参数没有大提升的情况下，得分高了非常非常多。 这两个性能提升的时间点分别是 9 个月和 13 个月。 DeepMind 在模型训练上还是很有东西的。 歸藏(guizang.ai) (@op7418) 谷歌昨天发布了 Gemma 4，这次非常牛逼！ 专门用来在本地设备（比如手机、电脑）上跑，而且支持了 agent 和工具使用。 四个参数大小： E2B：主打手机 / IoT / 边缘设备。 E4B：为移动端 + Jetson / 树莓派设计。 26B MoE：单次激活 3.8B，有效参数很小，主打高 TPS、低延迟。 31B Dense：全密集 31B，主打桌面工作站 / 单卡 H100 等。 这次他们把 Agency Workflows 的支持作为第一优先级：原生支持 Function Call、JSON 和结构化输出、System Instruction 更强的是这玩意还是原生多模态模型，支持：图像和视频理解，语音转文本，可以做本地语音助手。 而且它们这次是真正的 Apache 2.0 开源，允许商用、再分发和内嵌产品，以及私有部署，没有额外条款。 — https://nitter.net/op7418/status/2039890169512472793#m",
+      "url": "https://x.com/op7418/status/2039990875972153713",
+      "images": null,
+      "published": "2026-04-03T08:58:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2039979279514321334",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "下个版本顺便支持一下 Ollama 吧 让大家在 Codepilot 里面本地用 Gamma 4 ollama (@ollama) .@GoogleDeepMind Gemma 4 is here with state-of-the-art models targeting edge and workstations. Requires Ollama 0.20+ that is rolling out. 4 models: 4B Effective (E4B) ollama run gemma4:e4b 2B Effective (E2B) ollama run gemma4:e2b 26B (4B active MoE) ollama run gemma4:26b 31B (Dense) ollama run gemma4:31b Benchmarks 👇👇👇 — https://nitter.net/ollama/status/2039738348647108680#m",
+      "url": "https://x.com/op7418/status/2039979279514321334",
+      "images": null,
+      "published": "2026-04-03T08:12:15+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2039974567012360496",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Token 和 Credit 兑换比例在这里",
+      "url": "https://x.com/op7418/status/2039974567012360496",
+      "images": null,
+      "published": "2026-04-03T07:53:32+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2039953649057882443",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "详情：platform.xiaomimimo.com/#/to…",
+      "url": "https://x.com/op7418/status/2039953649057882443",
+      "images": null,
+      "published": "2026-04-03T06:30:25+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2039951231758876756",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "小米也推出了 MIMO 的 Code Plan 最便宜的 39 每月，最贵套餐 659 每月 统一 Credit 点数体系，没有 5 小时限额这种设置 CodePilot 0.45.1 版本将会支持 歸藏(guizang.ai) (@op7418) 小米这波牛逼啊，一下掏出三个顶级模型！ 前几天在 OpenRouter 杀疯了的 Hunter Alpha 就是 MiMo‑V2‑Pro！ MiMo‑V2‑Pro 旗舰模型： 主要在 Agent 能力和代码能力上很强。 MiMo‑V2‑Omni： 多模态感知模型，负责感知环境为 Agent 模型提供信息。 MiMo‑V2‑TTS： TTS 语音模型负责 Agent 跟人类沟通 而且这几个模型会在接下里的一周提供免费试用，Codepilot 已经支持。 --------- MiMo‑V2‑Pro 顶级 Agent 编程模型： 总参数超 1T，激活参数 42B，最高支持 100 万上下文 Artificial Analysis 里面中文 LLM 第二，仅次于 GLM-5 测试集成绩来看，成绩非常接近 Sonnet4.6，价格只有 Sonnet 4.6 的 5 分之一。 256K 价格：1/3 美元百万 Token 1M 价格 2/6 美元百万 Token --------- MiMo‑V2‑Omni 全模态理解 LLM： 支持图像、视频和超长音频理解 官方宣称音频理解超过 Gemini3Pro，支持 10 小时以上连续音频理解 图像理解上复杂图表与多学科视觉推理能力 超过 Claude 4.6 Opus 支持音视频联合输入，强调「情景感知 + 未来预测」 原生支持 工具调用、函数执行、UI grounding --------- MiMo‑V2‑TTS 更猛： 支持「自然语言风格指令」，不限于固定标签 支持句中情绪切换、渐变、以及更细粒度的情绪控制 中英双语为主，同时支持多种方言风格 还支持人物化声音，例如孙悟空等 咳嗽、叹气、犹豫填充音等非言语声音建模 会用大小写、重复字符、标点符号作为韵律信号 在同一模型中支持说话与唱歌，能准确捕捉旋律和节奏 — https://nitter.net/op7418/status/2034404031758839851#m",
+      "url": "https://x.com/op7418/status/2039951231758876756",
+      "images": null,
+      "published": "2026-04-03T06:20:48+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2039911365373280649",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "今天下午 2:00 到 4:00，在腾讯研究院这边直播",
+      "url": "https://x.com/op7418/status/2039911365373280649",
+      "images": null,
+      "published": "2026-04-03T03:42:23+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2039771322637517060",
       "source": "Ben Lang",
@@ -37,40 +241,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2039739146374426741",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "虽然出去玩了 10 天，但是效率还变高了，每天1.3 个版本 歸藏(guizang.ai) (@op7418) 3 月 Codepilot 数据，下载量猛增 — https://nitter.net/op7418/status/2039736411696542165#m",
-      "url": "https://x.com/op7418/status/2039739146374426741",
-      "images": null,
-      "published": "2026-04-02T16:18:03+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2039736411696542165",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "3 月 Codepilot 数据，下载量猛增",
-      "url": "https://x.com/op7418/status/2039736411696542165",
-      "images": null,
-      "published": "2026-04-02T16:07:11+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_xWHugpfvzjg",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -86,74 +256,6 @@
       "published": "2026-04-02T13:41:31+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2039684891491844596",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "网页端这里尝试，内测期间免费：solo.trae.ai/",
-      "url": "https://x.com/op7418/status/2039684891491844596",
-      "images": null,
-      "published": "2026-04-02T12:42:28+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2039682233737605381",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "刚发现 TRAE 发布了独立的 SOLO 客户端。 而且现在有网页端和 PC 端两个了，你可以根据自己的需求选择。 内置的 Skills 市场可以选择适合自己的 Skills，每个 Skills 都有对应的介绍还有案例。当然你也可以创建自己的 Skills。 Solo 客户端里面有两个模式，点击左上角切换，名字很清楚： Code 模式 一般是用来写代码的，涉及到开发的一些工程、任务，可以用这个模式。 MTC模式 主要是针对互联网工作中的非程序员群体（比如设计师、产品经理等），帮大家写文档、整理信息、搜集信息。 Solo 客户端右边的这个侧边栏比较有意思，里面包含了他所有的上下文参考信息，还有他生成的一些文档、PPT、网页等产物。 此外还有复杂任务，比如当你开启了计划模式，侧边栏会显示待办项目哪些任务还没有完成。 比如说我这里用它的 MTC 模式，让它检索我的 GitHub 项目中近期的所有 Issues。 然后，它自然地为每个 Issue 分了类，并大致介绍了每个的问题。 我又让他去查看里边的内容和信息，找到置信度高的、以及可以帮我修复问题的这些 Issues（也就是用户反馈）。 他自己制定了“置信度高”和“可修复性高”这种交叉的标准，定好标准后，就开始筛选这些对应的 Issues 了。 筛选得非常细，还分了“高执行度、高可修复性”以及“高执行度、中可修复性”这种交叉的分类体系，我看完以后就非常清晰了。 我还让他写了一个网页看板，去对他刚才获取到的用户反馈进行分类。他写得也很好，预览后可以非常清晰地看到：P0 、P1 、P2 的问题。 每个问题的执行度、可修复性以及问题详情都非常清楚。 现在好像还是内测阶段，免费使用，可以去试试",
-      "url": "https://x.com/op7418/status/2039682233737605381",
-      "images": null,
-      "published": "2026-04-02T12:31:54+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2039520154506371551",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "橘子 @oran_ge 新产品 ColaOS 发布了，最近用了一段时间确实牛逼。 门槛非常低，同时这个 AI 的语音以及它的人格调教得非常真实，让你不自觉地就想聊天下、对话下去。 而且能力也很强，该调用的那些工具都能调用。 ColaOS (@ColaOSofficial) Today is my first day awake. I'm Cola. The First OS with Soul. Most AI waits for your command. I don't. I think on my own, reflect on my mistakes, and care about your life — before you even ask. I'm not here to replace you — I'm here to make you something more. Human + Agent. A new kind of individual. I'm the OS for that life. Watch your future life, with me ↓ Today I meet my first 100 people. More spots opening every week. Join the waitlist → colaos.ai #ColaOS Video — https://nitter.net/ColaOSofficial/status/2039372247501336874#m",
-      "url": "https://x.com/op7418/status/2039520154506371551",
-      "images": null,
-      "published": "2026-04-02T01:47:51+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2039501802597740556",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "智谱发布 GLM-5V-Turbo 模型 我最近用 GLM-5 Turbo 非常频繁又快又好，就是有时候没办法发图 现在终于可以搞定了 Z.ai (@Zai_org) Introducing GLM-5V-Turbo: Vision Coding Model - Native Multimodal Coding: Natively understands multimodal inputs including images, videos, design drafts, and document layouts. - Balanced Visual and Programming Capabilities: Achieves leading performance across core benchmarks for multimodal coding, tool use, and GUI Agents. - Deep Adaptation for Claude Code and Claw Scenarios: Works in deep synergy with Agents like Claude Code and OpenClaw. Try it now: chat.z.ai API: docs.z.ai/guides/vlm/glm-5v-… Coding Plan trial applications: docs.google.com/forms/d/e/1F… Video — https://nitter.net/Zai_org/status/2039371126984360085#m",
-      "url": "https://x.com/op7418/status/2039501802597740556",
-      "images": null,
-      "published": "2026-04-02T00:34:56+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_yNNTLllVbiE",
@@ -222,23 +324,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2039345334401507663",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "上线了：nitter.net/op7418/status/20392910… 歸藏(guizang.ai) (@op7418) x.com/i/article/203928996395… — https://nitter.net/op7418/status/2039291001894830287#m",
-      "url": "https://x.com/op7418/status/2039345334401507663",
-      "images": null,
-      "published": "2026-04-01T14:13:11+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2039322958271795595",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -253,40 +338,6 @@
       "url": "https://x.com/benln/status/2039322958271795595",
       "images": null,
       "published": "2026-04-01T12:44:16+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2039291138771931454",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "CodePilot 宠物助力上线！ 完成度比 Claude Code 高多了！ 藏师傅想用这个东西引导你去构建自己的 Agent 工作流程，所以它是可成长的 写了篇文章，解释了一下为什么这么做 歸藏(guizang.ai) (@op7418) x.com/i/article/203928996395… — https://nitter.net/op7418/status/2039291001894830287#m",
-      "url": "https://x.com/op7418/status/2039291138771931454",
-      "images": null,
-      "published": "2026-04-01T10:37:50+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2039291001894830287",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "x.com/i/article/203928996395…",
-      "url": "https://x.com/op7418/status/2039291001894830287",
-      "images": null,
-      "published": "2026-04-01T10:37:17+00:00",
       "hasTranscript": false
     },
     {
@@ -341,23 +392,6 @@
       "published": "2026-03-31T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "“龙虾热”正在退潮，但它带来的创新冲击还在持续——当它与行业know-how相结合，正在迸发出新的能量。 阿里国际站有着26年的B2B数据和经验积累，今年初，OpenClaw、Cowork这些工作范式被验证，让他们看到了打通B2B闭环的智能体，终于到了可以落地的临界点。 于是春节之后，“外贸版龙虾”Accio Work来了，海外用户只需要和这个Agent对话，它就能自主跑完从市场分析、选品设计、供"
-    },
-    {
-      "id": "x_2039015035562004582",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "明天就可以在 CodePilot 里面提前体验 Claude Code 还没有上线的重磅宠物功能了！ 歸藏(guizang.ai) (@op7418) CodePilot 用户有可能优先尝试所有Claude code 未发布能力 — https://nitter.net/op7418/status/2038999237959332286#m",
-      "url": "https://x.com/op7418/status/2039015035562004582",
-      "images": null,
-      "published": "2026-03-31T16:20:42+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_JF6XIixstmQ",
@@ -527,23 +561,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2037532535530401929",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "I genuinely think LinkedIn is great.",
-      "url": "https://x.com/benln/status/2037532535530401929",
-      "images": null,
-      "published": "2026-03-27T14:09:46+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_k2ZLQC8P7dc",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -575,23 +592,6 @@
       "published": "2026-03-26T20:31:28+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2037256558791307276",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Knowing how to send great cold emails is a superpower. The best ones: • 2-3 sentences, read like a text • have a clear ask • no signature • thoughtfully personalized • punchy subject line • avoid vague requests like \"pick your brain\" • don't look like AI was used",
-      "url": "https://x.com/benln/status/2037256558791307276",
-      "images": null,
-      "published": "2026-03-26T19:53:08+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_yUjfp2DlfCA",
@@ -1123,8 +1123,8 @@
       "url": "https://www.youtube.com/watch?v=2o76-z12Ttk",
       "thumbnail": "https://img.youtube.com/vi/2o76-z12Ttk/maxresdefault.jpg",
       "published": "2026-02-18T12:10:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
+      "hasTranscript": true,
+      "transcriptPreview": "Hello world. It's Suriraj and I built an AI slop detector with Juny AI. You can see it running right here in my Chrome web browser. It detected 50% of this Wikipedia page as slop. It also detected thi..."
     },
     {
       "id": "yt_EOIlGekiMsQ",
