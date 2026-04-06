@@ -1,7 +1,58 @@
 {
-  "last_updated": "2026-04-05T02:04:22.731310Z",
-  "count": 100,
+  "last_updated": "2026-04-06T02:05:29.620935Z",
+  "count": 101,
   "items": [
+    {
+      "id": "x_2040840257688531235",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Adding: Baseten, Wabi, Sully AI, PostHog, QuiverAI, Wonderful, Replit, AngelList, Slash, Fleet AI, Keycard, Windmill, Boardy, Distyl AI, Peec AI Span, LangChain, HAQQ, Photon, Phoebe, Clearspace, Redo, Remi Ben Lang (@benln) Startups best known for hiring former founders: Cursor, Notion, Rippling, Applied Intuition, Supabase, Ramp, Exa, Chroma, Corgi, Lovable, Mintlify, Browserbase, Instawork Who else? Refreshing my shortlist. — https://nitter.net/benln/status/2040090366213325277#m",
+      "url": "https://x.com/benln/status/2040840257688531235",
+      "images": null,
+      "published": "2026-04-05T17:13:29+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040813070516359503",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "重新搞了一下网站，不然每年这个 .ai 域名太贵了，不用的话有点浪费",
+      "url": "https://x.com/op7418/status/2040813070516359503",
+      "images": null,
+      "published": "2026-04-05T15:25:27+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040780285088841996",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Cannes",
+      "url": "https://x.com/benln/status/2040780285088841996",
+      "images": null,
+      "published": "2026-04-05T13:15:10+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2040471456820408449",
       "source": "归藏",
@@ -187,23 +238,6 @@
       "url": "https://x.com/op7418/status/2039953649057882443",
       "images": null,
       "published": "2026-04-03T06:30:25+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2039951231758876756",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "小米也推出了 MIMO 的 Code Plan 最便宜的 39 每月，最贵套餐 659 每月 统一 Credit 点数体系，没有 5 小时限额这种设置 CodePilot 0.45.1 版本将会支持 歸藏(guizang.ai) (@op7418) 小米这波牛逼啊，一下掏出三个顶级模型！ 前几天在 OpenRouter 杀疯了的 Hunter Alpha 就是 MiMo‑V2‑Pro！ MiMo‑V2‑Pro 旗舰模型： 主要在 Agent 能力和代码能力上很强。 MiMo‑V2‑Omni： 多模态感知模型，负责感知环境为 Agent 模型提供信息。 MiMo‑V2‑TTS： TTS 语音模型负责 Agent 跟人类沟通 而且这几个模型会在接下里的一周提供免费试用，Codepilot 已经支持。 --------- MiMo‑V2‑Pro 顶级 Agent 编程模型： 总参数超 1T，激活参数 42B，最高支持 100 万上下文 Artificial Analysis 里面中文 LLM 第二，仅次于 GLM-5 测试集成绩来看，成绩非常接近 Sonnet4.6，价格只有 Sonnet 4.6 的 5 分之一。 256K 价格：1/3 美元百万 Token 1M 价格 2/6 美元百万 Token --------- MiMo‑V2‑Omni 全模态理解 LLM： 支持图像、视频和超长音频理解 官方宣称音频理解超过 Gemini3Pro，支持 10 小时以上连续音频理解 图像理解上复杂图表与多学科视觉推理能力 超过 Claude 4.6 Opus 支持音视频联合输入，强调「情景感知 + 未来预测」 原生支持 工具调用、函数执行、UI grounding --------- MiMo‑V2‑TTS 更猛： 支持「自然语言风格指令」，不限于固定标签 支持句中情绪切换、渐变、以及更细粒度的情绪控制 中英双语为主，同时支持多种方言风格 还支持人物化声音，例如孙悟空等 咳嗽、叹气、犹豫填充音等非言语声音建模 会用大小写、重复字符、标点符号作为韵律信号 在同一模型中支持说话与唱歌，能准确捕捉旋律和节奏 — https://nitter.net/op7418/status/2034404031758839851#m",
-      "url": "https://x.com/op7418/status/2039951231758876756",
-      "images": null,
-      "published": "2026-04-03T06:20:48+00:00",
       "hasTranscript": false
     },
     {
@@ -462,23 +496,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2038280976841760875",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Quick practical examples to land more interviews at startups:",
-      "url": "https://x.com/benln/status/2038280976841760875",
-      "images": null,
-      "published": "2026-03-29T15:43:48+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_th8u0bqYsQk",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -493,23 +510,6 @@
       "published": "2026-03-27T20:55:13+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2037597693166698724",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "hello hi, I am once again telling you THIS WORKS!! I sent @benln a cold email a month ago w/ a notion doc included on how I'd help scale @cursor_ai community AND NOW I WORK HERE! send the email. Ben Lang (@benln) Knowing how to send great cold emails is a superpower. The best ones: • 2-3 sentences, read like a text • have a clear ask • no signature • thoughtfully personalized • punchy subject line • avoid vague requests like \"pick your brain\" • don't look like AI was used — https://nitter.net/benln/status/2037256558791307276#m",
-      "url": "https://x.com/benln/status/2037597693166698724",
-      "images": null,
-      "published": "2026-03-27T18:28:41+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_jM1oSEXssOE",
@@ -1691,6 +1691,23 @@
       "published": "2020-12-09T10:55:12+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_9327720978",
+      "source": "Ryo Lu",
+      "sourceId": "ryolu",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "just doing school work",
+      "url": "https://x.com/rylooo/status/9327720978",
+      "images": null,
+      "published": "2010-02-19T09:27:07+00:00",
+      "hasTranscript": false
     }
   ]
 }
