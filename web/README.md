@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Oasis Web（Next.js）
 
-## Getting Started
+本目录为 Oasis 的前端，使用 **Next.js 16**（App Router）与 **React 19**。
 
-First, run the development server:
+## 数据
+
+应用从 **`web/data/`** 读取 `feeds.json`、`transcripts/`、`summaries/` 等。Python 抓取脚本写入仓库根目录的 **`data/`**。若你刚运行过抓取或只更新了根目录 `data/`，请在仓库根目录同步后再启动前端：
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+rm -rf web/data
+cp -R data web/data
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+完整说明（Vercel、GitHub Actions、环境变量）见仓库根目录 [README.md](../README.md)。
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 本地开发
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+cd web
+npm install
+npm run dev
+```
 
-## Learn More
+浏览器打开 [http://localhost:3000](http://localhost:3000)。
 
-To learn more about Next.js, take a look at the following resources:
+## 构建与生产启动
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm run build
+npm run start
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 其他
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- 页面入口：`app/page.tsx` 等。
+- 外链图片域名在 `next.config.ts` 的 `images.remotePatterns` 中配置。
