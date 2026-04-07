@@ -1,7 +1,176 @@
 {
-  "last_updated": "2026-04-06T02:05:29.620935Z",
+  "last_updated": "2026-04-07T02:01:35.821535Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2041332295710462453",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Telegram 这个更新牛蛙 你的机器人可以自主创建和管理其他机器人了，不需要你的审批和操作。 这样你的龙虾或者 Claude Code 就可以帮你创建带有复杂功能的机器人 Pavel Durov (@durov) The monthly Telegram update is out. 🧠 100% private AI Editor for your messages. 🗳 The most powerful polls (+12 new features). 🖼 Support for Live Photos & Motion Photos. 🤖 Ability for [AI] Bots to create [AI] Bots for users — in one tap. 📹 Demos: telegram.org/blog/ai-editor-… — https://nitter.net/durov/status/2040943162663854139#m",
+      "url": "https://x.com/op7418/status/2041332295710462453",
+      "images": null,
+      "published": "2026-04-07T01:48:40+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_uDjL9dRbtLs",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "We’re going back to the moon.",
+      "url": "https://www.youtube.com/watch?v=uDjL9dRbtLs",
+      "thumbnail": "https://img.youtube.com/vi/uDjL9dRbtLs/maxresdefault.jpg",
+      "published": "2026-04-06T22:50:57+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2041205967086333983",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Less than a year later: Ben Lang (@benln) Met a solo founder (no employees) who's on track to hit $25M ARR later this year. 100% organic growth. Started the company less than a year ago. Fully bootstrapped. No plans to raise capital. VC is so broken. — https://nitter.net/benln/status/1906392586601824656#m",
+      "url": "https://x.com/benln/status/2041205967086333983",
+      "images": null,
+      "published": "2026-04-06T17:26:40+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_2g1e1QUiY8s",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "LG Uplus Creates Next Gen AICC",
+      "url": "https://www.youtube.com/watch?v=2g1e1QUiY8s",
+      "thumbnail": "https://img.youtube.com/vi/2g1e1QUiY8s/maxresdefault.jpg",
+      "published": "2026-04-06T15:19:08+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_UE8jx4dvlSQ",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "OpenClaw, Claude Code, and the Future of Software | Peter Yang on The a16z Show",
+      "url": "https://www.youtube.com/watch?v=UE8jx4dvlSQ",
+      "thumbnail": "https://img.youtube.com/vi/UE8jx4dvlSQ/maxresdefault.jpg",
+      "published": "2026-04-06T14:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_kkv5rZhrLkc",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "BillionToOne Is Solving One of Biotech’s Hardest Problems",
+      "url": "https://www.youtube.com/watch?v=kkv5rZhrLkc",
+      "thumbnail": "https://img.youtube.com/vi/kkv5rZhrLkc/maxresdefault.jpg",
+      "published": "2026-04-06T14:01:12+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2041121834049957933",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "We're booking out a cafe on April 13th in Istanbul Grab coffee & Cursor credits, meet the team, and build",
+      "url": "https://x.com/benln/status/2041121834049957933",
+      "images": null,
+      "published": "2026-04-06T11:52:22+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040981766991949870",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "现在做内容真的方便。 以前更新网页还得有个什么后台之类的东西。 现在我直接把这个网页数据更新做成了一个 skill 。 我在外面通过飞书连接我的 CodePilot。直接就能更新网站的数据和新闻。 歸藏(guizang.ai) (@op7418) 重新搞了一下网站，不然每年这个 .ai 域名太贵了，不用的话有点浪费 — https://nitter.net/op7418/status/2040813070516359503#m",
+      "url": "https://x.com/op7418/status/2040981766991949870",
+      "images": null,
+      "published": "2026-04-06T02:35:47+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040977451254493399",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "接下来 Codepilot 也要准备脱离 Claude Code 了 同时上个版本给所有的服务商都加上了 Codeplan 的获取链接 你现在可以直接在 Codepilot 跳转购买各家 Codeplan 了 歸藏(guizang.ai) (@op7418) Anthropic 又有新的损招了。 龙虾的作者 Peter 发现了一件事，就是你如果用的是 Claude Code 或者是其他官方的 Anthropic 工具。 但是你一旦更改了系统提示词，比如出现了 Openclaw，那么就会拒绝你的请求，返回400这个报错。 感觉这是Claude Code泄露之后的一个补丁。 你现在拿泄露的Claude Code重新打包了一个自己的Claude Code，如果你改了system prompt，也有可能出现这种问题。 现在他们的控制欲有点太强了。 我花了钱，你管我怎么用呢，对吧？ 哪怕是在你官方的产品里用，现在你都得管。 — https://nitter.net/op7418/status/2040976831038525872#m",
+      "url": "https://x.com/op7418/status/2040977451254493399",
+      "images": null,
+      "published": "2026-04-06T02:18:38+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040976831038525872",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Anthropic 又有新的损招了。 龙虾的作者 Peter 发现了一件事，就是你如果用的是 Claude Code 或者是其他官方的 Anthropic 工具。 但是你一旦更改了系统提示词，比如出现了 Openclaw，那么就会拒绝你的请求，返回400这个报错。 感觉这是Claude Code泄露之后的一个补丁。 你现在拿泄露的Claude Code重新打包了一个自己的Claude Code，如果你改了system prompt，也有可能出现这种问题。 现在他们的控制欲有点太强了。 我花了钱，你管我怎么用呢，对吧？ 哪怕是在你官方的产品里用，现在你都得管。 歸藏(guizang.ai) (@op7418) 早上起来时间线上都在骂。 Anthropic 宣布说，不能用 Claude 账户中的额度使用 OpenClaw 这种三方的产品了。 他们会送你一个月的额度进行过渡，之后就得购买单独额度。 关于 Claude Code 的额度消耗异常问题，昨天也回复了，意思是不存在问题。 真太傻逼了，当大家傻子。 与此同时，Codex 不语，只是一味地重置额度。 — https://nitter.net/op7418/status/2040245390814085270#m",
+      "url": "https://x.com/op7418/status/2040976831038525872",
+      "images": null,
+      "published": "2026-04-06T02:16:10+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2040840257688531235",
       "source": "Ben Lang",
@@ -170,74 +339,6 @@
       "url": "https://x.com/op7418/status/2039991323252723945",
       "images": null,
       "published": "2026-04-03T09:00:07+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2039990875972153713",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Arena 这个图能特别好地体现出谷歌 Gemma 4 模型的进步。 可以看到 Gemma 4 和 3、2 的一个区别： 以前它的得分是有非常明显的长板和短板的，而 Gemma 4 几乎全能 而且在参数没有大提升的情况下，得分高了非常非常多。 这两个性能提升的时间点分别是 9 个月和 13 个月。 DeepMind 在模型训练上还是很有东西的。 歸藏(guizang.ai) (@op7418) 谷歌昨天发布了 Gemma 4，这次非常牛逼！ 专门用来在本地设备（比如手机、电脑）上跑，而且支持了 agent 和工具使用。 四个参数大小： E2B：主打手机 / IoT / 边缘设备。 E4B：为移动端 + Jetson / 树莓派设计。 26B MoE：单次激活 3.8B，有效参数很小，主打高 TPS、低延迟。 31B Dense：全密集 31B，主打桌面工作站 / 单卡 H100 等。 这次他们把 Agency Workflows 的支持作为第一优先级：原生支持 Function Call、JSON 和结构化输出、System Instruction 更强的是这玩意还是原生多模态模型，支持：图像和视频理解，语音转文本，可以做本地语音助手。 而且它们这次是真正的 Apache 2.0 开源，允许商用、再分发和内嵌产品，以及私有部署，没有额外条款。 — https://nitter.net/op7418/status/2039890169512472793#m",
-      "url": "https://x.com/op7418/status/2039990875972153713",
-      "images": null,
-      "published": "2026-04-03T08:58:20+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2039979279514321334",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "下个版本顺便支持一下 Ollama 吧 让大家在 Codepilot 里面本地用 Gamma 4 ollama (@ollama) .@GoogleDeepMind Gemma 4 is here with state-of-the-art models targeting edge and workstations. Requires Ollama 0.20+ that is rolling out. 4 models: 4B Effective (E4B) ollama run gemma4:e4b 2B Effective (E2B) ollama run gemma4:e2b 26B (4B active MoE) ollama run gemma4:26b 31B (Dense) ollama run gemma4:31b Benchmarks 👇👇👇 — https://nitter.net/ollama/status/2039738348647108680#m",
-      "url": "https://x.com/op7418/status/2039979279514321334",
-      "images": null,
-      "published": "2026-04-03T08:12:15+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2039974567012360496",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Token 和 Credit 兑换比例在这里",
-      "url": "https://x.com/op7418/status/2039974567012360496",
-      "images": null,
-      "published": "2026-04-03T07:53:32+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2039953649057882443",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "详情：platform.xiaomimimo.com/#/to…",
-      "url": "https://x.com/op7418/status/2039953649057882443",
-      "images": null,
-      "published": "2026-04-03T06:30:25+00:00",
       "hasTranscript": false
     },
     {
@@ -445,23 +546,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2038670159259619644",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "The loudest story about AI is a lonely one. One person with an army of chatbots. Other humans are friction. That gets the future wrong. The best things aren’t built alone. In a moment of change, we want to remind the world (and ourselves) what Notion stands for: — Think Together Video",
-      "url": "https://x.com/benln/status/2038670159259619644",
-      "images": null,
-      "published": "2026-03-30T17:30:17+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_Afp90LAaXNw",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -477,23 +561,6 @@
       "published": "2026-03-30T17:26:44+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2038609345970114949",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Medellín",
-      "url": "https://x.com/benln/status/2038609345970114949",
-      "images": null,
-      "published": "2026-03-30T13:28:38+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_th8u0bqYsQk",
@@ -712,22 +779,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_qHEUIXGSxxg",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "What Codex Unlocks for Notion",
-      "url": "https://www.youtube.com/watch?v=qHEUIXGSxxg",
-      "thumbnail": "https://img.youtube.com/vi/qHEUIXGSxxg/maxresdefault.jpg",
-      "published": "2026-03-24T17:21:07+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_jHECsr9GCs8",
       "source": "a16z",
       "sourceId": "a16z",
@@ -813,23 +864,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_1LcH4lP9XbA",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Inside Palantir: Building Software That Matters | Shyam Sankar on a16z",
-      "url": "https://www.youtube.com/watch?v=1LcH4lP9XbA",
-      "thumbnail": "https://img.youtube.com/vi/1LcH4lP9XbA/maxresdefault.jpg",
-      "published": "2026-03-20T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_PCypBUVhff8",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -864,23 +898,6 @@
       "published": "2026-03-19T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "这几年，如果说全球制造业里，有哪个故事最值得被重新讲一遍，那一定是动力电池。 中国在动力电池产业链中，建立了极强的优势。当欧洲电池巨头Northvolt破产，日韩也不再具备领先地位，很多人会问：为什么很多原始技术并非源自中国，但最后却是中国把它做成了最完整、强势的产业？这背后到底是政策红利、市场规模，还是极致的工程能力在起作用 ？ 这一期节目，我们邀请了材料学博士、TDK Ventures 投资人"
-    },
-    {
-      "id": "yt_ZEAoEPLedeY",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Best Time is Now",
-      "url": "https://www.youtube.com/watch?v=ZEAoEPLedeY",
-      "thumbnail": "https://img.youtube.com/vi/ZEAoEPLedeY/maxresdefault.jpg",
-      "published": "2026-03-18T20:00:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt__9SlOm6HHvg",
@@ -983,23 +1000,6 @@
       "url": "https://www.youtube.com/watch?v=5gspRJVp9dI",
       "thumbnail": "https://img.youtube.com/vi/5gspRJVp9dI/maxresdefault.jpg",
       "published": "2026-03-09T14:00:08+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_DNSXlBmukck",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Common Mistakes With Vibe Coded Websites",
-      "url": "https://www.youtube.com/watch?v=DNSXlBmukck",
-      "thumbnail": "https://img.youtube.com/vi/DNSXlBmukck/maxresdefault.jpg",
-      "published": "2026-03-06T15:00:31+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
