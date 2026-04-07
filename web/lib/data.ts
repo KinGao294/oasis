@@ -1,6 +1,6 @@
 // Data loading utilities
 import { FeedsData, Transcript, SourcesConfig, FeedItem } from './types';
-import feedsJson from '../data/feeds.json';
+import feedsJson from '@/data/feeds.json';
 
 // Load feeds data
 export function getFeeds(): FeedsData {
@@ -16,7 +16,7 @@ export function getFeedItem(id: string): FeedItem | undefined {
 // Load transcript for a feed item
 export async function getTranscript(id: string): Promise<Transcript | null> {
   try {
-    const transcript = await import(`../data/transcripts/${id}.json`);
+    const transcript = await import(`@/data/transcripts/${id}.json`);
     return transcript.default as Transcript;
   } catch {
     return null;

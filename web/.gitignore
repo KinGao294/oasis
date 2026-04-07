@@ -17,6 +17,9 @@
 /.next/
 /out/
 
+# Feed JSON is repo-root ../data only
+/data/
+
 # production
 /build
 

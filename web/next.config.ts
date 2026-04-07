@@ -1,6 +1,11 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  experimental: {
+    externalDir: true,
+  },
+
+
   // Allow importing JSON files
   webpack: (config) => {
     config.module.rules.push({
