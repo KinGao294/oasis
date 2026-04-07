@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """
 AI Summary Generator
-Generates timeline-based summaries for video transcripts using Zhipu GLM API
+Generates timeline-based summaries for video transcripts using Zhipu GLM API.
+
+Requires ZHIPU_API_KEY in the environment (see repository .env.example).
 """
 
 import json
@@ -18,9 +20,17 @@ FEEDS_FILE = DATA_DIR / "feeds.json"
 TRANSCRIPTS_DIR = DATA_DIR / "transcripts"
 SUMMARIES_DIR = DATA_DIR / "summaries"
 
-# Zhipu GLM API Configuration
-ZHIPU_API_KEY = os.environ.get("ZHIPU_API_KEY", "ac89591d75d3416da6fbf22bb4a510ca.s7Uw6LgQpqffES9N")
+# Zhipu GLM API Configuration (key must come from environment only)
 ZHIPU_API_URL = "https://open.bigmodel.cn/api/paas/v4/chat/completions"
+
+
+def _get_zhipu_api_key():
+    """Return stripped API key or None if unset/blank."""
+    key = os.environ.get("ZHIPU_API_KEY", "")
+    if key is None:
+        return None
+    key = key.strip()
+    return key or None
 
 
 def format_timestamp(seconds):
@@ -30,13 +40,13 @@ def format_timestamp(seconds):
     return f"{minutes}:{secs:02d}"
 
 
-def call_zhipu_api(prompt, max_tokens=8000):
+def call_zhipu_api(prompt, api_key, max_tokens=8000):
     """
     Call Zhipu GLM API
     """
     headers = {
         "Content-Type": "application/json",
-        "Authorization": f"Bearer {ZHIPU_API_KEY}"
+        "Authorization": f"Bearer {api_key}"
     }
     
     data = {
@@ -65,7 +75,7 @@ def call_zhipu_api(prompt, max_tokens=8000):
         return None
 
 
-def generate_summary(transcript_data, title):
+def generate_summary(transcript_data, title, api_key):
     """
     Generate timeline summary from transcript
     """
@@ -118,7 +128,7 @@ def generate_summary(transcript_data, title):
 5. tags提取3-5个主题标签
 6. 全部使用中文"""
 
-    response = call_zhipu_api(prompt)
+    response = call_zhipu_api(prompt, api_key)
     
     if not response:
         return None
@@ -164,9 +174,19 @@ def update_feed_with_summary(feeds_data, item_id):
 
 def generate_all_summaries():
     """Generate summaries for all transcripts"""
+    api_key = _get_zhipu_api_key()
+    if not api_key:
+        print(
+            "ERROR: ZHIPU_API_KEY is not set or is empty.\n"
+            "  Set it in your environment before running this script, for example:\n"
+            "    export ZHIPU_API_KEY='your-key'\n"
+            "  See .env.example in the repository root for a template."
+        )
+        return False
+
     if not FEEDS_FILE.exists():
         print("No feeds.json found.")
-        return
+        return True
     
     with open(FEEDS_FILE, "r", encoding="utf-8") as f:
         feeds_data = json.load(f)
@@ -205,7 +225,7 @@ def generate_all_summaries():
             transcript_data = json.load(f)
         
         # 生成摘要
-        summary_data = generate_summary(transcript_data, title)
+        summary_data = generate_summary(transcript_data, title, api_key)
         
         if summary_data:
             save_summary(item_id, summary_data, title)
@@ -224,6 +244,7 @@ def generate_all_summaries():
     print(f"  Generated: {generated}")
     print(f"  Skipped (existing): {skipped}")
     print(f"  Failed: {failed}")
+    return True
 
 
 if __name__ == "__main__":
@@ -234,4 +255,6 @@ if __name__ == "__main__":
     print("=" * 50)
     print("Oasis AI Summary Generator")
     print("=" * 50)
-    generate_all_summaries()
+    ok = generate_all_summaries()
+    if ok is False:
+        sys.exit(1)

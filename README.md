@@ -48,6 +48,8 @@ python fetch_all.py
 python transcript.py
 ```
 
+   可选：运行 `python summarize.py` 生成视频摘要时，需设置环境变量 `ZHIPU_API_KEY`（见仓库根目录 `.env.example`）。
+
 3. **启动前端**
 ```bash
 cd web
