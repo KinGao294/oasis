@@ -1,7 +1,226 @@
 {
-  "last_updated": "2026-04-09T01:54:31.828911Z",
+  "last_updated": "2026-04-10T02:07:03.841745Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_1PiLUnxd1b8",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Design your dream room by shopping with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=1PiLUnxd1b8",
+      "thumbnail": "https://img.youtube.com/vi/1PiLUnxd1b8/maxresdefault.jpg",
+      "published": "2026-04-09T23:35:45+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_OAlHiQLsYQM",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "ChatGPT and Cancer: How a Tech Founder Rewrote His Treatment Plan",
+      "url": "https://www.youtube.com/watch?v=OAlHiQLsYQM",
+      "thumbnail": "https://img.youtube.com/vi/OAlHiQLsYQM/maxresdefault.jpg",
+      "published": "2026-04-09T22:44:27+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2042317650458452312",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Best companies for future founders to work at these days: Ramp, Cursor, OpenAI. Where else?",
+      "url": "https://x.com/benln/status/2042317650458452312",
+      "images": null,
+      "published": "2026-04-09T19:04:06+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_iKx3gAODybU",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+      "thumbnail": "https://img.youtube.com/vi/iKx3gAODybU/maxresdefault.jpg",
+      "published": "2026-04-09T17:35:20+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_AIZ_v_Xfb2k",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "What Codex Unlocks for Braintrust",
+      "url": "https://www.youtube.com/watch?v=AIZ_v_Xfb2k",
+      "thumbnail": "https://img.youtube.com/vi/AIZ_v_Xfb2k/maxresdefault.jpg",
+      "published": "2026-04-09T17:09:11+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_pLyVlqhaieI",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "What Codex Unlocks for Braintrust",
+      "url": "https://www.youtube.com/watch?v=pLyVlqhaieI",
+      "thumbnail": "https://img.youtube.com/vi/pLyVlqhaieI/maxresdefault.jpg",
+      "published": "2026-04-09T17:04:48+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_3bb14dd4_0b13_4173_9d5b_0e63bf98ae1d",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 3996,
+      "published": "2026-04-09T17:00:00-07:00",
+      "hasTranscript": false,
+      "transcriptPreview": "2025年，中国餐饮品牌开启了声势浩大的出海美国。喜茶在纽约开出了更具辨识度的LAB店，霸王茶姬、瑞幸和蜜雪冰城也在这一年正式登陆美国。 但要问目前在美国做得最好的中餐和茶饮品牌，答案可能会出乎你意料——中餐第一是一度退出中国华北市场的鼎泰丰，茶饮标杆则是早在内地销声匿迹的贡茶。 究其原因，餐饮企业想顺利出海美国，不仅需要足够的“做时间的朋友”的耐心，需要对当地商业规则足够了解，更要吃透当地主流人"
+    },
+    {
+      "id": "x_2042229587082695054",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "天天给别人的产品写教程，今天终于轮到自己的产品了。 我觉得 Code Pilot 已经相当可用了，给它写了一个保姆级教程。 另外 Codepilot 现在可以脱离 Claude Code 运行，也支持了 GPT 账号的授权登录，使用你的额度。 歸藏(guizang.ai) (@op7418) x.com/i/article/204222030712… — https://nitter.net/op7418/status/2042228940157387164#m",
+      "url": "https://x.com/op7418/status/2042229587082695054",
+      "images": null,
+      "published": "2026-04-09T13:14:11+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2042228940157387164",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "x.com/i/article/204222030712…",
+      "url": "https://x.com/op7418/status/2042228940157387164",
+      "images": null,
+      "published": "2026-04-09T13:11:36+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2042211034035863748",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor Hackathon in Ghana",
+      "url": "https://x.com/benln/status/2042211034035863748",
+      "images": null,
+      "published": "2026-04-09T12:00:27+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2042063643198812381",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "谷歌的迭代真的很慢，终于在 Gemini 应用里面支持按项目整理聊天和文件 类似 Claude 的 Project 功能，他们叫笔记本 你可以把自己跟Gemini 的聊天和文件都放到对应的笔记本里 也可以直接在 NotebookLM 中打开这个笔记本进行交流。",
+      "url": "https://x.com/op7418/status/2042063643198812381",
+      "images": null,
+      "published": "2026-04-09T02:14:46+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2042061816168378868",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "小扎挖的团队终于交了第一份答卷，发布 Muse Spark 模型 支持原生多模态推理模型，支持工具使用、视觉思维链和多智能体编排。 还有“沉思（Contemplating）”模式，可以协调多个并行Agent 进行推理。 在 Artificial Analysis 上得分比 Gemini 3.1 Pro、GPT-5.4 和 Claude Opus 4.6 低一些。 只能在 Meta AI 应用上使用，暂时不开源。 AI at Meta (@AIatMeta) Introducing Muse Spark, the first in the Muse family of models developed by Meta Superintelligence Labs. Muse Spark is a natively multimodal reasoning model with support for tool-use, visual chain of thought, and multi-agent orchestration. Muse Spark is available today at meta.ai and the Meta AI app. We’re also making it available in private preview via API to select partners, and we hope to open-source future versions of the model. Learn more: go.meta.me/43ea00 — https://nitter.net/AIatMeta/status/2041910285653737975#m",
+      "url": "https://x.com/op7418/status/2042061816168378868",
+      "images": null,
+      "published": "2026-04-09T02:07:31+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2042060231904260588",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Anthropic 发布云端托管 Agent 基础设施 Claude Managed Agents 帮你把安全沙箱、会话状态、权限管理、凭证和追踪等底层工程都打包好 只需要定义任务、工具和规则，就能让 Agent 长时间自主运行、调用工具、恢复错误，还有多 Agent 协同和自我评估迭代 把从原型到生产的周期从几个月压缩到几天 开发和上线速度提升 3–10 倍，工程团队可以少花时间在基础设施上，多把精力放在产品体验和业务集成上 计费方式是在 Claude 标准 token 单价基础上，每小时会话活跃运行额外收取 0.08 美元。 Claude (@claudeai) Introducing Claude Managed Agents: everything you need to build and deploy agents at scale. It pairs an agent harness tuned for performance with production infrastructure, so you can go from prototype to launch in days. Now in public beta on the Claude Platform. Video — https://nitter.net/claudeai/status/2041927687460024721#m",
+      "url": "https://x.com/op7418/status/2042060231904260588",
+      "images": null,
+      "published": "2026-04-09T02:01:13+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2041912812637966552",
       "source": "Ben Lang",
@@ -169,91 +388,6 @@
       "url": "https://x.com/benln/status/2041483521580060707",
       "images": null,
       "published": "2026-04-07T11:49:35+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2041384632655196476",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "安装后就能用不用管 Claude Code",
-      "url": "https://x.com/op7418/status/2041384632655196476",
-      "images": null,
-      "published": "2026-04-07T05:16:38+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2041384540690952563",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "终于彻底解耦了！ 下个版本 CodePilot 可以支持脱离 Claude Code 运行，如果你要启用 Claude Code 连接的话也可以。 也还会支持 Codex 授权登录",
-      "url": "https://x.com/op7418/status/2041384540690952563",
-      "images": null,
-      "published": "2026-04-07T05:16:16+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2041358333597421595",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "在开了 Fast 模式疯狂使用后 第一次用完 20 美元会员 Codex 的 5 小时限额 真 tm 耐用啊",
-      "url": "https://x.com/op7418/status/2041358333597421595",
-      "images": null,
-      "published": "2026-04-07T03:32:07+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2041352863738466732",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "整理一下藏师傅开源的所有 Skill Claude-to-IM-skill： 1800🌟 安装后可以将你的 Claude Code 和 Codex 连接到任何聊天软件，实现远程控制 github.com/op7418/Claude-to-… Video-Wrapper-Skills： 200🌟 自动为你的视频添加类似“小Lin说”那样的解释特效，支持高亮卡片、关键词卡片、作者介绍、社交媒体卡片等多种组件 github.com/op7418/Video-Wrap… Youtube-clipper-skill： 1700🌟 帮你从 YouTube 下载长视频，并在分析视频后给出“长剪短”的方案，同时会自动添加中英双语字幕。 github.com/op7418/Youtube-cl… Document-illustrator-skill： 300🌟 自动分析文档并生成配图，支持 16:9 和 4:3 比例。它会按照你的分段生成多张配图，并支持多种风格选择。我常用的封面图就是用这个生成的。 github.com/op7418/Document-i… Humanizer-zh： 5600🌟 去除 AI 生成文档中常见的“AI 味”表述，采用两段式处理，帮你提升 AI 生成内容的观感。 github.com/op7418/Humanizer-… NanoBanana-PPT-Skills： 2100🌟 基于 AI 自动生成高质量 PPT 图片和视频的强大工具，支持智能转场和交互式播放，带有非常顺滑的转场动效。 github.com/op7418/NanoBanana…",
-      "url": "https://x.com/op7418/status/2041352863738466732",
-      "images": null,
-      "published": "2026-04-07T03:10:23+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2041332295710462453",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Telegram 这个更新牛蛙 你的机器人可以自主创建和管理其他机器人了，不需要你的审批和操作。 这样你的龙虾或者 Claude Code 就可以帮你创建带有复杂功能的机器人 Pavel Durov (@durov) The monthly Telegram update is out. 🧠 100% private AI Editor for your messages. 🗳 The most powerful polls (+12 new features). 🖼 Support for Live Photos & Motion Photos. 🤖 Ability for [AI] Bots to create [AI] Bots for users — in one tap. 📹 Demos: telegram.org/blog/ai-editor-… — https://nitter.net/durov/status/2040943162663854139#m",
-      "url": "https://x.com/op7418/status/2041332295710462453",
-      "images": null,
-      "published": "2026-04-07T01:48:40+00:00",
       "hasTranscript": false
     },
     {
@@ -492,23 +626,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2039355570113655191",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "One company is not like the rest",
-      "url": "https://x.com/benln/status/2039355570113655191",
-      "images": null,
-      "published": "2026-04-01T14:53:51+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_krdrkl38nRw",
       "source": "a16z",
       "sourceId": "a16z",
@@ -524,23 +641,6 @@
       "published": "2026-04-01T14:30:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2039322958271795595",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Remaining cities with most demand for Cafe Cursor: • Amsterdam • Delhi • Hyderabad • Pune • Munich • Los Angeles • Chicago • Seoul • Rio • Austin • Seattle • Stockholm Stay tuned!",
-      "url": "https://x.com/benln/status/2039322958271795595",
-      "images": null,
-      "published": "2026-04-01T12:44:16+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_CkEse6MmGFk",
@@ -637,26 +737,10 @@
       "domains": [
         "AI"
       ],
-      "title": "Design your dream room by shopping with ChatGPT",
+      "title": "Research and compare products with ChatGPT",
       "url": "https://www.youtube.com/watch?v=jM1oSEXssOE",
       "thumbnail": "https://img.youtube.com/vi/jM1oSEXssOE/maxresdefault.jpg",
       "published": "2026-03-27T17:27:04+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_7IB1KBVm7HE",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Shopping in ChatGPT just got a whole lot more helpful",
-      "url": "https://www.youtube.com/watch?v=7IB1KBVm7HE",
-      "thumbnail": "https://img.youtube.com/vi/7IB1KBVm7HE/maxresdefault.jpg",
-      "published": "2026-03-27T17:12:13+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -691,54 +775,6 @@
       "url": "https://www.youtube.com/watch?v=k2ZLQC8P7dc",
       "thumbnail": "https://img.youtube.com/vi/k2ZLQC8P7dc/maxresdefault.jpg",
       "published": "2026-03-27T14:00:55+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_fFboNpWweyE",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "ChatGPT Shopping | Research and compare products without all the tabs.",
-      "url": "https://www.youtube.com/watch?v=fFboNpWweyE",
-      "thumbnail": "https://img.youtube.com/vi/fFboNpWweyE/maxresdefault.jpg",
-      "published": "2026-03-26T20:31:28+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_yUjfp2DlfCA",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "What Codex Unlocks for Ryan Hendler, dev at me&u",
-      "url": "https://www.youtube.com/watch?v=yUjfp2DlfCA",
-      "thumbnail": "https://img.youtube.com/vi/yUjfp2DlfCA/maxresdefault.jpg",
-      "published": "2026-03-26T17:18:07+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_4_P7R8Fjrg8",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "What Codex Unlocks for Ryan Hendler, dev at me&u",
-      "url": "https://www.youtube.com/watch?v=4_P7R8Fjrg8",
-      "thumbnail": "https://img.youtube.com/vi/4_P7R8Fjrg8/maxresdefault.jpg",
-      "published": "2026-03-26T17:07:55+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1196,25 +1232,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "pod_guigu101_pod_a3db99dd_ae7e_4934_9902_73782ecf9053",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E224｜深度拆解Clawdbot，为何它能成为2026年第一个现象级产品？",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/a3db99dd-ae7e-4934-9902-73782ecf9053.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 4780,
-      "published": "2026-02-03T16:00:00-08:00",
-      "hasTranscript": false,
-      "transcriptPreview": "AI正在冲出浏览器，走向了接管电脑权限、主动为人打工的新阶段，为了它，你得买台Mac mini？ GitHub星标数几天内突破14万，社交媒体上全网刷屏，甚至直接带火了Mac mini的销量，Clawdbot成了2026“AI Agent爆发元年”第一个现象级产品。它不再是冷冰冰的聊天框，而是一个住在你电脑里、甚至能在AI“朋友圈”（Moltbook）里社交的“数字生命”。 Clawdbot的“活"
-    },
-    {
       "id": "yt_EV7WhVT270Q",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -1345,23 +1362,6 @@
       "url": "https://www.youtube.com/watch?v=Q7INj06TUv4",
       "thumbnail": "https://img.youtube.com/vi/Q7INj06TUv4/maxresdefault.jpg",
       "published": "2025-12-23T09:29:56+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt__bBRVNkAfkQ",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Deciphering Secrets of Ancient Civilizations, Noah's Ark, and Flood Myths | Lex Fridman Podcast #487",
-      "url": "https://www.youtube.com/watch?v=_bBRVNkAfkQ",
-      "thumbnail": "https://img.youtube.com/vi/_bBRVNkAfkQ/maxresdefault.jpg",
-      "published": "2025-12-12T20:01:08+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
