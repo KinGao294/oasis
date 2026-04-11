@@ -1,7 +1,108 @@
 {
-  "last_updated": "2026-04-10T02:07:03.841745Z",
+  "last_updated": "2026-04-11T01:55:40.990265Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2042781932061364524",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "一个新的实时可交互世界模型 Waypoint-1.5 主角动作流畅还能跟武器交互，运行也非常流畅 Video",
+      "url": "https://x.com/op7418/status/2042781932061364524",
+      "images": null,
+      "published": "2026-04-11T01:49:00+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_flweA_I-VKE",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Builders Unscripted: Ep. 2 - Ashe Magalhaes, Founder of Hearth AI",
+      "url": "https://www.youtube.com/watch?v=flweA_I-VKE",
+      "thumbnail": "https://img.youtube.com/vi/flweA_I-VKE/maxresdefault.jpg",
+      "published": "2026-04-10T17:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2042612179040677954",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Anthropic 最近算力成本真是顶不住了，疯狂降成本 昨晚又推出了advisor tool，Sonnet 和 Haiku 这种小模型执行任务的时候，可以调用 Opus 这种大模型介入指导。 有人说估计 Anthropic 也会用这种方式让我们访问 Mythos 模型。 因为这样用户无法直接访问模型，又能提高现有模型的能力水平。 既能大幅提高 Sonnet 和 Haiku 模型也能力也可以节省成本，因为在这个过程中 Opsu 消耗量很少。 调用的话只需要把 advisor_20260301 加到 tools 数组里，指定 advisor 模型（通常是 Opus）和最大调用次数就行。 Alex Albert (@alexalbert__) Allowing Sonnet to \"phone a friend\" (i.e. call Opus) increases performance while also reducing total cost since it reduces tokens spent trying to solve more complex tasks — https://nitter.net/alexalbert__/status/2042329150086922574#m",
+      "url": "https://x.com/op7418/status/2042612179040677954",
+      "images": null,
+      "published": "2026-04-10T14:34:28+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2042597263072022836",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "More suggestions: Vercel, Anduril, Mercury, Stripe, ElevenLabs, Profound, Anthropic, Mintlify, Databricks, SpaceX, Elise AI, Browserbase, Palantir, Notion, Adaptive Security, Slash, Standard Metrics, Superpower, Nozomio, Foam, Lovable, Polymarket, Starcloud, Linear, Boltnew Ben Lang (@benln) Best companies for future founders to work at these days: Ramp, Cursor, OpenAI. Where else? — https://nitter.net/benln/status/2042317650458452312#m",
+      "url": "https://x.com/benln/status/2042597263072022836",
+      "images": null,
+      "published": "2026-04-10T13:35:11+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2042442402867397023",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这几天这个 SBTI 可太火了。 跑去 B 站找原版测试了一下，他妈的，它骂我。 感觉这几天这种类型的测试会越来越多，肯定会有人整Skill的",
+      "url": "https://x.com/op7418/status/2042442402867397023",
+      "images": null,
+      "published": "2026-04-10T03:19:50+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2042427550371364924",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "牛逼，OpenAI 终于推出 100 美元的 Pro 会员了！ 有 5 倍的 Codex 用量，而且 100 美元的 Pro 会员也能用所有的 Pro 功能。 同时你现在买 100 美元的 Codex，到 5 月 31 号会有比 Plus 多 10 倍的 Codex 用量。 已经买了 $200 的 Pro 会员，也会有双倍的用量，持续到 5 月 31 号。 妈的，他又把那个额度重置了，现在就是拿钱砸死 Anthropic。 OpenAI (@OpenAI) We’re updating our ChatGPT Pro and Plus subscriptions to better support the growing use of Codex. We’re introducing a new $100/month Pro tier. This new tier offers 5x more Codex usage than Plus and is best for longer, high-effort Codex sessions. In ChatGPT, this new Pro tier still offers access to all Pro features, including the exclusive Pro model and unlimited access to Instant and Thinking models. To celebrate the launch, we’re increasing Codex usage for a limited time through May 31st so that Pro $100 subscribers get up to 10x usage of ChatGPT Plus on Codex to build your most ambitious ideas. — https://nitter.net/OpenAI/status/2042295688323875316#m",
+      "url": "https://x.com/op7418/status/2042427550371364924",
+      "images": null,
+      "published": "2026-04-10T02:20:49+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_1PiLUnxd1b8",
       "source": "OpenAI",
@@ -273,57 +374,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2041733863316320771",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "今天在抖音看到一个好玩的，就是一个三个键的小键盘。 然后他把那个大疆的 Mac mini 不是后边有磁铁吗？粘在了小键盘的侧边。 这样的话就可以当成一个竖着的麦克风，还有三个按键。 然后你的大疆的那个接收器插在电脑上，你就可以躺在你家的任何一个地方，跟你的电脑交流和说话",
-      "url": "https://x.com/op7418/status/2041733863316320771",
-      "images": null,
-      "published": "2026-04-08T04:24:21+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2041692338192535761",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "又重置使用限制，真有你的 Open AI Sam 还说每周用户每增加一百万就重置一次，直到达到一千万用户 Sam Altman (@sama) To celebrate 3 million weekly codex users, we are resetting usage limits. We will do this every million users up to 10 million. Happy building! — https://nitter.net/sama/status/2041658719839383945#m",
-      "url": "https://x.com/op7418/status/2041692338192535761",
-      "images": null,
-      "published": "2026-04-08T01:39:20+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2041690827941142842",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "前几天爆料的 Anthropic 超级模型 Mythos 居然真的存在。 Anthropic 说，这是他们至今为止最强的模型。 测评结果远高于 Opus 4.6，在代码理解、漏洞挖掘和利用上表现出了明显的跃迁能力，强大到他们不敢公布。 然后只用这个 Project Glasswing，有限地提供给那些互联网基础设施的服务商，去帮他们发现漏洞。 他甚至在 Linux 内核中，自主找到了多个连续的漏洞，实现了从一个无权限的普通用户提权，拿到了 root 权限。 还发现了一个 OpenBSD 存在了 27 年的老漏洞， OpenBSD 以「最安全操作系统之一」著称。 还有一个是 FFmpeg 存在了 16 年的老漏洞。 他非常擅长把三五个看起来价值不大的小漏洞，组合成一个复杂的多步 exploit 变成大漏洞。 然后这个模型的价格是 $25 / $125（百万输入 / 输出 token）。 本身是不会开放给公众使用的。 后续他们会把这一部分能力，放到 Opus 其他升级模型的能力里去。 我觉得这些评论其实挺有意思。表面上说是为了安全而不公开模型，但实质上也是在把最强的网络进攻武器集中到少数机构手中。 Anthropic (@AnthropicAI) Introducing Project Glasswing: an urgent initiative to help secure the world’s most critical software. It’s powered by our newest frontier model, Claude Mythos Preview, which can find software vulnerabilities better than all but the most skilled humans. anthropic.com/glasswing — https://nitter.net/AnthropicAI/status/2041578392852517128#m",
-      "url": "https://x.com/op7418/status/2041690827941142842",
-      "images": null,
-      "published": "2026-04-08T01:33:20+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_ZpUKNYcgM-E",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -338,23 +388,6 @@
       "published": "2026-04-07T20:36:27+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2041541675609428314",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codepilot 帮我整理完后我的 Obsidian 笔记图谱 歸藏(guizang.ai) (@op7418) karpathy 针对他这个 AI 知识库方案给了个更详细的版本 gist.github.com/karpathy/442… — https://nitter.net/op7418/status/2040471456820408449#m",
-      "url": "https://x.com/op7418/status/2041541675609428314",
-      "images": null,
-      "published": "2026-04-07T15:40:40+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_oheUsh7VtKY",
@@ -543,23 +576,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2039771322637517060",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Huge launch from the Cursor team today: Cursor (@cursor_ai) We’re introducing Cursor 3. It is simpler, more powerful, and built for a world where all code is written by agents, while keeping the depth of a development environment. Video — https://nitter.net/cursor_ai/status/2039768512894505086#m",
-      "url": "https://x.com/benln/status/2039771322637517060",
-      "images": null,
-      "published": "2026-04-02T18:25:55+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_0_NGsljlo3o",
       "source": "a16z",
       "sourceId": "a16z",
@@ -725,22 +741,6 @@
       "url": "https://www.youtube.com/watch?v=th8u0bqYsQk",
       "thumbnail": "https://img.youtube.com/vi/th8u0bqYsQk/maxresdefault.jpg",
       "published": "2026-03-27T20:55:13+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_jM1oSEXssOE",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Research and compare products with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=jM1oSEXssOE",
-      "thumbnail": "https://img.youtube.com/vi/jM1oSEXssOE/maxresdefault.jpg",
-      "published": "2026-03-27T17:27:04+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
