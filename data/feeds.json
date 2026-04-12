@@ -1,7 +1,92 @@
 {
-  "last_updated": "2026-04-11T01:55:40.990265Z",
+  "last_updated": "2026-04-12T02:08:48.687857Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_yHqqYCWl4Cc",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Why Instagram load times are so fast",
+      "url": "https://www.youtube.com/watch?v=yHqqYCWl4Cc",
+      "thumbnail": "https://img.youtube.com/vi/yHqqYCWl4Cc/maxresdefault.jpg",
+      "published": "2026-04-11T19:00:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2042877644333556100",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Hermes Agent 也原生支持连接微信了，不过不是微信官方的插件，也是逆向的。 Nous Research (@NousResearch) 给中国用户的好消息：Hermes Agent 现在原生支持个人微信了 微信扫码即可连接，私聊群聊都支持。图片、视频、文件、语音消息全覆盖，长轮询直连，不需要公网 IP。 运行 'hermes update' 即可体验 文档：hermes-agent.nousresearch.co… 感谢 @Bravohenry_ 的贡献 — https://nitter.net/NousResearch/status/2042821620281053641#m",
+      "url": "https://x.com/op7418/status/2042877644333556100",
+      "images": null,
+      "published": "2026-04-11T08:09:19+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2042823409940471815",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Claude Code 生成的代码质量突然变好了不少，而且不会有之前那种偷懒行为了 不知道 Anthropic 做了什么改动，可能是卡到位了？",
+      "url": "https://x.com/op7418/status/2042823409940471815",
+      "images": null,
+      "published": "2026-04-11T04:33:49+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2042801282407371027",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "龙虾作者 Peter 的 Claude 账号早上被封了，发出来之后 Anthropic 给他解了，这一天天的 Peter Steinberger 🦞 (@steipete) Yeah folks, it's gonna be harder in the future to ensure OpenClaw still works with Anthropic models. — https://nitter.net/steipete/status/2042615534567457102#m",
+      "url": "https://x.com/op7418/status/2042801282407371027",
+      "images": null,
+      "published": "2026-04-11T03:05:53+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2042787847128912128",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "详情：nitter.net/overworld_ai/status/20… Overworld (@overworld_ai) We also wrote a short blog walking through what changed between the two releases and some of the engineering work behind making these systems practical to run. Read it here: over.world/blog/waypoint-1-5 — https://nitter.net/overworld_ai/status/2042289232023339326#m",
+      "url": "https://x.com/op7418/status/2042787847128912128",
+      "images": null,
+      "published": "2026-04-11T02:12:30+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2042781932061364524",
       "source": "归藏",
@@ -272,57 +357,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2042063643198812381",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "谷歌的迭代真的很慢，终于在 Gemini 应用里面支持按项目整理聊天和文件 类似 Claude 的 Project 功能，他们叫笔记本 你可以把自己跟Gemini 的聊天和文件都放到对应的笔记本里 也可以直接在 NotebookLM 中打开这个笔记本进行交流。",
-      "url": "https://x.com/op7418/status/2042063643198812381",
-      "images": null,
-      "published": "2026-04-09T02:14:46+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2042061816168378868",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "小扎挖的团队终于交了第一份答卷，发布 Muse Spark 模型 支持原生多模态推理模型，支持工具使用、视觉思维链和多智能体编排。 还有“沉思（Contemplating）”模式，可以协调多个并行Agent 进行推理。 在 Artificial Analysis 上得分比 Gemini 3.1 Pro、GPT-5.4 和 Claude Opus 4.6 低一些。 只能在 Meta AI 应用上使用，暂时不开源。 AI at Meta (@AIatMeta) Introducing Muse Spark, the first in the Muse family of models developed by Meta Superintelligence Labs. Muse Spark is a natively multimodal reasoning model with support for tool-use, visual chain of thought, and multi-agent orchestration. Muse Spark is available today at meta.ai and the Meta AI app. We’re also making it available in private preview via API to select partners, and we hope to open-source future versions of the model. Learn more: go.meta.me/43ea00 — https://nitter.net/AIatMeta/status/2041910285653737975#m",
-      "url": "https://x.com/op7418/status/2042061816168378868",
-      "images": null,
-      "published": "2026-04-09T02:07:31+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2042060231904260588",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Anthropic 发布云端托管 Agent 基础设施 Claude Managed Agents 帮你把安全沙箱、会话状态、权限管理、凭证和追踪等底层工程都打包好 只需要定义任务、工具和规则，就能让 Agent 长时间自主运行、调用工具、恢复错误，还有多 Agent 协同和自我评估迭代 把从原型到生产的周期从几个月压缩到几天 开发和上线速度提升 3–10 倍，工程团队可以少花时间在基础设施上，多把精力放在产品体验和业务集成上 计费方式是在 Claude 标准 token 单价基础上，每小时会话活跃运行额外收取 0.08 美元。 Claude (@claudeai) Introducing Claude Managed Agents: everything you need to build and deploy agents at scale. It pairs an agent harness tuned for performance with production infrastructure, so you can go from prototype to launch in days. Now in public beta on the Claude Platform. Video — https://nitter.net/claudeai/status/2041927687460024721#m",
-      "url": "https://x.com/op7418/status/2042060231904260588",
-      "images": null,
-      "published": "2026-04-09T02:01:13+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2041912812637966552",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -337,23 +371,6 @@
       "url": "https://x.com/benln/status/2041912812637966552",
       "images": null,
       "published": "2026-04-08T16:15:26+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2041892453582836115",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "发现了一个牛逼的新产品 Moxt 交互和产品的设计将新的 Agent 体系融合得非常好，门槛很低。 可以非常好的帮你将你的和团队的上下文变成工作的助力 Moxt (@moxt_ai) What if every person on your team had an AI teammate — one that thinks, writes, builds, and remembers everything? Then more show up. AI researchers. AI operators. AI strategists. All working right alongside you. Build your AI team here. This is Moxt. → moxt.ai Video — https://nitter.net/moxt_ai/status/2041534023689007212#m",
-      "url": "https://x.com/op7418/status/2041892453582836115",
-      "images": null,
-      "published": "2026-04-08T14:54:32+00:00",
       "hasTranscript": false
     },
     {
@@ -845,23 +862,6 @@
       "url": "https://www.youtube.com/watch?v=ZA4IrqIyfzQ",
       "thumbnail": "https://img.youtube.com/vi/ZA4IrqIyfzQ/maxresdefault.jpg",
       "published": "2026-03-24T20:00:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_jHECsr9GCs8",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Inside The $100M Bet on the Future of Space | Northwood CEO on a16z",
-      "url": "https://www.youtube.com/watch?v=jHECsr9GCs8",
-      "thumbnail": "https://img.youtube.com/vi/jHECsr9GCs8/maxresdefault.jpg",
-      "published": "2026-03-23T20:00:13+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
