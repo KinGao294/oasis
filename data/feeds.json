@@ -1,7 +1,92 @@
 {
-  "last_updated": "2026-04-12T02:08:48.687857Z",
+  "last_updated": "2026-04-13T02:13:12.815030Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2043375324113613061",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "You don't have to be a founder to have a life-changing outcome in tech Great trend for startup employees:",
+      "url": "https://x.com/benln/status/2043375324113613061",
+      "images": null,
+      "published": "2026-04-12T17:06:56+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2043303392206827657",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Kuala Lumpur",
+      "url": "https://x.com/benln/status/2043303392206827657",
+      "images": null,
+      "published": "2026-04-12T12:21:06+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2043267268499644842",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这里尝试：jimeng.jianying.com/ai-tool/…",
+      "url": "https://x.com/op7418/status/2043267268499644842",
+      "images": null,
+      "published": "2026-04-12T09:57:33+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2043267086546571705",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "即梦近期发布了他们的视频生成 Agent 产品 Octo！ 用了一段时间发现他们在如何跟 AI 协作制作视频上思考得非常多。 无论是对于不太懂视频制作的普通人或者专业的视频内容创作者都非常好用，专门做了针对性的设计。 非常有创意的是随时可以按斜杠呼出的 Agent 对话框这个交互非常适配无线画布的交互。 你在拖动和查看无线画布中的生成结果的时候，再回到最右侧交互其实是非常打断心流的。 Octo 可以在任何位置帮你唤起聊天窗口，而且窗口可以感知到界面中的任何信息，无论是你的素材还是生成结果。 以往的无线画布产品其实门槛高就高在，不知道什么内容应该用什么组件，以及组件间如何联系。 现在 Octo 这些全都可以通过聊天控制，你直接用自然语言告诉他要添加哪些组件执行什么操作就行，他会自动帮你添加和生成。 无线画布的优势方便预览和组织可以有，同时创建的门槛被 Agent 降低了，学习成本很低。 另外由于他可以感知画布中的内容，不只是你生成的，你上传的也可以，所以也可以让他读你的参考图和文字，帮你发散思路。 而且你既可以自己把控每一个步骤，也可以让他一次性生成所有内容。 还内置了一套标准的创作流程，保证生成视频的可控性与质量。 比如你给他脚本和思路之后他会先帮你分析并生成角色和关键物品、场景设定。 之后会基于生成的文本分镜描述和场景物品设定进行每个分镜的详细图片设计。 在你审核通过之后会开始调用 Seedance 2.0 生成视频，生成的视频还能编辑和调整。 如果你也觉得现有的视频创作工具不太符合你的需求，可以试试 Octo。",
+      "url": "https://x.com/op7418/status/2043267086546571705",
+      "images": null,
+      "published": "2026-04-12T09:56:50+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2043181165012828373",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "给 Codepilot 增加了类似 Hermes Agent 的 Skills 自动创建功能 如果你的整个操作链路非常复杂，AI 就会建议是否为这个流程生成 Skills",
+      "url": "https://x.com/op7418/status/2043181165012828373",
+      "images": null,
+      "published": "2026-04-12T04:15:24+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_yHqqYCWl4Cc",
       "source": "a16z",
@@ -172,23 +257,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2042427550371364924",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "牛逼，OpenAI 终于推出 100 美元的 Pro 会员了！ 有 5 倍的 Codex 用量，而且 100 美元的 Pro 会员也能用所有的 Pro 功能。 同时你现在买 100 美元的 Codex，到 5 月 31 号会有比 Plus 多 10 倍的 Codex 用量。 已经买了 $200 的 Pro 会员，也会有双倍的用量，持续到 5 月 31 号。 妈的，他又把那个额度重置了，现在就是拿钱砸死 Anthropic。 OpenAI (@OpenAI) We’re updating our ChatGPT Pro and Plus subscriptions to better support the growing use of Codex. We’re introducing a new $100/month Pro tier. This new tier offers 5x more Codex usage than Plus and is best for longer, high-effort Codex sessions. In ChatGPT, this new Pro tier still offers access to all Pro features, including the exclusive Pro model and unlimited access to Instant and Thinking models. To celebrate the launch, we’re increasing Codex usage for a limited time through May 31st so that Pro $100 subscribers get up to 10x usage of ChatGPT Plus on Codex to build your most ambitious ideas. — https://nitter.net/OpenAI/status/2042295688323875316#m",
-      "url": "https://x.com/op7418/status/2042427550371364924",
-      "images": null,
-      "published": "2026-04-10T02:20:49+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_1PiLUnxd1b8",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -304,40 +372,6 @@
       "published": "2026-04-09T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "2025年，中国餐饮品牌开启了声势浩大的出海美国。喜茶在纽约开出了更具辨识度的LAB店，霸王茶姬、瑞幸和蜜雪冰城也在这一年正式登陆美国。 但要问目前在美国做得最好的中餐和茶饮品牌，答案可能会出乎你意料——中餐第一是一度退出中国华北市场的鼎泰丰，茶饮标杆则是早在内地销声匿迹的贡茶。 究其原因，餐饮企业想顺利出海美国，不仅需要足够的“做时间的朋友”的耐心，需要对当地商业规则足够了解，更要吃透当地主流人"
-    },
-    {
-      "id": "x_2042229587082695054",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "天天给别人的产品写教程，今天终于轮到自己的产品了。 我觉得 Code Pilot 已经相当可用了，给它写了一个保姆级教程。 另外 Codepilot 现在可以脱离 Claude Code 运行，也支持了 GPT 账号的授权登录，使用你的额度。 歸藏(guizang.ai) (@op7418) x.com/i/article/204222030712… — https://nitter.net/op7418/status/2042228940157387164#m",
-      "url": "https://x.com/op7418/status/2042229587082695054",
-      "images": null,
-      "published": "2026-04-09T13:14:11+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2042228940157387164",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "x.com/i/article/204222030712…",
-      "url": "https://x.com/op7418/status/2042228940157387164",
-      "images": null,
-      "published": "2026-04-09T13:11:36+00:00",
-      "hasTranscript": false
     },
     {
       "id": "x_2042211034035863748",
@@ -556,40 +590,6 @@
       "url": "https://x.com/benln/status/2040780285088841996",
       "images": null,
       "published": "2026-04-05T13:15:10+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2040090366213325277",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Startups best known for hiring former founders: Cursor, Notion, Rippling, Applied Intuition, Supabase, Ramp, Exa, Chroma, Corgi, Lovable, Mintlify, Browserbase, Instawork Who else? Refreshing my shortlist.",
-      "url": "https://x.com/benln/status/2040090366213325277",
-      "images": null,
-      "published": "2026-04-03T15:33:41+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2040041853106393327",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Ho Chi Minh City",
-      "url": "https://x.com/benln/status/2040041853106393327",
-      "images": null,
-      "published": "2026-04-03T12:20:54+00:00",
       "hasTranscript": false
     },
     {
