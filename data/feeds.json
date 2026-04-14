@@ -1,7 +1,177 @@
 {
-  "last_updated": "2026-04-13T02:13:12.815030Z",
+  "last_updated": "2026-04-14T02:07:45.251438Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2043722921856860201",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Gemini 真是做设计的一把好手，尤其是用 SVG 画 logo 只要给一些适当的引导就可以画的很好 给 Codepilot 的新 logo SVG 的部分也是他完成的，我自己在基础上精修",
+      "url": "https://x.com/op7418/status/2043722921856860201",
+      "images": null,
+      "published": "2026-04-13T16:08:09+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2043721492807241746",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "又炸了",
+      "url": "https://x.com/op7418/status/2043721492807241746",
+      "images": null,
+      "published": "2026-04-13T16:02:29+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2043719185608691915",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Skill 上了：nitter.net/op7418/status/20437165… 歸藏(guizang.ai) (@op7418) 为任何产品生成高级感宣传动画提示词 Skill！ 他会询问你的产品信息和让你提供截图帮你生成Seedance 2.0 产品宣传动画提示词。 如果你装了即梦 CLI 还会自动帮你生成视频 Video — https://nitter.net/op7418/status/2043716532463927427#m",
+      "url": "https://x.com/op7418/status/2043719185608691915",
+      "images": null,
+      "published": "2026-04-13T15:53:18+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2043716638634352658",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这里安装：github.com/op7418/Seedance-P…",
+      "url": "https://x.com/op7418/status/2043716638634352658",
+      "images": null,
+      "published": "2026-04-13T15:43:11+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2043716532463927427",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "为任何产品生成高级感宣传动画提示词 Skill！ 他会询问你的产品信息和让你提供截图帮你生成Seedance 2.0 产品宣传动画提示词。 如果你装了即梦 CLI 还会自动帮你生成视频 Video 歸藏(guizang.ai) (@op7418) Seedance 2.0 在海外上线以后，很多用户也拿它来做产品宣传动画。 这哥们的提示词写法非常牛皮！ 刚好我最近给 CodePilot 做了一个新的 logo，然后就参考了一下，做了新的产品宣传动画。 顺便我总结成了一个提示词，你可以为你的产品也定制类似的 Seedance 2.0 提示词。 Video — https://nitter.net/op7418/status/2043681071565517238#m",
+      "url": "https://x.com/op7418/status/2043716532463927427",
+      "images": null,
+      "published": "2026-04-13T15:42:46+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_yiJOTCRVWjc",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Building Agents at Home: Homeschooling, Parenting and More | The a16z Show",
+      "url": "https://www.youtube.com/watch?v=yiJOTCRVWjc",
+      "thumbnail": "https://img.youtube.com/vi/yiJOTCRVWjc/maxresdefault.jpg",
+      "published": "2026-04-13T14:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2043681522818175302",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "提示词： 你现在的任务是接收用户上传的 [Logo 图片/草图] 和 [项目/产品描述]，并为 Seedance 2.0 视频生成模型撰写一段极致专业的、15 秒一镜到底的动态影像提示词 (Prompt)。 美学风格矩阵 (The Aesthetic Matrix) 根据用户的产品定位或明确要求，从以下 4 种顶级设计语言中选择最契合的视觉基调，并将其应用到最终的提示词中： 风格 A: Apple Cupertino (深邃磨砂/高端硬件感) 视觉关键词: Deep titanium or space black background, frosted glass elements (glassmorphism), soft specular highlights, smooth depth, premium ambient lighting. 适用: 旗舰级产品、高端 AI 硬件、极简科技工具。 风格 B: Microsoft Fluent (亚克力/光影层叠) 视觉关键词: Soft layered environments, colorful yet elegant gradients, acrylic translucent textures, playful structural geometry, directional studio lighting. 适用: 办公协同软件、生产力工具、生态级平台。 风格 C: Bauhaus / Kenya Hara (哑光禅意/极简留白) 视觉关键词: Soft off-white background, deep carbon-black elements, matte e-ink texture, absolutely no glow, flat architectural minimalism. 适用: 效率工具、阅读器、极简主义内容平台 (如 Aura AI)。 风格 D: Vercel / Linear (极客暗夜/射线引擎) 视觉关键词: Pure void black background, sharp glowing accent lines (neon blue/purple), wireframes, high-tech mathematical matrix, glowing grids. 适用: 开发者工具、代码框架、高性能计算产品。 核心撰写规则 (Strict Rules) 字数严格限制: 最终输出的英文字符数必须控制在 1000 - 1500 characters 之间。绝不允许超过 2000 字符！ 全局镜头约束: 必须在开头声明 No cuts. Locked-off static center frame, no camera movement. All motion occurs within the subject. 动作流转 (Morphing): 严禁物体凭空出现或消失。必须使用极具画面感的过渡动词，让上一个物体平滑变形为下一个物体 (e.g., compresses into, snaps magnetically, melts into, folds into)。 时间戳结构: 使用 0-2s [NAME]: description 的格式，将 15 秒划分为 5-6 个连续的形变阶段。 第 12-13 秒的静止: 必须设计一次向中心的极度坍缩 (Collapse) 和一拍的静止 (holds for one silent beat)。 声音与风格 (结尾): 声音设计只需一段话概括全局演变，严禁为每一秒写具体的音效。 Workflow 选择基调: 根据产品特征，从美学矩阵中选定 A/B/C/D 其中一种风格。 提取概念: 分析产品描述，提取核心特征，将其转化为视觉形态（如：AI 总结 = 散乱点阵融合成一个方块；生态链接 = 几何体交织）。 编排分镜: 结合 Logo 结构，编排 15 秒的形变过程，确保 9-12s 出现 Logo 的原型结构。 套用模板: 将选定的视觉关键词填入下方的 Template，输出最终的纯英文 Prompt。 Output Template (严格按此格式输出全英文内容) Ultra-sleek minimal motion design sequence. [插入背景描述, e.g., Deep titanium background]. [插入材质与光影描述, e.g., Frosted glass elements with soft specular highlights]. [插入整体风格, e.g., Premium hardware aesthetic]. Locked-off static center frame, no cuts, no camera movement. All motion is smooth and mathematical. 0–2s [STARTING STATE]: [Describe particles or basic elements forming the first logical shape] 2–5s [SHAPE 1 → SHAPE 2]: [Describe smooth morphological transition representing the product's first feature] 5–9s [SHAPE 2 → SHAPE 3]: [Describe transformation into a more complex structure representing the product's core value] 9–12s [SHAPE 3 → PRE-LOGO]: [Describe the structure snapping into a shape that visually hints at the user's logo] 12–13s [COLLAPSE]: The entire structure holds for one silent beat, then rapidly collapses inward, compressing into a single dense point. 13–15s [LOGO]: The point expands seamlessly into the minimalist brand logo: \"[Brand Name]\". Typography is clean sans-serif. Sound Design: [Insert 1-2 sentences describing the audio atmosphere matching the chosen style, e.g., Deep sub-bass transitioning to smooth glass slides, ending in silence with a soft cinematic synth chord]. Style: [Insert chosen style references]. Mood: [Insert 3-4 mood keywords].",
+      "url": "https://x.com/op7418/status/2043681522818175302",
+      "images": null,
+      "published": "2026-04-13T13:23:39+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2043681071565517238",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Seedance 2.0 在海外上线以后，很多用户也拿它来做产品宣传动画。 这哥们的提示词写法非常牛皮！ 刚好我最近给 CodePilot 做了一个新的 logo，然后就参考了一下，做了新的产品宣传动画。 顺便我总结成了一个提示词，你可以为你的产品也定制类似的 Seedance 2.0 提示词。 Video Oogie (@oggii_0) Motion graphics created by using Seedance 2.0 on @nsketchai Prompt ⤵️ Ultra-sleek motion design sequence. Pure black background throughout. White-on-black minimal aesthetic. No cuts — one single continuous unbroken visual evolution. Locked-off static center frame, no camera movement. All motion occurs within the subject. Self-luminous white forms on absolute black, no grain, no shadows. 0–1s [ORIGIN]: A single white point materializes at center frame. It pulses once — three concentric rings ripple outward like a heartbeat and dissolve into black. 1–2s [LINE]: The point stretches into a razor-thin white horizontal line extending edge to edge with elastic ease-out motion. 2–4s [GRID → CIRCLE]: The line multiplies into a precise grid of nine parallel horizontal and vertical lines appearing in staggered succession. The grid warps — outer lines curve inward, the structure rotates, straight lines bend into arcs, converging into a perfect geometric circle outline. 4–6s [WIREFRAME → SOLID SPHERE]: The circle extrudes into a 3D wireframe sphere, every latitude and longitude line crisp, slowly rotating on its vertical axis. The wireframe fills in smoothly — dissolving into a solid white surface with a soft specular highlight in the upper-left quadrant. 6–8s [INTERFACE]: The sphere flattens and unfolds into a clean rectangular plane — a minimal phone interface with rounded corners. Abstract UI elements appear inside: status bar, a grid of rounded app icons, home indicator bar. White line art on black. 8–10s [CUBE → BLOOM]: The interface folds inward, collapsing into an isometric wireframe cube that tumbles once. The cube's six faces peel outward simultaneously, each becoming a smooth white elliptical petal — blooming open like a flower in zero gravity. 10–12s [VORTEX]: The flower dissolves into hundreds of tiny white particles orbiting the center in a controlled elliptical vortex, some clockwise, some counterclockwise, each following a precise mathematical path, flickering softly. 12–13s [WATCH]: The particles decelerate and self-organize — converging and snapping into position to assemble the silhouette of a wristwatch: a clean rectangular case outline with lugs, built entirely from particles. 13–14s [COLLAPSE]: The watch dissolves into fluid white ribbons that compress into a single dense white sphere. It pulses once — brighter than before — then collapses rapidly inward to a single brilliant point. 14–15s [LOGO]: The point holds for one silent beat. Then it expands into a clean minimal brand logo — white sans-serif letterforms on black. A single pulse of warm amber light blooms from center behind the logo, fades to black. White text remains. Style: luxury tech brand motion identity, Bauhaus-minimalist, mathematical precision. Mood: calm, inevitable, intelligent, premium. Video — https://nitter.net/oggii_0/status/2041392542659584302#m",
+      "url": "https://x.com/op7418/status/2043681071565517238",
+      "images": null,
+      "published": "2026-04-13T13:21:51+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2043672195017081088",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "We're taking over a cafe on April 25th in Lagos Grab coffee, Cursor credits, and build together",
+      "url": "https://x.com/benln/status/2043672195017081088",
+      "images": null,
+      "published": "2026-04-13T12:46:35+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2043585003502948515",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "又一个新的 Agent 聚合软件 Superconductor 支持在一个软件里面启动比如 Claude Code、Codex、Gemini CLI 等其他编码 Agent Cali 工具 完全用 Rust 写的，目前只有 MacOS 版本 super.engineering (@superdoteng) Meet Superconductor. A native macOS app for agentic engineering, built to go fast. No Electron. No Tauri. 100% Rust. Manage all of your coding agents without friction. We're in Alpha: super.engineering Video — https://nitter.net/superdoteng/status/2042335263154978868#m",
+      "url": "https://x.com/op7418/status/2043585003502948515",
+      "images": null,
+      "published": "2026-04-13T07:00:07+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2043375324113613061",
       "source": "Ben Lang",
@@ -71,23 +241,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2043181165012828373",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "给 Codepilot 增加了类似 Hermes Agent 的 Skills 自动创建功能 如果你的整个操作链路非常复杂，AI 就会建议是否为这个流程生成 Skills",
-      "url": "https://x.com/op7418/status/2043181165012828373",
-      "images": null,
-      "published": "2026-04-12T04:15:24+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_yHqqYCWl4Cc",
       "source": "a16z",
       "sourceId": "a16z",
@@ -103,91 +256,6 @@
       "published": "2026-04-11T19:00:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2042877644333556100",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Hermes Agent 也原生支持连接微信了，不过不是微信官方的插件，也是逆向的。 Nous Research (@NousResearch) 给中国用户的好消息：Hermes Agent 现在原生支持个人微信了 微信扫码即可连接，私聊群聊都支持。图片、视频、文件、语音消息全覆盖，长轮询直连，不需要公网 IP。 运行 'hermes update' 即可体验 文档：hermes-agent.nousresearch.co… 感谢 @Bravohenry_ 的贡献 — https://nitter.net/NousResearch/status/2042821620281053641#m",
-      "url": "https://x.com/op7418/status/2042877644333556100",
-      "images": null,
-      "published": "2026-04-11T08:09:19+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2042823409940471815",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Claude Code 生成的代码质量突然变好了不少，而且不会有之前那种偷懒行为了 不知道 Anthropic 做了什么改动，可能是卡到位了？",
-      "url": "https://x.com/op7418/status/2042823409940471815",
-      "images": null,
-      "published": "2026-04-11T04:33:49+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2042801282407371027",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "龙虾作者 Peter 的 Claude 账号早上被封了，发出来之后 Anthropic 给他解了，这一天天的 Peter Steinberger 🦞 (@steipete) Yeah folks, it's gonna be harder in the future to ensure OpenClaw still works with Anthropic models. — https://nitter.net/steipete/status/2042615534567457102#m",
-      "url": "https://x.com/op7418/status/2042801282407371027",
-      "images": null,
-      "published": "2026-04-11T03:05:53+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2042787847128912128",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "详情：nitter.net/overworld_ai/status/20… Overworld (@overworld_ai) We also wrote a short blog walking through what changed between the two releases and some of the engineering work behind making these systems practical to run. Read it here: over.world/blog/waypoint-1-5 — https://nitter.net/overworld_ai/status/2042289232023339326#m",
-      "url": "https://x.com/op7418/status/2042787847128912128",
-      "images": null,
-      "published": "2026-04-11T02:12:30+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2042781932061364524",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "一个新的实时可交互世界模型 Waypoint-1.5 主角动作流畅还能跟武器交互，运行也非常流畅 Video",
-      "url": "https://x.com/op7418/status/2042781932061364524",
-      "images": null,
-      "published": "2026-04-11T01:49:00+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_flweA_I-VKE",
@@ -206,23 +274,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2042612179040677954",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Anthropic 最近算力成本真是顶不住了，疯狂降成本 昨晚又推出了advisor tool，Sonnet 和 Haiku 这种小模型执行任务的时候，可以调用 Opus 这种大模型介入指导。 有人说估计 Anthropic 也会用这种方式让我们访问 Mythos 模型。 因为这样用户无法直接访问模型，又能提高现有模型的能力水平。 既能大幅提高 Sonnet 和 Haiku 模型也能力也可以节省成本，因为在这个过程中 Opsu 消耗量很少。 调用的话只需要把 advisor_20260301 加到 tools 数组里，指定 advisor 模型（通常是 Opus）和最大调用次数就行。 Alex Albert (@alexalbert__) Allowing Sonnet to \"phone a friend\" (i.e. call Opus) increases performance while also reducing total cost since it reduces tokens spent trying to solve more complex tasks — https://nitter.net/alexalbert__/status/2042329150086922574#m",
-      "url": "https://x.com/op7418/status/2042612179040677954",
-      "images": null,
-      "published": "2026-04-10T14:34:28+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2042597263072022836",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -237,23 +288,6 @@
       "url": "https://x.com/benln/status/2042597263072022836",
       "images": null,
       "published": "2026-04-10T13:35:11+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2042442402867397023",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这几天这个 SBTI 可太火了。 跑去 B 站找原版测试了一下，他妈的，它骂我。 感觉这几天这种类型的测试会越来越多，肯定会有人整Skill的",
-      "url": "https://x.com/op7418/status/2042442402867397023",
-      "images": null,
-      "published": "2026-04-10T03:19:50+00:00",
       "hasTranscript": false
     },
     {
@@ -417,7 +451,7 @@
         "Business",
         "AI"
       ],
-      "title": "The Era of AI Agents | Aaron Levie on The a16z Show",
+      "title": "Box CEO on the AI Adoption Gap | The a16z Show",
       "url": "https://www.youtube.com/watch?v=dvt_74kV-RM",
       "thumbnail": "https://img.youtube.com/vi/dvt_74kV-RM/maxresdefault.jpg",
       "published": "2026-04-08T14:30:00+00:00",
@@ -573,23 +607,6 @@
       "url": "https://x.com/benln/status/2040840257688531235",
       "images": null,
       "published": "2026-04-05T17:13:29+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2040780285088841996",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Cannes",
-      "url": "https://x.com/benln/status/2040780285088841996",
-      "images": null,
-      "published": "2026-04-05T13:15:10+00:00",
       "hasTranscript": false
     },
     {
@@ -847,23 +864,6 @@
       "published": "2026-03-25T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "本期播客是硅谷101在GTC 2026大会期间的线下特别录制，我们从老黄在Keynote上抛出的那几个大数字开始聊起： 1万亿——这是黄仁勋预期到2027年底，Blackwell和Vera Rubin两个平台带来的订单收入。 7块——这是大会一次性发布的Vera Rubin新芯片数量。 10倍、35倍——这是Vera Rubin NVL72 AI机架系统，相比Blackwell，它的推理效率提升了"
-    },
-    {
-      "id": "yt_ZA4IrqIyfzQ",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Why Palmer Luckey wears Hawaiian Shirts.",
-      "url": "https://www.youtube.com/watch?v=ZA4IrqIyfzQ",
-      "thumbnail": "https://img.youtube.com/vi/ZA4IrqIyfzQ/maxresdefault.jpg",
-      "published": "2026-03-24T20:00:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_vif8NQcjVf0",
