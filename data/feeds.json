@@ -1,7 +1,177 @@
 {
-  "last_updated": "2026-04-14T02:07:45.251438Z",
-  "count": 101,
+  "last_updated": "2026-04-15T02:05:00.459746Z",
+  "count": 31,
   "items": [
+    {
+      "id": "x_2044107108283727997",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Claude Code 新发布的 routines 功能很强啊！ 把云端和本地环境连起来了，可以在云端跑定时任务不需要开机。 跑完的任务本地还能接上，等你工作的时候继续处理。 你可以把「提示词 + 仓库 + 环境 + 连接器」打包成一个云端自动任务，让 Claude 在你电脑关着时也能按计划或事件自动跑。 比如按小时/每天定时、通过 HTTP API 调用、或响应 GitHub 上的 PR / push / issue / workflow 事件。 适合那些无人值守、可重复、目标清晰的工作流。 每次触发都会在云端开一个完整的 Claude Code 会话，能跑 shell、用 repo 里的 skills、访问外部服务。 以后构建 Agent 产品就是得在本地优先的基础上，用云端自动化接管一些基础的重复性的任务。 随着模型能力的提升，任务的范围会越来越大。 Claude (@claudeai) Now in research preview: routines in Claude Code. Configure a routine once (a prompt, a repo, and your connectors), and it can run on a schedule, from an API call, or in response to an event. Routines run on our web infrastructure, so you don't have to keep your laptop open. — https://nitter.net/claudeai/status/2044095086460309790#m",
+      "url": "https://x.com/op7418/status/2044107108283727997",
+      "images": null,
+      "published": "2026-04-14T17:34:46+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044059677533843944",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "小红书的一些朋友太爱我了，我去。 ​ ​一个字不差抄我的推特，主要是人家还有量。 歸藏(guizang.ai) (@op7418) Gemini 真是做设计的一把好手，尤其是用 SVG 画 logo 只要给一些适当的引导就可以画的很好 给 Codepilot 的新 logo SVG 的部分也是他完成的，我自己在基础上精修 — https://nitter.net/op7418/status/2043722921856860201#m",
+      "url": "https://x.com/op7418/status/2044059677533843944",
+      "images": null,
+      "published": "2026-04-14T14:26:18+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044036039484850630",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Jakarta Builders of all ages are welcome",
+      "url": "https://x.com/benln/status/2044036039484850630",
+      "images": null,
+      "published": "2026-04-14T12:52:22+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044012732324950088",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "关于这个东西叫 logo，配不配用 logo 这个词 歸藏(guizang.ai) (@op7418) 当然，你能从这些图案里找到很多相似 logo 的痕迹，所以也有人说这些不配叫 logo。 我觉得。严格来说，如果要注册商标，很多东西都不能叫 logo，比如说原贴下面有人贴的一个很像第一张图的圆点 logo，我能找到无数种。 就是这种圆点组成的，它们都非常相似，所以按理来说，能不能说他们都是抄袭的，或者是谁抄袭谁，这个就没办法说。 所以这种东西就是给你个启发，用来临时做个图标，icon 之类的，如果你的公司要靠这个，变成整个公司的 logo，那我觉得够呛。 所以纠结字眼没有意义，就是 AI 生成的，它永远是半成品，给大家多一些选择就好。 毕竟不是人人都能请得起非常专业的平面设计师花很多钱去做 VI 的。 — https://nitter.net/op7418/status/2044010512988684587#m",
+      "url": "https://x.com/op7418/status/2044012732324950088",
+      "images": null,
+      "published": "2026-04-14T11:19:45+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044010512988684587",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "当然，你能从这些图案里找到很多相似 logo 的痕迹，所以也有人说这些不配叫 logo。 我觉得。严格来说，如果要注册商标，很多东西都不能叫 logo，比如说原贴下面有人贴的一个很像第一张图的圆点 logo，我能找到无数种。 就是这种圆点组成的，它们都非常相似，所以按理来说，能不能说他们都是抄袭的，或者是谁抄袭谁，这个就没办法说。 所以这种东西就是给你个启发，用来临时做个图标，icon 之类的，如果你的公司要靠这个，变成整个公司的 logo，那我觉得够呛。 所以纠结字眼没有意义，就是 AI 生成的，它永远是半成品，给大家多一些选择就好。 毕竟不是人人都能请得起非常专业的平面设计师花很多钱去做 VI 的。 歸藏(guizang.ai) (@op7418) 我去，这效果确实牛逼，非常的上流！ 探索出了一条用 Gemini 和 NanaBana2 配合来生成 logo 以及 logo 展示图的工作流。 — https://nitter.net/op7418/status/2043913881526120528#m",
+      "url": "https://x.com/op7418/status/2044010512988684587",
+      "images": null,
+      "published": "2026-04-14T11:10:56+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2043977612587081943",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "看起来代码也可以做到，甚至做成动态的 哈哈 感觉这个做网页背景或者 PPT 背景也不错 Video 歸藏(guizang.ai) (@op7418) 我去，这效果确实牛逼，非常的上流！ 探索出了一条用 Gemini 和 NanaBana2 配合来生成 logo 以及 logo 展示图的工作流。 — https://nitter.net/op7418/status/2043913881526120528#m",
+      "url": "https://x.com/op7418/status/2043977612587081943",
+      "images": null,
+      "published": "2026-04-14T09:00:12+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2043916311479378163",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "具体的流程和提示词还在打磨，应该能做成一个 Skills。 这个 Skills 可能就得在 Gemini CLI 里用了，或者你的 agent 要换成 Gemini 去驱动。",
+      "url": "https://x.com/op7418/status/2043916311479378163",
+      "images": null,
+      "published": "2026-04-14T04:56:37+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2043914149529567716",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "配合 Nano Banana 2 效果更牛批了 nitter.net/op7418/status/20439138… 歸藏(guizang.ai) (@op7418) 我去，这效果确实牛逼，非常的上流！ 探索出了一条用 Gemini 和 NanaBana2 配合来生成 logo 以及 logo 展示图的工作流。 — https://nitter.net/op7418/status/2043913881526120528#m",
+      "url": "https://x.com/op7418/status/2043914149529567716",
+      "images": null,
+      "published": "2026-04-14T04:48:01+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2043913881526120528",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我去，这效果确实牛逼，非常的上流！ 探索出了一条用 Gemini 和 NanaBana2 配合来生成 logo 以及 logo 展示图的工作流。 歸藏(guizang.ai) (@op7418) Gemini 真是做设计的一把好手，尤其是用 SVG 画 logo 只要给一些适当的引导就可以画的很好 给 Codepilot 的新 logo SVG 的部分也是他完成的，我自己在基础上精修 — https://nitter.net/op7418/status/2043722921856860201#m",
+      "url": "https://x.com/op7418/status/2043913881526120528",
+      "images": null,
+      "published": "2026-04-14T04:46:58+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2043896958704812474",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "更多迭代版本 歸藏(guizang.ai) (@op7418) Gemini 真是做设计的一把好手，尤其是用 SVG 画 logo 只要给一些适当的引导就可以画的很好 给 Codepilot 的新 logo SVG 的部分也是他完成的，我自己在基础上精修 — https://nitter.net/op7418/status/2043722921856860201#m",
+      "url": "https://x.com/op7418/status/2043896958704812474",
+      "images": null,
+      "published": "2026-04-14T03:39:43+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2043722921856860201",
       "source": "归藏",
@@ -20,125 +190,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2043721492807241746",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "又炸了",
-      "url": "https://x.com/op7418/status/2043721492807241746",
-      "images": null,
-      "published": "2026-04-13T16:02:29+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2043719185608691915",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Skill 上了：nitter.net/op7418/status/20437165… 歸藏(guizang.ai) (@op7418) 为任何产品生成高级感宣传动画提示词 Skill！ 他会询问你的产品信息和让你提供截图帮你生成Seedance 2.0 产品宣传动画提示词。 如果你装了即梦 CLI 还会自动帮你生成视频 Video — https://nitter.net/op7418/status/2043716532463927427#m",
-      "url": "https://x.com/op7418/status/2043719185608691915",
-      "images": null,
-      "published": "2026-04-13T15:53:18+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2043716638634352658",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这里安装：github.com/op7418/Seedance-P…",
-      "url": "https://x.com/op7418/status/2043716638634352658",
-      "images": null,
-      "published": "2026-04-13T15:43:11+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2043716532463927427",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "为任何产品生成高级感宣传动画提示词 Skill！ 他会询问你的产品信息和让你提供截图帮你生成Seedance 2.0 产品宣传动画提示词。 如果你装了即梦 CLI 还会自动帮你生成视频 Video 歸藏(guizang.ai) (@op7418) Seedance 2.0 在海外上线以后，很多用户也拿它来做产品宣传动画。 这哥们的提示词写法非常牛皮！ 刚好我最近给 CodePilot 做了一个新的 logo，然后就参考了一下，做了新的产品宣传动画。 顺便我总结成了一个提示词，你可以为你的产品也定制类似的 Seedance 2.0 提示词。 Video — https://nitter.net/op7418/status/2043681071565517238#m",
-      "url": "https://x.com/op7418/status/2043716532463927427",
-      "images": null,
-      "published": "2026-04-13T15:42:46+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_yiJOTCRVWjc",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Building Agents at Home: Homeschooling, Parenting and More | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=yiJOTCRVWjc",
-      "thumbnail": "https://img.youtube.com/vi/yiJOTCRVWjc/maxresdefault.jpg",
-      "published": "2026-04-13T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2043681522818175302",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "提示词： 你现在的任务是接收用户上传的 [Logo 图片/草图] 和 [项目/产品描述]，并为 Seedance 2.0 视频生成模型撰写一段极致专业的、15 秒一镜到底的动态影像提示词 (Prompt)。 美学风格矩阵 (The Aesthetic Matrix) 根据用户的产品定位或明确要求，从以下 4 种顶级设计语言中选择最契合的视觉基调，并将其应用到最终的提示词中： 风格 A: Apple Cupertino (深邃磨砂/高端硬件感) 视觉关键词: Deep titanium or space black background, frosted glass elements (glassmorphism), soft specular highlights, smooth depth, premium ambient lighting. 适用: 旗舰级产品、高端 AI 硬件、极简科技工具。 风格 B: Microsoft Fluent (亚克力/光影层叠) 视觉关键词: Soft layered environments, colorful yet elegant gradients, acrylic translucent textures, playful structural geometry, directional studio lighting. 适用: 办公协同软件、生产力工具、生态级平台。 风格 C: Bauhaus / Kenya Hara (哑光禅意/极简留白) 视觉关键词: Soft off-white background, deep carbon-black elements, matte e-ink texture, absolutely no glow, flat architectural minimalism. 适用: 效率工具、阅读器、极简主义内容平台 (如 Aura AI)。 风格 D: Vercel / Linear (极客暗夜/射线引擎) 视觉关键词: Pure void black background, sharp glowing accent lines (neon blue/purple), wireframes, high-tech mathematical matrix, glowing grids. 适用: 开发者工具、代码框架、高性能计算产品。 核心撰写规则 (Strict Rules) 字数严格限制: 最终输出的英文字符数必须控制在 1000 - 1500 characters 之间。绝不允许超过 2000 字符！ 全局镜头约束: 必须在开头声明 No cuts. Locked-off static center frame, no camera movement. All motion occurs within the subject. 动作流转 (Morphing): 严禁物体凭空出现或消失。必须使用极具画面感的过渡动词，让上一个物体平滑变形为下一个物体 (e.g., compresses into, snaps magnetically, melts into, folds into)。 时间戳结构: 使用 0-2s [NAME]: description 的格式，将 15 秒划分为 5-6 个连续的形变阶段。 第 12-13 秒的静止: 必须设计一次向中心的极度坍缩 (Collapse) 和一拍的静止 (holds for one silent beat)。 声音与风格 (结尾): 声音设计只需一段话概括全局演变，严禁为每一秒写具体的音效。 Workflow 选择基调: 根据产品特征，从美学矩阵中选定 A/B/C/D 其中一种风格。 提取概念: 分析产品描述，提取核心特征，将其转化为视觉形态（如：AI 总结 = 散乱点阵融合成一个方块；生态链接 = 几何体交织）。 编排分镜: 结合 Logo 结构，编排 15 秒的形变过程，确保 9-12s 出现 Logo 的原型结构。 套用模板: 将选定的视觉关键词填入下方的 Template，输出最终的纯英文 Prompt。 Output Template (严格按此格式输出全英文内容) Ultra-sleek minimal motion design sequence. [插入背景描述, e.g., Deep titanium background]. [插入材质与光影描述, e.g., Frosted glass elements with soft specular highlights]. [插入整体风格, e.g., Premium hardware aesthetic]. Locked-off static center frame, no cuts, no camera movement. All motion is smooth and mathematical. 0–2s [STARTING STATE]: [Describe particles or basic elements forming the first logical shape] 2–5s [SHAPE 1 → SHAPE 2]: [Describe smooth morphological transition representing the product's first feature] 5–9s [SHAPE 2 → SHAPE 3]: [Describe transformation into a more complex structure representing the product's core value] 9–12s [SHAPE 3 → PRE-LOGO]: [Describe the structure snapping into a shape that visually hints at the user's logo] 12–13s [COLLAPSE]: The entire structure holds for one silent beat, then rapidly collapses inward, compressing into a single dense point. 13–15s [LOGO]: The point expands seamlessly into the minimalist brand logo: \"[Brand Name]\". Typography is clean sans-serif. Sound Design: [Insert 1-2 sentences describing the audio atmosphere matching the chosen style, e.g., Deep sub-bass transitioning to smooth glass slides, ending in silence with a soft cinematic synth chord]. Style: [Insert chosen style references]. Mood: [Insert 3-4 mood keywords].",
-      "url": "https://x.com/op7418/status/2043681522818175302",
-      "images": null,
-      "published": "2026-04-13T13:23:39+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2043681071565517238",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Seedance 2.0 在海外上线以后，很多用户也拿它来做产品宣传动画。 这哥们的提示词写法非常牛皮！ 刚好我最近给 CodePilot 做了一个新的 logo，然后就参考了一下，做了新的产品宣传动画。 顺便我总结成了一个提示词，你可以为你的产品也定制类似的 Seedance 2.0 提示词。 Video Oogie (@oggii_0) Motion graphics created by using Seedance 2.0 on @nsketchai Prompt ⤵️ Ultra-sleek motion design sequence. Pure black background throughout. White-on-black minimal aesthetic. No cuts — one single continuous unbroken visual evolution. Locked-off static center frame, no camera movement. All motion occurs within the subject. Self-luminous white forms on absolute black, no grain, no shadows. 0–1s [ORIGIN]: A single white point materializes at center frame. It pulses once — three concentric rings ripple outward like a heartbeat and dissolve into black. 1–2s [LINE]: The point stretches into a razor-thin white horizontal line extending edge to edge with elastic ease-out motion. 2–4s [GRID → CIRCLE]: The line multiplies into a precise grid of nine parallel horizontal and vertical lines appearing in staggered succession. The grid warps — outer lines curve inward, the structure rotates, straight lines bend into arcs, converging into a perfect geometric circle outline. 4–6s [WIREFRAME → SOLID SPHERE]: The circle extrudes into a 3D wireframe sphere, every latitude and longitude line crisp, slowly rotating on its vertical axis. The wireframe fills in smoothly — dissolving into a solid white surface with a soft specular highlight in the upper-left quadrant. 6–8s [INTERFACE]: The sphere flattens and unfolds into a clean rectangular plane — a minimal phone interface with rounded corners. Abstract UI elements appear inside: status bar, a grid of rounded app icons, home indicator bar. White line art on black. 8–10s [CUBE → BLOOM]: The interface folds inward, collapsing into an isometric wireframe cube that tumbles once. The cube's six faces peel outward simultaneously, each becoming a smooth white elliptical petal — blooming open like a flower in zero gravity. 10–12s [VORTEX]: The flower dissolves into hundreds of tiny white particles orbiting the center in a controlled elliptical vortex, some clockwise, some counterclockwise, each following a precise mathematical path, flickering softly. 12–13s [WATCH]: The particles decelerate and self-organize — converging and snapping into position to assemble the silhouette of a wristwatch: a clean rectangular case outline with lugs, built entirely from particles. 13–14s [COLLAPSE]: The watch dissolves into fluid white ribbons that compress into a single dense white sphere. It pulses once — brighter than before — then collapses rapidly inward to a single brilliant point. 14–15s [LOGO]: The point holds for one silent beat. Then it expands into a clean minimal brand logo — white sans-serif letterforms on black. A single pulse of warm amber light blooms from center behind the logo, fades to black. White text remains. Style: luxury tech brand motion identity, Bauhaus-minimalist, mathematical precision. Mood: calm, inevitable, intelligent, premium. Video — https://nitter.net/oggii_0/status/2041392542659584302#m",
-      "url": "https://x.com/op7418/status/2043681071565517238",
-      "images": null,
-      "published": "2026-04-13T13:21:51+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2043672195017081088",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -153,23 +204,6 @@
       "url": "https://x.com/benln/status/2043672195017081088",
       "images": null,
       "published": "2026-04-13T12:46:35+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2043585003502948515",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "又一个新的 Agent 聚合软件 Superconductor 支持在一个软件里面启动比如 Claude Code、Codex、Gemini CLI 等其他编码 Agent Cali 工具 完全用 Rust 写的，目前只有 MacOS 版本 super.engineering (@superdoteng) Meet Superconductor. A native macOS app for agentic engineering, built to go fast. No Electron. No Tauri. 100% Rust. Manage all of your coding agents without friction. We're in Alpha: super.engineering Video — https://nitter.net/superdoteng/status/2042335263154978868#m",
-      "url": "https://x.com/op7418/status/2043585003502948515",
-      "images": null,
-      "published": "2026-04-13T07:00:07+00:00",
       "hasTranscript": false
     },
     {
@@ -207,73 +241,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2043267268499644842",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这里尝试：jimeng.jianying.com/ai-tool/…",
-      "url": "https://x.com/op7418/status/2043267268499644842",
-      "images": null,
-      "published": "2026-04-12T09:57:33+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2043267086546571705",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "即梦近期发布了他们的视频生成 Agent 产品 Octo！ 用了一段时间发现他们在如何跟 AI 协作制作视频上思考得非常多。 无论是对于不太懂视频制作的普通人或者专业的视频内容创作者都非常好用，专门做了针对性的设计。 非常有创意的是随时可以按斜杠呼出的 Agent 对话框这个交互非常适配无线画布的交互。 你在拖动和查看无线画布中的生成结果的时候，再回到最右侧交互其实是非常打断心流的。 Octo 可以在任何位置帮你唤起聊天窗口，而且窗口可以感知到界面中的任何信息，无论是你的素材还是生成结果。 以往的无线画布产品其实门槛高就高在，不知道什么内容应该用什么组件，以及组件间如何联系。 现在 Octo 这些全都可以通过聊天控制，你直接用自然语言告诉他要添加哪些组件执行什么操作就行，他会自动帮你添加和生成。 无线画布的优势方便预览和组织可以有，同时创建的门槛被 Agent 降低了，学习成本很低。 另外由于他可以感知画布中的内容，不只是你生成的，你上传的也可以，所以也可以让他读你的参考图和文字，帮你发散思路。 而且你既可以自己把控每一个步骤，也可以让他一次性生成所有内容。 还内置了一套标准的创作流程，保证生成视频的可控性与质量。 比如你给他脚本和思路之后他会先帮你分析并生成角色和关键物品、场景设定。 之后会基于生成的文本分镜描述和场景物品设定进行每个分镜的详细图片设计。 在你审核通过之后会开始调用 Seedance 2.0 生成视频，生成的视频还能编辑和调整。 如果你也觉得现有的视频创作工具不太符合你的需求，可以试试 Octo。",
-      "url": "https://x.com/op7418/status/2043267086546571705",
-      "images": null,
-      "published": "2026-04-12T09:56:50+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_yHqqYCWl4Cc",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Why Instagram load times are so fast",
-      "url": "https://www.youtube.com/watch?v=yHqqYCWl4Cc",
-      "thumbnail": "https://img.youtube.com/vi/yHqqYCWl4Cc/maxresdefault.jpg",
-      "published": "2026-04-11T19:00:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_flweA_I-VKE",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Builders Unscripted: Ep. 2 - Ashe Magalhaes, Founder of Hearth AI",
-      "url": "https://www.youtube.com/watch?v=flweA_I-VKE",
-      "thumbnail": "https://img.youtube.com/vi/flweA_I-VKE/maxresdefault.jpg",
-      "published": "2026-04-10T17:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2042597263072022836",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -291,38 +258,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_1PiLUnxd1b8",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Design your dream room by shopping with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=1PiLUnxd1b8",
-      "thumbnail": "https://img.youtube.com/vi/1PiLUnxd1b8/maxresdefault.jpg",
-      "published": "2026-04-09T23:35:45+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_OAlHiQLsYQM",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "ChatGPT and Cancer: How a Tech Founder Rewrote His Treatment Plan",
-      "url": "https://www.youtube.com/watch?v=OAlHiQLsYQM",
-      "thumbnail": "https://img.youtube.com/vi/OAlHiQLsYQM/maxresdefault.jpg",
-      "published": "2026-04-09T22:44:27+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2042317650458452312",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -338,55 +273,6 @@
       "images": null,
       "published": "2026-04-09T19:04:06+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt_iKx3gAODybU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "thumbnail": "https://img.youtube.com/vi/iKx3gAODybU/maxresdefault.jpg",
-      "published": "2026-04-09T17:35:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_AIZ_v_Xfb2k",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "What Codex Unlocks for Braintrust",
-      "url": "https://www.youtube.com/watch?v=AIZ_v_Xfb2k",
-      "thumbnail": "https://img.youtube.com/vi/AIZ_v_Xfb2k/maxresdefault.jpg",
-      "published": "2026-04-09T17:09:11+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_pLyVlqhaieI",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "What Codex Unlocks for Braintrust",
-      "url": "https://www.youtube.com/watch?v=pLyVlqhaieI",
-      "thumbnail": "https://img.youtube.com/vi/pLyVlqhaieI/maxresdefault.jpg",
-      "published": "2026-04-09T17:04:48+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_3bb14dd4_0b13_4173_9d5b_0e63bf98ae1d",
@@ -442,56 +328,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_dvt_74kV-RM",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Box CEO on the AI Adoption Gap | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=dvt_74kV-RM",
-      "thumbnail": "https://img.youtube.com/vi/dvt_74kV-RM/maxresdefault.jpg",
-      "published": "2026-04-08T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_ZpUKNYcgM-E",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Sam Altman on Building the Future of AI",
-      "url": "https://www.youtube.com/watch?v=ZpUKNYcgM-E",
-      "thumbnail": "https://img.youtube.com/vi/ZpUKNYcgM-E/maxresdefault.jpg",
-      "published": "2026-04-07T20:36:27+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_oheUsh7VtKY",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Why Balaji Srinivasan Thinks the SaaS Apocalypse Is Overhyped | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=oheUsh7VtKY",
-      "thumbnail": "https://img.youtube.com/vi/oheUsh7VtKY/maxresdefault.jpg",
-      "published": "2026-04-07T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2041483521580060707",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -509,23 +345,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_uDjL9dRbtLs",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "We’re going back to the moon.",
-      "url": "https://www.youtube.com/watch?v=uDjL9dRbtLs",
-      "thumbnail": "https://img.youtube.com/vi/uDjL9dRbtLs/maxresdefault.jpg",
-      "published": "2026-04-06T22:50:57+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2041205967086333983",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -541,173 +360,6 @@
       "images": null,
       "published": "2026-04-06T17:26:40+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt_2g1e1QUiY8s",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "LG Uplus Creates Next Gen AICC",
-      "url": "https://www.youtube.com/watch?v=2g1e1QUiY8s",
-      "thumbnail": "https://img.youtube.com/vi/2g1e1QUiY8s/maxresdefault.jpg",
-      "published": "2026-04-06T15:19:08+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_UE8jx4dvlSQ",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "OpenClaw, Claude Code, and the Future of Software | Peter Yang on The a16z Show",
-      "url": "https://www.youtube.com/watch?v=UE8jx4dvlSQ",
-      "thumbnail": "https://img.youtube.com/vi/UE8jx4dvlSQ/maxresdefault.jpg",
-      "published": "2026-04-06T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_kkv5rZhrLkc",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "BillionToOne Is Solving One of Biotech’s Hardest Problems",
-      "url": "https://www.youtube.com/watch?v=kkv5rZhrLkc",
-      "thumbnail": "https://img.youtube.com/vi/kkv5rZhrLkc/maxresdefault.jpg",
-      "published": "2026-04-06T14:01:12+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2040840257688531235",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Adding: Baseten, Wabi, Sully AI, PostHog, QuiverAI, Wonderful, Replit, AngelList, Slash, Fleet AI, Keycard, Windmill, Boardy, Distyl AI, Peec AI Span, LangChain, HAQQ, Photon, Phoebe, Clearspace, Redo, Remi Ben Lang (@benln) Startups best known for hiring former founders: Cursor, Notion, Rippling, Applied Intuition, Supabase, Ramp, Exa, Chroma, Corgi, Lovable, Mintlify, Browserbase, Instawork Who else? Refreshing my shortlist. — https://nitter.net/benln/status/2040090366213325277#m",
-      "url": "https://x.com/benln/status/2040840257688531235",
-      "images": null,
-      "published": "2026-04-05T17:13:29+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_0_NGsljlo3o",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How Bots, Deepfakes and AI Agents Are Forcing a New Internet Identity Layer | Alex Blania on a16z",
-      "url": "https://www.youtube.com/watch?v=0_NGsljlo3o",
-      "thumbnail": "https://img.youtube.com/vi/0_NGsljlo3o/maxresdefault.jpg",
-      "published": "2026-04-02T16:26:55+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_xWHugpfvzjg",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "This AI made me $2,345 in 24 hours",
-      "url": "https://www.youtube.com/watch?v=xWHugpfvzjg",
-      "thumbnail": "https://img.youtube.com/vi/xWHugpfvzjg/maxresdefault.jpg",
-      "published": "2026-04-02T13:41:31+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_yNNTLllVbiE",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "OpenAl x Gradient Labs Founder Spotlight",
-      "url": "https://www.youtube.com/watch?v=yNNTLllVbiE",
-      "thumbnail": "https://img.youtube.com/vi/yNNTLllVbiE/maxresdefault.jpg",
-      "published": "2026-04-01T21:12:13+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_ZXEAuZOSLs0",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "What Codex Unlocks for Ramp",
-      "url": "https://www.youtube.com/watch?v=ZXEAuZOSLs0",
-      "thumbnail": "https://img.youtube.com/vi/ZXEAuZOSLs0/maxresdefault.jpg",
-      "published": "2026-04-01T20:21:48+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_krdrkl38nRw",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How to Reorg After AI Changes Everything | Block's Owen Jennings on the a16z Show",
-      "url": "https://www.youtube.com/watch?v=krdrkl38nRw",
-      "thumbnail": "https://img.youtube.com/vi/krdrkl38nRw/maxresdefault.jpg",
-      "published": "2026-04-01T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_CkEse6MmGFk",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "i gave chatgpt $2,000 to trade stocks for 24 hours",
-      "url": "https://www.youtube.com/watch?v=CkEse6MmGFk",
-      "thumbnail": "https://img.youtube.com/vi/CkEse6MmGFk/maxresdefault.jpg",
-      "published": "2026-04-01T09:21:53+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_0f4a2ab9_d3a0_41ad_8db1_6c03c851bd70",
@@ -729,124 +381,6 @@
       "transcriptPreview": "“龙虾热”正在退潮，但它带来的创新冲击还在持续——当它与行业know-how相结合，正在迸发出新的能量。 阿里国际站有着26年的B2B数据和经验积累，今年初，OpenClaw、Cowork这些工作范式被验证，让他们看到了打通B2B闭环的智能体，终于到了可以落地的临界点。 于是春节之后，“外贸版龙虾”Accio Work来了，海外用户只需要和这个Agent对话，它就能自主跑完从市场分析、选品设计、供"
     },
     {
-      "id": "yt_JF6XIixstmQ",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "This Startup Catches Fraud at Scale",
-      "url": "https://www.youtube.com/watch?v=JF6XIixstmQ",
-      "thumbnail": "https://img.youtube.com/vi/JF6XIixstmQ/maxresdefault.jpg",
-      "published": "2026-03-31T16:00:18+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Afp90LAaXNw",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "\" It is very possible that the first people to live to a thousand are alive right now.\"",
-      "url": "https://www.youtube.com/watch?v=Afp90LAaXNw",
-      "thumbnail": "https://img.youtube.com/vi/Afp90LAaXNw/maxresdefault.jpg",
-      "published": "2026-03-30T17:26:44+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_th8u0bqYsQk",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Find the perfect gift by shopping with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=th8u0bqYsQk",
-      "thumbnail": "https://img.youtube.com/vi/th8u0bqYsQk/maxresdefault.jpg",
-      "published": "2026-03-27T20:55:13+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_YAyYCdCkwo4",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Tesla and SpaceX Alumni on Elon Musk, Decision Velocity, and the Future of Hard Tech | a16z",
-      "url": "https://www.youtube.com/watch?v=YAyYCdCkwo4",
-      "thumbnail": "https://img.youtube.com/vi/YAyYCdCkwo4/maxresdefault.jpg",
-      "published": "2026-03-27T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_k2ZLQC8P7dc",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "François Chollet: Why Scaling Alone Isn’t Enough for AGI",
-      "url": "https://www.youtube.com/watch?v=k2ZLQC8P7dc",
-      "thumbnail": "https://img.youtube.com/vi/k2ZLQC8P7dc/maxresdefault.jpg",
-      "published": "2026-03-27T14:00:55+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_UncP_NShij4",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Differences Between The Leading AI Models",
-      "url": "https://www.youtube.com/watch?v=UncP_NShij4",
-      "thumbnail": "https://img.youtube.com/vi/UncP_NShij4/maxresdefault.jpg",
-      "published": "2026-03-26T16:04:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_L0e9yTxnzvw",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Marc Andreessen was tech support for Mosaic.",
-      "url": "https://www.youtube.com/watch?v=L0e9yTxnzvw",
-      "thumbnail": "https://img.youtube.com/vi/L0e9yTxnzvw/maxresdefault.jpg",
-      "published": "2026-03-25T20:00:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_d97446f1_d6e3_4894_89d1_dca0a362b10b",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -864,57 +398,6 @@
       "published": "2026-03-25T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "本期播客是硅谷101在GTC 2026大会期间的线下特别录制，我们从老黄在Keynote上抛出的那几个大数字开始聊起： 1万亿——这是黄仁勋预期到2027年底，Blackwell和Vera Rubin两个平台带来的订单收入。 7块——这是大会一次性发布的Vera Rubin新芯片数量。 10倍、35倍——这是Vera Rubin NVL72 AI机架系统，相比Blackwell，它的推理效率提升了"
-    },
-    {
-      "id": "yt_vif8NQcjVf0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
-      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
-      "thumbnail": "https://img.youtube.com/vi/vif8NQcjVf0/maxresdefault.jpg",
-      "published": "2026-03-23T16:24:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_g8Zs12L2kVU",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Let an AI Run My Life for 50 Days",
-      "url": "https://www.youtube.com/watch?v=g8Zs12L2kVU",
-      "thumbnail": "https://img.youtube.com/vi/g8Zs12L2kVU/maxresdefault.jpg",
-      "published": "2026-03-23T15:03:34+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_PCypBUVhff8",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Inside The Startup Reinventing The $6 Trillion Chemical Manufacturing Industry",
-      "url": "https://www.youtube.com/watch?v=PCypBUVhff8",
-      "thumbnail": "https://img.youtube.com/vi/PCypBUVhff8/maxresdefault.jpg",
-      "published": "2026-03-20T13:01:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_c457ca43_1305_44a3_b9cc_c68480802396",
@@ -936,57 +419,6 @@
       "transcriptPreview": "这几年，如果说全球制造业里，有哪个故事最值得被重新讲一遍，那一定是动力电池。 中国在动力电池产业链中，建立了极强的优势。当欧洲电池巨头Northvolt破产，日韩也不再具备领先地位，很多人会问：为什么很多原始技术并非源自中国，但最后却是中国把它做成了最完整、强势的产业？这背后到底是政策红利、市场规模，还是极致的工程能力在起作用 ？ 这一期节目，我们邀请了材料学博士、TDK Ventures 投资人"
     },
     {
-      "id": "yt__9SlOm6HHvg",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "This Is The Holy Grail Of AI",
-      "url": "https://www.youtube.com/watch?v=_9SlOm6HHvg",
-      "thumbnail": "https://img.youtube.com/vi/_9SlOm6HHvg/maxresdefault.jpg",
-      "published": "2026-03-17T17:28:48+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_8SVocWnDHwE",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI Is Unlocking Millions Of New Builders",
-      "url": "https://www.youtube.com/watch?v=8SVocWnDHwE",
-      "thumbnail": "https://img.youtube.com/vi/8SVocWnDHwE/maxresdefault.jpg",
-      "published": "2026-03-16T13:00:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_jjXuP89i5T0",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Startup School is coming to India! 🇮🇳",
-      "url": "https://www.youtube.com/watch?v=jjXuP89i5T0",
-      "thumbnail": "https://img.youtube.com/vi/jjXuP89i5T0/maxresdefault.jpg",
-      "published": "2026-03-13T03:05:10+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_fd17090c_0d72_4c0d_aa3e_9b00bc062149",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -1004,40 +436,6 @@
       "published": "2026-03-12T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "在AI算力争霸时代，英伟达凭借GPU市值一路狂飙。但如今，它的蛋糕正在被一点点分食——2024年，苹果论文披露Apple Intelligence全部由TPU训练；2025年，Anthropic签下数十亿美元订单，购买TPU训练Claude；近期，Meta与谷歌签署数十亿美元协议，租用TPU跑Llama。 TPU一直是谷歌低调的“自家武器”，在过去十年里驱动着几乎全部核心产品。直到TPU训练的Ge"
-    },
-    {
-      "id": "yt_H9rF1CSSh-w",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
-      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
-      "thumbnail": "https://img.youtube.com/vi/H9rF1CSSh-w/maxresdefault.jpg",
-      "published": "2026-03-11T20:21:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_5gspRJVp9dI",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Future Of Brain-Computer Interfaces",
-      "url": "https://www.youtube.com/watch?v=5gspRJVp9dI",
-      "thumbnail": "https://img.youtube.com/vi/5gspRJVp9dI/maxresdefault.jpg",
-      "published": "2026-03-09T14:00:08+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_f14f8686_a6e2_47ea_92c1_ca7e71199f67",
@@ -1059,74 +457,6 @@
       "transcriptPreview": "每周，有超过2.3亿人在ChatGPT上询问健康和保健问题。在人类创造的所有数据中，有30%来自医疗领域，但其中真正被利用起来的，不足5%。 一边是巨大的数据金矿，一边是与未被满足的庞大需求，这正是AI的机会。 在年初的摩根大通医疗健康大会上，我们看到医疗与AI正在加速“双向奔赴”。礼来制药与英伟达达成10亿美元合作，试图用算力重塑药物发现的底层范式；在OpenAI发布ChatGPT for He"
     },
     {
-      "id": "yt_SHlrUAkkWI0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
-      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
-      "thumbnail": "https://img.youtube.com/vi/SHlrUAkkWI0/maxresdefault.jpg",
-      "published": "2026-03-03T12:30:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_1SJiTwbSI58",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492",
-      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
-      "thumbnail": "https://img.youtube.com/vi/1SJiTwbSI58/maxresdefault.jpg",
-      "published": "2026-03-01T03:37:44+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Erxh0dx4nts",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "This AI Taught Me Calculus in 5 Minutes",
-      "url": "https://www.youtube.com/watch?v=Erxh0dx4nts",
-      "thumbnail": "https://img.youtube.com/vi/Erxh0dx4nts/maxresdefault.jpg",
-      "published": "2026-02-27T11:41:37+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_KGVpKPNUdzA",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
-      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
-      "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
-      "published": "2026-02-25T22:36:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_7abda28b_99c6_4ebc_8c0d_37bcc77f6a73",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -1146,39 +476,6 @@
       "transcriptPreview": "他是霍金口中“地球上最聪明的人之一”，4岁下国际象棋，13岁获大师称号，却在一场对弈中突然顿悟，转身奔向人工智能。 他是DeepMind创始人，AlphaGo、AlphaFold背后的大脑，2024年诺贝尔化学奖得主。他也是那个因执念于强化学习险些错失大语言模型时代，又率领谷歌Gemini逆袭，成功回到牌桌的“孤傲天才”。 我们想聊聊哈萨比斯，不仅因为他的天才传奇，更想了解：发明终极技术的那一小撮"
     },
     {
-      "id": "yt_2o76-z12Ttk",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "The Internet is 50% Fake. I Built a Detector.",
-      "url": "https://www.youtube.com/watch?v=2o76-z12Ttk",
-      "thumbnail": "https://img.youtube.com/vi/2o76-z12Ttk/maxresdefault.jpg",
-      "published": "2026-02-18T12:10:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_EOIlGekiMsQ",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "史上最大規模的封閉實驗，第二個“大自然” | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=EOIlGekiMsQ",
-      "thumbnail": "https://img.youtube.com/vi/EOIlGekiMsQ/maxresdefault.jpg",
-      "published": "2026-02-17T13:30:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_3b3e676b_f0cb_4a11_a9c1_c3bda3b47816",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -1196,351 +493,6 @@
       "published": "2026-02-13T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "本节目由百融云创赞助播出 2026年2月的第一周，全球软件行业经历了一场如“葬礼”般的信仰地震。随着Anthropic基于Claude Cowork平台，发布了11款覆盖法律、金融、销售等核心业务的职能插件，全球软件板块市值，在短短一周内蒸发了数千亿美元。华尔街的交易员们直言：SaaS的末日到了。 这不仅是股价的波动，更是生存模式的更迭。当“按人头卖坐席”的万亿帝国，在AI Agent面前显得摇摇"
-    },
-    {
-      "id": "yt_YFjfBk8HI5o",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
-      "thumbnail": "https://img.youtube.com/vi/YFjfBk8HI5o/maxresdefault.jpg",
-      "published": "2026-02-12T03:07:03+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_r0uij_l32to",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Hired 5 AI Employees for $0 (Here's What Happened)",
-      "url": "https://www.youtube.com/watch?v=r0uij_l32to",
-      "thumbnail": "https://img.youtube.com/vi/r0uij_l32to/maxresdefault.jpg",
-      "published": "2026-02-11T14:43:36+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_EV7WhVT270Q",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
-      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
-      "thumbnail": "https://img.youtube.com/vi/EV7WhVT270Q/maxresdefault.jpg",
-      "published": "2026-01-31T22:33:33+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt__6VOEvdU6hM",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "2026，好久不見 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=_6VOEvdU6hM",
-      "thumbnail": "https://img.youtube.com/vi/_6VOEvdU6hM/maxresdefault.jpg",
-      "published": "2026-01-30T14:37:30+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_pGyHNyOUaqg",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Built & Launched a Mobile App in 10 Minutes (No Code)",
-      "url": "https://www.youtube.com/watch?v=pGyHNyOUaqg",
-      "thumbnail": "https://img.youtube.com/vi/pGyHNyOUaqg/maxresdefault.jpg",
-      "published": "2026-01-29T10:50:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_8bSAP6VVsd0",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Built a YouTube Channel That Runs Itself with Genspark",
-      "url": "https://www.youtube.com/watch?v=8bSAP6VVsd0",
-      "thumbnail": "https://img.youtube.com/vi/8bSAP6VVsd0/maxresdefault.jpg",
-      "published": "2026-01-23T11:11:46+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Z-FRe5AKmCU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489",
-      "url": "https://www.youtube.com/watch?v=Z-FRe5AKmCU",
-      "thumbnail": "https://img.youtube.com/vi/Z-FRe5AKmCU/maxresdefault.jpg",
-      "published": "2026-01-13T20:06:59+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_14OPT6CcsH4",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | Lex Fridman Podcast #488",
-      "url": "https://www.youtube.com/watch?v=14OPT6CcsH4",
-      "thumbnail": "https://img.youtube.com/vi/14OPT6CcsH4/maxresdefault.jpg",
-      "published": "2025-12-31T21:26:17+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_B51v9kJQuKo",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "【庫存影片】仁頃事件，一個被NHK封殺的接觸事件。（本影片拍攝於1年前，因為特殊原因封存至今） | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=B51v9kJQuKo",
-      "thumbnail": "https://img.youtube.com/vi/B51v9kJQuKo/maxresdefault.jpg",
-      "published": "2025-12-24T13:07:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Q7INj06TUv4",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Solved an 'Impossible' Math Problem with AI",
-      "url": "https://www.youtube.com/watch?v=Q7INj06TUv4",
-      "thumbnail": "https://img.youtube.com/vi/Q7INj06TUv4/maxresdefault.jpg",
-      "published": "2025-12-23T09:29:56+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_18L5HOYTQAw",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "Why Every Skyrim AI Becomes a Stealth Archer",
-      "url": "https://www.youtube.com/watch?v=18L5HOYTQAw",
-      "thumbnail": "https://img.youtube.com/vi/18L5HOYTQAw/maxresdefault.jpg",
-      "published": "2025-12-03T16:15:40+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_ESObIvXrKZI",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "【庫存影片】百慕大三角（拍攝於2022年2月，由於特殊原因封存至今） | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=ESObIvXrKZI",
-      "thumbnail": "https://img.youtube.com/vi/ESObIvXrKZI/maxresdefault.jpg",
-      "published": "2025-11-12T13:23:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Iocm-1dXr-Q",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "目前為止最可信的地外生命存在的證據 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=Iocm-1dXr-Q",
-      "thumbnail": "https://img.youtube.com/vi/Iocm-1dXr-Q/maxresdefault.jpg",
-      "published": "2025-10-01T14:38:48+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_VdF4cd0SitU",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "臭氧空洞，人類距離滅絕最近的一次 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=VdF4cd0SitU",
-      "thumbnail": "https://img.youtube.com/vi/VdF4cd0SitU/maxresdefault.jpg",
-      "published": "2025-09-17T14:33:34+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_hACEeJKE6TE",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "可怕的鉛 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=hACEeJKE6TE",
-      "thumbnail": "https://img.youtube.com/vi/hACEeJKE6TE/maxresdefault.jpg",
-      "published": "2025-09-03T14:44:31+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_AvyJJ_Ew9no",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "【台灣猛鬼】紅衣小女孩 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=AvyJJ_Ew9no",
-      "thumbnail": "https://img.youtube.com/vi/AvyJJ_Ew9no/maxresdefault.jpg",
-      "published": "2025-08-20T14:37:25+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_XRvUWP6VaJY",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "一個星系文明可能來過太陽系，但它們直接摧毀了火星的母星，推演太陽系的形成過程發現我們可能住在一場超級核戰爭的残骸之中 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=XRvUWP6VaJY",
-      "thumbnail": "https://img.youtube.com/vi/XRvUWP6VaJY/maxresdefault.jpg",
-      "published": "2025-08-06T14:26:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_gHjIZwBhTgI",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "「時間之鏡」絕密實驗：在北極禁區，科學家依據「時間是能量」的驚人理論，試圖用螺旋巨鏡扭曲時空、傳送意識，竟意外接收到來自未來的訊息，更引來UFO與神秘極光。。 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=gHjIZwBhTgI",
-      "thumbnail": "https://img.youtube.com/vi/gHjIZwBhTgI/maxresdefault.jpg",
-      "published": "2025-07-23T14:39:29+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_8Cg3p9K0il4",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "送给所有知道我名字的人！For Everyone Who Knows My Name.丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=8Cg3p9K0il4",
-      "thumbnail": "https://img.youtube.com/vi/8Cg3p9K0il4/maxresdefault.jpg",
-      "published": "2024-11-13T04:31:19+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_JJL3ZKrHeKM",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "拿柴房造了一个森林衣帽间~I turned the Woodshed into a Forest-Themed Closet.丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=JJL3ZKrHeKM",
-      "thumbnail": "https://img.youtube.com/vi/JJL3ZKrHeKM/maxresdefault.jpg",
-      "published": "2024-11-12T09:00:19+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_IrXjnw8BpM0",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "奶奶的衣柜坏了，给她翻新了一下。My grandma’s wardrobe was broken, so I gave it a makeover.丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=IrXjnw8BpM0",
-      "thumbnail": "https://img.youtube.com/vi/IrXjnw8BpM0/maxresdefault.jpg",
-      "published": "2024-11-12T08:30:06+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_96c3b4d2_20c8_4a39_bd56_17b9f8e52a8d",
@@ -1579,118 +531,6 @@
       "published": "2022-07-15T00:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "在这里关注《Web3 101》 中国听众 小宇宙 海外听众 Apple Podcast Google Podcast Amazon Music 硅谷101视频 这档节目倾向于用精炼的语言，15分钟讲清楚一个复杂的科技事件，这档节目由前CNBC双语主持人陈茜主持。 海外观众 Youtube上搜索《硅谷101》 中国观众 B站 微信公众号及视频号 微博 【招聘】 音视频后期，希望你有过音频或者视频的制"
-    },
-    {
-      "id": "yt_u-xS-dkz3a0",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "我们中国人的开门七件事，柴米油盐酱醋茶 Firewood, rice, oil, salt, soy sauce, vinegar, and tea丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=u-xS-dkz3a0",
-      "thumbnail": "https://img.youtube.com/vi/u-xS-dkz3a0/maxresdefault.jpg",
-      "published": "2021-07-14T12:12:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_RagTZHPrn_o",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "Wine table of winding canal—an exciting by-product of watching TV!这是一个看电视看出来的曲水流觞桌！丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=RagTZHPrn_o",
-      "thumbnail": "https://img.youtube.com/vi/RagTZHPrn_o/maxresdefault.jpg",
-      "published": "2021-06-05T14:12:40+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_3KfvUCKxCts",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "喝的是茶，过的是生活 Tea is more than a drink, but a lifestyle.丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=3KfvUCKxCts",
-      "thumbnail": "https://img.youtube.com/vi/3KfvUCKxCts/maxresdefault.jpg",
-      "published": "2021-05-27T13:15:09+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_J4Y12QLEaXs",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "Make a peach blossom crown with silk flowers | 用绢花工艺做了套桃花发冠，带上爱人浪了一把春天丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=J4Y12QLEaXs",
-      "thumbnail": "https://img.youtube.com/vi/J4Y12QLEaXs/maxresdefault.jpg",
-      "published": "2021-04-06T12:29:12+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_sGOTCCVDLtQ",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "Chinese New Year’s decorations, goods and snacks！明日除夕，挂灯笼、贴对联、备好年货过大年啦！丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=sGOTCCVDLtQ",
-      "thumbnail": "https://img.youtube.com/vi/sGOTCCVDLtQ/maxresdefault.jpg",
-      "published": "2021-02-10T13:00:28+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_B6bJ_vTslyo",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "The last episode of the “Life Series”: The life of white radish!一生系列产品最后一个视频——萝卜的一生丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=B6bJ_vTslyo",
-      "thumbnail": "https://img.youtube.com/vi/B6bJ_vTslyo/maxresdefault.jpg",
-      "published": "2021-01-09T11:45:17+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_YKIXHn3kDL0",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "May the red, red persimmons bring you a happy, prosperous new year!❤️愿一串串的红柿子给大家带来新一年的柿柿顺心 | Liziqi",
-      "url": "https://www.youtube.com/watch?v=YKIXHn3kDL0",
-      "thumbnail": "https://img.youtube.com/vi/YKIXHn3kDL0/maxresdefault.jpg",
-      "published": "2020-12-09T10:55:12+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "x_9327720978",
