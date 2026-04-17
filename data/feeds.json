@@ -1,22 +1,229 @@
 {
-  "last_updated": "2026-04-16T02:12:40.268978Z",
-  "count": 71,
+  "last_updated": "2026-04-17T02:09:02.212140Z",
+  "count": 41,
   "items": [
     {
-      "id": "yt_CPq1V7sH38I",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
+      "id": "pod_guigu101_pod_2a529abf_3c14_4ae7_a0a5_fe1340a66c7d",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
       "domains": [
-        "AI"
+        "AI",
+        "Business",
+        "Global"
       ],
-      "title": "Bala Vs Waterfall | With ChatGPT",
-      "url": "https://www.youtube.com/watch?v=CPq1V7sH38I",
-      "thumbnail": "https://img.youtube.com/vi/CPq1V7sH38I/maxresdefault.jpg",
-      "published": "2026-04-15T17:34:29+00:00",
+      "title": "E233｜硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/2a529abf-3c14-4ae7-a0a5-fe1340a66c7d.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 2972,
+      "published": "2026-04-16T17:00:00-07:00",
       "hasTranscript": false,
-      "transcriptPreview": null
+      "transcriptPreview": "Peter Thiel，是硅谷最具争议和影响力的思想家之一。如果要用一句话概括他的思想，那就是：世界是由少数天选之人在幕后驱动的，而他就是其中之一。这套理论，不仅在以他为核心的“硅谷右翼”圈子中产生了影响，还通过Peter Thiel的政治参与，影响了更多的人。 那么，Peter Thiel的思想，又来源于什么呢？要理解他，答案藏在三位哲学家身上：法国文学批评理论家吉拉尔、纳粹党员法学家施密特、和"
+    },
+    {
+      "id": "x_2044809171393216873",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "顺便这是价格，我感觉对于那些做漫剧、做长剧的公司来说，这个价格没啥问题，本身这个档位确实耗算力",
+      "url": "https://x.com/op7418/status/2044809171393216873",
+      "images": null,
+      "published": "2026-04-16T16:04:31+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044808829620380119",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "即梦现在可以用Seedance 2.0 生成 1080P 的视频了 试了一下，太屌了！感觉这个才是满血的 Seedance 2.0 这个细节就不说了。我感觉这个模型它的智能程度和提示词理解能力也上升了。 在“全能参考”上，对于素材的使用非常灵活，而且跟整个视频融合得更好。 Video",
+      "url": "https://x.com/op7418/status/2044808829620380119",
+      "images": null,
+      "published": "2026-04-16T16:03:10+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044805298792407377",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Claude Code 上可以用 Claude Opus 4.7 了。 默认是 X-HIGH 的推理强度，如果你觉得不够的话，可能得自己手动换到 Max。",
+      "url": "https://x.com/op7418/status/2044805298792407377",
+      "images": null,
+      "published": "2026-04-16T15:49:08+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044800194827669767",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "尊重原创，不要商用哈，自己玩玩我觉得没啥",
+      "url": "https://x.com/op7418/status/2044800194827669767",
+      "images": null,
+      "published": "2026-04-16T15:28:51+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044800056973570417",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "哥们的头像画的是真好，这个风格。 然后拿他这张图，让 Nana Banana 画了一些《红楼梦》和《金瓶梅》里的角色头像。 Darius Dan (@dariusdan) I'm very proud of my collection of tiny pfp characters. Custom requests, all sold, all hand-drawn.🤍 Zero AI involved. Drop who should I draw next?👀 — https://nitter.net/dariusdan/status/2044500845467677089#m",
+      "url": "https://x.com/op7418/status/2044800056973570417",
+      "images": null,
+      "published": "2026-04-16T15:28:18+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044787404943278273",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Take Opus 4.7 for a spin in Cursor Cursor (@cursor_ai) Claude Opus 4.7 is now available in Cursor. We've found it to be impressively autonomous and more creative in its reasoning. We're launching it with 50% off for a limited time. Enjoy! — https://nitter.net/cursor_ai/status/2044785960899236341#m",
+      "url": "https://x.com/benln/status/2044787404943278273",
+      "images": null,
+      "published": "2026-04-16T14:38:02+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044787172725903461",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "来了！Anthropic 发布了 Claude Opus 4.7 模型，主要更新如下： 1. 核心能力提升 2. (a) 可以处理更长时间的任务 (b) 指令执行更精确 (c) 在汇报前会自我验证输出，从而在更少监督下完成长时间的工作 2. 视觉与思考增强 (a) 视觉能力大幅提升，可以非常精细地查看图像,可以接受长边最长 2,576 像素的图像 3. 工具与平台更新 (a) 在 Claude Code 中新增了一个名为 Ultra Review 的命令，专门进行审查 (b) 新增了一个思考等级 xhigh，介于 High 和 Max 之间 (c) 自动审批模式，Max 用户也可以用了 目前已在所有 Claude 产品和 API 上线 模型价格跟 OPUS 4.6 保持一致 Claude (@claudeai) Introducing Claude Opus 4.7, our most capable Opus model yet. It handles long-running tasks with more rigor, follows instructions more precisely, and verifies its own outputs before reporting back. You can hand off your hardest work with less supervision. — https://nitter.net/claudeai/status/2044785261393977612#m",
+      "url": "https://x.com/op7418/status/2044787172725903461",
+      "images": null,
+      "published": "2026-04-16T14:37:06+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044779723776028999",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Lisbon",
+      "url": "https://x.com/benln/status/2044779723776028999",
+      "images": null,
+      "published": "2026-04-16T14:07:30+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044753128080453809",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "看来今晚是 GPT-Image-V2 大战 Claude OPUS 4.7 啊 TestingCatalog News 🗞 (@testingcatalog) Claude Opus 4.7 spotted on Vertex AI 🔥 According to many reports, Opus 4.7 is expected to be released today. Really soon 👀 — https://nitter.net/testingcatalog/status/2044656297799229903#m",
+      "url": "https://x.com/op7418/status/2044753128080453809",
+      "images": null,
+      "published": "2026-04-16T12:21:50+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044729236469207307",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "抽不到了，现在抽卡变困难了，我去",
+      "url": "https://x.com/op7418/status/2044729236469207307",
+      "images": null,
+      "published": "2026-04-16T10:46:53+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044722059671158931",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "还是有一些信息是错的，但是图像生成得非常牛逼，应该是抓我的那个 Readme 没抓到",
+      "url": "https://x.com/op7418/status/2044722059671158931",
+      "images": null,
+      "published": "2026-04-16T10:18:22+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044721434166169974",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "目前正在灰度，我的 Chat GPT 里也可以用了",
+      "url": "https://x.com/op7418/status/2044721434166169974",
+      "images": null,
+      "published": "2026-04-16T10:15:53+00:00",
+      "hasTranscript": false
     },
     {
       "id": "x_2044458505076113448",
@@ -53,225 +260,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2044361826339790948",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "或者点阵",
-      "url": "https://x.com/op7418/status/2044361826339790948",
-      "images": null,
-      "published": "2026-04-15T10:26:56+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2044361512001867778",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这种也很屌啊",
-      "url": "https://x.com/op7418/status/2044361512001867778",
-      "images": null,
-      "published": "2026-04-15T10:25:41+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2044360853626262006",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Skills 快搞定了。 看起来用网页写，加上 WebGL 和 Framer Motion，也能搞出非常漂亮的背景。 不用 NanaBana 图片生成也行，到时候可以自由选择。 歸藏(guizang.ai) (@op7418) 我去，这效果确实牛逼，非常的上流！ 探索出了一条用 Gemini 和 NanaBana2 配合来生成 logo 以及 logo 展示图的工作流。 — https://nitter.net/op7418/status/2043913881526120528#m",
-      "url": "https://x.com/op7418/status/2044360853626262006",
-      "images": null,
-      "published": "2026-04-15T10:23:04+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2044290912151580811",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Anthropic 重构了 Claude 桌面端，现在侧边栏的所有内容都统一到一个地方，并且支持分屏了。 其实很多人不知道 CodePilot 也是支持分屏的，而且非常早就支持了。 Claude (@claudeai) We've redesigned Claude Code on desktop. You can now run multiple Claude sessions side by side from one window, with a new sidebar to manage them all. Video — https://nitter.net/claudeai/status/2044131493966909862#m",
-      "url": "https://x.com/op7418/status/2044290912151580811",
-      "images": null,
-      "published": "2026-04-15T05:45:09+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2044278656768635054",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "现在各家的 Code plan 采用 Anthropic 兼容模式的时候太难搞了，尤其是对我们这些非 Claude Code 又兼容这套逻辑的开发者。 你根本不知道最后用的模型是哪个，因为最后都会被传成 Claude Code 那三个模型。 而且模型发布也没有 API，或者说 API 不会返回模型真正的名称，每次上新模型都得更新代码。 用户的额度也看不见。 最麻烦的是： 1. 各家的写法不一样，设置也不一样。 2. 很多用户会把模型厂商的问题或自己的操作问题，全归咎到这种套壳软件上。 太恶心了，每天就是在擦这些屁股。能不能统一一个 API 呀？不行的话，我自己封装一个。",
-      "url": "https://x.com/op7418/status/2044278656768635054",
-      "images": null,
-      "published": "2026-04-15T04:56:27+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2044277383310749912",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "我觉得今年这句话更重要了。 只是解构会慢慢地、慢慢地把自己也解构掉，还是要做点东西 歸藏(guizang.ai) (@op7418) 少解构多建构 — https://nitter.net/op7418/status/1903801648079864122#m",
-      "url": "https://x.com/op7418/status/2044277383310749912",
-      "images": null,
-      "published": "2026-04-15T04:51:23+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2044246307351736531",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "github.com/op7418/CodePilot/…",
-      "url": "https://x.com/op7418/status/2044246307351736531",
-      "images": null,
-      "published": "2026-04-15T02:47:54+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2044246216989651385",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codepilot 0.50.1 版本更新 现在飞书连接支持一键搞定了，直接打开网页创建应用并拿到全部权限。 添加了子 Agent 展示 UI，你可以看到进度 添加了消息队列能力，AI 正在回复也可以继续发消息 增加草稿保存，输入框的内容切换聊天也不会消失 还修复了一堆桥接已经存在的问题",
-      "url": "https://x.com/op7418/status/2044246216989651385",
-      "images": null,
-      "published": "2026-04-15T02:47:33+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2044107108283727997",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Claude Code 新发布的 routines 功能很强啊！ 把云端和本地环境连起来了，可以在云端跑定时任务不需要开机。 跑完的任务本地还能接上，等你工作的时候继续处理。 你可以把「提示词 + 仓库 + 环境 + 连接器」打包成一个云端自动任务，让 Claude 在你电脑关着时也能按计划或事件自动跑。 比如按小时/每天定时、通过 HTTP API 调用、或响应 GitHub 上的 PR / push / issue / workflow 事件。 适合那些无人值守、可重复、目标清晰的工作流。 每次触发都会在云端开一个完整的 Claude Code 会话，能跑 shell、用 repo 里的 skills、访问外部服务。 以后构建 Agent 产品就是得在本地优先的基础上，用云端自动化接管一些基础的重复性的任务。 随着模型能力的提升，任务的范围会越来越大。 Claude (@claudeai) Now in research preview: routines in Claude Code. Configure a routine once (a prompt, a repo, and your connectors), and it can run on a schedule, from an API call, or in response to an event. Routines run on our web infrastructure, so you don't have to keep your laptop open. — https://nitter.net/claudeai/status/2044095086460309790#m",
-      "url": "https://x.com/op7418/status/2044107108283727997",
-      "images": null,
-      "published": "2026-04-14T17:34:46+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_H104L-steDs",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "What Codex Unlocks for Wasmer",
-      "url": "https://www.youtube.com/watch?v=H104L-steDs",
-      "thumbnail": "https://img.youtube.com/vi/H104L-steDs/maxresdefault.jpg",
-      "published": "2026-04-14T14:55:56+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_zGT32tk7U7g",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "What Codex Unlocks for Wasmer",
-      "url": "https://www.youtube.com/watch?v=zGT32tk7U7g",
-      "thumbnail": "https://img.youtube.com/vi/zGT32tk7U7g/maxresdefault.jpg",
-      "published": "2026-04-14T14:52:41+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_IZDJ3jcO5UY",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Ben Horowitz on AI Anxiety, Big Tech Transitions & The Future of Startups | a16z",
-      "url": "https://www.youtube.com/watch?v=IZDJ3jcO5UY",
-      "thumbnail": "https://img.youtube.com/vi/IZDJ3jcO5UY/maxresdefault.jpg",
-      "published": "2026-04-14T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2044059677533843944",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "小红书的一些朋友太爱我了，我去。 ​ ​一个字不差抄我的推特，主要是人家还有量。 歸藏(guizang.ai) (@op7418) Gemini 真是做设计的一把好手，尤其是用 SVG 画 logo 只要给一些适当的引导就可以画的很好 给 Codepilot 的新 logo SVG 的部分也是他完成的，我自己在基础上精修 — https://nitter.net/op7418/status/2043722921856860201#m",
-      "url": "https://x.com/op7418/status/2044059677533843944",
-      "images": null,
-      "published": "2026-04-14T14:26:18+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2044036039484850630",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -287,23 +275,6 @@
       "images": null,
       "published": "2026-04-14T12:52:22+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt_yiJOTCRVWjc",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Building Agents at Home: Homeschooling, Parenting and More | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=yiJOTCRVWjc",
-      "thumbnail": "https://img.youtube.com/vi/yiJOTCRVWjc/maxresdefault.jpg",
-      "published": "2026-04-13T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "x_2043672195017081088",
@@ -357,39 +328,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_yHqqYCWl4Cc",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Why Instagram load times are so fast",
-      "url": "https://www.youtube.com/watch?v=yHqqYCWl4Cc",
-      "thumbnail": "https://img.youtube.com/vi/yHqqYCWl4Cc/maxresdefault.jpg",
-      "published": "2026-04-11T19:00:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_flweA_I-VKE",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Builders Unscripted: Ep. 2 - Ashe Magalhaes, Founder of Hearth AI",
-      "url": "https://www.youtube.com/watch?v=flweA_I-VKE",
-      "thumbnail": "https://img.youtube.com/vi/flweA_I-VKE/maxresdefault.jpg",
-      "published": "2026-04-10T17:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2042597263072022836",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -407,38 +345,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_1PiLUnxd1b8",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Design your dream room by shopping with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=1PiLUnxd1b8",
-      "thumbnail": "https://img.youtube.com/vi/1PiLUnxd1b8/maxresdefault.jpg",
-      "published": "2026-04-09T23:35:45+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_OAlHiQLsYQM",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "ChatGPT and Cancer: How a Tech Founder Rewrote His Treatment Plan",
-      "url": "https://www.youtube.com/watch?v=OAlHiQLsYQM",
-      "thumbnail": "https://img.youtube.com/vi/OAlHiQLsYQM/maxresdefault.jpg",
-      "published": "2026-04-09T22:44:27+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2042317650458452312",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -454,55 +360,6 @@
       "images": null,
       "published": "2026-04-09T19:04:06+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt_iKx3gAODybU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "thumbnail": "https://img.youtube.com/vi/iKx3gAODybU/maxresdefault.jpg",
-      "published": "2026-04-09T17:35:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_AIZ_v_Xfb2k",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "What Codex Unlocks for Braintrust",
-      "url": "https://www.youtube.com/watch?v=AIZ_v_Xfb2k",
-      "thumbnail": "https://img.youtube.com/vi/AIZ_v_Xfb2k/maxresdefault.jpg",
-      "published": "2026-04-09T17:09:11+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_pLyVlqhaieI",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "What Codex Unlocks for Braintrust",
-      "url": "https://www.youtube.com/watch?v=pLyVlqhaieI",
-      "thumbnail": "https://img.youtube.com/vi/pLyVlqhaieI/maxresdefault.jpg",
-      "published": "2026-04-09T17:04:48+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_3bb14dd4_0b13_4173_9d5b_0e63bf98ae1d",
@@ -524,157 +381,6 @@
       "transcriptPreview": "2025年，中国餐饮品牌开启了声势浩大的出海美国。喜茶在纽约开出了更具辨识度的LAB店，霸王茶姬、瑞幸和蜜雪冰城也在这一年正式登陆美国。 但要问目前在美国做得最好的中餐和茶饮品牌，答案可能会出乎你意料——中餐第一是一度退出中国华北市场的鼎泰丰，茶饮标杆则是早在内地销声匿迹的贡茶。 究其原因，餐饮企业想顺利出海美国，不仅需要足够的“做时间的朋友”的耐心，需要对当地商业规则足够了解，更要吃透当地主流人"
     },
     {
-      "id": "x_2042211034035863748",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cursor Hackathon in Ghana",
-      "url": "https://x.com/benln/status/2042211034035863748",
-      "images": null,
-      "published": "2026-04-09T12:00:27+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2041912812637966552",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "You can now run Cursor on any machine and control it from anywhere. Kick off agents from your phone to run on your devbox. Video",
-      "url": "https://x.com/benln/status/2041912812637966552",
-      "images": null,
-      "published": "2026-04-08T16:15:26+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_dvt_74kV-RM",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Box CEO on the AI Adoption Gap | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=dvt_74kV-RM",
-      "thumbnail": "https://img.youtube.com/vi/dvt_74kV-RM/maxresdefault.jpg",
-      "published": "2026-04-08T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_ZpUKNYcgM-E",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Sam Altman on Building the Future of AI",
-      "url": "https://www.youtube.com/watch?v=ZpUKNYcgM-E",
-      "thumbnail": "https://img.youtube.com/vi/ZpUKNYcgM-E/maxresdefault.jpg",
-      "published": "2026-04-07T20:36:27+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_oheUsh7VtKY",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Why Balaji Srinivasan Thinks the SaaS Apocalypse Is Overhyped | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=oheUsh7VtKY",
-      "thumbnail": "https://img.youtube.com/vi/oheUsh7VtKY/maxresdefault.jpg",
-      "published": "2026-04-07T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_uDjL9dRbtLs",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "We’re going back to the moon.",
-      "url": "https://www.youtube.com/watch?v=uDjL9dRbtLs",
-      "thumbnail": "https://img.youtube.com/vi/uDjL9dRbtLs/maxresdefault.jpg",
-      "published": "2026-04-06T22:50:57+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_2g1e1QUiY8s",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "LG Uplus Creates Next Gen AICC",
-      "url": "https://www.youtube.com/watch?v=2g1e1QUiY8s",
-      "thumbnail": "https://img.youtube.com/vi/2g1e1QUiY8s/maxresdefault.jpg",
-      "published": "2026-04-06T15:19:08+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_UE8jx4dvlSQ",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "OpenClaw, Claude Code, and the Future of Software | Peter Yang on The a16z Show",
-      "url": "https://www.youtube.com/watch?v=UE8jx4dvlSQ",
-      "thumbnail": "https://img.youtube.com/vi/UE8jx4dvlSQ/maxresdefault.jpg",
-      "published": "2026-04-06T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_0_NGsljlo3o",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How Bots, Deepfakes and AI Agents Are Forcing a New Internet Identity Layer | Alex Blania on a16z",
-      "url": "https://www.youtube.com/watch?v=0_NGsljlo3o",
-      "thumbnail": "https://img.youtube.com/vi/0_NGsljlo3o/maxresdefault.jpg",
-      "published": "2026-04-02T16:26:55+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_xWHugpfvzjg",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -688,23 +394,6 @@
       "url": "https://www.youtube.com/watch?v=xWHugpfvzjg",
       "thumbnail": "https://img.youtube.com/vi/xWHugpfvzjg/maxresdefault.jpg",
       "published": "2026-04-02T13:41:31+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_krdrkl38nRw",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How to Reorg After AI Changes Everything | Block's Owen Jennings on the a16z Show",
-      "url": "https://www.youtube.com/watch?v=krdrkl38nRw",
-      "thumbnail": "https://img.youtube.com/vi/krdrkl38nRw/maxresdefault.jpg",
-      "published": "2026-04-01T14:30:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -745,23 +434,6 @@
       "transcriptPreview": "“龙虾热”正在退潮，但它带来的创新冲击还在持续——当它与行业know-how相结合，正在迸发出新的能量。 阿里国际站有着26年的B2B数据和经验积累，今年初，OpenClaw、Cowork这些工作范式被验证，让他们看到了打通B2B闭环的智能体，终于到了可以落地的临界点。 于是春节之后，“外贸版龙虾”Accio Work来了，海外用户只需要和这个Agent对话，它就能自主跑完从市场分析、选品设计、供"
     },
     {
-      "id": "yt_YAyYCdCkwo4",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Tesla and SpaceX Alumni on Elon Musk, Decision Velocity, and the Future of Hard Tech | a16z",
-      "url": "https://www.youtube.com/watch?v=YAyYCdCkwo4",
-      "thumbnail": "https://img.youtube.com/vi/YAyYCdCkwo4/maxresdefault.jpg",
-      "published": "2026-03-27T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_d97446f1_d6e3_4894_89d1_dca0a362b10b",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -779,23 +451,6 @@
       "published": "2026-03-25T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "本期播客是硅谷101在GTC 2026大会期间的线下特别录制，我们从老黄在Keynote上抛出的那几个大数字开始聊起： 1万亿——这是黄仁勋预期到2027年底，Blackwell和Vera Rubin两个平台带来的订单收入。 7块——这是大会一次性发布的Vera Rubin新芯片数量。 10倍、35倍——这是Vera Rubin NVL72 AI机架系统，相比Blackwell，它的推理效率提升了"
-    },
-    {
-      "id": "yt_vif8NQcjVf0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
-      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
-      "thumbnail": "https://img.youtube.com/vi/vif8NQcjVf0/maxresdefault.jpg",
-      "published": "2026-03-23T16:24:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_g8Zs12L2kVU",
@@ -853,23 +508,6 @@
       "transcriptPreview": "在AI算力争霸时代，英伟达凭借GPU市值一路狂飙。但如今，它的蛋糕正在被一点点分食——2024年，苹果论文披露Apple Intelligence全部由TPU训练；2025年，Anthropic签下数十亿美元订单，购买TPU训练Claude；近期，Meta与谷歌签署数十亿美元协议，租用TPU跑Llama。 TPU一直是谷歌低调的“自家武器”，在过去十年里驱动着几乎全部核心产品。直到TPU训练的Ge"
     },
     {
-      "id": "yt_H9rF1CSSh-w",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
-      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
-      "thumbnail": "https://img.youtube.com/vi/H9rF1CSSh-w/maxresdefault.jpg",
-      "published": "2026-03-11T20:21:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_f14f8686_a6e2_47ea_92c1_ca7e71199f67",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -889,40 +527,6 @@
       "transcriptPreview": "每周，有超过2.3亿人在ChatGPT上询问健康和保健问题。在人类创造的所有数据中，有30%来自医疗领域，但其中真正被利用起来的，不足5%。 一边是巨大的数据金矿，一边是与未被满足的庞大需求，这正是AI的机会。 在年初的摩根大通医疗健康大会上，我们看到医疗与AI正在加速“双向奔赴”。礼来制药与英伟达达成10亿美元合作，试图用算力重塑药物发现的底层范式；在OpenAI发布ChatGPT for He"
     },
     {
-      "id": "yt_SHlrUAkkWI0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
-      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
-      "thumbnail": "https://img.youtube.com/vi/SHlrUAkkWI0/maxresdefault.jpg",
-      "published": "2026-03-03T12:30:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_1SJiTwbSI58",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492",
-      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
-      "thumbnail": "https://img.youtube.com/vi/1SJiTwbSI58/maxresdefault.jpg",
-      "published": "2026-03-01T03:37:44+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_Erxh0dx4nts",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -936,23 +540,6 @@
       "url": "https://www.youtube.com/watch?v=Erxh0dx4nts",
       "thumbnail": "https://img.youtube.com/vi/Erxh0dx4nts/maxresdefault.jpg",
       "published": "2026-02-27T11:41:37+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_KGVpKPNUdzA",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
-      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
-      "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
-      "published": "2026-02-25T22:36:32+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -993,42 +580,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "pod_guigu101_pod_3b3e676b_f0cb_4a11_a9c1_c3bda3b47816",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E225｜SaaS业数千亿市值蒸发：AI如何变革组织架构？",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/3b3e676b-f0cb-4a11-a9c1-c3bda3b47816.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 3348,
-      "published": "2026-02-13T16:00:00-08:00",
-      "hasTranscript": false,
-      "transcriptPreview": "本节目由百融云创赞助播出 2026年2月的第一周，全球软件行业经历了一场如“葬礼”般的信仰地震。随着Anthropic基于Claude Cowork平台，发布了11款覆盖法律、金融、销售等核心业务的职能插件，全球软件板块市值，在短短一周内蒸发了数千亿美元。华尔街的交易员们直言：SaaS的末日到了。 这不仅是股价的波动，更是生存模式的更迭。当“按人头卖坐席”的万亿帝国，在AI Agent面前显得摇摇"
-    },
-    {
-      "id": "yt_YFjfBk8HI5o",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
-      "thumbnail": "https://img.youtube.com/vi/YFjfBk8HI5o/maxresdefault.jpg",
-      "published": "2026-02-12T03:07:03+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_r0uij_l32to",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -1042,23 +593,6 @@
       "url": "https://www.youtube.com/watch?v=r0uij_l32to",
       "thumbnail": "https://img.youtube.com/vi/r0uij_l32to/maxresdefault.jpg",
       "published": "2026-02-11T14:43:36+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_EV7WhVT270Q",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
-      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
-      "thumbnail": "https://img.youtube.com/vi/EV7WhVT270Q/maxresdefault.jpg",
-      "published": "2026-01-31T22:33:33+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1093,40 +627,6 @@
       "url": "https://www.youtube.com/watch?v=8bSAP6VVsd0",
       "thumbnail": "https://img.youtube.com/vi/8bSAP6VVsd0/maxresdefault.jpg",
       "published": "2026-01-23T11:11:46+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Z-FRe5AKmCU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489",
-      "url": "https://www.youtube.com/watch?v=Z-FRe5AKmCU",
-      "thumbnail": "https://img.youtube.com/vi/Z-FRe5AKmCU/maxresdefault.jpg",
-      "published": "2026-01-13T20:06:59+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_14OPT6CcsH4",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | Lex Fridman Podcast #488",
-      "url": "https://www.youtube.com/watch?v=14OPT6CcsH4",
-      "thumbnail": "https://img.youtube.com/vi/14OPT6CcsH4/maxresdefault.jpg",
-      "published": "2025-12-31T21:26:17+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
