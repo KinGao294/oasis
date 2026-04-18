@@ -1,7 +1,143 @@
 {
-  "last_updated": "2026-04-17T02:09:02.212140Z",
-  "count": 41,
+  "last_updated": "2026-04-18T01:59:52.427346Z",
+  "count": 31,
   "items": [
+    {
+      "id": "x_2045159048862114085",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "详情：nitter.net/i/status/2045156271251… Claude (@claudeai) Claude reads your codebase and design files to build your team's design system, then applies it automatically, keeping every project on-brand. Give it a try: claude.ai/design Read more: anthropic.com/news/claude-de… — https://nitter.net/claudeai/status/2045156271251218897#m",
+      "url": "https://x.com/op7418/status/2045159048862114085",
+      "images": null,
+      "published": "2026-04-17T15:14:49+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2045157439360876897",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "之前爆料的 Claude 设计工具上线了 类似 lovable 那种，可以帮你生成网页和APP原型以及PPT等内容 支持导出PPT格式和导出到Canvas Video",
+      "url": "https://x.com/op7418/status/2045157439360876897",
+      "images": null,
+      "published": "2026-04-17T15:08:25+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2045131853095432362",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor is coming up in these cities: • Accra - 4/18 • Yaoundé - 4/18 • Macau - 4/18 • Vienna - 4/23 • Miami - 4/23 • Cordoba - 4/24 • Sofia - 4/25 • Lagos - 4/25 • Guadalajara - 4/25 • Mar del Plata - 4/26 • Guayaquil - 5/5 • SLC - 5/9 • Austin - 5/16",
+      "url": "https://x.com/benln/status/2045131853095432362",
+      "images": null,
+      "published": "2026-04-17T13:26:45+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044988825160818915",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "刚好 Seedance 2.0 API 上线了：nitter.net/op7418/status/20449702… 歸藏(guizang.ai) (@op7418) Seedance 2.0 的 API 终于全量开放了！我等这个很久了 国内用户通过火山引擎现在就可以调用Seedance2.0API，海外用户可以通过BytePlus接入 Seedance 2.0 这种非常智能的视频模型，很适合用来做各种视频 Agent。 而且作为创作者，其实我们每个人的工作流程和工作思路都不太一样。加上个人的资产很多都在本地，所以还是自己做 Agent 或者做流程最方便。 尤其是现在 vibe coding 的能力这么强，我们还有 Skills 和 MCP。感觉开放以后，整个生态会非常繁荣，大家能打通各种各样的 Skills 和 MCP，而且可以按量付费，这个是比较舒服的。 我其实一直在等这个 API 的更新，这样的话我就能做 Skills 了。之前以前的一些 Skills 也可以升级一下，带来一些新的表现形式。 经过这一段时间来说，Seedance 2.0 更新以后，这个 AI 短剧、长剧，我去，真是蓬勃发展。今天看那个红果都 3 亿日活了，真的很离谱。 目前火山引擎的 API 支持文字、图片、音频、视频四种模态的输入。 你也可以直接完成自己的人脸登记和肖像授权，这样就可以用自己的人脸做视频了。而且火山引擎还预置了很多虚拟人像的特征，都可以直接调用。 如果有类似视频 Agent 的需求，或者说你自己的工作流有较高的定制需求，可以去火山引擎看看。 — https://nitter.net/op7418/status/2044970249548890409#m",
+      "url": "https://x.com/op7418/status/2044988825160818915",
+      "images": null,
+      "published": "2026-04-17T03:58:24+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044987637501665673",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我靠，HeyGen 发布这个 hyperframes CLI 很强啊 跟我之前的一个想法类似，就是它把用纯 HTML 写的那个动效变成视频。 然后再接一个（比如 Seedance 2.0 这样的）模型。 这样你就可以纯零人工介入，实现人脸出镜的那种科普视频了。 比如我发布一个小东西，想讲一下这些功能，我就可以一张照片扔上去，剩下的全交给 Claude Code 搞完。 而且它支持 GSAP、Lottie、CSS、Three.js 这种框架去生成视频的效果。 理论上你可以拿这套东西构建出任何主流的 AE 特效模板。 它支持完整的视频渲染管线，包括获取、编码、音频混合，还有一个编辑器的 UI 界面，你可以手动在这个界面里编辑。 这个比原来的 Remotion 完整和强大了非常多，推荐你如果用原来 Remotion 做视频，可以换到这个框架了 Video HeyGen (@HeyGen) We built our launch video in Claude Code using HyperFrames. Now it's yours. Open source, agent-native framework. HTML to MP4. $ npx skills add heygen-com/hyperframes RT + Comment \"HyperFrames\" to get the full source code of this launch video (must follow) Video — https://nitter.net/HeyGen/status/2044827454460871072#m",
+      "url": "https://x.com/op7418/status/2044987637501665673",
+      "images": null,
+      "published": "2026-04-17T03:53:41+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044982905982931264",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Seedance 2.0 教程里也有很多 Agent 玩法和思路，可以参考一下：nitter.net/op7418/status/20227214… 歸藏(guizang.ai) (@op7418) x.com/i/article/202263524311… — https://nitter.net/op7418/status/2022721414462374031#m",
+      "url": "https://x.com/op7418/status/2044982905982931264",
+      "images": null,
+      "published": "2026-04-17T03:34:53+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044970249548890409",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Seedance 2.0 的 API 终于全量开放了！我等这个很久了 国内用户通过火山引擎现在就可以调用Seedance2.0API，海外用户可以通过BytePlus接入 Seedance 2.0 这种非常智能的视频模型，很适合用来做各种视频 Agent。 而且作为创作者，其实我们每个人的工作流程和工作思路都不太一样。加上个人的资产很多都在本地，所以还是自己做 Agent 或者做流程最方便。 尤其是现在 vibe coding 的能力这么强，我们还有 Skills 和 MCP。感觉开放以后，整个生态会非常繁荣，大家能打通各种各样的 Skills 和 MCP，而且可以按量付费，这个是比较舒服的。 我其实一直在等这个 API 的更新，这样的话我就能做 Skills 了。之前以前的一些 Skills 也可以升级一下，带来一些新的表现形式。 经过这一段时间来说，Seedance 2.0 更新以后，这个 AI 短剧、长剧，我去，真是蓬勃发展。今天看那个红果都 3 亿日活了，真的很离谱。 目前火山引擎的 API 支持文字、图片、音频、视频四种模态的输入。 你也可以直接完成自己的人脸登记和肖像授权，这样就可以用自己的人脸做视频了。而且火山引擎还预置了很多虚拟人像的特征，都可以直接调用。 如果有类似视频 Agent 的需求，或者说你自己的工作流有较高的定制需求，可以去火山引擎看看。",
+      "url": "https://x.com/op7418/status/2044970249548890409",
+      "images": null,
+      "published": "2026-04-17T02:44:35+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2044965773408641334",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "没等来 Image 模型，等来了 Codex 大升级。 现在这玩意儿简直是 All-in-One 的应用，不只能用来开发，他们把那个 ChatGPT 的功能也都塞进去了。 主要是这个 Computer Use 功能对于开发来说太好用了。 你可以直接让它对你的产品进行 UI 测试，这是目前 Web Coding 测试中非常重要、也是最恶心的一环。 而且现在也内置了 Artifact 的功能，它写的网页可以直接打开。 你还可以直接在网页上评论，让它改哪儿，直接在生成的网页上进行标记。 有了那个网页以后，它自己在测试网页上也跑得非常顺畅。 而且现在 Codex 还能生成图片。 它可以先帮你生成一个大概的图片草稿，等确认 OK 了以后再开始写代码，也可以去生成一些网页里的素材。 侧边栏的 Artifact 甚至支持打开各种文件，不只是代码网页，PDF、PPT 都可以。 在做产品上，OpenAI 还是很牛逼的。 你再看那个 Claude 桌面端那坨东西，一天恨不得给你出 800 个 bug，Gemini 就别说了。 OpenAI (@OpenAI) Codex for (almost) everything. It can now use apps on your Mac, connect to more of your tools, create images, learn from previous actions, remember how you like to work, and take on ongoing and repeatable tasks. Video — https://nitter.net/OpenAI/status/2044827705406062670#m",
+      "url": "https://x.com/op7418/status/2044965773408641334",
+      "images": null,
+      "published": "2026-04-17T02:26:48+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "pod_guigu101_pod_2a529abf_3c14_4ae7_a0a5_fe1340a66c7d",
       "source": "硅谷101",
@@ -73,40 +209,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2044800194827669767",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "尊重原创，不要商用哈，自己玩玩我觉得没啥",
-      "url": "https://x.com/op7418/status/2044800194827669767",
-      "images": null,
-      "published": "2026-04-16T15:28:51+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2044800056973570417",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "哥们的头像画的是真好，这个风格。 然后拿他这张图，让 Nana Banana 画了一些《红楼梦》和《金瓶梅》里的角色头像。 Darius Dan (@dariusdan) I'm very proud of my collection of tiny pfp characters. Custom requests, all sold, all hand-drawn.🤍 Zero AI involved. Drop who should I draw next?👀 — https://nitter.net/dariusdan/status/2044500845467677089#m",
-      "url": "https://x.com/op7418/status/2044800056973570417",
-      "images": null,
-      "published": "2026-04-16T15:28:18+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2044787404943278273",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -124,23 +226,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2044787172725903461",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "来了！Anthropic 发布了 Claude Opus 4.7 模型，主要更新如下： 1. 核心能力提升 2. (a) 可以处理更长时间的任务 (b) 指令执行更精确 (c) 在汇报前会自我验证输出，从而在更少监督下完成长时间的工作 2. 视觉与思考增强 (a) 视觉能力大幅提升，可以非常精细地查看图像,可以接受长边最长 2,576 像素的图像 3. 工具与平台更新 (a) 在 Claude Code 中新增了一个名为 Ultra Review 的命令，专门进行审查 (b) 新增了一个思考等级 xhigh，介于 High 和 Max 之间 (c) 自动审批模式，Max 用户也可以用了 目前已在所有 Claude 产品和 API 上线 模型价格跟 OPUS 4.6 保持一致 Claude (@claudeai) Introducing Claude Opus 4.7, our most capable Opus model yet. It handles long-running tasks with more rigor, follows instructions more precisely, and verifies its own outputs before reporting back. You can hand off your hardest work with less supervision. — https://nitter.net/claudeai/status/2044785261393977612#m",
-      "url": "https://x.com/op7418/status/2044787172725903461",
-      "images": null,
-      "published": "2026-04-16T14:37:06+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2044779723776028999",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -155,74 +240,6 @@
       "url": "https://x.com/benln/status/2044779723776028999",
       "images": null,
       "published": "2026-04-16T14:07:30+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2044753128080453809",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "看来今晚是 GPT-Image-V2 大战 Claude OPUS 4.7 啊 TestingCatalog News 🗞 (@testingcatalog) Claude Opus 4.7 spotted on Vertex AI 🔥 According to many reports, Opus 4.7 is expected to be released today. Really soon 👀 — https://nitter.net/testingcatalog/status/2044656297799229903#m",
-      "url": "https://x.com/op7418/status/2044753128080453809",
-      "images": null,
-      "published": "2026-04-16T12:21:50+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2044729236469207307",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "抽不到了，现在抽卡变困难了，我去",
-      "url": "https://x.com/op7418/status/2044729236469207307",
-      "images": null,
-      "published": "2026-04-16T10:46:53+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2044722059671158931",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "还是有一些信息是错的，但是图像生成得非常牛逼，应该是抓我的那个 Readme 没抓到",
-      "url": "https://x.com/op7418/status/2044722059671158931",
-      "images": null,
-      "published": "2026-04-16T10:18:22+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2044721434166169974",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "目前正在灰度，我的 Chat GPT 里也可以用了",
-      "url": "https://x.com/op7418/status/2044721434166169974",
-      "images": null,
-      "published": "2026-04-16T10:15:53+00:00",
       "hasTranscript": false
     },
     {
@@ -345,23 +362,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2042317650458452312",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Best companies for future founders to work at these days: Ramp, Cursor, OpenAI. Where else?",
-      "url": "https://x.com/benln/status/2042317650458452312",
-      "images": null,
-      "published": "2026-04-09T19:04:06+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "pod_guigu101_pod_3bb14dd4_0b13_4173_9d5b_0e63bf98ae1d",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -379,40 +379,6 @@
       "published": "2026-04-09T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "2025年，中国餐饮品牌开启了声势浩大的出海美国。喜茶在纽约开出了更具辨识度的LAB店，霸王茶姬、瑞幸和蜜雪冰城也在这一年正式登陆美国。 但要问目前在美国做得最好的中餐和茶饮品牌，答案可能会出乎你意料——中餐第一是一度退出中国华北市场的鼎泰丰，茶饮标杆则是早在内地销声匿迹的贡茶。 究其原因，餐饮企业想顺利出海美国，不仅需要足够的“做时间的朋友”的耐心，需要对当地商业规则足够了解，更要吃透当地主流人"
-    },
-    {
-      "id": "yt_xWHugpfvzjg",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "This AI made me $2,345 in 24 hours",
-      "url": "https://www.youtube.com/watch?v=xWHugpfvzjg",
-      "thumbnail": "https://img.youtube.com/vi/xWHugpfvzjg/maxresdefault.jpg",
-      "published": "2026-04-02T13:41:31+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_CkEse6MmGFk",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "i gave chatgpt $2,000 to trade stocks for 24 hours",
-      "url": "https://www.youtube.com/watch?v=CkEse6MmGFk",
-      "thumbnail": "https://img.youtube.com/vi/CkEse6MmGFk/maxresdefault.jpg",
-      "published": "2026-04-01T09:21:53+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_0f4a2ab9_d3a0_41ad_8db1_6c03c851bd70",
@@ -451,23 +417,6 @@
       "published": "2026-03-25T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "本期播客是硅谷101在GTC 2026大会期间的线下特别录制，我们从老黄在Keynote上抛出的那几个大数字开始聊起： 1万亿——这是黄仁勋预期到2027年底，Blackwell和Vera Rubin两个平台带来的订单收入。 7块——这是大会一次性发布的Vera Rubin新芯片数量。 10倍、35倍——这是Vera Rubin NVL72 AI机架系统，相比Blackwell，它的推理效率提升了"
-    },
-    {
-      "id": "yt_g8Zs12L2kVU",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Let an AI Run My Life for 50 Days",
-      "url": "https://www.youtube.com/watch?v=g8Zs12L2kVU",
-      "thumbnail": "https://img.youtube.com/vi/g8Zs12L2kVU/maxresdefault.jpg",
-      "published": "2026-03-23T15:03:34+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_c457ca43_1305_44a3_b9cc_c68480802396",
@@ -527,23 +476,6 @@
       "transcriptPreview": "每周，有超过2.3亿人在ChatGPT上询问健康和保健问题。在人类创造的所有数据中，有30%来自医疗领域，但其中真正被利用起来的，不足5%。 一边是巨大的数据金矿，一边是与未被满足的庞大需求，这正是AI的机会。 在年初的摩根大通医疗健康大会上，我们看到医疗与AI正在加速“双向奔赴”。礼来制药与英伟达达成10亿美元合作，试图用算力重塑药物发现的底层范式；在OpenAI发布ChatGPT for He"
     },
     {
-      "id": "yt_Erxh0dx4nts",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "This AI Taught Me Calculus in 5 Minutes",
-      "url": "https://www.youtube.com/watch?v=Erxh0dx4nts",
-      "thumbnail": "https://img.youtube.com/vi/Erxh0dx4nts/maxresdefault.jpg",
-      "published": "2026-02-27T11:41:37+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_7abda28b_99c6_4ebc_8c0d_37bcc77f6a73",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -561,108 +493,6 @@
       "published": "2026-02-25T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "他是霍金口中“地球上最聪明的人之一”，4岁下国际象棋，13岁获大师称号，却在一场对弈中突然顿悟，转身奔向人工智能。 他是DeepMind创始人，AlphaGo、AlphaFold背后的大脑，2024年诺贝尔化学奖得主。他也是那个因执念于强化学习险些错失大语言模型时代，又率领谷歌Gemini逆袭，成功回到牌桌的“孤傲天才”。 我们想聊聊哈萨比斯，不仅因为他的天才传奇，更想了解：发明终极技术的那一小撮"
-    },
-    {
-      "id": "yt_2o76-z12Ttk",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "The Internet is 50% Fake. I Built a Detector.",
-      "url": "https://www.youtube.com/watch?v=2o76-z12Ttk",
-      "thumbnail": "https://img.youtube.com/vi/2o76-z12Ttk/maxresdefault.jpg",
-      "published": "2026-02-18T12:10:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_r0uij_l32to",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Hired 5 AI Employees for $0 (Here's What Happened)",
-      "url": "https://www.youtube.com/watch?v=r0uij_l32to",
-      "thumbnail": "https://img.youtube.com/vi/r0uij_l32to/maxresdefault.jpg",
-      "published": "2026-02-11T14:43:36+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_pGyHNyOUaqg",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Built & Launched a Mobile App in 10 Minutes (No Code)",
-      "url": "https://www.youtube.com/watch?v=pGyHNyOUaqg",
-      "thumbnail": "https://img.youtube.com/vi/pGyHNyOUaqg/maxresdefault.jpg",
-      "published": "2026-01-29T10:50:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_8bSAP6VVsd0",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Built a YouTube Channel That Runs Itself with Genspark",
-      "url": "https://www.youtube.com/watch?v=8bSAP6VVsd0",
-      "thumbnail": "https://img.youtube.com/vi/8bSAP6VVsd0/maxresdefault.jpg",
-      "published": "2026-01-23T11:11:46+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Q7INj06TUv4",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Solved an 'Impossible' Math Problem with AI",
-      "url": "https://www.youtube.com/watch?v=Q7INj06TUv4",
-      "thumbnail": "https://img.youtube.com/vi/Q7INj06TUv4/maxresdefault.jpg",
-      "published": "2025-12-23T09:29:56+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_18L5HOYTQAw",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "Why Every Skyrim AI Becomes a Stealth Archer",
-      "url": "https://www.youtube.com/watch?v=18L5HOYTQAw",
-      "thumbnail": "https://img.youtube.com/vi/18L5HOYTQAw/maxresdefault.jpg",
-      "published": "2025-12-03T16:15:40+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_96c3b4d2_20c8_4a39_bd56_17b9f8e52a8d",
