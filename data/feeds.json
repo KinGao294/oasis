@@ -1,7 +1,75 @@
 {
-  "last_updated": "2026-04-18T01:59:52.427346Z",
-  "count": 31,
+  "last_updated": "2026-04-19T02:13:07.643682Z",
+  "count": 41,
   "items": [
+    {
+      "id": "x_2045526587261813073",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "完全体",
+      "url": "https://x.com/op7418/status/2045526587261813073",
+      "images": null,
+      "published": "2026-04-18T15:35:17+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2045461673717404088",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "搞的差不多了 歸藏(guizang.ai) (@op7418) 牛逼，现在人手一个智能硬件! 我现在能用这个墨水屏监控我的 Claude Code 和 Codex 的状态，同时进行审批。 在在家里的任何一个地方都可以。 项目基于 Claude 那个实体 buddy 项目。 但是它只能在 M5StickCPlus 上运行，而且必须安装 Claude 桌面端。 我把它改成了可以在 M5 Paper 这个墨水屏上运行，只需要装一个 Cloud Code 的插件就可以。 如果有需要的话后面开源一下。 这样的话，你在家里的任何一个地方都能审批和查看你的 Agent 的状态。 Video — https://nitter.net/op7418/status/2045389498301689964#m",
+      "url": "https://x.com/op7418/status/2045461673717404088",
+      "images": null,
+      "published": "2026-04-18T11:17:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2045389616908550550",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Anthropic 原始项目：github.com/anthropics/claude…",
+      "url": "https://x.com/op7418/status/2045389616908550550",
+      "images": null,
+      "published": "2026-04-18T06:31:00+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2045389498301689964",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "牛逼，现在人手一个智能硬件! 我现在能用这个墨水屏监控我的 Claude Code 和 Codex 的状态，同时进行审批。 在在家里的任何一个地方都可以。 项目基于 Claude 那个实体 buddy 项目。 但是它只能在 M5StickCPlus 上运行，而且必须安装 Claude 桌面端。 我把它改成了可以在 M5 Paper 这个墨水屏上运行，只需要装一个 Cloud Code 的插件就可以。 如果有需要的话后面开源一下。 这样的话，你在家里的任何一个地方都能审批和查看你的 Agent 的状态。 Video",
+      "url": "https://x.com/op7418/status/2045389498301689964",
+      "images": null,
+      "published": "2026-04-18T06:30:32+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2045159048862114085",
       "source": "归藏",
@@ -122,23 +190,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2044965773408641334",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "没等来 Image 模型，等来了 Codex 大升级。 现在这玩意儿简直是 All-in-One 的应用，不只能用来开发，他们把那个 ChatGPT 的功能也都塞进去了。 主要是这个 Computer Use 功能对于开发来说太好用了。 你可以直接让它对你的产品进行 UI 测试，这是目前 Web Coding 测试中非常重要、也是最恶心的一环。 而且现在也内置了 Artifact 的功能，它写的网页可以直接打开。 你还可以直接在网页上评论，让它改哪儿，直接在生成的网页上进行标记。 有了那个网页以后，它自己在测试网页上也跑得非常顺畅。 而且现在 Codex 还能生成图片。 它可以先帮你生成一个大概的图片草稿，等确认 OK 了以后再开始写代码，也可以去生成一些网页里的素材。 侧边栏的 Artifact 甚至支持打开各种文件，不只是代码网页，PDF、PPT 都可以。 在做产品上，OpenAI 还是很牛逼的。 你再看那个 Claude 桌面端那坨东西，一天恨不得给你出 800 个 bug，Gemini 就别说了。 OpenAI (@OpenAI) Codex for (almost) everything. It can now use apps on your Mac, connect to more of your tools, create images, learn from previous actions, remember how you like to work, and take on ongoing and repeatable tasks. Video — https://nitter.net/OpenAI/status/2044827705406062670#m",
-      "url": "https://x.com/op7418/status/2044965773408641334",
-      "images": null,
-      "published": "2026-04-17T02:26:48+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "pod_guigu101_pod_2a529abf_3c14_4ae7_a0a5_fe1340a66c7d",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -156,57 +207,6 @@
       "published": "2026-04-16T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "Peter Thiel，是硅谷最具争议和影响力的思想家之一。如果要用一句话概括他的思想，那就是：世界是由少数天选之人在幕后驱动的，而他就是其中之一。这套理论，不仅在以他为核心的“硅谷右翼”圈子中产生了影响，还通过Peter Thiel的政治参与，影响了更多的人。 那么，Peter Thiel的思想，又来源于什么呢？要理解他，答案藏在三位哲学家身上：法国文学批评理论家吉拉尔、纳粹党员法学家施密特、和"
-    },
-    {
-      "id": "x_2044809171393216873",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "顺便这是价格，我感觉对于那些做漫剧、做长剧的公司来说，这个价格没啥问题，本身这个档位确实耗算力",
-      "url": "https://x.com/op7418/status/2044809171393216873",
-      "images": null,
-      "published": "2026-04-16T16:04:31+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2044808829620380119",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "即梦现在可以用Seedance 2.0 生成 1080P 的视频了 试了一下，太屌了！感觉这个才是满血的 Seedance 2.0 这个细节就不说了。我感觉这个模型它的智能程度和提示词理解能力也上升了。 在“全能参考”上，对于素材的使用非常灵活，而且跟整个视频融合得更好。 Video",
-      "url": "https://x.com/op7418/status/2044808829620380119",
-      "images": null,
-      "published": "2026-04-16T16:03:10+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2044805298792407377",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Claude Code 上可以用 Claude Opus 4.7 了。 默认是 X-HIGH 的推理强度，如果你觉得不够的话，可能得自己手动换到 Max。",
-      "url": "https://x.com/op7418/status/2044805298792407377",
-      "images": null,
-      "published": "2026-04-16T15:49:08+00:00",
-      "hasTranscript": false
     },
     {
       "id": "x_2044787404943278273",
@@ -362,6 +362,23 @@
       "hasTranscript": false
     },
     {
+      "id": "yt_iKx3gAODybU",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+      "thumbnail": "https://img.youtube.com/vi/iKx3gAODybU/maxresdefault.jpg",
+      "published": "2026-04-09T17:35:20+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "pod_guigu101_pod_3bb14dd4_0b13_4173_9d5b_0e63bf98ae1d",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -419,6 +436,23 @@
       "transcriptPreview": "本期播客是硅谷101在GTC 2026大会期间的线下特别录制，我们从老黄在Keynote上抛出的那几个大数字开始聊起： 1万亿——这是黄仁勋预期到2027年底，Blackwell和Vera Rubin两个平台带来的订单收入。 7块——这是大会一次性发布的Vera Rubin新芯片数量。 10倍、35倍——这是Vera Rubin NVL72 AI机架系统，相比Blackwell，它的推理效率提升了"
     },
     {
+      "id": "yt_vif8NQcjVf0",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
+      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
+      "thumbnail": "https://img.youtube.com/vi/vif8NQcjVf0/maxresdefault.jpg",
+      "published": "2026-03-23T16:24:14+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "pod_guigu101_pod_c457ca43_1305_44a3_b9cc_c68480802396",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -457,6 +491,23 @@
       "transcriptPreview": "在AI算力争霸时代，英伟达凭借GPU市值一路狂飙。但如今，它的蛋糕正在被一点点分食——2024年，苹果论文披露Apple Intelligence全部由TPU训练；2025年，Anthropic签下数十亿美元订单，购买TPU训练Claude；近期，Meta与谷歌签署数十亿美元协议，租用TPU跑Llama。 TPU一直是谷歌低调的“自家武器”，在过去十年里驱动着几乎全部核心产品。直到TPU训练的Ge"
     },
     {
+      "id": "yt_H9rF1CSSh-w",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
+      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
+      "thumbnail": "https://img.youtube.com/vi/H9rF1CSSh-w/maxresdefault.jpg",
+      "published": "2026-03-11T20:21:39+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "pod_guigu101_pod_f14f8686_a6e2_47ea_92c1_ca7e71199f67",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -476,6 +527,57 @@
       "transcriptPreview": "每周，有超过2.3亿人在ChatGPT上询问健康和保健问题。在人类创造的所有数据中，有30%来自医疗领域，但其中真正被利用起来的，不足5%。 一边是巨大的数据金矿，一边是与未被满足的庞大需求，这正是AI的机会。 在年初的摩根大通医疗健康大会上，我们看到医疗与AI正在加速“双向奔赴”。礼来制药与英伟达达成10亿美元合作，试图用算力重塑药物发现的底层范式；在OpenAI发布ChatGPT for He"
     },
     {
+      "id": "yt_SHlrUAkkWI0",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
+      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
+      "thumbnail": "https://img.youtube.com/vi/SHlrUAkkWI0/maxresdefault.jpg",
+      "published": "2026-03-03T12:30:21+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_1SJiTwbSI58",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492",
+      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
+      "thumbnail": "https://img.youtube.com/vi/1SJiTwbSI58/maxresdefault.jpg",
+      "published": "2026-03-01T03:37:44+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_KGVpKPNUdzA",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
+      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
+      "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
+      "published": "2026-02-25T22:36:32+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "pod_guigu101_pod_7abda28b_99c6_4ebc_8c0d_37bcc77f6a73",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -493,6 +595,74 @@
       "published": "2026-02-25T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "他是霍金口中“地球上最聪明的人之一”，4岁下国际象棋，13岁获大师称号，却在一场对弈中突然顿悟，转身奔向人工智能。 他是DeepMind创始人，AlphaGo、AlphaFold背后的大脑，2024年诺贝尔化学奖得主。他也是那个因执念于强化学习险些错失大语言模型时代，又率领谷歌Gemini逆袭，成功回到牌桌的“孤傲天才”。 我们想聊聊哈萨比斯，不仅因为他的天才传奇，更想了解：发明终极技术的那一小撮"
+    },
+    {
+      "id": "yt_YFjfBk8HI5o",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
+      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
+      "thumbnail": "https://img.youtube.com/vi/YFjfBk8HI5o/maxresdefault.jpg",
+      "published": "2026-02-12T03:07:03+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_EV7WhVT270Q",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
+      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
+      "thumbnail": "https://img.youtube.com/vi/EV7WhVT270Q/maxresdefault.jpg",
+      "published": "2026-01-31T22:33:33+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_Z-FRe5AKmCU",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489",
+      "url": "https://www.youtube.com/watch?v=Z-FRe5AKmCU",
+      "thumbnail": "https://img.youtube.com/vi/Z-FRe5AKmCU/maxresdefault.jpg",
+      "published": "2026-01-13T20:06:59+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_14OPT6CcsH4",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | Lex Fridman Podcast #488",
+      "url": "https://www.youtube.com/watch?v=14OPT6CcsH4",
+      "thumbnail": "https://img.youtube.com/vi/14OPT6CcsH4/maxresdefault.jpg",
+      "published": "2025-12-31T21:26:17+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_96c3b4d2_20c8_4a39_bd56_17b9f8e52a8d",
