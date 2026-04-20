@@ -1,7 +1,126 @@
 {
-  "last_updated": "2026-04-19T02:13:07.643682Z",
+  "last_updated": "2026-04-20T02:13:24.335458Z",
   "count": 41,
   "items": [
+    {
+      "id": "x_2046046331035414943",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "开源了：nitter.net/op7418/status/20460455… 歸藏(guizang.ai) (@op7418) x.com/i/article/204604477781… — https://nitter.net/op7418/status/2046045574118691143#m",
+      "url": "https://x.com/op7418/status/2046046331035414943",
+      "images": null,
+      "published": "2026-04-20T02:00:33+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2046046295861993543",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "开源了：nitter.net/op7418/status/20460455… 歸藏(guizang.ai) (@op7418) x.com/i/article/204604477781… — https://nitter.net/op7418/status/2046045574118691143#m",
+      "url": "https://x.com/op7418/status/2046046295861993543",
+      "images": null,
+      "published": "2026-04-20T02:00:25+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2046046165951816172",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "开源了！ 拿墨水屏蓝牙控制你的 Claude code，监控多个对话状态，并且快速审批权限。 ​ ​现在做硬件的门槛是真低啊，USB一插让Claudecode跑就行 歸藏(guizang.ai) (@op7418) x.com/i/article/204604477781… — https://nitter.net/op7418/status/2046045574118691143#m",
+      "url": "https://x.com/op7418/status/2046046165951816172",
+      "images": null,
+      "published": "2026-04-20T01:59:54+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2046045574118691143",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "x.com/i/article/204604477781…",
+      "url": "https://x.com/op7418/status/2046045574118691143",
+      "images": null,
+      "published": "2026-04-20T01:57:33+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2045920056744251617",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Imagine Slack, but built from scratch in 2026",
+      "url": "https://x.com/benln/status/2045920056744251617",
+      "images": null,
+      "published": "2026-04-19T17:38:47+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2045847904879858142",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "What are you building this weekend? Drop a link, curious to see.",
+      "url": "https://x.com/benln/status/2045847904879858142",
+      "images": null,
+      "published": "2026-04-19T12:52:05+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2045822360310452464",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "今天的夕阳漂亮",
+      "url": "https://x.com/op7418/status/2045822360310452464",
+      "images": null,
+      "published": "2026-04-19T11:10:34+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2045526587261813073",
       "source": "归藏",
@@ -88,23 +207,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2045157439360876897",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "之前爆料的 Claude 设计工具上线了 类似 lovable 那种，可以帮你生成网页和APP原型以及PPT等内容 支持导出PPT格式和导出到Canvas Video",
-      "url": "https://x.com/op7418/status/2045157439360876897",
-      "images": null,
-      "published": "2026-04-17T15:08:25+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2045131853095432362",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -119,74 +221,6 @@
       "url": "https://x.com/benln/status/2045131853095432362",
       "images": null,
       "published": "2026-04-17T13:26:45+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2044988825160818915",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "刚好 Seedance 2.0 API 上线了：nitter.net/op7418/status/20449702… 歸藏(guizang.ai) (@op7418) Seedance 2.0 的 API 终于全量开放了！我等这个很久了 国内用户通过火山引擎现在就可以调用Seedance2.0API，海外用户可以通过BytePlus接入 Seedance 2.0 这种非常智能的视频模型，很适合用来做各种视频 Agent。 而且作为创作者，其实我们每个人的工作流程和工作思路都不太一样。加上个人的资产很多都在本地，所以还是自己做 Agent 或者做流程最方便。 尤其是现在 vibe coding 的能力这么强，我们还有 Skills 和 MCP。感觉开放以后，整个生态会非常繁荣，大家能打通各种各样的 Skills 和 MCP，而且可以按量付费，这个是比较舒服的。 我其实一直在等这个 API 的更新，这样的话我就能做 Skills 了。之前以前的一些 Skills 也可以升级一下，带来一些新的表现形式。 经过这一段时间来说，Seedance 2.0 更新以后，这个 AI 短剧、长剧，我去，真是蓬勃发展。今天看那个红果都 3 亿日活了，真的很离谱。 目前火山引擎的 API 支持文字、图片、音频、视频四种模态的输入。 你也可以直接完成自己的人脸登记和肖像授权，这样就可以用自己的人脸做视频了。而且火山引擎还预置了很多虚拟人像的特征，都可以直接调用。 如果有类似视频 Agent 的需求，或者说你自己的工作流有较高的定制需求，可以去火山引擎看看。 — https://nitter.net/op7418/status/2044970249548890409#m",
-      "url": "https://x.com/op7418/status/2044988825160818915",
-      "images": null,
-      "published": "2026-04-17T03:58:24+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2044987637501665673",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "我靠，HeyGen 发布这个 hyperframes CLI 很强啊 跟我之前的一个想法类似，就是它把用纯 HTML 写的那个动效变成视频。 然后再接一个（比如 Seedance 2.0 这样的）模型。 这样你就可以纯零人工介入，实现人脸出镜的那种科普视频了。 比如我发布一个小东西，想讲一下这些功能，我就可以一张照片扔上去，剩下的全交给 Claude Code 搞完。 而且它支持 GSAP、Lottie、CSS、Three.js 这种框架去生成视频的效果。 理论上你可以拿这套东西构建出任何主流的 AE 特效模板。 它支持完整的视频渲染管线，包括获取、编码、音频混合，还有一个编辑器的 UI 界面，你可以手动在这个界面里编辑。 这个比原来的 Remotion 完整和强大了非常多，推荐你如果用原来 Remotion 做视频，可以换到这个框架了 Video HeyGen (@HeyGen) We built our launch video in Claude Code using HyperFrames. Now it's yours. Open source, agent-native framework. HTML to MP4. $ npx skills add heygen-com/hyperframes RT + Comment \"HyperFrames\" to get the full source code of this launch video (must follow) Video — https://nitter.net/HeyGen/status/2044827454460871072#m",
-      "url": "https://x.com/op7418/status/2044987637501665673",
-      "images": null,
-      "published": "2026-04-17T03:53:41+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2044982905982931264",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Seedance 2.0 教程里也有很多 Agent 玩法和思路，可以参考一下：nitter.net/op7418/status/20227214… 歸藏(guizang.ai) (@op7418) x.com/i/article/202263524311… — https://nitter.net/op7418/status/2022721414462374031#m",
-      "url": "https://x.com/op7418/status/2044982905982931264",
-      "images": null,
-      "published": "2026-04-17T03:34:53+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2044970249548890409",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Seedance 2.0 的 API 终于全量开放了！我等这个很久了 国内用户通过火山引擎现在就可以调用Seedance2.0API，海外用户可以通过BytePlus接入 Seedance 2.0 这种非常智能的视频模型，很适合用来做各种视频 Agent。 而且作为创作者，其实我们每个人的工作流程和工作思路都不太一样。加上个人的资产很多都在本地，所以还是自己做 Agent 或者做流程最方便。 尤其是现在 vibe coding 的能力这么强，我们还有 Skills 和 MCP。感觉开放以后，整个生态会非常繁荣，大家能打通各种各样的 Skills 和 MCP，而且可以按量付费，这个是比较舒服的。 我其实一直在等这个 API 的更新，这样的话我就能做 Skills 了。之前以前的一些 Skills 也可以升级一下，带来一些新的表现形式。 经过这一段时间来说，Seedance 2.0 更新以后，这个 AI 短剧、长剧，我去，真是蓬勃发展。今天看那个红果都 3 亿日活了，真的很离谱。 目前火山引擎的 API 支持文字、图片、音频、视频四种模态的输入。 你也可以直接完成自己的人脸登记和肖像授权，这样就可以用自己的人脸做视频了。而且火山引擎还预置了很多虚拟人像的特征，都可以直接调用。 如果有类似视频 Agent 的需求，或者说你自己的工作流有较高的定制需求，可以去火山引擎看看。",
-      "url": "https://x.com/op7418/status/2044970249548890409",
-      "images": null,
-      "published": "2026-04-17T02:44:35+00:00",
       "hasTranscript": false
     },
     {
@@ -241,6 +275,23 @@
       "images": null,
       "published": "2026-04-16T14:07:30+00:00",
       "hasTranscript": false
+    },
+    {
+      "id": "yt_4EsUaur0nsQ",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The GPT Moment for Robotics Is Here",
+      "url": "https://www.youtube.com/watch?v=4EsUaur0nsQ",
+      "thumbnail": "https://img.youtube.com/vi/4EsUaur0nsQ/maxresdefault.jpg",
+      "published": "2026-04-16T14:00:07+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "x_2044458505076113448",
@@ -328,57 +379,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2043303392206827657",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Kuala Lumpur",
-      "url": "https://x.com/benln/status/2043303392206827657",
-      "images": null,
-      "published": "2026-04-12T12:21:06+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2042597263072022836",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "More suggestions: Vercel, Anduril, Mercury, Stripe, ElevenLabs, Profound, Anthropic, Mintlify, Databricks, SpaceX, Elise AI, Browserbase, Palantir, Notion, Adaptive Security, Slash, Standard Metrics, Superpower, Nozomio, Foam, Lovable, Polymarket, Starcloud, Linear, Boltnew Ben Lang (@benln) Best companies for future founders to work at these days: Ramp, Cursor, OpenAI. Where else? — https://nitter.net/benln/status/2042317650458452312#m",
-      "url": "https://x.com/benln/status/2042597263072022836",
-      "images": null,
-      "published": "2026-04-10T13:35:11+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_iKx3gAODybU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "thumbnail": "https://img.youtube.com/vi/iKx3gAODybU/maxresdefault.jpg",
-      "published": "2026-04-09T17:35:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_3bb14dd4_0b13_4173_9d5b_0e63bf98ae1d",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -396,6 +396,23 @@
       "published": "2026-04-09T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "2025年，中国餐饮品牌开启了声势浩大的出海美国。喜茶在纽约开出了更具辨识度的LAB店，霸王茶姬、瑞幸和蜜雪冰城也在这一年正式登陆美国。 但要问目前在美国做得最好的中餐和茶饮品牌，答案可能会出乎你意料——中餐第一是一度退出中国华北市场的鼎泰丰，茶饮标杆则是早在内地销声匿迹的贡茶。 究其原因，餐饮企业想顺利出海美国，不仅需要足够的“做时间的朋友”的耐心，需要对当地商业规则足够了解，更要吃透当地主流人"
+    },
+    {
+      "id": "yt_kkv5rZhrLkc",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "BillionToOne Is Solving One of Biotech’s Hardest Problems",
+      "url": "https://www.youtube.com/watch?v=kkv5rZhrLkc",
+      "thumbnail": "https://img.youtube.com/vi/kkv5rZhrLkc/maxresdefault.jpg",
+      "published": "2026-04-06T14:01:12+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_0f4a2ab9_d3a0_41ad_8db1_6c03c851bd70",
@@ -417,6 +434,74 @@
       "transcriptPreview": "“龙虾热”正在退潮，但它带来的创新冲击还在持续——当它与行业know-how相结合，正在迸发出新的能量。 阿里国际站有着26年的B2B数据和经验积累，今年初，OpenClaw、Cowork这些工作范式被验证，让他们看到了打通B2B闭环的智能体，终于到了可以落地的临界点。 于是春节之后，“外贸版龙虾”Accio Work来了，海外用户只需要和这个Agent对话，它就能自主跑完从市场分析、选品设计、供"
     },
     {
+      "id": "yt_JF6XIixstmQ",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "This Startup Catches Fraud at Scale",
+      "url": "https://www.youtube.com/watch?v=JF6XIixstmQ",
+      "thumbnail": "https://img.youtube.com/vi/JF6XIixstmQ/maxresdefault.jpg",
+      "published": "2026-03-31T16:00:18+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_Afp90LAaXNw",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "\" It is very possible that the first people to live to a thousand are alive right now.\"",
+      "url": "https://www.youtube.com/watch?v=Afp90LAaXNw",
+      "thumbnail": "https://img.youtube.com/vi/Afp90LAaXNw/maxresdefault.jpg",
+      "published": "2026-03-30T17:26:44+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_k2ZLQC8P7dc",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "François Chollet: Why Scaling Alone Isn’t Enough for AGI",
+      "url": "https://www.youtube.com/watch?v=k2ZLQC8P7dc",
+      "thumbnail": "https://img.youtube.com/vi/k2ZLQC8P7dc/maxresdefault.jpg",
+      "published": "2026-03-27T14:00:55+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_UncP_NShij4",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Differences Between The Leading AI Models",
+      "url": "https://www.youtube.com/watch?v=UncP_NShij4",
+      "thumbnail": "https://img.youtube.com/vi/UncP_NShij4/maxresdefault.jpg",
+      "published": "2026-03-26T16:04:39+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "pod_guigu101_pod_d97446f1_d6e3_4894_89d1_dca0a362b10b",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -436,19 +521,19 @@
       "transcriptPreview": "本期播客是硅谷101在GTC 2026大会期间的线下特别录制，我们从老黄在Keynote上抛出的那几个大数字开始聊起： 1万亿——这是黄仁勋预期到2027年底，Blackwell和Vera Rubin两个平台带来的订单收入。 7块——这是大会一次性发布的Vera Rubin新芯片数量。 10倍、35倍——这是Vera Rubin NVL72 AI机架系统，相比Blackwell，它的推理效率提升了"
     },
     {
-      "id": "yt_vif8NQcjVf0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
+      "id": "yt_PCypBUVhff8",
+      "source": "Y Combinator",
+      "sourceId": "yc",
       "sourceAvatar": null,
       "platform": "youtube",
       "domains": [
-        "AI",
-        "Business"
+        "Business",
+        "AI"
       ],
-      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
-      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
-      "thumbnail": "https://img.youtube.com/vi/vif8NQcjVf0/maxresdefault.jpg",
-      "published": "2026-03-23T16:24:14+00:00",
+      "title": "Inside The Startup Reinventing The $6 Trillion Chemical Manufacturing Industry",
+      "url": "https://www.youtube.com/watch?v=PCypBUVhff8",
+      "thumbnail": "https://img.youtube.com/vi/PCypBUVhff8/maxresdefault.jpg",
+      "published": "2026-03-20T13:01:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -472,6 +557,57 @@
       "transcriptPreview": "这几年，如果说全球制造业里，有哪个故事最值得被重新讲一遍，那一定是动力电池。 中国在动力电池产业链中，建立了极强的优势。当欧洲电池巨头Northvolt破产，日韩也不再具备领先地位，很多人会问：为什么很多原始技术并非源自中国，但最后却是中国把它做成了最完整、强势的产业？这背后到底是政策红利、市场规模，还是极致的工程能力在起作用 ？ 这一期节目，我们邀请了材料学博士、TDK Ventures 投资人"
     },
     {
+      "id": "yt__9SlOm6HHvg",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "This Is The Holy Grail Of AI",
+      "url": "https://www.youtube.com/watch?v=_9SlOm6HHvg",
+      "thumbnail": "https://img.youtube.com/vi/_9SlOm6HHvg/maxresdefault.jpg",
+      "published": "2026-03-17T17:28:48+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_8SVocWnDHwE",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "AI Is Unlocking Millions Of New Builders",
+      "url": "https://www.youtube.com/watch?v=8SVocWnDHwE",
+      "thumbnail": "https://img.youtube.com/vi/8SVocWnDHwE/maxresdefault.jpg",
+      "published": "2026-03-16T13:00:14+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_jjXuP89i5T0",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Startup School is coming to India! 🇮🇳",
+      "url": "https://www.youtube.com/watch?v=jjXuP89i5T0",
+      "thumbnail": "https://img.youtube.com/vi/jjXuP89i5T0/maxresdefault.jpg",
+      "published": "2026-03-13T03:05:10+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "pod_guigu101_pod_fd17090c_0d72_4c0d_aa3e_9b00bc062149",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -489,23 +625,6 @@
       "published": "2026-03-12T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "在AI算力争霸时代，英伟达凭借GPU市值一路狂飙。但如今，它的蛋糕正在被一点点分食——2024年，苹果论文披露Apple Intelligence全部由TPU训练；2025年，Anthropic签下数十亿美元订单，购买TPU训练Claude；近期，Meta与谷歌签署数十亿美元协议，租用TPU跑Llama。 TPU一直是谷歌低调的“自家武器”，在过去十年里驱动着几乎全部核心产品。直到TPU训练的Ge"
-    },
-    {
-      "id": "yt_H9rF1CSSh-w",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
-      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
-      "thumbnail": "https://img.youtube.com/vi/H9rF1CSSh-w/maxresdefault.jpg",
-      "published": "2026-03-11T20:21:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_f14f8686_a6e2_47ea_92c1_ca7e71199f67",
@@ -527,57 +646,6 @@
       "transcriptPreview": "每周，有超过2.3亿人在ChatGPT上询问健康和保健问题。在人类创造的所有数据中，有30%来自医疗领域，但其中真正被利用起来的，不足5%。 一边是巨大的数据金矿，一边是与未被满足的庞大需求，这正是AI的机会。 在年初的摩根大通医疗健康大会上，我们看到医疗与AI正在加速“双向奔赴”。礼来制药与英伟达达成10亿美元合作，试图用算力重塑药物发现的底层范式；在OpenAI发布ChatGPT for He"
     },
     {
-      "id": "yt_SHlrUAkkWI0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
-      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
-      "thumbnail": "https://img.youtube.com/vi/SHlrUAkkWI0/maxresdefault.jpg",
-      "published": "2026-03-03T12:30:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_1SJiTwbSI58",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492",
-      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
-      "thumbnail": "https://img.youtube.com/vi/1SJiTwbSI58/maxresdefault.jpg",
-      "published": "2026-03-01T03:37:44+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_KGVpKPNUdzA",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
-      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
-      "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
-      "published": "2026-02-25T22:36:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_7abda28b_99c6_4ebc_8c0d_37bcc77f6a73",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -595,74 +663,6 @@
       "published": "2026-02-25T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "他是霍金口中“地球上最聪明的人之一”，4岁下国际象棋，13岁获大师称号，却在一场对弈中突然顿悟，转身奔向人工智能。 他是DeepMind创始人，AlphaGo、AlphaFold背后的大脑，2024年诺贝尔化学奖得主。他也是那个因执念于强化学习险些错失大语言模型时代，又率领谷歌Gemini逆袭，成功回到牌桌的“孤傲天才”。 我们想聊聊哈萨比斯，不仅因为他的天才传奇，更想了解：发明终极技术的那一小撮"
-    },
-    {
-      "id": "yt_YFjfBk8HI5o",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
-      "thumbnail": "https://img.youtube.com/vi/YFjfBk8HI5o/maxresdefault.jpg",
-      "published": "2026-02-12T03:07:03+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_EV7WhVT270Q",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
-      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
-      "thumbnail": "https://img.youtube.com/vi/EV7WhVT270Q/maxresdefault.jpg",
-      "published": "2026-01-31T22:33:33+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Z-FRe5AKmCU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489",
-      "url": "https://www.youtube.com/watch?v=Z-FRe5AKmCU",
-      "thumbnail": "https://img.youtube.com/vi/Z-FRe5AKmCU/maxresdefault.jpg",
-      "published": "2026-01-13T20:06:59+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_14OPT6CcsH4",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | Lex Fridman Podcast #488",
-      "url": "https://www.youtube.com/watch?v=14OPT6CcsH4",
-      "thumbnail": "https://img.youtube.com/vi/14OPT6CcsH4/maxresdefault.jpg",
-      "published": "2025-12-31T21:26:17+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_96c3b4d2_20c8_4a39_bd56_17b9f8e52a8d",
