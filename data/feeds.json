@@ -1,7 +1,126 @@
 {
-  "last_updated": "2026-04-20T02:13:24.335458Z",
+  "last_updated": "2026-04-21T02:09:33.888778Z",
   "count": 41,
   "items": [
+    {
+      "id": "x_2046285398826000892",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "I'm biased, but this may be the best collection of humans on the internet",
+      "url": "https://x.com/benln/status/2046285398826000892",
+      "images": null,
+      "published": "2026-04-20T17:50:31+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2046275153852866799",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这么长时间了，终于给自己整了一套 PPT 模板",
+      "url": "https://x.com/op7418/status/2046275153852866799",
+      "images": null,
+      "published": "2026-04-20T17:09:49+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2046210892925108350",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Hanoi",
+      "url": "https://x.com/benln/status/2046210892925108350",
+      "images": null,
+      "published": "2026-04-20T12:54:28+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2046173791899009123",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "可以体素 3D 鹈鹕骑自行车我的 Pro 也可以完成，一次搞定没有调整",
+      "url": "https://x.com/op7418/status/2046173791899009123",
+      "images": null,
+      "published": "2026-04-20T10:27:02+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2046172852244947194",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "不能 100% 确定这是新模型，也可能是以前我 Pro 用的少，所以这个能力确实震惊到我了。",
+      "url": "https://x.com/op7418/status/2046172852244947194",
+      "images": null,
+      "published": "2026-04-20T10:23:18+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2046172697118601349",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Open AI 这周要起飞了呀！ 昨天有人说 GPT Pro 新模型正在灰度，前端能力突飞猛进。 我试了一下，只把 CodePilot 的 GitHub 页面发给它，再传了几张现在的截图，说了两三行提示词，它就给了一个完整的桌面端产品设计。 我觉得这比 Claude Design 牛逼多了： 1. 完全不需要操心，什么都不用管，直接就出了结果。 2. 细节想得非常周全，而且所有功能都在线。 3. 我没说多余的东西，但出来的东西全是可以交互的，一看就是经过思考的。 Video",
+      "url": "https://x.com/op7418/status/2046172697118601349",
+      "images": null,
+      "published": "2026-04-20T10:22:41+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2046055639349383269",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "后面还会支持 M5Stack Cardputer 这个设备可玩性会强非常多，自带麦克风、3.5 毫米耳机孔、陀螺仪 最屌的是有全键盘，到时候语音打字都行 歸藏(guizang.ai) (@op7418) 开源了！ 拿墨水屏蓝牙控制你的 Claude code，监控多个对话状态，并且快速审批权限。 ​ ​现在做硬件的门槛是真低啊，USB一插让Claudecode跑就行 — https://nitter.net/op7418/status/2046046165951816172#m",
+      "url": "https://x.com/op7418/status/2046055639349383269",
+      "images": null,
+      "published": "2026-04-20T02:37:32+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2046046331035414943",
       "source": "归藏",
@@ -119,91 +238,6 @@
       "url": "https://x.com/op7418/status/2045822360310452464",
       "images": null,
       "published": "2026-04-19T11:10:34+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2045526587261813073",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "完全体",
-      "url": "https://x.com/op7418/status/2045526587261813073",
-      "images": null,
-      "published": "2026-04-18T15:35:17+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2045461673717404088",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "搞的差不多了 歸藏(guizang.ai) (@op7418) 牛逼，现在人手一个智能硬件! 我现在能用这个墨水屏监控我的 Claude Code 和 Codex 的状态，同时进行审批。 在在家里的任何一个地方都可以。 项目基于 Claude 那个实体 buddy 项目。 但是它只能在 M5StickCPlus 上运行，而且必须安装 Claude 桌面端。 我把它改成了可以在 M5 Paper 这个墨水屏上运行，只需要装一个 Cloud Code 的插件就可以。 如果有需要的话后面开源一下。 这样的话，你在家里的任何一个地方都能审批和查看你的 Agent 的状态。 Video — https://nitter.net/op7418/status/2045389498301689964#m",
-      "url": "https://x.com/op7418/status/2045461673717404088",
-      "images": null,
-      "published": "2026-04-18T11:17:20+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2045389616908550550",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Anthropic 原始项目：github.com/anthropics/claude…",
-      "url": "https://x.com/op7418/status/2045389616908550550",
-      "images": null,
-      "published": "2026-04-18T06:31:00+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2045389498301689964",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "牛逼，现在人手一个智能硬件! 我现在能用这个墨水屏监控我的 Claude Code 和 Codex 的状态，同时进行审批。 在在家里的任何一个地方都可以。 项目基于 Claude 那个实体 buddy 项目。 但是它只能在 M5StickCPlus 上运行，而且必须安装 Claude 桌面端。 我把它改成了可以在 M5 Paper 这个墨水屏上运行，只需要装一个 Cloud Code 的插件就可以。 如果有需要的话后面开源一下。 这样的话，你在家里的任何一个地方都能审批和查看你的 Agent 的状态。 Video",
-      "url": "https://x.com/op7418/status/2045389498301689964",
-      "images": null,
-      "published": "2026-04-18T06:30:32+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2045159048862114085",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "详情：nitter.net/i/status/2045156271251… Claude (@claudeai) Claude reads your codebase and design files to build your team's design system, then applies it automatically, keeping every project on-brand. Give it a try: claude.ai/design Read more: anthropic.com/news/claude-de… — https://nitter.net/claudeai/status/2045156271251218897#m",
-      "url": "https://x.com/op7418/status/2045159048862114085",
-      "images": null,
-      "published": "2026-04-17T15:14:49+00:00",
       "hasTranscript": false
     },
     {
@@ -342,40 +376,6 @@
       "url": "https://x.com/benln/status/2044036039484850630",
       "images": null,
       "published": "2026-04-14T12:52:22+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2043672195017081088",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "We're taking over a cafe on April 25th in Lagos Grab coffee, Cursor credits, and build together",
-      "url": "https://x.com/benln/status/2043672195017081088",
-      "images": null,
-      "published": "2026-04-13T12:46:35+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2043375324113613061",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "You don't have to be a founder to have a life-changing outcome in tech Great trend for startup employees:",
-      "url": "https://x.com/benln/status/2043375324113613061",
-      "images": null,
-      "published": "2026-04-12T17:06:56+00:00",
       "hasTranscript": false
     },
     {
