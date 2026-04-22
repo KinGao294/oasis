@@ -1,7 +1,194 @@
 {
-  "last_updated": "2026-04-21T02:09:33.888778Z",
-  "count": 41,
+  "last_updated": "2026-04-22T02:08:01.107996Z",
+  "count": 31,
   "items": [
+    {
+      "id": "x_2046628255759802404",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "5 people have joined the Cursor team through our community programs (so far!) Underrated way to get your foot in the door.",
+      "url": "https://x.com/benln/status/2046628255759802404",
+      "images": null,
+      "published": "2026-04-21T16:32:55+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2046626506722746736",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "随手拍了一张蓝莓，让 GPT-Image-2 生成符合这个产品风格的宣传图 一致性还原也太好了，每个设计元素都是对的。 这个对电商来说帮助非常大，它甚至连蓝莓的位置都没给你变，但是蓝莓变得更大更饱满了。 非常聪明，知道啥东西能变，啥东西不能变。 歸藏(guizang.ai) (@op7418) GPT-Image-2 太猛了呀！ 我随便拍了一张图片，让他给我生成宣传图，什么都没说。 他给我搞的这个氛围非常上档次 — https://nitter.net/op7418/status/2046581756523123192#m",
+      "url": "https://x.com/op7418/status/2046626506722746736",
+      "images": null,
+      "published": "2026-04-21T16:25:58+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2046592331911147824",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "还记得前几天比较火的 SBTI 吗？ 尝试着用 GPT 的新图像模型做了一个这种测试。 直接让它基于“战锤 40K”的背景问了几个问题，然后给生成了一个测试报告。",
+      "url": "https://x.com/op7418/status/2046592331911147824",
+      "images": null,
+      "published": "2026-04-21T14:10:10+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2046590255298646228",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "来了！今晚的 GPT-Image-2 发布预告 OpenAI (@OpenAI) This is not a screenshot. — https://nitter.net/OpenAI/status/2046589828918317155#m",
+      "url": "https://x.com/op7418/status/2046590255298646228",
+      "images": null,
+      "published": "2026-04-21T14:01:55+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2046581756523123192",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "GPT-Image-2 太猛了呀！ 我随便拍了一张图片，让他给我生成宣传图，什么都没说。 他给我搞的这个氛围非常上档次 歸藏(guizang.ai) (@op7418) 看起来 Open AI 的 gpt-image-2 模型全量上线了！ 现在就可以用，效果非常顶！ 第一张图我就让它可爱地解释一下大语言模型训练过程，这质量也太好了！ 第二张图我就给了他一个 OpenAI 的更新文档，然后让他介绍一下这个更新，他就给了我这样的东西。 太牛批了！ — https://nitter.net/op7418/status/2046502136973001143#m",
+      "url": "https://x.com/op7418/status/2046581756523123192",
+      "images": null,
+      "published": "2026-04-21T13:28:09+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2046578883475243176",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "只需要一句话，就能让 GPT 生成整篇小说的剧情和世界观介绍长图 我这里生成的是《神秘复苏》的 提示词：帮我用一张长图详细地介绍《神秘复苏》这个小说的剧情、故事线和世界观。 歸藏(guizang.ai) (@op7418) 看起来 Open AI 的 gpt-image-2 模型全量上线了！ 现在就可以用，效果非常顶！ 第一张图我就让它可爱地解释一下大语言模型训练过程，这质量也太好了！ 第二张图我就给了他一个 OpenAI 的更新文档，然后让他介绍一下这个更新，他就给了我这样的东西。 太牛批了！ — https://nitter.net/op7418/status/2046502136973001143#m",
+      "url": "https://x.com/op7418/status/2046578883475243176",
+      "images": null,
+      "published": "2026-04-21T13:16:44+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2046576147530731755",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "找了张车的图片让他生成汽车官网设计稿，我没说这是啥车 歸藏(guizang.ai) (@op7418) 看起来 Open AI 的 gpt-image-2 模型全量上线了！ 现在就可以用，效果非常顶！ 第一张图我就让它可爱地解释一下大语言模型训练过程，这质量也太好了！ 第二张图我就给了他一个 OpenAI 的更新文档，然后让他介绍一下这个更新，他就给了我这样的东西。 太牛批了！ — https://nitter.net/op7418/status/2046502136973001143#m",
+      "url": "https://x.com/op7418/status/2046576147530731755",
+      "images": null,
+      "published": "2026-04-21T13:05:51+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2046571494969655576",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "黄老板这个玩法好啊，可以在 GPT 里面玩 ARPG 游戏了。 具体流程如下： 1. 它会给你生成剧情画面和对应的选项； 2. 你选完以后，让它生成选择后果所对应的下一幕图片； 3. 接着会出现其他的选项，就可以这样一直玩下去。",
+      "url": "https://x.com/op7418/status/2046571494969655576",
+      "images": null,
+      "published": "2026-04-21T12:47:22+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2046526264216047761",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "黑神话：武松",
+      "url": "https://x.com/op7418/status/2046526264216047761",
+      "images": null,
+      "published": "2026-04-21T09:47:38+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2046526139687215159",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "黑神话：潘金莲？ 歸藏(guizang.ai) (@op7418) 我去！OpenAI 新模型这尺度有点大呀！ 提示词：帮我生成一个以《金瓶梅》为主题的古代 ARPG MMO 开放世界游戏的截图 — https://nitter.net/op7418/status/2046520509651886451#m",
+      "url": "https://x.com/op7418/status/2046526139687215159",
+      "images": null,
+      "published": "2026-04-21T09:47:08+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2046523217662316692",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "把 Seedance 2.0 模型的论文给到 GPT-Image-2 模型，它生成的论文解释长图 歸藏(guizang.ai) (@op7418) 看起来 Open AI 的 gpt-image-2 模型全量上线了！ 现在就可以用，效果非常顶！ 第一张图我就让它可爱地解释一下大语言模型训练过程，这质量也太好了！ 第二张图我就给了他一个 OpenAI 的更新文档，然后让他介绍一下这个更新，他就给了我这样的东西。 太牛批了！ — https://nitter.net/op7418/status/2046502136973001143#m",
+      "url": "https://x.com/op7418/status/2046523217662316692",
+      "images": null,
+      "published": "2026-04-21T09:35:32+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2046285398826000892",
       "source": "Ben Lang",
@@ -20,23 +207,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2046275153852866799",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这么长时间了，终于给自己整了一套 PPT 模板",
-      "url": "https://x.com/op7418/status/2046275153852866799",
-      "images": null,
-      "published": "2026-04-20T17:09:49+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2046210892925108350",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -51,142 +221,6 @@
       "url": "https://x.com/benln/status/2046210892925108350",
       "images": null,
       "published": "2026-04-20T12:54:28+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2046173791899009123",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "可以体素 3D 鹈鹕骑自行车我的 Pro 也可以完成，一次搞定没有调整",
-      "url": "https://x.com/op7418/status/2046173791899009123",
-      "images": null,
-      "published": "2026-04-20T10:27:02+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2046172852244947194",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "不能 100% 确定这是新模型，也可能是以前我 Pro 用的少，所以这个能力确实震惊到我了。",
-      "url": "https://x.com/op7418/status/2046172852244947194",
-      "images": null,
-      "published": "2026-04-20T10:23:18+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2046172697118601349",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Open AI 这周要起飞了呀！ 昨天有人说 GPT Pro 新模型正在灰度，前端能力突飞猛进。 我试了一下，只把 CodePilot 的 GitHub 页面发给它，再传了几张现在的截图，说了两三行提示词，它就给了一个完整的桌面端产品设计。 我觉得这比 Claude Design 牛逼多了： 1. 完全不需要操心，什么都不用管，直接就出了结果。 2. 细节想得非常周全，而且所有功能都在线。 3. 我没说多余的东西，但出来的东西全是可以交互的，一看就是经过思考的。 Video",
-      "url": "https://x.com/op7418/status/2046172697118601349",
-      "images": null,
-      "published": "2026-04-20T10:22:41+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2046055639349383269",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "后面还会支持 M5Stack Cardputer 这个设备可玩性会强非常多，自带麦克风、3.5 毫米耳机孔、陀螺仪 最屌的是有全键盘，到时候语音打字都行 歸藏(guizang.ai) (@op7418) 开源了！ 拿墨水屏蓝牙控制你的 Claude code，监控多个对话状态，并且快速审批权限。 ​ ​现在做硬件的门槛是真低啊，USB一插让Claudecode跑就行 — https://nitter.net/op7418/status/2046046165951816172#m",
-      "url": "https://x.com/op7418/status/2046055639349383269",
-      "images": null,
-      "published": "2026-04-20T02:37:32+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2046046331035414943",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "开源了：nitter.net/op7418/status/20460455… 歸藏(guizang.ai) (@op7418) x.com/i/article/204604477781… — https://nitter.net/op7418/status/2046045574118691143#m",
-      "url": "https://x.com/op7418/status/2046046331035414943",
-      "images": null,
-      "published": "2026-04-20T02:00:33+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2046046295861993543",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "开源了：nitter.net/op7418/status/20460455… 歸藏(guizang.ai) (@op7418) x.com/i/article/204604477781… — https://nitter.net/op7418/status/2046045574118691143#m",
-      "url": "https://x.com/op7418/status/2046046295861993543",
-      "images": null,
-      "published": "2026-04-20T02:00:25+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2046046165951816172",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "开源了！ 拿墨水屏蓝牙控制你的 Claude code，监控多个对话状态，并且快速审批权限。 ​ ​现在做硬件的门槛是真低啊，USB一插让Claudecode跑就行 歸藏(guizang.ai) (@op7418) x.com/i/article/204604477781… — https://nitter.net/op7418/status/2046045574118691143#m",
-      "url": "https://x.com/op7418/status/2046046165951816172",
-      "images": null,
-      "published": "2026-04-20T01:59:54+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2046045574118691143",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "x.com/i/article/204604477781…",
-      "url": "https://x.com/op7418/status/2046045574118691143",
-      "images": null,
-      "published": "2026-04-20T01:57:33+00:00",
       "hasTranscript": false
     },
     {
@@ -221,23 +255,6 @@
       "url": "https://x.com/benln/status/2045847904879858142",
       "images": null,
       "published": "2026-04-19T12:52:05+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2045822360310452464",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "今天的夕阳漂亮",
-      "url": "https://x.com/op7418/status/2045822360310452464",
-      "images": null,
-      "published": "2026-04-19T11:10:34+00:00",
       "hasTranscript": false
     },
     {
@@ -311,23 +328,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_4EsUaur0nsQ",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The GPT Moment for Robotics Is Here",
-      "url": "https://www.youtube.com/watch?v=4EsUaur0nsQ",
-      "thumbnail": "https://img.youtube.com/vi/4EsUaur0nsQ/maxresdefault.jpg",
-      "published": "2026-04-16T14:00:07+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2044458505076113448",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -362,23 +362,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2044036039484850630",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Jakarta Builders of all ages are welcome",
-      "url": "https://x.com/benln/status/2044036039484850630",
-      "images": null,
-      "published": "2026-04-14T12:52:22+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "pod_guigu101_pod_3bb14dd4_0b13_4173_9d5b_0e63bf98ae1d",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -396,23 +379,6 @@
       "published": "2026-04-09T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "2025年，中国餐饮品牌开启了声势浩大的出海美国。喜茶在纽约开出了更具辨识度的LAB店，霸王茶姬、瑞幸和蜜雪冰城也在这一年正式登陆美国。 但要问目前在美国做得最好的中餐和茶饮品牌，答案可能会出乎你意料——中餐第一是一度退出中国华北市场的鼎泰丰，茶饮标杆则是早在内地销声匿迹的贡茶。 究其原因，餐饮企业想顺利出海美国，不仅需要足够的“做时间的朋友”的耐心，需要对当地商业规则足够了解，更要吃透当地主流人"
-    },
-    {
-      "id": "yt_kkv5rZhrLkc",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "BillionToOne Is Solving One of Biotech’s Hardest Problems",
-      "url": "https://www.youtube.com/watch?v=kkv5rZhrLkc",
-      "thumbnail": "https://img.youtube.com/vi/kkv5rZhrLkc/maxresdefault.jpg",
-      "published": "2026-04-06T14:01:12+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_0f4a2ab9_d3a0_41ad_8db1_6c03c851bd70",
@@ -434,74 +400,6 @@
       "transcriptPreview": "“龙虾热”正在退潮，但它带来的创新冲击还在持续——当它与行业know-how相结合，正在迸发出新的能量。 阿里国际站有着26年的B2B数据和经验积累，今年初，OpenClaw、Cowork这些工作范式被验证，让他们看到了打通B2B闭环的智能体，终于到了可以落地的临界点。 于是春节之后，“外贸版龙虾”Accio Work来了，海外用户只需要和这个Agent对话，它就能自主跑完从市场分析、选品设计、供"
     },
     {
-      "id": "yt_JF6XIixstmQ",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "This Startup Catches Fraud at Scale",
-      "url": "https://www.youtube.com/watch?v=JF6XIixstmQ",
-      "thumbnail": "https://img.youtube.com/vi/JF6XIixstmQ/maxresdefault.jpg",
-      "published": "2026-03-31T16:00:18+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Afp90LAaXNw",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "\" It is very possible that the first people to live to a thousand are alive right now.\"",
-      "url": "https://www.youtube.com/watch?v=Afp90LAaXNw",
-      "thumbnail": "https://img.youtube.com/vi/Afp90LAaXNw/maxresdefault.jpg",
-      "published": "2026-03-30T17:26:44+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_k2ZLQC8P7dc",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "François Chollet: Why Scaling Alone Isn’t Enough for AGI",
-      "url": "https://www.youtube.com/watch?v=k2ZLQC8P7dc",
-      "thumbnail": "https://img.youtube.com/vi/k2ZLQC8P7dc/maxresdefault.jpg",
-      "published": "2026-03-27T14:00:55+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_UncP_NShij4",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Differences Between The Leading AI Models",
-      "url": "https://www.youtube.com/watch?v=UncP_NShij4",
-      "thumbnail": "https://img.youtube.com/vi/UncP_NShij4/maxresdefault.jpg",
-      "published": "2026-03-26T16:04:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_d97446f1_d6e3_4894_89d1_dca0a362b10b",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -521,23 +419,6 @@
       "transcriptPreview": "本期播客是硅谷101在GTC 2026大会期间的线下特别录制，我们从老黄在Keynote上抛出的那几个大数字开始聊起： 1万亿——这是黄仁勋预期到2027年底，Blackwell和Vera Rubin两个平台带来的订单收入。 7块——这是大会一次性发布的Vera Rubin新芯片数量。 10倍、35倍——这是Vera Rubin NVL72 AI机架系统，相比Blackwell，它的推理效率提升了"
     },
     {
-      "id": "yt_PCypBUVhff8",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Inside The Startup Reinventing The $6 Trillion Chemical Manufacturing Industry",
-      "url": "https://www.youtube.com/watch?v=PCypBUVhff8",
-      "thumbnail": "https://img.youtube.com/vi/PCypBUVhff8/maxresdefault.jpg",
-      "published": "2026-03-20T13:01:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_c457ca43_1305_44a3_b9cc_c68480802396",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -555,57 +436,6 @@
       "published": "2026-03-19T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "这几年，如果说全球制造业里，有哪个故事最值得被重新讲一遍，那一定是动力电池。 中国在动力电池产业链中，建立了极强的优势。当欧洲电池巨头Northvolt破产，日韩也不再具备领先地位，很多人会问：为什么很多原始技术并非源自中国，但最后却是中国把它做成了最完整、强势的产业？这背后到底是政策红利、市场规模，还是极致的工程能力在起作用 ？ 这一期节目，我们邀请了材料学博士、TDK Ventures 投资人"
-    },
-    {
-      "id": "yt__9SlOm6HHvg",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "This Is The Holy Grail Of AI",
-      "url": "https://www.youtube.com/watch?v=_9SlOm6HHvg",
-      "thumbnail": "https://img.youtube.com/vi/_9SlOm6HHvg/maxresdefault.jpg",
-      "published": "2026-03-17T17:28:48+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_8SVocWnDHwE",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI Is Unlocking Millions Of New Builders",
-      "url": "https://www.youtube.com/watch?v=8SVocWnDHwE",
-      "thumbnail": "https://img.youtube.com/vi/8SVocWnDHwE/maxresdefault.jpg",
-      "published": "2026-03-16T13:00:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_jjXuP89i5T0",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Startup School is coming to India! 🇮🇳",
-      "url": "https://www.youtube.com/watch?v=jjXuP89i5T0",
-      "thumbnail": "https://img.youtube.com/vi/jjXuP89i5T0/maxresdefault.jpg",
-      "published": "2026-03-13T03:05:10+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_fd17090c_0d72_4c0d_aa3e_9b00bc062149",
