@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-24T02:12:07.806300Z",
-  "count": 71,
+  "last_updated": "2026-04-25T02:02:12.880330Z",
+  "count": 101,
   "items": [
     {
-      "id": "x_2047492666729132205",
+      "id": "x_2047837372767940678",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -13,14 +13,94 @@
         "Design"
       ],
       "title": null,
-      "content": "我去，新的 Codex 太适合我这个 PPT Skills 了！ GPT 5.5 的前端能力大幅提升，所以排版不是问题。 然后它内置了浏览器，你可以直接在里面预览生成的 PPT。 还有就是它能够调用 GPT-Image 2 为你的 PPT 生成配图。 我去，还有你能够直接点击评论对应的区域让它改！ 歸藏(guizang.ai) (@op7418) x.com/i/article/204748417125… — https://nitter.net/op7418/status/2047486546300051478#m",
-      "url": "https://x.com/op7418/status/2047492666729132205",
+      "content": "我去老马不过了？ 怎么半个月給 1000 美元阿",
+      "url": "https://x.com/op7418/status/2047837372767940678",
       "images": null,
-      "published": "2026-04-24T01:47:46+00:00",
+      "published": "2026-04-25T00:37:31+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2047488097508794536",
+      "id": "yt_GNEbX8EvDlg",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Introducing GPT-5.5 with Perplexity",
+      "url": "https://www.youtube.com/watch?v=GNEbX8EvDlg",
+      "thumbnail": "https://img.youtube.com/vi/GNEbX8EvDlg/maxresdefault.jpg",
+      "published": "2026-04-24T20:13:48+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_H5rSp32VwV8",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Workspace agents in ChatGPT: Weekly metrics reporting agent",
+      "url": "https://www.youtube.com/watch?v=H5rSp32VwV8",
+      "thumbnail": "https://img.youtube.com/vi/H5rSp32VwV8/maxresdefault.jpg",
+      "published": "2026-04-24T20:10:26+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_7ZVYmoqqnCg",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Workspace agents in ChatGPT: Software review agent",
+      "url": "https://www.youtube.com/watch?v=7ZVYmoqqnCg",
+      "thumbnail": "https://img.youtube.com/vi/7ZVYmoqqnCg/maxresdefault.jpg",
+      "published": "2026-04-24T20:06:24+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_HnSPedbA02Q",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Workspace agents in ChatGPT: Third-party risk management agent",
+      "url": "https://www.youtube.com/watch?v=HnSPedbA02Q",
+      "thumbnail": "https://img.youtube.com/vi/HnSPedbA02Q/maxresdefault.jpg",
+      "published": "2026-04-24T20:00:56+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_R3aUYJFVc6w",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Introducing GPT-5.5 with NVIDIA's AI Researcher",
+      "url": "https://www.youtube.com/watch?v=R3aUYJFVc6w",
+      "thumbnail": "https://img.youtube.com/vi/R3aUYJFVc6w/maxresdefault.jpg",
+      "published": "2026-04-24T19:58:35+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2047698553108369436",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -30,31 +110,48 @@
         "Design"
       ],
       "title": null,
-      "content": "来🌶：nitter.net/op7418/status/20474865… 歸藏(guizang.ai) (@op7418) x.com/i/article/204748417125… — https://nitter.net/op7418/status/2047486546300051478#m",
-      "url": "https://x.com/op7418/status/2047488097508794536",
+      "content": "没想到能在北京见到每天刷到的其他海外 KOL，太神奇了 Chubby♨️ (@kimmonismus) But you know what’s even cooler than meeting @hidecloud over dinner? Having dinner with him in a big group. That evening, I was probably sitting at the highest-IQ table I’ve ever been part of - excluding myself, obviously, because I’m nowhere near as smart as this group. From the developer of Nanobot to the youngest Kimi researcher I’ve ever met, from the creator of Slock to the people at ZhenFund and many more- some of the brightest minds and coolest people I’ve ever had the chance to meet. Thank you! Such a lovely evening! @op7418 @annafanghamm @nexmoe @nathancgy4 @crazibility @xubinrencs @istdrc @songming_liu @emmaleyin — https://nitter.net/kimmonismus/status/2047695164097859847#m",
+      "url": "https://x.com/op7418/status/2047698553108369436",
       "images": null,
-      "published": "2026-04-24T01:29:37+00:00",
+      "published": "2026-04-24T15:25:54+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2047486744875139295",
-      "source": "归藏",
-      "sourceId": "guizang",
+      "id": "x_2047677378596339884",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
       "sourceAvatar": null,
       "platform": "x",
       "domains": [
         "AI",
-        "Design"
+        "Dev"
       ],
       "title": null,
-      "content": "昨天答应的 PPTSkill 来了！ - 包含 10 个板式、5 套主题，覆盖各种场景 - WebGL 流体动画背景，非常炫酷 - AI 会帮你规划大纲、选主题、支持图片匹配和添加 文章里还有一些 Skill 制作的方法和详细的使用教程，可以看看。 歸藏(guizang.ai) (@op7418) x.com/i/article/204748417125… — https://nitter.net/op7418/status/2047486546300051478#m",
-      "url": "https://x.com/op7418/status/2047486744875139295",
+      "content": "S-tier founder profile signals: • IMO / IPhO / IOI / ICPC medalist • Hudson River Trading intern • Thiel Fellow • ex-OpenAI, Ramp • early Stripe, Palantir",
+      "url": "https://x.com/benln/status/2047677378596339884",
       "images": null,
-      "published": "2026-04-24T01:24:15+00:00",
+      "published": "2026-04-24T14:01:45+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2047486546300051478",
+      "id": "yt_EN7frwQIbKc",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "How To Build A Company With AI From The Ground Up",
+      "url": "https://www.youtube.com/watch?v=EN7frwQIbKc",
+      "thumbnail": "https://img.youtube.com/vi/EN7frwQIbKc/maxresdefault.jpg",
+      "published": "2026-04-24T14:00:21+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2047658776527008208",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -64,11 +161,210 @@
         "Design"
       ],
       "title": null,
-      "content": "x.com/i/article/204748417125…",
-      "url": "https://x.com/op7418/status/2047486546300051478",
+      "content": "哈哈 感谢推荐",
+      "url": "https://x.com/op7418/status/2047658776527008208",
       "images": null,
-      "published": "2026-04-24T01:23:27+00:00",
+      "published": "2026-04-24T12:47:50+00:00",
       "hasTranscript": false
+    },
+    {
+      "id": "x_2047569778756526535",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "发点东西真难啊，小红书兄弟们依旧给面子，依旧据为己有 歸藏(guizang.ai) (@op7418) x.com/i/article/204748417125… — https://nitter.net/op7418/status/2047486546300051478#m",
+      "url": "https://x.com/op7418/status/2047569778756526535",
+      "images": null,
+      "published": "2026-04-24T06:54:11+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2047563437631234372",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "如果提供足够的上下文和工具的话，Agent 能力真的很强。 这个 PPT skill 其实是在我的 Codepilot agent memory 上生长出来的。 我跟他大致说了一下我想要一个什么样的氛围，可能只有 3 行文字。 他给我的第 1 版。就是这样的，已经差不多了。 后面都是一些最基础的优化，他参考了我所有的已有项目和我以前的收藏的文章，推测出了我的需求。 歸藏(guizang.ai) (@op7418) x.com/i/article/204748417125… — https://nitter.net/op7418/status/2047486546300051478#m",
+      "url": "https://x.com/op7418/status/2047563437631234372",
+      "images": null,
+      "published": "2026-04-24T06:29:00+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2047535616859287605",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "测试了一下 DeepSeek V4，完全无法正常调用 Skill。 指令遵循和工具调用的效果很差，不知道是他们发布的原因还是什么问题。 用我那个 PPT Skills 测试，它都没有办法读模板，自己随便实现了一个网页。 歸藏(guizang.ai) (@op7418) 我去，DeepSeek V4 终于来了！ 有两个型号，一个 Flash，一个 Pro。 新版本的功能支持非常全面： 支持 JSON 输出 支持工具调用 支持对话前缀续写 支持 FIM 补全 价格方面： Flash 型号：每百万输入/输出的价格分别是 ¥0.2 和 ¥1 Pro 型号：每百万输入/输出的价格分别是 ¥1 和 ¥12 另外，100 万上下文的价格输出会翻一倍。 — https://nitter.net/op7418/status/2047509948800856335#m",
+      "url": "https://x.com/op7418/status/2047535616859287605",
+      "images": null,
+      "published": "2026-04-24T04:38:27+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2047532027046719834",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "github.com/op7418/guizang-pp…",
+      "url": "https://x.com/op7418/status/2047532027046719834",
+      "images": null,
+      "published": "2026-04-24T04:24:11+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2047531739581763957",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "I built a Claude Skill that makes slides look like magazines, not PowerPoint. Ten years of design experience, compressed into one skill file. The world hasn't woken up to the fact that AI-generated slides don't have to look AI-generated. - Claude interviews you with 6 questions first (audience, duration, source, images, aesthetic), plans the rhythm, then writes the deck - 10 editorial layouts — cover, big numbers, pull quotes, pipelines, before/after, image grids - 5 curated themes, no custom hex allowed — tight constraints make stable style - Live WebGL fluid backgrounds, smooth page transitions, responsive on any screen - Output is a single HTML file — no build, no server, no cloud - Same-filename image swap: drop a new file with the same name, refresh, done. Zero HTML editing I asked Claude to make a 6-page demo to showcase all 5 themes. Link to skill below ↓ 歸藏(guizang.ai) (@op7418) x.com/i/article/204748417125… — https://nitter.net/op7418/status/2047486546300051478#m",
+      "url": "https://x.com/op7418/status/2047531739581763957",
+      "images": null,
+      "published": "2026-04-24T04:23:02+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2047524789947105330",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codepilot 第一时间支持：nitter.net/op7418/status/20475238… 歸藏(guizang.ai) (@op7418) Code Pilot 0.54 第一时间支持 DeepSeek V4 Pro 和 V4 Flash！ 填写官方 API Key 就可以使用 同时也支持最新的 GPT 5.5 的反代和小米最新的 MiMo 2.5 Pro 模型 — https://nitter.net/op7418/status/2047523836904853828#m",
+      "url": "https://x.com/op7418/status/2047524789947105330",
+      "images": null,
+      "published": "2026-04-24T03:55:25+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2047523990114349536",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "详情：github.com/op7418/CodePilot/…",
+      "url": "https://x.com/op7418/status/2047523990114349536",
+      "images": null,
+      "published": "2026-04-24T03:52:15+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_VdXdGS7hUSY",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Introducing GPT-5.5 with NVIDIA",
+      "url": "https://www.youtube.com/watch?v=VdXdGS7hUSY",
+      "thumbnail": "https://img.youtube.com/vi/VdXdGS7hUSY/maxresdefault.jpg",
+      "published": "2026-04-23T21:23:34+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_KKiwxLK59YQ",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "First impressions of GPT-5.5 from Aaron Friel",
+      "url": "https://www.youtube.com/watch?v=KKiwxLK59YQ",
+      "thumbnail": "https://img.youtube.com/vi/KKiwxLK59YQ/maxresdefault.jpg",
+      "published": "2026-04-23T21:06:19+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_xRa1GCRomQs",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "First impressions of GPT-5.5 from Claire Vo",
+      "url": "https://www.youtube.com/watch?v=xRa1GCRomQs",
+      "thumbnail": "https://img.youtube.com/vi/xRa1GCRomQs/maxresdefault.jpg",
+      "published": "2026-04-23T20:45:31+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_Aq0Q_G-rtfA",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "First impressions of GPT-5.5 from Will Koh",
+      "url": "https://www.youtube.com/watch?v=Aq0Q_G-rtfA",
+      "thumbnail": "https://img.youtube.com/vi/Aq0Q_G-rtfA/maxresdefault.jpg",
+      "published": "2026-04-23T20:35:42+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_nL0lKxZydOk",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "First impressions of GPT-5.5",
+      "url": "https://www.youtube.com/watch?v=nL0lKxZydOk",
+      "thumbnail": "https://img.youtube.com/vi/nL0lKxZydOk/maxresdefault.jpg",
+      "published": "2026-04-23T18:20:12+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_wkv2ifxPpF8",
@@ -88,57 +384,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2047317436157026628",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "做了个非常牛逼的网页 PPT Skills，明天发 彻底解决你的 PPT 生成难题 昨天分享的内容不知道怎么样，反正很多朋友看上了我的 PPT，索性做个 Skills，明天开源一下 歸藏(guizang.ai) (@op7418) 这么长时间了，终于给自己整了一套 PPT 模板 — https://nitter.net/op7418/status/2046275153852866799#m",
-      "url": "https://x.com/op7418/status/2047317436157026628",
-      "images": null,
-      "published": "2026-04-23T14:11:28+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2047305582923903363",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "写错了，这里 Developer 的位置也是左上角",
-      "url": "https://x.com/op7418/status/2047305582923903363",
-      "images": null,
-      "published": "2026-04-23T13:24:22+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2047297968743874586",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "居然可以在 Claude 桌面端用三方模型了！ 只需要启用开发者模式填写 API 和 Key 就行，不管是各种 Code plan 还是三方的 Claude API 都可以 开启步骤： - 安装 Claude 桌面端不登录 - 左上角找到 Help → Troubleshooting → Enable developer mode → 重启 - 重启后右上角就有 Developer 选项，里面选择 Configure third-party inference - 然后在开启的窗口里面填写你的 API 地址和 Key → Apply locally 就行 不知道啥时候 Anthropic 会封堵这个漏洞",
-      "url": "https://x.com/op7418/status/2047297968743874586",
-      "images": null,
-      "published": "2026-04-23T12:54:07+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2047285042091622711",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -156,55 +401,21 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2047158876039192997",
-      "source": "归藏",
-      "sourceId": "guizang",
+      "id": "yt_82HsvG1_Nqk",
+      "source": "a16z",
+      "sourceId": "a16z",
       "sourceAvatar": null,
-      "platform": "x",
+      "platform": "youtube",
       "domains": [
-        "AI",
-        "Design"
+        "Business",
+        "AI"
       ],
-      "title": null,
-      "content": "火回国内了🐶 歸藏(guizang.ai) (@op7418) 坏了！这下真能玩了 用 Seedance 2.0 直接把GPT Image 2 生成的 ARPG 《金瓶梅》游戏做成动态的了 UI 交互和两个画面之间的衔接都做了 Video — https://nitter.net/op7418/status/2046854932620525750#m",
-      "url": "https://x.com/op7418/status/2047158876039192997",
-      "images": null,
-      "published": "2026-04-23T03:41:25+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2047136127119999054",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "进群跟我的 Agent 聊聊？",
-      "url": "https://x.com/op7418/status/2047136127119999054",
-      "images": null,
-      "published": "2026-04-23T02:11:01+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2047135982370312509",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Agent 可以被分享以后，协作自然而然发生 发现一个非常有意思的产品！ Bloome 可以把你本地的 Agent 和线上 Agent 拉群。 比如说龙虾、Claude Code 和 CodeX 都能在一个群里协作。 这样的话，你完全可以让你多个 Agent 的上下文和能力都在一个群里协作完成。 系统会自带一个云端的 Agent，它的作用包括： 在你的电脑不在线时，帮你处理一些轻量的任务。 你可以把本地 Agent 的共享内容告诉它，由它来帮你处理。 而且在你需要本地 Agent 的时候，只要电脑开机，云端 Agent 也能把它们 @ 出来执行任务。 最神奇的是，我给他拉了群以后，我的线上 Agent 让我本地的 Codex Agent 执行任务。 叫了第一下，那个 Codex 没出来，他发了句“在吗”，我去，笑死我了！ 添加本地 Agent 非常简单，真正的一键操作： 点击右上角的加号，选择“创建 Agent” 进去点一下想要添加的 Agent 点击确定 就结束了，这个太方便了！门槛降得非常低了。 而且这里面还有一个功能，你能够给各种 Agent 拉群： 协作与交流 你只需要带一个二维码，就可以把你和你朋友的 Agent 拉到一个群里，让他们之间相互协作和交流。 多角色互动 你还能定义那种恶搞的 Agent，让各个不同角色的 Agent 进群去沟通。 主人互动 你和你朋友作为 Agent 的主人，也可以在群里沟通和交流，非常方便。 而且这个产品还非常开放。你除了能用它自己免费提供的 API 以外，还能添加自己任意的 API，它都允许，并不是必须要充钱才行。",
-      "url": "https://x.com/op7418/status/2047135982370312509",
-      "images": null,
-      "published": "2026-04-23T02:10:26+00:00",
-      "hasTranscript": false
+      "title": "Marc Andreessen on how the internet changed news, politics, and outrage | The a16z Show",
+      "url": "https://www.youtube.com/watch?v=82HsvG1_Nqk",
+      "thumbnail": "https://img.youtube.com/vi/82HsvG1_Nqk/maxresdefault.jpg",
+      "published": "2026-04-22T15:40:46+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_ypzNhwpmOD4",
@@ -398,21 +609,21 @@
       "transcriptPreview": "Peter Thiel，是硅谷最具争议和影响力的思想家之一。如果要用一句话概括他的思想，那就是：世界是由少数天选之人在幕后驱动的，而他就是其中之一。这套理论，不仅在以他为核心的“硅谷右翼”圈子中产生了影响，还通过Peter Thiel的政治参与，影响了更多的人。 那么，Peter Thiel的思想，又来源于什么呢？要理解他，答案藏在三位哲学家身上：法国文学批评理论家吉拉尔、纳粹党员法学家施密特、和"
     },
     {
-      "id": "x_2044787404943278273",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
+      "id": "yt_Mjc7vwys1vY",
+      "source": "a16z",
+      "sourceId": "a16z",
       "sourceAvatar": null,
-      "platform": "x",
+      "platform": "youtube",
       "domains": [
-        "AI",
-        "Dev"
+        "Business",
+        "AI"
       ],
-      "title": null,
-      "content": "Take Opus 4.7 for a spin in Cursor Cursor (@cursor_ai) Claude Opus 4.7 is now available in Cursor. We've found it to be impressively autonomous and more creative in its reasoning. We're launching it with 50% off for a limited time. Enjoy! — https://nitter.net/cursor_ai/status/2044785960899236341#m",
-      "url": "https://x.com/benln/status/2044787404943278273",
-      "images": null,
-      "published": "2026-04-16T14:38:02+00:00",
-      "hasTranscript": false
+      "title": "Why Claude Feels Different (And What That Means for AI) | The a16z Show",
+      "url": "https://www.youtube.com/watch?v=Mjc7vwys1vY",
+      "thumbnail": "https://img.youtube.com/vi/Mjc7vwys1vY/maxresdefault.jpg",
+      "published": "2026-04-16T14:34:01+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_4EsUaur0nsQ",
@@ -444,6 +655,57 @@
       "url": "https://www.youtube.com/watch?v=DmFdxaLgD70",
       "thumbnail": "https://img.youtube.com/vi/DmFdxaLgD70/maxresdefault.jpg",
       "published": "2026-04-15T12:30:20+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_IZDJ3jcO5UY",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Ben Horowitz on AI Anxiety, Big Tech Transitions & The Future of Startups | a16z",
+      "url": "https://www.youtube.com/watch?v=IZDJ3jcO5UY",
+      "thumbnail": "https://img.youtube.com/vi/IZDJ3jcO5UY/maxresdefault.jpg",
+      "published": "2026-04-14T14:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_yiJOTCRVWjc",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Building Agents at Home: Homeschooling, Parenting and More | The a16z Show",
+      "url": "https://www.youtube.com/watch?v=yiJOTCRVWjc",
+      "thumbnail": "https://img.youtube.com/vi/yiJOTCRVWjc/maxresdefault.jpg",
+      "published": "2026-04-13T14:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_yHqqYCWl4Cc",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Why Instagram load times are so fast",
+      "url": "https://www.youtube.com/watch?v=yHqqYCWl4Cc",
+      "thumbnail": "https://img.youtube.com/vi/yHqqYCWl4Cc/maxresdefault.jpg",
+      "published": "2026-04-11T19:00:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -484,6 +746,74 @@
       "transcriptPreview": "2025年，中国餐饮品牌开启了声势浩大的出海美国。喜茶在纽约开出了更具辨识度的LAB店，霸王茶姬、瑞幸和蜜雪冰城也在这一年正式登陆美国。 但要问目前在美国做得最好的中餐和茶饮品牌，答案可能会出乎你意料——中餐第一是一度退出中国华北市场的鼎泰丰，茶饮标杆则是早在内地销声匿迹的贡茶。 究其原因，餐饮企业想顺利出海美国，不仅需要足够的“做时间的朋友”的耐心，需要对当地商业规则足够了解，更要吃透当地主流人"
     },
     {
+      "id": "yt_dvt_74kV-RM",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Box CEO on the AI Adoption Gap | The a16z Show",
+      "url": "https://www.youtube.com/watch?v=dvt_74kV-RM",
+      "thumbnail": "https://img.youtube.com/vi/dvt_74kV-RM/maxresdefault.jpg",
+      "published": "2026-04-08T14:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_oheUsh7VtKY",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Why Balaji Srinivasan Thinks the SaaS Apocalypse Is Overhyped | The a16z Show",
+      "url": "https://www.youtube.com/watch?v=oheUsh7VtKY",
+      "thumbnail": "https://img.youtube.com/vi/oheUsh7VtKY/maxresdefault.jpg",
+      "published": "2026-04-07T14:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_uDjL9dRbtLs",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "We’re going back to the moon.",
+      "url": "https://www.youtube.com/watch?v=uDjL9dRbtLs",
+      "thumbnail": "https://img.youtube.com/vi/uDjL9dRbtLs/maxresdefault.jpg",
+      "published": "2026-04-06T22:50:57+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_UE8jx4dvlSQ",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "OpenClaw, Claude Code, and the Future of Software | Peter Yang on The a16z Show",
+      "url": "https://www.youtube.com/watch?v=UE8jx4dvlSQ",
+      "thumbnail": "https://img.youtube.com/vi/UE8jx4dvlSQ/maxresdefault.jpg",
+      "published": "2026-04-06T14:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "yt_kkv5rZhrLkc",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -497,6 +827,57 @@
       "url": "https://www.youtube.com/watch?v=kkv5rZhrLkc",
       "thumbnail": "https://img.youtube.com/vi/kkv5rZhrLkc/maxresdefault.jpg",
       "published": "2026-04-06T14:01:12+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_0_NGsljlo3o",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "How Bots, Deepfakes and AI Agents Are Forcing a New Internet Identity Layer | Alex Blania on a16z",
+      "url": "https://www.youtube.com/watch?v=0_NGsljlo3o",
+      "thumbnail": "https://img.youtube.com/vi/0_NGsljlo3o/maxresdefault.jpg",
+      "published": "2026-04-02T16:26:55+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_xWHugpfvzjg",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "This AI made me $2,345 in 24 hours",
+      "url": "https://www.youtube.com/watch?v=xWHugpfvzjg",
+      "thumbnail": "https://img.youtube.com/vi/xWHugpfvzjg/maxresdefault.jpg",
+      "published": "2026-04-02T13:41:31+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_CkEse6MmGFk",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "i gave chatgpt $2,000 to trade stocks for 24 hours",
+      "url": "https://www.youtube.com/watch?v=CkEse6MmGFk",
+      "thumbnail": "https://img.youtube.com/vi/CkEse6MmGFk/maxresdefault.jpg",
+      "published": "2026-04-01T09:21:53+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -624,6 +1005,23 @@
       "transcriptPreview": null
     },
     {
+      "id": "yt_g8Zs12L2kVU",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Let an AI Run My Life for 50 Days",
+      "url": "https://www.youtube.com/watch?v=g8Zs12L2kVU",
+      "thumbnail": "https://img.youtube.com/vi/g8Zs12L2kVU/maxresdefault.jpg",
+      "published": "2026-03-23T15:03:34+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "yt_PCypBUVhff8",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -658,23 +1056,6 @@
       "published": "2026-03-19T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "这几年，如果说全球制造业里，有哪个故事最值得被重新讲一遍，那一定是动力电池。 中国在动力电池产业链中，建立了极强的优势。当欧洲电池巨头Northvolt破产，日韩也不再具备领先地位，很多人会问：为什么很多原始技术并非源自中国，但最后却是中国把它做成了最完整、强势的产业？这背后到底是政策红利、市场规模，还是极致的工程能力在起作用 ？ 这一期节目，我们邀请了材料学博士、TDK Ventures 投资人"
-    },
-    {
-      "id": "yt__9SlOm6HHvg",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "This Is The Holy Grail Of AI",
-      "url": "https://www.youtube.com/watch?v=_9SlOm6HHvg",
-      "thumbnail": "https://img.youtube.com/vi/_9SlOm6HHvg/maxresdefault.jpg",
-      "published": "2026-03-17T17:28:48+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_fd17090c_0d72_4c0d_aa3e_9b00bc062149",
@@ -766,6 +1147,23 @@
       "transcriptPreview": null
     },
     {
+      "id": "yt_Erxh0dx4nts",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "This AI Taught Me Calculus in 5 Minutes",
+      "url": "https://www.youtube.com/watch?v=Erxh0dx4nts",
+      "thumbnail": "https://img.youtube.com/vi/Erxh0dx4nts/maxresdefault.jpg",
+      "published": "2026-02-27T11:41:37+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "yt_KGVpKPNUdzA",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -779,6 +1177,23 @@
       "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
       "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
       "published": "2026-02-25T22:36:32+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_2o76-z12Ttk",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "The Internet is 50% Fake. I Built a Detector.",
+      "url": "https://www.youtube.com/watch?v=2o76-z12Ttk",
+      "thumbnail": "https://img.youtube.com/vi/2o76-z12Ttk/maxresdefault.jpg",
+      "published": "2026-02-18T12:10:20+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -816,6 +1231,23 @@
       "transcriptPreview": null
     },
     {
+      "id": "yt_r0uij_l32to",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Hired 5 AI Employees for $0 (Here's What Happened)",
+      "url": "https://www.youtube.com/watch?v=r0uij_l32to",
+      "thumbnail": "https://img.youtube.com/vi/r0uij_l32to/maxresdefault.jpg",
+      "published": "2026-02-11T14:43:36+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "yt_EV7WhVT270Q",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -845,6 +1277,40 @@
       "url": "https://www.youtube.com/watch?v=_6VOEvdU6hM",
       "thumbnail": "https://img.youtube.com/vi/_6VOEvdU6hM/maxresdefault.jpg",
       "published": "2026-01-30T14:37:30+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_pGyHNyOUaqg",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Built & Launched a Mobile App in 10 Minutes (No Code)",
+      "url": "https://www.youtube.com/watch?v=pGyHNyOUaqg",
+      "thumbnail": "https://img.youtube.com/vi/pGyHNyOUaqg/maxresdefault.jpg",
+      "published": "2026-01-29T10:50:14+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_8bSAP6VVsd0",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Built a YouTube Channel That Runs Itself with Genspark",
+      "url": "https://www.youtube.com/watch?v=8bSAP6VVsd0",
+      "thumbnail": "https://img.youtube.com/vi/8bSAP6VVsd0/maxresdefault.jpg",
+      "published": "2026-01-23T11:11:46+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -895,6 +1361,40 @@
       "url": "https://www.youtube.com/watch?v=B51v9kJQuKo",
       "thumbnail": "https://img.youtube.com/vi/B51v9kJQuKo/maxresdefault.jpg",
       "published": "2025-12-24T13:07:22+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_Q7INj06TUv4",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Solved an 'Impossible' Math Problem with AI",
+      "url": "https://www.youtube.com/watch?v=Q7INj06TUv4",
+      "thumbnail": "https://img.youtube.com/vi/Q7INj06TUv4/maxresdefault.jpg",
+      "published": "2025-12-23T09:29:56+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_18L5HOYTQAw",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "Why Every Skyrim AI Becomes a Stealth Archer",
+      "url": "https://www.youtube.com/watch?v=18L5HOYTQAw",
+      "thumbnail": "https://img.youtube.com/vi/18L5HOYTQAw/maxresdefault.jpg",
+      "published": "2025-12-03T16:15:40+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
