@@ -1,7 +1,108 @@
 {
-  "last_updated": "2026-04-25T02:02:12.880330Z",
+  "last_updated": "2026-04-26T02:24:13.992927Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2048065905230532914",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codex APP 本身也很顶，超好用",
+      "url": "https://x.com/op7418/status/2048065905230532914",
+      "images": null,
+      "published": "2026-04-25T15:45:37+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2048055648831856654",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "GPT-5.5 真是太牛批了，除了超长程任务，其他能力上很多已经追平甚至超过 Opsu 4.7 了",
+      "url": "https://x.com/op7418/status/2048055648831856654",
+      "images": null,
+      "published": "2026-04-25T15:04:52+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_kMYeTRqzAfc",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Replit's CEO On The Only Two Jobs Left In The Company Of The Future",
+      "url": "https://www.youtube.com/watch?v=kMYeTRqzAfc",
+      "thumbnail": "https://img.youtube.com/vi/kMYeTRqzAfc/maxresdefault.jpg",
+      "published": "2026-04-25T14:30:37+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2048033423659557289",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这才是那个 Deepseek 啊，Deepseek 限时 2.5 折！ V4-Pro 百万 Token 输出只需要 6 块钱朋友们，这还要啥自行车 歸藏(guizang.ai) (@op7418) DeepSeek V4详细的官方公告也发了： 模型参数 (a) Pro 版本：总参数 1.6T，激活参数 49B (b) Flash 版本：总参数 284B，激活参数 13B (c) 预训练数据量：均为 32T 模式区分（网页端与 APP） (a) 专家模式：代表 Pro 版本 (b) 快速模式：代表 Flash 版本 测评表现 在多项测评成绩上，该模型与 Opus 4.6 持平。其中，Agent 能力显著增强，世界知识也显著提高。 技术改进 全新的注意力机制已应用于新模型中，相比传统方法，大幅降低了对计算和显存的要求。 — https://nitter.net/op7418/status/2047512236848247112#m",
+      "url": "https://x.com/op7418/status/2048033423659557289",
+      "images": null,
+      "published": "2026-04-25T13:36:33+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_fuO669ienMY",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Reddys vs Retirement | With ChatGPT",
+      "url": "https://www.youtube.com/watch?v=fuO669ienMY",
+      "thumbnail": "https://img.youtube.com/vi/fuO669ienMY/maxresdefault.jpg",
+      "published": "2026-04-25T07:37:25+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2047866300459069475",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "修复了一些问题，增加了 Skill .sh 的安装方式 歸藏(guizang.ai) (@op7418) x.com/i/article/204748417125… — https://nitter.net/op7418/status/2047486546300051478#m",
+      "url": "https://x.com/op7418/status/2047866300459069475",
+      "images": null,
+      "published": "2026-04-25T02:32:28+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2047837372767940678",
       "source": "归藏",
@@ -219,74 +320,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2047532027046719834",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "github.com/op7418/guizang-pp…",
-      "url": "https://x.com/op7418/status/2047532027046719834",
-      "images": null,
-      "published": "2026-04-24T04:24:11+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2047531739581763957",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "I built a Claude Skill that makes slides look like magazines, not PowerPoint. Ten years of design experience, compressed into one skill file. The world hasn't woken up to the fact that AI-generated slides don't have to look AI-generated. - Claude interviews you with 6 questions first (audience, duration, source, images, aesthetic), plans the rhythm, then writes the deck - 10 editorial layouts — cover, big numbers, pull quotes, pipelines, before/after, image grids - 5 curated themes, no custom hex allowed — tight constraints make stable style - Live WebGL fluid backgrounds, smooth page transitions, responsive on any screen - Output is a single HTML file — no build, no server, no cloud - Same-filename image swap: drop a new file with the same name, refresh, done. Zero HTML editing I asked Claude to make a 6-page demo to showcase all 5 themes. Link to skill below ↓ 歸藏(guizang.ai) (@op7418) x.com/i/article/204748417125… — https://nitter.net/op7418/status/2047486546300051478#m",
-      "url": "https://x.com/op7418/status/2047531739581763957",
-      "images": null,
-      "published": "2026-04-24T04:23:02+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2047524789947105330",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codepilot 第一时间支持：nitter.net/op7418/status/20475238… 歸藏(guizang.ai) (@op7418) Code Pilot 0.54 第一时间支持 DeepSeek V4 Pro 和 V4 Flash！ 填写官方 API Key 就可以使用 同时也支持最新的 GPT 5.5 的反代和小米最新的 MiMo 2.5 Pro 模型 — https://nitter.net/op7418/status/2047523836904853828#m",
-      "url": "https://x.com/op7418/status/2047524789947105330",
-      "images": null,
-      "published": "2026-04-24T03:55:25+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2047523990114349536",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "详情：github.com/op7418/CodePilot/…",
-      "url": "https://x.com/op7418/status/2047523990114349536",
-      "images": null,
-      "published": "2026-04-24T03:52:15+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_VdXdGS7hUSY",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -347,22 +380,6 @@
       "url": "https://www.youtube.com/watch?v=Aq0Q_G-rtfA",
       "thumbnail": "https://img.youtube.com/vi/Aq0Q_G-rtfA/maxresdefault.jpg",
       "published": "2026-04-23T20:35:42+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_nL0lKxZydOk",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "First impressions of GPT-5.5",
-      "url": "https://www.youtube.com/watch?v=nL0lKxZydOk",
-      "thumbnail": "https://img.youtube.com/vi/nL0lKxZydOk/maxresdefault.jpg",
-      "published": "2026-04-23T18:20:12+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1018,23 +1035,6 @@
       "url": "https://www.youtube.com/watch?v=g8Zs12L2kVU",
       "thumbnail": "https://img.youtube.com/vi/g8Zs12L2kVU/maxresdefault.jpg",
       "published": "2026-03-23T15:03:34+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_PCypBUVhff8",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Inside The Startup Reinventing The $6 Trillion Chemical Manufacturing Industry",
-      "url": "https://www.youtube.com/watch?v=PCypBUVhff8",
-      "thumbnail": "https://img.youtube.com/vi/PCypBUVhff8/maxresdefault.jpg",
-      "published": "2026-03-20T13:01:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
