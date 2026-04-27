@@ -1,7 +1,75 @@
 {
-  "last_updated": "2026-04-26T02:24:13.992927Z",
+  "last_updated": "2026-04-27T02:26:48.848920Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2048454219275911172",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "notes from @ycombinator video: piped.video/watch?v=EN7frwQI…",
+      "url": "https://x.com/benln/status/2048454219275911172",
+      "images": null,
+      "published": "2026-04-26T17:28:38+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2048447555868963259",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "YC on how to build a company with AI from the ground up:",
+      "url": "https://x.com/benln/status/2048447555868963259",
+      "images": null,
+      "published": "2026-04-26T17:02:10+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2048393760648598019",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Pulled the fastest-growing tech companies by hiring velocity over the past 90 days:",
+      "url": "https://x.com/benln/status/2048393760648598019",
+      "images": null,
+      "published": "2026-04-26T13:28:24+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2048245950813282481",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "藏师傅的 PPT Skill 现在有动效了！ 给每个版式都搭配了对应的动效，都是为了配合展示，而不是只是图炫酷 本地动效文件让你在断网情况下也可以正常演示 Video 歸藏(guizang.ai) (@op7418) x.com/i/article/204748417125… — https://nitter.net/op7418/status/2047486546300051478#m",
+      "url": "https://x.com/op7418/status/2048245950813282481",
+      "images": null,
+      "published": "2026-04-26T03:41:03+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2048065905230532914",
       "source": "归藏",
@@ -303,23 +371,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2047535616859287605",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "测试了一下 DeepSeek V4，完全无法正常调用 Skill。 指令遵循和工具调用的效果很差，不知道是他们发布的原因还是什么问题。 用我那个 PPT Skills 测试，它都没有办法读模板，自己随便实现了一个网页。 歸藏(guizang.ai) (@op7418) 我去，DeepSeek V4 终于来了！ 有两个型号，一个 Flash，一个 Pro。 新版本的功能支持非常全面： 支持 JSON 输出 支持工具调用 支持对话前缀续写 支持 FIM 补全 价格方面： Flash 型号：每百万输入/输出的价格分别是 ¥0.2 和 ¥1 Pro 型号：每百万输入/输出的价格分别是 ¥1 和 ¥12 另外，100 万上下文的价格输出会翻一倍。 — https://nitter.net/op7418/status/2047509948800856335#m",
-      "url": "https://x.com/op7418/status/2047535616859287605",
-      "images": null,
-      "published": "2026-04-24T04:38:27+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_VdXdGS7hUSY",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -553,57 +604,6 @@
       "url": "https://x.com/benln/status/2046210892925108350",
       "images": null,
       "published": "2026-04-20T12:54:28+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2045920056744251617",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Imagine Slack, but built from scratch in 2026",
-      "url": "https://x.com/benln/status/2045920056744251617",
-      "images": null,
-      "published": "2026-04-19T17:38:47+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2045847904879858142",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "What are you building this weekend? Drop a link, curious to see.",
-      "url": "https://x.com/benln/status/2045847904879858142",
-      "images": null,
-      "published": "2026-04-19T12:52:05+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2045131853095432362",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor is coming up in these cities: • Accra - 4/18 • Yaoundé - 4/18 • Macau - 4/18 • Vienna - 4/23 • Miami - 4/23 • Cordoba - 4/24 • Sofia - 4/25 • Lagos - 4/25 • Guadalajara - 4/25 • Mar del Plata - 4/26 • Guayaquil - 5/5 • SLC - 5/9 • Austin - 5/16",
-      "url": "https://x.com/benln/status/2045131853095432362",
-      "images": null,
-      "published": "2026-04-17T13:26:45+00:00",
       "hasTranscript": false
     },
     {
