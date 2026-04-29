@@ -1,7 +1,245 @@
 {
-  "last_updated": "2026-04-28T02:34:02.637670Z",
-  "count": 71,
+  "last_updated": "2026-04-29T02:35:07.393434Z",
+  "count": 51,
   "items": [
+    {
+      "id": "yt_pAV8f4Snx7Q",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Electronics in Space",
+      "url": "https://www.youtube.com/watch?v=pAV8f4Snx7Q",
+      "thumbnail": "https://img.youtube.com/vi/pAV8f4Snx7Q/maxresdefault.jpg",
+      "published": "2026-04-28T21:49:39+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_O8JiNHcI3jI",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Counter-Swarm Defense",
+      "url": "https://www.youtube.com/watch?v=O8JiNHcI3jI",
+      "thumbnail": "https://img.youtube.com/vi/O8JiNHcI3jI/maxresdefault.jpg",
+      "published": "2026-04-28T17:22:31+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2049172814213558784",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "近期第三条百万曝光内容了，这个 Skill 几天就干到了 3800 Star 歸藏(guizang.ai) (@op7418) x.com/i/article/204748417125… — https://nitter.net/op7418/status/2047486546300051478#m",
+      "url": "https://x.com/op7418/status/2049172814213558784",
+      "images": null,
+      "published": "2026-04-28T17:04:05+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_IaWIazkWWog",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Company Brain",
+      "url": "https://www.youtube.com/watch?v=IaWIazkWWog",
+      "thumbnail": "https://img.youtube.com/vi/IaWIazkWWog/maxresdefault.jpg",
+      "published": "2026-04-28T13:56:20+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2049121588671291709",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "notes from @ycombinator: ycombinator.com/rfs",
+      "url": "https://x.com/benln/status/2049121588671291709",
+      "images": null,
+      "published": "2026-04-28T13:40:32+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2049120458357068051",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "突然发现语音输入打错字了，是 Codex",
+      "url": "https://x.com/op7418/status/2049120458357068051",
+      "images": null,
+      "published": "2026-04-28T13:36:02+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2049120079154163964",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "说一下 PPT 本身还是 HTML 网页，只是里面的素材图会用 GPT-Image-2 0 去生成",
+      "url": "https://x.com/op7418/status/2049120079154163964",
+      "images": null,
+      "published": "2026-04-28T13:34:32+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2049117209750900865",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Y Combinator's Summer 2026 request for startups:",
+      "url": "https://x.com/benln/status/2049117209750900865",
+      "images": null,
+      "published": "2026-04-28T13:23:08+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2049094944405737512",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "优化了一下我的 PPT Skills 在 Codex 的效果 现在太牛逼了，图片也能一键搞定！ 能够调用 Codex 里的 GPT-Image-2 去帮你生成图片。 而且我为此做了专门的设计，它会有独特的风格，并根据你的内容生成不同类型的图片，包括： - 营造氛围的人文纪实图片（类似胶片机拍摄的效果） - 信息图、流程图、对比图、关系图 - 截图美化：如果你觉得截图不好看，它都能帮你美化并优化成对应比例的图片 现在整个图文表现效果会更好，推荐你们在 Codex 里使用。 此外，我们也优化了 Codex 的生成流程，现在系统会先询问，而不会直接跳过确认步骤去生成 PPT 了。 歸藏(guizang.ai) (@op7418) x.com/i/article/204748417125… — https://nitter.net/op7418/status/2047486546300051478#m",
+      "url": "https://x.com/op7418/status/2049094944405737512",
+      "images": null,
+      "published": "2026-04-28T11:54:39+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2049081049930727612",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "最近北京的天气真的好",
+      "url": "https://x.com/op7418/status/2049081049930727612",
+      "images": null,
+      "published": "2026-04-28T10:59:27+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2049046284615790596",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "小米牛皮！早上申请的中午就到了 直接给了 329 的赠金，相当于一个月的 Codeplan Pro 会员 歸藏(guizang.ai) (@op7418) 小米 MiMo -V2.5 系列模型全部开源 采用宽松的 MIT 协议，允许自由商用、二次训练与微调，无需额外授权。 同时他们还推出了Orbit 100T Token 计划。 这个太牛批了！如果你有自己 Vibe Coding 一些东西可以去领一下。 包含两部分： 分别是面向 AI builder 的『百万亿 Token 创造者激励计划』，与面向 Agent 框架团队的『Agent 生态共建计划』。 百万亿 Token 创造者激励计划： 申请通过的 AI builder 用户最高将获得 Max 档位的 Token Plan，包含 16 亿 Credits ，价值 659 元。 Agent 生态共建计划： 将为你的 agent 框架提供 MiMo token 限免支持，让你的用户免费接入并体验 MiMo 系列模型。 — https://nitter.net/op7418/status/2048956024141598736#m",
+      "url": "https://x.com/op7418/status/2049046284615790596",
+      "images": null,
+      "published": "2026-04-28T08:41:18+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2049012665876627564",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codex 又重置了速率限制，一到周末就重置。太猛了OpenAI Tibo (@thsottiaux) Don't just reset Codex rate limits for fun, it costs money. Don't just reset Codex rate limits for fun, it costs money. ... but the vibes are good ... I have reset Codex rate limits for ALL paid plans to celebrate a good week and allow everyone to build more with GPT-5.5. Enjoy — https://nitter.net/thsottiaux/status/2048997818673537399#m",
+      "url": "https://x.com/op7418/status/2049012665876627564",
+      "images": null,
+      "published": "2026-04-28T06:27:43+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2048956843792413004",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我先看看能不能给 Codepilot 用户争取到免费的 Token 补贴 歸藏(guizang.ai) (@op7418) 小米 MiMo -V2.5 系列模型全部开源 采用宽松的 MIT 协议，允许自由商用、二次训练与微调，无需额外授权。 同时他们还推出了Orbit 100T Token 计划。 这个太牛批了！如果你有自己 Vibe Coding 一些东西可以去领一下。 包含两部分： 分别是面向 AI builder 的『百万亿 Token 创造者激励计划』，与面向 Agent 框架团队的『Agent 生态共建计划』。 百万亿 Token 创造者激励计划： 申请通过的 AI builder 用户最高将获得 Max 档位的 Token Plan，包含 16 亿 Credits ，价值 659 元。 Agent 生态共建计划： 将为你的 agent 框架提供 MiMo token 限免支持，让你的用户免费接入并体验 MiMo 系列模型。 — https://nitter.net/op7418/status/2048956024141598736#m",
+      "url": "https://x.com/op7418/status/2048956843792413004",
+      "images": null,
+      "published": "2026-04-28T02:45:53+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2048956024141598736",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "小米 MiMo -V2.5 系列模型全部开源 采用宽松的 MIT 协议，允许自由商用、二次训练与微调，无需额外授权。 同时他们还推出了Orbit 100T Token 计划。 这个太牛批了！如果你有自己 Vibe Coding 一些东西可以去领一下。 包含两部分： 分别是面向 AI builder 的『百万亿 Token 创造者激励计划』，与面向 Agent 框架团队的『Agent 生态共建计划』。 百万亿 Token 创造者激励计划： 申请通过的 AI builder 用户最高将获得 Max 档位的 Token Plan，包含 16 亿 Credits ，价值 659 元。 Agent 生态共建计划： 将为你的 agent 框架提供 MiMo token 限免支持，让你的用户免费接入并体验 MiMo 系列模型。 Xiaomi MiMo (@XiaomiMiMo) Xiaomi MiMo-V2.5 is now officially open-sourced！ MIT License, supporting commercial deployment, continued training, and fine-tuning - no additional authorization required. Two models, both supporting a 1M-token context window : • MiMo-V2.5-Pro: built for complex agent and coding tasks, ranking No.1 among open-source models on GDPVal-AA and ClawEval • MiMo-V2.5: a native omni-modal model with strong agent capabilities A model's value isn't measured by rankings alone — it's measured by the problems it solves. Let's build with MiMo now! 🤗 Weights: huggingface.co/collections/X… 📄 Blog: mimo.xiaomi.com/index#blog — https://nitter.net/XiaomiMiMo/status/2048821516079661561#m",
+      "url": "https://x.com/op7418/status/2048956024141598736",
+      "images": null,
+      "published": "2026-04-28T02:42:38+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_fzVuQ2sYEn8",
       "source": "Y Combinator",
@@ -71,22 +309,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_2TGHO4apQ5I",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Ritu vs Case Files | With ChatGPT",
-      "url": "https://www.youtube.com/watch?v=2TGHO4apQ5I",
-      "thumbnail": "https://img.youtube.com/vi/2TGHO4apQ5I/maxresdefault.jpg",
-      "published": "2026-04-27T11:12:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2048599545618243802",
       "source": "归藏",
       "sourceId": "guizang",
@@ -101,23 +323,6 @@
       "url": "https://x.com/op7418/status/2048599545618243802",
       "images": null,
       "published": "2026-04-27T03:06:07+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2048599141056758024",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "看来真的很受欢迎，最近看到大家分享的线下 PPT 里面，很多都用了我这个模板。 歸藏(guizang.ai) (@op7418) x.com/i/article/204748417125… — https://nitter.net/op7418/status/2047486546300051478#m",
-      "url": "https://x.com/op7418/status/2048599141056758024",
-      "images": null,
-      "published": "2026-04-27T03:04:31+00:00",
       "hasTranscript": false
     },
     {
@@ -172,57 +377,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2048245950813282481",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "藏师傅的 PPT Skill 现在有动效了！ 给每个版式都搭配了对应的动效，都是为了配合展示，而不是只是图炫酷 本地动效文件让你在断网情况下也可以正常演示 Video 歸藏(guizang.ai) (@op7418) x.com/i/article/204748417125… — https://nitter.net/op7418/status/2047486546300051478#m",
-      "url": "https://x.com/op7418/status/2048245950813282481",
-      "images": null,
-      "published": "2026-04-26T03:41:03+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2048065905230532914",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codex APP 本身也很顶，超好用",
-      "url": "https://x.com/op7418/status/2048065905230532914",
-      "images": null,
-      "published": "2026-04-25T15:45:37+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2048055648831856654",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "GPT-5.5 真是太牛批了，除了超长程任务，其他能力上很多已经追平甚至超过 Opsu 4.7 了",
-      "url": "https://x.com/op7418/status/2048055648831856654",
-      "images": null,
-      "published": "2026-04-25T15:04:52+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_kMYeTRqzAfc",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -238,170 +392,6 @@
       "published": "2026-04-25T14:30:37+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2048033423659557289",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这才是那个 Deepseek 啊，Deepseek 限时 2.5 折！ V4-Pro 百万 Token 输出只需要 6 块钱朋友们，这还要啥自行车 歸藏(guizang.ai) (@op7418) DeepSeek V4详细的官方公告也发了： 模型参数 (a) Pro 版本：总参数 1.6T，激活参数 49B (b) Flash 版本：总参数 284B，激活参数 13B (c) 预训练数据量：均为 32T 模式区分（网页端与 APP） (a) 专家模式：代表 Pro 版本 (b) 快速模式：代表 Flash 版本 测评表现 在多项测评成绩上，该模型与 Opus 4.6 持平。其中，Agent 能力显著增强，世界知识也显著提高。 技术改进 全新的注意力机制已应用于新模型中，相比传统方法，大幅降低了对计算和显存的要求。 — https://nitter.net/op7418/status/2047512236848247112#m",
-      "url": "https://x.com/op7418/status/2048033423659557289",
-      "images": null,
-      "published": "2026-04-25T13:36:33+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_fuO669ienMY",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Reddys vs Retirement | With ChatGPT",
-      "url": "https://www.youtube.com/watch?v=fuO669ienMY",
-      "thumbnail": "https://img.youtube.com/vi/fuO669ienMY/maxresdefault.jpg",
-      "published": "2026-04-25T07:37:25+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2047866300459069475",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "修复了一些问题，增加了 Skill .sh 的安装方式 歸藏(guizang.ai) (@op7418) x.com/i/article/204748417125… — https://nitter.net/op7418/status/2047486546300051478#m",
-      "url": "https://x.com/op7418/status/2047866300459069475",
-      "images": null,
-      "published": "2026-04-25T02:32:28+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2047837372767940678",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "我去老马不过了？ 怎么半个月給 1000 美元阿",
-      "url": "https://x.com/op7418/status/2047837372767940678",
-      "images": null,
-      "published": "2026-04-25T00:37:31+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_GNEbX8EvDlg",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Introducing GPT-5.5 with Perplexity",
-      "url": "https://www.youtube.com/watch?v=GNEbX8EvDlg",
-      "thumbnail": "https://img.youtube.com/vi/GNEbX8EvDlg/maxresdefault.jpg",
-      "published": "2026-04-24T20:13:48+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_H5rSp32VwV8",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Workspace agents in ChatGPT: Weekly metrics reporting agent",
-      "url": "https://www.youtube.com/watch?v=H5rSp32VwV8",
-      "thumbnail": "https://img.youtube.com/vi/H5rSp32VwV8/maxresdefault.jpg",
-      "published": "2026-04-24T20:10:26+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_7ZVYmoqqnCg",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Workspace agents in ChatGPT: Software review agent",
-      "url": "https://www.youtube.com/watch?v=7ZVYmoqqnCg",
-      "thumbnail": "https://img.youtube.com/vi/7ZVYmoqqnCg/maxresdefault.jpg",
-      "published": "2026-04-24T20:06:24+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_HnSPedbA02Q",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Workspace agents in ChatGPT: Third-party risk management agent",
-      "url": "https://www.youtube.com/watch?v=HnSPedbA02Q",
-      "thumbnail": "https://img.youtube.com/vi/HnSPedbA02Q/maxresdefault.jpg",
-      "published": "2026-04-24T20:00:56+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_R3aUYJFVc6w",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Introducing GPT-5.5 with NVIDIA's AI Researcher",
-      "url": "https://www.youtube.com/watch?v=R3aUYJFVc6w",
-      "thumbnail": "https://img.youtube.com/vi/R3aUYJFVc6w/maxresdefault.jpg",
-      "published": "2026-04-24T19:58:35+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2047698553108369436",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "没想到能在北京见到每天刷到的其他海外 KOL，太神奇了 Chubby♨️ (@kimmonismus) But you know what’s even cooler than meeting @hidecloud over dinner? Having dinner with him in a big group. That evening, I was probably sitting at the highest-IQ table I’ve ever been part of - excluding myself, obviously, because I’m nowhere near as smart as this group. From the developer of Nanobot to the youngest Kimi researcher I’ve ever met, from the creator of Slock to the people at ZhenFund and many more- some of the brightest minds and coolest people I’ve ever had the chance to meet. Thank you! Such a lovely evening! @op7418 @annafanghamm @nexmoe @nathancgy4 @crazibility @xubinrencs @istdrc @songming_liu @emmaleyin — https://nitter.net/kimmonismus/status/2047695164097859847#m",
-      "url": "https://x.com/op7418/status/2047698553108369436",
-      "images": null,
-      "published": "2026-04-24T15:25:54+00:00",
-      "hasTranscript": false
     },
     {
       "id": "x_2047677378596339884",
@@ -434,71 +424,6 @@
       "url": "https://www.youtube.com/watch?v=EN7frwQIbKc",
       "thumbnail": "https://img.youtube.com/vi/EN7frwQIbKc/maxresdefault.jpg",
       "published": "2026-04-24T14:00:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2047658776527008208",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "哈哈 感谢推荐",
-      "url": "https://x.com/op7418/status/2047658776527008208",
-      "images": null,
-      "published": "2026-04-24T12:47:50+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_VdXdGS7hUSY",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Introducing GPT-5.5 with NVIDIA",
-      "url": "https://www.youtube.com/watch?v=VdXdGS7hUSY",
-      "thumbnail": "https://img.youtube.com/vi/VdXdGS7hUSY/maxresdefault.jpg",
-      "published": "2026-04-23T21:23:34+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_KKiwxLK59YQ",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "First impressions of GPT-5.5 from Aaron Friel",
-      "url": "https://www.youtube.com/watch?v=KKiwxLK59YQ",
-      "thumbnail": "https://img.youtube.com/vi/KKiwxLK59YQ/maxresdefault.jpg",
-      "published": "2026-04-23T21:06:19+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_xRa1GCRomQs",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "First impressions of GPT-5.5 from Claire Vo",
-      "url": "https://www.youtube.com/watch?v=xRa1GCRomQs",
-      "thumbnail": "https://img.youtube.com/vi/xRa1GCRomQs/maxresdefault.jpg",
-      "published": "2026-04-23T20:45:31+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -607,40 +532,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2046628255759802404",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "5 people have joined the Cursor team through our community programs (so far!) Underrated way to get your foot in the door.",
-      "url": "https://x.com/benln/status/2046628255759802404",
-      "images": null,
-      "published": "2026-04-21T16:32:55+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2046285398826000892",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "I'm biased, but this may be the best collection of humans on the internet",
-      "url": "https://x.com/benln/status/2046285398826000892",
-      "images": null,
-      "published": "2026-04-20T17:50:31+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "pod_guigu101_pod_2a529abf_3c14_4ae7_a0a5_fe1340a66c7d",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -658,23 +549,6 @@
       "published": "2026-04-16T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "Peter Thiel，是硅谷最具争议和影响力的思想家之一。如果要用一句话概括他的思想，那就是：世界是由少数天选之人在幕后驱动的，而他就是其中之一。这套理论，不仅在以他为核心的“硅谷右翼”圈子中产生了影响，还通过Peter Thiel的政治参与，影响了更多的人。 那么，Peter Thiel的思想，又来源于什么呢？要理解他，答案藏在三位哲学家身上：法国文学批评理论家吉拉尔、纳粹党员法学家施密特、和"
-    },
-    {
-      "id": "yt_4EsUaur0nsQ",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The GPT Moment for Robotics Is Here",
-      "url": "https://www.youtube.com/watch?v=4EsUaur0nsQ",
-      "thumbnail": "https://img.youtube.com/vi/4EsUaur0nsQ/maxresdefault.jpg",
-      "published": "2026-04-16T14:00:07+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_iKx3gAODybU",
@@ -713,57 +587,6 @@
       "transcriptPreview": "2025年，中国餐饮品牌开启了声势浩大的出海美国。喜茶在纽约开出了更具辨识度的LAB店，霸王茶姬、瑞幸和蜜雪冰城也在这一年正式登陆美国。 但要问目前在美国做得最好的中餐和茶饮品牌，答案可能会出乎你意料——中餐第一是一度退出中国华北市场的鼎泰丰，茶饮标杆则是早在内地销声匿迹的贡茶。 究其原因，餐饮企业想顺利出海美国，不仅需要足够的“做时间的朋友”的耐心，需要对当地商业规则足够了解，更要吃透当地主流人"
     },
     {
-      "id": "yt_kkv5rZhrLkc",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "BillionToOne Is Solving One of Biotech’s Hardest Problems",
-      "url": "https://www.youtube.com/watch?v=kkv5rZhrLkc",
-      "thumbnail": "https://img.youtube.com/vi/kkv5rZhrLkc/maxresdefault.jpg",
-      "published": "2026-04-06T14:01:12+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_xWHugpfvzjg",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "This AI made me $2,345 in 24 hours",
-      "url": "https://www.youtube.com/watch?v=xWHugpfvzjg",
-      "thumbnail": "https://img.youtube.com/vi/xWHugpfvzjg/maxresdefault.jpg",
-      "published": "2026-04-02T13:41:31+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_CkEse6MmGFk",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "i gave chatgpt $2,000 to trade stocks for 24 hours",
-      "url": "https://www.youtube.com/watch?v=CkEse6MmGFk",
-      "thumbnail": "https://img.youtube.com/vi/CkEse6MmGFk/maxresdefault.jpg",
-      "published": "2026-04-01T09:21:53+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_0f4a2ab9_d3a0_41ad_8db1_6c03c851bd70",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -781,23 +604,6 @@
       "published": "2026-03-31T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "“龙虾热”正在退潮，但它带来的创新冲击还在持续——当它与行业know-how相结合，正在迸发出新的能量。 阿里国际站有着26年的B2B数据和经验积累，今年初，OpenClaw、Cowork这些工作范式被验证，让他们看到了打通B2B闭环的智能体，终于到了可以落地的临界点。 于是春节之后，“外贸版龙虾”Accio Work来了，海外用户只需要和这个Agent对话，它就能自主跑完从市场分析、选品设计、供"
-    },
-    {
-      "id": "yt_JF6XIixstmQ",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "This Startup Catches Fraud at Scale",
-      "url": "https://www.youtube.com/watch?v=JF6XIixstmQ",
-      "thumbnail": "https://img.youtube.com/vi/JF6XIixstmQ/maxresdefault.jpg",
-      "published": "2026-03-31T16:00:18+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_d97446f1_d6e3_4894_89d1_dca0a362b10b",
@@ -832,23 +638,6 @@
       "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
       "thumbnail": "https://img.youtube.com/vi/vif8NQcjVf0/maxresdefault.jpg",
       "published": "2026-03-23T16:24:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_g8Zs12L2kVU",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Let an AI Run My Life for 50 Days",
-      "url": "https://www.youtube.com/watch?v=g8Zs12L2kVU",
-      "thumbnail": "https://img.youtube.com/vi/g8Zs12L2kVU/maxresdefault.jpg",
-      "published": "2026-03-23T15:03:34+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -961,23 +750,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_Erxh0dx4nts",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "This AI Taught Me Calculus in 5 Minutes",
-      "url": "https://www.youtube.com/watch?v=Erxh0dx4nts",
-      "thumbnail": "https://img.youtube.com/vi/Erxh0dx4nts/maxresdefault.jpg",
-      "published": "2026-02-27T11:41:37+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_KGVpKPNUdzA",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -991,23 +763,6 @@
       "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
       "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
       "published": "2026-02-25T22:36:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_2o76-z12Ttk",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "The Internet is 50% Fake. I Built a Detector.",
-      "url": "https://www.youtube.com/watch?v=2o76-z12Ttk",
-      "thumbnail": "https://img.youtube.com/vi/2o76-z12Ttk/maxresdefault.jpg",
-      "published": "2026-02-18T12:10:20+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1029,23 +784,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_r0uij_l32to",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Hired 5 AI Employees for $0 (Here's What Happened)",
-      "url": "https://www.youtube.com/watch?v=r0uij_l32to",
-      "thumbnail": "https://img.youtube.com/vi/r0uij_l32to/maxresdefault.jpg",
-      "published": "2026-02-11T14:43:36+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_EV7WhVT270Q",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -1059,40 +797,6 @@
       "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
       "thumbnail": "https://img.youtube.com/vi/EV7WhVT270Q/maxresdefault.jpg",
       "published": "2026-01-31T22:33:33+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_pGyHNyOUaqg",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Built & Launched a Mobile App in 10 Minutes (No Code)",
-      "url": "https://www.youtube.com/watch?v=pGyHNyOUaqg",
-      "thumbnail": "https://img.youtube.com/vi/pGyHNyOUaqg/maxresdefault.jpg",
-      "published": "2026-01-29T10:50:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_8bSAP6VVsd0",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Built a YouTube Channel That Runs Itself with Genspark",
-      "url": "https://www.youtube.com/watch?v=8bSAP6VVsd0",
-      "thumbnail": "https://img.youtube.com/vi/8bSAP6VVsd0/maxresdefault.jpg",
-      "published": "2026-01-23T11:11:46+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1127,40 +831,6 @@
       "url": "https://www.youtube.com/watch?v=14OPT6CcsH4",
       "thumbnail": "https://img.youtube.com/vi/14OPT6CcsH4/maxresdefault.jpg",
       "published": "2025-12-31T21:26:17+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Q7INj06TUv4",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Solved an 'Impossible' Math Problem with AI",
-      "url": "https://www.youtube.com/watch?v=Q7INj06TUv4",
-      "thumbnail": "https://img.youtube.com/vi/Q7INj06TUv4/maxresdefault.jpg",
-      "published": "2025-12-23T09:29:56+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_18L5HOYTQAw",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "Why Every Skyrim AI Becomes a Stealth Archer",
-      "url": "https://www.youtube.com/watch?v=18L5HOYTQAw",
-      "thumbnail": "https://img.youtube.com/vi/18L5HOYTQAw/maxresdefault.jpg",
-      "published": "2025-12-03T16:15:40+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
