@@ -1,40 +1,142 @@
 {
-  "last_updated": "2026-04-29T02:35:07.393434Z",
-  "count": 51,
+  "last_updated": "2026-04-30T02:35:11.256573Z",
+  "count": 31,
   "items": [
     {
-      "id": "yt_pAV8f4Snx7Q",
-      "source": "Y Combinator",
-      "sourceId": "yc",
+      "id": "x_2049569929561518087",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
       "sourceAvatar": null,
-      "platform": "youtube",
+      "platform": "x",
       "domains": [
-        "Business",
-        "AI"
+        "AI",
+        "Dev"
       ],
-      "title": "Electronics in Space",
-      "url": "https://www.youtube.com/watch?v=pAV8f4Snx7Q",
-      "thumbnail": "https://img.youtube.com/vi/pAV8f4Snx7Q/maxresdefault.jpg",
-      "published": "2026-04-28T21:49:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
+      "title": null,
+      "content": "Top startups hiring ranked by talent density:",
+      "url": "https://x.com/benln/status/2049569929561518087",
+      "images": null,
+      "published": "2026-04-29T19:22:05+00:00",
+      "hasTranscript": false
     },
     {
-      "id": "yt_O8JiNHcI3jI",
-      "source": "Y Combinator",
-      "sourceId": "yc",
+      "id": "x_2049499866217185492",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
       "sourceAvatar": null,
-      "platform": "youtube",
+      "platform": "x",
       "domains": [
-        "Business",
-        "AI"
+        "AI",
+        "Dev"
       ],
-      "title": "Counter-Swarm Defense",
-      "url": "https://www.youtube.com/watch?v=O8JiNHcI3jI",
-      "thumbnail": "https://img.youtube.com/vi/O8JiNHcI3jI/maxresdefault.jpg",
-      "published": "2026-04-28T17:22:31+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
+      "title": null,
+      "content": "We’re introducing the Cursor SDK so you can build agents with the same runtime, harness, and models that power Cursor. Run agents from CI/CD pipelines, create automations for end-to-end workflows, or embed agents directly inside your products. Video",
+      "url": "https://x.com/benln/status/2049499866217185492",
+      "images": null,
+      "published": "2026-04-29T14:43:40+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2049489843974230106",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这里启用",
+      "url": "https://x.com/op7418/status/2049489843974230106",
+      "images": null,
+      "published": "2026-04-29T14:03:51+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2049488861836013616",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Deepseek 的多模态模型全量了。 目前可以在网页版的识图模式尝试，看起来是一个单独的多模态模型",
+      "url": "https://x.com/op7418/status/2049488861836013616",
+      "images": null,
+      "published": "2026-04-29T13:59:56+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2049458103675191550",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Moxt 是近期所有新的 Agent 产品里，我觉得最好的之一 ！ 终于找时间写了一篇介绍。 如果你还在找一个 AI Native 的组织协作工具的话，我觉得可以试试。 歸藏(guizang.ai) (@op7418) x.com/i/article/204945624453… — https://nitter.net/op7418/status/2049457761533239340#m",
+      "url": "https://x.com/op7418/status/2049458103675191550",
+      "images": null,
+      "published": "2026-04-29T11:57:43+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2049457761533239340",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "x.com/i/article/204945624453…",
+      "url": "https://x.com/op7418/status/2049457761533239340",
+      "images": null,
+      "published": "2026-04-29T11:56:22+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2049453132720058660",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor Hackathon in Kenya",
+      "url": "https://x.com/benln/status/2049453132720058660",
+      "images": null,
+      "published": "2026-04-29T11:37:58+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2049320408881709464",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Ghostty 的负责人今天说他会离开 GitHub。 这哥们在 GitHub 有 5 万多的粉丝，每天都有提交，是重度的 GitHub 使用者。 他的意思是，GitHub 现在频繁的故障和不稳定的服务已经严重影响了开发工作，导致他觉得这里不再适合进行严肃工作。 因此，他会把所有的重度开发工作都迁移到自建的服务上，GitHub 之后只保留代码库。 目前主要影响的内容是： Actions、PR、Issues 等配套服务经常挂掉，导致他没办法进行代码评审和跑 CI 合并。 我感觉这是一个非常大的机会。 在 AI 时代，GitHub 事实上已经变成了所有 Vibe Coding 最重要的基建之一，但现在微软显然没有办法应付这套东西。 所以，如果哪个平台能够提供一个更适合 AI、更适合 AI Agent 的 Git 服务，可能会有很大的机会。 Mitchell Hashimoto (@mitchellh) Ghostty is leaving GitHub. I'm GitHub user 1299, joined Feb 2008. I've visited GitHub almost every single day for over 18 years. It's never been a question for me where I'd put my projects: always GitHub. I'm super sad to say this, but its time to go. mitchellh.com/writing/ghostt… — https://nitter.net/mitchellh/status/2049213597419774026#m",
+      "url": "https://x.com/op7418/status/2049320408881709464",
+      "images": null,
+      "published": "2026-04-29T02:50:34+00:00",
+      "hasTranscript": false
     },
     {
       "id": "x_2049172814213558784",
@@ -52,23 +154,6 @@
       "images": null,
       "published": "2026-04-28T17:04:05+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt_IaWIazkWWog",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Company Brain",
-      "url": "https://www.youtube.com/watch?v=IaWIazkWWog",
-      "thumbnail": "https://img.youtube.com/vi/IaWIazkWWog/maxresdefault.jpg",
-      "published": "2026-04-28T13:56:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "x_2049121588671291709",
@@ -173,125 +258,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2049046284615790596",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "小米牛皮！早上申请的中午就到了 直接给了 329 的赠金，相当于一个月的 Codeplan Pro 会员 歸藏(guizang.ai) (@op7418) 小米 MiMo -V2.5 系列模型全部开源 采用宽松的 MIT 协议，允许自由商用、二次训练与微调，无需额外授权。 同时他们还推出了Orbit 100T Token 计划。 这个太牛批了！如果你有自己 Vibe Coding 一些东西可以去领一下。 包含两部分： 分别是面向 AI builder 的『百万亿 Token 创造者激励计划』，与面向 Agent 框架团队的『Agent 生态共建计划』。 百万亿 Token 创造者激励计划： 申请通过的 AI builder 用户最高将获得 Max 档位的 Token Plan，包含 16 亿 Credits ，价值 659 元。 Agent 生态共建计划： 将为你的 agent 框架提供 MiMo token 限免支持，让你的用户免费接入并体验 MiMo 系列模型。 — https://nitter.net/op7418/status/2048956024141598736#m",
-      "url": "https://x.com/op7418/status/2049046284615790596",
-      "images": null,
-      "published": "2026-04-28T08:41:18+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2049012665876627564",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codex 又重置了速率限制，一到周末就重置。太猛了OpenAI Tibo (@thsottiaux) Don't just reset Codex rate limits for fun, it costs money. Don't just reset Codex rate limits for fun, it costs money. ... but the vibes are good ... I have reset Codex rate limits for ALL paid plans to celebrate a good week and allow everyone to build more with GPT-5.5. Enjoy — https://nitter.net/thsottiaux/status/2048997818673537399#m",
-      "url": "https://x.com/op7418/status/2049012665876627564",
-      "images": null,
-      "published": "2026-04-28T06:27:43+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2048956843792413004",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "我先看看能不能给 Codepilot 用户争取到免费的 Token 补贴 歸藏(guizang.ai) (@op7418) 小米 MiMo -V2.5 系列模型全部开源 采用宽松的 MIT 协议，允许自由商用、二次训练与微调，无需额外授权。 同时他们还推出了Orbit 100T Token 计划。 这个太牛批了！如果你有自己 Vibe Coding 一些东西可以去领一下。 包含两部分： 分别是面向 AI builder 的『百万亿 Token 创造者激励计划』，与面向 Agent 框架团队的『Agent 生态共建计划』。 百万亿 Token 创造者激励计划： 申请通过的 AI builder 用户最高将获得 Max 档位的 Token Plan，包含 16 亿 Credits ，价值 659 元。 Agent 生态共建计划： 将为你的 agent 框架提供 MiMo token 限免支持，让你的用户免费接入并体验 MiMo 系列模型。 — https://nitter.net/op7418/status/2048956024141598736#m",
-      "url": "https://x.com/op7418/status/2048956843792413004",
-      "images": null,
-      "published": "2026-04-28T02:45:53+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2048956024141598736",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "小米 MiMo -V2.5 系列模型全部开源 采用宽松的 MIT 协议，允许自由商用、二次训练与微调，无需额外授权。 同时他们还推出了Orbit 100T Token 计划。 这个太牛批了！如果你有自己 Vibe Coding 一些东西可以去领一下。 包含两部分： 分别是面向 AI builder 的『百万亿 Token 创造者激励计划』，与面向 Agent 框架团队的『Agent 生态共建计划』。 百万亿 Token 创造者激励计划： 申请通过的 AI builder 用户最高将获得 Max 档位的 Token Plan，包含 16 亿 Credits ，价值 659 元。 Agent 生态共建计划： 将为你的 agent 框架提供 MiMo token 限免支持，让你的用户免费接入并体验 MiMo 系列模型。 Xiaomi MiMo (@XiaomiMiMo) Xiaomi MiMo-V2.5 is now officially open-sourced！ MIT License, supporting commercial deployment, continued training, and fine-tuning - no additional authorization required. Two models, both supporting a 1M-token context window : • MiMo-V2.5-Pro: built for complex agent and coding tasks, ranking No.1 among open-source models on GDPVal-AA and ClawEval • MiMo-V2.5: a native omni-modal model with strong agent capabilities A model's value isn't measured by rankings alone — it's measured by the problems it solves. Let's build with MiMo now! 🤗 Weights: huggingface.co/collections/X… 📄 Blog: mimo.xiaomi.com/index#blog — https://nitter.net/XiaomiMiMo/status/2048821516079661561#m",
-      "url": "https://x.com/op7418/status/2048956024141598736",
-      "images": null,
-      "published": "2026-04-28T02:42:38+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_fzVuQ2sYEn8",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI-Personalized Medicine",
-      "url": "https://www.youtube.com/watch?v=fzVuQ2sYEn8",
-      "thumbnail": "https://img.youtube.com/vi/fzVuQ2sYEn8/maxresdefault.jpg",
-      "published": "2026-04-27T22:26:06+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_lsRnwM_ZdJY",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI-Native Service Companies",
-      "url": "https://www.youtube.com/watch?v=lsRnwM_ZdJY",
-      "thumbnail": "https://img.youtube.com/vi/lsRnwM_ZdJY/maxresdefault.jpg",
-      "published": "2026-04-27T18:43:27+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_uwe-5PB9p4Y",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI for Low-Pesticide Agriculture",
-      "url": "https://www.youtube.com/watch?v=uwe-5PB9p4Y",
-      "thumbnail": "https://img.youtube.com/vi/uwe-5PB9p4Y/maxresdefault.jpg",
-      "published": "2026-04-27T18:43:05+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2048755597483348412",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -306,23 +272,6 @@
       "url": "https://x.com/benln/status/2048755597483348412",
       "images": null,
       "published": "2026-04-27T13:26:13+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2048599545618243802",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "最近正在重构 CodePilot，把 AI 能做的事情变得简单点，AI 不能做的东西变得详细点。",
-      "url": "https://x.com/op7418/status/2048599545618243802",
-      "images": null,
-      "published": "2026-04-27T03:06:07+00:00",
       "hasTranscript": false
     },
     {
@@ -377,23 +326,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_kMYeTRqzAfc",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Replit's CEO On The Only Two Jobs Left In The Company Of The Future",
-      "url": "https://www.youtube.com/watch?v=kMYeTRqzAfc",
-      "thumbnail": "https://img.youtube.com/vi/kMYeTRqzAfc/maxresdefault.jpg",
-      "published": "2026-04-25T14:30:37+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2047677378596339884",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -408,91 +340,6 @@
       "url": "https://x.com/benln/status/2047677378596339884",
       "images": null,
       "published": "2026-04-24T14:01:45+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_EN7frwQIbKc",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How To Build A Company With AI From The Ground Up",
-      "url": "https://www.youtube.com/watch?v=EN7frwQIbKc",
-      "thumbnail": "https://img.youtube.com/vi/EN7frwQIbKc/maxresdefault.jpg",
-      "published": "2026-04-24T14:00:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_wkv2ifxPpF8",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How to Make Claude Code Your AI Engineering Team",
-      "url": "https://www.youtube.com/watch?v=wkv2ifxPpF8",
-      "thumbnail": "https://img.youtube.com/vi/wkv2ifxPpF8/maxresdefault.jpg",
-      "published": "2026-04-23T14:30:49+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2047285042091622711",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Ghana",
-      "url": "https://x.com/benln/status/2047285042091622711",
-      "images": null,
-      "published": "2026-04-23T12:02:45+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_ypzNhwpmOD4",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How Stripe Built Their New Website",
-      "url": "https://www.youtube.com/watch?v=ypzNhwpmOD4",
-      "thumbnail": "https://img.youtube.com/vi/ypzNhwpmOD4/maxresdefault.jpg",
-      "published": "2026-04-22T14:01:37+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2046938869417771222",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Baby sister arrived yesterday. Deeply grateful.",
-      "url": "https://x.com/benln/status/2046938869417771222",
-      "images": null,
-      "published": "2026-04-22T13:07:11+00:00",
       "hasTranscript": false
     },
     {
@@ -515,23 +362,6 @@
       "transcriptPreview": "最近，《灵魂摆渡·浮生梦》成为中国首部全AI生成的电影，暑期档即将上映。“AI能否替代真人演员”、“真人短剧是不是在被AI团灭”，这些话题最近都在冲上微博热搜，成为大家讨论的焦点。 人工智能正以惊人的速度渗透进影视工业的核心流程。从剧本开发到视觉预览，从角色建模到声音演绎，AI 带来的效率提升令人震惊。这场变革不仅是技术迭代，更是创作哲学的重构。AI把传统影视制作中长达六个月的特效前期流程，压缩到"
     },
     {
-      "id": "x_2046719798596517952",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Excited to partner with the SpaceX team to scale up Composer. A meaningful step on our path to build the best place to code with AI. SpaceX (@SpaceX) SpaceXAI and @cursor_ai are now working closely together to create the world’s best coding and knowledge work AI. The combination of Cursor’s leading product and distribution to expert software engineers with SpaceX’s million H100 equivalent Colossus training supercomputer will allow us to build the world’s most useful models. Cursor has also given SpaceX the right to acquire Cursor later this year for $60 billion or pay $10 billion for our work together. — https://nitter.net/SpaceX/status/2046713419978453374#m",
-      "url": "https://x.com/benln/status/2046719798596517952",
-      "images": null,
-      "published": "2026-04-21T22:36:40+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "pod_guigu101_pod_2a529abf_3c14_4ae7_a0a5_fe1340a66c7d",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -549,23 +379,6 @@
       "published": "2026-04-16T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "Peter Thiel，是硅谷最具争议和影响力的思想家之一。如果要用一句话概括他的思想，那就是：世界是由少数天选之人在幕后驱动的，而他就是其中之一。这套理论，不仅在以他为核心的“硅谷右翼”圈子中产生了影响，还通过Peter Thiel的政治参与，影响了更多的人。 那么，Peter Thiel的思想，又来源于什么呢？要理解他，答案藏在三位哲学家身上：法国文学批评理论家吉拉尔、纳粹党员法学家施密特、和"
-    },
-    {
-      "id": "yt_iKx3gAODybU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "thumbnail": "https://img.youtube.com/vi/iKx3gAODybU/maxresdefault.jpg",
-      "published": "2026-04-09T17:35:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_3bb14dd4_0b13_4173_9d5b_0e63bf98ae1d",
@@ -625,23 +438,6 @@
       "transcriptPreview": "本期播客是硅谷101在GTC 2026大会期间的线下特别录制，我们从老黄在Keynote上抛出的那几个大数字开始聊起： 1万亿——这是黄仁勋预期到2027年底，Blackwell和Vera Rubin两个平台带来的订单收入。 7块——这是大会一次性发布的Vera Rubin新芯片数量。 10倍、35倍——这是Vera Rubin NVL72 AI机架系统，相比Blackwell，它的推理效率提升了"
     },
     {
-      "id": "yt_vif8NQcjVf0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
-      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
-      "thumbnail": "https://img.youtube.com/vi/vif8NQcjVf0/maxresdefault.jpg",
-      "published": "2026-03-23T16:24:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_c457ca43_1305_44a3_b9cc_c68480802396",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -680,23 +476,6 @@
       "transcriptPreview": "在AI算力争霸时代，英伟达凭借GPU市值一路狂飙。但如今，它的蛋糕正在被一点点分食——2024年，苹果论文披露Apple Intelligence全部由TPU训练；2025年，Anthropic签下数十亿美元订单，购买TPU训练Claude；近期，Meta与谷歌签署数十亿美元协议，租用TPU跑Llama。 TPU一直是谷歌低调的“自家武器”，在过去十年里驱动着几乎全部核心产品。直到TPU训练的Ge"
     },
     {
-      "id": "yt_H9rF1CSSh-w",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
-      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
-      "thumbnail": "https://img.youtube.com/vi/H9rF1CSSh-w/maxresdefault.jpg",
-      "published": "2026-03-11T20:21:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_f14f8686_a6e2_47ea_92c1_ca7e71199f67",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -714,125 +493,6 @@
       "published": "2026-03-03T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "每周，有超过2.3亿人在ChatGPT上询问健康和保健问题。在人类创造的所有数据中，有30%来自医疗领域，但其中真正被利用起来的，不足5%。 一边是巨大的数据金矿，一边是与未被满足的庞大需求，这正是AI的机会。 在年初的摩根大通医疗健康大会上，我们看到医疗与AI正在加速“双向奔赴”。礼来制药与英伟达达成10亿美元合作，试图用算力重塑药物发现的底层范式；在OpenAI发布ChatGPT for He"
-    },
-    {
-      "id": "yt_SHlrUAkkWI0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
-      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
-      "thumbnail": "https://img.youtube.com/vi/SHlrUAkkWI0/maxresdefault.jpg",
-      "published": "2026-03-03T12:30:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_1SJiTwbSI58",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492",
-      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
-      "thumbnail": "https://img.youtube.com/vi/1SJiTwbSI58/maxresdefault.jpg",
-      "published": "2026-03-01T03:37:44+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_KGVpKPNUdzA",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
-      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
-      "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
-      "published": "2026-02-25T22:36:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_YFjfBk8HI5o",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
-      "thumbnail": "https://img.youtube.com/vi/YFjfBk8HI5o/maxresdefault.jpg",
-      "published": "2026-02-12T03:07:03+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_EV7WhVT270Q",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
-      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
-      "thumbnail": "https://img.youtube.com/vi/EV7WhVT270Q/maxresdefault.jpg",
-      "published": "2026-01-31T22:33:33+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Z-FRe5AKmCU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489",
-      "url": "https://www.youtube.com/watch?v=Z-FRe5AKmCU",
-      "thumbnail": "https://img.youtube.com/vi/Z-FRe5AKmCU/maxresdefault.jpg",
-      "published": "2026-01-13T20:06:59+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_14OPT6CcsH4",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | Lex Fridman Podcast #488",
-      "url": "https://www.youtube.com/watch?v=14OPT6CcsH4",
-      "thumbnail": "https://img.youtube.com/vi/14OPT6CcsH4/maxresdefault.jpg",
-      "published": "2025-12-31T21:26:17+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_96c3b4d2_20c8_4a39_bd56_17b9f8e52a8d",
