@@ -1,7 +1,109 @@
 {
-  "last_updated": "2026-05-03T02:32:41.449218Z",
+  "last_updated": "2026-05-04T02:30:57.913707Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_K46ZNekw2Tk",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The AI Operating System for Companies",
+      "url": "https://www.youtube.com/watch?v=K46ZNekw2Tk",
+      "thumbnail": "https://img.youtube.com/vi/K46ZNekw2Tk/maxresdefault.jpg",
+      "published": "2026-05-04T00:58:34+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2050970577255411756",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Kicked off a group chat for Cursor team members who occasionally angel invest. There are now 20 of us. Reach out if you're working on something new, love to share with the group!",
+      "url": "https://x.com/benln/status/2050970577255411756",
+      "images": null,
+      "published": "2026-05-03T16:07:45+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_DhYJ1GENLoQ",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "SaaS Challengers",
+      "url": "https://www.youtube.com/watch?v=DhYJ1GENLoQ",
+      "thumbnail": "https://img.youtube.com/vi/DhYJ1GENLoQ/maxresdefault.jpg",
+      "published": "2026-05-03T15:18:39+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2050919382038221198",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Gemini 的解释： 在过去，Canvas 只是“无脑”的像素画布。如果你想在 Canvas 里渲染一段 UI 或文字，你会失去浏览器原生自带的一切能力： • 没有屏幕阅读器支持（无障碍访问彻底瘫痪）。 • 无法原生长按选中文本。 • 无法处理复杂的多语言排版、连字和字体后备。 • 连最基础的点击侦测（Hit Testing），都需要开发者手写数学公式在底层模拟。 对于构建复杂生产力工具、AI 客户端界面或图形密集型应用来说，这意味着你要么在 Canvas 之上悬浮一层 DOM（容易出现同步错位和性能瓶颈），要么就像某些头部设计软件一样，咬牙从零开始用 WebGL 重写一整套文本和布局引擎。 HTML-in-Canvas 完美解决了这个痛点： 1.底层引擎分工：让 HTML 负责它最擅长的结构、语义、排版和原生交互；让 Canvas 和 GPU 负责极致的像素级特效渲染。 2.DOM 级着色器 (Shaders)：这是它爆火的核心原因。你现在可以直接将 WebGL 片段着色器应用到标准的 HTML 元素上。比如，让一个普通的 <input> 表单在打字时产生像素级的液化扭曲、扫描线切割，或者基于鼠标位置生成精确计算的 SDF (有向距离场) 动态光影。在经过 GPU 疯狂扭曲后，这个表单依然可以正常打字和响应事件。 3.3D 空间中的真实 UI：可以极其简单地将一个功能完整的 HTML 网页，当作纹理贴图完美附着在一个 3D 旋转的立方体表面，且依然可点可交互。 核心 API 原理 它的实现机制极其精简，主要依赖三个新的原语： • layoutsubtree 属性：加在 <canvas> 标签上。它允许 HTML 元素作为 Canvas 的子节点存在，并参与浏览器的正常 DOM 布局树计算，但默认不绘制到屏幕上。 • drawElementImage() 方法：将 DOM 元素捕获并绘制为 Canvas 像素。它会返回一个变换矩阵（Transform Matrix），在底层自动将真实的 DOM 物理坐标与画布上像素的渲染坐标保持完美同步。 • onpaint 事件：一个全新的响应式渲染机制。取代了传统极其消耗性能的 requestAnimationFrame 轮询，只有当子元素的渲染内容真正发生变化时，才会触发重绘。",
+      "url": "https://x.com/op7418/status/2050919382038221198",
+      "images": null,
+      "published": "2026-05-03T12:44:19+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2050916947970404617",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "目前它还处于非常早期的开发者实验阶段（Developer Trial），API 随时可能变更。如果想要体验，需要在 Chrome Canary 版本中手动开启实验性特性 Flag (chrome://flags/#canvas-draw-element)。",
+      "url": "https://x.com/op7418/status/2050916947970404617",
+      "images": null,
+      "published": "2026-05-03T12:34:39+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2050915251739369539",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这个 html-in-canvas和 Three.js 做的动画太炫了 html-in-canvas 允许开发者将真实的、可交互的 HTML 和 CSS 直接渲染到 <canvas>（包括 2D、WebGL 和 WebGPU）中。 Video",
+      "url": "https://x.com/op7418/status/2050915251739369539",
+      "images": null,
+      "published": "2026-05-03T12:27:54+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_S8Z2v2bxocM",
       "source": "Y Combinator",
@@ -223,57 +325,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2050076458266308853",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "类似 Roblox 这样的社区型游戏和社交驱动的小游戏产品会很火。 以前构建这种游戏的类型非常少，而且成本也比较高。但现在其实每个人都能构建各种游戏。 像早期的 Dota 和 PUBG 的原始玩法，其实都是一些游戏的Mod演变出来的。 所以理论上，现在基于 AI 也可以演变出非常可能是下一个爆款的游戏类型，目前只是缺一个将这些能力整合到一起的游戏平台和工具。 歸藏(guizang.ai) (@op7418) x.com/i/article/204990251725… — https://nitter.net/op7418/status/2050023375746285747#m",
-      "url": "https://x.com/op7418/status/2050076458266308853",
-      "images": null,
-      "published": "2026-05-01T04:54:50+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2050075295823339919",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这个网页效果太好了，动效非常舒适 Dawood (@DawoodUI) Details matter. The cursor is a light source Hover the headphones, the shadow elevates Drift to the stickers, the headphone shadow shifts and fades because the torch moved away Physics > pixels Small things do a big difference in achieving realism Video — https://nitter.net/DawoodUI/status/2049523470799626260#m",
-      "url": "https://x.com/op7418/status/2050075295823339919",
-      "images": null,
-      "published": "2026-05-01T04:50:13+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2050075020714815898",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "最近 GPT-Image-2.0 很多提示词又火了，比如这个拉跨鼠标手绘图，原贴有提示 CHOI (@arrakis_ai) This GPT Image 2 prompt is going insanely viral right now. “Redraw the attached image in the most clumsy, scribbly, and utterly pathetic way possible. Use a white background, and make it look like it was drawn in MS Paint with a mouse. It should be vaguely similar but also not really, kind of matching but also off in a confusing, awkward way, with that low-quality pixel-by-pixel feel that really emphasizes how ridiculously bad it is. Actually, you know what, whatever, just draw it however you want.” — https://nitter.net/arrakis_ai/status/2049689793118998717#m",
-      "url": "https://x.com/op7418/status/2050075020714815898",
-      "images": null,
-      "published": "2026-05-01T04:49:08+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_Lrh1JVxqrKE",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -473,23 +524,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_JNyuX1zoOgU",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough",
-      "url": "https://www.youtube.com/watch?v=JNyuX1zoOgU",
-      "thumbnail": "https://img.youtube.com/vi/JNyuX1zoOgU/maxresdefault.jpg",
-      "published": "2026-04-29T14:00:34+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_WeBa4ZawcPo",
       "source": "老高与茉莉",
       "sourceId": "laogao",
@@ -539,23 +573,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_pAV8f4Snx7Q",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Electronics in Space",
-      "url": "https://www.youtube.com/watch?v=pAV8f4Snx7Q",
-      "thumbnail": "https://img.youtube.com/vi/pAV8f4Snx7Q/maxresdefault.jpg",
-      "published": "2026-04-28T21:49:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_9-TVwv6wtGQ",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -597,7 +614,7 @@
         "Business",
         "AI"
       ],
-      "title": "Box CEO: Why Big Companies Are Falling Behind on AI | a16z",
+      "title": "Box CEO on AI Agents & Why Enterprise Can't Keep Up | a16z",
       "url": "https://www.youtube.com/watch?v=dvVbA9OcBqs",
       "thumbnail": "https://img.youtube.com/vi/dvVbA9OcBqs/maxresdefault.jpg",
       "published": "2026-04-28T14:30:00+00:00",
@@ -686,23 +703,6 @@
       "url": "https://x.com/benln/status/2048454219275911172",
       "images": null,
       "published": "2026-04-26T17:28:38+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2048447555868963259",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "YC on how to build a company with AI from the ground up:",
-      "url": "https://x.com/benln/status/2048447555868963259",
-      "images": null,
-      "published": "2026-04-26T17:02:10+00:00",
       "hasTranscript": false
     },
     {
