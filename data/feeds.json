@@ -1,7 +1,109 @@
 {
-  "last_updated": "2026-05-04T02:30:57.913707Z",
+  "last_updated": "2026-05-05T02:25:44.058040Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_4YzFuHk84K0",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Inference Chips for Agent Workflows",
+      "url": "https://www.youtube.com/watch?v=4YzFuHk84K0",
+      "thumbnail": "https://img.youtube.com/vi/4YzFuHk84K0/maxresdefault.jpg",
+      "published": "2026-05-04T20:11:45+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_fUI0CNg1hCc",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Digital Freedom, AI Regulation, and the Fight for the Western Internet | The a16z Show",
+      "url": "https://www.youtube.com/watch?v=fUI0CNg1hCc",
+      "thumbnail": "https://img.youtube.com/vi/fUI0CNg1hCc/maxresdefault.jpg",
+      "published": "2026-05-04T14:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_mcXrvjPKJas",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "AI-Native Discovery Engines",
+      "url": "https://www.youtube.com/watch?v=mcXrvjPKJas",
+      "thumbnail": "https://img.youtube.com/vi/mcXrvjPKJas/maxresdefault.jpg",
+      "published": "2026-05-04T14:07:19+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2051288392852242703",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "notes from: piped.video/96jN2OCOfLs",
+      "url": "https://x.com/benln/status/2051288392852242703",
+      "images": null,
+      "published": "2026-05-04T13:10:38+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2051285184369115154",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Andrej Karpathy on the shift to agentic engineering",
+      "url": "https://x.com/benln/status/2051285184369115154",
+      "images": null,
+      "published": "2026-05-04T12:57:53+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2051162957766418594",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "原作者：nitter.net/i/status/2050715622879… Zsolt Kacso (@kaolti) Always loved this glass effect. I built this interactive version with html-in-canvas and Three.js. — https://nitter.net/kaolti/status/2050715622879760502#m",
+      "url": "https://x.com/op7418/status/2051162957766418594",
+      "images": null,
+      "published": "2026-05-04T04:52:12+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_K46ZNekw2Tk",
       "source": "Y Combinator",
@@ -71,23 +173,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2050916947970404617",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "目前它还处于非常早期的开发者实验阶段（Developer Trial），API 随时可能变更。如果想要体验，需要在 Chrome Canary 版本中手动开启实验性特性 Flag (chrome://flags/#canvas-draw-element)。",
-      "url": "https://x.com/op7418/status/2050916947970404617",
-      "images": null,
-      "published": "2026-05-03T12:34:39+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2050915251739369539",
       "source": "归藏",
       "sourceId": "guizang",
@@ -98,7 +183,7 @@
         "Design"
       ],
       "title": null,
-      "content": "这个 html-in-canvas和 Three.js 做的动画太炫了 html-in-canvas 允许开发者将真实的、可交互的 HTML 和 CSS 直接渲染到 <canvas>（包括 2D、WebGL 和 WebGPU）中。 Video",
+      "content": "这个 html-in-canvas和 Three.js 做的动画太炫了 html-in-canvas 允许开发者将真实的、可交互的 HTML 和 CSS 直接渲染到 <canvas>（包括 2D、WebGL 和 WebGPU）中。",
       "url": "https://x.com/op7418/status/2050915251739369539",
       "images": null,
       "published": "2026-05-03T12:27:54+00:00",
@@ -166,7 +251,7 @@
         "Design"
       ],
       "title": null,
-      "content": "Codex 也上了宠物功能 /pet 开启 Video",
+      "content": "Codex 也上了宠物功能 /pet 开启",
       "url": "https://x.com/op7418/status/2050388122811449405",
       "images": null,
       "published": "2026-05-02T01:33:17+00:00",
@@ -216,7 +301,7 @@
         "Design"
       ],
       "title": null,
-      "content": "吴恩达新课，26 年的 AI 提示已经和 23 年有很大的不同 所以他开了一门的新的提示工程课程 Andrew Ng (@AndrewYNg) How we prompt AI is very different in 2026 than 2022 when ChatGPT came out. I'm teaching a new course, AI Prompting for Everyone, to help you become an AI power user — whatever your current skill level. It covers skills that apply across ChatGPT, Gemini, Claude, and other AI tools. How to use deep research mode for well-researched reports on complex questions. How to give AI the right context, including more documents and images than most people realize you can provide. When to ask AI to think hard for several minutes on important decisions like what car to buy, what to study, or what job to take. And how to use AI to generate images, analyze data, and build simple games and websites. I also cover intuitions about how these models work under the hood, so you know when to trust an answer and when not to. Along the way, you'll see flying squirrels, a creativity test, some of my old family photos, and fireworks. Join me at deeplearning.ai/courses/ai-p… Video — https://nitter.net/AndrewYNg/status/2049886895530967534#m",
+      "content": "吴恩达新课，26 年的 AI 提示已经和 23 年有很大的不同 所以他开了一门的新的提示工程课程 Andrew Ng (@AndrewYNg) How we prompt AI is very different in 2026 than 2022 when ChatGPT came out. I'm teaching a new course, AI Prompting for Everyone, to help you become an AI power user — whatever your current skill level. It covers skills that apply across ChatGPT, Gemini, Claude, and other AI tools. How to use deep research mode for well-researched reports on complex questions. How to give AI the right context, including more documents and images than most people realize you can provide. When to ask AI to think hard for several minutes on important decisions like what car to buy, what to study, or what job to take. And how to use AI to generate images, analyze data, and build simple games and websites. I also cover intuitions about how these models work under the hood, so you know when to trust an answer and when not to. Along the way, you'll see flying squirrels, a creativity test, some of my old family photos, and fireworks. Join me at deeplearning.ai/courses/ai-p… — https://nitter.net/AndrewYNg/status/2049886895530967534#m",
       "url": "https://x.com/op7418/status/2050250298892153045",
       "images": null,
       "published": "2026-05-01T16:25:37+00:00",
@@ -308,7 +393,7 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2050079838179135746",
+      "id": "x_2050076458266308853",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -318,10 +403,10 @@
         "Design"
       ],
       "title": null,
-      "content": "这个 GPT-Image-2.0 标注图片的提示词最近在抖音也很火，晒照片的时候会用到。 提示词： 请观察照片中的元素、并为每个物件加上有意义的 手绘风注解。请填写照片中的物品。 描述规则：•使用像白色笔画的细线手绘线条•一笔画风格、随性、略带不均匀感•沿着物件外围加上描边轮廓•用箭头或虚线做出视线引导 文字规则：•手写风格字体（日系可爱感）•句子简短、像自言自语的小碎念•语气偏日记感、带一点情绪 注解生成规则：不要过度装饰，保留空白空间 这个是我在抖音刷到的，不知道提示词是谁原创的。 歸藏(guizang.ai) (@op7418) 最近 GPT-Image-2.0 很多提示词又火了，比如这个拉跨鼠标手绘图，原贴有提示 — https://nitter.net/op7418/status/2050075020714815898#m",
-      "url": "https://x.com/op7418/status/2050079838179135746",
+      "content": "类似 Roblox 这样的社区型游戏和社交驱动的小游戏产品会很火。 以前构建这种游戏的类型非常少，而且成本也比较高。但现在其实每个人都能构建各种游戏。 像早期的 Dota 和 PUBG 的原始玩法，其实都是一些游戏的Mod演变出来的。 所以理论上，现在基于 AI 也可以演变出非常可能是下一个爆款的游戏类型，目前只是缺一个将这些能力整合到一起的游戏平台和工具。 歸藏(guizang.ai) (@op7418) x.com/i/article/204990251725… — https://nitter.net/op7418/status/2050023375746285747#m",
+      "url": "https://x.com/op7418/status/2050076458266308853",
       "images": null,
-      "published": "2026-05-01T05:08:16+00:00",
+      "published": "2026-05-01T04:54:50+00:00",
       "hasTranscript": false
     },
     {
@@ -401,28 +486,11 @@
         "Dev"
       ],
       "title": null,
-      "content": "Cursor community is everywhere. Coming to a city near you soon: cursor.com/community Video",
+      "content": "Cursor community is everywhere. Coming to a city near you soon: cursor.com/community",
       "url": "https://x.com/benln/status/2049840577252839498",
       "images": null,
       "published": "2026-04-30T13:17:32+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt__2LcG-3zCdY",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Dynamic Software Interfaces",
-      "url": "https://www.youtube.com/watch?v=_2LcG-3zCdY",
-      "thumbnail": "https://img.youtube.com/vi/_2LcG-3zCdY/maxresdefault.jpg",
-      "published": "2026-04-29T22:50:36+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_kktBVmjA19A",
@@ -456,23 +524,6 @@
       "images": null,
       "published": "2026-04-29T19:22:05+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt_ClxjYoiEirw",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "YC Paper Club",
-      "url": "https://www.youtube.com/watch?v=ClxjYoiEirw",
-      "thumbnail": "https://img.youtube.com/vi/ClxjYoiEirw/maxresdefault.jpg",
-      "published": "2026-04-29T19:17:54+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_FPDVsJWEi4E",
@@ -517,7 +568,7 @@
         "Dev"
       ],
       "title": null,
-      "content": "We’re introducing the Cursor SDK so you can build agents with the same runtime, harness, and models that power Cursor. Run agents from CI/CD pipelines, create automations for end-to-end workflows, or embed agents directly inside your products. Video",
+      "content": "We’re introducing the Cursor SDK so you can build agents with the same runtime, harness, and models that power Cursor. Run agents from CI/CD pipelines, create automations for end-to-end workflows, or embed agents directly inside your products.",
       "url": "https://x.com/benln/status/2049499866217185492",
       "images": null,
       "published": "2026-04-29T14:43:40+00:00",
@@ -656,23 +707,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2048755597483348412",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Vienna",
-      "url": "https://x.com/benln/status/2048755597483348412",
-      "images": null,
-      "published": "2026-04-27T13:26:13+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_2TGHO4apQ5I",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -687,23 +721,6 @@
       "published": "2026-04-27T11:12:22+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2048454219275911172",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "notes from @ycombinator video: piped.video/watch?v=EN7frwQI…",
-      "url": "https://x.com/benln/status/2048454219275911172",
-      "images": null,
-      "published": "2026-04-26T17:28:38+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_82HsvG1_Nqk",
@@ -928,23 +945,6 @@
       "url": "https://www.youtube.com/watch?v=uDjL9dRbtLs",
       "thumbnail": "https://img.youtube.com/vi/uDjL9dRbtLs/maxresdefault.jpg",
       "published": "2026-04-06T22:50:57+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_UE8jx4dvlSQ",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "OpenClaw, Claude Code, and the Future of Software | Peter Yang on The a16z Show",
-      "url": "https://www.youtube.com/watch?v=UE8jx4dvlSQ",
-      "thumbnail": "https://img.youtube.com/vi/UE8jx4dvlSQ/maxresdefault.jpg",
-      "published": "2026-04-06T14:30:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
