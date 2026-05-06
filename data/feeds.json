@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-05-05T02:25:44.058040Z",
+  "last_updated": "2026-05-06T02:29:29.828006Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2051845335501455605",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "OpenAI 更新了 GPT-5.5 Instant 模型，现在变成了 ChatGPT 默认模型。 模型提升了实时准确性和日常任务的表现，主要改进： 性能优化：在法律、金融、医学等领域的幻觉率明显下降。同时，在图片理解和文档解析方面表现更好。 表达风格：回答更加紧凑且聚焦要点，减少了无用的铺垫和过渡排版。简单来说就是废话变少了，之前的 5.5 版本（GPT-5.5）确实废话有点多。此外，个性化能力也得到了提升。 发布状态：今天已经全量发布。ChatGPT 已经将其设为默认模型，Codex 没有更新。 新功能引入：在 GPT 中引入了记忆来源功能。你可以通过控件可视化地查看 memory 来自什么地方，如果发现有问题，也可以直接编辑它。 OpenAI (@OpenAI) GPT-5.5 Instant is starting to roll out in ChatGPT. It’s a big upgrade, giving you smarter, clearer, and more personalized answers in a warmer, more natural tone. And it's also more concise, which we heard you wanted. We think you'll love chatting with it. Video — https://nitter.net/OpenAI/status/2051709028250915275#m",
+      "url": "https://x.com/op7418/status/2051845335501455605",
+      "images": null,
+      "published": "2026-05-06T02:03:44+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2051725979173720231",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Take a peek if you’re a Cursor fan and want to do more with us. We’re keeping this program small, but doing our best to bring on new members!",
+      "url": "https://x.com/benln/status/2051725979173720231",
+      "images": null,
+      "published": "2026-05-05T18:09:27+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_y5hogSW2mqU",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Prep for sales meetings faster with Codex",
+      "url": "https://www.youtube.com/watch?v=y5hogSW2mqU",
+      "thumbnail": "https://img.youtube.com/vi/y5hogSW2mqU/maxresdefault.jpg",
+      "published": "2026-05-05T15:08:56+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_Z4i1adGvD2A",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Investor Behind Costco, Starbucks, and Blackstone | Tony James on The a16z Show",
+      "url": "https://www.youtube.com/watch?v=Z4i1adGvD2A",
+      "thumbnail": "https://img.youtube.com/vi/Z4i1adGvD2A/maxresdefault.jpg",
+      "published": "2026-05-05T14:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2051637777297535236",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Lagos",
+      "url": "https://x.com/benln/status/2051637777297535236",
+      "images": null,
+      "published": "2026-05-05T12:18:58+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_4YzFuHk84K0",
       "source": "Y Combinator",
@@ -98,7 +182,7 @@
         "Design"
       ],
       "title": null,
-      "content": "原作者：nitter.net/i/status/2050715622879… Zsolt Kacso (@kaolti) Always loved this glass effect. I built this interactive version with html-in-canvas and Three.js. — https://nitter.net/kaolti/status/2050715622879760502#m",
+      "content": "原作者：nitter.net/i/status/2050715622879… Zsolt Kacso (@kaolti) Always loved this glass effect. I built this interactive version with html-in-canvas and Three.js. Video — https://nitter.net/kaolti/status/2050715622879760502#m",
       "url": "https://x.com/op7418/status/2051162957766418594",
       "images": null,
       "published": "2026-05-04T04:52:12+00:00",
@@ -183,7 +267,7 @@
         "Design"
       ],
       "title": null,
-      "content": "这个 html-in-canvas和 Three.js 做的动画太炫了 html-in-canvas 允许开发者将真实的、可交互的 HTML 和 CSS 直接渲染到 <canvas>（包括 2D、WebGL 和 WebGPU）中。",
+      "content": "这个 html-in-canvas和 Three.js 做的动画太炫了 html-in-canvas 允许开发者将真实的、可交互的 HTML 和 CSS 直接渲染到 <canvas>（包括 2D、WebGL 和 WebGPU）中。 Video",
       "url": "https://x.com/op7418/status/2050915251739369539",
       "images": null,
       "published": "2026-05-03T12:27:54+00:00",
@@ -251,7 +335,7 @@
         "Design"
       ],
       "title": null,
-      "content": "Codex 也上了宠物功能 /pet 开启",
+      "content": "Codex 也上了宠物功能 /pet 开启 Video",
       "url": "https://x.com/op7418/status/2050388122811449405",
       "images": null,
       "published": "2026-05-02T01:33:17+00:00",
@@ -301,7 +385,7 @@
         "Design"
       ],
       "title": null,
-      "content": "吴恩达新课，26 年的 AI 提示已经和 23 年有很大的不同 所以他开了一门的新的提示工程课程 Andrew Ng (@AndrewYNg) How we prompt AI is very different in 2026 than 2022 when ChatGPT came out. I'm teaching a new course, AI Prompting for Everyone, to help you become an AI power user — whatever your current skill level. It covers skills that apply across ChatGPT, Gemini, Claude, and other AI tools. How to use deep research mode for well-researched reports on complex questions. How to give AI the right context, including more documents and images than most people realize you can provide. When to ask AI to think hard for several minutes on important decisions like what car to buy, what to study, or what job to take. And how to use AI to generate images, analyze data, and build simple games and websites. I also cover intuitions about how these models work under the hood, so you know when to trust an answer and when not to. Along the way, you'll see flying squirrels, a creativity test, some of my old family photos, and fireworks. Join me at deeplearning.ai/courses/ai-p… — https://nitter.net/AndrewYNg/status/2049886895530967534#m",
+      "content": "吴恩达新课，26 年的 AI 提示已经和 23 年有很大的不同 所以他开了一门的新的提示工程课程 Andrew Ng (@AndrewYNg) How we prompt AI is very different in 2026 than 2022 when ChatGPT came out. I'm teaching a new course, AI Prompting for Everyone, to help you become an AI power user — whatever your current skill level. It covers skills that apply across ChatGPT, Gemini, Claude, and other AI tools. How to use deep research mode for well-researched reports on complex questions. How to give AI the right context, including more documents and images than most people realize you can provide. When to ask AI to think hard for several minutes on important decisions like what car to buy, what to study, or what job to take. And how to use AI to generate images, analyze data, and build simple games and websites. I also cover intuitions about how these models work under the hood, so you know when to trust an answer and when not to. Along the way, you'll see flying squirrels, a creativity test, some of my old family photos, and fireworks. Join me at deeplearning.ai/courses/ai-p… Video — https://nitter.net/AndrewYNg/status/2049886895530967534#m",
       "url": "https://x.com/op7418/status/2050250298892153045",
       "images": null,
       "published": "2026-05-01T16:25:37+00:00",
@@ -373,23 +457,6 @@
       "url": "https://x.com/op7418/status/2050213540519440551",
       "images": null,
       "published": "2026-05-01T13:59:33+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2050211168162304128",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "有些游戏圈的人确实是，哎。我就是说这个门槛低了以后，一些有能力的人能做好游戏，但是受限于技术能力的人，可以做一些好的东西出来，整个生态会非常繁荣。 也不知道是真看不懂呢，还是就想抬个杠。我也没说自己做的东西很好，我也没说我这个游戏会火，就非得往上扯一扯，展示一下自己的高贵。",
-      "url": "https://x.com/op7418/status/2050211168162304128",
-      "images": null,
-      "published": "2026-05-01T13:50:08+00:00",
       "hasTranscript": false
     },
     {
@@ -486,7 +553,7 @@
         "Dev"
       ],
       "title": null,
-      "content": "Cursor community is everywhere. Coming to a city near you soon: cursor.com/community",
+      "content": "Cursor community is everywhere. Coming to a city near you soon: cursor.com/community Video",
       "url": "https://x.com/benln/status/2049840577252839498",
       "images": null,
       "published": "2026-04-30T13:17:32+00:00",
@@ -568,7 +635,7 @@
         "Dev"
       ],
       "title": null,
-      "content": "We’re introducing the Cursor SDK so you can build agents with the same runtime, harness, and models that power Cursor. Run agents from CI/CD pipelines, create automations for end-to-end workflows, or embed agents directly inside your products.",
+      "content": "We’re introducing the Cursor SDK so you can build agents with the same runtime, harness, and models that power Cursor. Run agents from CI/CD pipelines, create automations for end-to-end workflows, or embed agents directly inside your products. Video",
       "url": "https://x.com/benln/status/2049499866217185492",
       "images": null,
       "published": "2026-04-29T14:43:40+00:00",
@@ -669,56 +736,6 @@
       "url": "https://www.youtube.com/watch?v=dvVbA9OcBqs",
       "thumbnail": "https://img.youtube.com/vi/dvVbA9OcBqs/maxresdefault.jpg",
       "published": "2026-04-28T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2049121588671291709",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "notes from @ycombinator: ycombinator.com/rfs",
-      "url": "https://x.com/benln/status/2049121588671291709",
-      "images": null,
-      "published": "2026-04-28T13:40:32+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2049117209750900865",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Y Combinator's Summer 2026 request for startups:",
-      "url": "https://x.com/benln/status/2049117209750900865",
-      "images": null,
-      "published": "2026-04-28T13:23:08+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_2TGHO4apQ5I",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Ritu vs Case Files | With ChatGPT",
-      "url": "https://www.youtube.com/watch?v=2TGHO4apQ5I",
-      "thumbnail": "https://img.youtube.com/vi/2TGHO4apQ5I/maxresdefault.jpg",
-      "published": "2026-04-27T11:12:22+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -928,23 +945,6 @@
       "url": "https://www.youtube.com/watch?v=oheUsh7VtKY",
       "thumbnail": "https://img.youtube.com/vi/oheUsh7VtKY/maxresdefault.jpg",
       "published": "2026-04-07T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_uDjL9dRbtLs",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "We’re going back to the moon.",
-      "url": "https://www.youtube.com/watch?v=uDjL9dRbtLs",
-      "thumbnail": "https://img.youtube.com/vi/uDjL9dRbtLs/maxresdefault.jpg",
-      "published": "2026-04-06T22:50:57+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
