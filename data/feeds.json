@@ -1,23 +1,125 @@
 {
-  "last_updated": "2026-05-07T02:31:54.300699Z",
-  "count": 51,
+  "last_updated": "2026-05-08T02:38:16.864090Z",
+  "count": 31,
   "items": [
     {
-      "id": "yt_nepKKz-MzFM",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
+      "id": "x_2052427824120951212",
+      "source": "归藏",
+      "sourceId": "guizang",
       "sourceAvatar": null,
-      "platform": "youtube",
+      "platform": "x",
       "domains": [
         "AI",
-        "Business"
+        "Design"
       ],
-      "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "thumbnail": "https://img.youtube.com/vi/nepKKz-MzFM/maxresdefault.jpg",
-      "published": "2026-05-06T22:03:16+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
+      "title": null,
+      "content": "GPT-image-2.0 + Seedance 2.0 Video",
+      "url": "https://x.com/op7418/status/2052427824120951212",
+      "images": null,
+      "published": "2026-05-07T16:38:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2052372167593963687",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Y Combinator job board > LinkedIn Founders DM you directly",
+      "url": "https://x.com/benln/status/2052372167593963687",
+      "images": null,
+      "published": "2026-05-07T12:57:10+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2052238351542202636",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "感觉后面 Mac Studio 估计也会供不应求，我还是先买一个吧",
+      "url": "https://x.com/op7418/status/2052238351542202636",
+      "images": null,
+      "published": "2026-05-07T04:05:26+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2052237136401989805",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "过去一段时间，最值得的硬件投资可能就是我那个最低配的 Mac mini 了。 在年前买了以后，到现在几乎只关过一次机；在我出门旅游之类的时候，它一直运行得非常稳定，相当于一个自己的 Agent 服务器了。 随着里面跑的东西越来越多，现在有时候感到有点捉襟见肘了，所以就换了一个 Mac Studio。 结果发现 Mac Studio 现在供货也不足了，官方渠道买的话要等好久。",
+      "url": "https://x.com/op7418/status/2052237136401989805",
+      "images": null,
+      "published": "2026-05-07T04:00:36+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2052233857735512314",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Obsidian 作者这两条推很有意思。 Markdown 文件已经事实上成为了当前 AI 文件交互的一个 Schelling point。 大家都默契地选择将自己的文本文件系统变为 Markdown 格式后再进行其他工作。 Markdown 赢得了 AI 时代文本格式的战争。基本上，现在 AI 时代的文本格式和内容展示被局限在了 HTML 和 Markdown 两个部分： 我们最近经常看到圈子里的朋友在发送文本的时候用 Markdown。 在进行演示的时候用的是 HTML（包括最近层出不穷的 PPT Skills 也都是以网页的形式去推广的）。 既然 Markdown 已经成为了事实上的基准，那我们就应该进行下一步了。 Markdown 本身的展示目前非常死板，市场想要更多、更独特的方式来和现有的 Markdown 文件去交互。 当 6 年前 Obsidian 把本地文件夹、双向链接和知识图谱跟 Markdown 结合起来的时候，很多人不太理解这个产品，觉得很难用。 但现在它不仅是个人知识管理的常态，也是 AI 内容管理非常重要的一种方式。 例如我的 CodePilot 里面没有复杂的 memory 机制，所有的 memory 其实都是靠 MD 文件完成的。所以目前需要跳出文本编辑器的思路： 最近很多人在做 Markdown 编辑器，但其实应该跳出这个思路。 将 Markdown 作为一个数据去使用，构建更加跳脱常规的人机交互体验。 比如我的 CodePilot 里的 widget，它可以支持让 AI 用你本地的 memory 和 Markdown 文件作为数据来源。 当你的本地文件发生变化时，你的 widget 组件也会随之发生变化。 kepano (@kepano) Weird isn't just visual. Weird is whatever strays from the norm. Weird is relative to the current state of the world. You can have weird principles. They should be things people can legitimately disagree with. You have to remember Obsidian was very weird when it launched six years ago. Local files, malleability, backlinks, graph, even Markdown syntax... these were not as widely understood and accepted as they are today. That's why I spent so much time writing essays like \"File over app\" to try and explain our choices. The goal was to describe why our weird ideas should be normal, and it worked! Now the world has somewhat caught up and accepted those choices, so it's time to find the next frontier of weirdness. — https://nitter.net/kepano/status/2052013544712163376#m",
+      "url": "https://x.com/op7418/status/2052233857735512314",
+      "images": null,
+      "published": "2026-05-07T03:47:35+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2052230721109143601",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "昨天 Claude 演讲的开场动画，只用点阵动画和 Claude 的像素形象，但是效果非常丰富而且节奏很好 Andreas Storm (@avstorm) The Code with Claude keynote intro had no right being that cute. Video — https://nitter.net/avstorm/status/2052060231786520685#m",
+      "url": "https://x.com/op7418/status/2052230721109143601",
+      "images": null,
+      "published": "2026-05-07T03:35:07+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2052226647475282230",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "5 千多 Star 了，上涨速度真快啊 歸藏(guizang.ai) (@op7418) x.com/i/article/204748417125… — https://nitter.net/op7418/status/2047486546300051478#m",
+      "url": "https://x.com/op7418/status/2052226647475282230",
+      "images": null,
+      "published": "2026-05-07T03:18:55+00:00",
+      "hasTranscript": false
     },
     {
       "id": "x_2052068412688629946",
@@ -52,23 +154,6 @@
       "images": null,
       "published": "2026-05-06T16:22:41+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt_6cCWrrQp1v4",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Inside NASA's Plan to Return to The Moon, Reach Mars, and Go Nuclear | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=6cCWrrQp1v4",
-      "thumbnail": "https://img.youtube.com/vi/6cCWrrQp1v4/maxresdefault.jpg",
-      "published": "2026-05-06T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "x_2052008806612193654",
@@ -122,40 +207,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2051866758332735838",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "最近有两个非常出圈、非常牛逼的短剧： 一个是《Enemy》，一个是《吉时已到》，可以看看 热度爆表，制作效果也很好，成本不高 如果要做 AI 内容，或者说做 AI 短剧之类的内容的话可以把这两个剧当成暂时的质量标杆去对齐",
-      "url": "https://x.com/op7418/status/2051866758332735838",
-      "images": null,
-      "published": "2026-05-06T03:28:51+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2051845335501455605",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "OpenAI 更新了 GPT-5.5 Instant 模型，现在变成了 ChatGPT 默认模型。 模型提升了实时准确性和日常任务的表现，主要改进： 性能优化：在法律、金融、医学等领域的幻觉率明显下降。同时，在图片理解和文档解析方面表现更好。 表达风格：回答更加紧凑且聚焦要点，减少了无用的铺垫和过渡排版。简单来说就是废话变少了，之前的 5.5 版本（GPT-5.5）确实废话有点多。此外，个性化能力也得到了提升。 发布状态：今天已经全量发布。ChatGPT 已经将其设为默认模型，Codex 没有更新。 新功能引入：在 GPT 中引入了记忆来源功能。你可以通过控件可视化地查看 memory 来自什么地方，如果发现有问题，也可以直接编辑它。 OpenAI (@OpenAI) GPT-5.5 Instant is starting to roll out in ChatGPT. It’s a big upgrade, giving you smarter, clearer, and more personalized answers in a warmer, more natural tone. And it's also more concise, which we heard you wanted. We think you'll love chatting with it. Video — https://nitter.net/OpenAI/status/2051709028250915275#m",
-      "url": "https://x.com/op7418/status/2051845335501455605",
-      "images": null,
-      "published": "2026-05-06T02:03:44+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2051725979173720231",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -173,23 +224,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_Z4i1adGvD2A",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Investor Behind Costco, Starbucks, and Blackstone | Tony James on The a16z Show",
-      "url": "https://www.youtube.com/watch?v=Z4i1adGvD2A",
-      "thumbnail": "https://img.youtube.com/vi/Z4i1adGvD2A/maxresdefault.jpg",
-      "published": "2026-05-05T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2051637777297535236",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -205,23 +239,6 @@
       "images": null,
       "published": "2026-05-05T12:18:58+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt_fUI0CNg1hCc",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Digital Freedom, AI Regulation, and the Fight for the Western Internet | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=fUI0CNg1hCc",
-      "thumbnail": "https://img.youtube.com/vi/fUI0CNg1hCc/maxresdefault.jpg",
-      "published": "2026-05-04T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "x_2051288392852242703",
@@ -258,23 +275,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2051162957766418594",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "原作者：nitter.net/i/status/2050715622879… Zsolt Kacso (@kaolti) Always loved this glass effect. I built this interactive version with html-in-canvas and Three.js. Video — https://nitter.net/kaolti/status/2050715622879760502#m",
-      "url": "https://x.com/op7418/status/2051162957766418594",
-      "images": null,
-      "published": "2026-05-04T04:52:12+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2050970577255411756",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -289,57 +289,6 @@
       "url": "https://x.com/benln/status/2050970577255411756",
       "images": null,
       "published": "2026-05-03T16:07:45+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2050919382038221198",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Gemini 的解释： 在过去，Canvas 只是“无脑”的像素画布。如果你想在 Canvas 里渲染一段 UI 或文字，你会失去浏览器原生自带的一切能力： • 没有屏幕阅读器支持（无障碍访问彻底瘫痪）。 • 无法原生长按选中文本。 • 无法处理复杂的多语言排版、连字和字体后备。 • 连最基础的点击侦测（Hit Testing），都需要开发者手写数学公式在底层模拟。 对于构建复杂生产力工具、AI 客户端界面或图形密集型应用来说，这意味着你要么在 Canvas 之上悬浮一层 DOM（容易出现同步错位和性能瓶颈），要么就像某些头部设计软件一样，咬牙从零开始用 WebGL 重写一整套文本和布局引擎。 HTML-in-Canvas 完美解决了这个痛点： 1.底层引擎分工：让 HTML 负责它最擅长的结构、语义、排版和原生交互；让 Canvas 和 GPU 负责极致的像素级特效渲染。 2.DOM 级着色器 (Shaders)：这是它爆火的核心原因。你现在可以直接将 WebGL 片段着色器应用到标准的 HTML 元素上。比如，让一个普通的 <input> 表单在打字时产生像素级的液化扭曲、扫描线切割，或者基于鼠标位置生成精确计算的 SDF (有向距离场) 动态光影。在经过 GPU 疯狂扭曲后，这个表单依然可以正常打字和响应事件。 3.3D 空间中的真实 UI：可以极其简单地将一个功能完整的 HTML 网页，当作纹理贴图完美附着在一个 3D 旋转的立方体表面，且依然可点可交互。 核心 API 原理 它的实现机制极其精简，主要依赖三个新的原语： • layoutsubtree 属性：加在 <canvas> 标签上。它允许 HTML 元素作为 Canvas 的子节点存在，并参与浏览器的正常 DOM 布局树计算，但默认不绘制到屏幕上。 • drawElementImage() 方法：将 DOM 元素捕获并绘制为 Canvas 像素。它会返回一个变换矩阵（Transform Matrix），在底层自动将真实的 DOM 物理坐标与画布上像素的渲染坐标保持完美同步。 • onpaint 事件：一个全新的响应式渲染机制。取代了传统极其消耗性能的 requestAnimationFrame 轮询，只有当子元素的渲染内容真正发生变化时，才会触发重绘。",
-      "url": "https://x.com/op7418/status/2050919382038221198",
-      "images": null,
-      "published": "2026-05-03T12:44:19+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2050915251739369539",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这个 html-in-canvas和 Three.js 做的动画太炫了 html-in-canvas 允许开发者将真实的、可交互的 HTML 和 CSS 直接渲染到 <canvas>（包括 2D、WebGL 和 WebGPU）中。 Video",
-      "url": "https://x.com/op7418/status/2050915251739369539",
-      "images": null,
-      "published": "2026-05-03T12:27:54+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2050388122811449405",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codex 也上了宠物功能 /pet 开启 Video",
-      "url": "https://x.com/op7418/status/2050388122811449405",
-      "images": null,
-      "published": "2026-05-02T01:33:17+00:00",
       "hasTranscript": false
     },
     {
@@ -394,57 +343,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2049499866217185492",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "We’re introducing the Cursor SDK so you can build agents with the same runtime, harness, and models that power Cursor. Run agents from CI/CD pipelines, create automations for end-to-end workflows, or embed agents directly inside your products. Video",
-      "url": "https://x.com/benln/status/2049499866217185492",
-      "images": null,
-      "published": "2026-04-29T14:43:40+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_dvVbA9OcBqs",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Box CEO on AI Agents & Why Enterprise Can't Keep Up | a16z",
-      "url": "https://www.youtube.com/watch?v=dvVbA9OcBqs",
-      "thumbnail": "https://img.youtube.com/vi/dvVbA9OcBqs/maxresdefault.jpg",
-      "published": "2026-04-28T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_82HsvG1_Nqk",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Marc Andreessen on how the internet changed news, politics, and outrage | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=82HsvG1_Nqk",
-      "thumbnail": "https://img.youtube.com/vi/82HsvG1_Nqk/maxresdefault.jpg",
-      "published": "2026-04-22T15:40:46+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_b2be7093_3366_4ee2_8a7a_625f06206ae5",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -483,91 +381,6 @@
       "transcriptPreview": "Peter Thiel，是硅谷最具争议和影响力的思想家之一。如果要用一句话概括他的思想，那就是：世界是由少数天选之人在幕后驱动的，而他就是其中之一。这套理论，不仅在以他为核心的“硅谷右翼”圈子中产生了影响，还通过Peter Thiel的政治参与，影响了更多的人。 那么，Peter Thiel的思想，又来源于什么呢？要理解他，答案藏在三位哲学家身上：法国文学批评理论家吉拉尔、纳粹党员法学家施密特、和"
     },
     {
-      "id": "yt_Mjc7vwys1vY",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Why Claude Feels Different (And What That Means for AI) | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=Mjc7vwys1vY",
-      "thumbnail": "https://img.youtube.com/vi/Mjc7vwys1vY/maxresdefault.jpg",
-      "published": "2026-04-16T14:34:01+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_IZDJ3jcO5UY",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Ben Horowitz on AI Anxiety, Big Tech Transitions & The Future of Startups | a16z",
-      "url": "https://www.youtube.com/watch?v=IZDJ3jcO5UY",
-      "thumbnail": "https://img.youtube.com/vi/IZDJ3jcO5UY/maxresdefault.jpg",
-      "published": "2026-04-14T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_yiJOTCRVWjc",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Building Agents at Home: Homeschooling, Parenting and More | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=yiJOTCRVWjc",
-      "thumbnail": "https://img.youtube.com/vi/yiJOTCRVWjc/maxresdefault.jpg",
-      "published": "2026-04-13T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_yHqqYCWl4Cc",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Why Instagram load times are so fast",
-      "url": "https://www.youtube.com/watch?v=yHqqYCWl4Cc",
-      "thumbnail": "https://img.youtube.com/vi/yHqqYCWl4Cc/maxresdefault.jpg",
-      "published": "2026-04-11T19:00:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_iKx3gAODybU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "thumbnail": "https://img.youtube.com/vi/iKx3gAODybU/maxresdefault.jpg",
-      "published": "2026-04-09T17:35:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_3bb14dd4_0b13_4173_9d5b_0e63bf98ae1d",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -585,23 +398,6 @@
       "published": "2026-04-09T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "2025年，中国餐饮品牌开启了声势浩大的出海美国。喜茶在纽约开出了更具辨识度的LAB店，霸王茶姬、瑞幸和蜜雪冰城也在这一年正式登陆美国。 但要问目前在美国做得最好的中餐和茶饮品牌，答案可能会出乎你意料——中餐第一是一度退出中国华北市场的鼎泰丰，茶饮标杆则是早在内地销声匿迹的贡茶。 究其原因，餐饮企业想顺利出海美国，不仅需要足够的“做时间的朋友”的耐心，需要对当地商业规则足够了解，更要吃透当地主流人"
-    },
-    {
-      "id": "yt_dvt_74kV-RM",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Box CEO on the AI Adoption Gap | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=dvt_74kV-RM",
-      "thumbnail": "https://img.youtube.com/vi/dvt_74kV-RM/maxresdefault.jpg",
-      "published": "2026-04-08T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_0f4a2ab9_d3a0_41ad_8db1_6c03c851bd70",
@@ -642,23 +438,6 @@
       "transcriptPreview": "本期播客是硅谷101在GTC 2026大会期间的线下特别录制，我们从老黄在Keynote上抛出的那几个大数字开始聊起： 1万亿——这是黄仁勋预期到2027年底，Blackwell和Vera Rubin两个平台带来的订单收入。 7块——这是大会一次性发布的Vera Rubin新芯片数量。 10倍、35倍——这是Vera Rubin NVL72 AI机架系统，相比Blackwell，它的推理效率提升了"
     },
     {
-      "id": "yt_vif8NQcjVf0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
-      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
-      "thumbnail": "https://img.youtube.com/vi/vif8NQcjVf0/maxresdefault.jpg",
-      "published": "2026-03-23T16:24:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_c457ca43_1305_44a3_b9cc_c68480802396",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -697,23 +476,6 @@
       "transcriptPreview": "在AI算力争霸时代，英伟达凭借GPU市值一路狂飙。但如今，它的蛋糕正在被一点点分食——2024年，苹果论文披露Apple Intelligence全部由TPU训练；2025年，Anthropic签下数十亿美元订单，购买TPU训练Claude；近期，Meta与谷歌签署数十亿美元协议，租用TPU跑Llama。 TPU一直是谷歌低调的“自家武器”，在过去十年里驱动着几乎全部核心产品。直到TPU训练的Ge"
     },
     {
-      "id": "yt_H9rF1CSSh-w",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
-      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
-      "thumbnail": "https://img.youtube.com/vi/H9rF1CSSh-w/maxresdefault.jpg",
-      "published": "2026-03-11T20:21:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_f14f8686_a6e2_47ea_92c1_ca7e71199f67",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -731,108 +493,6 @@
       "published": "2026-03-03T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "每周，有超过2.3亿人在ChatGPT上询问健康和保健问题。在人类创造的所有数据中，有30%来自医疗领域，但其中真正被利用起来的，不足5%。 一边是巨大的数据金矿，一边是与未被满足的庞大需求，这正是AI的机会。 在年初的摩根大通医疗健康大会上，我们看到医疗与AI正在加速“双向奔赴”。礼来制药与英伟达达成10亿美元合作，试图用算力重塑药物发现的底层范式；在OpenAI发布ChatGPT for He"
-    },
-    {
-      "id": "yt_SHlrUAkkWI0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
-      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
-      "thumbnail": "https://img.youtube.com/vi/SHlrUAkkWI0/maxresdefault.jpg",
-      "published": "2026-03-03T12:30:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_1SJiTwbSI58",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492",
-      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
-      "thumbnail": "https://img.youtube.com/vi/1SJiTwbSI58/maxresdefault.jpg",
-      "published": "2026-03-01T03:37:44+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_KGVpKPNUdzA",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
-      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
-      "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
-      "published": "2026-02-25T22:36:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_YFjfBk8HI5o",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
-      "thumbnail": "https://img.youtube.com/vi/YFjfBk8HI5o/maxresdefault.jpg",
-      "published": "2026-02-12T03:07:03+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_EV7WhVT270Q",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
-      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
-      "thumbnail": "https://img.youtube.com/vi/EV7WhVT270Q/maxresdefault.jpg",
-      "published": "2026-01-31T22:33:33+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Z-FRe5AKmCU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489",
-      "url": "https://www.youtube.com/watch?v=Z-FRe5AKmCU",
-      "thumbnail": "https://img.youtube.com/vi/Z-FRe5AKmCU/maxresdefault.jpg",
-      "published": "2026-01-13T20:06:59+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_96c3b4d2_20c8_4a39_bd56_17b9f8e52a8d",
