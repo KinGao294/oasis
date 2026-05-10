@@ -1,7 +1,126 @@
 {
-  "last_updated": "2026-05-09T02:31:44.638789Z",
+  "last_updated": "2026-05-10T02:35:20.233465Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2053143307371556944",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告 歸藏(guizang.ai) (@op7418) x.com/i/article/204748417125… — https://nitter.net/op7418/status/2047486546300051478#m",
+      "url": "https://x.com/op7418/status/2053143307371556944",
+      "images": null,
+      "published": "2026-05-09T16:01:24+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2053065172873560499",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "北京这几天的夕阳是真漂亮。",
+      "url": "https://x.com/op7418/status/2053065172873560499",
+      "images": null,
+      "published": "2026-05-09T10:50:55+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2053029220960645214",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我们也做了一个轻松的决定 欢迎大家加入全球最AI Native的公司 base 上海 hr@dmyh.tech 歸藏(guizang.ai) (@op7418) Linear 的人用这种道歉的语气招人，嘲讽那些以用 AI 为理由裁员的公司 — https://nitter.net/op7418/status/2052925146290417977#m",
+      "url": "https://x.com/op7418/status/2053029220960645214",
+      "images": null,
+      "published": "2026-05-09T08:28:04+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2053020181853778289",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Mac Studio 也没货了 歸藏(guizang.ai) (@op7418) 过去一段时间，最值得的硬件投资可能就是我那个最低配的 Mac mini 了。 在年前买了以后，到现在几乎只关过一次机；在我出门旅游之类的时候，它一直运行得非常稳定，相当于一个自己的 Agent 服务器了。 随着里面跑的东西越来越多，现在有时候感到有点捉襟见肘了，所以就换了一个 Mac Studio。 结果发现 Mac Studio 现在供货也不足了，官方渠道买的话要等好久。 — https://nitter.net/op7418/status/2052237136401989805#m",
+      "url": "https://x.com/op7418/status/2053020181853778289",
+      "images": null,
+      "published": "2026-05-09T07:52:09+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2052995231126376879",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "欸，真的对不起大家。 我们也做了一个艰难的决定，决定增加我们的员工队伍。 Agent 工程师真的不嫌多，欢迎大家来聊聊。 k@marswave.ai 歸藏(guizang.ai) (@op7418) Linear 的人用这种道歉的语气招人，嘲讽那些以用 AI 为理由裁员的公司 — https://nitter.net/op7418/status/2052925146290417977#m",
+      "url": "https://x.com/op7418/status/2052995231126376879",
+      "images": null,
+      "published": "2026-05-09T06:13:00+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2052961068918677554",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "哎，这些用 AI 回复的哥们儿真是删都删不完。",
+      "url": "https://x.com/op7418/status/2052961068918677554",
+      "images": null,
+      "published": "2026-05-09T03:57:15+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2052943672556274040",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "当前 AI 产品演进已经确立了一个清晰的行业共识： 采取数据与表现分离的架构，以 Markdown 负责底层逻辑与记忆的纯净存储，用 HTML 实现对外的高密度交互与展示。 这个思路的脉络是，前几天借着 Obsidian 作者提出 Markdown 是 AI 内容谢林点的观点，我发散讨论了当前 AI 原生格式主要分为 Markdown 和 HTML。 刚好今天 Claude Code 的作者也发文印证了这一点，他提到自己主要的对外分享形式已经全面转向 HTML。这两位前沿开发者的观点结合在一起，非常完整地勾勒出了这套方案的底层逻辑。 在这个架构中，Markdown 的绝对角色是底层的逻辑和记忆。所有的事实性内容都必须使用 Markdown 存储，它作为核心的底层 Memory，是最适合作为原始数据的载体。 而 HTML 则全面接管了表现层和对外展示。Markdown 最大的缺陷在于篇幅变长后极难阅读和理解，但 HTML 可以通过精细的排版组织、空间定位和视觉元素，达到极高的信息密度，同时还能支持极其丰富的可交互形式。 HTML 也有明显痛点，极不适合做状态的版本控制。 在产品的迭代过程中，HTML 不能作为原始数据直接供 AI 消费。因为它内部混杂了大量的代码结构和样式等非事实类内容，这不仅会让人类在审阅版本差异时面临巨大的噪音，也会让 AI 浪费大量的 Token 额度。 所以构建 AI 产品的核心就在于彻底分离数据层和表现层。底层数据应该继续以 Obsidian 这种成熟的 Markdown 组织形式为核心运转； 而在遇到需要对外分享或交流的场景时，再将内容渲染为 HTML，并部署到类似 S3 这样的平台上，让用户拥有一键打开就能直接消费的顺滑体验。 未来的 AI 产品也必然会沿着这条数据与表现解耦的路径继续发展。 Thariq (@trq212) x.com/i/article/205279610060… — https://nitter.net/trq212/status/2052809885763747935#m",
+      "url": "https://x.com/op7418/status/2052943672556274040",
+      "images": null,
+      "published": "2026-05-09T02:48:08+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2052925146290417977",
       "source": "归藏",
@@ -98,29 +217,12 @@
         "Business",
         "AI"
       ],
-      "title": "Why Silicon Valley Should Build for National Interest | Ben Horowitz on a16z",
+      "title": "Ben Horowitz on American Dynamism and the Future of AI | The a16z Show",
       "url": "https://www.youtube.com/watch?v=X9k53P-2SOg",
       "thumbnail": "https://img.youtube.com/vi/X9k53P-2SOg/maxresdefault.jpg",
       "published": "2026-05-08T15:46:18+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2052764933696475279",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "最近抖音上把你的户外照片做成“法天象地”效果的图片非常火。 他们大多是生成的图片，但我试了一下，直接生成视频的效果会更好。 优化了一下提示词，主要是 GPT-Image-2.0 加上 C-Down 3.0。图片的提示词我放在视频后面了。 Video",
-      "url": "https://x.com/op7418/status/2052764933696475279",
-      "images": null,
-      "published": "2026-05-08T14:57:53+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_57lDpTwiW6g",
@@ -132,7 +234,7 @@
         "Business",
         "AI"
       ],
-      "title": "Thin Harness, Fat Skills: The New Way To Build Software",
+      "title": "Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers",
       "url": "https://www.youtube.com/watch?v=57lDpTwiW6g",
       "thumbnail": "https://img.youtube.com/vi/57lDpTwiW6g/maxresdefault.jpg",
       "published": "2026-05-08T14:30:06+00:00",
@@ -174,40 +276,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2052577119633551814",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "而且它会开一个分组，让你能找到它正在控制哪个网页，无论是在 Chrome 还是其他支持 Tab 分组的浏览器里",
-      "url": "https://x.com/op7418/status/2052577119633551814",
-      "images": null,
-      "published": "2026-05-08T02:31:35+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2052576841656099037",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codex 越来越猛了，昨天更新增加了内置的谷歌浏览器插件，可以直接控制你的谷歌浏览器执行任务。 而且它可以在后台跨浏览器页面并行工作，不耽误你正常使用浏览器。所谓“并行工作”，指的是你可以启动多个子 SubAgent 帮你操作多个网页。 我试了一下，发现最厉害的一点是：它不仅可以控制 Chrome，任何基于 Chromium 的浏览器都是可以的。比如我这里用的是 Dia 浏览器，我在 Dia 浏览器安装了一个插件，它就可以直接控制我的 Dia 浏览器。 具体如何使用呢？ 在 Codex 的插件库里找到 Chrome 这个插件。 点击添加，随后它会引导你打开浏览器插件的安装页面。 点击打开并安装即可。 安装完成后就可以直接给它下达任务了。这种支持并发且不影响用户原生操作的体验真的很爽。而且 Mac 和 Windows 都支持。 OpenAI (@OpenAI) Codex now works directly in Chrome on macOS and Windows. It’s even better at working with apps and sites in Chrome, and now works in parallel across tabs in the background without taking over your browser. To get started, install the Chrome plugin in the Codex app. Video — https://nitter.net/OpenAI/status/2052480800004956323#m",
-      "url": "https://x.com/op7418/status/2052576841656099037",
-      "images": null,
-      "published": "2026-05-08T02:30:28+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_JOu8v6CBjkE",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -222,23 +290,6 @@
       "published": "2026-05-07T17:29:40+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2052427824120951212",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "GPT-image-2.0 + Seedance 2.0 Video",
-      "url": "https://x.com/op7418/status/2052427824120951212",
-      "images": null,
-      "published": "2026-05-07T16:38:20+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_eoyHCYXoNMQ",
@@ -290,57 +341,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2052238351542202636",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "感觉后面 Mac Studio 估计也会供不应求，我还是先买一个吧",
-      "url": "https://x.com/op7418/status/2052238351542202636",
-      "images": null,
-      "published": "2026-05-07T04:05:26+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2052237136401989805",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "过去一段时间，最值得的硬件投资可能就是我那个最低配的 Mac mini 了。 在年前买了以后，到现在几乎只关过一次机；在我出门旅游之类的时候，它一直运行得非常稳定，相当于一个自己的 Agent 服务器了。 随着里面跑的东西越来越多，现在有时候感到有点捉襟见肘了，所以就换了一个 Mac Studio。 结果发现 Mac Studio 现在供货也不足了，官方渠道买的话要等好久。",
-      "url": "https://x.com/op7418/status/2052237136401989805",
-      "images": null,
-      "published": "2026-05-07T04:00:36+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2052233857735512314",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Obsidian 作者这两条推很有意思。 Markdown 文件已经事实上成为了当前 AI 文件交互的一个 Schelling point。 大家都默契地选择将自己的文本文件系统变为 Markdown 格式后再进行其他工作。 Markdown 赢得了 AI 时代文本格式的战争。基本上，现在 AI 时代的文本格式和内容展示被局限在了 HTML 和 Markdown 两个部分： 我们最近经常看到圈子里的朋友在发送文本的时候用 Markdown。 在进行演示的时候用的是 HTML（包括最近层出不穷的 PPT Skills 也都是以网页的形式去推广的）。 既然 Markdown 已经成为了事实上的基准，那我们就应该进行下一步了。 Markdown 本身的展示目前非常死板，市场想要更多、更独特的方式来和现有的 Markdown 文件去交互。 当 6 年前 Obsidian 把本地文件夹、双向链接和知识图谱跟 Markdown 结合起来的时候，很多人不太理解这个产品，觉得很难用。 但现在它不仅是个人知识管理的常态，也是 AI 内容管理非常重要的一种方式。 例如我的 CodePilot 里面没有复杂的 memory 机制，所有的 memory 其实都是靠 MD 文件完成的。所以目前需要跳出文本编辑器的思路： 最近很多人在做 Markdown 编辑器，但其实应该跳出这个思路。 将 Markdown 作为一个数据去使用，构建更加跳脱常规的人机交互体验。 比如我的 CodePilot 里的 widget，它可以支持让 AI 用你本地的 memory 和 Markdown 文件作为数据来源。 当你的本地文件发生变化时，你的 widget 组件也会随之发生变化。 kepano (@kepano) Weird isn't just visual. Weird is whatever strays from the norm. Weird is relative to the current state of the world. You can have weird principles. They should be things people can legitimately disagree with. You have to remember Obsidian was very weird when it launched six years ago. Local files, malleability, backlinks, graph, even Markdown syntax... these were not as widely understood and accepted as they are today. That's why I spent so much time writing essays like \"File over app\" to try and explain our choices. The goal was to describe why our weird ideas should be normal, and it worked! Now the world has somewhat caught up and accepted those choices, so it's time to find the next frontier of weirdness. — https://nitter.net/kepano/status/2052013544712163376#m",
-      "url": "https://x.com/op7418/status/2052233857735512314",
-      "images": null,
-      "published": "2026-05-07T03:47:35+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_nepKKz-MzFM",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -383,7 +383,7 @@
         "Business",
         "AI"
       ],
-      "title": "Inside NASA's Plan to Return to The Moon, Reach Mars, and Go Nuclear | The a16z Show",
+      "title": "NASA, SpaceX, Blue Origin, and The Race to The Moon | Jared Isaacman on The a16z Show",
       "url": "https://www.youtube.com/watch?v=6cCWrrQp1v4",
       "thumbnail": "https://img.youtube.com/vi/6cCWrrQp1v4/maxresdefault.jpg",
       "published": "2026-05-06T14:30:00+00:00",
@@ -483,7 +483,7 @@
         "Business",
         "AI"
       ],
-      "title": "The Investor Behind Costco, Starbucks, and Blackstone | Tony James on The a16z Show",
+      "title": "Building Blackstone, Backing Costco, and Working with Munger | Tony James on The a16z Show",
       "url": "https://www.youtube.com/watch?v=Z4i1adGvD2A",
       "thumbnail": "https://img.youtube.com/vi/Z4i1adGvD2A/maxresdefault.jpg",
       "published": "2026-05-05T14:30:00+00:00",
