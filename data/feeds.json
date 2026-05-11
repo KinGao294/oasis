@@ -1,7 +1,109 @@
 {
-  "last_updated": "2026-05-10T02:35:20.233465Z",
+  "last_updated": "2026-05-11T02:44:50.797435Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2053665398063784332",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "更新新版本了：nitter.net/op7418/status/20536576… 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
+      "url": "https://x.com/op7418/status/2053665398063784332",
+      "images": null,
+      "published": "2026-05-11T02:36:00+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2053657747057758423",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "发布了：nitter.net/op7418/status/20536576… 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
+      "url": "https://x.com/op7418/status/2053657747057758423",
+      "images": null,
+      "published": "2026-05-11T02:05:36+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2053657711892668844",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "发布了：nitter.net/op7418/status/20536576… 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
+      "url": "https://x.com/op7418/status/2053657711892668844",
+      "images": null,
+      "published": "2026-05-11T02:05:28+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2053657613460771142",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "x.com/i/article/205365581387…",
+      "url": "https://x.com/op7418/status/2053657613460771142",
+      "images": null,
+      "published": "2026-05-11T02:05:04+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2053466413168283707",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Pulled the fastest-growing startups based on X follower growth over the past 90 days:",
+      "url": "https://x.com/benln/status/2053466413168283707",
+      "images": null,
+      "published": "2026-05-10T13:25:19+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2053381253328752903",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "歸藏的 PPT Skill 新主题更多内容的预览 Video 歸藏(guizang.ai) (@op7418) 厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告 — https://nitter.net/op7418/status/2053143307371556944#m",
+      "url": "https://x.com/op7418/status/2053381253328752903",
+      "images": null,
+      "published": "2026-05-10T07:46:55+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2053143307371556944",
       "source": "归藏",
@@ -88,57 +190,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2052961068918677554",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "哎，这些用 AI 回复的哥们儿真是删都删不完。",
-      "url": "https://x.com/op7418/status/2052961068918677554",
-      "images": null,
-      "published": "2026-05-09T03:57:15+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2052943672556274040",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "当前 AI 产品演进已经确立了一个清晰的行业共识： 采取数据与表现分离的架构，以 Markdown 负责底层逻辑与记忆的纯净存储，用 HTML 实现对外的高密度交互与展示。 这个思路的脉络是，前几天借着 Obsidian 作者提出 Markdown 是 AI 内容谢林点的观点，我发散讨论了当前 AI 原生格式主要分为 Markdown 和 HTML。 刚好今天 Claude Code 的作者也发文印证了这一点，他提到自己主要的对外分享形式已经全面转向 HTML。这两位前沿开发者的观点结合在一起，非常完整地勾勒出了这套方案的底层逻辑。 在这个架构中，Markdown 的绝对角色是底层的逻辑和记忆。所有的事实性内容都必须使用 Markdown 存储，它作为核心的底层 Memory，是最适合作为原始数据的载体。 而 HTML 则全面接管了表现层和对外展示。Markdown 最大的缺陷在于篇幅变长后极难阅读和理解，但 HTML 可以通过精细的排版组织、空间定位和视觉元素，达到极高的信息密度，同时还能支持极其丰富的可交互形式。 HTML 也有明显痛点，极不适合做状态的版本控制。 在产品的迭代过程中，HTML 不能作为原始数据直接供 AI 消费。因为它内部混杂了大量的代码结构和样式等非事实类内容，这不仅会让人类在审阅版本差异时面临巨大的噪音，也会让 AI 浪费大量的 Token 额度。 所以构建 AI 产品的核心就在于彻底分离数据层和表现层。底层数据应该继续以 Obsidian 这种成熟的 Markdown 组织形式为核心运转； 而在遇到需要对外分享或交流的场景时，再将内容渲染为 HTML，并部署到类似 S3 这样的平台上，让用户拥有一键打开就能直接消费的顺滑体验。 未来的 AI 产品也必然会沿着这条数据与表现解耦的路径继续发展。 Thariq (@trq212) x.com/i/article/205279610060… — https://nitter.net/trq212/status/2052809885763747935#m",
-      "url": "https://x.com/op7418/status/2052943672556274040",
-      "images": null,
-      "published": "2026-05-09T02:48:08+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2052925146290417977",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Linear 的人用这种道歉的语气招人，嘲讽那些以用 AI 为理由裁员的公司 Tuomas Artman (@artman) Today is a hard day. I shared this note with the @linear team today: We’ve made the difficult decision to increase our workforce. This is not a cost-cutting exercise or a reflection of anyone’s performance. We’re simply reimagining every role for the agentic AI era. We’re hiring. We’re sorry about that. — https://nitter.net/artman/status/2052657017370661346#m",
-      "url": "https://x.com/op7418/status/2052925146290417977",
-      "images": null,
-      "published": "2026-05-09T01:34:31+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "pod_guigu101_pod_90f96f60_25be_45ac_b832_56776a23d534",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -156,40 +207,6 @@
       "published": "2026-05-08T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "近年来，癌症治疗正迎来多个技术平台并行演进、加速迭代的新阶段：从ADC、双特异性抗体、放射性配体疗法，到细胞治疗，整个行业都在经历一轮底层技术工具的升级。其中，CAR-T是最具范式转换意义的一类疗法——它首次在部分血液肿瘤中，把“利用工程化改造的免疫细胞精准清除癌细胞”带入了临床现实。更值得关注的是，2025年以来，跨国药企的押注明显转向体内CAR-T：阿斯利康、艾伯维、百时美施贵宝和礼来等公司，"
-    },
-    {
-      "id": "x_2052788965284171851",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "在非国区 App Store 里搜索 FateTell 这个名字就行",
-      "url": "https://x.com/op7418/status/2052788965284171851",
-      "images": null,
-      "published": "2026-05-08T16:33:22+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2052788859164086589",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "还记得年初推荐过的西元做的命理 App FateTell吗？ 他们整个 App 的功能做得相当完善和全面，UI 设计和交互也非常顶，很有那种中式的命理感觉。 而且它不会刻意堆砌元素，在视觉和交互上的融合非常好，体验很棒。 这次他们除了以前那份以一生为长度、为维度的“命书”报告之外，新推出了“马年运书”。 针对你今年马年的命理有一个专门的解释。 这次的设计依然非常出色： 现在品牌意向是一棵树，运书整个界面核心就是一棵树，运用了大量的玻璃拟态效果和液态玻璃效果，质感十足。2926年运书取巧用了24节气而不是月份切割。 在十二节令部分，中间那棵树的颜色和样貌会随之变化。比如立春时是灰绿色的，夏天变成深绿，秋天出现黄叶，最后落叶变成黑白的感觉。每个月都会详细提供事业、人际、健康和行动指南。 没有简单按阳历月份划分，而是非常取巧地运用了二十四节气。以每个月中更有代表性的节气（如立春、惊蛰等）作为分割。 App 增加了很多细腻的小细节。比如我是属鸡的，页面下方就会有一个鸡的印章。它把你个人的八字和各种命理意象直接融合在了界面里，所以每个人的界面可能会根据命理属性的不同而长得不一样。 在运势总览前面还有四个卡片，每个卡片上面都有两句诗来代表你今年的运势，看起来非常有味道。如果你有需要的话，可以去软件里试一下。 运书内容结构主要是这些： (a) 运势总览：从事业、财富、健康和情感四个维度，总体说明你 2026 年的运势。 (b) 十二节令详细运势：它没有简单按阳历月份划分，而是非常取巧地运用了二十四节气。以每个月中更有代表性的节气（如立春、惊蛰等）作为分割。 在运势总览前面还有四个卡片，每个卡片上面都有两句诗来代表你今年的运势，看起来非常有味道。 如果你有需要的话，可以去软件里试一下。",
-      "url": "https://x.com/op7418/status/2052788859164086589",
-      "images": null,
-      "published": "2026-05-08T16:32:57+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_b6Mxcv1pyBU",
@@ -758,23 +775,6 @@
       "published": "2026-04-30T18:24:01+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2049840577252839498",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cursor community is everywhere. Coming to a city near you soon: cursor.com/community Video",
-      "url": "https://x.com/benln/status/2049840577252839498",
-      "images": null,
-      "published": "2026-04-30T13:17:32+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_WeBa4ZawcPo",
