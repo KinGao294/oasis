@@ -1,7 +1,126 @@
 {
-  "last_updated": "2026-05-12T02:37:33.012235Z",
-  "count": 31,
+  "last_updated": "2026-05-13T02:43:38.968896Z",
+  "count": 41,
   "items": [
+    {
+      "id": "x_2054187742465028145",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor has hit 75 cities in 2026 (so far!) Want to host one in your city? Reach out.",
+      "url": "https://x.com/benln/status/2054187742465028145",
+      "images": null,
+      "published": "2026-05-12T13:11:37+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2054126705703600519",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "宇树发布 GD01 载人变形机甲，起售价 390 万人民币，这也太猛了。 刚才刷到评论说，大疆新的无人机能吊 600kg 物品，这个刚好 500kg，组合起来就是环太平洋那个经典镜头了 Video",
+      "url": "https://x.com/op7418/status/2054126705703600519",
+      "images": null,
+      "published": "2026-05-12T09:09:05+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2054111096852939248",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "原来 Typeless 现在已经有全键盘了，之前太难用我就卸了",
+      "url": "https://x.com/op7418/status/2054111096852939248",
+      "images": null,
+      "published": "2026-05-12T08:07:03+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2054109822912692656",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "移动端的语音输入法必须带全键盘，但是桌面端的语音输入法最好跟输入法本身解耦。 Typeless 犯了前一个错误，豆包犯了后一个。",
+      "url": "https://x.com/op7418/status/2054109822912692656",
+      "images": null,
+      "published": "2026-05-12T08:01:59+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2054033406737142136",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "在拿了真格的 Token Grant 之后，跟他们聊了一下最近的一些思考，希望对大家有帮助。 mp.weixin.qq.com/s/KAv6l934V…",
+      "url": "https://x.com/op7418/status/2054033406737142136",
+      "images": null,
+      "published": "2026-05-12T02:58:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2054031065560555677",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "第一条素材来源：nitter.net/Mho_23/status/20538572… Miko (@Mho_23) Veo 4 vs Seedance 2.0 social media is cooked Veo 4 looks like it will be much better than Seedance 2.0 and it's an omni model which means consistent voice references and image inputs just like Seedance what a time to be alive.. Prompt: A professor writes out a mathematical proof for trigonometric identities on a traditional chalkboard, explaining the step he is currently on in the equation. Video Video — https://nitter.net/Mho_23/status/2053857256509243497#m",
+      "url": "https://x.com/op7418/status/2054031065560555677",
+      "images": null,
+      "published": "2026-05-12T02:49:02+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2054030953039921548",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "谷歌看起来要发布 Veo 4 了，也有可能是其他的名字。 类似 Seedance 2.0 的全能参考，支持对视频进行：修改参考和内容替换 质量上看起来，在文字生成上要比 Seedance 2.0 稍微好点，但在其他方面看不出更好的质量，可能在清晰度和细节上也会稍微好点。 Video 🚨 AI News | TestingCatalog (@testingcatalog) GOOGLE 🔥: An upcoming Gemini Omni video model from Google is expected to be much more advanced in video editing, capable of completing tasks like removing watermarks, replacing objects in the video, and more. It is also likely that Google will release 2 versions of this model, including a Pro variant. And I assume what we see isn't Pro? Anime sample 👀 Video — https://nitter.net/testingcatalog/status/2053857806374064496#m",
+      "url": "https://x.com/op7418/status/2054030953039921548",
+      "images": null,
+      "published": "2026-05-12T02:48:35+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2054024888567070925",
       "source": "归藏",
@@ -88,57 +207,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2053657747057758423",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "发布了：nitter.net/op7418/status/20536576… 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
-      "url": "https://x.com/op7418/status/2053657747057758423",
-      "images": null,
-      "published": "2026-05-11T02:05:36+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2053657711892668844",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "发布了：nitter.net/op7418/status/20536576… 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
-      "url": "https://x.com/op7418/status/2053657711892668844",
-      "images": null,
-      "published": "2026-05-11T02:05:28+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2053657613460771142",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "x.com/i/article/205365581387…",
-      "url": "https://x.com/op7418/status/2053657613460771142",
-      "images": null,
-      "published": "2026-05-11T02:05:04+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2053466413168283707",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -153,57 +221,6 @@
       "url": "https://x.com/benln/status/2053466413168283707",
       "images": null,
       "published": "2026-05-10T13:25:19+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2053381253328752903",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "歸藏的 PPT Skill 新主题更多内容的预览 Video 歸藏(guizang.ai) (@op7418) 厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告 — https://nitter.net/op7418/status/2053143307371556944#m",
-      "url": "https://x.com/op7418/status/2053381253328752903",
-      "images": null,
-      "published": "2026-05-10T07:46:55+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2053143307371556944",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "厌倦了千篇一律的衬线字体和排版？ 歸藏的 PPT Skill 新主题预告 歸藏(guizang.ai) (@op7418) x.com/i/article/204748417125… — https://nitter.net/op7418/status/2047486546300051478#m",
-      "url": "https://x.com/op7418/status/2053143307371556944",
-      "images": null,
-      "published": "2026-05-09T16:01:24+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2053065172873560499",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "北京这几天的夕阳是真漂亮。",
-      "url": "https://x.com/op7418/status/2053065172873560499",
-      "images": null,
-      "published": "2026-05-09T10:50:55+00:00",
       "hasTranscript": false
     },
     {
@@ -258,6 +275,23 @@
       "images": null,
       "published": "2026-05-07T12:57:10+00:00",
       "hasTranscript": false
+    },
+    {
+      "id": "yt_nepKKz-MzFM",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
+      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
+      "thumbnail": "https://img.youtube.com/vi/nepKKz-MzFM/maxresdefault.jpg",
+      "published": "2026-05-06T22:03:16+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "x_2052008806612193654",
@@ -345,23 +379,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2050970577255411756",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Kicked off a group chat for Cursor team members who occasionally angel invest. There are now 20 of us. Reach out if you're working on something new, love to share with the group!",
-      "url": "https://x.com/benln/status/2050970577255411756",
-      "images": null,
-      "published": "2026-05-03T16:07:45+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "pod_guigu101_pod_b2be7093_3366_4ee2_8a7a_625f06206ae5",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -398,6 +415,23 @@
       "published": "2026-04-16T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "Peter Thiel，是硅谷最具争议和影响力的思想家之一。如果要用一句话概括他的思想，那就是：世界是由少数天选之人在幕后驱动的，而他就是其中之一。这套理论，不仅在以他为核心的“硅谷右翼”圈子中产生了影响，还通过Peter Thiel的政治参与，影响了更多的人。 那么，Peter Thiel的思想，又来源于什么呢？要理解他，答案藏在三位哲学家身上：法国文学批评理论家吉拉尔、纳粹党员法学家施密特、和"
+    },
+    {
+      "id": "yt_iKx3gAODybU",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+      "thumbnail": "https://img.youtube.com/vi/iKx3gAODybU/maxresdefault.jpg",
+      "published": "2026-04-09T17:35:20+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_3bb14dd4_0b13_4173_9d5b_0e63bf98ae1d",
@@ -457,6 +491,23 @@
       "transcriptPreview": "本期播客是硅谷101在GTC 2026大会期间的线下特别录制，我们从老黄在Keynote上抛出的那几个大数字开始聊起： 1万亿——这是黄仁勋预期到2027年底，Blackwell和Vera Rubin两个平台带来的订单收入。 7块——这是大会一次性发布的Vera Rubin新芯片数量。 10倍、35倍——这是Vera Rubin NVL72 AI机架系统，相比Blackwell，它的推理效率提升了"
     },
     {
+      "id": "yt_vif8NQcjVf0",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
+      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
+      "thumbnail": "https://img.youtube.com/vi/vif8NQcjVf0/maxresdefault.jpg",
+      "published": "2026-03-23T16:24:14+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "pod_guigu101_pod_c457ca43_1305_44a3_b9cc_c68480802396",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -495,6 +546,23 @@
       "transcriptPreview": "在AI算力争霸时代，英伟达凭借GPU市值一路狂飙。但如今，它的蛋糕正在被一点点分食——2024年，苹果论文披露Apple Intelligence全部由TPU训练；2025年，Anthropic签下数十亿美元订单，购买TPU训练Claude；近期，Meta与谷歌签署数十亿美元协议，租用TPU跑Llama。 TPU一直是谷歌低调的“自家武器”，在过去十年里驱动着几乎全部核心产品。直到TPU训练的Ge"
     },
     {
+      "id": "yt_H9rF1CSSh-w",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
+      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
+      "thumbnail": "https://img.youtube.com/vi/H9rF1CSSh-w/maxresdefault.jpg",
+      "published": "2026-03-11T20:21:39+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "pod_guigu101_pod_f14f8686_a6e2_47ea_92c1_ca7e71199f67",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -514,6 +582,57 @@
       "transcriptPreview": "每周，有超过2.3亿人在ChatGPT上询问健康和保健问题。在人类创造的所有数据中，有30%来自医疗领域，但其中真正被利用起来的，不足5%。 一边是巨大的数据金矿，一边是与未被满足的庞大需求，这正是AI的机会。 在年初的摩根大通医疗健康大会上，我们看到医疗与AI正在加速“双向奔赴”。礼来制药与英伟达达成10亿美元合作，试图用算力重塑药物发现的底层范式；在OpenAI发布ChatGPT for He"
     },
     {
+      "id": "yt_SHlrUAkkWI0",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
+      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
+      "thumbnail": "https://img.youtube.com/vi/SHlrUAkkWI0/maxresdefault.jpg",
+      "published": "2026-03-03T12:30:21+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_1SJiTwbSI58",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492",
+      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
+      "thumbnail": "https://img.youtube.com/vi/1SJiTwbSI58/maxresdefault.jpg",
+      "published": "2026-03-01T03:37:44+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_KGVpKPNUdzA",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
+      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
+      "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
+      "published": "2026-02-25T22:36:32+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "pod_guigu101_pod_7abda28b_99c6_4ebc_8c0d_37bcc77f6a73",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -531,6 +650,57 @@
       "published": "2026-02-25T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "他是霍金口中“地球上最聪明的人之一”，4岁下国际象棋，13岁获大师称号，却在一场对弈中突然顿悟，转身奔向人工智能。 他是DeepMind创始人，AlphaGo、AlphaFold背后的大脑，2024年诺贝尔化学奖得主。他也是那个因执念于强化学习险些错失大语言模型时代，又率领谷歌Gemini逆袭，成功回到牌桌的“孤傲天才”。 我们想聊聊哈萨比斯，不仅因为他的天才传奇，更想了解：发明终极技术的那一小撮"
+    },
+    {
+      "id": "yt_YFjfBk8HI5o",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
+      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
+      "thumbnail": "https://img.youtube.com/vi/YFjfBk8HI5o/maxresdefault.jpg",
+      "published": "2026-02-12T03:07:03+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_EV7WhVT270Q",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
+      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
+      "thumbnail": "https://img.youtube.com/vi/EV7WhVT270Q/maxresdefault.jpg",
+      "published": "2026-01-31T22:33:33+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_Z-FRe5AKmCU",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489",
+      "url": "https://www.youtube.com/watch?v=Z-FRe5AKmCU",
+      "thumbnail": "https://img.youtube.com/vi/Z-FRe5AKmCU/maxresdefault.jpg",
+      "published": "2026-01-13T20:06:59+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "x_9327720978",
