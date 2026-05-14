@@ -1,7 +1,228 @@
 {
-  "last_updated": "2026-05-13T02:43:38.968896Z",
-  "count": 41,
+  "last_updated": "2026-05-14T02:44:34.323716Z",
+  "count": 31,
   "items": [
+    {
+      "id": "x_2054725474493067482",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Claude Code 的每周限额将增加 50%，持续到 7 月 13 号。 但是他们这次终于把类似 OpenClaw 和 Codepilot 这种使用 Agent SDK 构建的应用额度砍了。 6月 15 号开始是双轨制： 只有在 Claude Code 本身及其内部，你的 Max 和 Pro 账户才能享受正常额度。 如果你是用于 Agent SDK 构建的产品（也就是一些支持 Claude 账号登录的三方产品），你的额度会被折算成对应金额的 API 额度。 所以基本上，我们的额度减了十几倍吧。 比如说 Max 账户 20 倍的 200 美元 API 额度，如果你用 Claude 4.6 随便跑点大项目，估计半天就消耗光了。这下估计去 Codex 的人更多了。 主要是他们还玩文字游戏，削减配额就削减配额吧，非要说完全没变化，太不要脸了。 Lydia Hallie ✨ (@lydiahallie) To add some clarity: you don't pay extra. It's the same subscription, same price per month. What's new our sub now covers two separate pools: · Interactive → sub limits, unchanged · Programmatic → new $20–$200 included(!!) credit, metered at API rates Community note: Previously, programmatic usage like claude -p counted toward subsidized subscription limits; starting June 15, it draws from a separate $20–$200 monthly credit metered at full API rates, while interactive limits remain unchanged. support.claude.com/en/articles/15… — https://nitter.net/lydiahallie/status/2054670303834616119#m",
+      "url": "https://x.com/op7418/status/2054725474493067482",
+      "images": null,
+      "published": "2026-05-14T00:48:22+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2054600460749709663",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "We're booking out a cafe on June 10th in San Francisco Grab coffee, Cursor credits, meet the team, and build together",
+      "url": "https://x.com/benln/status/2054600460749709663",
+      "images": null,
+      "published": "2026-05-13T16:31:37+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2054563161097863360",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "notes from: piped.video/watch?v=YTVSwOY1…",
+      "url": "https://x.com/benln/status/2054563161097863360",
+      "images": null,
+      "published": "2026-05-13T14:03:24+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2054546806516654263",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Jack Dorsey on how every company can now be a mini-AGI:",
+      "url": "https://x.com/benln/status/2054546806516654263",
+      "images": null,
+      "published": "2026-05-13T12:58:24+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2054491392261632448",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "用藏师傅的 PPT Skill 让 Codex 配图的技巧 涉及到一些非常生僻的事实你怕 Codex 画的图有问题的时候，可以让他搜索相关图片，然后基于搜索的图片生成新的图片 这样既可以保证真实性，又可以生成符合比例要求和高清的图片 比如云南这种甲马符 GPT 肯定是不知道长啥样的，但是垫图之后他能画的很好。 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
+      "url": "https://x.com/op7418/status/2054491392261632448",
+      "images": null,
+      "published": "2026-05-13T09:18:13+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2054488458446717248",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "做游记真的不错",
+      "url": "https://x.com/op7418/status/2054488458446717248",
+      "images": null,
+      "published": "2026-05-13T09:06:33+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2054433146532479266",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Skills 已经更新了这个带地图的版式和地图组件 大家让自己的 AI 更新这个 Skills 就行。 地图支持放大缩小和拖动，以及 AI 可以在地图上做任意的标记。 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
+      "url": "https://x.com/op7418/status/2054433146532479266",
+      "images": null,
+      "published": "2026-05-13T05:26:46+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2054428529736245652",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "跟 @lepadphone 老师聊了一下： 我们需要一个聚焦的公共空间，去分发、展示、曝光和连接。还有就是服务好开发者尤其是优质开发者。",
+      "url": "https://x.com/op7418/status/2054428529736245652",
+      "images": null,
+      "published": "2026-05-13T05:08:25+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2054423566423413001",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "人物卡片",
+      "url": "https://x.com/op7418/status/2054423566423413001",
+      "images": null,
+      "published": "2026-05-13T04:48:42+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2054421417270346049",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "@ 一下提到的几个人 @dotey @vista8 @eze_is_1",
+      "url": "https://x.com/op7418/status/2054421417270346049",
+      "images": null,
+      "published": "2026-05-13T04:40:09+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2054418678918291482",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "前几天去天津玩，去五大道的时候，无意间问了一下 AI 这里的历史，发现还是挺复杂的。 基本上近代好多名人和好多事件都与住在这儿的人有关系。 所以我就试了一下，用我的这个 PPT Skills 讲一下这些人的故事。 新增了一个排版： 1. 左侧是卡片 2. 右边是地图（这个地图是可以交互的，内嵌在了 PPT 里面） 后面会做更多这种尝试，让你的 PPT 内容更丰富，嵌入更多更详细的信息。 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
+      "url": "https://x.com/op7418/status/2054418678918291482",
+      "images": null,
+      "published": "2026-05-13T04:29:16+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2054414353731109224",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "很多模型厂商开始发现开源 Agent 框架和客户端的价值。 大家都开始要么补贴客户端本身，要么补贴客户端用户。 但是我觉得还有一个非常重要的盲点。 就是像藏师傅、宝玉、乔木、一泽这种头部的 Skills 开发者。他们的 Skills 装机量其实非常大，遍布各种 Agent。 无论是从数据、用户反馈，还是从打广告这种商业价值来说，潜力都非常大。 目前大家都没有把这条线重视起来，没有一个合适的合作方式给这些开源 Skills 开发者提供好的框架或商业化路径，去回馈这些开发者，并同时帮助自己的产品提高知名度。 我觉得这是非常可惜的。因为这些 Skills 的装机量远比各种 Agent 框架和客户端更大，而且它们的传播也更广。",
+      "url": "https://x.com/op7418/status/2054414353731109224",
+      "images": null,
+      "published": "2026-05-13T04:12:05+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2054395133182042326",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "谷歌昨天安卓 I/O 大会最大的跟 AI 相关的发布，是发布了 Gemini Intelligence 会先在三星 Galaxy 和 Pixel 手机上推出，后面会拓展到其他所有类型的安卓设备。 具体功能上，首先它可以帮你自动完成在多个 App 上操作的繁琐任务，而且可以跨多个软件去操作。 比如你备忘录里有一堆购物清单，然后你可以让它直接把这些清单加到购物车里。 安卓的 Chrome 浏览器可以自动帮你操作浏览器去检索内容和总结内容，也可以帮你填写表单之类的。 他们在新推出了一个语音输入功能，叫 Rambler，它可以自动将你的口语转换成文本语言，去掉一些语气词并重新排版，而且支持多语言混用。 最显眼的是它支持你通过自然语言去生成你想要的任何桌面小组件。 比如说你可以让它生成一个每周推荐食谱的小组件，它就会自定义 AI 帮你生成，然后固定到你的桌面上。 或者说你只关心某些天气的属性，比如说风速和降雨，然后它就会自动生成一个只有这些数据的桌面组件。 这个功能我在去年六七月的时候跟一个 AI 创业者提过，结果到现在谷歌自己出了。 而且他们这次还发布了 Material 3 Expressive 的设计语言，跟苹果的液态玻璃区别挺大的。 它会在没有交互的时候是实体的边界，非常明显的分隔线，就是组件边界。 在 AI 开始交互的时候，组件的边界会发生虚化和高斯模糊，非常的漂亮。 Video Google (@Google) Today, we introduced Gemini Intelligence, which brings the best of Gemini to our most advanced devices. Gemini Intelligence integrates premium hardware and innovative software to help you stay a step ahead and work proactively to get things done throughout your day. #TheAndroidShow Video — https://nitter.net/Google/status/2054263720629457058#m",
+      "url": "https://x.com/op7418/status/2054395133182042326",
+      "images": null,
+      "published": "2026-05-13T02:55:43+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2054187742465028145",
       "source": "Ben Lang",
@@ -20,142 +241,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2054126705703600519",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "宇树发布 GD01 载人变形机甲，起售价 390 万人民币，这也太猛了。 刚才刷到评论说，大疆新的无人机能吊 600kg 物品，这个刚好 500kg，组合起来就是环太平洋那个经典镜头了 Video",
-      "url": "https://x.com/op7418/status/2054126705703600519",
-      "images": null,
-      "published": "2026-05-12T09:09:05+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2054111096852939248",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "原来 Typeless 现在已经有全键盘了，之前太难用我就卸了",
-      "url": "https://x.com/op7418/status/2054111096852939248",
-      "images": null,
-      "published": "2026-05-12T08:07:03+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2054109822912692656",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "移动端的语音输入法必须带全键盘，但是桌面端的语音输入法最好跟输入法本身解耦。 Typeless 犯了前一个错误，豆包犯了后一个。",
-      "url": "https://x.com/op7418/status/2054109822912692656",
-      "images": null,
-      "published": "2026-05-12T08:01:59+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2054033406737142136",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "在拿了真格的 Token Grant 之后，跟他们聊了一下最近的一些思考，希望对大家有帮助。 mp.weixin.qq.com/s/KAv6l934V…",
-      "url": "https://x.com/op7418/status/2054033406737142136",
-      "images": null,
-      "published": "2026-05-12T02:58:20+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2054031065560555677",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "第一条素材来源：nitter.net/Mho_23/status/20538572… Miko (@Mho_23) Veo 4 vs Seedance 2.0 social media is cooked Veo 4 looks like it will be much better than Seedance 2.0 and it's an omni model which means consistent voice references and image inputs just like Seedance what a time to be alive.. Prompt: A professor writes out a mathematical proof for trigonometric identities on a traditional chalkboard, explaining the step he is currently on in the equation. Video Video — https://nitter.net/Mho_23/status/2053857256509243497#m",
-      "url": "https://x.com/op7418/status/2054031065560555677",
-      "images": null,
-      "published": "2026-05-12T02:49:02+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2054030953039921548",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "谷歌看起来要发布 Veo 4 了，也有可能是其他的名字。 类似 Seedance 2.0 的全能参考，支持对视频进行：修改参考和内容替换 质量上看起来，在文字生成上要比 Seedance 2.0 稍微好点，但在其他方面看不出更好的质量，可能在清晰度和细节上也会稍微好点。 Video 🚨 AI News | TestingCatalog (@testingcatalog) GOOGLE 🔥: An upcoming Gemini Omni video model from Google is expected to be much more advanced in video editing, capable of completing tasks like removing watermarks, replacing objects in the video, and more. It is also likely that Google will release 2 versions of this model, including a Pro variant. And I assume what we see isn't Pro? Anime sample 👀 Video — https://nitter.net/testingcatalog/status/2053857806374064496#m",
-      "url": "https://x.com/op7418/status/2054030953039921548",
-      "images": null,
-      "published": "2026-05-12T02:48:35+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2054024888567070925",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Claude Code 昨天更新了一个新的功能：Agent 视图。你可以在一个终端标签页里管理多个正在运行的 Agent。 你可以启动新的 Agent 并将其放在后台，Agent 视图会标注每个 Agent 的状态，包括：已完成、需要输入、正在进行。 你可以通过以下两种方式打开 Agent 视图： 1. 在任何会话点按左箭头 2. 直接在终端运行命令 `claude agents` 在视图中，每一行代表一个 Agent，会显示当前的对话、是否需要你的输入，以及该 Agent 上一次回复的大概内容。 你可以在视图里查看详细的对话信息，也可以直接进行回复。 如果你想将现有的会话加入到 Agent 视图中，可以使用 `/bg` 命令。这个功能对于需要开启多窗口或运行长期任务的场景非常有用。 Claude (@claudeai) New in Claude Code: agent view. One list of all your sessions, available today as a research preview. Video — https://nitter.net/claudeai/status/2053940934736228454#m",
-      "url": "https://x.com/op7418/status/2054024888567070925",
-      "images": null,
-      "published": "2026-05-12T02:24:30+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2054023602874491326",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "前 OpenAI CTO Mira 的公司 Thinking Machines 发了一个非常创新的模型，他们叫交互模型。 这个模型能够持续接收音频、视频、文本等原生的多模态内容，并且实时进行思考、响应和行动。 它不像之前那种 Agent 脚手架，把多个模型、多个模态的模型通过 Agent 串起来，而是所有模态都在一整个模型里。 这样就可以让用户和 AI 在任意模态下实时进行交互： 你可以随时打断它，随时进行补充，AI 会实时关注你的状态，输出结果，不会像之前一样，必须等一句话结束了才能跟模型交互。 核心思路就是把交互部分训练到了模型里。他们从零训练的这个交互模型主要包括两部分： 前台交互模型： (a) 一直在线，一直在听、看和读用户提供的内容 (b) 每 200 毫秒作为一个节点，同时处理输入并产出一小段输出 (c) 负责照顾用户的在场感，支持用户打断、插话，并能对屏幕和视频内容做出反应 后台推理模型： (a) 用来处理需要持续推理、工具调用以及长上下文、长规划的任务 (b) 交互模型会在合适的时候，将推理模型的结果放回到对话里，不会插入突兀的内容 用户最终看到的结果，就是一个既能实时交互，又能够处理重度任务的界面。 Video Thinking Machines (@thinkymachines) People talk, listen, watch, think, and collaborate at the same time, in real time. We've designed an AI that works with people the same way. We share our approach, early results, and a quick look at our model in action. thinkingmachines.ai/blog/int… Video — https://nitter.net/thinkymachines/status/2053938892152435174#m",
-      "url": "https://x.com/op7418/status/2054023602874491326",
-      "images": null,
-      "published": "2026-05-12T02:19:23+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2053828473781715303",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -170,40 +255,6 @@
       "url": "https://x.com/benln/status/2053828473781715303",
       "images": null,
       "published": "2026-05-11T13:24:01+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2053743942097911952",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "来了！藏师傅的 PPT Skill 更新了第二套主题 新主题更加简洁美观，适合讲一些数据和事实性的内容 而且支持 4 种颜色、20 多个版式。 支持用 Codex 内置的 GPT-2.0 帮你生成配图和美化截图。 还能让它帮你生成各种平台的封面，以及公众号配图。 文章里详细讲了一下怎么用，还有一些小技巧。 Video 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
-      "url": "https://x.com/op7418/status/2053743942097911952",
-      "images": null,
-      "published": "2026-05-11T07:48:07+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2053665398063784332",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "更新新版本了：nitter.net/op7418/status/20536576… 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
-      "url": "https://x.com/op7418/status/2053665398063784332",
-      "images": null,
-      "published": "2026-05-11T02:36:00+00:00",
       "hasTranscript": false
     },
     {
@@ -277,23 +328,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_nepKKz-MzFM",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "thumbnail": "https://img.youtube.com/vi/nepKKz-MzFM/maxresdefault.jpg",
-      "published": "2026-05-06T22:03:16+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2052008806612193654",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -325,57 +359,6 @@
       "url": "https://x.com/benln/status/2051725979173720231",
       "images": null,
       "published": "2026-05-05T18:09:27+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2051637777297535236",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Lagos",
-      "url": "https://x.com/benln/status/2051637777297535236",
-      "images": null,
-      "published": "2026-05-05T12:18:58+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2051288392852242703",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "notes from: piped.video/96jN2OCOfLs",
-      "url": "https://x.com/benln/status/2051288392852242703",
-      "images": null,
-      "published": "2026-05-04T13:10:38+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2051285184369115154",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Andrej Karpathy on the shift to agentic engineering",
-      "url": "https://x.com/benln/status/2051285184369115154",
-      "images": null,
-      "published": "2026-05-04T12:57:53+00:00",
       "hasTranscript": false
     },
     {
@@ -415,23 +398,6 @@
       "published": "2026-04-16T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "Peter Thiel，是硅谷最具争议和影响力的思想家之一。如果要用一句话概括他的思想，那就是：世界是由少数天选之人在幕后驱动的，而他就是其中之一。这套理论，不仅在以他为核心的“硅谷右翼”圈子中产生了影响，还通过Peter Thiel的政治参与，影响了更多的人。 那么，Peter Thiel的思想，又来源于什么呢？要理解他，答案藏在三位哲学家身上：法国文学批评理论家吉拉尔、纳粹党员法学家施密特、和"
-    },
-    {
-      "id": "yt_iKx3gAODybU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "thumbnail": "https://img.youtube.com/vi/iKx3gAODybU/maxresdefault.jpg",
-      "published": "2026-04-09T17:35:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_3bb14dd4_0b13_4173_9d5b_0e63bf98ae1d",
@@ -491,23 +457,6 @@
       "transcriptPreview": "本期播客是硅谷101在GTC 2026大会期间的线下特别录制，我们从老黄在Keynote上抛出的那几个大数字开始聊起： 1万亿——这是黄仁勋预期到2027年底，Blackwell和Vera Rubin两个平台带来的订单收入。 7块——这是大会一次性发布的Vera Rubin新芯片数量。 10倍、35倍——这是Vera Rubin NVL72 AI机架系统，相比Blackwell，它的推理效率提升了"
     },
     {
-      "id": "yt_vif8NQcjVf0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
-      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
-      "thumbnail": "https://img.youtube.com/vi/vif8NQcjVf0/maxresdefault.jpg",
-      "published": "2026-03-23T16:24:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_c457ca43_1305_44a3_b9cc_c68480802396",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -546,23 +495,6 @@
       "transcriptPreview": "在AI算力争霸时代，英伟达凭借GPU市值一路狂飙。但如今，它的蛋糕正在被一点点分食——2024年，苹果论文披露Apple Intelligence全部由TPU训练；2025年，Anthropic签下数十亿美元订单，购买TPU训练Claude；近期，Meta与谷歌签署数十亿美元协议，租用TPU跑Llama。 TPU一直是谷歌低调的“自家武器”，在过去十年里驱动着几乎全部核心产品。直到TPU训练的Ge"
     },
     {
-      "id": "yt_H9rF1CSSh-w",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
-      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
-      "thumbnail": "https://img.youtube.com/vi/H9rF1CSSh-w/maxresdefault.jpg",
-      "published": "2026-03-11T20:21:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_f14f8686_a6e2_47ea_92c1_ca7e71199f67",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -582,57 +514,6 @@
       "transcriptPreview": "每周，有超过2.3亿人在ChatGPT上询问健康和保健问题。在人类创造的所有数据中，有30%来自医疗领域，但其中真正被利用起来的，不足5%。 一边是巨大的数据金矿，一边是与未被满足的庞大需求，这正是AI的机会。 在年初的摩根大通医疗健康大会上，我们看到医疗与AI正在加速“双向奔赴”。礼来制药与英伟达达成10亿美元合作，试图用算力重塑药物发现的底层范式；在OpenAI发布ChatGPT for He"
     },
     {
-      "id": "yt_SHlrUAkkWI0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
-      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
-      "thumbnail": "https://img.youtube.com/vi/SHlrUAkkWI0/maxresdefault.jpg",
-      "published": "2026-03-03T12:30:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_1SJiTwbSI58",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492",
-      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
-      "thumbnail": "https://img.youtube.com/vi/1SJiTwbSI58/maxresdefault.jpg",
-      "published": "2026-03-01T03:37:44+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_KGVpKPNUdzA",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
-      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
-      "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
-      "published": "2026-02-25T22:36:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_7abda28b_99c6_4ebc_8c0d_37bcc77f6a73",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -650,57 +531,6 @@
       "published": "2026-02-25T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "他是霍金口中“地球上最聪明的人之一”，4岁下国际象棋，13岁获大师称号，却在一场对弈中突然顿悟，转身奔向人工智能。 他是DeepMind创始人，AlphaGo、AlphaFold背后的大脑，2024年诺贝尔化学奖得主。他也是那个因执念于强化学习险些错失大语言模型时代，又率领谷歌Gemini逆袭，成功回到牌桌的“孤傲天才”。 我们想聊聊哈萨比斯，不仅因为他的天才传奇，更想了解：发明终极技术的那一小撮"
-    },
-    {
-      "id": "yt_YFjfBk8HI5o",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
-      "thumbnail": "https://img.youtube.com/vi/YFjfBk8HI5o/maxresdefault.jpg",
-      "published": "2026-02-12T03:07:03+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_EV7WhVT270Q",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
-      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
-      "thumbnail": "https://img.youtube.com/vi/EV7WhVT270Q/maxresdefault.jpg",
-      "published": "2026-01-31T22:33:33+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Z-FRe5AKmCU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489",
-      "url": "https://www.youtube.com/watch?v=Z-FRe5AKmCU",
-      "thumbnail": "https://img.youtube.com/vi/Z-FRe5AKmCU/maxresdefault.jpg",
-      "published": "2026-01-13T20:06:59+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "x_9327720978",
