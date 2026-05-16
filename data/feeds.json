@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-15T02:44:56.461869Z",
+  "last_updated": "2026-05-16T02:34:15.848629Z",
   "count": 101,
   "items": [
     {
-      "id": "x_2055111180369506481",
+      "id": "x_2055453671991943311",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -13,14 +13,14 @@
         "Design"
       ],
       "title": null,
-      "content": "GitHub 发布了 GitHub Copilot 桌面端的技术预览版。 看起来跟 Codex 长得有点像，在 GitHub 相关功能上露出的也比较多。 现在需要申请 waitlist GitHub (@github) Cooking up something new 🧑‍🍳 Join the waitlist for early access to technical preview of the GitHub Copilot app 👇 gh.io/github-copilot-app?utm… Video — https://nitter.net/github/status/2054959324485628120#m",
-      "url": "https://x.com/op7418/status/2055111180369506481",
+      "content": "Codex 也会重置： Tibo (@thsottiaux) We found and fixed two issues that could explain this degradation of the capability of GPT-5.5 in Codex over the last ~ 48 hours. We are monitoring over the coming hours to fully confirm and I will reset usage limits this evening. Apologies and now is the time for /fast maxxing. — https://nitter.net/thsottiaux/status/2055446089957036402#m",
+      "url": "https://x.com/op7418/status/2055453671991943311",
       "images": null,
-      "published": "2026-05-15T02:21:02+00:00",
+      "published": "2026-05-16T01:01:58+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2055104256978681980",
+      "id": "x_2055452499323363335",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -30,14 +30,30 @@
         "Design"
       ],
       "title": null,
-      "content": "Codex 终于支持手机上的 ChatGPT 远程控制了！ 可以自动同步你绑定的 Codex 设备上的所有对话，而且可以直接发送指令、审批权限、监控进度。 我写一下设置的教程： 1. 点击桌面端 Codex 客户端左侧的“设置 Codex 移动版”，点击后系统会引导你开始设置。 2. 如果你的 ChatGPT 没有设置多重因素验证（MFA），系统会弹出网页要求你设置。这里推荐使用 Google Authenticator（谷歌身份验证器）App，不要用手机短信。 3. 系统会要求你使用手机 ChatGPT 客户端扫码。如果你直接打开手机端 App，它通常会弹出授权请求，直接点击允许即可，不扫码也是可以的。 4. 绑定完成后即可开始使用。你会在手机 ChatGPT 上看到一个 Codex 侧边栏，进去后能看到当前绑定的桌面端设备的所有 Codex 对话。你可以点击进入任意对话并发送命令让它执行。 注意：目前仅支持 Mac 版 Codex，Windows 版本还在开发中。 OpenAI 在封号上没有 Anthropic 那么激进和傻逼，所以你可以放心用。",
-      "url": "https://x.com/op7418/status/2055104256978681980",
+      "content": "Claude 重置了五小时和这周的额度限制，周末可以爽了 ClaudeDevs (@ClaudeDevs) Happy Friday! We've reset everyone's 5-hour and weekly rate limits. — https://nitter.net/ClaudeDevs/status/2055347539923308703#m",
+      "url": "https://x.com/op7418/status/2055452499323363335",
       "images": null,
-      "published": "2026-05-15T01:53:31+00:00",
+      "published": "2026-05-16T00:57:18+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2055098990123950203",
+      "id": "yt_CaBXLZyaJYU",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Update and audit a finance model in Excel with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=CaBXLZyaJYU",
+      "thumbnail": "https://img.youtube.com/vi/CaBXLZyaJYU/maxresdefault.jpg",
+      "published": "2026-05-15T20:41:26+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2055323357474926913",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -47,10 +63,146 @@
         "Design"
       ],
       "title": null,
-      "content": "嘉琛的 bridge 有些设计和能力真的很顶 Jc He (@jc_he_afk) 让一百个人爱上你的产品，好过让一百万个人“有点喜欢”你的产品。 创业以后，特别认可一句话叫“优秀是卓越的阻碍”。就是说，一个很“优秀”的人，一个很“优秀”的产品很难有动力去把事情做到最后一公里。真正做出好东西的founder，很少有履历一路坦途的985高学历大厂高管。 他们会因为“优秀”的退路太多走向平庸。 在@paulg 那里，这也是老生常谈的所谓“Do things that don't scale”. 做东西不能一开始就求快。 所以，我们思前想后，还是给bridge上了邀请码。因为我们真的想与第一波用户产生深度的联系，和早期的用户学习一下，有哪些事情是“只有bridge能做好”的。 Vibe working tool. 需要在早期有个好点的氛围。 本条推前一百个留言的人，我会送自带管饱token的 bridge 激活码 — https://nitter.net/jc_he_afk/status/2054978810886701241#m",
-      "url": "https://x.com/op7418/status/2055098990123950203",
+      "content": "忘了发飞书 CLI 的地址了，没装的推荐试试： github.com/larksuite/cli 歸藏(guizang.ai) (@op7418) 飞书 CLI 牛皮啊，发布一个月多点就达到 10000 Star 了！ 说明用户和市场相当认可这个动作 最近我们可以发现，越来越多的传统办公产品开始发布 CLI 和 Agent。 AI 时代的 SaaS 软件可能得换个做法了：UI 只是最基本的，接下来还要竞争对 Agent 的适配程度以及覆盖率。在这块，我觉得飞书走得相当靠前。 作为一个 IM 软件，飞书在 AI 时代去做这种开放自己所有能力的 CLI 工具，其实是一种非常不传统互联网的尝试。 这对于之前的互联网产品逻辑和经验来说，是一个非常不应该做的决定。 因为他们这个 CLI 几乎可以控制飞书的所有能力：你可以完全不跟飞书的传统 UI 去交互。只跟 CLI 交互，也可以完成飞书上所有的工作。 传统的 IM 办公软件通常非常复杂，入门门槛相对较高。无论从产品逻辑、UI 设计还是交互设计的角度来看，都没有办法太好地消解这种复杂性。 但是 CLI 工具交付给 Agent 以后，就可以快速消解这种复杂性。用户只需要进行对话，这是非常本能的行为，不需要在繁杂的层级列表 UI 里去寻找功能入口。 我拉了一下数据，他们迭代效率也非常恐怖，它们是 3 月 28 号开源的，一个多月发了 32 个版本、385 个提交。 这说明飞书对这块是非常重视的，投入的人力和精力也非常大。 他们在 CLI 本身的设计上也考虑得非常多，下了很多功夫。主要分为三层： 面向日常任务的快捷命令、开放平台对应的标准 API、兜底的 API 调用。 因为人和 Agent 都不喜欢从 2500 个 API 里去寻找参数，但又需要把这些能力暴露出来，所以他们采用了这种分层的形式。 即使做了分层设计，CLI 本身的内容和 API 依然非常多。所以他们把 CLI 作为工具本身，同时做了很多 Skills 用来充当 CLI 的说明书。 Agent 可以分层、分类型地了解应该如何调用这些 CLI 及其命令。 此外，他们在对 Agent 友好的命令包装上做了很多工作，例如： (a) 内置了 Dry Run (b) 结构化输出 (c) 身份选择、权限检查与风险等级评估 (d) 允许 Agent 在发消息前预览请求 (e) 建立了输出格式的“契约”：将成功或失败的结果、原因以及风险提示都放在结构化数据里。 这样如果出错了，AI 可以非常清楚地进行调试和修改，而不是盲目猜测。 其实现在你如果要创业或者做自己的 Agent，就不需要非得写一个界面。 飞书 CLI 加上 Agent 框架可以完成所有的 Agent 产品常见的操作： 你的聊天界面就是你的 Agent 聊天界面； 你的数据库就是飞书多维表格和文档； 你的用户就是把你拉到组织里的群成员； — https://nitter.net/op7418/status/2055173939522159052#m",
+      "url": "https://x.com/op7418/status/2055323357474926913",
       "images": null,
-      "published": "2026-05-15T01:32:35+00:00",
+      "published": "2026-05-15T16:24:09+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2055300743985500192",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "有些是一个月前老视频，有的是这几天新补的，现在更成体系了",
+      "url": "https://x.com/op7418/status/2055300743985500192",
+      "images": null,
+      "published": "2026-05-15T14:54:17+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2055298554592374808",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "课程地址：piped.video/playlist?list=PL…",
+      "url": "https://x.com/op7418/status/2055298554592374808",
+      "images": null,
+      "published": "2026-05-15T14:45:35+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2055298462984597511",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "最近很多 Claude Code 的保姆级教程很火。 现在 Anthropic 官方出了一个 Claude Code 的保姆级教程，总共 9 节课，叫 Claude Code 101。 这玩意不比互联网上所有的 Claude Code 入门教程牛皮？ 装个沉浸式翻译插件看一看，你就是 Claude Code 的专家了，冲 九节课的内容分别是： Claude Code 是什么？ 如何安装？ 底层工作方式？ 教你写第一个高质量 Claude Code 的提示词。 什么是 Claude.md？ Explore 模式、Plan 模式和 Code 模式。 MCP 是什么？ 如何管理上下文？ 怎么用 Hooks？",
+      "url": "https://x.com/op7418/status/2055298462984597511",
+      "images": null,
+      "published": "2026-05-15T14:45:13+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2055273576823959882",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "We're leveling up our community with a new Regional Lead program Grateful to everyone on board so far!",
+      "url": "https://x.com/benln/status/2055273576823959882",
+      "images": null,
+      "published": "2026-05-15T13:06:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2055184073921044535",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "刚才阿真提醒才发现， GPT 的 Codex 远程控制可以链接多个设备 只需要在你另一个设备的 Codex 上点击那个“设置 Codex 移动版就行” 歸藏(guizang.ai) (@op7418) Codex 终于支持手机上的 ChatGPT 远程控制了！ 可以自动同步你绑定的 Codex 设备上的所有对话，而且可以直接发送指令、审批权限、监控进度。 我写一下设置的教程： 1. 点击桌面端 Codex 客户端左侧的“设置 Codex 移动版”，点击后系统会引导你开始设置。 2. 如果你的 ChatGPT 没有设置多重因素验证（MFA），系统会弹出网页要求你设置。这里推荐使用 Google Authenticator（谷歌身份验证器）App，不要用手机短信。 3. 系统会要求你使用手机 ChatGPT 客户端扫码。如果你直接打开手机端 App，它通常会弹出授权请求，直接点击允许即可，不扫码也是可以的。 4. 绑定完成后即可开始使用。你会在手机 ChatGPT 上看到一个 Codex 侧边栏，进去后能看到当前绑定的桌面端设备的所有 Codex 对话。你可以点击进入任意对话并发送命令让它执行。 注意：目前仅支持 Mac 版 Codex，Windows 版本还在开发中。 OpenAI 在封号上没有 Anthropic 那么激进和傻逼，所以你可以放心用。 — https://nitter.net/op7418/status/2055104256978681980#m",
+      "url": "https://x.com/op7418/status/2055184073921044535",
+      "images": null,
+      "published": "2026-05-15T07:10:41+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2055173939522159052",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "飞书 CLI 牛皮啊，发布一个月多点就达到 10000 Star 了！ 说明用户和市场相当认可这个动作 最近我们可以发现，越来越多的传统办公产品开始发布 CLI 和 Agent。 AI 时代的 SaaS 软件可能得换个做法了：UI 只是最基本的，接下来还要竞争对 Agent 的适配程度以及覆盖率。在这块，我觉得飞书走得相当靠前。 作为一个 IM 软件，飞书在 AI 时代去做这种开放自己所有能力的 CLI 工具，其实是一种非常不传统互联网的尝试。 这对于之前的互联网产品逻辑和经验来说，是一个非常不应该做的决定。 因为他们这个 CLI 几乎可以控制飞书的所有能力：你可以完全不跟飞书的传统 UI 去交互。只跟 CLI 交互，也可以完成飞书上所有的工作。 传统的 IM 办公软件通常非常复杂，入门门槛相对较高。无论从产品逻辑、UI 设计还是交互设计的角度来看，都没有办法太好地消解这种复杂性。 但是 CLI 工具交付给 Agent 以后，就可以快速消解这种复杂性。用户只需要进行对话，这是非常本能的行为，不需要在繁杂的层级列表 UI 里去寻找功能入口。 我拉了一下数据，他们迭代效率也非常恐怖，它们是 3 月 28 号开源的，一个多月发了 32 个版本、385 个提交。 这说明飞书对这块是非常重视的，投入的人力和精力也非常大。 他们在 CLI 本身的设计上也考虑得非常多，下了很多功夫。主要分为三层： 面向日常任务的快捷命令、开放平台对应的标准 API、兜底的 API 调用。 因为人和 Agent 都不喜欢从 2500 个 API 里去寻找参数，但又需要把这些能力暴露出来，所以他们采用了这种分层的形式。 即使做了分层设计，CLI 本身的内容和 API 依然非常多。所以他们把 CLI 作为工具本身，同时做了很多 Skills 用来充当 CLI 的说明书。 Agent 可以分层、分类型地了解应该如何调用这些 CLI 及其命令。 此外，他们在对 Agent 友好的命令包装上做了很多工作，例如： (a) 内置了 Dry Run (b) 结构化输出 (c) 身份选择、权限检查与风险等级评估 (d) 允许 Agent 在发消息前预览请求 (e) 建立了输出格式的“契约”：将成功或失败的结果、原因以及风险提示都放在结构化数据里。 这样如果出错了，AI 可以非常清楚地进行调试和修改，而不是盲目猜测。 其实现在你如果要创业或者做自己的 Agent，就不需要非得写一个界面。 飞书 CLI 加上 Agent 框架可以完成所有的 Agent 产品常见的操作： 你的聊天界面就是你的 Agent 聊天界面； 你的数据库就是飞书多维表格和文档； 你的用户就是把你拉到组织里的群成员；",
+      "url": "https://x.com/op7418/status/2055173939522159052",
+      "images": null,
+      "published": "2026-05-15T06:30:25+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2055154197956604386",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codepilot 新版预览，即将支持 Codex 作为 Agent 引擎",
+      "url": "https://x.com/op7418/status/2055154197956604386",
+      "images": null,
+      "published": "2026-05-15T05:11:58+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2055135882290901063",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "也可以直接在 ChatGPT 里边用控制 claude code 或其他的软件。 让 codex 调用 computer use 控制就行。 这样的话，如果你是 codex 和 cloud code 的协作开发，就可以让就可以都在 ChatGPT 里边进行控制。 你如果你开的是自动审查权限的话，就不太好控制，开那个完整权限才行。 不然自动审查会拒绝他读取终端 claude code 里的内容 歸藏(guizang.ai) (@op7418) Codex 终于支持手机上的 ChatGPT 远程控制了！ 可以自动同步你绑定的 Codex 设备上的所有对话，而且可以直接发送指令、审批权限、监控进度。 我写一下设置的教程： 1. 点击桌面端 Codex 客户端左侧的“设置 Codex 移动版”，点击后系统会引导你开始设置。 2. 如果你的 ChatGPT 没有设置多重因素验证（MFA），系统会弹出网页要求你设置。这里推荐使用 Google Authenticator（谷歌身份验证器）App，不要用手机短信。 3. 系统会要求你使用手机 ChatGPT 客户端扫码。如果你直接打开手机端 App，它通常会弹出授权请求，直接点击允许即可，不扫码也是可以的。 4. 绑定完成后即可开始使用。你会在手机 ChatGPT 上看到一个 Codex 侧边栏，进去后能看到当前绑定的桌面端设备的所有 Codex 对话。你可以点击进入任意对话并发送命令让它执行。 注意：目前仅支持 Mac 版 Codex，Windows 版本还在开发中。 OpenAI 在封号上没有 Anthropic 那么激进和傻逼，所以你可以放心用。 — https://nitter.net/op7418/status/2055104256978681980#m",
+      "url": "https://x.com/op7418/status/2055135882290901063",
+      "images": null,
+      "published": "2026-05-15T03:59:11+00:00",
       "hasTranscript": false
     },
     {
@@ -155,57 +307,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2054904223788351918",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "可以 调用 Skill 舒服了啊",
-      "url": "https://x.com/op7418/status/2054904223788351918",
-      "images": null,
-      "published": "2026-05-14T12:38:39+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2054903351222174138",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Raycast 居然更新了一个 Beta 版本，也就是 V2 版本。 这一下让它从单纯的启动器，变成了一个“启动器 + AI Agent”的工具了 整体的 UI 和界面全部重做了，更符合现在的 Mac 系统设计。 基础架构重构 (a) 启动器底层全部重做 (b) 搜索、调度、扩展功能重新设计 (c) 设置界面被重构 搜索功能升级 (a) 文件搜索被直接整合进主搜索 (b) 提供了更快的文件搜索体验 AI 能力增强 (a) 拥有单独的 AI Chat 输入框和聊天窗口 (b) AI 能力现在支持 Skills、Agent 和 Memory (c) 内置了语音输入",
-      "url": "https://x.com/op7418/status/2054903351222174138",
-      "images": null,
-      "published": "2026-05-14T12:35:11+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2054725474493067482",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Claude Code 的每周限额将增加 50%，持续到 7 月 13 号。 但是他们这次终于把类似 OpenClaw 和 Codepilot 这种使用 Agent SDK 构建的应用额度砍了。 6月 15 号开始是双轨制： 只有在 Claude Code 本身及其内部，你的 Max 和 Pro 账户才能享受正常额度。 如果你是用于 Agent SDK 构建的产品（也就是一些支持 Claude 账号登录的三方产品），你的额度会被折算成对应金额的 API 额度。 所以基本上，我们的额度减了十几倍吧。 比如说 Max 账户 20 倍的 200 美元 API 额度，如果你用 Claude 4.6 随便跑点大项目，估计半天就消耗光了。这下估计去 Codex 的人更多了。 主要是他们还玩文字游戏，削减配额就削减配额吧，非要说完全没变化，太不要脸了。 Lydia Hallie ✨ (@lydiahallie) To add some clarity: you don't pay extra. It's the same subscription, same price per month. What's new our sub now covers two separate pools: · Interactive → sub limits, unchanged · Programmatic → new $20–$200 included(!!) credit, metered at API rates Community note: Previously, programmatic usage like claude -p counted toward subsidized subscription limits; starting June 15, it draws from a separate $20–$200 monthly credit metered at full API rates, while interactive limits remain unchanged. support.claude.com/en/articles/15… — https://nitter.net/lydiahallie/status/2054670303834616119#m",
-      "url": "https://x.com/op7418/status/2054725474493067482",
-      "images": null,
-      "published": "2026-05-14T00:48:22+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_qGS9Ghnq1RU",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -307,40 +408,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2054491392261632448",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "用藏师傅的 PPT Skill 让 Codex 配图的技巧 涉及到一些非常生僻的事实你怕 Codex 画的图有问题的时候，可以让他搜索相关图片，然后基于搜索的图片生成新的图片 这样既可以保证真实性，又可以生成符合比例要求和高清的图片 比如云南这种甲马符 GPT 肯定是不知道长啥样的，但是垫图之后他能画的很好。 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
-      "url": "https://x.com/op7418/status/2054491392261632448",
-      "images": null,
-      "published": "2026-05-13T09:18:13+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2054488458446717248",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "做游记真的不错",
-      "url": "https://x.com/op7418/status/2054488458446717248",
-      "images": null,
-      "published": "2026-05-13T09:06:33+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_bMmEEa8-6fU",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -355,40 +422,6 @@
       "published": "2026-05-13T07:13:55+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2054433146532479266",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Skills 已经更新了这个带地图的版式和地图组件 大家让自己的 AI 更新这个 Skills 就行。 地图支持放大缩小和拖动，以及 AI 可以在地图上做任意的标记。 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
-      "url": "https://x.com/op7418/status/2054433146532479266",
-      "images": null,
-      "published": "2026-05-13T05:26:46+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2054428529736245652",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "跟 @lepadphone 老师聊了一下： 我们需要一个聚焦的公共空间，去分发、展示、曝光和连接。还有就是服务好开发者尤其是优质开发者。",
-      "url": "https://x.com/op7418/status/2054428529736245652",
-      "images": null,
-      "published": "2026-05-13T05:08:25+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_D_FCYsshMI4",
@@ -450,7 +483,7 @@
         "Business",
         "AI"
       ],
-      "title": "The Golden Age Thesis | Marc Andreessen on MTS",
+      "title": "Marc Andreessen’s Worldview in 60 Minutes | Live on MTS",
       "url": "https://www.youtube.com/watch?v=k1z0e7bGzq0",
       "thumbnail": "https://img.youtube.com/vi/k1z0e7bGzq0/maxresdefault.jpg",
       "published": "2026-05-11T14:30:11+00:00",
@@ -627,22 +660,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_JOu8v6CBjkE",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "We’re introducing three audio models in the API",
-      "url": "https://www.youtube.com/watch?v=JOu8v6CBjkE",
-      "thumbnail": "https://img.youtube.com/vi/JOu8v6CBjkE/maxresdefault.jpg",
-      "published": "2026-05-07T17:29:40+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2052372167593963687",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -692,23 +709,6 @@
       "published": "2026-05-06T14:30:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2052008806612193654",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cursor team runs virtual workshops open to anyone May schedule is live: cursor.com/workshops",
-      "url": "https://x.com/benln/status/2052008806612193654",
-      "images": null,
-      "published": "2026-05-06T12:53:18+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_X5bABLCuIHA",
