@@ -1,7 +1,75 @@
 {
-  "last_updated": "2026-05-16T02:34:15.848629Z",
+  "last_updated": "2026-05-17T02:42:37.424843Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2055561525633642762",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我终于知道昨天 OpenAI 官方的人回复我是啥意思了! Codex 除了用 ChatGPT 连接和远程控制以外，还可以在 Codex 再控制你的另一台电脑。 这样你就可以在 ChatGPT 上直接控制多台电脑，而不用在 ChatGPT 切换设备，只需要切换项目就好。 比如我这个 Mac Book 的 Codex 可以读取他本地的文件，也可以直接读取我另一台 Mac Mini 的上下文和文件。 说一下怎么做： 1. 首先你去“设置”里的“连接”，选择“控制其他设备”。 2. 在“控制其他设备”里点击加号，选择你其他已经安装 Codex 的设备。 3. 选择完了以后，你需要在新聊天下的“选择工作区”里连接远程项目。 4. 找到你另一个远程设备下需要让它访问的文件夹。 这样你就可以在 Codex 下看到另一个设备跑的项目，ChatGPT 选择这个设备时也能看到另一个设备的项目。 它们的上下文就共享了。这个太有用了！ Vaibhav (VB) Srivastav (@reach_vb) yes! and you can set up other VMs etc via remote SSH as well! — https://nitter.net/reach_vb/status/2055206718729077155#m",
+      "url": "https://x.com/op7418/status/2055561525633642762",
+      "images": null,
+      "published": "2026-05-16T08:10:32+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_yMt2oSemobE",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Thanks for a great time, India 🇮🇳",
+      "url": "https://www.youtube.com/watch?v=yMt2oSemobE",
+      "thumbnail": "https://img.youtube.com/vi/yMt2oSemobE/maxresdefault.jpg",
+      "published": "2026-05-16T05:00:49+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2055496585191280894",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "再把 Hermes 爱马仕 也接进来，这次 Codepilot 重构就差不多了，就得收尾了",
+      "url": "https://x.com/op7418/status/2055496585191280894",
+      "images": null,
+      "published": "2026-05-16T03:52:29+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2055477163579891897",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "尝试一下将 PPT Skills 作为产品去迭代和发布。 藏师傅 PPT Skills 截图美化逻辑更新 不需要消耗 GPT-Image 2.0 即可生成了！ 现在内置了跟当前颜色和主题相吻合的截图美化背景图。 AI 会根据你的截图大小、长宽比以及 PPT 的模板类型，自动帮你把图片放到截图模板上，添加类似 CleanShot X 这种截图美化软件的背景。 如果你的图片过长或者有其他问题，它也会帮你处理，比如说裁剪成两个并排的形式。 Video 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
+      "url": "https://x.com/op7418/status/2055477163579891897",
+      "images": null,
+      "published": "2026-05-16T02:35:19+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2055453671991943311",
       "source": "归藏",
@@ -152,57 +220,6 @@
       "url": "https://x.com/op7418/status/2055184073921044535",
       "images": null,
       "published": "2026-05-15T07:10:41+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2055173939522159052",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "飞书 CLI 牛皮啊，发布一个月多点就达到 10000 Star 了！ 说明用户和市场相当认可这个动作 最近我们可以发现，越来越多的传统办公产品开始发布 CLI 和 Agent。 AI 时代的 SaaS 软件可能得换个做法了：UI 只是最基本的，接下来还要竞争对 Agent 的适配程度以及覆盖率。在这块，我觉得飞书走得相当靠前。 作为一个 IM 软件，飞书在 AI 时代去做这种开放自己所有能力的 CLI 工具，其实是一种非常不传统互联网的尝试。 这对于之前的互联网产品逻辑和经验来说，是一个非常不应该做的决定。 因为他们这个 CLI 几乎可以控制飞书的所有能力：你可以完全不跟飞书的传统 UI 去交互。只跟 CLI 交互，也可以完成飞书上所有的工作。 传统的 IM 办公软件通常非常复杂，入门门槛相对较高。无论从产品逻辑、UI 设计还是交互设计的角度来看，都没有办法太好地消解这种复杂性。 但是 CLI 工具交付给 Agent 以后，就可以快速消解这种复杂性。用户只需要进行对话，这是非常本能的行为，不需要在繁杂的层级列表 UI 里去寻找功能入口。 我拉了一下数据，他们迭代效率也非常恐怖，它们是 3 月 28 号开源的，一个多月发了 32 个版本、385 个提交。 这说明飞书对这块是非常重视的，投入的人力和精力也非常大。 他们在 CLI 本身的设计上也考虑得非常多，下了很多功夫。主要分为三层： 面向日常任务的快捷命令、开放平台对应的标准 API、兜底的 API 调用。 因为人和 Agent 都不喜欢从 2500 个 API 里去寻找参数，但又需要把这些能力暴露出来，所以他们采用了这种分层的形式。 即使做了分层设计，CLI 本身的内容和 API 依然非常多。所以他们把 CLI 作为工具本身，同时做了很多 Skills 用来充当 CLI 的说明书。 Agent 可以分层、分类型地了解应该如何调用这些 CLI 及其命令。 此外，他们在对 Agent 友好的命令包装上做了很多工作，例如： (a) 内置了 Dry Run (b) 结构化输出 (c) 身份选择、权限检查与风险等级评估 (d) 允许 Agent 在发消息前预览请求 (e) 建立了输出格式的“契约”：将成功或失败的结果、原因以及风险提示都放在结构化数据里。 这样如果出错了，AI 可以非常清楚地进行调试和修改，而不是盲目猜测。 其实现在你如果要创业或者做自己的 Agent，就不需要非得写一个界面。 飞书 CLI 加上 Agent 框架可以完成所有的 Agent 产品常见的操作： 你的聊天界面就是你的 Agent 聊天界面； 你的数据库就是飞书多维表格和文档； 你的用户就是把你拉到组织里的群成员；",
-      "url": "https://x.com/op7418/status/2055173939522159052",
-      "images": null,
-      "published": "2026-05-15T06:30:25+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2055154197956604386",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codepilot 新版预览，即将支持 Codex 作为 Agent 引擎",
-      "url": "https://x.com/op7418/status/2055154197956604386",
-      "images": null,
-      "published": "2026-05-15T05:11:58+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2055135882290901063",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "也可以直接在 ChatGPT 里边用控制 claude code 或其他的软件。 让 codex 调用 computer use 控制就行。 这样的话，如果你是 codex 和 cloud code 的协作开发，就可以让就可以都在 ChatGPT 里边进行控制。 你如果你开的是自动审查权限的话，就不太好控制，开那个完整权限才行。 不然自动审查会拒绝他读取终端 claude code 里的内容 歸藏(guizang.ai) (@op7418) Codex 终于支持手机上的 ChatGPT 远程控制了！ 可以自动同步你绑定的 Codex 设备上的所有对话，而且可以直接发送指令、审批权限、监控进度。 我写一下设置的教程： 1. 点击桌面端 Codex 客户端左侧的“设置 Codex 移动版”，点击后系统会引导你开始设置。 2. 如果你的 ChatGPT 没有设置多重因素验证（MFA），系统会弹出网页要求你设置。这里推荐使用 Google Authenticator（谷歌身份验证器）App，不要用手机短信。 3. 系统会要求你使用手机 ChatGPT 客户端扫码。如果你直接打开手机端 App，它通常会弹出授权请求，直接点击允许即可，不扫码也是可以的。 4. 绑定完成后即可开始使用。你会在手机 ChatGPT 上看到一个 Codex 侧边栏，进去后能看到当前绑定的桌面端设备的所有 Codex 对话。你可以点击进入任意对话并发送命令让它执行。 注意：目前仅支持 Mac 版 Codex，Windows 版本还在开发中。 OpenAI 在封号上没有 Anthropic 那么激进和傻逼，所以你可以放心用。 — https://nitter.net/op7418/status/2055104256978681980#m",
-      "url": "https://x.com/op7418/status/2055135882290901063",
-      "images": null,
-      "published": "2026-05-15T03:59:11+00:00",
       "hasTranscript": false
     },
     {
@@ -449,7 +466,7 @@
         "Business",
         "AI"
       ],
-      "title": "Goldman Sachs Chairman on AI and The Future of Finance | The a16z Show",
+      "title": "Goldman Sachs Chairman on Why Finance Adopts AI Differently | a16z",
       "url": "https://www.youtube.com/watch?v=9qqLihL4AWk",
       "thumbnail": "https://img.youtube.com/vi/9qqLihL4AWk/maxresdefault.jpg",
       "published": "2026-05-12T14:00:22+00:00",
@@ -843,23 +860,6 @@
       "url": "https://www.youtube.com/watch?v=S8Z2v2bxocM",
       "thumbnail": "https://img.youtube.com/vi/S8Z2v2bxocM/maxresdefault.jpg",
       "published": "2026-05-03T01:07:15+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_515J0QD9p6w",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Software for Agents",
-      "url": "https://www.youtube.com/watch?v=515J0QD9p6w",
-      "thumbnail": "https://img.youtube.com/vi/515J0QD9p6w/maxresdefault.jpg",
-      "published": "2026-05-02T17:20:18+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
