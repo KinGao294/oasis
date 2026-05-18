@@ -1,7 +1,160 @@
 {
-  "last_updated": "2026-05-17T02:42:37.424843Z",
+  "last_updated": "2026-05-18T02:52:47.571996Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2056051172814008808",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "三个月前发布的，居然漏了",
+      "url": "https://x.com/op7418/status/2056051172814008808",
+      "images": null,
+      "published": "2026-05-17T16:36:13+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2056048721427927316",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "drive.google.com/file/d/1QR-…",
+      "url": "https://x.com/op7418/status/2056048721427927316",
+      "images": null,
+      "published": "2026-05-17T16:26:29+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2056048680290103504",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Anthropic 官方发布的 Skill 构建指南 我用 AI 翻译了一个双语版本，放下面了",
+      "url": "https://x.com/op7418/status/2056048680290103504",
+      "images": null,
+      "published": "2026-05-17T16:26:19+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2056041334490710205",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "New side-project ideas:",
+      "url": "https://x.com/benln/status/2056041334490710205",
+      "images": null,
+      "published": "2026-05-17T15:57:08+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2056021748236382448",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codex 搞得完整版视频演示nitter.net/op7418/status/20560211… 歸藏(guizang.ai) (@op7418) 让 Codex 自己做了一条视频介绍了一下这个视频生成方案 藏师傅的 PPT Skill 负责美学、版式、动效 HyperFrames 负责时间线和渲染、字幕 Listenhub Skill 负责配音 即梦 CLI 负责 前端无法生成的演示和短 B-roll Video — https://nitter.net/op7418/status/2056021133477163298#m",
+      "url": "https://x.com/op7418/status/2056021748236382448",
+      "images": null,
+      "published": "2026-05-17T14:39:18+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2056021133477163298",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "让 Codex 自己做了一条视频介绍了一下这个视频生成方案 藏师傅的 PPT Skill 负责美学、版式、动效 HyperFrames 负责时间线和渲染、字幕 Listenhub Skill 负责配音 即梦 CLI 负责 前端无法生成的演示和短 B-roll Video 歸藏(guizang.ai) (@op7418) 藏师傅的 PPT Skill+Codex+Heygen HyperFrames 这个组合太顶了！ 可以直接基于问当生成带动效的解释视频 而且 Codex 居然可以在聊天里面直接预览视频，这个挺厉害的。 再加上即梦 CLI 补几个真实视频片段，用来做一些产品更新介绍之类的一点问题没有。 Video — https://nitter.net/op7418/status/2055984747176939818#m",
+      "url": "https://x.com/op7418/status/2056021133477163298",
+      "images": null,
+      "published": "2026-05-17T14:36:51+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2055992175356514502",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这里安装：weread.qq.com/r/weread-skill…",
+      "url": "https://x.com/op7418/status/2055992175356514502",
+      "images": null,
+      "published": "2026-05-17T12:41:47+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2055992093882122727",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "微信读书居然出 Skills 了，感觉挺有用的。它能够： 1. 查看你的笔记和划线 2. 推荐书籍 3. 查看你的数据统计和阅读统计 我让 CodePilot 整理了一下我的阅读数据，然后基于这些数据出了一个数据分析，试了一下。",
+      "url": "https://x.com/op7418/status/2055992093882122727",
+      "images": null,
+      "published": "2026-05-17T12:41:28+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2055984747176939818",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "藏师傅的 PPT Skill+Codex+Heygen HyperFrames 这个组合太顶了！ 可以直接基于问当生成带动效的解释视频 而且 Codex 居然可以在聊天里面直接预览视频，这个挺厉害的。 再加上即梦 CLI 补几个真实视频片段，用来做一些产品更新介绍之类的一点问题没有。 Video 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
+      "url": "https://x.com/op7418/status/2055984747176939818",
+      "images": null,
+      "published": "2026-05-17T12:12:16+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2055561525633642762",
       "source": "归藏",
@@ -54,57 +207,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2055477163579891897",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "尝试一下将 PPT Skills 作为产品去迭代和发布。 藏师傅 PPT Skills 截图美化逻辑更新 不需要消耗 GPT-Image 2.0 即可生成了！ 现在内置了跟当前颜色和主题相吻合的截图美化背景图。 AI 会根据你的截图大小、长宽比以及 PPT 的模板类型，自动帮你把图片放到截图模板上，添加类似 CleanShot X 这种截图美化软件的背景。 如果你的图片过长或者有其他问题，它也会帮你处理，比如说裁剪成两个并排的形式。 Video 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
-      "url": "https://x.com/op7418/status/2055477163579891897",
-      "images": null,
-      "published": "2026-05-16T02:35:19+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2055453671991943311",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codex 也会重置： Tibo (@thsottiaux) We found and fixed two issues that could explain this degradation of the capability of GPT-5.5 in Codex over the last ~ 48 hours. We are monitoring over the coming hours to fully confirm and I will reset usage limits this evening. Apologies and now is the time for /fast maxxing. — https://nitter.net/thsottiaux/status/2055446089957036402#m",
-      "url": "https://x.com/op7418/status/2055453671991943311",
-      "images": null,
-      "published": "2026-05-16T01:01:58+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2055452499323363335",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Claude 重置了五小时和这周的额度限制，周末可以爽了 ClaudeDevs (@ClaudeDevs) Happy Friday! We've reset everyone's 5-hour and weekly rate limits. — https://nitter.net/ClaudeDevs/status/2055347539923308703#m",
-      "url": "https://x.com/op7418/status/2055452499323363335",
-      "images": null,
-      "published": "2026-05-16T00:57:18+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_CaBXLZyaJYU",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -121,74 +223,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2055323357474926913",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "忘了发飞书 CLI 的地址了，没装的推荐试试： github.com/larksuite/cli 歸藏(guizang.ai) (@op7418) 飞书 CLI 牛皮啊，发布一个月多点就达到 10000 Star 了！ 说明用户和市场相当认可这个动作 最近我们可以发现，越来越多的传统办公产品开始发布 CLI 和 Agent。 AI 时代的 SaaS 软件可能得换个做法了：UI 只是最基本的，接下来还要竞争对 Agent 的适配程度以及覆盖率。在这块，我觉得飞书走得相当靠前。 作为一个 IM 软件，飞书在 AI 时代去做这种开放自己所有能力的 CLI 工具，其实是一种非常不传统互联网的尝试。 这对于之前的互联网产品逻辑和经验来说，是一个非常不应该做的决定。 因为他们这个 CLI 几乎可以控制飞书的所有能力：你可以完全不跟飞书的传统 UI 去交互。只跟 CLI 交互，也可以完成飞书上所有的工作。 传统的 IM 办公软件通常非常复杂，入门门槛相对较高。无论从产品逻辑、UI 设计还是交互设计的角度来看，都没有办法太好地消解这种复杂性。 但是 CLI 工具交付给 Agent 以后，就可以快速消解这种复杂性。用户只需要进行对话，这是非常本能的行为，不需要在繁杂的层级列表 UI 里去寻找功能入口。 我拉了一下数据，他们迭代效率也非常恐怖，它们是 3 月 28 号开源的，一个多月发了 32 个版本、385 个提交。 这说明飞书对这块是非常重视的，投入的人力和精力也非常大。 他们在 CLI 本身的设计上也考虑得非常多，下了很多功夫。主要分为三层： 面向日常任务的快捷命令、开放平台对应的标准 API、兜底的 API 调用。 因为人和 Agent 都不喜欢从 2500 个 API 里去寻找参数，但又需要把这些能力暴露出来，所以他们采用了这种分层的形式。 即使做了分层设计，CLI 本身的内容和 API 依然非常多。所以他们把 CLI 作为工具本身，同时做了很多 Skills 用来充当 CLI 的说明书。 Agent 可以分层、分类型地了解应该如何调用这些 CLI 及其命令。 此外，他们在对 Agent 友好的命令包装上做了很多工作，例如： (a) 内置了 Dry Run (b) 结构化输出 (c) 身份选择、权限检查与风险等级评估 (d) 允许 Agent 在发消息前预览请求 (e) 建立了输出格式的“契约”：将成功或失败的结果、原因以及风险提示都放在结构化数据里。 这样如果出错了，AI 可以非常清楚地进行调试和修改，而不是盲目猜测。 其实现在你如果要创业或者做自己的 Agent，就不需要非得写一个界面。 飞书 CLI 加上 Agent 框架可以完成所有的 Agent 产品常见的操作： 你的聊天界面就是你的 Agent 聊天界面； 你的数据库就是飞书多维表格和文档； 你的用户就是把你拉到组织里的群成员； — https://nitter.net/op7418/status/2055173939522159052#m",
-      "url": "https://x.com/op7418/status/2055323357474926913",
-      "images": null,
-      "published": "2026-05-15T16:24:09+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2055300743985500192",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "有些是一个月前老视频，有的是这几天新补的，现在更成体系了",
-      "url": "https://x.com/op7418/status/2055300743985500192",
-      "images": null,
-      "published": "2026-05-15T14:54:17+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2055298554592374808",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "课程地址：piped.video/playlist?list=PL…",
-      "url": "https://x.com/op7418/status/2055298554592374808",
-      "images": null,
-      "published": "2026-05-15T14:45:35+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2055298462984597511",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "最近很多 Claude Code 的保姆级教程很火。 现在 Anthropic 官方出了一个 Claude Code 的保姆级教程，总共 9 节课，叫 Claude Code 101。 这玩意不比互联网上所有的 Claude Code 入门教程牛皮？ 装个沉浸式翻译插件看一看，你就是 Claude Code 的专家了，冲 九节课的内容分别是： Claude Code 是什么？ 如何安装？ 底层工作方式？ 教你写第一个高质量 Claude Code 的提示词。 什么是 Claude.md？ Explore 模式、Plan 模式和 Code 模式。 MCP 是什么？ 如何管理上下文？ 怎么用 Hooks？",
-      "url": "https://x.com/op7418/status/2055298462984597511",
-      "images": null,
-      "published": "2026-05-15T14:45:13+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2055273576823959882",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -203,23 +237,6 @@
       "url": "https://x.com/benln/status/2055273576823959882",
       "images": null,
       "published": "2026-05-15T13:06:20+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2055184073921044535",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "刚才阿真提醒才发现， GPT 的 Codex 远程控制可以链接多个设备 只需要在你另一个设备的 Codex 上点击那个“设置 Codex 移动版就行” 歸藏(guizang.ai) (@op7418) Codex 终于支持手机上的 ChatGPT 远程控制了！ 可以自动同步你绑定的 Codex 设备上的所有对话，而且可以直接发送指令、审批权限、监控进度。 我写一下设置的教程： 1. 点击桌面端 Codex 客户端左侧的“设置 Codex 移动版”，点击后系统会引导你开始设置。 2. 如果你的 ChatGPT 没有设置多重因素验证（MFA），系统会弹出网页要求你设置。这里推荐使用 Google Authenticator（谷歌身份验证器）App，不要用手机短信。 3. 系统会要求你使用手机 ChatGPT 客户端扫码。如果你直接打开手机端 App，它通常会弹出授权请求，直接点击允许即可，不扫码也是可以的。 4. 绑定完成后即可开始使用。你会在手机 ChatGPT 上看到一个 Codex 侧边栏，进去后能看到当前绑定的桌面端设备的所有 Codex 对话。你可以点击进入任意对话并发送命令让它执行。 注意：目前仅支持 Mac 版 Codex，Windows 版本还在开发中。 OpenAI 在封号上没有 Anthropic 那么激进和傻逼，所以你可以放心用。 — https://nitter.net/op7418/status/2055104256978681980#m",
-      "url": "https://x.com/op7418/status/2055184073921044535",
-      "images": null,
-      "published": "2026-05-15T07:10:41+00:00",
       "hasTranscript": false
     },
     {
@@ -675,23 +692,6 @@
       "published": "2026-05-08T06:13:57+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2052372167593963687",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Y Combinator job board > LinkedIn Founders DM you directly",
-      "url": "https://x.com/benln/status/2052372167593963687",
-      "images": null,
-      "published": "2026-05-07T12:57:10+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_nepKKz-MzFM",
