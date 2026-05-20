@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-19T02:49:34.843223Z",
-  "count": 41,
+  "last_updated": "2026-05-20T02:50:06.851233Z",
+  "count": 31,
   "items": [
     {
-      "id": "x_2056566924688146891",
+      "id": "x_2056914890481357138",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -13,14 +13,14 @@
         "Design"
       ],
       "title": null,
-      "content": "英伟达开始交付自己设计的通用 CPU NVIDIA Vera了。 重点优化的是长期高并发和高吞吐的场景，专门用来做Agent 编排和工具调用的中枢。 模型可以在 GPU 上进行推理，但所有的调度编排和调用工具都放在这个 CPU 上。 这种密集 Agent、密集常驻的强 IO、内存和调度压力的工作，其实都是 CPU 的工作，所以他们专门做了一个 CPU。 这次交付由英伟达自己上门，将这个 CPU 送到了：Anthropic、OpenAI、xAI、OCI，其中 xAI 是由老马亲自接待的。 NVIDIA (@nvidia) NVIDIA’s Ian Buck hand-delivered the first-ever NVIDIA Vera CPUs to our partners @AnthropicAI, @OpenAI, @SpaceX, and @OracleCloud. 🎉 Vera is NVIDIA's first custom CPU, purpose-built for the age of agentic AI. This is just the beginning. The road to Vera-powered systems starts here. Thank you to our partners for being on this journey with us. The best is yet to come. 💚 Video — https://nitter.net/nvidia/status/2056494241904271780#m",
-      "url": "https://x.com/op7418/status/2056566924688146891",
+      "content": "AI Studio 的安卓客户端还是没有上线",
+      "url": "https://x.com/op7418/status/2056914890481357138",
       "images": null,
-      "published": "2026-05-19T02:45:38+00:00",
+      "published": "2026-05-20T01:48:20+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2056565847884533928",
+      "id": "x_2056913908489937395",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -30,14 +30,14 @@
         "Design"
       ],
       "title": null,
-      "content": "波士顿动力机器人的新演示，现在可以搬动很重的东西 Video",
-      "url": "https://x.com/op7418/status/2056565847884533928",
+      "content": "AI Studio 昨晚更新主要有两个： 1. 支持从 Google Docs 和 Google Sheets 里面拉数据。你可以把谷歌表格直接作为开发应用的数据库。 2. 支持在网页里开发安卓应用程序。 我试了一下，这个 3.1 Pro 的安卓开发水平确实不如前端。 但更吊的是，它在 Studio 里塞了一个安卓模拟器，我去，太离谱了！",
+      "url": "https://x.com/op7418/status/2056913908489937395",
       "images": null,
-      "published": "2026-05-19T02:41:21+00:00",
+      "published": "2026-05-20T01:44:26+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2056565482715795494",
+      "id": "x_2056904254175281353",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -47,14 +47,31 @@
         "Design"
       ],
       "title": null,
-      "content": "Telegram 上的机器人现在可以直接跟其他机器人对话了 也就是你的群聊可以直接拉多个不同的 Agent 机器人进行交流。 Pavel Durov (@durov) 🤖 AI devs asked for this — and we delivered. 💬 Bots can now talk to other bots on Telegram. 🧠 Autonomous agents now have a communication layer humans can follow. — https://nitter.net/durov/status/2056386732598432093#m",
-      "url": "https://x.com/op7418/status/2056565482715795494",
+      "content": "昨天谷歌 I/O 大会在编程上的动作，主要是把 Antigravit 的整个生态整合了。 Gemini 的 CLI 现在也叫 Antigravit CLI，还发布了对应的 SDK。 Antigravit 这个软件本身也迭代到了 2.0 版本，现在更像 Codex，而不像原来的 Cursor。 我大概试了一下。 用我的 PPT Skills 和一个文档测试了 Gemini 3.5 Flash 和 Antigravit 的配合。效果上肯定是比之前的 Antigravit 好用的，但功能差得有点多。 主要有以下几个问题： 1. 权限审批太繁琐：大家都已经开始用自动权限了，它还得一个一个去审批，非常耗时，用起来很不习惯。 2. 细节体验不到位： - 比如其他产品都内置了浏览器（像 Codex 就可以直接预览效果），它连个直接打开的按钮都没有。 - 如果输出了网页，你还得自己去找到输出文件夹，再手动打开对应的网页。 整体效果还是比较初期和早期的，但好歹 Gemini 3.5 Flash 的 Agent 能力感觉比较强。如果用来做一些基础的工作还是可以的。 在我这个 PPT Skills 的测试结果来看，如果不编写复杂代码，初次生成结果的排版出错比较少。 这得益于 Gemini 原生较强的多模态能力，所以它对复杂排版的感知比较好。如果大家要用 PPT Skills 的话，可以试试在 Antigravit 里面用。",
+      "url": "https://x.com/op7418/status/2056904254175281353",
       "images": null,
-      "published": "2026-05-19T02:39:54+00:00",
+      "published": "2026-05-20T01:06:04+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2056565195007504498",
+      "id": "x_2056782944614715887",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "10x usage on Composer 2.5 today: Michael Truell (@mntruell) Composer 2.5 is now the most-chosen model in Cursor. We're giving everyone 10x usage for the rest of the day. Enjoy! — https://nitter.net/mntruell/status/2056780569380626686#m",
+      "url": "https://x.com/benln/status/2056782944614715887",
+      "images": null,
+      "published": "2026-05-19T17:04:01+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2056767667110109290",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -64,10 +81,129 @@
         "Design"
       ],
       "title": null,
-      "content": "今晚谷歌新视频模型的演示。 看起来肯定是可以进行视频编辑了，就是不知道是统一模型还是跟生成分开的 Video Video Sundar Pichai (@sundarpichai) On our way to I/O 2026. See you at 10am PT tomorrow! Video — https://nitter.net/sundarpichai/status/2056524502746747048#m",
-      "url": "https://x.com/op7418/status/2056565195007504498",
+      "content": "测试：nitter.net/op7418/status/20567644… 歸藏(guizang.ai) (@op7418) 谷歌 Gemini Omni Flash 视频编辑测试。 你们应该能猜到我原始视频是在哪儿录的，反正效果远不如 SeeDance 2.0 Video — https://nitter.net/op7418/status/2056764456311664786#m",
+      "url": "https://x.com/op7418/status/2056767667110109290",
       "images": null,
-      "published": "2026-05-19T02:38:46+00:00",
+      "published": "2026-05-19T16:03:19+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2056766209698464020",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "忽略口音的话，这个表现也不是很自然。 口音是因为我选了它内置的那个 Gemini TTS，所以才有这种英式口音 Video",
+      "url": "https://x.com/op7418/status/2056766209698464020",
+      "images": null,
+      "published": "2026-05-19T15:57:31+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2056766073714909196",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这个分镜编排能力以及创作意识都不如 Sora 2，没有创作能力，只能编辑，做素材还行 Video",
+      "url": "https://x.com/op7418/status/2056766073714909196",
+      "images": null,
+      "published": "2026-05-19T15:56:59+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2056764456311664786",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "谷歌 Gemini Omni Flash 视频编辑测试。 你们应该能猜到我原始视频是在哪儿录的，反正效果远不如 SeeDance 2.0 Video 歸藏(guizang.ai) (@op7418) 哇！ 谷歌新视频模型 Gemini Omni Flash 已经上线 FLow — https://nitter.net/op7418/status/2056758486755844494#m",
+      "url": "https://x.com/op7418/status/2056764456311664786",
+      "images": null,
+      "published": "2026-05-19T15:50:33+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2056762153592574129",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "简单测了一下，别抱太大希望",
+      "url": "https://x.com/op7418/status/2056762153592574129",
+      "images": null,
+      "published": "2026-05-19T15:41:24+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2056759377387040829",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "还有 Flow 智能体模式，可以帮你构思概念和处理视频图像文件",
+      "url": "https://x.com/op7418/status/2056759377387040829",
+      "images": null,
+      "published": "2026-05-19T15:30:22+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2056759251658555508",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Flow 现在功能超级强大，还内置了一系列图像和视频处理工具",
+      "url": "https://x.com/op7418/status/2056759251658555508",
+      "images": null,
+      "published": "2026-05-19T15:29:52+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2056722248984093139",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "How we support Cafe Cursor takeovers around the world Everything you need to host in your city: Video",
+      "url": "https://x.com/benln/status/2056722248984093139",
+      "images": null,
+      "published": "2026-05-19T13:02:50+00:00",
       "hasTranscript": false
     },
     {
@@ -88,23 +224,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2056385525007909272",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "明天 20 （日）晚上凌晨 1 点就是今年的谷歌 IO 大会了，不知道有啥新活没有。 从泄露的几个看，如果模型没有大更新的话感觉能力上够呛啊。",
-      "url": "https://x.com/op7418/status/2056385525007909272",
-      "images": null,
-      "published": "2026-05-18T14:44:49+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2056363746432323978",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -122,74 +241,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2056314568037761427",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "基于藏师傅 PPT Skill 的讲解视频生成 Skill，差不多搞定了！ Codex 配合远程控制不在家也可以一键产出视频内容 可以用非常低的成本保证视频内容的可用性和表现力 这里的视频是我随便找了一个徒步文案一次生成的。 主要的内容用前端生成，只有配音和部分分镜使用音频和Seedance 2.0 模型 Video 歸藏(guizang.ai) (@op7418) 藏师傅的 PPT Skill+Codex+Heygen HyperFrames 这个组合太顶了！ 可以直接基于问当生成带动效的解释视频 而且 Codex 居然可以在聊天里面直接预览视频，这个挺厉害的。 再加上即梦 CLI 补几个真实视频片段，用来做一些产品更新介绍之类的一点问题没有。 Video — https://nitter.net/op7418/status/2055984747176939818#m",
-      "url": "https://x.com/op7418/status/2056314568037761427",
-      "images": null,
-      "published": "2026-05-18T10:02:52+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2056051172814008808",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "三个月前发布的，居然漏了",
-      "url": "https://x.com/op7418/status/2056051172814008808",
-      "images": null,
-      "published": "2026-05-17T16:36:13+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2056048721427927316",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "drive.google.com/file/d/1QR-…",
-      "url": "https://x.com/op7418/status/2056048721427927316",
-      "images": null,
-      "published": "2026-05-17T16:26:29+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2056048680290103504",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Anthropic 官方发布的 Skill 构建指南 我用 AI 翻译了一个双语版本，放下面了",
-      "url": "https://x.com/op7418/status/2056048680290103504",
-      "images": null,
-      "published": "2026-05-17T16:26:19+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2056041334490710205",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -204,23 +255,6 @@
       "url": "https://x.com/benln/status/2056041334490710205",
       "images": null,
       "published": "2026-05-17T15:57:08+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2056021748236382448",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codex 搞得完整版视频演示nitter.net/op7418/status/20560211… 歸藏(guizang.ai) (@op7418) 让 Codex 自己做了一条视频介绍了一下这个视频生成方案 藏师傅的 PPT Skill 负责美学、版式、动效 HyperFrames 负责时间线和渲染、字幕 Listenhub Skill 负责配音 即梦 CLI 负责 前端无法生成的演示和短 B-roll Video — https://nitter.net/op7418/status/2056021133477163298#m",
-      "url": "https://x.com/op7418/status/2056021748236382448",
-      "images": null,
-      "published": "2026-05-17T14:39:18+00:00",
       "hasTranscript": false
     },
     {
@@ -328,40 +362,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2054187742465028145",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor has hit 75 cities in 2026 (so far!) Want to host one in your city? Reach out.",
-      "url": "https://x.com/benln/status/2054187742465028145",
-      "images": null,
-      "published": "2026-05-12T13:11:37+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2053828473781715303",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor, round two. Where should we go first? • Paris • London • New York • Bangalore • Madrid • San Francisco • Berlin • São Paulo • Bogotá",
-      "url": "https://x.com/benln/status/2053828473781715303",
-      "images": null,
-      "published": "2026-05-11T13:24:01+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "pod_guigu101_pod_90f96f60_25be_45ac_b832_56776a23d534",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -379,23 +379,6 @@
       "published": "2026-05-08T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "近年来，癌症治疗正迎来多个技术平台并行演进、加速迭代的新阶段：从ADC、双特异性抗体、放射性配体疗法，到细胞治疗，整个行业都在经历一轮底层技术工具的升级。其中，CAR-T是最具范式转换意义的一类疗法——它首次在部分血液肿瘤中，把“利用工程化改造的免疫细胞精准清除癌细胞”带入了临床现实。更值得关注的是，2025年以来，跨国药企的押注明显转向体内CAR-T：阿斯利康、艾伯维、百时美施贵宝和礼来等公司，"
-    },
-    {
-      "id": "yt_nepKKz-MzFM",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "thumbnail": "https://img.youtube.com/vi/nepKKz-MzFM/maxresdefault.jpg",
-      "published": "2026-05-06T22:03:16+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_b2be7093_3366_4ee2_8a7a_625f06206ae5",
@@ -434,23 +417,6 @@
       "published": "2026-04-16T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "Peter Thiel，是硅谷最具争议和影响力的思想家之一。如果要用一句话概括他的思想，那就是：世界是由少数天选之人在幕后驱动的，而他就是其中之一。这套理论，不仅在以他为核心的“硅谷右翼”圈子中产生了影响，还通过Peter Thiel的政治参与，影响了更多的人。 那么，Peter Thiel的思想，又来源于什么呢？要理解他，答案藏在三位哲学家身上：法国文学批评理论家吉拉尔、纳粹党员法学家施密特、和"
-    },
-    {
-      "id": "yt_iKx3gAODybU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "thumbnail": "https://img.youtube.com/vi/iKx3gAODybU/maxresdefault.jpg",
-      "published": "2026-04-09T17:35:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_3bb14dd4_0b13_4173_9d5b_0e63bf98ae1d",
@@ -510,23 +476,6 @@
       "transcriptPreview": "本期播客是硅谷101在GTC 2026大会期间的线下特别录制，我们从老黄在Keynote上抛出的那几个大数字开始聊起： 1万亿——这是黄仁勋预期到2027年底，Blackwell和Vera Rubin两个平台带来的订单收入。 7块——这是大会一次性发布的Vera Rubin新芯片数量。 10倍、35倍——这是Vera Rubin NVL72 AI机架系统，相比Blackwell，它的推理效率提升了"
     },
     {
-      "id": "yt_vif8NQcjVf0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
-      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
-      "thumbnail": "https://img.youtube.com/vi/vif8NQcjVf0/maxresdefault.jpg",
-      "published": "2026-03-23T16:24:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_c457ca43_1305_44a3_b9cc_c68480802396",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -565,23 +514,6 @@
       "transcriptPreview": "在AI算力争霸时代，英伟达凭借GPU市值一路狂飙。但如今，它的蛋糕正在被一点点分食——2024年，苹果论文披露Apple Intelligence全部由TPU训练；2025年，Anthropic签下数十亿美元订单，购买TPU训练Claude；近期，Meta与谷歌签署数十亿美元协议，租用TPU跑Llama。 TPU一直是谷歌低调的“自家武器”，在过去十年里驱动着几乎全部核心产品。直到TPU训练的Ge"
     },
     {
-      "id": "yt_H9rF1CSSh-w",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
-      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
-      "thumbnail": "https://img.youtube.com/vi/H9rF1CSSh-w/maxresdefault.jpg",
-      "published": "2026-03-11T20:21:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_f14f8686_a6e2_47ea_92c1_ca7e71199f67",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -599,108 +531,6 @@
       "published": "2026-03-03T16:00:00-08:00",
       "hasTranscript": false,
       "transcriptPreview": "每周，有超过2.3亿人在ChatGPT上询问健康和保健问题。在人类创造的所有数据中，有30%来自医疗领域，但其中真正被利用起来的，不足5%。 一边是巨大的数据金矿，一边是与未被满足的庞大需求，这正是AI的机会。 在年初的摩根大通医疗健康大会上，我们看到医疗与AI正在加速“双向奔赴”。礼来制药与英伟达达成10亿美元合作，试图用算力重塑药物发现的底层范式；在OpenAI发布ChatGPT for He"
-    },
-    {
-      "id": "yt_SHlrUAkkWI0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
-      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
-      "thumbnail": "https://img.youtube.com/vi/SHlrUAkkWI0/maxresdefault.jpg",
-      "published": "2026-03-03T12:30:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_1SJiTwbSI58",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492",
-      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
-      "thumbnail": "https://img.youtube.com/vi/1SJiTwbSI58/maxresdefault.jpg",
-      "published": "2026-03-01T03:37:44+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_KGVpKPNUdzA",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
-      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
-      "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
-      "published": "2026-02-25T22:36:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_YFjfBk8HI5o",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
-      "thumbnail": "https://img.youtube.com/vi/YFjfBk8HI5o/maxresdefault.jpg",
-      "published": "2026-02-12T03:07:03+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_EV7WhVT270Q",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
-      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
-      "thumbnail": "https://img.youtube.com/vi/EV7WhVT270Q/maxresdefault.jpg",
-      "published": "2026-01-31T22:33:33+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Z-FRe5AKmCU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489",
-      "url": "https://www.youtube.com/watch?v=Z-FRe5AKmCU",
-      "thumbnail": "https://img.youtube.com/vi/Z-FRe5AKmCU/maxresdefault.jpg",
-      "published": "2026-01-13T20:06:59+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "x_9327720978",
