@@ -1,7 +1,145 @@
 {
-  "last_updated": "2026-05-20T02:50:06.851233Z",
+  "last_updated": "2026-05-21T02:53:03.146270Z",
   "count": 31,
   "items": [
+    {
+      "id": "pod_guigu101_pod_c3607c08_6eb6_48bd_8250_b41b5b8272e6",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c3607c08-6eb6-48bd-8250-b41b5b8272e6.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 3957,
+      "published": "2026-05-20T17:00:00-07:00",
+      "hasTranscript": false,
+      "transcriptPreview": "离美加墨世界杯开赛还有一个月，央视和国际足联FIFA之间的版权谈判终于是谈妥了，本期我们来聊聊世界杯的定价逻辑与体育赛事版权生意的变化脉络。 【主播】 麻花，硅谷101特约研究员 【嘉宾】 朱晓东，力赞体育CEO ，本届世界杯日本转播权销售顾问 张宾，《体育产业独立评论》主理人 【你将听到】 谈判的虚惊一场，赞助商的从中斡旋 02:40 价格细节：打包的版权交易里，很少透露单届的价格 04:25 "
+    },
+    {
+      "id": "x_2057123946039058618",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "用了几天 Mac 版豆包输入法，已经离不开了。 准确性、中英文混合输入、专业名词的识别，响应速度，都是市面上最顶的。 我现在手机上已经离不开豆包输入法了，一直在等待桌面端上线。前几天发现 MacOS 版终于来了，赶紧下载试了一下。 我觉得表现最好的就是多语言混合输入。 我日常会涉及到非常多中英文混合输入的场景，因为我们这个行业很多词没有翻译，比如说 Claude Code、AntiGravity、Perplexity，这种词和中文混合的时候，就非常难以去润色和识别。 豆包在这方面处理得巨好。 之前我用其他语音输入法，它主要有两个问题： 首先是过度优化： 它有时候改动非常大，比如在跟朋友聊天时，它会突然给一段非常正式的 Markdown 格式，让人很难接受。而且它还会批量自动添加无序列表和有序列表，修改起来非常麻烦。 然后是无法实时预览： 必须等全部说完、润色完，才会给出一整段结果。当你一次说五六百字时，很难审查其中的细节。如果其中有一两个词识别错了，很难在润色后的长文本里精准找到并修改，导致很多时候错误的信息就直接发出去了。 相比之下，豆包输入法在这两点上效果非常好： 它会实时出结果，生成完成后还会再润色一遍，这样你能清晰地看到输出文案及其对应的变化。 它不会乱加 Markdown 格式或列表，用起来很省心。 此外，豆包的识别速度极快，基本上是“言出法随”，说完立刻就能吐字，润色也很快。我现在手机上已经离不开它了，这下电脑端上线也必须得用了。 期待豆包输入法后续的版本能够支持自定义提示词润色。比如在一些特定的、独特的场景下，通过自定义提示词让它生成对应的格式，这个功能还是挺需要的。 但总的来说，从识别本身的硬功夫来看，豆包已经做得无可挑剔了。",
+      "url": "https://x.com/op7418/status/2057123946039058618",
+      "images": null,
+      "published": "2026-05-20T15:39:02+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2057115669100216826",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "终于找到了这种墨水屏硬件最适合的场景： 开机的时候，让 AI 往里边推一个 To-do、日历，一些基础的需要记的信息 把它挂在屏幕边上（用磁吸） 关机的时候，利用墨水屏的特性让它显示名片，这样大家加好友什么的直接看就行 太实用了！ 到时候打包成 Skills。有类似硬件的朋友到时候可以玩玩。",
+      "url": "https://x.com/op7418/status/2057115669100216826",
+      "images": null,
+      "published": "2026-05-20T15:06:09+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2057085370827731177",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Every startup idea YC has shared in 2026:",
+      "url": "https://x.com/benln/status/2057085370827731177",
+      "images": null,
+      "published": "2026-05-20T13:05:45+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2057026266818105370",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "天天玩 AI，去央美毕业展看点古法绘画",
+      "url": "https://x.com/op7418/status/2057026266818105370",
+      "images": null,
+      "published": "2026-05-20T09:10:54+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2056958833474646253",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "虽然没能去到谷歌 I/O 大会的现场，但是收到了谷歌这次大会的伴手礼，感谢谷歌和微博 谷歌还是工程师文化重啊，送的这个伴手礼里边的小东西每个都很实用，数据线、支架之类的，感觉都能用上",
+      "url": "https://x.com/op7418/status/2056958833474646253",
+      "images": null,
+      "published": "2026-05-20T04:42:57+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2056943517658911013",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codex 不语，只是一味重置额度",
+      "url": "https://x.com/op7418/status/2056943517658911013",
+      "images": null,
+      "published": "2026-05-20T03:42:05+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2056931266038239274",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "谷歌 Genie 3 这个新功能很有意思 可以选择美国谷歌街景的任何一个地点作为首帧图片，然后生成 Google Genie 3 可互动的世界。 比如非常知名的黄石公园啊，城市之类的地方，然后你就可以进去游览了，代入感很强 而且你可以对这个街景的内容做风格化，比如：变成海底世界、末日后的世界之类的 Video",
+      "url": "https://x.com/op7418/status/2056931266038239274",
+      "images": null,
+      "published": "2026-05-20T02:53:24+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2056914890481357138",
       "source": "归藏",
@@ -85,108 +223,6 @@
       "url": "https://x.com/op7418/status/2056767667110109290",
       "images": null,
       "published": "2026-05-19T16:03:19+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2056766209698464020",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "忽略口音的话，这个表现也不是很自然。 口音是因为我选了它内置的那个 Gemini TTS，所以才有这种英式口音 Video",
-      "url": "https://x.com/op7418/status/2056766209698464020",
-      "images": null,
-      "published": "2026-05-19T15:57:31+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2056766073714909196",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这个分镜编排能力以及创作意识都不如 Sora 2，没有创作能力，只能编辑，做素材还行 Video",
-      "url": "https://x.com/op7418/status/2056766073714909196",
-      "images": null,
-      "published": "2026-05-19T15:56:59+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2056764456311664786",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "谷歌 Gemini Omni Flash 视频编辑测试。 你们应该能猜到我原始视频是在哪儿录的，反正效果远不如 SeeDance 2.0 Video 歸藏(guizang.ai) (@op7418) 哇！ 谷歌新视频模型 Gemini Omni Flash 已经上线 FLow — https://nitter.net/op7418/status/2056758486755844494#m",
-      "url": "https://x.com/op7418/status/2056764456311664786",
-      "images": null,
-      "published": "2026-05-19T15:50:33+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2056762153592574129",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "简单测了一下，别抱太大希望",
-      "url": "https://x.com/op7418/status/2056762153592574129",
-      "images": null,
-      "published": "2026-05-19T15:41:24+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2056759377387040829",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "还有 Flow 智能体模式，可以帮你构思概念和处理视频图像文件",
-      "url": "https://x.com/op7418/status/2056759377387040829",
-      "images": null,
-      "published": "2026-05-19T15:30:22+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2056759251658555508",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Flow 现在功能超级强大，还内置了一系列图像和视频处理工具",
-      "url": "https://x.com/op7418/status/2056759251658555508",
-      "images": null,
-      "published": "2026-05-19T15:29:52+00:00",
       "hasTranscript": false
     },
     {
@@ -345,23 +381,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2054546806516654263",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Jack Dorsey on how every company can now be a mini-AGI:",
-      "url": "https://x.com/benln/status/2054546806516654263",
-      "images": null,
-      "published": "2026-05-13T12:58:24+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "pod_guigu101_pod_90f96f60_25be_45ac_b832_56776a23d534",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -512,25 +531,6 @@
       "published": "2026-03-12T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "在AI算力争霸时代，英伟达凭借GPU市值一路狂飙。但如今，它的蛋糕正在被一点点分食——2024年，苹果论文披露Apple Intelligence全部由TPU训练；2025年，Anthropic签下数十亿美元订单，购买TPU训练Claude；近期，Meta与谷歌签署数十亿美元协议，租用TPU跑Llama。 TPU一直是谷歌低调的“自家武器”，在过去十年里驱动着几乎全部核心产品。直到TPU训练的Ge"
-    },
-    {
-      "id": "pod_guigu101_pod_f14f8686_a6e2_47ea_92c1_ca7e71199f67",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f14f8686-a6e2-47ea-92c1-ca7e71199f67.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 3579,
-      "published": "2026-03-03T16:00:00-08:00",
-      "hasTranscript": false,
-      "transcriptPreview": "每周，有超过2.3亿人在ChatGPT上询问健康和保健问题。在人类创造的所有数据中，有30%来自医疗领域，但其中真正被利用起来的，不足5%。 一边是巨大的数据金矿，一边是与未被满足的庞大需求，这正是AI的机会。 在年初的摩根大通医疗健康大会上，我们看到医疗与AI正在加速“双向奔赴”。礼来制药与英伟达达成10亿美元合作，试图用算力重塑药物发现的底层范式；在OpenAI发布ChatGPT for He"
     },
     {
       "id": "x_9327720978",
