@@ -1,7 +1,60 @@
 {
-  "last_updated": "2026-05-24T02:50:14.886151Z",
+  "last_updated": "2026-05-25T02:58:43.059920Z",
   "count": 101,
   "items": [
+    {
+      "id": "pod_guigu101_pod_51260de8_60ef_4b76_b3e5_2e559c4a0923",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/51260de8-60ef-4b76-b3e5-2e559c4a0923.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 3920,
+      "published": "2026-05-24T17:00:00-07:00",
+      "hasTranscript": false,
+      "transcriptPreview": "“Harness Engineering”（挽具工程）正在成为硅谷的新共识，Anthropic、OpenAI等公司都在探索这一工程范式。但真正理解Harness的人还不多。前不久，一篇题为《Why Your “AI-First” Strategy Is Probably Wrong》的文章在X上获得百万级阅读和热议，作者是来自硅谷CreaoAI的Peter Pang。在这篇文章里，Peter展示了"
+    },
+    {
+      "id": "x_2058580556850348149",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "16 months later: • Cursor: $3B annualized revenue w/ 500+ people • Lovable: $400M annualized revenue w/ 200+ people • Mercor: $1B annualized revenue w/ 300+ people Ben Lang (@benln) Tiny teams are the future: • Cursor: 0 to $100M ARR in 21 months w/ 20 people • Bolt: 0 to $20M ARR in 2 months w/ 15 people • Lovable: 0 to $10M ARR in 2 months w/ 15 people • Mercor: 0 to $50M ARR in 2 years w/ 30 people • ElevenLabs: 0 to $100M ARR in 2 years w/ 50 people — https://nitter.net/benln/status/1889388151770325427#m",
+      "url": "https://x.com/benln/status/2058580556850348149",
+      "images": null,
+      "published": "2026-05-24T16:07:05+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2058399416273494292",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "不是，刚才有朋友说看到他发我删了，这哥们怎么又赢了呀？被拉黑了看不到说删了。",
+      "url": "https://x.com/op7418/status/2058399416273494292",
+      "images": null,
+      "published": "2026-05-24T04:07:18+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2058333663809638494",
       "source": "归藏",
@@ -47,7 +100,7 @@
         "Design"
       ],
       "title": null,
-      "content": "都在推特上，你拿我图还给我打个码，没必要吧？ 黄小木 (@ai_xiaomu) 商机啊，把github的skill搬到小红书上架， 速度就是💰 — https://nitter.net/ai_xiaomu/status/2058097953718608096#m",
+      "content": "都在推特上，你拿我图还给我打个码，没必要吧？",
       "url": "https://x.com/op7418/status/2058163649525727718",
       "images": null,
       "published": "2026-05-23T12:30:27+00:00",
@@ -153,23 +206,6 @@
       "url": "https://x.com/op7418/status/2058109336887648708",
       "images": null,
       "published": "2026-05-23T08:54:38+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2058098200716992890",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配 歸藏(guizang.ai) (@op7418) x.com/i/article/205777529671… — https://nitter.net/op7418/status/2057776589027594406#m",
-      "url": "https://x.com/op7418/status/2058098200716992890",
-      "images": null,
-      "published": "2026-05-23T08:10:23+00:00",
       "hasTranscript": false
     },
     {
@@ -677,23 +713,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2054600460749709663",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "We're booking out a cafe on June 10th in San Francisco Grab coffee, Cursor credits, meet the team, and build together",
-      "url": "https://x.com/benln/status/2054600460749709663",
-      "images": null,
-      "published": "2026-05-13T16:31:37+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_FnJaDj5zUhY",
       "source": "a16z",
       "sourceId": "a16z",
@@ -1163,25 +1182,6 @@
       "published": "2026-03-19T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "这几年，如果说全球制造业里，有哪个故事最值得被重新讲一遍，那一定是动力电池。 中国在动力电池产业链中，建立了极强的优势。当欧洲电池巨头Northvolt破产，日韩也不再具备领先地位，很多人会问：为什么很多原始技术并非源自中国，但最后却是中国把它做成了最完整、强势的产业？这背后到底是政策红利、市场规模，还是极致的工程能力在起作用 ？ 这一期节目，我们邀请了材料学博士、TDK Ventures 投资人"
-    },
-    {
-      "id": "pod_guigu101_pod_fd17090c_0d72_4c0d_aa3e_9b00bc062149",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/fd17090c-0d72-4c0d-aa3e-9b00bc062149.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 4006,
-      "published": "2026-03-12T17:00:00-07:00",
-      "hasTranscript": false,
-      "transcriptPreview": "在AI算力争霸时代，英伟达凭借GPU市值一路狂飙。但如今，它的蛋糕正在被一点点分食——2024年，苹果论文披露Apple Intelligence全部由TPU训练；2025年，Anthropic签下数十亿美元订单，购买TPU训练Claude；近期，Meta与谷歌签署数十亿美元协议，租用TPU跑Llama。 TPU一直是谷歌低调的“自家武器”，在过去十年里驱动着几乎全部核心产品。直到TPU训练的Ge"
     },
     {
       "id": "yt_H9rF1CSSh-w",
