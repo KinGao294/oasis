@@ -1,7 +1,292 @@
 {
-  "last_updated": "2026-05-29T02:48:30.061428Z",
+  "last_updated": "2026-05-30T02:42:01.071872Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2060549911960293704",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Windows 有救了？ Codex 昨晚又发布了大量体验更新，很多都超级有用，尤其是对 Windows 用户。 大家最期待的支持了 Windows 的 computer Use，以及通过移动端的 ChatGPT 远程控制 Windows 上的 Codex。 但是 Windows 上的 Computer Use，在它控制的时候你是不能控制的。这跟 Mac 上的不太一样。 聊天记录控制功能：能够控制你的聊天记录，比如置顶、查找、创建新的归类、存档等一系列操作。 新增个人资料页面：能看到你消耗的 Token、连续登录天数、最长的任务。 ChatGPT 上的 Codex 控制，现在支持了以下功能： 侧边对话：你可以不打断主对话，新开一个分支继续跟 AI 基于当前项目或任务进行对话，输入/side 开启 一键模型切换：通过长按即可快速切换模型。 iPad 专属快捷方式：支持从快捷方式直接进入 Codex，无需通过侧边栏切换。 Git Diff 显示：对话结束后，系统会显示 Git 上的 Diff，即你代码编辑的不同部分。 Video",
+      "url": "https://x.com/op7418/status/2060549911960293704",
+      "images": null,
+      "published": "2026-05-30T02:32:36+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_8QKqENa_eQQ",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Builders Unscripted: Ep. 3 - Matias Castello, Product Leader at Alchemy",
+      "url": "https://www.youtube.com/watch?v=8QKqENa_eQQ",
+      "thumbnail": "https://img.youtube.com/vi/8QKqENa_eQQ/maxresdefault.jpg",
+      "published": "2026-05-29T20:29:25+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_MPIAB-8VmCo",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Windows Computer Use and mobile access for Codex",
+      "url": "https://www.youtube.com/watch?v=MPIAB-8VmCo",
+      "thumbnail": "https://img.youtube.com/vi/MPIAB-8VmCo/maxresdefault.jpg",
+      "published": "2026-05-29T18:31:52+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_JA3tmYqCacA",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "These Models are Crazy!",
+      "url": "https://www.youtube.com/watch?v=JA3tmYqCacA",
+      "thumbnail": "https://img.youtube.com/vi/JA3tmYqCacA/maxresdefault.jpg",
+      "published": "2026-05-29T17:10:58+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_EYvzpZX2-Ww",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Loblaw Ships Faster with Codex",
+      "url": "https://www.youtube.com/watch?v=EYvzpZX2-Ww",
+      "thumbnail": "https://img.youtube.com/vi/EYvzpZX2-Ww/maxresdefault.jpg",
+      "published": "2026-05-29T17:03:52+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_1M3Vdl6DRkU",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
+      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
+      "thumbnail": "https://img.youtube.com/vi/1M3Vdl6DRkU/maxresdefault.jpg",
+      "published": "2026-05-29T16:18:31+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2060385198647247001",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "80+ open roles at Cursor:",
+      "url": "https://x.com/benln/status/2060385198647247001",
+      "images": null,
+      "published": "2026-05-29T15:38:06+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_AiM9mZCmVPY",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Rule for Picking AI Winners | The a16z Show",
+      "url": "https://www.youtube.com/watch?v=AiM9mZCmVPY",
+      "thumbnail": "https://img.youtube.com/vi/AiM9mZCmVPY/maxresdefault.jpg",
+      "published": "2026-05-29T14:29:06+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2060367382884094026",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "有了 Claude Code 和 Cursor 这种软件以后，真的不只是写代码厉害。 我之前拿到豆包手机以后，想给它装个谷歌框架，但一直在 Google Play 那有点问题，死活装不上。 今天突然想起来，打开让 Claude Code 帮我装。 打开 USB 调试模式后，它直接就帮我搞定了：自动下载安装包、自动安装、自动调试好 这个未来感觉很有用。",
+      "url": "https://x.com/op7418/status/2060367382884094026",
+      "images": null,
+      "published": "2026-05-29T14:27:18+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2060345072206360965",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Buenos Aires",
+      "url": "https://x.com/benln/status/2060345072206360965",
+      "images": null,
+      "published": "2026-05-29T12:58:39+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_2Ap1dnv-GXA",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup",
+      "url": "https://www.youtube.com/watch?v=2Ap1dnv-GXA",
+      "thumbnail": "https://img.youtube.com/vi/2Ap1dnv-GXA/maxresdefault.jpg",
+      "published": "2026-05-29T12:30:27+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2060316035790860754",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Cursor 发布了一份开发者报告，里面有些数据很有意思 挑几个比较重要的点来说： 头部用户的 AI 代码产出、token 消耗、PR 合并量都远高于中位数，而且差距还在扩大。 AI 写代码前读得越来越多，input/output token ratio 大幅上升。真正贵是理解一个代码库和任务。 缓存变得非常重要，如果每次 agent 都从零读上下文，成本会爆炸。这意味着未来 coding agent 的竞争力很可能在上下文缓存、增量理解、长期记忆这些地方。 放权越来越多，手动 diff acceptance 变少，更多 AI 改动直接进入 commit 流程。 PR 变大，工作颗粒度变大，报告里说单个 PR 的新增行数、1000 行以上的大 PR 占比都在上升。副作用是 review、测试、架构边界会更重要。 Cursor (@cursor_ai) Introducing the Cursor Developer Habits Report. We’re sharing some of our findings on how software development is changing. It’s based on the most comprehensive dataset on AI coding in the world, across all model families. Video — https://nitter.net/cursor_ai/status/2060025063899058458#m",
+      "url": "https://x.com/op7418/status/2060316035790860754",
+      "images": null,
+      "published": "2026-05-29T11:03:16+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_co_fghzNz08",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Quit Chrome for an AI Browser. It Actually Worked.",
+      "url": "https://www.youtube.com/watch?v=co_fghzNz08",
+      "thumbnail": "https://img.youtube.com/vi/co_fghzNz08/maxresdefault.jpg",
+      "published": "2026-05-29T10:33:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2060270365549670447",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Agent 就是 3D 打印机，Token 就是虚拟世界 3D 打印机的 PLA 材料 它是通用的，但最后打印出来的东西都不一样。 Ryo Lu (@ryolu_) from apps to material software used to be something you opened an app was a room with walls: calendar here, notes there, music there, work there. each one had its own logic, buttons, its own little kingdom. the user moved between kingdoms, carrying context in their head but ai starts to break the walls software becomes less like a destination and more like material. something you shape, combine, stretch, ask, remix, and leave behind as traces. a document can become an app. a conversation can become a workflow. a song can become a memory. a task can become an agent. the boundary between using and making gets blurry the old model was: choose the right tool for each task the new model is: express the shape of the thing you want, then refine it with the system you built this changes the role of the interface. ui is no longer only fixed views for fixed functions. it becomes a surface where intent turns into structure. the best interfaces will feel less like menus and more like clay – responsive, persistent, inspectable, and alive apps won’t disappear. rooms are still useful. but the deeper shift is that software stops being a set of sealed containers and becomes a medium people can think through like paper, but executable like language, but spatial like memory, but programmable software stops being something only programmers make it becomes material anyone can shape — https://nitter.net/ryolu_/status/2060038663812333808#m",
+      "url": "https://x.com/op7418/status/2060270365549670447",
+      "images": null,
+      "published": "2026-05-29T08:01:47+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2060269839563043062",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "笑死，这都行 Kenton Varda (@KentonVarda) Chinese AI Twitter is obsessing over my wife. How was your day? — https://nitter.net/KentonVarda/status/2060182522508566629#m",
+      "url": "https://x.com/op7418/status/2060269839563043062",
+      "images": null,
+      "published": "2026-05-29T07:59:42+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2060192750365180115",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Skill 在这里：nitter.net/op7418/status/20598128… 歸藏(guizang.ai) (@op7418) x.com/i/article/205981146908… — https://nitter.net/op7418/status/2059812895803011449#m",
+      "url": "https://x.com/op7418/status/2060192750365180115",
+      "images": null,
+      "published": "2026-05-29T02:53:22+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2060192275301642532",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "已经刷到好几个拿藏师傅的 PPT Skills 和小红书配图 Skills 做出千赞内容的小红书的博主了 说明这玩意儿确实有用。 你们再发的话可以艾特一下我，我还得给你们点点赞",
+      "url": "https://x.com/op7418/status/2060192275301642532",
+      "images": null,
+      "published": "2026-05-29T02:51:29+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2060186234518184286",
       "source": "归藏",
@@ -119,23 +404,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2059988012671607251",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "买了 M5Stack 的这个新玩具，还挺好玩的。 (a) 圆形彩屏，刷新率比较高，不是墨水屏 (b) 支持触屏，配有三个按钮 (c) 能播放声音，有震动功能 (d) 支持磁吸，完全可以吸在手机后边 除了比 OPPO 新发的那个厚一点，其他地方应该差不多；质感虽然没有 OPPO 的好，但它便宜。 理论上可以用它做很多东西，比如表现力更强的 Cloud Code 或者其他类似的小玩意。 感觉挺好玩，可玩性非常强。 Video",
-      "url": "https://x.com/op7418/status/2059988012671607251",
-      "images": null,
-      "published": "2026-05-28T13:19:49+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2059980118185984494",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -150,91 +418,6 @@
       "url": "https://x.com/benln/status/2059980118185984494",
       "images": null,
       "published": "2026-05-28T12:48:27+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2059917145702871401",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "推特这个自动翻译实装了，效果不错 应该是这几家国际化内容平台里唯一一个全量自动化翻译的 很难想象AI 发达了这些内容和社交软件各个语言用户沟通和内容消费依然这么困难",
-      "url": "https://x.com/op7418/status/2059917145702871401",
-      "images": null,
-      "published": "2026-05-28T08:38:13+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2059845909245255965",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "藏师傅的 PPT Skills 和小红书图文排版 Skill，已经通过这几天的发酵证明了巨大的商业价值。 如果有哪些 Agent 或者 AI 平台需要商用授权、集成到自己产品里的，可以联系藏师傅哈。 除了商用授权以外，我也会帮你在你的产品里把这个效果调整到最好。",
-      "url": "https://x.com/op7418/status/2059845909245255965",
-      "images": null,
-      "published": "2026-05-28T03:55:09+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2059837199299031265",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "来了！这次的小红书图片生成器 Skill 效果太好了 我都没想到他能够这么顶， 这次在图文混排上下了非常大功夫 2 套主题、28 个版式、9 套配色、8 大小红书主流内容类别适配 如果你自己有非常漂亮的图片，那么它就会凸显你的图片。 如果你没有图片，它会帮你找很牛逼的图片。 即使你的图片不太行，它也会帮你美化，而且会主动避免使用 AI 图片生成，防止你的内容被打上 AI 标记。 我过去一段时间做这类图文内容的痛点都被解决了，放在这里边 Video 歸藏(guizang.ai) (@op7418) x.com/i/article/205981146908… — https://nitter.net/op7418/status/2059812895803011449#m",
-      "url": "https://x.com/op7418/status/2059837199299031265",
-      "images": null,
-      "published": "2026-05-28T03:20:32+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2059825869812822282",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "哥哥们，都白嫖了，去点个 star 和点个赞吧！",
-      "url": "https://x.com/op7418/status/2059825869812822282",
-      "images": null,
-      "published": "2026-05-28T02:35:31+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2059812895803011449",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "x.com/i/article/205981146908…",
-      "url": "https://x.com/op7418/status/2059812895803011449",
-      "images": null,
-      "published": "2026-05-28T01:43:58+00:00",
       "hasTranscript": false
     },
     {
@@ -405,23 +588,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2058925029203882187",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "不吵架了，预告一下下一个 Skill 项目 基于 PPT Skill 可以帮你一键生成微信公众号和小红书封面 也可以基于文档生成小绿书和小红书图文所需的 3:4 组图 会自动处理你的截图素材，自动进行匹配",
-      "url": "https://x.com/op7418/status/2058925029203882187",
-      "images": null,
-      "published": "2026-05-25T14:55:54+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2058911119025061910",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -491,38 +657,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_ECkHTfvf2e8",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Create and edit presentations faster in PowerPoint",
-      "url": "https://www.youtube.com/watch?v=ECkHTfvf2e8",
-      "thumbnail": "https://img.youtube.com/vi/ECkHTfvf2e8/maxresdefault.jpg",
-      "published": "2026-05-22T19:41:41+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_ksfHQLmV-Fg",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Personal Finance in ChatGPT",
-      "url": "https://www.youtube.com/watch?v=ksfHQLmV-Fg",
-      "thumbnail": "https://img.youtube.com/vi/ksfHQLmV-Fg/maxresdefault.jpg",
-      "published": "2026-05-22T16:56:18+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_7VKliOQXQ9M",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -536,22 +670,6 @@
       "url": "https://www.youtube.com/watch?v=7VKliOQXQ9M",
       "thumbnail": "https://img.youtube.com/vi/7VKliOQXQ9M/maxresdefault.jpg",
       "published": "2026-05-22T14:00:07+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_oRsn3pyeXuw",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Cisco Builds AI Defense with Codex",
-      "url": "https://www.youtube.com/watch?v=oRsn3pyeXuw",
-      "thumbnail": "https://img.youtube.com/vi/oRsn3pyeXuw/maxresdefault.jpg",
-      "published": "2026-05-22T13:59:47+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -590,22 +708,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_rgh0hMYPcd0",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Run long tasks in Codex using goals",
-      "url": "https://www.youtube.com/watch?v=rgh0hMYPcd0",
-      "thumbnail": "https://img.youtube.com/vi/rgh0hMYPcd0/maxresdefault.jpg",
-      "published": "2026-05-21T20:00:29+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_X_JsIHUfUjc",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -621,23 +723,6 @@
       "published": "2026-05-21T14:00:51+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2057449166092075499",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Hands down, the best AI series right now CS 153 at Stanford, published on YouTube Speakers include Sam Altman, Jensen Huang, Satya Nadella, Andrej Karpathy, Ben Horowitz",
-      "url": "https://x.com/benln/status/2057449166092075499",
-      "images": null,
-      "published": "2026-05-21T13:11:21+00:00",
-      "hasTranscript": false
     },
     {
       "id": "pod_guigu101_pod_c3607c08_6eb6_48bd_8250_b41b5b8272e6",
@@ -657,23 +742,6 @@
       "published": "2026-05-20T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "离美加墨世界杯开赛还有一个月，央视和国际足联FIFA之间的版权谈判终于是谈妥了，本期我们来聊聊世界杯的定价逻辑与体育赛事版权生意的变化脉络。 【主播】 麻花，硅谷101特约研究员 【嘉宾】 朱晓东，力赞体育CEO ，本届世界杯日本转播权销售顾问 张宾，《体育产业独立评论》主理人 【你将听到】 谈判的虚惊一场，赞助商的从中斡旋 02:40 价格细节：打包的版权交易里，很少透露单届的价格 04:25 "
-    },
-    {
-      "id": "x_2057085370827731177",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Every startup idea YC has shared in 2026:",
-      "url": "https://x.com/benln/status/2057085370827731177",
-      "images": null,
-      "published": "2026-05-20T13:05:45+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_pddFfZy4nZU",
@@ -901,23 +969,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_FHAaGxvGii4",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Startup School Paris",
-      "url": "https://www.youtube.com/watch?v=FHAaGxvGii4",
-      "thumbnail": "https://img.youtube.com/vi/FHAaGxvGii4/maxresdefault.jpg",
-      "published": "2026-05-08T06:13:57+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_nepKKz-MzFM",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -948,23 +999,6 @@
       "url": "https://www.youtube.com/watch?v=6cCWrrQp1v4",
       "thumbnail": "https://img.youtube.com/vi/6cCWrrQp1v4/maxresdefault.jpg",
       "published": "2026-05-06T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Z4i1adGvD2A",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Building Blackstone, Backing Costco, and Working with Munger | Tony James on The a16z Show",
-      "url": "https://www.youtube.com/watch?v=Z4i1adGvD2A",
-      "thumbnail": "https://img.youtube.com/vi/Z4i1adGvD2A/maxresdefault.jpg",
-      "published": "2026-05-05T14:30:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1419,23 +1453,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_Z-FRe5AKmCU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489",
-      "url": "https://www.youtube.com/watch?v=Z-FRe5AKmCU",
-      "thumbnail": "https://img.youtube.com/vi/Z-FRe5AKmCU/maxresdefault.jpg",
-      "published": "2026-01-13T20:06:59+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_B51v9kJQuKo",
       "source": "老高与茉莉",
       "sourceId": "laogao",
@@ -1448,23 +1465,6 @@
       "url": "https://www.youtube.com/watch?v=B51v9kJQuKo",
       "thumbnail": "https://img.youtube.com/vi/B51v9kJQuKo/maxresdefault.jpg",
       "published": "2025-12-24T13:07:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Q7INj06TUv4",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Solved an 'Impossible' Math Problem with AI",
-      "url": "https://www.youtube.com/watch?v=Q7INj06TUv4",
-      "thumbnail": "https://img.youtube.com/vi/Q7INj06TUv4/maxresdefault.jpg",
-      "published": "2025-12-23T09:29:56+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
