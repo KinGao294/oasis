@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-30T02:42:01.071872Z",
+  "last_updated": "2026-05-31T02:58:59.336487Z",
   "count": 101,
   "items": [
     {
-      "id": "x_2060549911960293704",
+      "id": "x_2060769813560275201",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -13,10 +13,179 @@
         "Design"
       ],
       "title": null,
-      "content": "Windows 有救了？ Codex 昨晚又发布了大量体验更新，很多都超级有用，尤其是对 Windows 用户。 大家最期待的支持了 Windows 的 computer Use，以及通过移动端的 ChatGPT 远程控制 Windows 上的 Codex。 但是 Windows 上的 Computer Use，在它控制的时候你是不能控制的。这跟 Mac 上的不太一样。 聊天记录控制功能：能够控制你的聊天记录，比如置顶、查找、创建新的归类、存档等一系列操作。 新增个人资料页面：能看到你消耗的 Token、连续登录天数、最长的任务。 ChatGPT 上的 Codex 控制，现在支持了以下功能： 侧边对话：你可以不打断主对话，新开一个分支继续跟 AI 基于当前项目或任务进行对话，输入/side 开启 一键模型切换：通过长按即可快速切换模型。 iPad 专属快捷方式：支持从快捷方式直接进入 Codex，无需通过侧边栏切换。 Git Diff 显示：对话结束后，系统会显示 Git 上的 Diff，即你代码编辑的不同部分。 Video",
-      "url": "https://x.com/op7418/status/2060549911960293704",
+      "content": "快搞完了：nitter.net/op7418/status/20606891… 歸藏(guizang.ai) (@op7418) iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了 Video — https://nitter.net/op7418/status/2060689179642916894#m",
+      "url": "https://x.com/op7418/status/2060769813560275201",
       "images": null,
-      "published": "2026-05-30T02:32:36+00:00",
+      "published": "2026-05-30T17:06:25+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_cdflu9ZXZGE",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Terence Tao on How AI Is Changing Mathematics",
+      "url": "https://www.youtube.com/watch?v=cdflu9ZXZGE",
+      "thumbnail": "https://img.youtube.com/vi/cdflu9ZXZGE/maxresdefault.jpg",
+      "published": "2026-05-30T13:19:23+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2060689179642916894",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了 Video 歸藏(guizang.ai) (@op7418) 现在周围人发文件都变成 Markdown 和 HTML 了，但是微信这俩格式一个都不支持，而且相当封闭，想用其他应用打开都费劲，真是受不了。 如果是在外面用手机，别人发过来的 Markdown 和 HTML 文件都不知道怎么打开。 感觉得做个手机上的 HTML 和 Markdown 阅读器了。 — https://nitter.net/op7418/status/2060626984200437995#m",
+      "url": "https://x.com/op7418/status/2060689179642916894",
+      "images": null,
+      "published": "2026-05-30T11:46:00+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2060667214077034978",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我去，太牛批了！ 我的 Skill 冲到 GitHub 本周新建项目 Star 排名第一了！ 就是这个社交媒体卡片 Skill （guizang-social-card-skill） 还是刚才一个群友让他的 Agent 找项目的时候发现的。我自己看了一下，果然是第一！ 歸藏(guizang.ai) (@op7418) x.com/i/article/205981146908… — https://nitter.net/op7418/status/2059812895803011449#m",
+      "url": "https://x.com/op7418/status/2060667214077034978",
+      "images": null,
+      "published": "2026-05-30T10:18:43+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2060665471066869973",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我知道很多应用可以打开，但我说的是朋友分享的这种文件能不能方便地打开？ 我直接手动存到文件夹里，再打开另一个软件，找到那个文件打开，其实也是可以打开的，但是太费劲了。",
+      "url": "https://x.com/op7418/status/2060665471066869973",
+      "images": null,
+      "published": "2026-05-30T10:11:48+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2060660883135840453",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "差不多了，现在写个这种东西太简单了。我去，顺便用 GPT-Image 2.0 画了个图标，真漂亮啊！",
+      "url": "https://x.com/op7418/status/2060660883135840453",
+      "images": null,
+      "published": "2026-05-30T09:53:34+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2060639508002148578",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "说干就干朋友们，开新坑了 歸藏(guizang.ai) (@op7418) 现在周围人发文件都变成 Markdown 和 HTML 了，但是微信这俩格式一个都不支持，而且相当封闭，想用其他应用打开都费劲，真是受不了。 如果是在外面用手机，别人发过来的 Markdown 和 HTML 文件都不知道怎么打开。 感觉得做个手机上的 HTML 和 Markdown 阅读器了。 — https://nitter.net/op7418/status/2060626984200437995#m",
+      "url": "https://x.com/op7418/status/2060639508002148578",
+      "images": null,
+      "published": "2026-05-30T08:28:38+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2060628867052982400",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "当然，浏览器也可以打开 HTML 文件，但是整个交互链路太复杂、太长了，体验很糟糕。 现在的浏览器其实是为你给它链接、然后它打开网页这种场景设计的，而不是为了从一个文档阅读器的角度去设计的。",
+      "url": "https://x.com/op7418/status/2060628867052982400",
+      "images": null,
+      "published": "2026-05-30T07:46:21+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2060626984200437995",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "现在周围人发文件都变成 Markdown 和 HTML 了，但是微信这俩格式一个都不支持，而且相当封闭，想用其他应用打开都费劲，真是受不了。 如果是在外面用手机，别人发过来的 Markdown 和 HTML 文件都不知道怎么打开。 感觉得做个手机上的 HTML 和 Markdown 阅读器了。",
+      "url": "https://x.com/op7418/status/2060626984200437995",
+      "images": null,
+      "published": "2026-05-30T07:38:52+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2060624551046975761",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "还有一个是那个 Pro 实在是太重了，我最近出门越来越多了，每次出门抱着它我就烦得要死，尤其是夏天又热",
+      "url": "https://x.com/op7418/status/2060624551046975761",
+      "images": null,
+      "published": "2026-05-30T07:29:12+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2060617155985682731",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我发现这个杠精真是多，非得找地方体现一下自己的优越感。 下回就不要问这个内存还是硬盘了，你就当我是傻逼，我分不清内存还是硬盘就行",
+      "url": "https://x.com/op7418/status/2060617155985682731",
+      "images": null,
+      "published": "2026-05-30T06:59:49+00:00",
       "hasTranscript": false
     },
     {
@@ -28,7 +197,7 @@
       "domains": [
         "AI"
       ],
-      "title": "Builders Unscripted: Ep. 3 - Matias Castello, Product Leader at Alchemy",
+      "title": "Builders Unscripted: Ep. 3 - Matias Castello, Product Lead at Alchemy",
       "url": "https://www.youtube.com/watch?v=8QKqENa_eQQ",
       "thumbnail": "https://img.youtube.com/vi/8QKqENa_eQQ/maxresdefault.jpg",
       "published": "2026-05-29T20:29:25+00:00",
@@ -127,29 +296,12 @@
         "Business",
         "AI"
       ],
-      "title": "The Rule for Picking AI Winners | The a16z Show",
+      "title": "The New Rule for Picking AI Winners | The a16z Show",
       "url": "https://www.youtube.com/watch?v=AiM9mZCmVPY",
       "thumbnail": "https://img.youtube.com/vi/AiM9mZCmVPY/maxresdefault.jpg",
       "published": "2026-05-29T14:29:06+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2060367382884094026",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "有了 Claude Code 和 Cursor 这种软件以后，真的不只是写代码厉害。 我之前拿到豆包手机以后，想给它装个谷歌框架，但一直在 Google Play 那有点问题，死活装不上。 今天突然想起来，打开让 Claude Code 帮我装。 打开 USB 调试模式后，它直接就帮我搞定了：自动下载安装包、自动安装、自动调试好 这个未来感觉很有用。",
-      "url": "https://x.com/op7418/status/2060367382884094026",
-      "images": null,
-      "published": "2026-05-29T14:27:18+00:00",
-      "hasTranscript": false
     },
     {
       "id": "x_2060345072206360965",
@@ -186,23 +338,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2060316035790860754",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Cursor 发布了一份开发者报告，里面有些数据很有意思 挑几个比较重要的点来说： 头部用户的 AI 代码产出、token 消耗、PR 合并量都远高于中位数，而且差距还在扩大。 AI 写代码前读得越来越多，input/output token ratio 大幅上升。真正贵是理解一个代码库和任务。 缓存变得非常重要，如果每次 agent 都从零读上下文，成本会爆炸。这意味着未来 coding agent 的竞争力很可能在上下文缓存、增量理解、长期记忆这些地方。 放权越来越多，手动 diff acceptance 变少，更多 AI 改动直接进入 commit 流程。 PR 变大，工作颗粒度变大，报告里说单个 PR 的新增行数、1000 行以上的大 PR 占比都在上升。副作用是 review、测试、架构边界会更重要。 Cursor (@cursor_ai) Introducing the Cursor Developer Habits Report. We’re sharing some of our findings on how software development is changing. It’s based on the most comprehensive dataset on AI coding in the world, across all model families. Video — https://nitter.net/cursor_ai/status/2060025063899058458#m",
-      "url": "https://x.com/op7418/status/2060316035790860754",
-      "images": null,
-      "published": "2026-05-29T11:03:16+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_co_fghzNz08",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -218,125 +353,6 @@
       "published": "2026-05-29T10:33:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2060270365549670447",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Agent 就是 3D 打印机，Token 就是虚拟世界 3D 打印机的 PLA 材料 它是通用的，但最后打印出来的东西都不一样。 Ryo Lu (@ryolu_) from apps to material software used to be something you opened an app was a room with walls: calendar here, notes there, music there, work there. each one had its own logic, buttons, its own little kingdom. the user moved between kingdoms, carrying context in their head but ai starts to break the walls software becomes less like a destination and more like material. something you shape, combine, stretch, ask, remix, and leave behind as traces. a document can become an app. a conversation can become a workflow. a song can become a memory. a task can become an agent. the boundary between using and making gets blurry the old model was: choose the right tool for each task the new model is: express the shape of the thing you want, then refine it with the system you built this changes the role of the interface. ui is no longer only fixed views for fixed functions. it becomes a surface where intent turns into structure. the best interfaces will feel less like menus and more like clay – responsive, persistent, inspectable, and alive apps won’t disappear. rooms are still useful. but the deeper shift is that software stops being a set of sealed containers and becomes a medium people can think through like paper, but executable like language, but spatial like memory, but programmable software stops being something only programmers make it becomes material anyone can shape — https://nitter.net/ryolu_/status/2060038663812333808#m",
-      "url": "https://x.com/op7418/status/2060270365549670447",
-      "images": null,
-      "published": "2026-05-29T08:01:47+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2060269839563043062",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "笑死，这都行 Kenton Varda (@KentonVarda) Chinese AI Twitter is obsessing over my wife. How was your day? — https://nitter.net/KentonVarda/status/2060182522508566629#m",
-      "url": "https://x.com/op7418/status/2060269839563043062",
-      "images": null,
-      "published": "2026-05-29T07:59:42+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2060192750365180115",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Skill 在这里：nitter.net/op7418/status/20598128… 歸藏(guizang.ai) (@op7418) x.com/i/article/205981146908… — https://nitter.net/op7418/status/2059812895803011449#m",
-      "url": "https://x.com/op7418/status/2060192750365180115",
-      "images": null,
-      "published": "2026-05-29T02:53:22+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2060192275301642532",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "已经刷到好几个拿藏师傅的 PPT Skills 和小红书配图 Skills 做出千赞内容的小红书的博主了 说明这玩意儿确实有用。 你们再发的话可以艾特一下我，我还得给你们点点赞",
-      "url": "https://x.com/op7418/status/2060192275301642532",
-      "images": null,
-      "published": "2026-05-29T02:51:29+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2060186234518184286",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "相较于 Opus 4.8，昨晚动态工作流（Dynamic Workflows）的发布，我感觉意义更重大一些。 它延续了那套并发的 Subagent 逻辑，但启动的 Subagent 可能多达数百个，能帮你完成一些非常重、规模非常大的任务。比如： 1. 调研你整个代码库的问题 2. 快速收集并生成一份庞大的调研报告 看起来官方并不太建议拿它直接去改动代码，而是用它处理一些比较基础但工作量巨大的任务，通过并发的形式来大幅加快处理速度。 触发方式： 1. 更新以后，只要提示词里带 workflow 就会触发。 2. 启动 Ultra Code 模式。启动后，任何任务都会帮你规划一个动态工作流。 注意：Ultra Code 模式启动后，仅在当前单次对话生效。如果重启，系统会退回到 X-HIGH 的推理模式。 ClaudeDevs (@ClaudeDevs) New in Claude Code (research preview): dynamic workflows. Claude writes an orchestration script on the fly, then spins up a large fleet of coordinated subagents in parallel to take on your most complex tasks. Use the word \"workflow\" in a prompt to get started. — https://nitter.net/ClaudeDevs/status/2060044853279617150#m",
-      "url": "https://x.com/op7418/status/2060186234518184286",
-      "images": null,
-      "published": "2026-05-29T02:27:29+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2060170422742880671",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "另外 Fast 模式大幅降价，价格是由原来的三分之一",
-      "url": "https://x.com/op7418/status/2060170422742880671",
-      "images": null,
-      "published": "2026-05-29T01:24:39+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2060170152474534183",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "没想到 Opus4.8 这就发布了，所有能力相较于 4.7 都有提升。 比较重要的是他在发现自己问题的能力上相较于 4.7 提升非常多，原来的话你让他自己 review 自己的代码基本没用。 Claude (@claudeai) Introducing Claude Opus 4.8: it builds on Opus 4.7 with sharper judgment, more honesty about its own progress, and the ability to work independently for longer than its predecessors. Available today at the same price. — https://nitter.net/claudeai/status/2060042702150930686#m",
-      "url": "https://x.com/op7418/status/2060170152474534183",
-      "images": null,
-      "published": "2026-05-29T01:23:35+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_wE1ZgJdt4uM",
@@ -639,22 +655,6 @@
       "images": null,
       "published": "2026-05-24T16:07:05+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt_HaaKUFAOi84",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Workspace agents in ChatGPT: Admin and builder controls",
-      "url": "https://www.youtube.com/watch?v=HaaKUFAOi84",
-      "thumbnail": "https://img.youtube.com/vi/HaaKUFAOi84/maxresdefault.jpg",
-      "published": "2026-05-22T22:48:37+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_7VKliOQXQ9M",
