@@ -1,7 +1,92 @@
 {
-  "last_updated": "2026-05-31T02:58:59.336487Z",
+  "last_updated": "2026-06-01T03:36:04.202964Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2061122568283918766",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "上架应该会限免，后面也就卖个一两块，功能多了可能会涨价",
+      "url": "https://x.com/op7418/status/2061122568283918766",
+      "images": null,
+      "published": "2026-05-31T16:28:08+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2061121003917594702",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "iPhone 和 iPad 都支持",
+      "url": "https://x.com/op7418/status/2061121003917594702",
+      "images": null,
+      "published": "2026-05-31T16:21:55+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2061120486038450317",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我的 iOS Markdown 和 HTML 文件阅读 APP 即览差不多了 没想到一些视觉样式调整了一天时间，明天发个表单让大家参与测试 歸藏(guizang.ai) (@op7418) iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了 Video — https://nitter.net/op7418/status/2060689179642916894#m",
+      "url": "https://x.com/op7418/status/2061120486038450317",
+      "images": null,
+      "published": "2026-05-31T16:19:52+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2061075154021531733",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Pulled the fastest-growing startups by hiring velocity over the past 90 days:",
+      "url": "https://x.com/benln/status/2061075154021531733",
+      "images": null,
+      "published": "2026-05-31T13:19:44+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2061033637538414594",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "终于搞定了焖面",
+      "url": "https://x.com/op7418/status/2061033637538414594",
+      "images": null,
+      "published": "2026-05-31T10:34:45+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2060769813560275201",
       "source": "归藏",
@@ -87,23 +172,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2060660883135840453",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "差不多了，现在写个这种东西太简单了。我去，顺便用 GPT-Image 2.0 画了个图标，真漂亮啊！",
-      "url": "https://x.com/op7418/status/2060660883135840453",
-      "images": null,
-      "published": "2026-05-30T09:53:34+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2060639508002148578",
       "source": "归藏",
       "sourceId": "guizang",
@@ -121,23 +189,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2060628867052982400",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "当然，浏览器也可以打开 HTML 文件，但是整个交互链路太复杂、太长了，体验很糟糕。 现在的浏览器其实是为你给它链接、然后它打开网页这种场景设计的，而不是为了从一个文档阅读器的角度去设计的。",
-      "url": "https://x.com/op7418/status/2060628867052982400",
-      "images": null,
-      "published": "2026-05-30T07:46:21+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2060626984200437995",
       "source": "归藏",
       "sourceId": "guizang",
@@ -152,40 +203,6 @@
       "url": "https://x.com/op7418/status/2060626984200437995",
       "images": null,
       "published": "2026-05-30T07:38:52+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2060624551046975761",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "还有一个是那个 Pro 实在是太重了，我最近出门越来越多了，每次出门抱着它我就烦得要死，尤其是夏天又热",
-      "url": "https://x.com/op7418/status/2060624551046975761",
-      "images": null,
-      "published": "2026-05-30T07:29:12+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2060617155985682731",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "我发现这个杠精真是多，非得找地方体现一下自己的优越感。 下回就不要问这个内存还是硬盘了，你就当我是傻逼，我分不清内存还是硬盘就行",
-      "url": "https://x.com/op7418/status/2060617155985682731",
-      "images": null,
-      "published": "2026-05-30T06:59:49+00:00",
       "hasTranscript": false
     },
     {
@@ -638,23 +655,6 @@
       "published": "2026-05-24T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "“Harness Engineering”（挽具工程）正在成为硅谷的新共识，Anthropic、OpenAI等公司都在探索这一工程范式。但真正理解Harness的人还不多。前不久，一篇题为《Why Your “AI-First” Strategy Is Probably Wrong》的文章在X上获得百万级阅读和热议，作者是来自硅谷CreaoAI的Peter Pang。在这篇文章里，Peter展示了"
-    },
-    {
-      "id": "x_2058580556850348149",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "16 months later: • Cursor: $3B annualized revenue w/ 500+ people • Lovable: $400M annualized revenue w/ 200+ people • Mercor: $1B annualized revenue w/ 300+ people Ben Lang (@benln) Tiny teams are the future: • Cursor: 0 to $100M ARR in 21 months w/ 20 people • Bolt: 0 to $20M ARR in 2 months w/ 15 people • Lovable: 0 to $10M ARR in 2 months w/ 15 people • Mercor: 0 to $50M ARR in 2 years w/ 30 people • ElevenLabs: 0 to $100M ARR in 2 years w/ 50 people — https://nitter.net/benln/status/1889388151770325427#m",
-      "url": "https://x.com/benln/status/2058580556850348149",
-      "images": null,
-      "published": "2026-05-24T16:07:05+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_7VKliOQXQ9M",
