@@ -1,7 +1,243 @@
 {
-  "last_updated": "2026-06-02T03:33:09.178528Z",
-  "count": 101,
+  "last_updated": "2026-06-03T03:40:00.457637Z",
+  "count": 91,
   "items": [
+    {
+      "id": "x_2062005746569711901",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "哦 是 Sites",
+      "url": "https://x.com/op7418/status/2062005746569711901",
+      "images": null,
+      "published": "2026-06-03T02:57:34+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2062005183090233773",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codex 昨晚上线的这个 Site 插件非常厉害。 它本质上感觉类似于 Claude Design，帮你设计和生成网页，同时还帮你部署好了，可以直接给别人访问。 比较遗憾的是 Pro 用户不能用，只有那些 Business 和有组织的用户可以用。 Video",
+      "url": "https://x.com/op7418/status/2062005183090233773",
+      "images": null,
+      "published": "2026-06-03T02:55:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2062002600686518403",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这里尝试，网站设计依然很顶：hermes-agent.nousresearch.co…",
+      "url": "https://x.com/op7418/status/2062002600686518403",
+      "images": null,
+      "published": "2026-06-03T02:45:04+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2062002323786985825",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Hermes 居然出官方的客户端了，感觉他们的发展比龙虾好太多了 Video",
+      "url": "https://x.com/op7418/status/2062002323786985825",
+      "images": null,
+      "published": "2026-06-03T02:43:58+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2061884245698580942",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor team runs virtual workshops, open to anyone June schedule is now up",
+      "url": "https://x.com/benln/status/2061884245698580942",
+      "images": null,
+      "published": "2026-06-02T18:54:46+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_09-krjdFfis",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Turn the world into cheese (or anything really) with this camera.",
+      "url": "https://www.youtube.com/watch?v=09-krjdFfis",
+      "thumbnail": "https://img.youtube.com/vi/09-krjdFfis/maxresdefault.jpg",
+      "published": "2026-06-02T16:30:09+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_5UlRL_ImvQ0",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Build and share apps in Codex",
+      "url": "https://www.youtube.com/watch?v=5UlRL_ImvQ0",
+      "thumbnail": "https://img.youtube.com/vi/5UlRL_ImvQ0/maxresdefault.jpg",
+      "published": "2026-06-02T16:29:33+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2061799709895753801",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "I’d love to angel invest in 2-3 new startups over the summer. If you think I’d make a good addition to your cap table, reach out. DMs are open!",
+      "url": "https://x.com/benln/status/2061799709895753801",
+      "images": null,
+      "published": "2026-06-02T13:18:51+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2061786484341182591",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "小红书一个月涨了一万粉，离谱啊，现在三万了",
+      "url": "https://x.com/op7418/status/2061786484341182591",
+      "images": null,
+      "published": "2026-06-02T12:26:18+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2061772644215832828",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "收到了 @dotey 宝玉老师的图解 Skill，已严肃阅读 里面的配图都很有意思，非常适合理解内容，要是对 Skill 学习有需求可以看看",
+      "url": "https://x.com/op7418/status/2061772644215832828",
+      "images": null,
+      "published": "2026-06-02T11:31:18+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2061770605708685410",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "有些既要免费用，他自己不想赞助，又不想别人给我赞助，即使这个就是在 Readme 页面贴个 Logo，这都不行。 而且这些人也没说给捐个款，可能连点赞都没有，太难伺候了",
+      "url": "https://x.com/op7418/status/2061770605708685410",
+      "images": null,
+      "published": "2026-06-02T11:23:12+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2061755052382122368",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这里尝试：claw.360.cn/",
+      "url": "https://x.com/op7418/status/2061755052382122368",
+      "images": null,
+      "published": "2026-06-02T10:21:24+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2061754975685108020",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "感谢 360 安全龙虾成为“歸藏 PPT Skill”的金牌赞助商！ 我一直在想找一个可持续的方案来更新 PPT Skills，因为更新主题实在太费人力了。 基本上是我一个人在一页一页地调，非常耗时间。所以我开始引入赞助商。 目前产品依然是开源的，赞助商那边会同步更新，我也会帮忙做一些小的适配工作。 使用方式，在360安全龙虾内，点击专家-龙虾专家，第一排就可以使用我的两个skill。 大家也可以去这些赞助商的渠道去使用 PPT Skills，一般都会有一些免费额度供大家使用。 而且还会有其他内置的能力可以配合，比如图片生成、视频生成等 这些都可以添加到 PPT 里面，也可以跟赞助商其他内置的、非常好的 Skills 去配合。",
+      "url": "https://x.com/op7418/status/2061754975685108020",
+      "images": null,
+      "published": "2026-06-02T10:21:06+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_8COJ7vqAK0Q",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Built an AI That Wrote Me a Country Breakup Song",
+      "url": "https://www.youtube.com/watch?v=8COJ7vqAK0Q",
+      "thumbnail": "https://img.youtube.com/vi/8COJ7vqAK0Q/maxresdefault.jpg",
+      "published": "2026-06-02T09:52:48+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "x_2061645513964003631",
       "source": "归藏",
@@ -20,40 +256,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2061645122476097582",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "developer.apple.com/wwdc26/w…",
-      "url": "https://x.com/op7418/status/2061645122476097582",
-      "images": null,
-      "published": "2026-06-02T03:04:35+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2061644847325610329",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "苹果：北京时间 6 月 9 日凌晨 1 点举行 WWDC26。 这次的视觉设计挺漂亮的，他们还顺手发布了三张 iPad、iPhone 和 Mac 的壁纸放在这儿了。 点击加载 4K就行，也可以去下面网站下 6K 原图。 Greg Joswiak (@gregjoz) All systems glow for a great #WWDC26 next week! Tune in June 8 at 10 am PT. Video — https://nitter.net/gregjoz/status/2061468832070590505#m",
-      "url": "https://x.com/op7418/status/2061644847325610329",
-      "images": null,
-      "published": "2026-06-02T03:03:29+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_dnzxcYl4xYI",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -66,6 +268,22 @@
       "url": "https://www.youtube.com/watch?v=dnzxcYl4xYI",
       "thumbnail": "https://img.youtube.com/vi/dnzxcYl4xYI/maxresdefault.jpg",
       "published": "2026-06-01T19:40:47+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_XwsTXmnB2oI",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://www.youtube.com/watch?v=XwsTXmnB2oI",
+      "thumbnail": "https://img.youtube.com/vi/XwsTXmnB2oI/maxresdefault.jpg",
+      "published": "2026-06-01T18:15:11+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -86,23 +304,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2061456989969133796",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "其实都搞好了，被苹果审核卡脖子了 歸藏(guizang.ai) (@op7418) iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了 Video — https://nitter.net/op7418/status/2060689179642916894#m",
-      "url": "https://x.com/op7418/status/2061456989969133796",
-      "images": null,
-      "published": "2026-06-01T14:37:01+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2061445790338314504",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -117,108 +318,6 @@
       "url": "https://x.com/benln/status/2061445790338314504",
       "images": null,
       "published": "2026-06-01T13:52:30+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2061426855157326299",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "客户端：github.com/op7418/CodePilot/…",
-      "url": "https://x.com/op7418/status/2061426855157326299",
-      "images": null,
-      "published": "2026-06-01T12:37:16+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2061426771267125649",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codepilot 的重构版本终于好了！ CodePilot 0.55.0-preview.5 相当多的内容优化，UI 整体重构，支持将 Codex 作为 Agent 引擎 可以使用 Codex 内置模型也可以自定义模型 目前是测试版本没有推送，不排除有大 bug，如果有问题欢迎带日志反馈",
-      "url": "https://x.com/op7418/status/2061426771267125649",
-      "images": null,
-      "published": "2026-06-01T12:36:56+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2061336925286629879",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "谁能想到藏师傅有天也能上央视新闻呢",
-      "url": "https://x.com/op7418/status/2061336925286629879",
-      "images": null,
-      "published": "2026-06-01T06:39:55+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2061335964992323744",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "妈的，终于搞定我的 Codex 断联和推理慢的问题了！ 我有一台电脑上的 Codex 推理速度巨慢，即使开了快速模式也很慢，还有一个问题就是经常连不上。 我一直以为是自己的网络有问题，但它和我的 Mac Studio 处于同一个网络环境，Mac Studio 运行就非常快。 结果今天发现，是我的 config 配置文件有问题。里面写死了两个参数，还写死了两个必须加载的 MCP，导致速度巨慢。 如果你也有类似问题的话，我推荐让你的 Codex 自己检查一下配置文件。你只需要跟它描述具体的表现就行。",
-      "url": "https://x.com/op7418/status/2061335964992323744",
-      "images": null,
-      "published": "2026-06-01T06:36:06+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2061327301644861608",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "MiniMax 这次终于发布了他们的大版本号模型升级 MiniMax M3。 主要是三个核心能力： 1. 标配了 1M 的超长上下文 2. 采用新的 MSA（MoE with Segment-wise Attention）稀疏注意力架构 3. 从训练起就融合了原生多模态能力，包括强化了文本、图片、视频和桌面操作这些多模态的训练。 MSA 超上下文在算力和速度上更可落地，在 100 万上下文下每 token 计算量只有上一代的约 1/20。。 所以他们这一次的价格也比较给力，Token Plan 更新了新的价格。 在 API 上，小于512k 的 API 现在有为期 7 天的限时五折。 MiniMax (official) (@MiniMax_AI) Introducing MiniMax M3: The First Open-Weights Model to Combine Three Frontier Capabilities - Coding & Agentic Frontier: 59.0% SWE-Bench Pro, 66.0% Terminal Bench 2.1, 34.8% SWE-fficiency, 28.8% KernelBench Hard, 74.2% MCP Atlas - MiniMax Sparse Attention scales context to 1M - Natively Multimodal from Step Zero API: platform.minimax.io Token Plan: platform.minimax.io/subscrib… 🚀New! MiniMax Code: code.minimax.io Weights & Tech Report in ~10 Days — https://nitter.net/MiniMax_AI/status/2061266317815296322#m",
-      "url": "https://x.com/op7418/status/2061327301644861608",
-      "images": null,
-      "published": "2026-06-01T06:01:40+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2061122568283918766",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "上架应该会限免，后面也就卖个一两块，功能多了可能会涨价",
-      "url": "https://x.com/op7418/status/2061122568283918766",
-      "images": null,
-      "published": "2026-05-31T16:28:08+00:00",
       "hasTranscript": false
     },
     {
@@ -315,23 +414,6 @@
       "url": "https://www.youtube.com/watch?v=EYvzpZX2-Ww",
       "thumbnail": "https://img.youtube.com/vi/EYvzpZX2-Ww/maxresdefault.jpg",
       "published": "2026-05-29T17:03:52+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_1M3Vdl6DRkU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
-      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
-      "thumbnail": "https://img.youtube.com/vi/1M3Vdl6DRkU/maxresdefault.jpg",
-      "published": "2026-05-29T16:18:31+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -434,54 +516,6 @@
       "url": "https://www.youtube.com/watch?v=wE1ZgJdt4uM",
       "thumbnail": "https://img.youtube.com/vi/wE1ZgJdt4uM/maxresdefault.jpg",
       "published": "2026-05-28T20:37:13+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_tK32trvj_b4",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Build Hour: Agents SDK",
-      "url": "https://www.youtube.com/watch?v=tK32trvj_b4",
-      "thumbnail": "https://img.youtube.com/vi/tK32trvj_b4/maxresdefault.jpg",
-      "published": "2026-05-28T20:09:34+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_tXBRYPpIvms",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "How Abridge uses GPT-5.5 for clinical decision support",
-      "url": "https://www.youtube.com/watch?v=tXBRYPpIvms",
-      "thumbnail": "https://img.youtube.com/vi/tXBRYPpIvms/maxresdefault.jpg",
-      "published": "2026-05-28T18:11:11+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_DHfZqTWlSc4",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "R&D Part 1",
-      "url": "https://www.youtube.com/watch?v=DHfZqTWlSc4",
-      "thumbnail": "https://img.youtube.com/vi/DHfZqTWlSc4/maxresdefault.jpg",
-      "published": "2026-05-28T16:01:56+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -601,40 +635,6 @@
       "url": "https://x.com/benln/status/2059325062054895997",
       "images": null,
       "published": "2026-05-26T17:25:29+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2059258155729637773",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor is coming up in these cities: • Florianópolis - 5/27 • Skopje - 5/28 • Tirana - 5/30 • Austin - 5/30 • Johannesburg - 6/5 • Tashkent - 6/6 • San Francisco - 6/10 • Manila - 6/16 • León - 6/17 • Dubai - 6/18 • Sofia - 6/26 • Cebu - 6/27",
-      "url": "https://x.com/benln/status/2059258155729637773",
-      "images": null,
-      "published": "2026-05-26T12:59:38+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2058962587606282673",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "2026 version of a job board:",
-      "url": "https://x.com/benln/status/2058962587606282673",
-      "images": null,
-      "published": "2026-05-25T17:25:09+00:00",
       "hasTranscript": false
     },
     {
@@ -969,23 +969,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_nepKKz-MzFM",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "thumbnail": "https://img.youtube.com/vi/nepKKz-MzFM/maxresdefault.jpg",
-      "published": "2026-05-06T22:03:16+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_6cCWrrQp1v4",
       "source": "a16z",
       "sourceId": "a16z",
@@ -1069,23 +1052,6 @@
       "url": "https://www.youtube.com/watch?v=DmFdxaLgD70",
       "thumbnail": "https://img.youtube.com/vi/DmFdxaLgD70/maxresdefault.jpg",
       "published": "2026-04-15T12:30:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_iKx3gAODybU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "thumbnail": "https://img.youtube.com/vi/iKx3gAODybU/maxresdefault.jpg",
-      "published": "2026-04-09T17:35:20+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1181,23 +1147,6 @@
       "transcriptPreview": "本期播客是硅谷101在GTC 2026大会期间的线下特别录制，我们从老黄在Keynote上抛出的那几个大数字开始聊起： 1万亿——这是黄仁勋预期到2027年底，Blackwell和Vera Rubin两个平台带来的订单收入。 7块——这是大会一次性发布的Vera Rubin新芯片数量。 10倍、35倍——这是Vera Rubin NVL72 AI机架系统，相比Blackwell，它的推理效率提升了"
     },
     {
-      "id": "yt_vif8NQcjVf0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
-      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
-      "thumbnail": "https://img.youtube.com/vi/vif8NQcjVf0/maxresdefault.jpg",
-      "published": "2026-03-23T16:24:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_g8Zs12L2kVU",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -1234,57 +1183,6 @@
       "transcriptPreview": "这几年，如果说全球制造业里，有哪个故事最值得被重新讲一遍，那一定是动力电池。 中国在动力电池产业链中，建立了极强的优势。当欧洲电池巨头Northvolt破产，日韩也不再具备领先地位，很多人会问：为什么很多原始技术并非源自中国，但最后却是中国把它做成了最完整、强势的产业？这背后到底是政策红利、市场规模，还是极致的工程能力在起作用 ？ 这一期节目，我们邀请了材料学博士、TDK Ventures 投资人"
     },
     {
-      "id": "yt_H9rF1CSSh-w",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
-      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
-      "thumbnail": "https://img.youtube.com/vi/H9rF1CSSh-w/maxresdefault.jpg",
-      "published": "2026-03-11T20:21:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_SHlrUAkkWI0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
-      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
-      "thumbnail": "https://img.youtube.com/vi/SHlrUAkkWI0/maxresdefault.jpg",
-      "published": "2026-03-03T12:30:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_1SJiTwbSI58",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492",
-      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
-      "thumbnail": "https://img.youtube.com/vi/1SJiTwbSI58/maxresdefault.jpg",
-      "published": "2026-03-01T03:37:44+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_Erxh0dx4nts",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -1298,23 +1196,6 @@
       "url": "https://www.youtube.com/watch?v=Erxh0dx4nts",
       "thumbnail": "https://img.youtube.com/vi/Erxh0dx4nts/maxresdefault.jpg",
       "published": "2026-02-27T11:41:37+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_KGVpKPNUdzA",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
-      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
-      "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
-      "published": "2026-02-25T22:36:32+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1352,23 +1233,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_YFjfBk8HI5o",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
-      "thumbnail": "https://img.youtube.com/vi/YFjfBk8HI5o/maxresdefault.jpg",
-      "published": "2026-02-12T03:07:03+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_r0uij_l32to",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -1382,23 +1246,6 @@
       "url": "https://www.youtube.com/watch?v=r0uij_l32to",
       "thumbnail": "https://img.youtube.com/vi/r0uij_l32to/maxresdefault.jpg",
       "published": "2026-02-11T14:43:36+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_EV7WhVT270Q",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
-      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
-      "thumbnail": "https://img.youtube.com/vi/EV7WhVT270Q/maxresdefault.jpg",
-      "published": "2026-01-31T22:33:33+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1432,23 +1279,6 @@
       "url": "https://www.youtube.com/watch?v=pGyHNyOUaqg",
       "thumbnail": "https://img.youtube.com/vi/pGyHNyOUaqg/maxresdefault.jpg",
       "published": "2026-01-29T10:50:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_8bSAP6VVsd0",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Built a YouTube Channel That Runs Itself with Genspark",
-      "url": "https://www.youtube.com/watch?v=8bSAP6VVsd0",
-      "thumbnail": "https://img.youtube.com/vi/8bSAP6VVsd0/maxresdefault.jpg",
-      "published": "2026-01-23T11:11:46+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
