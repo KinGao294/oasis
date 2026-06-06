@@ -1,7 +1,175 @@
 {
-  "last_updated": "2026-06-05T02:57:50.160158Z",
+  "last_updated": "2026-06-06T02:44:53.055947Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_ywS7Ytkx3A0",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "We just launched Paxel!",
+      "url": "https://www.youtube.com/watch?v=ywS7Ytkx3A0",
+      "thumbnail": "https://img.youtube.com/vi/ywS7Ytkx3A0/maxresdefault.jpg",
+      "published": "2026-06-05T19:52:39+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_VRvC5smyzso",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Introducing Sites in Codex",
+      "url": "https://www.youtube.com/watch?v=VRvC5smyzso",
+      "thumbnail": "https://img.youtube.com/vi/VRvC5smyzso/maxresdefault.jpg",
+      "published": "2026-06-05T17:42:23+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2062927277759893629",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Skip LinkedIn. Resources to find breakout startups hiring before everyone else: • Ramp’s monthly vendor reports • Harmonic’s quarterly Hot 25 • a16z Build newsletter • Founders You Should Know • Next Play newsletter • YC startup directory • Early Days Substack",
+      "url": "https://x.com/benln/status/2062927277759893629",
+      "images": null,
+      "published": "2026-06-05T15:59:25+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2062922085748621464",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codex 个人资料页的这个 Token 消耗数据可以分享了。 这个分享图做得真挺好的，打开设置、个人资料页，点击右上角的分享图标，就可以生成分享图了 OpenAI Developers (@OpenAIDevs) Your Codex activity now has a home, and an easier way to share it. Codex profiles show your activity graph, streaks, lifetime tokens, peak daily tokens, and top features like plugins and /fast mode. Private by default. Share a card when you want to. Video — https://nitter.net/OpenAIDevs/status/2062674774644687268#m",
+      "url": "https://x.com/op7418/status/2062922085748621464",
+      "images": null,
+      "published": "2026-06-05T15:38:47+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_mjmswQurIU4",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "How Legora Went From YC to $100M ARR in 18 Months",
+      "url": "https://www.youtube.com/watch?v=mjmswQurIU4",
+      "thumbnail": "https://img.youtube.com/vi/mjmswQurIU4/maxresdefault.jpg",
+      "published": "2026-06-05T14:30:09+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_xZ5J81Lwyk8",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "1Password One Shots with Codex",
+      "url": "https://www.youtube.com/watch?v=xZ5J81Lwyk8",
+      "thumbnail": "https://img.youtube.com/vi/xZ5J81Lwyk8/maxresdefault.jpg",
+      "published": "2026-06-05T13:01:28+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2062864675658977349",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "啊？咋就抖音精选了",
+      "url": "https://x.com/op7418/status/2062864675658977349",
+      "images": null,
+      "published": "2026-06-05T11:50:39+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2062801259544068176",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "发现有些朋友在用 GitHub 的时候，什么发言啊什么的，什么原生啊，看得老重了。 但是就是不知道看那个版权协议。 注意哦，这个 PPT skill 的版权求必须署名并且开源。如果不想开源的话，联系我走商业授权。 就是抄点子也就算了，直接抄代码，还有的直接抄名字。 歸藏(guizang.ai) (@op7418) 说一下 guizang PPT Skills 还会继续更新啊。 得益于最近的几个赞助，可以找时间去更新第三套主题了，依旧非常惊艳。 同时，在小红书那个图文卡片部分积累的好经验，也会用到 PPT Skills 的新版里面。 — https://nitter.net/op7418/status/2062558698107797562#m",
+      "url": "https://x.com/op7418/status/2062801259544068176",
+      "images": null,
+      "published": "2026-06-05T07:38:39+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2062743530423136673",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "在 AI Vibe Coding 开发过程中，文档基本上等于 Harness，也就是说文档体系就是 Harness，其他都是不重要的，或者没那么重要 歸藏(guizang.ai) (@op7418) 事实上，Codepilot 这种大型代码库 Vibe Coding 非常依赖于文档。 自从 Claude Code 的 Plan 模式废掉以后，我连计划写的都是计划文档，整个文档体系的复杂度和占代码的比例都在快速大幅上升。 所以，文档体系的管理，以及 AI 和人协作下的文档梳理，在整个大型代码库中其实是非常重要的。 我让 Codex 分析了一下 CodePilot 目前的文档体系，以及它跟代码之间的关系。 目前 CodePilot 里面有 26 万行代码和 5.6 万行文档，文档占代码的比例大约是 21%。 说一个事实： 从 CodePilot 的第一个版本到现在，我没有动过一行代码，因为现在确实看不懂了。 但目前基本上所有已知的 bug 我都能修复，所有想要实现的能力也都能实现。 这是当前 Vibe Coding 我自己的一个实践，也是我自己的一个上限。整个重构本来预期是两周，但实际持续了超过一个月零三周。 — https://nitter.net/op7418/status/2062732151515455637#m",
+      "url": "https://x.com/op7418/status/2062743530423136673",
+      "images": null,
+      "published": "2026-06-05T03:49:16+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2062732151515455637",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "事实上，Codepilot 这种大型代码库 Vibe Coding 非常依赖于文档。 自从 Claude Code 的 Plan 模式废掉以后，我连计划写的都是计划文档，整个文档体系的复杂度和占代码的比例都在快速大幅上升。 所以，文档体系的管理，以及 AI 和人协作下的文档梳理，在整个大型代码库中其实是非常重要的。 我让 Codex 分析了一下 CodePilot 目前的文档体系，以及它跟代码之间的关系。 目前 CodePilot 里面有 26 万行代码和 5.6 万行文档，文档占代码的比例大约是 21%。 说一个事实： 从 CodePilot 的第一个版本到现在，我没有动过一行代码，因为现在确实看不懂了。 但目前基本上所有已知的 bug 我都能修复，所有想要实现的能力也都能实现。 这是当前 Vibe Coding 我自己的一个实践，也是我自己的一个上限。整个重构本来预期是两周，但实际持续了超过一个月零三周。 歸藏(guizang.ai) (@op7418) CodePilot v0.55.0 正式版已经更新！ 重构完成的正式版： 多执行引擎（Claude Code / 自建 Native / OpenAI Codex）、上下文用量可视化、Codex 账号原生能力全部落地为稳定版，并集中修复了 macOS 视觉与托盘、Windows 安装与交互、服务商型号映射等内测反馈问题。 🆕新增功能 多执行引擎，可整体切换也可按会话切换 — 同一个应用里支持 Anthropic Claude Code、CodePilot 自建 Native、OpenAI Codex 三种执行引擎；可以设全局默认，也能在单个对话的输入框下方临时切换，互不影响。 上下文用量可视化 — 聊天里能实时看到本次对话占用了多少上下文、还剩多少，并按来源（系统提示 / 工作区规则 / 技能 / 记忆 / 工具 / MCP）分解，长对话不再\"用着用着突然被截断也不知道为什么\"。 OpenAI Codex 账号原生能力打通 — 用 Codex 账号登录后，助理记忆、Widget 可视化、定时任务 + 到点通知、Dashboard、CLI 工具这些内置能力在 Codex 引擎下也能用；接不了的能力会如实标注为不支持，而不是假装可用。 — https://nitter.net/op7418/status/2062567442568933720#m",
+      "url": "https://x.com/op7418/status/2062732151515455637",
+      "images": null,
+      "published": "2026-06-05T03:04:03+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_BdBxQz8e-o8",
       "source": "OpenAI",
@@ -218,57 +386,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2062392105860059227",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "做了个简单的小工具 即览 Glimpse 没有 AI，不联网，专注于解决手机上的 Markdown 和 HTML 的 AI 产出物预览问题。 ​ ​苹果审核卡了我三天，开放了 8000 个测试名额，应该够了。如果满了的话，可能等几天我就上架了 Video 歸藏(guizang.ai) (@op7418) x.com/i/article/206235985637… — https://nitter.net/op7418/status/2062361524367401461#m",
-      "url": "https://x.com/op7418/status/2062392105860059227",
-      "images": null,
-      "published": "2026-06-04T04:32:50+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2062361524367401461",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "x.com/i/article/206235985637…",
-      "url": "https://x.com/op7418/status/2062361524367401461",
-      "images": null,
-      "published": "2026-06-04T02:31:18+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2062354974043152673",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Reve 2.0 这个图像模型强啊 原生 4K 输出，主要是它支持类似于你在 PS 里用到的图像分层之后的编辑能力就。 图像中的每一个部分，你点它就能选中。而且这个不需要中间的处理，他给你处理好了。就是你想要编辑哪个部分，就点哪个部分 Video",
-      "url": "https://x.com/op7418/status/2062354974043152673",
-      "images": null,
-      "published": "2026-06-04T02:05:17+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_bJcA23ckzcY",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -302,23 +419,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2062167781538508880",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "说一下，抖音和小红书现在对于纯 AI 内容是比较严格的。 然后如果你是创作类的内容，你自己做了一些东西，或者你用 vibe Coding 了一些原创的一些东西来展示的话，他们就会有一些扶持。",
-      "url": "https://x.com/op7418/status/2062167781538508880",
-      "images": null,
-      "published": "2026-06-03T13:41:27+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2062163772400124330",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -333,23 +433,6 @@
       "url": "https://x.com/benln/status/2062163772400124330",
       "images": null,
       "published": "2026-06-03T13:25:31+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2062062986903359546",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "看来快手确实要分拆可灵单独上市了了。 其实早就该搞，太晚了现在。",
-      "url": "https://x.com/op7418/status/2062062986903359546",
-      "images": null,
-      "published": "2026-06-03T06:45:02+00:00",
       "hasTranscript": false
     },
     {
@@ -386,22 +469,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_5UlRL_ImvQ0",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Build and share apps in Codex",
-      "url": "https://www.youtube.com/watch?v=5UlRL_ImvQ0",
-      "thumbnail": "https://img.youtube.com/vi/5UlRL_ImvQ0/maxresdefault.jpg",
-      "published": "2026-06-02T16:29:33+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2061799709895753801",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -432,22 +499,6 @@
       "url": "https://www.youtube.com/watch?v=8COJ7vqAK0Q",
       "thumbnail": "https://img.youtube.com/vi/8COJ7vqAK0Q/maxresdefault.jpg",
       "published": "2026-06-02T09:52:48+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_dnzxcYl4xYI",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "The Texas Town at the forefront of OpenAI's Stargate Project",
-      "url": "https://www.youtube.com/watch?v=dnzxcYl4xYI",
-      "thumbnail": "https://img.youtube.com/vi/dnzxcYl4xYI/maxresdefault.jpg",
-      "published": "2026-06-01T19:40:47+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -619,23 +670,6 @@
       "url": "https://x.com/benln/status/2059980118185984494",
       "images": null,
       "published": "2026-05-28T12:48:27+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2059674865913811203",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cursor's first big event is coming up See you there! Cursor (@cursor_ai) We're hosting an event on June 16th in San Francisco. Compile is a one-day event that brings together engineers, researchers, designers, and builders of all kinds to discuss the future of software. cursor.com/compile — https://nitter.net/cursor_ai/status/2059673762728116442#m",
-      "url": "https://x.com/benln/status/2059674865913811203",
-      "images": null,
-      "published": "2026-05-27T16:35:29+00:00",
       "hasTranscript": false
     },
     {
@@ -812,23 +846,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_YKZCU0ynEbs",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Zepto: How Two 17-Year-Olds Built India's Largest Seller Of Fruits and Vegetables",
-      "url": "https://www.youtube.com/watch?v=YKZCU0ynEbs",
-      "thumbnail": "https://img.youtube.com/vi/YKZCU0ynEbs/maxresdefault.jpg",
-      "published": "2026-05-19T14:00:50+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_Ie07zcmbnhM",
       "source": "a16z",
       "sourceId": "a16z",
@@ -842,23 +859,6 @@
       "url": "https://www.youtube.com/watch?v=Ie07zcmbnhM",
       "thumbnail": "https://img.youtube.com/vi/Ie07zcmbnhM/maxresdefault.jpg",
       "published": "2026-05-18T14:30:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_yMt2oSemobE",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Thanks for a great time, India 🇮🇳",
-      "url": "https://www.youtube.com/watch?v=yMt2oSemobE",
-      "thumbnail": "https://img.youtube.com/vi/yMt2oSemobE/maxresdefault.jpg",
-      "published": "2026-05-16T05:00:49+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
