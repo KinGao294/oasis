@@ -1,7 +1,91 @@
 {
-  "last_updated": "2026-06-06T02:44:53.055947Z",
+  "last_updated": "2026-06-07T03:28:15.585211Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_RwzRm-qCXwA",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "OpenAI Investor Innovation Day",
+      "url": "https://www.youtube.com/watch?v=RwzRm-qCXwA",
+      "thumbnail": "https://img.youtube.com/vi/RwzRm-qCXwA/maxresdefault.jpg",
+      "published": "2026-06-06T23:50:54+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_yyXCQHX55N4",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Emergent: How Six Months of Tinkering Led To A $100M ARR Company",
+      "url": "https://www.youtube.com/watch?v=yyXCQHX55N4",
+      "thumbnail": "https://img.youtube.com/vi/yyXCQHX55N4/maxresdefault.jpg",
+      "published": "2026-06-06T12:30:10+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2063228766894334159",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "一定有人说了，向日葵不行吗 向日葵不能让 AI 自动修复问题，这个手机上一句话指令 AI 就能帮忙修复，向日葵还得拿电脑操作",
+      "url": "https://x.com/op7418/status/2063228766894334159",
+      "images": null,
+      "published": "2026-06-06T11:57:25+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2063161575410893268",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "北京这几天的天气是真的好",
+      "url": "https://x.com/op7418/status/2063161575410893268",
+      "images": null,
+      "published": "2026-06-06T07:30:25+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2063154662417866900",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这个点子好，在朋友或者是父母的电脑上装个 codex。 然后开启远程控制，你就能帮他们修电脑了，而且也可以帮用 computer use 去控制他们的电脑。 Andrew Ambrosino (@ajambrosino) install codex on your parents’ computers so you can fix stuff remotely — https://nitter.net/ajambrosino/status/2062685748374172129#m",
+      "url": "https://x.com/op7418/status/2063154662417866900",
+      "images": null,
+      "published": "2026-06-06T07:02:57+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_ywS7Ytkx3A0",
       "source": "Y Combinator",
@@ -301,40 +385,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2062563287225733565",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "即览的新版已经上传，各位可以去 TestFlight 里面更新新版了。 本次更新内容： 1. 修复了一堆 Bug 2. 同时支持了 iOS 17 和 iOS 18 系统 歸藏(guizang.ai) (@op7418) x.com/i/article/206235985637… — https://nitter.net/op7418/status/2062361524367401461#m",
-      "url": "https://x.com/op7418/status/2062563287225733565",
-      "images": null,
-      "published": "2026-06-04T15:53:02+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2062558698107797562",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "说一下 guizang PPT Skills 还会继续更新啊。 得益于最近的几个赞助，可以找时间去更新第三套主题了，依旧非常惊艳。 同时，在小红书那个图文卡片部分积累的好经验，也会用到 PPT Skills 的新版里面。 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
-      "url": "https://x.com/op7418/status/2062558698107797562",
-      "images": null,
-      "published": "2026-06-04T15:34:48+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_fQmlML9Lay4",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -366,23 +416,6 @@
       "url": "https://x.com/benln/status/2062526645420921013",
       "images": null,
       "published": "2026-06-04T13:27:26+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2062403614963126712",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "又发现一个 Codex 好用的点！ 我发这个视频，抖音说我违规，我实在不知道哪句话违规了。 然后就让 Codex 直接根据我的视频和我的字幕，帮我视频剪一个不违规的版本，牛逼，果然过审了。",
-      "url": "https://x.com/op7418/status/2062403614963126712",
-      "images": null,
-      "published": "2026-06-04T05:18:34+00:00",
       "hasTranscript": false
     },
     {
@@ -451,22 +484,6 @@
       "images": null,
       "published": "2026-06-02T18:54:46+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt_09-krjdFfis",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Turn the world into cheese (or anything really) with this camera.",
-      "url": "https://www.youtube.com/watch?v=09-krjdFfis",
-      "thumbnail": "https://img.youtube.com/vi/09-krjdFfis/maxresdefault.jpg",
-      "published": "2026-06-02T16:30:09+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "x_2061799709895753801",
@@ -789,23 +806,6 @@
       "url": "https://www.youtube.com/watch?v=h0bhNm6kwT8",
       "thumbnail": "https://img.youtube.com/vi/h0bhNm6kwT8/maxresdefault.jpg",
       "published": "2026-05-21T20:52:11+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_X_JsIHUfUjc",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How to Build a Self-Improving Company with AI",
-      "url": "https://www.youtube.com/watch?v=X_JsIHUfUjc",
-      "thumbnail": "https://img.youtube.com/vi/X_JsIHUfUjc/maxresdefault.jpg",
-      "published": "2026-05-21T14:00:51+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
