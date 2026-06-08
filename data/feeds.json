@@ -1,7 +1,41 @@
 {
-  "last_updated": "2026-06-07T03:28:15.585211Z",
+  "last_updated": "2026-06-08T03:33:38.061170Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2063669336036851982",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Two co-working buddies under two",
+      "url": "https://x.com/benln/status/2063669336036851982",
+      "images": null,
+      "published": "2026-06-07T17:08:05+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2063620860162822480",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Pulled the fastest-growing startups based on X follower growth over the past 90 days:",
+      "url": "https://x.com/benln/status/2063620860162822480",
+      "images": null,
+      "published": "2026-06-07T13:55:27+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_RwzRm-qCXwA",
       "source": "OpenAI",
@@ -605,23 +639,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2060345072206360965",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Buenos Aires",
-      "url": "https://x.com/benln/status/2060345072206360965",
-      "images": null,
-      "published": "2026-05-29T12:58:39+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_2Ap1dnv-GXA",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -671,23 +688,6 @@
       "published": "2026-05-28T20:37:13+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2059980118185984494",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "gm Guillermo Rauch (@rauchg) gm — https://nitter.net/rauchg/status/2059597719321121275#m",
-      "url": "https://x.com/benln/status/2059980118185984494",
-      "images": null,
-      "published": "2026-05-28T12:48:27+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_B246K_G7mHU",
