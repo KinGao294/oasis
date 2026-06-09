@@ -1,7 +1,194 @@
 {
-  "last_updated": "2026-06-08T03:33:38.061170Z",
-  "count": 101,
+  "last_updated": "2026-06-09T02:43:44.255038Z",
+  "count": 41,
   "items": [
+    {
+      "id": "x_2064158962371694838",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "哦 还有 iPhone air",
+      "url": "https://x.com/op7418/status/2064158962371694838",
+      "images": null,
+      "published": "2026-06-09T01:33:41+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2064154387879186760",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "昨晚苹果 WWDC 唯一的亮点就是这个灵动岛的新 Siri AI 了。 而且本地端侧模型居然只支持 17Pro 这一款设备，当然欧洲和中国还是不可用。 Video",
+      "url": "https://x.com/op7418/status/2064154387879186760",
+      "images": null,
+      "published": "2026-06-09T01:15:30+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2064154232736096372",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "打错了，应该是欧洲不能用，美国可以",
+      "url": "https://x.com/op7418/status/2064154232736096372",
+      "images": null,
+      "published": "2026-06-09T01:14:53+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2064034755621118378",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "苹果的做设计现在也是面多了加水，水多了加面。 iOS 27 又把磨砂效果加回来了，而且你能把磨砂效果调到满。跟之前的没啥区别， 液态玻璃效果完全没了。 侧边栏从卡片又改回了原来的那个填满的效果",
+      "url": "https://x.com/op7418/status/2064034755621118378",
+      "images": null,
+      "published": "2026-06-08T17:20:08+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2063993648350736532",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "提醒一下今晚一点有 WWDC 哦",
+      "url": "https://x.com/op7418/status/2063993648350736532",
+      "images": null,
+      "published": "2026-06-08T14:36:47+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2063991326132383988",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "最近可以在各种媒体和账号上，看到我的那个 Skills 推荐。感谢量子位。 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
+      "url": "https://x.com/op7418/status/2063991326132383988",
+      "images": null,
+      "published": "2026-06-08T14:27:33+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2063969424659411394",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor team will be visiting 10 cities this summer: • Nairobi • Casablanca • Bangkok • Los Angeles • Da Nang • Manila • Tokyo • Accra • Bali • Kathmandu event details + RSVP on Luma soon!",
+      "url": "https://x.com/benln/status/2063969424659411394",
+      "images": null,
+      "published": "2026-06-08T13:00:32+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2063949818033229966",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "转一下笑林老师关于设计工程师定义，想找类似工作的可以看看 笑林 (@xiaolinbythesea) Cursor 招聘设计工程师了，非常令人心动，但我还犹豫着不能行动； 我在字节工作了8年，一直游走在动效设计师和设计工程师之间。最近我的团队（豆包手机团队）也在招聘设计工程师，但是我们需要的方向更多要有一些对 Android 平台的了解，和硅谷大多数设计工程师围绕 Web 展开工作有所区别。 前一阵我也对市面上招聘设计工程师的 JD 做了调研，和 ChatGPT 一起做出以下几个画像，虽然 Title 都是设计工程师，但还是有不同的侧重的： 画像一：AI Design Engineer 定位： 负责把 AI 能力转成可理解、可控制、可验证的产品体验。 传统产品设计师、UI/UX 设计师的 AI 升级版。 典型任务： - 设计 agent workflow、tool call、执行计划、状态反馈。 - 做真实或半真实 LLM/API 驱动原型。 - 处理 AI 的 latency、streaming、失败、幻觉、权限、回滚、人工确认。 - 和模型、后端、前端、产品一起定义可交互的 AI 产品机制。 关键证据： - 有能运行的 AI 产品原型，而不是只有 UI mock。 - 展示过复杂状态、异常、边界、权限和失败恢复。 - 能清楚解释“模型能力如何影响交互设计”。 不适合信号： - 只会把 AI 做成聊天框。 - 只关心 prompt，不关心产品状态和人机协作。 - 无法解释 AI 输出不确定性如何体现在界面中。 画像二：Product UI Craft Engineer 定位： 把关键产品界面做到可上线质量，负责交互、动效、性能和细节手感。 传统动效设计师、原型设计师的升级版。 典型任务： - 从 Figma 或 Sketch 直接写出高质量 React/TypeScript 原型。 - 打磨 loading、empty、error、success、hover、focus、keyboard、transition。 - 做组件抽象、交互动效、响应式、性能优化。 - 和设计师、产品、工程师一起把“感觉不对”拆成可修复的细节。 关键证据： - 作品中有真实可操作界面。 - 细节状态完整，不只有 happy path。 - 能解释性能、动效、可访问性和视觉 polish 的取舍。 不适合信号： - 会写代码但审美粗糙。 - 会做视觉但无法落到真实前端。 - 对交互状态和边界情况不敏感。 画像三：Design Systems Engineer 定位： 建立团队长期复用的设计与前端基础设施。 传统设计系统维护者使用 AI 加强工作流。 典型任务： - 建立 tokens、components、patterns、docs、Storybook。 - 连接 Figma variables 和代码组件。 - 定义组件 API、可访问性标准、motion token、dark mode、主题系统。 - 让 AI 工具能消费组件、token 和设计上下文。 关键证据： - 有完整设计系统项目，而不是零散 UI kit。 - 同时展示设计规范和代码实现。 - 能处理组件治理、版本、迁移、文档和跨团队协作。 不适合信号： - 只会画组件，不懂组件 API。 - 只会写组件，不懂设计语义。 - 过度抽象，脱离真实产品场景。 画像四：Creative Technologist / Motion & Graphics Engineer 定位： 负责产品中的高级动效、实时图形、创作工具、3D/空间交互和生成式视觉体验。 传统技术美术、特效设计、动效动画设计的进阶。 典型任务： - 做 Canvas / WebGL / Three.js / Rive / Lottie / Shader 原型。 - 设计时间线、关键帧、预览、生成、局部编辑、版本分支。 - 把 AI 生成结果变成可编辑、可理解、可控制的创作界面。 - 探索 Aesthetics 2026 所说的 technical mono、mixed media、3D、nostalgia、texture、glitch 等方向，但保持可用性。 关键证据： - 有动效或图形交互 demo。 - 能说明动效如何服务信息层级和操作反馈。 - 有审美实验能力，但不牺牲产品清晰度。 不适合信号： - 只做炫技动效，无法服务产品。 - 只懂静态视觉，不懂时间和交互。 - 3D/图形能力脱离工程实现。 画像五：AI Design Workflow Architect 定位： 不是单点做界面，而是设计团队如何使用 AI、Figma、代码库、设计系统一起工作的流程。 AI 时代的新角色，AI Design Infra，与前面四个画像深度合作。 典型任务： - 搭建 Figma → token → component → code → docs 的链路。 - 使用 Claude Code、Cursor、v0、Lovable、Figma MCP 等工具形成团队工作流。 - 设计 AI 辅助 UI 生成、组件检索、设计系统问答、自动文档、代码同步。 - 把设计系统变成模型可读的上下文。 关键证据： - 有自动化或半自动化设计流程案例。 - 能解释 AI 工具在流程中哪里可靠、哪里不可靠。 - 能平衡速度、质量、治理和团队学习成本。 不适合信号： - 把 AI 工具当噱头。 - 只会“生成页面”，不会维护系统。 - 不能判断 AI 生成结果的设计质量。 --- 上述画像是以技能侧重抽象的，不一定是精准匹配到某类人，甚至大多数设计工程师是在多个画像间交叉的，比如我。 有对豆包手机感兴趣的可以联系我，有对我感兴趣的也可以联系我 😁 — https://nitter.net/xiaolinbythesea/status/2062447379098517799#m",
+      "url": "https://x.com/op7418/status/2063949818033229966",
+      "images": null,
+      "published": "2026-06-08T11:42:37+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2063900613990371759",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "微信终于要加 AI Agent 能力了？ 微信发布了《开发者接入微信 AI 生态的指引》这篇文章，引导小程序开发者接入微信 AI 生态，让微信的 AI 控制小程序。 感觉这个可能是未来微信 AI 上一个非常重要的功能",
+      "url": "https://x.com/op7418/status/2063900613990371759",
+      "images": null,
+      "published": "2026-06-08T08:27:06+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2063889888186167504",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "试了一下，公众号图文卡片也是支持 Live Photo 的。 只不过要从 iPhone 上上传，这下爽了呀！ 歸藏(guizang.ai) (@op7418) 藏师傅的社交媒体卡片 Skill，即将迎来一个非常重磅的升级。 可以帮大家解决小红书 Live Photo 的制作问题，同时会帮你制作动态的带文字排版的 Live Photo 这样你可以在发布一些必须的动态内容的时候，依然以图文的形式发布，而不至于做非常重的视频。 — https://nitter.net/op7418/status/2063883141287399589#m",
+      "url": "https://x.com/op7418/status/2063889888186167504",
+      "images": null,
+      "published": "2026-06-08T07:44:29+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2063883141287399589",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "藏师傅的社交媒体卡片 Skill，即将迎来一个非常重磅的升级。 可以帮大家解决小红书 Live Photo 的制作问题，同时会帮你制作动态的带文字排版的 Live Photo 这样你可以在发布一些必须的动态内容的时候，依然以图文的形式发布，而不至于做非常重的视频。 歸藏(guizang.ai) (@op7418) x.com/i/article/205981146908… — https://nitter.net/op7418/status/2059812895803011449#m",
+      "url": "https://x.com/op7418/status/2063883141287399589",
+      "images": null,
+      "published": "2026-06-08T07:17:40+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2063669336036851982",
       "source": "Ben Lang",
@@ -37,123 +224,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_RwzRm-qCXwA",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "OpenAI Investor Innovation Day",
-      "url": "https://www.youtube.com/watch?v=RwzRm-qCXwA",
-      "thumbnail": "https://img.youtube.com/vi/RwzRm-qCXwA/maxresdefault.jpg",
-      "published": "2026-06-06T23:50:54+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_yyXCQHX55N4",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Emergent: How Six Months of Tinkering Led To A $100M ARR Company",
-      "url": "https://www.youtube.com/watch?v=yyXCQHX55N4",
-      "thumbnail": "https://img.youtube.com/vi/yyXCQHX55N4/maxresdefault.jpg",
-      "published": "2026-06-06T12:30:10+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2063228766894334159",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "一定有人说了，向日葵不行吗 向日葵不能让 AI 自动修复问题，这个手机上一句话指令 AI 就能帮忙修复，向日葵还得拿电脑操作",
-      "url": "https://x.com/op7418/status/2063228766894334159",
-      "images": null,
-      "published": "2026-06-06T11:57:25+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2063161575410893268",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "北京这几天的天气是真的好",
-      "url": "https://x.com/op7418/status/2063161575410893268",
-      "images": null,
-      "published": "2026-06-06T07:30:25+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2063154662417866900",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这个点子好，在朋友或者是父母的电脑上装个 codex。 然后开启远程控制，你就能帮他们修电脑了，而且也可以帮用 computer use 去控制他们的电脑。 Andrew Ambrosino (@ajambrosino) install codex on your parents’ computers so you can fix stuff remotely — https://nitter.net/ajambrosino/status/2062685748374172129#m",
-      "url": "https://x.com/op7418/status/2063154662417866900",
-      "images": null,
-      "published": "2026-06-06T07:02:57+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_ywS7Ytkx3A0",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "We just launched Paxel!",
-      "url": "https://www.youtube.com/watch?v=ywS7Ytkx3A0",
-      "thumbnail": "https://img.youtube.com/vi/ywS7Ytkx3A0/maxresdefault.jpg",
-      "published": "2026-06-05T19:52:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_VRvC5smyzso",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Introducing Sites in Codex",
-      "url": "https://www.youtube.com/watch?v=VRvC5smyzso",
-      "thumbnail": "https://img.youtube.com/vi/VRvC5smyzso/maxresdefault.jpg",
-      "published": "2026-06-05T17:42:23+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2062927277759893629",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -171,271 +241,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2062922085748621464",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codex 个人资料页的这个 Token 消耗数据可以分享了。 这个分享图做得真挺好的，打开设置、个人资料页，点击右上角的分享图标，就可以生成分享图了 OpenAI Developers (@OpenAIDevs) Your Codex activity now has a home, and an easier way to share it. Codex profiles show your activity graph, streaks, lifetime tokens, peak daily tokens, and top features like plugins and /fast mode. Private by default. Share a card when you want to. Video — https://nitter.net/OpenAIDevs/status/2062674774644687268#m",
-      "url": "https://x.com/op7418/status/2062922085748621464",
-      "images": null,
-      "published": "2026-06-05T15:38:47+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_mjmswQurIU4",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How Legora Went From YC to $100M ARR in 18 Months",
-      "url": "https://www.youtube.com/watch?v=mjmswQurIU4",
-      "thumbnail": "https://img.youtube.com/vi/mjmswQurIU4/maxresdefault.jpg",
-      "published": "2026-06-05T14:30:09+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_xZ5J81Lwyk8",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "1Password One Shots with Codex",
-      "url": "https://www.youtube.com/watch?v=xZ5J81Lwyk8",
-      "thumbnail": "https://img.youtube.com/vi/xZ5J81Lwyk8/maxresdefault.jpg",
-      "published": "2026-06-05T13:01:28+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2062864675658977349",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "啊？咋就抖音精选了",
-      "url": "https://x.com/op7418/status/2062864675658977349",
-      "images": null,
-      "published": "2026-06-05T11:50:39+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2062801259544068176",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "发现有些朋友在用 GitHub 的时候，什么发言啊什么的，什么原生啊，看得老重了。 但是就是不知道看那个版权协议。 注意哦，这个 PPT skill 的版权求必须署名并且开源。如果不想开源的话，联系我走商业授权。 就是抄点子也就算了，直接抄代码，还有的直接抄名字。 歸藏(guizang.ai) (@op7418) 说一下 guizang PPT Skills 还会继续更新啊。 得益于最近的几个赞助，可以找时间去更新第三套主题了，依旧非常惊艳。 同时，在小红书那个图文卡片部分积累的好经验，也会用到 PPT Skills 的新版里面。 — https://nitter.net/op7418/status/2062558698107797562#m",
-      "url": "https://x.com/op7418/status/2062801259544068176",
-      "images": null,
-      "published": "2026-06-05T07:38:39+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2062743530423136673",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "在 AI Vibe Coding 开发过程中，文档基本上等于 Harness，也就是说文档体系就是 Harness，其他都是不重要的，或者没那么重要 歸藏(guizang.ai) (@op7418) 事实上，Codepilot 这种大型代码库 Vibe Coding 非常依赖于文档。 自从 Claude Code 的 Plan 模式废掉以后，我连计划写的都是计划文档，整个文档体系的复杂度和占代码的比例都在快速大幅上升。 所以，文档体系的管理，以及 AI 和人协作下的文档梳理，在整个大型代码库中其实是非常重要的。 我让 Codex 分析了一下 CodePilot 目前的文档体系，以及它跟代码之间的关系。 目前 CodePilot 里面有 26 万行代码和 5.6 万行文档，文档占代码的比例大约是 21%。 说一个事实： 从 CodePilot 的第一个版本到现在，我没有动过一行代码，因为现在确实看不懂了。 但目前基本上所有已知的 bug 我都能修复，所有想要实现的能力也都能实现。 这是当前 Vibe Coding 我自己的一个实践，也是我自己的一个上限。整个重构本来预期是两周，但实际持续了超过一个月零三周。 — https://nitter.net/op7418/status/2062732151515455637#m",
-      "url": "https://x.com/op7418/status/2062743530423136673",
-      "images": null,
-      "published": "2026-06-05T03:49:16+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2062732151515455637",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "事实上，Codepilot 这种大型代码库 Vibe Coding 非常依赖于文档。 自从 Claude Code 的 Plan 模式废掉以后，我连计划写的都是计划文档，整个文档体系的复杂度和占代码的比例都在快速大幅上升。 所以，文档体系的管理，以及 AI 和人协作下的文档梳理，在整个大型代码库中其实是非常重要的。 我让 Codex 分析了一下 CodePilot 目前的文档体系，以及它跟代码之间的关系。 目前 CodePilot 里面有 26 万行代码和 5.6 万行文档，文档占代码的比例大约是 21%。 说一个事实： 从 CodePilot 的第一个版本到现在，我没有动过一行代码，因为现在确实看不懂了。 但目前基本上所有已知的 bug 我都能修复，所有想要实现的能力也都能实现。 这是当前 Vibe Coding 我自己的一个实践，也是我自己的一个上限。整个重构本来预期是两周，但实际持续了超过一个月零三周。 歸藏(guizang.ai) (@op7418) CodePilot v0.55.0 正式版已经更新！ 重构完成的正式版： 多执行引擎（Claude Code / 自建 Native / OpenAI Codex）、上下文用量可视化、Codex 账号原生能力全部落地为稳定版，并集中修复了 macOS 视觉与托盘、Windows 安装与交互、服务商型号映射等内测反馈问题。 🆕新增功能 多执行引擎，可整体切换也可按会话切换 — 同一个应用里支持 Anthropic Claude Code、CodePilot 自建 Native、OpenAI Codex 三种执行引擎；可以设全局默认，也能在单个对话的输入框下方临时切换，互不影响。 上下文用量可视化 — 聊天里能实时看到本次对话占用了多少上下文、还剩多少，并按来源（系统提示 / 工作区规则 / 技能 / 记忆 / 工具 / MCP）分解，长对话不再\"用着用着突然被截断也不知道为什么\"。 OpenAI Codex 账号原生能力打通 — 用 Codex 账号登录后，助理记忆、Widget 可视化、定时任务 + 到点通知、Dashboard、CLI 工具这些内置能力在 Codex 引擎下也能用；接不了的能力会如实标注为不支持，而不是假装可用。 — https://nitter.net/op7418/status/2062567442568933720#m",
-      "url": "https://x.com/op7418/status/2062732151515455637",
-      "images": null,
-      "published": "2026-06-05T03:04:03+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_BdBxQz8e-o8",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Codex is your BFF when things are everything, everywhere, all at once 💫",
-      "url": "https://www.youtube.com/watch?v=BdBxQz8e-o8",
-      "thumbnail": "https://img.youtube.com/vi/BdBxQz8e-o8/maxresdefault.jpg",
-      "published": "2026-06-04T20:27:50+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_DDnGhZ01PqM",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "What Codex Unlocks for Zapier",
-      "url": "https://www.youtube.com/watch?v=DDnGhZ01PqM",
-      "thumbnail": "https://img.youtube.com/vi/DDnGhZ01PqM/maxresdefault.jpg",
-      "published": "2026-06-04T20:25:18+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_U2C55LC0ZLM",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Codex for Sales Teams: Moving Faster to Solve Customer Problems",
-      "url": "https://www.youtube.com/watch?v=U2C55LC0ZLM",
-      "thumbnail": "https://img.youtube.com/vi/U2C55LC0ZLM/maxresdefault.jpg",
-      "published": "2026-06-04T19:32:57+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt__9ImjmzAyus",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Build and share interactive prototypes in Codex",
-      "url": "https://www.youtube.com/watch?v=_9ImjmzAyus",
-      "thumbnail": "https://img.youtube.com/vi/_9ImjmzAyus/maxresdefault.jpg",
-      "published": "2026-06-04T18:06:29+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_wNWz5Hbh5VQ",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "How a reasoning model cracked an 80-year-old math problem — the OpenAI Podcast Ep. 20",
-      "url": "https://www.youtube.com/watch?v=wNWz5Hbh5VQ",
-      "thumbnail": "https://img.youtube.com/vi/wNWz5Hbh5VQ/maxresdefault.jpg",
-      "published": "2026-06-04T17:00:35+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_uU3LUMcNgfA",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Codex Helps Amgen Focus on Patients",
-      "url": "https://www.youtube.com/watch?v=uU3LUMcNgfA",
-      "thumbnail": "https://img.youtube.com/vi/uU3LUMcNgfA/maxresdefault.jpg",
-      "published": "2026-06-04T16:28:02+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2062567543076987098",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "详情：github.com/op7418/CodePilot/…",
-      "url": "https://x.com/op7418/status/2062567543076987098",
-      "images": null,
-      "published": "2026-06-04T16:09:57+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2062567442568933720",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "CodePilot v0.55.0 正式版已经更新！ 重构完成的正式版： 多执行引擎（Claude Code / 自建 Native / OpenAI Codex）、上下文用量可视化、Codex 账号原生能力全部落地为稳定版，并集中修复了 macOS 视觉与托盘、Windows 安装与交互、服务商型号映射等内测反馈问题。 🆕新增功能 多执行引擎，可整体切换也可按会话切换 — 同一个应用里支持 Anthropic Claude Code、CodePilot 自建 Native、OpenAI Codex 三种执行引擎；可以设全局默认，也能在单个对话的输入框下方临时切换，互不影响。 上下文用量可视化 — 聊天里能实时看到本次对话占用了多少上下文、还剩多少，并按来源（系统提示 / 工作区规则 / 技能 / 记忆 / 工具 / MCP）分解，长对话不再\"用着用着突然被截断也不知道为什么\"。 OpenAI Codex 账号原生能力打通 — 用 Codex 账号登录后，助理记忆、Widget 可视化、定时任务 + 到点通知、Dashboard、CLI 工具这些内置能力在 Codex 引擎下也能用；接不了的能力会如实标注为不支持，而不是假装可用。",
-      "url": "https://x.com/op7418/status/2062567442568933720",
-      "images": null,
-      "published": "2026-06-04T16:09:33+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_fQmlML9Lay4",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup",
-      "url": "https://www.youtube.com/watch?v=fQmlML9Lay4",
-      "thumbnail": "https://img.youtube.com/vi/fQmlML9Lay4/maxresdefault.jpg",
-      "published": "2026-06-04T14:00:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2062526645420921013",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -451,39 +256,6 @@
       "images": null,
       "published": "2026-06-04T13:27:26+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt_bJcA23ckzcY",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "It's time to fly | Codex",
-      "url": "https://www.youtube.com/watch?v=bJcA23ckzcY",
-      "thumbnail": "https://img.youtube.com/vi/bJcA23ckzcY/maxresdefault.jpg",
-      "published": "2026-06-03T19:11:26+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_gSNFJbgoaHI",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How to Build an AI-Native Services Company",
-      "url": "https://www.youtube.com/watch?v=gSNFJbgoaHI",
-      "thumbnail": "https://img.youtube.com/vi/gSNFJbgoaHI/maxresdefault.jpg",
-      "published": "2026-06-03T14:00:38+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "x_2062163772400124330",
@@ -537,23 +309,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_8COJ7vqAK0Q",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Built an AI That Wrote Me a Country Breakup Song",
-      "url": "https://www.youtube.com/watch?v=8COJ7vqAK0Q",
-      "thumbnail": "https://img.youtube.com/vi/8COJ7vqAK0Q/maxresdefault.jpg",
-      "published": "2026-06-02T09:52:48+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2061445790338314504",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -605,141 +360,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2060385198647247001",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "80+ open roles at Cursor:",
-      "url": "https://x.com/benln/status/2060385198647247001",
-      "images": null,
-      "published": "2026-05-29T15:38:06+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_AiM9mZCmVPY",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The New Rule for Picking AI Winners | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=AiM9mZCmVPY",
-      "thumbnail": "https://img.youtube.com/vi/AiM9mZCmVPY/maxresdefault.jpg",
-      "published": "2026-05-29T14:29:06+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_2Ap1dnv-GXA",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup",
-      "url": "https://www.youtube.com/watch?v=2Ap1dnv-GXA",
-      "thumbnail": "https://img.youtube.com/vi/2Ap1dnv-GXA/maxresdefault.jpg",
-      "published": "2026-05-29T12:30:27+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_co_fghzNz08",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Quit Chrome for an AI Browser. It Actually Worked.",
-      "url": "https://www.youtube.com/watch?v=co_fghzNz08",
-      "thumbnail": "https://img.youtube.com/vi/co_fghzNz08/maxresdefault.jpg",
-      "published": "2026-05-29T10:33:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_wE1ZgJdt4uM",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Inference, Diffusion, World Models, and More | YC Paper Club",
-      "url": "https://www.youtube.com/watch?v=wE1ZgJdt4uM",
-      "thumbnail": "https://img.youtube.com/vi/wE1ZgJdt4uM/maxresdefault.jpg",
-      "published": "2026-05-28T20:37:13+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_B246K_G7mHU",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Inside YC's AI Playbook",
-      "url": "https://www.youtube.com/watch?v=B246K_G7mHU",
-      "thumbnail": "https://img.youtube.com/vi/B246K_G7mHU/maxresdefault.jpg",
-      "published": "2026-05-27T14:00:26+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_oYK_MmZW9XI",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Private Markets, Software Repricing and Capital Allocation | Marc Rowan on a16z",
-      "url": "https://www.youtube.com/watch?v=oYK_MmZW9XI",
-      "thumbnail": "https://img.youtube.com/vi/oYK_MmZW9XI/maxresdefault.jpg",
-      "published": "2026-05-27T14:00:13+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_DQGrPstFRVI",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "2030 冰河期 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=DQGrPstFRVI",
-      "thumbnail": "https://img.youtube.com/vi/DQGrPstFRVI/maxresdefault.jpg",
-      "published": "2026-05-27T11:30:36+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_51260de8_60ef_4b76_b3e5_2e559c4a0923",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -757,57 +377,6 @@
       "published": "2026-05-24T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "“Harness Engineering”（挽具工程）正在成为硅谷的新共识，Anthropic、OpenAI等公司都在探索这一工程范式。但真正理解Harness的人还不多。前不久，一篇题为《Why Your “AI-First” Strategy Is Probably Wrong》的文章在X上获得百万级阅读和热议，作者是来自硅谷CreaoAI的Peter Pang。在这篇文章里，Peter展示了"
-    },
-    {
-      "id": "yt_7VKliOQXQ9M",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How The Best Companies Defend Against Mediocrity And Rot",
-      "url": "https://www.youtube.com/watch?v=7VKliOQXQ9M",
-      "thumbnail": "https://img.youtube.com/vi/7VKliOQXQ9M/maxresdefault.jpg",
-      "published": "2026-05-22T14:00:07+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_iVIqeAw46B8",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Let AI Cold-Call 100 Plumbers (Genspark)",
-      "url": "https://www.youtube.com/watch?v=iVIqeAw46B8",
-      "thumbnail": "https://img.youtube.com/vi/iVIqeAw46B8/maxresdefault.jpg",
-      "published": "2026-05-22T11:45:38+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_h0bhNm6kwT8",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "OpenAI: $2M in tokens to every YC company in the spring and summer batches.",
-      "url": "https://www.youtube.com/watch?v=h0bhNm6kwT8",
-      "thumbnail": "https://img.youtube.com/vi/h0bhNm6kwT8/maxresdefault.jpg",
-      "published": "2026-05-21T20:52:11+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_c3607c08_6eb6_48bd_8250_b41b5b8272e6",
@@ -829,57 +398,6 @@
       "transcriptPreview": "离美加墨世界杯开赛还有一个月，央视和国际足联FIFA之间的版权谈判终于是谈妥了，本期我们来聊聊世界杯的定价逻辑与体育赛事版权生意的变化脉络。 【主播】 麻花，硅谷101特约研究员 【嘉宾】 朱晓东，力赞体育CEO ，本届世界杯日本转播权销售顾问 张宾，《体育产业独立评论》主理人 【你将听到】 谈判的虚惊一场，赞助商的从中斡旋 02:40 价格细节：打包的版权交易里，很少透露单届的价格 04:25 "
     },
     {
-      "id": "yt_pddFfZy4nZU",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Is Defense the Next Trillion-Dollar Category? | a16z American Dynamism Summit",
-      "url": "https://www.youtube.com/watch?v=pddFfZy4nZU",
-      "thumbnail": "https://img.youtube.com/vi/pddFfZy4nZU/maxresdefault.jpg",
-      "published": "2026-05-19T14:30:37+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Ie07zcmbnhM",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How Founders Can Build for Law Enforcement and First Responders | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=Ie07zcmbnhM",
-      "thumbnail": "https://img.youtube.com/vi/Ie07zcmbnhM/maxresdefault.jpg",
-      "published": "2026-05-18T14:30:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_4aU4y02V8AA",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Brian Chesky on the three stages of building a company.",
-      "url": "https://www.youtube.com/watch?v=4aU4y02V8AA",
-      "thumbnail": "https://img.youtube.com/vi/4aU4y02V8AA/maxresdefault.jpg",
-      "published": "2026-05-14T22:00:38+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_b066c769_00d2_4341_bf61_a82bca4181e4",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -897,57 +415,6 @@
       "published": "2026-05-14T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "人类历史上第一批和生成式AI同时长大的学生，正在踏入毕业季。 去年我们和大学生聊AI时，讨论还集中在“要不要使用AI”、“教授怎么看”。然而仅一年后，AI真正成为了生产力工具。这届毕业生可能会发现：不管你学的是知识性课程，还是实用性技能，都难逃AI冲击，想要脱颖而出必须成为那个“更善于使用AI的人”。 当知识可以被AI调取，技能可以被工具取代，大学还能给你什么独一无二的东西？面对AI冲击，有哪些能"
-    },
-    {
-      "id": "yt_FnJaDj5zUhY",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Founders Who Left Tesla to Rebuild America | a16z",
-      "url": "https://www.youtube.com/watch?v=FnJaDj5zUhY",
-      "thumbnail": "https://img.youtube.com/vi/FnJaDj5zUhY/maxresdefault.jpg",
-      "published": "2026-05-13T14:39:25+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_9qqLihL4AWk",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Goldman Sachs Chairman on Why Finance Adopts AI Differently | a16z",
-      "url": "https://www.youtube.com/watch?v=9qqLihL4AWk",
-      "thumbnail": "https://img.youtube.com/vi/9qqLihL4AWk/maxresdefault.jpg",
-      "published": "2026-05-12T14:00:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_k1z0e7bGzq0",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Marc Andreessen’s Worldview in 60 Minutes | Live on MTS",
-      "url": "https://www.youtube.com/watch?v=k1z0e7bGzq0",
-      "thumbnail": "https://img.youtube.com/vi/k1z0e7bGzq0/maxresdefault.jpg",
-      "published": "2026-05-11T14:30:11+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_90f96f60_25be_45ac_b832_56776a23d534",
@@ -969,23 +436,6 @@
       "transcriptPreview": "近年来，癌症治疗正迎来多个技术平台并行演进、加速迭代的新阶段：从ADC、双特异性抗体、放射性配体疗法，到细胞治疗，整个行业都在经历一轮底层技术工具的升级。其中，CAR-T是最具范式转换意义的一类疗法——它首次在部分血液肿瘤中，把“利用工程化改造的免疫细胞精准清除癌细胞”带入了临床现实。更值得关注的是，2025年以来，跨国药企的押注明显转向体内CAR-T：阿斯利康、艾伯维、百时美施贵宝和礼来等公司，"
     },
     {
-      "id": "yt_X9k53P-2SOg",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Ben Horowitz on American Dynamism and the Future of AI | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=X9k53P-2SOg",
-      "thumbnail": "https://img.youtube.com/vi/X9k53P-2SOg/maxresdefault.jpg",
-      "published": "2026-05-08T15:46:18+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_nepKKz-MzFM",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -999,39 +449,6 @@
       "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
       "thumbnail": "https://img.youtube.com/vi/nepKKz-MzFM/maxresdefault.jpg",
       "published": "2026-05-06T22:03:16+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_6cCWrrQp1v4",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "NASA, SpaceX, Blue Origin, and The Race to The Moon | Jared Isaacman on The a16z Show",
-      "url": "https://www.youtube.com/watch?v=6cCWrrQp1v4",
-      "thumbnail": "https://img.youtube.com/vi/6cCWrrQp1v4/maxresdefault.jpg",
-      "published": "2026-05-06T14:30:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_WeBa4ZawcPo",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "有些突然 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=WeBa4ZawcPo",
-      "thumbnail": "https://img.youtube.com/vi/WeBa4ZawcPo/maxresdefault.jpg",
-      "published": "2026-04-29T12:30:43+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1074,22 +491,6 @@
       "transcriptPreview": "Peter Thiel，是硅谷最具争议和影响力的思想家之一。如果要用一句话概括他的思想，那就是：世界是由少数天选之人在幕后驱动的，而他就是其中之一。这套理论，不仅在以他为核心的“硅谷右翼”圈子中产生了影响，还通过Peter Thiel的政治参与，影响了更多的人。 那么，Peter Thiel的思想，又来源于什么呢？要理解他，答案藏在三位哲学家身上：法国文学批评理论家吉拉尔、纳粹党员法学家施密特、和"
     },
     {
-      "id": "yt_DmFdxaLgD70",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "可怕的石油 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=DmFdxaLgD70",
-      "thumbnail": "https://img.youtube.com/vi/DmFdxaLgD70/maxresdefault.jpg",
-      "published": "2026-04-15T12:30:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_iKx3gAODybU",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -1124,40 +525,6 @@
       "published": "2026-04-09T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "2025年，中国餐饮品牌开启了声势浩大的出海美国。喜茶在纽约开出了更具辨识度的LAB店，霸王茶姬、瑞幸和蜜雪冰城也在这一年正式登陆美国。 但要问目前在美国做得最好的中餐和茶饮品牌，答案可能会出乎你意料——中餐第一是一度退出中国华北市场的鼎泰丰，茶饮标杆则是早在内地销声匿迹的贡茶。 究其原因，餐饮企业想顺利出海美国，不仅需要足够的“做时间的朋友”的耐心，需要对当地商业规则足够了解，更要吃透当地主流人"
-    },
-    {
-      "id": "yt_xWHugpfvzjg",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "This AI made me $2,345 in 24 hours",
-      "url": "https://www.youtube.com/watch?v=xWHugpfvzjg",
-      "thumbnail": "https://img.youtube.com/vi/xWHugpfvzjg/maxresdefault.jpg",
-      "published": "2026-04-02T13:41:31+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_CkEse6MmGFk",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "i gave chatgpt $2,000 to trade stocks for 24 hours",
-      "url": "https://www.youtube.com/watch?v=CkEse6MmGFk",
-      "thumbnail": "https://img.youtube.com/vi/CkEse6MmGFk/maxresdefault.jpg",
-      "published": "2026-04-01T09:21:53+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_0f4a2ab9_d3a0_41ad_8db1_6c03c851bd70",
@@ -1211,23 +578,6 @@
       "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
       "thumbnail": "https://img.youtube.com/vi/vif8NQcjVf0/maxresdefault.jpg",
       "published": "2026-03-23T16:24:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_g8Zs12L2kVU",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Let an AI Run My Life for 50 Days",
-      "url": "https://www.youtube.com/watch?v=g8Zs12L2kVU",
-      "thumbnail": "https://img.youtube.com/vi/g8Zs12L2kVU/maxresdefault.jpg",
-      "published": "2026-03-23T15:03:34+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1302,23 +652,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_Erxh0dx4nts",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "This AI Taught Me Calculus in 5 Minutes",
-      "url": "https://www.youtube.com/watch?v=Erxh0dx4nts",
-      "thumbnail": "https://img.youtube.com/vi/Erxh0dx4nts/maxresdefault.jpg",
-      "published": "2026-02-27T11:41:37+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_KGVpKPNUdzA",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -1332,39 +665,6 @@
       "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
       "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
       "published": "2026-02-25T22:36:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_2o76-z12Ttk",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "The Internet is 50% Fake. I Built a Detector.",
-      "url": "https://www.youtube.com/watch?v=2o76-z12Ttk",
-      "thumbnail": "https://img.youtube.com/vi/2o76-z12Ttk/maxresdefault.jpg",
-      "published": "2026-02-18T12:10:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_EOIlGekiMsQ",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "史上最大規模的封閉實驗，第二個“大自然” | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=EOIlGekiMsQ",
-      "thumbnail": "https://img.youtube.com/vi/EOIlGekiMsQ/maxresdefault.jpg",
-      "published": "2026-02-17T13:30:22+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1386,23 +686,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_r0uij_l32to",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Hired 5 AI Employees for $0 (Here's What Happened)",
-      "url": "https://www.youtube.com/watch?v=r0uij_l32to",
-      "thumbnail": "https://img.youtube.com/vi/r0uij_l32to/maxresdefault.jpg",
-      "published": "2026-02-11T14:43:36+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_EV7WhVT270Q",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -1416,279 +699,6 @@
       "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
       "thumbnail": "https://img.youtube.com/vi/EV7WhVT270Q/maxresdefault.jpg",
       "published": "2026-01-31T22:33:33+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt__6VOEvdU6hM",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "2026，好久不見 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=_6VOEvdU6hM",
-      "thumbnail": "https://img.youtube.com/vi/_6VOEvdU6hM/maxresdefault.jpg",
-      "published": "2026-01-30T14:37:30+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_pGyHNyOUaqg",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Built & Launched a Mobile App in 10 Minutes (No Code)",
-      "url": "https://www.youtube.com/watch?v=pGyHNyOUaqg",
-      "thumbnail": "https://img.youtube.com/vi/pGyHNyOUaqg/maxresdefault.jpg",
-      "published": "2026-01-29T10:50:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_B51v9kJQuKo",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "【庫存影片】仁頃事件，一個被NHK封殺的接觸事件。（本影片拍攝於1年前，因為特殊原因封存至今） | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=B51v9kJQuKo",
-      "thumbnail": "https://img.youtube.com/vi/B51v9kJQuKo/maxresdefault.jpg",
-      "published": "2025-12-24T13:07:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_ESObIvXrKZI",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "【庫存影片】百慕大三角（拍攝於2022年2月，由於特殊原因封存至今） | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=ESObIvXrKZI",
-      "thumbnail": "https://img.youtube.com/vi/ESObIvXrKZI/maxresdefault.jpg",
-      "published": "2025-11-12T13:23:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Iocm-1dXr-Q",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "目前為止最可信的地外生命存在的證據 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=Iocm-1dXr-Q",
-      "thumbnail": "https://img.youtube.com/vi/Iocm-1dXr-Q/maxresdefault.jpg",
-      "published": "2025-10-01T14:38:48+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_VdF4cd0SitU",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "臭氧空洞，人類距離滅絕最近的一次 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=VdF4cd0SitU",
-      "thumbnail": "https://img.youtube.com/vi/VdF4cd0SitU/maxresdefault.jpg",
-      "published": "2025-09-17T14:33:34+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_hACEeJKE6TE",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "可怕的鉛 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=hACEeJKE6TE",
-      "thumbnail": "https://img.youtube.com/vi/hACEeJKE6TE/maxresdefault.jpg",
-      "published": "2025-09-03T14:44:31+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_8Cg3p9K0il4",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "送给所有知道我名字的人！For Everyone Who Knows My Name.丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=8Cg3p9K0il4",
-      "thumbnail": "https://img.youtube.com/vi/8Cg3p9K0il4/maxresdefault.jpg",
-      "published": "2024-11-13T04:31:19+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_JJL3ZKrHeKM",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "拿柴房造了一个森林衣帽间~I turned the Woodshed into a Forest-Themed Closet.丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=JJL3ZKrHeKM",
-      "thumbnail": "https://img.youtube.com/vi/JJL3ZKrHeKM/maxresdefault.jpg",
-      "published": "2024-11-12T09:00:19+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_IrXjnw8BpM0",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "奶奶的衣柜坏了，给她翻新了一下。My grandma’s wardrobe was broken, so I gave it a makeover.丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=IrXjnw8BpM0",
-      "thumbnail": "https://img.youtube.com/vi/IrXjnw8BpM0/maxresdefault.jpg",
-      "published": "2024-11-12T08:30:06+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_u-xS-dkz3a0",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "我们中国人的开门七件事，柴米油盐酱醋茶 Firewood, rice, oil, salt, soy sauce, vinegar, and tea丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=u-xS-dkz3a0",
-      "thumbnail": "https://img.youtube.com/vi/u-xS-dkz3a0/maxresdefault.jpg",
-      "published": "2021-07-14T12:12:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_RagTZHPrn_o",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "Wine table of winding canal—an exciting by-product of watching TV!这是一个看电视看出来的曲水流觞桌！丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=RagTZHPrn_o",
-      "thumbnail": "https://img.youtube.com/vi/RagTZHPrn_o/maxresdefault.jpg",
-      "published": "2021-06-05T14:12:40+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_3KfvUCKxCts",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "喝的是茶，过的是生活 Tea is more than a drink, but a lifestyle.丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=3KfvUCKxCts",
-      "thumbnail": "https://img.youtube.com/vi/3KfvUCKxCts/maxresdefault.jpg",
-      "published": "2021-05-27T13:15:09+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_J4Y12QLEaXs",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "Make a peach blossom crown with silk flowers | 用绢花工艺做了套桃花发冠，带上爱人浪了一把春天丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=J4Y12QLEaXs",
-      "thumbnail": "https://img.youtube.com/vi/J4Y12QLEaXs/maxresdefault.jpg",
-      "published": "2021-04-06T12:29:12+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_sGOTCCVDLtQ",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "Chinese New Year’s decorations, goods and snacks！明日除夕，挂灯笼、贴对联、备好年货过大年啦！丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=sGOTCCVDLtQ",
-      "thumbnail": "https://img.youtube.com/vi/sGOTCCVDLtQ/maxresdefault.jpg",
-      "published": "2021-02-10T13:00:28+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_B6bJ_vTslyo",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "The last episode of the “Life Series”: The life of white radish!一生系列产品最后一个视频——萝卜的一生丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=B6bJ_vTslyo",
-      "thumbnail": "https://img.youtube.com/vi/B6bJ_vTslyo/maxresdefault.jpg",
-      "published": "2021-01-09T11:45:17+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_YKIXHn3kDL0",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "May the red, red persimmons bring you a happy, prosperous new year!❤️愿一串串的红柿子给大家带来新一年的柿柿顺心 | Liziqi",
-      "url": "https://www.youtube.com/watch?v=YKIXHn3kDL0",
-      "thumbnail": "https://img.youtube.com/vi/YKIXHn3kDL0/maxresdefault.jpg",
-      "published": "2020-12-09T10:55:12+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
