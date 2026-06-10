@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-09T02:43:44.255038Z",
+  "last_updated": "2026-06-10T02:56:44.220384Z",
   "count": 41,
   "items": [
     {
-      "id": "x_2064158962371694838",
+      "id": "x_2064525619581657195",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -13,14 +13,14 @@
         "Design"
       ],
       "title": null,
-      "content": "哦 还有 iPhone air",
-      "url": "https://x.com/op7418/status/2064158962371694838",
+      "content": "因为害怕额度问题，所以先让他找问题、写计划，没让他改代码。 结果发现他找问题找得老快了，而且也挺准的",
+      "url": "https://x.com/op7418/status/2064525619581657195",
       "images": null,
-      "published": "2026-06-09T01:33:41+00:00",
+      "published": "2026-06-10T01:50:39+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2064154387879186760",
+      "id": "x_2064522814955368782",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -30,14 +30,14 @@
         "Design"
       ],
       "title": null,
-      "content": "昨晚苹果 WWDC 唯一的亮点就是这个灵动岛的新 Siri AI 了。 而且本地端侧模型居然只支持 17Pro 这一款设备，当然欧洲和中国还是不可用。 Video",
-      "url": "https://x.com/op7418/status/2064154387879186760",
+      "content": "在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题",
+      "url": "https://x.com/op7418/status/2064522814955368782",
       "images": null,
-      "published": "2026-06-09T01:15:30+00:00",
+      "published": "2026-06-10T01:39:30+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2064154232736096372",
+      "id": "x_2064522566711246863",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -47,14 +47,14 @@
         "Design"
       ],
       "title": null,
-      "content": "打错了，应该是欧洲不能用，美国可以",
-      "url": "https://x.com/op7418/status/2064154232736096372",
+      "content": "亏了呀，早上六点重置了，少用了一些 Fable 5 Alex Albert (@alexalbert__) We've reset usage limits across our products! For those just starting to test Fable, here's four tips for using it more effectively: 1. Give it bigger, more ambitious tasks than what previous models could handle. 2. Use xhigh/high effort as your default for best performance, med for faster interactive sessions. 3. Rework your skills and CLAUDE.mds. Instructions written for prior models anchor Fable to stale patterns, let it use its own judgment first. 4. Move from providing tasks to providing objectives. Describe what done looks like and how to verify it, then let Fable find the path (/loop and /goal are built for this) — https://nitter.net/alexalbert__/status/2064467657483829441#m",
+      "url": "https://x.com/op7418/status/2064522566711246863",
       "images": null,
-      "published": "2026-06-09T01:14:53+00:00",
+      "published": "2026-06-10T01:38:31+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2064034755621118378",
+      "id": "x_2064399444523782377",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -64,31 +64,31 @@
         "Design"
       ],
       "title": null,
-      "content": "苹果的做设计现在也是面多了加水，水多了加面。 iOS 27 又把磨砂效果加回来了，而且你能把磨砂效果调到满。跟之前的没啥区别， 液态玻璃效果完全没了。 侧边栏从卡片又改回了原来的那个填满的效果",
-      "url": "https://x.com/op7418/status/2064034755621118378",
+      "content": "我去！没想到 Anthropic 的 Mythos 模型今天真的发布了。 不过他们这次发布的是 Mythos 的一个低配版本，命名为 Fable 5。 它的测评基准非常惊人，甚至比之前的 Mythos Preview 模型还要高。在 Agent Coding 方面，它的主要长处在于 Coding、Agent 以及工具调用，基准得分比 Opus 4.8 高出非常多。 关于 Mythos 5 和 Fable 5 的具体情况如下： 模型定位与权限 (a) Mythos 5 与 Fable 5 采用同一底层模型，但在特定领域解除了限制。 (b) Mythos 目前依然只为受信任的合作伙伴提供，优先开放给网络安全和生命科学领域的合作用户。 (c) Fable 5 现在已经开始向 API、Pro、Max、Team 及企业用户提供。 API 定价 (a) 输入： 每百万 Token 10 美元。 (b) 输出：每百万 Token 50 美元。 (c) 这个价格比原先的 Mythos Preview 便宜了一半。 安全防护机制 (a) Fable 加强了安全防护。如果系统判断请求可能涉及网络攻击、生化攻击或大规模能力蒸馏，它会直接拒绝服务。 (b) 一旦拒绝服务，系统会回退到 4.8 版本。官方称 95% 的情况不会发生回退。 订阅服务说明 (a) 官方表示，6 月 23 号以后，Fable 即使在订阅期内也可能会按量提供，不一定会直接包含在基础订阅包里。 (b) 但如果 23 号以后算力资源充足，官方会尽量将其包含在 Pro 和 Max 等订阅服务中。 Claude (@claudeai) Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use. Its capabilities exceed those of any model we’ve ever made generally available. Video — https://nitter.net/claudeai/status/2064394146916229443#m",
+      "url": "https://x.com/op7418/status/2064399444523782377",
       "images": null,
-      "published": "2026-06-08T17:20:08+00:00",
+      "published": "2026-06-09T17:29:16+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2063993648350736532",
-      "source": "归藏",
-      "sourceId": "guizang",
+      "id": "x_2064331257585205609",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
       "sourceAvatar": null,
       "platform": "x",
       "domains": [
         "AI",
-        "Design"
+        "Dev"
       ],
       "title": null,
-      "content": "提醒一下今晚一点有 WWDC 哦",
-      "url": "https://x.com/op7418/status/2063993648350736532",
+      "content": "We're hiring: cursor.com/careers Techmeme (@Techmeme) Source: Cursor, which is prepping for an expected acquisition by SpaceX, passed $4B in annualized revenue in the last week, up from $3B in April and $2B in Feb. (@richardjnieva / Forbes) (Visit Techmeme dot com for the link and full context!) — https://nitter.net/Techmeme/status/2064105094065672302#m",
+      "url": "https://x.com/benln/status/2064331257585205609",
       "images": null,
-      "published": "2026-06-08T14:36:47+00:00",
+      "published": "2026-06-09T12:58:19+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2063991326132383988",
+      "id": "x_2064314551475327365",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -98,11 +98,113 @@
         "Design"
       ],
       "title": null,
-      "content": "最近可以在各种媒体和账号上，看到我的那个 Skills 推荐。感谢量子位。 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
-      "url": "https://x.com/op7418/status/2063991326132383988",
+      "content": "价格在这里，还挺便宜的，正常速度的三倍，但速度是 10 倍",
+      "url": "https://x.com/op7418/status/2064314551475327365",
       "images": null,
-      "published": "2026-06-08T14:27:33+00:00",
+      "published": "2026-06-09T11:51:56+00:00",
       "hasTranscript": false
+    },
+    {
+      "id": "x_2064275004477550637",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "才知道腾讯科技搞了这么个榜单。 ​ ​5 月的藏师傅排名还挺高，有点离谱，很难想象能排在这几个大佬后面。",
+      "url": "https://x.com/op7418/status/2064275004477550637",
+      "images": null,
+      "published": "2026-06-09T09:14:48+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2064271989297258629",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "最近 Skill 做多了，感觉对于 skill 有点新的领悟，找时间写个文章聊聊。",
+      "url": "https://x.com/op7418/status/2064271989297258629",
+      "images": null,
+      "published": "2026-06-09T09:02:49+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2064260089385713841",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "难道说？我感觉他们能做出来强制 kyc 才让用这种操作 Polymarket Money (@PolymarketMoney) JUST IN: Anthropic will reportedly release its new AI model “Mythos” tomorrow. — https://nitter.net/PolymarketMoney/status/2064174573487058989#m",
+      "url": "https://x.com/op7418/status/2064260089385713841",
+      "images": null,
+      "published": "2026-06-09T08:15:32+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2064257622803710463",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "MiMo推出1000 Token/s超高速模型｜体验测评 MiMo 推出了 MiMo V2.5 Pro UltraSpeed 超高速的模型版本，能够实现每秒输出超过 1,000 Token 的速度。 同时，这应该也是全球第一个达到这个速度的万亿（1T）参数模型。 藏师傅提前试了一下，做了三个测试，确实爽。 第一个跑了一个比较复杂的 3D 采矿小游戏测试。在没有素材的情况下，我让它全部用 Three.js 前端代码来生成素材。整体要求比较完整，虽然第一次实践时出了一些小问题，但在跟他沟通修改建议后，非常完美地实现了任务。 这次测试的各项指标如下：思考的 TPS：804 Token/s，峰值速度：810 Token/s，首次响应时间：4.71 秒。 第二个测试给了一个官网，其头部包含一个相对复杂的 3D 动画。 这次的输出速度快了非常多：峰值达到了 1426 Token/s，首次响应只用了 0.83 秒，在 32 秒内输出了 25624 个 Token，总计生成了 1000 行代码。 第三个测试给了一个更复杂的官网。我要求这个官网的 Header 头部包含以下 3D 效果：地球边缘、轨道上的飞船、星际尘埃、航线图、舷窗的 HUD 样式。 这个效果非常好，整体的视觉样式、状态、SVG 动画和驾驶卡片都非常精细，还有滚动的视差效果 这个输出的 TPS 达到了 1136 tokens/s，首次响应是 4.5 秒 官方测试平台下面有个数据展示，会显示相关信息 在流式输出的情况下，当你看着它只用 20 秒就产生一个非常复杂的 3D 游戏时，那种场景还是比较震撼的 之前的这些（比如说 Groq 之类的）超高速推理方案，在模型能力或者是整体水平上都会有所下降，但是 MiMo 这个在测试的时候，我没有看到这种迹象 最近很多公司都开始推出这种超高速的 API 服务，比如之前 OpenAI 和 Anthropic 都有 Fast 模式 在 Agent 场景下，模型输出效率的提升会直接带动每一步 Agent 操作的效率： 如果一个任务预估一分钟完成，你就会盯着它直到结束，然后立刻投入测试。如果需要五分钟才完成，你可能就会去干别的事，然后再回来看，难免会浪费一些时间 这种效率提升在 Sub-Agent 和并发场景下更加明显。因为它可以更快地产出大量结果，想象一下，如果同时启动一两百个 Sub-Agent，在模型能力没有衰减的前提下，速度提高 10 倍，体验是非常爽的 毕竟这本质上是面向那种对效率有极高要求的 To B 客户所推出的 希望后面大家卷起来，优化一下成本，让普通用户也能放开用这种 UltraSpeed 模型 Video",
+      "url": "https://x.com/op7418/status/2064257622803710463",
+      "images": null,
+      "published": "2026-06-09T08:05:43+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2064194929421865300",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Open AI 也开始正式启动上市的法律和监管程序，但是他们说 IPO 时间还不确定 OpenAI Newsroom (@OpenAINewsroom) We recently submitted a confidential S-1. We expect it to leak so we’re just announcing it. We have not decided on timing yet; it may be a while because there are things we want to do that are likely easier as a private company. But it’s a complicated set of tradeoffs and this gives us the option to go public sooner if that ends up being best. This announcement is being made pursuant to Rule 135 under the Securities Act of 1933, as amended, and does not constitute an offer to sell or the solicitation of an offer to buy any securities. Any offers, solicitations of offers to buy, or any sales of securities will be made in accordance with the registration requirements of the Securities Act. — https://nitter.net/OpenAINewsroom/status/2064094175541461220#m",
+      "url": "https://x.com/op7418/status/2064194929421865300",
+      "images": null,
+      "published": "2026-06-09T03:56:36+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_qr6kVSKqBqo",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Startup School is back!",
+      "url": "https://www.youtube.com/watch?v=qr6kVSKqBqo",
+      "thumbnail": "https://img.youtube.com/vi/qr6kVSKqBqo/maxresdefault.jpg",
+      "published": "2026-06-08T22:21:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "x_2063969424659411394",
@@ -119,74 +221,6 @@
       "url": "https://x.com/benln/status/2063969424659411394",
       "images": null,
       "published": "2026-06-08T13:00:32+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2063949818033229966",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "转一下笑林老师关于设计工程师定义，想找类似工作的可以看看 笑林 (@xiaolinbythesea) Cursor 招聘设计工程师了，非常令人心动，但我还犹豫着不能行动； 我在字节工作了8年，一直游走在动效设计师和设计工程师之间。最近我的团队（豆包手机团队）也在招聘设计工程师，但是我们需要的方向更多要有一些对 Android 平台的了解，和硅谷大多数设计工程师围绕 Web 展开工作有所区别。 前一阵我也对市面上招聘设计工程师的 JD 做了调研，和 ChatGPT 一起做出以下几个画像，虽然 Title 都是设计工程师，但还是有不同的侧重的： 画像一：AI Design Engineer 定位： 负责把 AI 能力转成可理解、可控制、可验证的产品体验。 传统产品设计师、UI/UX 设计师的 AI 升级版。 典型任务： - 设计 agent workflow、tool call、执行计划、状态反馈。 - 做真实或半真实 LLM/API 驱动原型。 - 处理 AI 的 latency、streaming、失败、幻觉、权限、回滚、人工确认。 - 和模型、后端、前端、产品一起定义可交互的 AI 产品机制。 关键证据： - 有能运行的 AI 产品原型，而不是只有 UI mock。 - 展示过复杂状态、异常、边界、权限和失败恢复。 - 能清楚解释“模型能力如何影响交互设计”。 不适合信号： - 只会把 AI 做成聊天框。 - 只关心 prompt，不关心产品状态和人机协作。 - 无法解释 AI 输出不确定性如何体现在界面中。 画像二：Product UI Craft Engineer 定位： 把关键产品界面做到可上线质量，负责交互、动效、性能和细节手感。 传统动效设计师、原型设计师的升级版。 典型任务： - 从 Figma 或 Sketch 直接写出高质量 React/TypeScript 原型。 - 打磨 loading、empty、error、success、hover、focus、keyboard、transition。 - 做组件抽象、交互动效、响应式、性能优化。 - 和设计师、产品、工程师一起把“感觉不对”拆成可修复的细节。 关键证据： - 作品中有真实可操作界面。 - 细节状态完整，不只有 happy path。 - 能解释性能、动效、可访问性和视觉 polish 的取舍。 不适合信号： - 会写代码但审美粗糙。 - 会做视觉但无法落到真实前端。 - 对交互状态和边界情况不敏感。 画像三：Design Systems Engineer 定位： 建立团队长期复用的设计与前端基础设施。 传统设计系统维护者使用 AI 加强工作流。 典型任务： - 建立 tokens、components、patterns、docs、Storybook。 - 连接 Figma variables 和代码组件。 - 定义组件 API、可访问性标准、motion token、dark mode、主题系统。 - 让 AI 工具能消费组件、token 和设计上下文。 关键证据： - 有完整设计系统项目，而不是零散 UI kit。 - 同时展示设计规范和代码实现。 - 能处理组件治理、版本、迁移、文档和跨团队协作。 不适合信号： - 只会画组件，不懂组件 API。 - 只会写组件，不懂设计语义。 - 过度抽象，脱离真实产品场景。 画像四：Creative Technologist / Motion & Graphics Engineer 定位： 负责产品中的高级动效、实时图形、创作工具、3D/空间交互和生成式视觉体验。 传统技术美术、特效设计、动效动画设计的进阶。 典型任务： - 做 Canvas / WebGL / Three.js / Rive / Lottie / Shader 原型。 - 设计时间线、关键帧、预览、生成、局部编辑、版本分支。 - 把 AI 生成结果变成可编辑、可理解、可控制的创作界面。 - 探索 Aesthetics 2026 所说的 technical mono、mixed media、3D、nostalgia、texture、glitch 等方向，但保持可用性。 关键证据： - 有动效或图形交互 demo。 - 能说明动效如何服务信息层级和操作反馈。 - 有审美实验能力，但不牺牲产品清晰度。 不适合信号： - 只做炫技动效，无法服务产品。 - 只懂静态视觉，不懂时间和交互。 - 3D/图形能力脱离工程实现。 画像五：AI Design Workflow Architect 定位： 不是单点做界面，而是设计团队如何使用 AI、Figma、代码库、设计系统一起工作的流程。 AI 时代的新角色，AI Design Infra，与前面四个画像深度合作。 典型任务： - 搭建 Figma → token → component → code → docs 的链路。 - 使用 Claude Code、Cursor、v0、Lovable、Figma MCP 等工具形成团队工作流。 - 设计 AI 辅助 UI 生成、组件检索、设计系统问答、自动文档、代码同步。 - 把设计系统变成模型可读的上下文。 关键证据： - 有自动化或半自动化设计流程案例。 - 能解释 AI 工具在流程中哪里可靠、哪里不可靠。 - 能平衡速度、质量、治理和团队学习成本。 不适合信号： - 把 AI 工具当噱头。 - 只会“生成页面”，不会维护系统。 - 不能判断 AI 生成结果的设计质量。 --- 上述画像是以技能侧重抽象的，不一定是精准匹配到某类人，甚至大多数设计工程师是在多个画像间交叉的，比如我。 有对豆包手机感兴趣的可以联系我，有对我感兴趣的也可以联系我 😁 — https://nitter.net/xiaolinbythesea/status/2062447379098517799#m",
-      "url": "https://x.com/op7418/status/2063949818033229966",
-      "images": null,
-      "published": "2026-06-08T11:42:37+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2063900613990371759",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "微信终于要加 AI Agent 能力了？ 微信发布了《开发者接入微信 AI 生态的指引》这篇文章，引导小程序开发者接入微信 AI 生态，让微信的 AI 控制小程序。 感觉这个可能是未来微信 AI 上一个非常重要的功能",
-      "url": "https://x.com/op7418/status/2063900613990371759",
-      "images": null,
-      "published": "2026-06-08T08:27:06+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2063889888186167504",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "试了一下，公众号图文卡片也是支持 Live Photo 的。 只不过要从 iPhone 上上传，这下爽了呀！ 歸藏(guizang.ai) (@op7418) 藏师傅的社交媒体卡片 Skill，即将迎来一个非常重磅的升级。 可以帮大家解决小红书 Live Photo 的制作问题，同时会帮你制作动态的带文字排版的 Live Photo 这样你可以在发布一些必须的动态内容的时候，依然以图文的形式发布，而不至于做非常重的视频。 — https://nitter.net/op7418/status/2063883141287399589#m",
-      "url": "https://x.com/op7418/status/2063889888186167504",
-      "images": null,
-      "published": "2026-06-08T07:44:29+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2063883141287399589",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "藏师傅的社交媒体卡片 Skill，即将迎来一个非常重磅的升级。 可以帮大家解决小红书 Live Photo 的制作问题，同时会帮你制作动态的带文字排版的 Live Photo 这样你可以在发布一些必须的动态内容的时候，依然以图文的形式发布，而不至于做非常重的视频。 歸藏(guizang.ai) (@op7418) x.com/i/article/205981146908… — https://nitter.net/op7418/status/2059812895803011449#m",
-      "url": "https://x.com/op7418/status/2063883141287399589",
-      "images": null,
-      "published": "2026-06-08T07:17:40+00:00",
       "hasTranscript": false
     },
     {
@@ -224,6 +258,40 @@
       "hasTranscript": false
     },
     {
+      "id": "yt_yyXCQHX55N4",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Emergent: How Six Months of Tinkering Led To A $100M ARR Company",
+      "url": "https://www.youtube.com/watch?v=yyXCQHX55N4",
+      "thumbnail": "https://img.youtube.com/vi/yyXCQHX55N4/maxresdefault.jpg",
+      "published": "2026-06-06T12:30:10+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_ywS7Ytkx3A0",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "We just launched Paxel!",
+      "url": "https://www.youtube.com/watch?v=ywS7Ytkx3A0",
+      "thumbnail": "https://img.youtube.com/vi/ywS7Ytkx3A0/maxresdefault.jpg",
+      "published": "2026-06-05T19:52:39+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "x_2062927277759893629",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -241,6 +309,40 @@
       "hasTranscript": false
     },
     {
+      "id": "yt_mjmswQurIU4",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "How Legora Went From YC to $100M ARR in 18 Months",
+      "url": "https://www.youtube.com/watch?v=mjmswQurIU4",
+      "thumbnail": "https://img.youtube.com/vi/mjmswQurIU4/maxresdefault.jpg",
+      "published": "2026-06-05T14:30:09+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_fQmlML9Lay4",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup",
+      "url": "https://www.youtube.com/watch?v=fQmlML9Lay4",
+      "thumbnail": "https://img.youtube.com/vi/fQmlML9Lay4/maxresdefault.jpg",
+      "published": "2026-06-04T14:00:22+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "x_2062526645420921013",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -256,6 +358,23 @@
       "images": null,
       "published": "2026-06-04T13:27:26+00:00",
       "hasTranscript": false
+    },
+    {
+      "id": "yt_gSNFJbgoaHI",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "How to Build an AI-Native Services Company",
+      "url": "https://www.youtube.com/watch?v=gSNFJbgoaHI",
+      "thumbnail": "https://img.youtube.com/vi/gSNFJbgoaHI/maxresdefault.jpg",
+      "published": "2026-06-03T14:00:38+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "x_2062163772400124330",
@@ -326,36 +445,53 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2061075154021531733",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Pulled the fastest-growing startups by hiring velocity over the past 90 days:",
-      "url": "https://x.com/benln/status/2061075154021531733",
-      "images": null,
-      "published": "2026-05-31T13:19:44+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_1M3Vdl6DRkU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
+      "id": "yt_2Ap1dnv-GXA",
+      "source": "Y Combinator",
+      "sourceId": "yc",
       "sourceAvatar": null,
       "platform": "youtube",
       "domains": [
-        "AI",
-        "Business"
+        "Business",
+        "AI"
       ],
-      "title": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
-      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
-      "thumbnail": "https://img.youtube.com/vi/1M3Vdl6DRkU/maxresdefault.jpg",
-      "published": "2026-05-29T16:18:31+00:00",
+      "title": "Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup",
+      "url": "https://www.youtube.com/watch?v=2Ap1dnv-GXA",
+      "thumbnail": "https://img.youtube.com/vi/2Ap1dnv-GXA/maxresdefault.jpg",
+      "published": "2026-05-29T12:30:27+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_wE1ZgJdt4uM",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Inference, Diffusion, World Models, and More | YC Paper Club",
+      "url": "https://www.youtube.com/watch?v=wE1ZgJdt4uM",
+      "thumbnail": "https://img.youtube.com/vi/wE1ZgJdt4uM/maxresdefault.jpg",
+      "published": "2026-05-28T20:37:13+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_B246K_G7mHU",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Inside YC's AI Playbook",
+      "url": "https://www.youtube.com/watch?v=B246K_G7mHU",
+      "thumbnail": "https://img.youtube.com/vi/B246K_G7mHU/maxresdefault.jpg",
+      "published": "2026-05-27T14:00:26+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -377,6 +513,23 @@
       "published": "2026-05-24T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "“Harness Engineering”（挽具工程）正在成为硅谷的新共识，Anthropic、OpenAI等公司都在探索这一工程范式。但真正理解Harness的人还不多。前不久，一篇题为《Why Your “AI-First” Strategy Is Probably Wrong》的文章在X上获得百万级阅读和热议，作者是来自硅谷CreaoAI的Peter Pang。在这篇文章里，Peter展示了"
+    },
+    {
+      "id": "yt_7VKliOQXQ9M",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "How The Best Companies Defend Against Mediocrity And Rot",
+      "url": "https://www.youtube.com/watch?v=7VKliOQXQ9M",
+      "thumbnail": "https://img.youtube.com/vi/7VKliOQXQ9M/maxresdefault.jpg",
+      "published": "2026-05-22T14:00:07+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_c3607c08_6eb6_48bd_8250_b41b5b8272e6",
@@ -436,23 +589,6 @@
       "transcriptPreview": "近年来，癌症治疗正迎来多个技术平台并行演进、加速迭代的新阶段：从ADC、双特异性抗体、放射性配体疗法，到细胞治疗，整个行业都在经历一轮底层技术工具的升级。其中，CAR-T是最具范式转换意义的一类疗法——它首次在部分血液肿瘤中，把“利用工程化改造的免疫细胞精准清除癌细胞”带入了临床现实。更值得关注的是，2025年以来，跨国药企的押注明显转向体内CAR-T：阿斯利康、艾伯维、百时美施贵宝和礼来等公司，"
     },
     {
-      "id": "yt_nepKKz-MzFM",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "thumbnail": "https://img.youtube.com/vi/nepKKz-MzFM/maxresdefault.jpg",
-      "published": "2026-05-06T22:03:16+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_b2be7093_3366_4ee2_8a7a_625f06206ae5",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -489,23 +625,6 @@
       "published": "2026-04-16T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "Peter Thiel，是硅谷最具争议和影响力的思想家之一。如果要用一句话概括他的思想，那就是：世界是由少数天选之人在幕后驱动的，而他就是其中之一。这套理论，不仅在以他为核心的“硅谷右翼”圈子中产生了影响，还通过Peter Thiel的政治参与，影响了更多的人。 那么，Peter Thiel的思想，又来源于什么呢？要理解他，答案藏在三位哲学家身上：法国文学批评理论家吉拉尔、纳粹党员法学家施密特、和"
-    },
-    {
-      "id": "yt_iKx3gAODybU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "thumbnail": "https://img.youtube.com/vi/iKx3gAODybU/maxresdefault.jpg",
-      "published": "2026-04-09T17:35:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_3bb14dd4_0b13_4173_9d5b_0e63bf98ae1d",
@@ -565,23 +684,6 @@
       "transcriptPreview": "本期播客是硅谷101在GTC 2026大会期间的线下特别录制，我们从老黄在Keynote上抛出的那几个大数字开始聊起： 1万亿——这是黄仁勋预期到2027年底，Blackwell和Vera Rubin两个平台带来的订单收入。 7块——这是大会一次性发布的Vera Rubin新芯片数量。 10倍、35倍——这是Vera Rubin NVL72 AI机架系统，相比Blackwell，它的推理效率提升了"
     },
     {
-      "id": "yt_vif8NQcjVf0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
-      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
-      "thumbnail": "https://img.youtube.com/vi/vif8NQcjVf0/maxresdefault.jpg",
-      "published": "2026-03-23T16:24:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_c457ca43_1305_44a3_b9cc_c68480802396",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -599,108 +701,6 @@
       "published": "2026-03-19T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "这几年，如果说全球制造业里，有哪个故事最值得被重新讲一遍，那一定是动力电池。 中国在动力电池产业链中，建立了极强的优势。当欧洲电池巨头Northvolt破产，日韩也不再具备领先地位，很多人会问：为什么很多原始技术并非源自中国，但最后却是中国把它做成了最完整、强势的产业？这背后到底是政策红利、市场规模，还是极致的工程能力在起作用 ？ 这一期节目，我们邀请了材料学博士、TDK Ventures 投资人"
-    },
-    {
-      "id": "yt_H9rF1CSSh-w",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
-      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
-      "thumbnail": "https://img.youtube.com/vi/H9rF1CSSh-w/maxresdefault.jpg",
-      "published": "2026-03-11T20:21:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_SHlrUAkkWI0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
-      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
-      "thumbnail": "https://img.youtube.com/vi/SHlrUAkkWI0/maxresdefault.jpg",
-      "published": "2026-03-03T12:30:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_1SJiTwbSI58",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492",
-      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
-      "thumbnail": "https://img.youtube.com/vi/1SJiTwbSI58/maxresdefault.jpg",
-      "published": "2026-03-01T03:37:44+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_KGVpKPNUdzA",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
-      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
-      "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
-      "published": "2026-02-25T22:36:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_YFjfBk8HI5o",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
-      "thumbnail": "https://img.youtube.com/vi/YFjfBk8HI5o/maxresdefault.jpg",
-      "published": "2026-02-12T03:07:03+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_EV7WhVT270Q",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
-      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
-      "thumbnail": "https://img.youtube.com/vi/EV7WhVT270Q/maxresdefault.jpg",
-      "published": "2026-01-31T22:33:33+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "x_9327720978",
