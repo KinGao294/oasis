@@ -1,7 +1,160 @@
 {
-  "last_updated": "2026-06-10T02:56:44.220384Z",
-  "count": 41,
+  "last_updated": "2026-06-11T03:31:47.134137Z",
+  "count": 30,
   "items": [
+    {
+      "id": "x_2064909864867074294",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我现在 Twitter 时间线上只有两类内容，非常诡异： 一种是充斥着所谓“一句话生成”的很漂亮的那种用 Fable 5 生成的网页； 第二种是除了 Anthropic 自家的 AI 研究员，全在抨击 Anthropic 这次发布 Fable 5 的各种行为。 这次 Anthropic 真是惹了众怒，几乎所有我关注的研究员都在骂他们。大家主要抨击的是以下几个问题： 安全风险 它的安全护栏极其严格。你哪怕问它最基本的初中生物学问题，都会被拒绝回答。这导致很多生物学研究员和团队无法获得正常许可来进行科学研究。 数据存储政策 Mythos 和 Fable 模型的数据是明文储存且强制储存的，最高期限长达两年。虽然官方声称只用于安全分析和减少误伤，不用于模型训练，但业内没人相信这种说辞。因为这个条款的存在，微软已经禁止内部使用 Fable 模型了。 隐形降级（最严重的问题） 如果系统判断你想“蒸馏” Fable 模型，它不只是拒绝服务，还会偷偷摸摸地把模型降级到 Opus 4.8 或者更低的版本。甚至会通过修改提示词或微调等方式，暗中让 Fable 在相关话题上变笨，表现甚至还不如原生的 Opus 4.8。 大家最愤怒的点在于： 你要么帮忙，要么拒绝，假装在帮忙实际却故意把效果变差，这是一个非常严重的道德问题。这会直接污染一切基于该模型所做的算法效率比对和评估，导致现在根本无法用测试器对其进行正常评估。 实际上，这个政策对大公司和国家影响不大，受影响最深的是开源研究者、小实验室、独立开发者和科学界。 刚好达里奥（Dario Amodei）在昨天晚上新发的文章里，还在强调他们坚持透明、问责和公共机构监督。 但实际上他们拒绝一切监督问责，甚至反过来暗中破坏针对模型的评估和研究行为，这和他们宣称的完全相反。 所以，这次模型发布让 Anthropic 在业内的口碑一夜之间变得不如路边的一坨臭狗屎。",
+      "url": "https://x.com/op7418/status/2064909864867074294",
+      "images": null,
+      "published": "2026-06-11T03:17:30+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2064786308770529403",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in San Francisco",
+      "url": "https://x.com/benln/status/2064786308770529403",
+      "images": null,
+      "published": "2026-06-10T19:06:32+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2064757664849215834",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor SF is open",
+      "url": "https://x.com/benln/status/2064757664849215834",
+      "images": null,
+      "published": "2026-06-10T17:12:43+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2064585238395920395",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "笑死，藏师傅 PPT Skill 也上央视了，感谢腾讯云和 workbuddy Video 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
+      "url": "https://x.com/op7418/status/2064585238395920395",
+      "images": null,
+      "published": "2026-06-10T05:47:33+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2064576912648015886",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "MiMo Ultraspeed 的测试 歸藏(guizang.ai) (@op7418) MiMo推出1000 Token/s超高速模型｜体验测评 MiMo 推出了 MiMo V2.5 Pro UltraSpeed 超高速的模型版本，能够实现每秒输出超过 1,000 Token 的速度。 同时，这应该也是全球第一个达到这个速度的万亿（1T）参数模型。 藏师傅提前试了一下，做了三个测试，确实爽。 第一个跑了一个比较复杂的 3D 采矿小游戏测试。在没有素材的情况下，我让它全部用 Three.js 前端代码来生成素材。整体要求比较完整，虽然第一次实践时出了一些小问题，但在跟他沟通修改建议后，非常完美地实现了任务。 这次测试的各项指标如下：思考的 TPS：804 Token/s，峰值速度：810 Token/s，首次响应时间：4.71 秒。 第二个测试给了一个官网，其头部包含一个相对复杂的 3D 动画。 这次的输出速度快了非常多：峰值达到了 1426 Token/s，首次响应只用了 0.83 秒，在 32 秒内输出了 25624 个 Token，总计生成了 1000 行代码。 第三个测试给了一个更复杂的官网。我要求这个官网的 Header 头部包含以下 3D 效果：地球边缘、轨道上的飞船、星际尘埃、航线图、舷窗的 HUD 样式。 这个效果非常好，整体的视觉样式、状态、SVG 动画和驾驶卡片都非常精细，还有滚动的视差效果 这个输出的 TPS 达到了 1136 tokens/s，首次响应是 4.5 秒 官方测试平台下面有个数据展示，会显示相关信息 在流式输出的情况下，当你看着它只用 20 秒就产生一个非常复杂的 3D 游戏时，那种场景还是比较震撼的 之前的这些（比如说 Groq 之类的）超高速推理方案，在模型能力或者是整体水平上都会有所下降，但是 MiMo 这个在测试的时候，我没有看到这种迹象 最近很多公司都开始推出这种超高速的 API 服务，比如之前 OpenAI 和 Anthropic 都有 Fast 模式 在 Agent 场景下，模型输出效率的提升会直接带动每一步 Agent 操作的效率： 如果一个任务预估一分钟完成，你就会盯着它直到结束，然后立刻投入测试。如果需要五分钟才完成，你可能就会去干别的事，然后再回来看，难免会浪费一些时间 这种效率提升在 Sub-Agent 和并发场景下更加明显。因为它可以更快地产出大量结果，想象一下，如果同时启动一两百个 Sub-Agent，在模型能力没有衰减的前提下，速度提高 10 倍，体验是非常爽的 毕竟这本质上是面向那种对效率有极高要求的 To B 客户所推出的 希望后面大家卷起来，优化一下成本，让普通用户也能放开用这种 UltraSpeed 模型 Video — https://nitter.net/op7418/status/2064257622803710463#m",
+      "url": "https://x.com/op7418/status/2064576912648015886",
+      "images": null,
+      "published": "2026-06-10T05:14:28+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2064575636082192646",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "一些尝试： 歸藏(guizang.ai) (@op7418) 试了一下，Fable 5 在漏洞分析、bug 寻找这些地方还是很强的。 但是在写代码上，我感觉它也不是万能的，它写出来的代码也会有明显的 bug，需要多次修复才能完成。 所以在这块，我觉得它可能是一个偏科比较严重的模型。 在某些程度上它比 4.8 好了非常多，但在另一些方面，虽然也比 4.8 好，但好得有限。 — https://nitter.net/op7418/status/2064562215345381472#m",
+      "url": "https://x.com/op7418/status/2064575636082192646",
+      "images": null,
+      "published": "2026-06-10T05:09:24+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2064572793124245998",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "CodePilot v0.56.0 发布 本次更新的部分修复由 Claude Fable 5 完成。 模型与渠道扩充版本 新增 Claude Fable 5、小米 MiMo UltraSpeed 模型与通用 OpenAI 兼容第三方渠道。 并修复用量统计、回复状态丢失、服务商列表刷新等一批问题。推荐所有用户升级。 github.com/op7418/CodePilot/… 歸藏(guizang.ai) (@op7418) 在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题 — https://nitter.net/op7418/status/2064522814955368782#m",
+      "url": "https://x.com/op7418/status/2064572793124245998",
+      "images": null,
+      "published": "2026-06-10T04:58:06+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2064564749308953006",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "一些结果： 歸藏(guizang.ai) (@op7418) 试了一下，Fable 5 在漏洞分析、bug 寻找这些地方还是很强的。 但是在写代码上，我感觉它也不是万能的，它写出来的代码也会有明显的 bug，需要多次修复才能完成。 所以在这块，我觉得它可能是一个偏科比较严重的模型。 在某些程度上它比 4.8 好了非常多，但在另一些方面，虽然也比 4.8 好，但好得有限。 — https://nitter.net/op7418/status/2064562215345381472#m",
+      "url": "https://x.com/op7418/status/2064564749308953006",
+      "images": null,
+      "published": "2026-06-10T04:26:08+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2064562215345381472",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "试了一下，Fable 5 在漏洞分析、bug 寻找这些地方还是很强的。 但是在写代码上，我感觉它也不是万能的，它写出来的代码也会有明显的 bug，需要多次修复才能完成。 所以在这块，我觉得它可能是一个偏科比较严重的模型。 在某些程度上它比 4.8 好了非常多，但在另一些方面，虽然也比 4.8 好，但好得有限。 歸藏(guizang.ai) (@op7418) 在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题 — https://nitter.net/op7418/status/2064522814955368782#m",
+      "url": "https://x.com/op7418/status/2064562215345381472",
+      "images": null,
+      "published": "2026-06-10T04:16:04+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2064525619581657195",
       "source": "归藏",
@@ -54,23 +207,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2064399444523782377",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "我去！没想到 Anthropic 的 Mythos 模型今天真的发布了。 不过他们这次发布的是 Mythos 的一个低配版本，命名为 Fable 5。 它的测评基准非常惊人，甚至比之前的 Mythos Preview 模型还要高。在 Agent Coding 方面，它的主要长处在于 Coding、Agent 以及工具调用，基准得分比 Opus 4.8 高出非常多。 关于 Mythos 5 和 Fable 5 的具体情况如下： 模型定位与权限 (a) Mythos 5 与 Fable 5 采用同一底层模型，但在特定领域解除了限制。 (b) Mythos 目前依然只为受信任的合作伙伴提供，优先开放给网络安全和生命科学领域的合作用户。 (c) Fable 5 现在已经开始向 API、Pro、Max、Team 及企业用户提供。 API 定价 (a) 输入： 每百万 Token 10 美元。 (b) 输出：每百万 Token 50 美元。 (c) 这个价格比原先的 Mythos Preview 便宜了一半。 安全防护机制 (a) Fable 加强了安全防护。如果系统判断请求可能涉及网络攻击、生化攻击或大规模能力蒸馏，它会直接拒绝服务。 (b) 一旦拒绝服务，系统会回退到 4.8 版本。官方称 95% 的情况不会发生回退。 订阅服务说明 (a) 官方表示，6 月 23 号以后，Fable 即使在订阅期内也可能会按量提供，不一定会直接包含在基础订阅包里。 (b) 但如果 23 号以后算力资源充足，官方会尽量将其包含在 Pro 和 Max 等订阅服务中。 Claude (@claudeai) Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use. Its capabilities exceed those of any model we’ve ever made generally available. Video — https://nitter.net/claudeai/status/2064394146916229443#m",
-      "url": "https://x.com/op7418/status/2064399444523782377",
-      "images": null,
-      "published": "2026-06-09T17:29:16+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2064331257585205609",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -86,125 +222,6 @@
       "images": null,
       "published": "2026-06-09T12:58:19+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "x_2064314551475327365",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "价格在这里，还挺便宜的，正常速度的三倍，但速度是 10 倍",
-      "url": "https://x.com/op7418/status/2064314551475327365",
-      "images": null,
-      "published": "2026-06-09T11:51:56+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2064275004477550637",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "才知道腾讯科技搞了这么个榜单。 ​ ​5 月的藏师傅排名还挺高，有点离谱，很难想象能排在这几个大佬后面。",
-      "url": "https://x.com/op7418/status/2064275004477550637",
-      "images": null,
-      "published": "2026-06-09T09:14:48+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2064271989297258629",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "最近 Skill 做多了，感觉对于 skill 有点新的领悟，找时间写个文章聊聊。",
-      "url": "https://x.com/op7418/status/2064271989297258629",
-      "images": null,
-      "published": "2026-06-09T09:02:49+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2064260089385713841",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "难道说？我感觉他们能做出来强制 kyc 才让用这种操作 Polymarket Money (@PolymarketMoney) JUST IN: Anthropic will reportedly release its new AI model “Mythos” tomorrow. — https://nitter.net/PolymarketMoney/status/2064174573487058989#m",
-      "url": "https://x.com/op7418/status/2064260089385713841",
-      "images": null,
-      "published": "2026-06-09T08:15:32+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2064257622803710463",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "MiMo推出1000 Token/s超高速模型｜体验测评 MiMo 推出了 MiMo V2.5 Pro UltraSpeed 超高速的模型版本，能够实现每秒输出超过 1,000 Token 的速度。 同时，这应该也是全球第一个达到这个速度的万亿（1T）参数模型。 藏师傅提前试了一下，做了三个测试，确实爽。 第一个跑了一个比较复杂的 3D 采矿小游戏测试。在没有素材的情况下，我让它全部用 Three.js 前端代码来生成素材。整体要求比较完整，虽然第一次实践时出了一些小问题，但在跟他沟通修改建议后，非常完美地实现了任务。 这次测试的各项指标如下：思考的 TPS：804 Token/s，峰值速度：810 Token/s，首次响应时间：4.71 秒。 第二个测试给了一个官网，其头部包含一个相对复杂的 3D 动画。 这次的输出速度快了非常多：峰值达到了 1426 Token/s，首次响应只用了 0.83 秒，在 32 秒内输出了 25624 个 Token，总计生成了 1000 行代码。 第三个测试给了一个更复杂的官网。我要求这个官网的 Header 头部包含以下 3D 效果：地球边缘、轨道上的飞船、星际尘埃、航线图、舷窗的 HUD 样式。 这个效果非常好，整体的视觉样式、状态、SVG 动画和驾驶卡片都非常精细，还有滚动的视差效果 这个输出的 TPS 达到了 1136 tokens/s，首次响应是 4.5 秒 官方测试平台下面有个数据展示，会显示相关信息 在流式输出的情况下，当你看着它只用 20 秒就产生一个非常复杂的 3D 游戏时，那种场景还是比较震撼的 之前的这些（比如说 Groq 之类的）超高速推理方案，在模型能力或者是整体水平上都会有所下降，但是 MiMo 这个在测试的时候，我没有看到这种迹象 最近很多公司都开始推出这种超高速的 API 服务，比如之前 OpenAI 和 Anthropic 都有 Fast 模式 在 Agent 场景下，模型输出效率的提升会直接带动每一步 Agent 操作的效率： 如果一个任务预估一分钟完成，你就会盯着它直到结束，然后立刻投入测试。如果需要五分钟才完成，你可能就会去干别的事，然后再回来看，难免会浪费一些时间 这种效率提升在 Sub-Agent 和并发场景下更加明显。因为它可以更快地产出大量结果，想象一下，如果同时启动一两百个 Sub-Agent，在模型能力没有衰减的前提下，速度提高 10 倍，体验是非常爽的 毕竟这本质上是面向那种对效率有极高要求的 To B 客户所推出的 希望后面大家卷起来，优化一下成本，让普通用户也能放开用这种 UltraSpeed 模型 Video",
-      "url": "https://x.com/op7418/status/2064257622803710463",
-      "images": null,
-      "published": "2026-06-09T08:05:43+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2064194929421865300",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Open AI 也开始正式启动上市的法律和监管程序，但是他们说 IPO 时间还不确定 OpenAI Newsroom (@OpenAINewsroom) We recently submitted a confidential S-1. We expect it to leak so we’re just announcing it. We have not decided on timing yet; it may be a while because there are things we want to do that are likely easier as a private company. But it’s a complicated set of tradeoffs and this gives us the option to go public sooner if that ends up being best. This announcement is being made pursuant to Rule 135 under the Securities Act of 1933, as amended, and does not constitute an offer to sell or the solicitation of an offer to buy any securities. Any offers, solicitations of offers to buy, or any sales of securities will be made in accordance with the registration requirements of the Securities Act. — https://nitter.net/OpenAINewsroom/status/2064094175541461220#m",
-      "url": "https://x.com/op7418/status/2064194929421865300",
-      "images": null,
-      "published": "2026-06-09T03:56:36+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_qr6kVSKqBqo",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Startup School is back!",
-      "url": "https://www.youtube.com/watch?v=qr6kVSKqBqo",
-      "thumbnail": "https://img.youtube.com/vi/qr6kVSKqBqo/maxresdefault.jpg",
-      "published": "2026-06-08T22:21:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "x_2063969424659411394",
@@ -258,40 +275,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_yyXCQHX55N4",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Emergent: How Six Months of Tinkering Led To A $100M ARR Company",
-      "url": "https://www.youtube.com/watch?v=yyXCQHX55N4",
-      "thumbnail": "https://img.youtube.com/vi/yyXCQHX55N4/maxresdefault.jpg",
-      "published": "2026-06-06T12:30:10+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_ywS7Ytkx3A0",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "We just launched Paxel!",
-      "url": "https://www.youtube.com/watch?v=ywS7Ytkx3A0",
-      "thumbnail": "https://img.youtube.com/vi/ywS7Ytkx3A0/maxresdefault.jpg",
-      "published": "2026-06-05T19:52:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2062927277759893629",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -309,40 +292,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_mjmswQurIU4",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How Legora Went From YC to $100M ARR in 18 Months",
-      "url": "https://www.youtube.com/watch?v=mjmswQurIU4",
-      "thumbnail": "https://img.youtube.com/vi/mjmswQurIU4/maxresdefault.jpg",
-      "published": "2026-06-05T14:30:09+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_fQmlML9Lay4",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup",
-      "url": "https://www.youtube.com/watch?v=fQmlML9Lay4",
-      "thumbnail": "https://img.youtube.com/vi/fQmlML9Lay4/maxresdefault.jpg",
-      "published": "2026-06-04T14:00:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2062526645420921013",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -358,23 +307,6 @@
       "images": null,
       "published": "2026-06-04T13:27:26+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt_gSNFJbgoaHI",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How to Build an AI-Native Services Company",
-      "url": "https://www.youtube.com/watch?v=gSNFJbgoaHI",
-      "thumbnail": "https://img.youtube.com/vi/gSNFJbgoaHI/maxresdefault.jpg",
-      "published": "2026-06-03T14:00:38+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "x_2062163772400124330",
@@ -411,91 +343,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2061799709895753801",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "I’d love to angel invest in 2-3 new startups over the summer. If you think I’d make a good addition to your cap table, reach out. DMs are open!",
-      "url": "https://x.com/benln/status/2061799709895753801",
-      "images": null,
-      "published": "2026-06-02T13:18:51+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2061445790338314504",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor is popping up in 50+ cities over the summer Keep an eye out",
-      "url": "https://x.com/benln/status/2061445790338314504",
-      "images": null,
-      "published": "2026-06-01T13:52:30+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_2Ap1dnv-GXA",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup",
-      "url": "https://www.youtube.com/watch?v=2Ap1dnv-GXA",
-      "thumbnail": "https://img.youtube.com/vi/2Ap1dnv-GXA/maxresdefault.jpg",
-      "published": "2026-05-29T12:30:27+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_wE1ZgJdt4uM",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Inference, Diffusion, World Models, and More | YC Paper Club",
-      "url": "https://www.youtube.com/watch?v=wE1ZgJdt4uM",
-      "thumbnail": "https://img.youtube.com/vi/wE1ZgJdt4uM/maxresdefault.jpg",
-      "published": "2026-05-28T20:37:13+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_B246K_G7mHU",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Inside YC's AI Playbook",
-      "url": "https://www.youtube.com/watch?v=B246K_G7mHU",
-      "thumbnail": "https://img.youtube.com/vi/B246K_G7mHU/maxresdefault.jpg",
-      "published": "2026-05-27T14:00:26+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_51260de8_60ef_4b76_b3e5_2e559c4a0923",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -513,23 +360,6 @@
       "published": "2026-05-24T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "“Harness Engineering”（挽具工程）正在成为硅谷的新共识，Anthropic、OpenAI等公司都在探索这一工程范式。但真正理解Harness的人还不多。前不久，一篇题为《Why Your “AI-First” Strategy Is Probably Wrong》的文章在X上获得百万级阅读和热议，作者是来自硅谷CreaoAI的Peter Pang。在这篇文章里，Peter展示了"
-    },
-    {
-      "id": "yt_7VKliOQXQ9M",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How The Best Companies Defend Against Mediocrity And Rot",
-      "url": "https://www.youtube.com/watch?v=7VKliOQXQ9M",
-      "thumbnail": "https://img.youtube.com/vi/7VKliOQXQ9M/maxresdefault.jpg",
-      "published": "2026-05-22T14:00:07+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_c3607c08_6eb6_48bd_8250_b41b5b8272e6",
@@ -701,23 +531,6 @@
       "published": "2026-03-19T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "这几年，如果说全球制造业里，有哪个故事最值得被重新讲一遍，那一定是动力电池。 中国在动力电池产业链中，建立了极强的优势。当欧洲电池巨头Northvolt破产，日韩也不再具备领先地位，很多人会问：为什么很多原始技术并非源自中国，但最后却是中国把它做成了最完整、强势的产业？这背后到底是政策红利、市场规模，还是极致的工程能力在起作用 ？ 这一期节目，我们邀请了材料学博士、TDK Ventures 投资人"
-    },
-    {
-      "id": "x_9327720978",
-      "source": "Ryo Lu",
-      "sourceId": "ryolu",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "just doing school work",
-      "url": "https://x.com/rylooo/status/9327720978",
-      "images": null,
-      "published": "2010-02-19T09:27:07+00:00",
-      "hasTranscript": false
     }
   ]
 }
