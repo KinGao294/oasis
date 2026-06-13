@@ -1,7 +1,159 @@
 {
-  "last_updated": "2026-06-12T03:31:30.311398Z",
+  "last_updated": "2026-06-13T02:56:29.898460Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2065602682644250862",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Anthropic 这个公司太搞笑了。 天天技术恐吓，天天让国家注意 AI 安全，这下把自己套进去了。 美国政府要求他们禁止给任何非美国公民，哪怕是在美国的人提供 fable 5 的访问。 他们没办法保证这个，只能先下掉了所有人的访问权限。 Anthropic (@AnthropicAI) The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance. Access to all other Claude models is not affected. We apologize for this disruption to our customers. We believe this is a misunderstanding and are working to restore access as soon as possible. Read our full statement: anthropic.com/news/fable-myt… — https://nitter.net/AnthropicAI/status/2065597531644743999#m",
+      "url": "https://x.com/op7418/status/2065602682644250862",
+      "images": null,
+      "published": "2026-06-13T01:10:31+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_Rlju1Z9e110",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Analyze earnings and update your investment thesis with Codex",
+      "url": "https://www.youtube.com/watch?v=Rlju1Z9e110",
+      "thumbnail": "https://img.youtube.com/vi/Rlju1Z9e110/maxresdefault.jpg",
+      "published": "2026-06-12T20:36:47+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2065518091442790616",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor office library",
+      "url": "https://x.com/benln/status/2065518091442790616",
+      "images": null,
+      "published": "2026-06-12T19:34:23+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_sU9-u5p-jA0",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "url": "https://www.youtube.com/watch?v=sU9-u5p-jA0",
+      "thumbnail": "https://img.youtube.com/vi/sU9-u5p-jA0/maxresdefault.jpg",
+      "published": "2026-06-12T16:24:47+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_3rWSvrFahIY",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "5 Papers That Show Where AI Research Is Heading Right Now",
+      "url": "https://www.youtube.com/watch?v=3rWSvrFahIY",
+      "thumbnail": "https://img.youtube.com/vi/3rWSvrFahIY/maxresdefault.jpg",
+      "published": "2026-06-12T14:00:20+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2065428802159939835",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor is booked in 26 cities over the next few weeks: Phnom Penh, Manila, Oslo, Dubai, Frankfurt, Belgrade, Lusaka, Guangzhou, Tirana, Shenzhen, Sofia, Cebu City, Hangzhou, Baku, Bogota, Lima, Malaga, Beijing, Cumbaya, OKC, LA, Philly, Eldoret, Leon, Tallinn, Culiacan",
+      "url": "https://x.com/benln/status/2065428802159939835",
+      "images": null,
+      "published": "2026-06-12T13:39:34+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_-Jm-Bf3g9r8",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://www.youtube.com/watch?v=-Jm-Bf3g9r8",
+      "thumbnail": "https://img.youtube.com/vi/-Jm-Bf3g9r8/maxresdefault.jpg",
+      "published": "2026-06-12T09:53:26+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_vXJx9wzBT0M",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "This Computer Is Made of Real Human Neurons (I Programmed It)",
+      "url": "https://www.youtube.com/watch?v=vXJx9wzBT0M",
+      "thumbnail": "https://img.youtube.com/vi/vXJx9wzBT0M/maxresdefault.jpg",
+      "published": "2026-06-12T09:16:59+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_259291f5_2715_4dde_bcfe_b5beb4df5793",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/259291f5-2715-4dde-bcfe-b5beb4df5793.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 5383,
+      "published": "2026-06-12T04:00:00-07:00",
+      "hasTranscript": false,
+      "transcriptPreview": "SpaceX上市进入最后倒计时，在它那份长达280页的招股说明书里，月球基地、点对点地表旅行、在轨制造、火星货物……这些别的公司不敢写的科幻元素，它都写了。但更让人印象深刻的是SpaceX的AI叙事，它预测在28.5万亿美元总潜在市场中，有超过90%来自AI板块，而这部分将受到“地球无法快速扩展发电能力”的严重制约。 面对电力紧缺，SpaceX的答案是：把数据中心搬上太空。上周一，马斯克在一段关于"
+    },
     {
       "id": "x_2065257451088470181",
       "source": "Ben Lang",
@@ -302,22 +454,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_2ey7znf8SI0",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Create campaign concepts and assets with Codex",
-      "url": "https://www.youtube.com/watch?v=2ey7znf8SI0",
-      "thumbnail": "https://img.youtube.com/vi/2ey7znf8SI0/maxresdefault.jpg",
-      "published": "2026-06-10T17:15:03+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2064757664849215834",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -401,55 +537,6 @@
       "images": null,
       "published": "2026-06-10T05:09:24+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "x_2064572793124245998",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "CodePilot v0.56.0 发布 本次更新的部分修复由 Claude Fable 5 完成。 模型与渠道扩充版本 新增 Claude Fable 5、小米 MiMo UltraSpeed 模型与通用 OpenAI 兼容第三方渠道。 并修复用量统计、回复状态丢失、服务商列表刷新等一批问题。推荐所有用户升级。 github.com/op7418/CodePilot/… 歸藏(guizang.ai) (@op7418) 在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题 — https://nitter.net/op7418/status/2064522814955368782#m",
-      "url": "https://x.com/op7418/status/2064572793124245998",
-      "images": null,
-      "published": "2026-06-10T04:58:06+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_IEYU-CgLo3E",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Codex for Finance: Faster Reports, Dashboards, and Decisions",
-      "url": "https://www.youtube.com/watch?v=IEYU-CgLo3E",
-      "thumbnail": "https://img.youtube.com/vi/IEYU-CgLo3E/maxresdefault.jpg",
-      "published": "2026-06-09T21:42:40+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Lvk_VZOppIY",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Codex for data science",
-      "url": "https://www.youtube.com/watch?v=Lvk_VZOppIY",
-      "thumbnail": "https://img.youtube.com/vi/Lvk_VZOppIY/maxresdefault.jpg",
-      "published": "2026-06-09T21:30:13+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "x_2064331257585205609",
@@ -554,23 +641,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2063620860162822480",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Pulled the fastest-growing startups based on X follower growth over the past 90 days:",
-      "url": "https://x.com/benln/status/2063620860162822480",
-      "images": null,
-      "published": "2026-06-07T13:55:27+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_yyXCQHX55N4",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -603,23 +673,6 @@
       "published": "2026-06-05T19:52:39+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2062927277759893629",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Skip LinkedIn. Resources to find breakout startups hiring before everyone else: • Ramp’s monthly vendor reports • Harmonic’s quarterly Hot 25 • a16z Build newsletter • Founders You Should Know • Next Play newsletter • YC startup directory • Early Days Substack",
-      "url": "https://x.com/benln/status/2062927277759893629",
-      "images": null,
-      "published": "2026-06-05T15:59:25+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_mjmswQurIU4",
@@ -754,23 +807,6 @@
       "url": "https://www.youtube.com/watch?v=co_fghzNz08",
       "thumbnail": "https://img.youtube.com/vi/co_fghzNz08/maxresdefault.jpg",
       "published": "2026-05-29T10:33:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_wE1ZgJdt4uM",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Inference, Diffusion, World Models, and More | YC Paper Club",
-      "url": "https://www.youtube.com/watch?v=wE1ZgJdt4uM",
-      "thumbnail": "https://img.youtube.com/vi/wE1ZgJdt4uM/maxresdefault.jpg",
-      "published": "2026-05-28T20:37:13+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1249,25 +1285,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "pod_guigu101_pod_c457ca43_1305_44a3_b9cc_c68480802396",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E229｜从手工作坊到全球第一：中国动力电池逆袭史",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c457ca43-1305-44a3-b9cc-c68480802396.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 3897,
-      "published": "2026-03-19T17:00:00-07:00",
-      "hasTranscript": false,
-      "transcriptPreview": "这几年，如果说全球制造业里，有哪个故事最值得被重新讲一遍，那一定是动力电池。 中国在动力电池产业链中，建立了极强的优势。当欧洲电池巨头Northvolt破产，日韩也不再具备领先地位，很多人会问：为什么很多原始技术并非源自中国，但最后却是中国把它做成了最完整、强势的产业？这背后到底是政策红利、市场规模，还是极致的工程能力在起作用 ？ 这一期节目，我们邀请了材料学博士、TDK Ventures 投资人"
-    },
-    {
       "id": "yt_H9rF1CSSh-w",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -1399,23 +1416,6 @@
       "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
       "thumbnail": "https://img.youtube.com/vi/YFjfBk8HI5o/maxresdefault.jpg",
       "published": "2026-02-12T03:07:03+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_r0uij_l32to",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Hired 5 AI Employees for $0 (Here's What Happened)",
-      "url": "https://www.youtube.com/watch?v=r0uij_l32to",
-      "thumbnail": "https://img.youtube.com/vi/r0uij_l32to/maxresdefault.jpg",
-      "published": "2026-02-11T14:43:36+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
