@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-06-13T02:56:29.898460Z",
+  "last_updated": "2026-06-14T03:34:41.534679Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2065666521507209465",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "重置了 ClaudeDevs (@ClaudeDevs) We've reset 5-hour and weekly rate limits for all users. — https://nitter.net/ClaudeDevs/status/2065621176735646006#m",
+      "url": "https://x.com/op7418/status/2065666521507209465",
+      "images": null,
+      "published": "2026-06-13T05:24:11+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2065602682644250862",
       "source": "归藏",
@@ -128,7 +145,7 @@
         "AI",
         "Dev"
       ],
-      "title": "This Computer Is Made of Real Human Neurons (I Programmed It)",
+      "title": "Biological Computers Are Real Now. I Tried One",
       "url": "https://www.youtube.com/watch?v=vXJx9wzBT0M",
       "thumbnail": "https://img.youtube.com/vi/vXJx9wzBT0M/maxresdefault.jpg",
       "published": "2026-06-12T09:16:59+00:00",
@@ -505,7 +522,7 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2064576912648015886",
+      "id": "x_2064572793124245998",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -515,27 +532,10 @@
         "Design"
       ],
       "title": null,
-      "content": "MiMo Ultraspeed 的测试 歸藏(guizang.ai) (@op7418) MiMo推出1000 Token/s超高速模型｜体验测评 MiMo 推出了 MiMo V2.5 Pro UltraSpeed 超高速的模型版本，能够实现每秒输出超过 1,000 Token 的速度。 同时，这应该也是全球第一个达到这个速度的万亿（1T）参数模型。 藏师傅提前试了一下，做了三个测试，确实爽。 第一个跑了一个比较复杂的 3D 采矿小游戏测试。在没有素材的情况下，我让它全部用 Three.js 前端代码来生成素材。整体要求比较完整，虽然第一次实践时出了一些小问题，但在跟他沟通修改建议后，非常完美地实现了任务。 这次测试的各项指标如下：思考的 TPS：804 Token/s，峰值速度：810 Token/s，首次响应时间：4.71 秒。 第二个测试给了一个官网，其头部包含一个相对复杂的 3D 动画。 这次的输出速度快了非常多：峰值达到了 1426 Token/s，首次响应只用了 0.83 秒，在 32 秒内输出了 25624 个 Token，总计生成了 1000 行代码。 第三个测试给了一个更复杂的官网。我要求这个官网的 Header 头部包含以下 3D 效果：地球边缘、轨道上的飞船、星际尘埃、航线图、舷窗的 HUD 样式。 这个效果非常好，整体的视觉样式、状态、SVG 动画和驾驶卡片都非常精细，还有滚动的视差效果 这个输出的 TPS 达到了 1136 tokens/s，首次响应是 4.5 秒 官方测试平台下面有个数据展示，会显示相关信息 在流式输出的情况下，当你看着它只用 20 秒就产生一个非常复杂的 3D 游戏时，那种场景还是比较震撼的 之前的这些（比如说 Groq 之类的）超高速推理方案，在模型能力或者是整体水平上都会有所下降，但是 MiMo 这个在测试的时候，我没有看到这种迹象 最近很多公司都开始推出这种超高速的 API 服务，比如之前 OpenAI 和 Anthropic 都有 Fast 模式 在 Agent 场景下，模型输出效率的提升会直接带动每一步 Agent 操作的效率： 如果一个任务预估一分钟完成，你就会盯着它直到结束，然后立刻投入测试。如果需要五分钟才完成，你可能就会去干别的事，然后再回来看，难免会浪费一些时间 这种效率提升在 Sub-Agent 和并发场景下更加明显。因为它可以更快地产出大量结果，想象一下，如果同时启动一两百个 Sub-Agent，在模型能力没有衰减的前提下，速度提高 10 倍，体验是非常爽的 毕竟这本质上是面向那种对效率有极高要求的 To B 客户所推出的 希望后面大家卷起来，优化一下成本，让普通用户也能放开用这种 UltraSpeed 模型 Video — https://nitter.net/op7418/status/2064257622803710463#m",
-      "url": "https://x.com/op7418/status/2064576912648015886",
+      "content": "CodePilot v0.56.0 发布 本次更新的部分修复由 Claude Fable 5 完成。 模型与渠道扩充版本 新增 Claude Fable 5、小米 MiMo UltraSpeed 模型与通用 OpenAI 兼容第三方渠道。 并修复用量统计、回复状态丢失、服务商列表刷新等一批问题。推荐所有用户升级。 github.com/op7418/CodePilot/… 歸藏(guizang.ai) (@op7418) 在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题 — https://nitter.net/op7418/status/2064522814955368782#m",
+      "url": "https://x.com/op7418/status/2064572793124245998",
       "images": null,
-      "published": "2026-06-10T05:14:28+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2064575636082192646",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "一些尝试： 歸藏(guizang.ai) (@op7418) 试了一下，Fable 5 在漏洞分析、bug 寻找这些地方还是很强的。 但是在写代码上，我感觉它也不是万能的，它写出来的代码也会有明显的 bug，需要多次修复才能完成。 所以在这块，我觉得它可能是一个偏科比较严重的模型。 在某些程度上它比 4.8 好了非常多，但在另一些方面，虽然也比 4.8 好，但好得有限。 — https://nitter.net/op7418/status/2064562215345381472#m",
-      "url": "https://x.com/op7418/status/2064575636082192646",
-      "images": null,
-      "published": "2026-06-10T05:09:24+00:00",
+      "published": "2026-06-10T04:58:06+00:00",
       "hasTranscript": false
     },
     {
