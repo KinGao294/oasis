@@ -1,7 +1,74 @@
 {
-  "last_updated": "2026-06-14T03:34:41.534679Z",
+  "last_updated": "2026-06-15T03:44:14.962831Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2066334201767776554",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "周一上午痛苦摸鱼的时候可以看看 歸藏(guizang.ai) (@op7418) x.com/i/article/206509698231… — https://nitter.net/op7418/status/2065232309310427565#m",
+      "url": "https://x.com/op7418/status/2066334201767776554",
+      "images": null,
+      "published": "2026-06-15T01:37:18+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_NxAxwsu6_Zs",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "How Payward Ships Faster with Codex",
+      "url": "https://www.youtube.com/watch?v=NxAxwsu6_Zs",
+      "thumbnail": "https://img.youtube.com/vi/NxAxwsu6_Zs/maxresdefault.jpg",
+      "published": "2026-06-14T22:44:45+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2066223607899115820",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor hackathon in Ghana",
+      "url": "https://x.com/benln/status/2066223607899115820",
+      "images": null,
+      "published": "2026-06-14T18:17:51+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2066164684114547146",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "What are you building this weekend? Share links, curious to see.",
+      "url": "https://x.com/benln/status/2066164684114547146",
+      "images": null,
+      "published": "2026-06-14T14:23:42+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2065666521507209465",
       "source": "归藏",
@@ -353,22 +420,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_ACue0bPkrPs",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Training to cycle across Antarctica | with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=ACue0bPkrPs",
-      "thumbnail": "https://img.youtube.com/vi/ACue0bPkrPs/maxresdefault.jpg",
-      "published": "2026-06-11T15:59:45+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2065075399231693153",
       "source": "归藏",
       "sourceId": "guizang",
@@ -522,23 +573,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2064572793124245998",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "CodePilot v0.56.0 发布 本次更新的部分修复由 Claude Fable 5 完成。 模型与渠道扩充版本 新增 Claude Fable 5、小米 MiMo UltraSpeed 模型与通用 OpenAI 兼容第三方渠道。 并修复用量统计、回复状态丢失、服务商列表刷新等一批问题。推荐所有用户升级。 github.com/op7418/CodePilot/… 歸藏(guizang.ai) (@op7418) 在我 26 万行代码的 CodePilot 代码库中尝试 Fable 5，看一下它能找出多少问题 — https://nitter.net/op7418/status/2064522814955368782#m",
-      "url": "https://x.com/op7418/status/2064572793124245998",
-      "images": null,
-      "published": "2026-06-10T04:58:06+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2064331257585205609",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -565,7 +599,7 @@
         "AI",
         "Dev"
       ],
-      "title": "I Hacked My Own AI Agent 5 Ways (and Patched It)",
+      "title": "I Hacked an AI Customer Service Agent in 8 Seconds",
       "url": "https://www.youtube.com/watch?v=Vl9dbvKMSfU",
       "thumbnail": "https://img.youtube.com/vi/Vl9dbvKMSfU/maxresdefault.jpg",
       "published": "2026-06-09T09:03:25+00:00",
@@ -605,40 +639,6 @@
       "published": "2026-06-08T14:30:24+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2063969424659411394",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cursor team will be visiting 10 cities this summer: • Nairobi • Casablanca • Bangkok • Los Angeles • Da Nang • Manila • Tokyo • Accra • Bali • Kathmandu event details + RSVP on Luma soon!",
-      "url": "https://x.com/benln/status/2063969424659411394",
-      "images": null,
-      "published": "2026-06-08T13:00:32+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2063669336036851982",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Two co-working buddies under two",
-      "url": "https://x.com/benln/status/2063669336036851982",
-      "images": null,
-      "published": "2026-06-07T17:08:05+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_yyXCQHX55N4",
