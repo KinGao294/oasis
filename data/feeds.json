@@ -1,7 +1,123 @@
 {
-  "last_updated": "2026-06-15T03:44:14.962831Z",
+  "last_updated": "2026-06-16T03:38:37.113717Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2066717100597752023",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "看来是想先稳定一下用户",
+      "url": "https://x.com/op7418/status/2066717100597752023",
+      "images": null,
+      "published": "2026-06-16T02:58:49+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2066716449062989856",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Anthropic 叫停了关于 Agent SDK 六月以后不能使用 Claude 订阅额度的这个改动 就是说你还是可以在类似 CodePilot 这种基于 Agent SDK 开发的其他 Claude Code 三方客户端上，使用你的 Claude 订阅额度。 用不完的朋友们可以继续爽了 Aron Prins (@aronprins) Breaking News: Claude is pausing the Agent SDK credit change! — https://nitter.net/aronprins/status/2066607128563851546#m",
+      "url": "https://x.com/op7418/status/2066716449062989856",
+      "images": null,
+      "published": "2026-06-16T02:56:13+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_u9zLlcsCDiQ",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Build and test iOS apps without leaving Codex",
+      "url": "https://www.youtube.com/watch?v=u9zLlcsCDiQ",
+      "thumbnail": "https://img.youtube.com/vi/u9zLlcsCDiQ/maxresdefault.jpg",
+      "published": "2026-06-15T23:20:32+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_TDM2Dz_MuPk",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "How Wayfair Uses GPT-5.5 to Power Catalog Enrichment Across 40M Products",
+      "url": "https://www.youtube.com/watch?v=TDM2Dz_MuPk",
+      "thumbnail": "https://img.youtube.com/vi/TDM2Dz_MuPk/maxresdefault.jpg",
+      "published": "2026-06-15T18:02:23+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2066529656048869403",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Which startups are actively hiring? Reply with company name, career page, location.",
+      "url": "https://x.com/benln/status/2066529656048869403",
+      "images": null,
+      "published": "2026-06-15T14:33:58+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt__jNbM8pV9oI",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Codex as a Solutions Engineering Partner",
+      "url": "https://www.youtube.com/watch?v=_jNbM8pV9oI",
+      "thumbnail": "https://img.youtube.com/vi/_jNbM8pV9oI/maxresdefault.jpg",
+      "published": "2026-06-15T13:03:41+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_ObBAxL2dFzw",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Groww: If Your Customers Don't Love It or Hate It, You've Already Lost",
+      "url": "https://www.youtube.com/watch?v=ObBAxL2dFzw",
+      "thumbnail": "https://img.youtube.com/vi/ObBAxL2dFzw/maxresdefault.jpg",
+      "published": "2026-06-15T12:30:28+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "x_2066334201767776554",
       "source": "归藏",
@@ -355,38 +471,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_UNJSk90Lz1c",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Customer Ignite Talk: Antonio Bravo Acin (Global Head of AI Transformation, BBVA) & OpenAI",
-      "url": "https://www.youtube.com/watch?v=UNJSk90Lz1c",
-      "thumbnail": "https://img.youtube.com/vi/UNJSk90Lz1c/maxresdefault.jpg",
-      "published": "2026-06-11T19:51:04+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_4YkOAYNZVOQ",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Build sales account strategies and outreach with Codex",
-      "url": "https://www.youtube.com/watch?v=4YkOAYNZVOQ",
-      "thumbnail": "https://img.youtube.com/vi/4YkOAYNZVOQ/maxresdefault.jpg",
-      "published": "2026-06-11T19:24:28+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2065130684679942361",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -402,22 +486,6 @@
       "images": null,
       "published": "2026-06-11T17:54:58+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt_4XSI4SClBMA",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Creating black hole simulations with Codex",
-      "url": "https://www.youtube.com/watch?v=4XSI4SClBMA",
-      "thumbnail": "https://img.youtube.com/vi/4XSI4SClBMA/maxresdefault.jpg",
-      "published": "2026-06-11T16:14:47+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "x_2065075399231693153",
@@ -488,23 +556,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2064909864867074294",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "我现在 Twitter 时间线上只有两类内容，非常诡异： 一种是充斥着所谓“一句话生成”的很漂亮的那种用 Fable 5 生成的网页； 第二种是除了 Anthropic 自家的 AI 研究员，全在抨击 Anthropic 这次发布 Fable 5 的各种行为。 这次 Anthropic 真是惹了众怒，几乎所有我关注的研究员都在骂他们。大家主要抨击的是以下几个问题： 安全风险 它的安全护栏极其严格。你哪怕问它最基本的初中生物学问题，都会被拒绝回答。这导致很多生物学研究员和团队无法获得正常许可来进行科学研究。 数据存储政策 Mythos 和 Fable 模型的数据是明文储存且强制储存的，最高期限长达两年。虽然官方声称只用于安全分析和减少误伤，不用于模型训练，但业内没人相信这种说辞。因为这个条款的存在，微软已经禁止内部使用 Fable 模型了。 隐形降级（最严重的问题） 如果系统判断你想“蒸馏” Fable 模型，它不只是拒绝服务，还会偷偷摸摸地把模型降级到 Opus 4.8 或者更低的版本。甚至会通过修改提示词或微调等方式，暗中让 Fable 在相关话题上变笨，表现甚至还不如原生的 Opus 4.8。 大家最愤怒的点在于： 你要么帮忙，要么拒绝，假装在帮忙实际却故意把效果变差，这是一个非常严重的道德问题。这会直接污染一切基于该模型所做的算法效率比对和评估，导致现在根本无法用测试器对其进行正常评估。 实际上，这个政策对大公司和国家影响不大，受影响最深的是开源研究者、小实验室、独立开发者和科学界。 刚好达里奥（Dario Amodei）在昨天晚上新发的文章里，还在强调他们坚持透明、问责和公共机构监督。 但实际上他们拒绝一切监督问责，甚至反过来暗中破坏针对模型的评估和研究行为，这和他们宣称的完全相反。 所以，这次模型发布让 Anthropic 在业内的口碑一夜之间变得不如路边的一坨臭狗屎。",
-      "url": "https://x.com/op7418/status/2064909864867074294",
-      "images": null,
-      "published": "2026-06-11T03:17:30+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2064786308770529403",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -554,40 +605,6 @@
       "published": "2026-06-10T14:30:40+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2064585238395920395",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "笑死，藏师傅 PPT Skill 也上央视了，感谢腾讯云和 workbuddy Video 歸藏(guizang.ai) (@op7418) x.com/i/article/205365581387… — https://nitter.net/op7418/status/2053657613460771142#m",
-      "url": "https://x.com/op7418/status/2064585238395920395",
-      "images": null,
-      "published": "2026-06-10T05:47:33+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2064331257585205609",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "We're hiring: cursor.com/careers Techmeme (@Techmeme) Source: Cursor, which is prepping for an expected acquisition by SpaceX, passed $4B in annualized revenue in the last week, up from $3B in April and $2B in Feb. (@richardjnieva / Forbes) (Visit Techmeme dot com for the link and full context!) — https://nitter.net/Techmeme/status/2064105094065672302#m",
-      "url": "https://x.com/benln/status/2064331257585205609",
-      "images": null,
-      "published": "2026-06-09T12:58:19+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_Vl9dbvKMSfU",
@@ -773,23 +790,6 @@
       "url": "https://www.youtube.com/watch?v=AiM9mZCmVPY",
       "thumbnail": "https://img.youtube.com/vi/AiM9mZCmVPY/maxresdefault.jpg",
       "published": "2026-05-29T14:29:06+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_2Ap1dnv-GXA",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup",
-      "url": "https://www.youtube.com/watch?v=2Ap1dnv-GXA",
-      "thumbnail": "https://img.youtube.com/vi/2Ap1dnv-GXA/maxresdefault.jpg",
-      "published": "2026-05-29T12:30:27+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
