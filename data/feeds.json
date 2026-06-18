@@ -1,7 +1,212 @@
 {
-  "last_updated": "2026-06-17T03:38:08.366445Z",
-  "count": 31,
+  "last_updated": "2026-06-18T03:30:04.971423Z",
+  "count": 51,
   "items": [
+    {
+      "id": "x_2067432296127557888",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Character AI 的前 CEO，transformer 论文的作者之一，MoE 架构的提出者 Noam Shazeer，加入了 OpenAI，进行模型架构研究。 谷歌之前用 27 亿美元收购了 Character 换他加入谷歌，结果这呆了没多久就跑到Open AI 了 Noam Shazeer (@NoamShazeer) I’m excited to share that I’ll be joining OpenAI and look forward to working with the exceptional team there. It was a difficult decision to move on. I’m incredibly proud of the amazing team at Google and everything we’ve built together. It has been an honor and a pleasure to work with all of you. — https://nitter.net/NoamShazeer/status/2067400851438932297#m",
+      "url": "https://x.com/op7418/status/2067432296127557888",
+      "images": null,
+      "published": "2026-06-18T02:20:45+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2067426863308591523",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "啊？没人能想到 Midjourney 发布的硬件是这个东西。 他们成立了一个新的部门叫 Midjourney 医疗，发布的第一款硬件设备是一款人体扫描设备。 Video",
+      "url": "https://x.com/op7418/status/2067426863308591523",
+      "images": null,
+      "published": "2026-06-18T01:59:09+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2067426345693622675",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "双重重置 codex 除了他们给你进行了一次重置以外，还帮你存了一次重置 Tibo (@thsottiaux) Dearest gentle codexer. We did a sneaky double reset. Not only do you get a full reset on us. But you are also getting one into the reset bank to use at your own leisure. Enjoy — https://nitter.net/thsottiaux/status/2067399435009622521#m",
+      "url": "https://x.com/op7418/status/2067426345693622675",
+      "images": null,
+      "published": "2026-06-18T01:57:06+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2067308157026882001",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "G7 AI 领域午餐会，头部的几家 AI公司负责人都在了。 当然焦点还是 Anthropic 的 Dario，哥们看着老尴尬了 Video",
+      "url": "https://x.com/op7418/status/2067308157026882001",
+      "images": null,
+      "published": "2026-06-17T18:07:28+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_rOLKQJMLBHI",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Build and test iOS apps without leaving Codex!",
+      "url": "https://www.youtube.com/watch?v=rOLKQJMLBHI",
+      "thumbnail": "https://img.youtube.com/vi/rOLKQJMLBHI/maxresdefault.jpg",
+      "published": "2026-06-17T18:01:46+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_47b7778e_1ed6_4dab_b7c9_8b4a6555b867",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/47b7778e-1ed6-4dab-b7c9-8b4a6555b867.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 3084,
+      "published": "2026-06-17T17:00:00-07:00",
+      "hasTranscript": false,
+      "transcriptPreview": "5月初，OpenAI成立了Deployment Company（部署公司），Anthropic也宣布与包括Blackstone在内的多家金融机构合作成立合资企业。这些顶尖模型公司，都开始押注同一种服务：不只是提供AI工具，而是深入企业内部，在具体业务场景中把AI能力真正部署起来。 这也让一个工种迅速走到台前：Forward Deployment Engineer（FDE），前线部署工程师。他们既要"
+    },
+    {
+      "id": "x_2067256655629213720",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "40 Cursor Ambassadors flew in from every corner of the planet to be at Compile Incredible group of humans, grateful for you all",
+      "url": "https://x.com/benln/status/2067256655629213720",
+      "images": null,
+      "published": "2026-06-17T14:42:49+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2067190464449749255",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "即梦上了 Seedance 2.0 Mini，便宜了不少 可以玩玩了",
+      "url": "https://x.com/op7418/status/2067190464449749255",
+      "images": null,
+      "published": "2026-06-17T10:19:47+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2067095014677856644",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "可以 跟他说了要加图之后加的不错",
+      "url": "https://x.com/op7418/status/2067095014677856644",
+      "images": null,
+      "published": "2026-06-17T04:00:30+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2067091909890421193",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "GLM-5.2 指令遵循不错，调模板的能力也不错，但在自主性和创造性上可能差一点。 文档里虽然有图片链接，但他不知道把图片加进去 丢了不少内容",
+      "url": "https://x.com/op7418/status/2067091909890421193",
+      "images": null,
+      "published": "2026-06-17T03:48:10+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2067091465675866126",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "简单拿我的社交媒体卡片对比测试了一下。 左边是 GPT 5.5 的结果，右边是 GLM 5.2 的结果。给的素材都是 GLM 5.2 的发布博客。 歸藏(guizang.ai) (@op7418) 智谱 GLM-5.2 正式发布和开源了，基准测试成绩相当吓人 核心定位是处理长周期任务，并且有稳定的 100 万上下文，模型还引入了思考力度控制。 架构层面，GLM-5.2 提出了 IndexShare 机制，每四层稀疏注意力共享同一个 indexer，从而在百万 token 上下文下将每 token 的计算量降低约 2.9 倍。 — https://nitter.net/op7418/status/2067077537721954542#m",
+      "url": "https://x.com/op7418/status/2067091465675866126",
+      "images": null,
+      "published": "2026-06-17T03:46:24+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2067088428047770016",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "智谱 GLM-5.2 可以在 Codepilot 模型管理里面自行添加哈 歸藏(guizang.ai) (@op7418) 智谱 GLM-5.2 正式发布和开源了，基准测试成绩相当吓人 核心定位是处理长周期任务，并且有稳定的 100 万上下文，模型还引入了思考力度控制。 架构层面，GLM-5.2 提出了 IndexShare 机制，每四层稀疏注意力共享同一个 indexer，从而在百万 token 上下文下将每 token 的计算量降低约 2.9 倍。 — https://nitter.net/op7418/status/2067077537721954542#m",
+      "url": "https://x.com/op7418/status/2067088428047770016",
+      "images": null,
+      "published": "2026-06-17T03:34:20+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2067082963905651064",
       "source": "归藏",
@@ -17,57 +222,6 @@
       "url": "https://x.com/op7418/status/2067082963905651064",
       "images": null,
       "published": "2026-06-17T03:12:37+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2067077537721954542",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "智谱 GLM-5.2 正式发布和开源了，基准测试成绩相当吓人 核心定位是处理长周期任务，并且有稳定的 100 万上下文，模型还引入了思考力度控制。 架构层面，GLM-5.2 提出了 IndexShare 机制，每四层稀疏注意力共享同一个 indexer，从而在百万 token 上下文下将每 token 的计算量降低约 2.9 倍。 Z.ai (@Zai_org) Introducing GLM-5.2: Frontier Intelligence, Open Weights - Significant improvements in coding and agentic tasks - Strong long-horizon capabilities with a 1M context window - Two levels of reasoning effort: GLM-5.2 (max) pushes the limits, while GLM-5.2 (high) strikes a strong balance between performance and token efficiency - MIT-licensed open weights - Same API pricing as GLM-5.1 Tech Blog: z.ai/blog/glm-5.2 Weights: huggingface.co/zai-org/GLM-5… API: docs.z.ai/guides/llm/glm-5.2 Coding Plan: z.ai/subscribe Chat: chat.z.ai — https://nitter.net/Zai_org/status/2066938937344495629#m",
-      "url": "https://x.com/op7418/status/2067077537721954542",
-      "images": null,
-      "published": "2026-06-17T02:51:04+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2067073608393109651",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "网页构建工具 Framer 终于上线了 Agent 能力 由于他们基建比较完善如果跟 AI 结合的好的话还是很有竞争力的，但搞得太慢了 Video",
-      "url": "https://x.com/op7418/status/2067073608393109651",
-      "images": null,
-      "published": "2026-06-17T02:35:27+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2067066053465927871",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Midjourney 居然要发硬件了 Midjourney (@midjourney) Midjourney will be announcing its first hardware project tomorrow (Wednesday 6/17) at 6pm PT. Stay tuned for a livestream of our in-person launch event in San Francisco. If you're in town and want an invite, reply below, we have just a few slots left. — https://nitter.net/midjourney/status/2066994481770213697#m",
-      "url": "https://x.com/op7418/status/2067066053465927871",
-      "images": null,
-      "published": "2026-06-17T02:05:26+00:00",
       "hasTranscript": false
     },
     {
@@ -105,6 +259,22 @@
       "hasTranscript": false
     },
     {
+      "id": "yt_CFqjjKp9Y-Q",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Why Tejal Patwardhan stopped underestimating the models - Episode 21",
+      "url": "https://www.youtube.com/watch?v=CFqjjKp9Y-Q",
+      "thumbnail": "https://img.youtube.com/vi/CFqjjKp9Y-Q/maxresdefault.jpg",
+      "published": "2026-06-16T17:00:02+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "x_2066921791973708004",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -119,23 +289,6 @@
       "url": "https://x.com/benln/status/2066921791973708004",
       "images": null,
       "published": "2026-06-16T16:32:11+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2066921764735832162",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Space X 用股票交易，600 亿美元收购了 Cursor 考虑到 Cursor 只有几十个人这个人效太猛了，同时 Cursor 除了软件也还有自己基于开源模型训练的编码模型 感觉新的 Gork 有戏了啊 SpaceX (@SpaceX) SpaceX has exercised the option to acquire @cursor_ai in an all-stock transaction with the goal of building the world’s most useful AI models. For the past few months, SpaceXAI has been jointly training a model with Cursor, which will be released in Cursor and Grok Build soon. We look forward to working closely with the Cursor team to advance our frontier AI capabilities — https://nitter.net/SpaceX/status/2066873915717136548#m",
-      "url": "https://x.com/op7418/status/2066921764735832162",
-      "images": null,
-      "published": "2026-06-16T16:32:04+00:00",
       "hasTranscript": false
     },
     {
@@ -173,38 +326,36 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2066717100597752023",
-      "source": "归藏",
-      "sourceId": "guizang",
+      "id": "yt_u9zLlcsCDiQ",
+      "source": "OpenAI",
+      "sourceId": "openai",
       "sourceAvatar": null,
-      "platform": "x",
+      "platform": "youtube",
       "domains": [
-        "AI",
-        "Design"
+        "AI"
       ],
-      "title": null,
-      "content": "看来是想先稳定一下用户",
-      "url": "https://x.com/op7418/status/2066717100597752023",
-      "images": null,
-      "published": "2026-06-16T02:58:49+00:00",
-      "hasTranscript": false
+      "title": "Build and test iOS apps without leaving Codex",
+      "url": "https://www.youtube.com/watch?v=u9zLlcsCDiQ",
+      "thumbnail": "https://img.youtube.com/vi/u9zLlcsCDiQ/maxresdefault.jpg",
+      "published": "2026-06-15T23:20:32+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
-      "id": "x_2066716449062989856",
-      "source": "归藏",
-      "sourceId": "guizang",
+      "id": "yt_TDM2Dz_MuPk",
+      "source": "OpenAI",
+      "sourceId": "openai",
       "sourceAvatar": null,
-      "platform": "x",
+      "platform": "youtube",
       "domains": [
-        "AI",
-        "Design"
+        "AI"
       ],
-      "title": null,
-      "content": "Anthropic 叫停了关于 Agent SDK 六月以后不能使用 Claude 订阅额度的这个改动 就是说你还是可以在类似 CodePilot 这种基于 Agent SDK 开发的其他 Claude Code 三方客户端上，使用你的 Claude 订阅额度。 用不完的朋友们可以继续爽了 Aron Prins (@aronprins) Breaking News: Claude is pausing the Agent SDK credit change! — https://nitter.net/aronprins/status/2066607128563851546#m",
-      "url": "https://x.com/op7418/status/2066716449062989856",
-      "images": null,
-      "published": "2026-06-16T02:56:13+00:00",
-      "hasTranscript": false
+      "title": "How Wayfair Uses GPT-5.5 to Power Catalog Enrichment Across 40M Products",
+      "url": "https://www.youtube.com/watch?v=TDM2Dz_MuPk",
+      "thumbnail": "https://img.youtube.com/vi/TDM2Dz_MuPk/maxresdefault.jpg",
+      "published": "2026-06-15T18:02:23+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "x_2066529656048869403",
@@ -224,21 +375,36 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2066334201767776554",
-      "source": "归藏",
-      "sourceId": "guizang",
+      "id": "yt__jNbM8pV9oI",
+      "source": "OpenAI",
+      "sourceId": "openai",
       "sourceAvatar": null,
-      "platform": "x",
+      "platform": "youtube",
       "domains": [
-        "AI",
-        "Design"
+        "AI"
       ],
-      "title": null,
-      "content": "周一上午痛苦摸鱼的时候可以看看 歸藏(guizang.ai) (@op7418) — https://nitter.net/op7418/status/2065232309310427565#m",
-      "url": "https://x.com/op7418/status/2066334201767776554",
-      "images": null,
-      "published": "2026-06-15T01:37:18+00:00",
-      "hasTranscript": false
+      "title": "Codex as a Solutions Engineering Partner",
+      "url": "https://www.youtube.com/watch?v=_jNbM8pV9oI",
+      "thumbnail": "https://img.youtube.com/vi/_jNbM8pV9oI/maxresdefault.jpg",
+      "published": "2026-06-15T13:03:41+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_NxAxwsu6_Zs",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "How Payward Ships Faster with Codex",
+      "url": "https://www.youtube.com/watch?v=NxAxwsu6_Zs",
+      "thumbnail": "https://img.youtube.com/vi/NxAxwsu6_Zs/maxresdefault.jpg",
+      "published": "2026-06-14T22:44:45+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "x_2066223607899115820",
@@ -275,38 +441,20 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2065666521507209465",
-      "source": "归藏",
-      "sourceId": "guizang",
+      "id": "yt_Rlju1Z9e110",
+      "source": "OpenAI",
+      "sourceId": "openai",
       "sourceAvatar": null,
-      "platform": "x",
+      "platform": "youtube",
       "domains": [
-        "AI",
-        "Design"
+        "AI"
       ],
-      "title": null,
-      "content": "重置了 ClaudeDevs (@ClaudeDevs) We've reset 5-hour and weekly rate limits for all users. — https://nitter.net/ClaudeDevs/status/2065621176735646006#m",
-      "url": "https://x.com/op7418/status/2065666521507209465",
-      "images": null,
-      "published": "2026-06-13T05:24:11+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2065602682644250862",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Anthropic 这个公司太搞笑了。 天天技术恐吓，天天让国家注意 AI 安全，这下把自己套进去了。 美国政府要求他们禁止给任何非美国公民，哪怕是在美国的人提供 fable 5 的访问。 他们没办法保证这个，只能先下掉了所有人的访问权限。 Anthropic (@AnthropicAI) The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance. Access to all other Claude models is not affected. We apologize for this disruption to our customers. We believe this is a misunderstanding and are working to restore access as soon as possible. Read our full statement: anthropic.com/news/fable-myt… — https://nitter.net/AnthropicAI/status/2065597531644743999#m",
-      "url": "https://x.com/op7418/status/2065602682644250862",
-      "images": null,
-      "published": "2026-06-13T01:10:31+00:00",
-      "hasTranscript": false
+      "title": "Analyze earnings and update your investment thesis with Codex",
+      "url": "https://www.youtube.com/watch?v=Rlju1Z9e110",
+      "thumbnail": "https://img.youtube.com/vi/Rlju1Z9e110/maxresdefault.jpg",
+      "published": "2026-06-12T20:36:47+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "x_2065518091442790616",
@@ -326,21 +474,36 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2065428802159939835",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
+      "id": "yt_sU9-u5p-jA0",
+      "source": "OpenAI",
+      "sourceId": "openai",
       "sourceAvatar": null,
-      "platform": "x",
+      "platform": "youtube",
       "domains": [
-        "AI",
-        "Dev"
+        "AI"
       ],
-      "title": null,
-      "content": "Cafe Cursor is booked in 26 cities over the next few weeks: Phnom Penh, Manila, Oslo, Dubai, Frankfurt, Belgrade, Lusaka, Guangzhou, Tirana, Shenzhen, Sofia, Cebu City, Hangzhou, Baku, Bogota, Lima, Malaga, Beijing, Cumbaya, OKC, LA, Philly, Eldoret, Leon, Tallinn, Culiacan",
-      "url": "https://x.com/benln/status/2065428802159939835",
-      "images": null,
-      "published": "2026-06-12T13:39:34+00:00",
-      "hasTranscript": false
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "url": "https://www.youtube.com/watch?v=sU9-u5p-jA0",
+      "thumbnail": "https://img.youtube.com/vi/sU9-u5p-jA0/maxresdefault.jpg",
+      "published": "2026-06-12T16:24:47+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_-Jm-Bf3g9r8",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://www.youtube.com/watch?v=-Jm-Bf3g9r8",
+      "thumbnail": "https://img.youtube.com/vi/-Jm-Bf3g9r8/maxresdefault.jpg",
+      "published": "2026-06-12T09:53:26+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_259291f5_2715_4dde_bcfe_b5beb4df5793",
@@ -360,6 +523,39 @@
       "published": "2026-06-12T04:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "SpaceX上市进入最后倒计时，在它那份长达280页的招股说明书里，月球基地、点对点地表旅行、在轨制造、火星货物……这些别的公司不敢写的科幻元素，它都写了。但更让人印象深刻的是SpaceX的AI叙事，它预测在28.5万亿美元总潜在市场中，有超过90%来自AI板块，而这部分将受到“地球无法快速扩展发电能力”的严重制约。 面对电力紧缺，SpaceX的答案是：把数据中心搬上太空。上周一，马斯克在一段关于"
+    },
+    {
+      "id": "yt_bhgYFRZLyKI",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Debug web apps with browser use in Codex",
+      "url": "https://www.youtube.com/watch?v=bhgYFRZLyKI",
+      "thumbnail": "https://img.youtube.com/vi/bhgYFRZLyKI/maxresdefault.jpg",
+      "published": "2026-06-12T00:15:38+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_1M3Vdl6DRkU",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
+      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
+      "thumbnail": "https://img.youtube.com/vi/1M3Vdl6DRkU/maxresdefault.jpg",
+      "published": "2026-05-29T16:18:31+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_51260de8_60ef_4b76_b3e5_2e559c4a0923",
@@ -438,6 +634,23 @@
       "transcriptPreview": "近年来，癌症治疗正迎来多个技术平台并行演进、加速迭代的新阶段：从ADC、双特异性抗体、放射性配体疗法，到细胞治疗，整个行业都在经历一轮底层技术工具的升级。其中，CAR-T是最具范式转换意义的一类疗法——它首次在部分血液肿瘤中，把“利用工程化改造的免疫细胞精准清除癌细胞”带入了临床现实。更值得关注的是，2025年以来，跨国药企的押注明显转向体内CAR-T：阿斯利康、艾伯维、百时美施贵宝和礼来等公司，"
     },
     {
+      "id": "yt_nepKKz-MzFM",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
+      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
+      "thumbnail": "https://img.youtube.com/vi/nepKKz-MzFM/maxresdefault.jpg",
+      "published": "2026-05-06T22:03:16+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "pod_guigu101_pod_b2be7093_3366_4ee2_8a7a_625f06206ae5",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -474,6 +687,23 @@
       "published": "2026-04-16T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "Peter Thiel，是硅谷最具争议和影响力的思想家之一。如果要用一句话概括他的思想，那就是：世界是由少数天选之人在幕后驱动的，而他就是其中之一。这套理论，不仅在以他为核心的“硅谷右翼”圈子中产生了影响，还通过Peter Thiel的政治参与，影响了更多的人。 那么，Peter Thiel的思想，又来源于什么呢？要理解他，答案藏在三位哲学家身上：法国文学批评理论家吉拉尔、纳粹党员法学家施密特、和"
+    },
+    {
+      "id": "yt_iKx3gAODybU",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+      "thumbnail": "https://img.youtube.com/vi/iKx3gAODybU/maxresdefault.jpg",
+      "published": "2026-04-09T17:35:20+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_3bb14dd4_0b13_4173_9d5b_0e63bf98ae1d",
@@ -514,23 +744,123 @@
       "transcriptPreview": "“龙虾热”正在退潮，但它带来的创新冲击还在持续——当它与行业know-how相结合，正在迸发出新的能量。 阿里国际站有着26年的B2B数据和经验积累，今年初，OpenClaw、Cowork这些工作范式被验证，让他们看到了打通B2B闭环的智能体，终于到了可以落地的临界点。 于是春节之后，“外贸版龙虾”Accio Work来了，海外用户只需要和这个Agent对话，它就能自主跑完从市场分析、选品设计、供"
     },
     {
-      "id": "pod_guigu101_pod_d97446f1_d6e3_4894_89d1_dca0a362b10b",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
+      "id": "yt_vif8NQcjVf0",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
       "domains": [
         "AI",
-        "Business",
-        "Global"
+        "Business"
       ],
-      "title": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/d97446f1-d6e3-4894-89d1-dca0a362b10b.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 3981,
-      "published": "2026-03-25T17:00:00-07:00",
+      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
+      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
+      "thumbnail": "https://img.youtube.com/vi/vif8NQcjVf0/maxresdefault.jpg",
+      "published": "2026-03-23T16:24:14+00:00",
       "hasTranscript": false,
-      "transcriptPreview": "本期播客是硅谷101在GTC 2026大会期间的线下特别录制，我们从老黄在Keynote上抛出的那几个大数字开始聊起： 1万亿——这是黄仁勋预期到2027年底，Blackwell和Vera Rubin两个平台带来的订单收入。 7块——这是大会一次性发布的Vera Rubin新芯片数量。 10倍、35倍——这是Vera Rubin NVL72 AI机架系统，相比Blackwell，它的推理效率提升了"
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_H9rF1CSSh-w",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
+      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
+      "thumbnail": "https://img.youtube.com/vi/H9rF1CSSh-w/maxresdefault.jpg",
+      "published": "2026-03-11T20:21:39+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_SHlrUAkkWI0",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
+      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
+      "thumbnail": "https://img.youtube.com/vi/SHlrUAkkWI0/maxresdefault.jpg",
+      "published": "2026-03-03T12:30:21+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_1SJiTwbSI58",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492",
+      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
+      "thumbnail": "https://img.youtube.com/vi/1SJiTwbSI58/maxresdefault.jpg",
+      "published": "2026-03-01T03:37:44+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_KGVpKPNUdzA",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
+      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
+      "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
+      "published": "2026-02-25T22:36:32+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_YFjfBk8HI5o",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
+      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
+      "thumbnail": "https://img.youtube.com/vi/YFjfBk8HI5o/maxresdefault.jpg",
+      "published": "2026-02-12T03:07:03+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_EV7WhVT270Q",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
+      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
+      "thumbnail": "https://img.youtube.com/vi/EV7WhVT270Q/maxresdefault.jpg",
+      "published": "2026-01-31T22:33:33+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "x_9327720978",
