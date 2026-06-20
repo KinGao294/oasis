@@ -1,7 +1,174 @@
 {
-  "last_updated": "2026-06-19T03:52:53.062294Z",
+  "last_updated": "2026-06-20T02:54:25.826827Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_0JIbgZ544wU",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "What Codex Unlocks for NTT Data",
+      "url": "https://www.youtube.com/watch?v=0JIbgZ544wU",
+      "thumbnail": "https://img.youtube.com/vi/0JIbgZ544wU/maxresdefault.jpg",
+      "published": "2026-06-19T22:57:58+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_YPNOjXTDP9c",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Plan with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=YPNOjXTDP9c",
+      "thumbnail": "https://img.youtube.com/vi/YPNOjXTDP9c/maxresdefault.jpg",
+      "published": "2026-06-19T21:22:26+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_5sDfhQq_g8A",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Score with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=5sDfhQq_g8A",
+      "thumbnail": "https://img.youtube.com/vi/5sDfhQq_g8A/maxresdefault.jpg",
+      "published": "2026-06-19T21:20:04+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2067986820906787310",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "We're booking out a cafe on July 15th in LA Grab coffee, Cursor credits, meet the team, and build together",
+      "url": "https://x.com/benln/status/2067986820906787310",
+      "images": null,
+      "published": "2026-06-19T15:04:14+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_XROaLetSxg0",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Media Game Has Changed",
+      "url": "https://www.youtube.com/watch?v=XROaLetSxg0",
+      "thumbnail": "https://img.youtube.com/vi/XROaLetSxg0/maxresdefault.jpg",
+      "published": "2026-06-19T14:40:13+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_8OOuCnZB-4o",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Age Of The 40-Year-Old Solo Founder Is Here",
+      "url": "https://www.youtube.com/watch?v=8OOuCnZB-4o",
+      "thumbnail": "https://img.youtube.com/vi/8OOuCnZB-4o/maxresdefault.jpg",
+      "published": "2026-06-19T14:00:26+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2067953478333288765",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "60+ startups actively hiring in this thread Best move is to pick 2-3 and send a thoughtful DM Ben Lang (@benln) Which startups are actively hiring? Reply with company name, career page, location. — https://nitter.net/benln/status/2066529656048869403#m",
+      "url": "https://x.com/benln/status/2067953478333288765",
+      "images": null,
+      "published": "2026-06-19T12:51:44+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2067885932897038780",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了 jietang (@jietang) won’t take that long — https://nitter.net/jietang/status/2067580270078030088#m",
+      "url": "https://x.com/op7418/status/2067885932897038780",
+      "images": null,
+      "published": "2026-06-19T08:23:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2067884713340252646",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Bear 团队推出了一款新的独立的 Markdown 本地编辑器Lettera 目前正在免费测试，可以试试 Bear - Markdown Notes (@BearNotesApp) Meet Lettera. A native, file-based Markdown editor for Mac. Now in Beta. lettera.md — https://nitter.net/BearNotesApp/status/2067591320508440804#m",
+      "url": "https://x.com/op7418/status/2067884713340252646",
+      "images": null,
+      "published": "2026-06-19T08:18:29+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2067882172397265036",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "梦珂老师又回推特了 Mengke Wang (@MengkePM) — https://nitter.net/MengkePM/status/2067507383824253019#m",
+      "url": "https://x.com/op7418/status/2067882172397265036",
+      "images": null,
+      "published": "2026-06-19T08:08:23+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_UxY8zJKRrHU",
       "source": "OpenAI",
@@ -257,57 +424,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2067095014677856644",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "可以 跟他说了要加图之后加的不错",
-      "url": "https://x.com/op7418/status/2067095014677856644",
-      "images": null,
-      "published": "2026-06-17T04:00:30+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2067091909890421193",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "GLM-5.2 指令遵循不错，调模板的能力也不错，但在自主性和创造性上可能差一点。 文档里虽然有图片链接，但他不知道把图片加进去 丢了不少内容",
-      "url": "https://x.com/op7418/status/2067091909890421193",
-      "images": null,
-      "published": "2026-06-17T03:48:10+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2067091465675866126",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "简单拿我的社交媒体卡片对比测试了一下。 左边是 GPT 5.5 的结果，右边是 GLM 5.2 的结果。给的素材都是 GLM 5.2 的发布博客。 歸藏(guizang.ai) (@op7418) 智谱 GLM-5.2 正式发布和开源了，基准测试成绩相当吓人 核心定位是处理长周期任务，并且有稳定的 100 万上下文，模型还引入了思考力度控制。 架构层面，GLM-5.2 提出了 IndexShare 机制，每四层稀疏注意力共享同一个 indexer，从而在百万 token 上下文下将每 token 的计算量降低约 2.9 倍。 — https://nitter.net/op7418/status/2067077537721954542#m",
-      "url": "https://x.com/op7418/status/2067091465675866126",
-      "images": null,
-      "published": "2026-06-17T03:46:24+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2067014910249472357",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -487,88 +603,6 @@
       "url": "https://www.youtube.com/watch?v=ObBAxL2dFzw",
       "thumbnail": "https://img.youtube.com/vi/ObBAxL2dFzw/maxresdefault.jpg",
       "published": "2026-06-15T12:30:28+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_NxAxwsu6_Zs",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "How Payward Ships Faster with Codex",
-      "url": "https://www.youtube.com/watch?v=NxAxwsu6_Zs",
-      "thumbnail": "https://img.youtube.com/vi/NxAxwsu6_Zs/maxresdefault.jpg",
-      "published": "2026-06-14T22:44:45+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2066223607899115820",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cursor hackathon in Ghana",
-      "url": "https://x.com/benln/status/2066223607899115820",
-      "images": null,
-      "published": "2026-06-14T18:17:51+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2066164684114547146",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "What are you building this weekend? Share links, curious to see.",
-      "url": "https://x.com/benln/status/2066164684114547146",
-      "images": null,
-      "published": "2026-06-14T14:23:42+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_Rlju1Z9e110",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Analyze earnings and update your investment thesis with Codex",
-      "url": "https://www.youtube.com/watch?v=Rlju1Z9e110",
-      "thumbnail": "https://img.youtube.com/vi/Rlju1Z9e110/maxresdefault.jpg",
-      "published": "2026-06-12T20:36:47+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_sU9-u5p-jA0",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "url": "https://www.youtube.com/watch?v=sU9-u5p-jA0",
-      "thumbnail": "https://img.youtube.com/vi/sU9-u5p-jA0/maxresdefault.jpg",
-      "published": "2026-06-12T16:24:47+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -758,23 +792,6 @@
       "url": "https://www.youtube.com/watch?v=mjmswQurIU4",
       "thumbnail": "https://img.youtube.com/vi/mjmswQurIU4/maxresdefault.jpg",
       "published": "2026-06-05T14:30:09+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_fQmlML9Lay4",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup",
-      "url": "https://www.youtube.com/watch?v=fQmlML9Lay4",
-      "thumbnail": "https://img.youtube.com/vi/fQmlML9Lay4/maxresdefault.jpg",
-      "published": "2026-06-04T14:00:22+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1073,23 +1090,6 @@
       "published": "2026-05-08T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "近年来，癌症治疗正迎来多个技术平台并行演进、加速迭代的新阶段：从ADC、双特异性抗体、放射性配体疗法，到细胞治疗，整个行业都在经历一轮底层技术工具的升级。其中，CAR-T是最具范式转换意义的一类疗法——它首次在部分血液肿瘤中，把“利用工程化改造的免疫细胞精准清除癌细胞”带入了临床现实。更值得关注的是，2025年以来，跨国药企的押注明显转向体内CAR-T：阿斯利康、艾伯维、百时美施贵宝和礼来等公司，"
-    },
-    {
-      "id": "yt_X9k53P-2SOg",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Ben Horowitz on American Dynamism and the Future of AI | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=X9k53P-2SOg",
-      "thumbnail": "https://img.youtube.com/vi/X9k53P-2SOg/maxresdefault.jpg",
-      "published": "2026-05-08T15:46:18+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_nepKKz-MzFM",
