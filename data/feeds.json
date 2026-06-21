@@ -1,7 +1,177 @@
 {
-  "last_updated": "2026-06-20T02:54:25.826827Z",
+  "last_updated": "2026-06-21T03:40:38.326546Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2068302693760966985",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这天气太爽了，差了两天又好了。",
+      "url": "https://x.com/op7418/status/2068302693760966985",
+      "images": null,
+      "published": "2026-06-20T11:59:24+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2068262369852342495",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "一个预告 歸藏(guizang.ai) (@op7418) — https://nitter.net/op7418/status/2053657613460771142#m",
+      "url": "https://x.com/op7418/status/2068262369852342495",
+      "images": null,
+      "published": "2026-06-20T09:19:10+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2068253424182059452",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "左边 GPT，右边 Nano Banana 2",
+      "url": "https://x.com/op7418/status/2068253424182059452",
+      "images": null,
+      "published": "2026-06-20T08:43:37+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2068251976673169763",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "但是这个细节依然有问题，只是观感好点",
+      "url": "https://x.com/op7418/status/2068251976673169763",
+      "images": null,
+      "published": "2026-06-20T08:37:52+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2068251392196915618",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这个更明显点，左边 GPT 右边 NanoBanana 2",
+      "url": "https://x.com/op7418/status/2068251392196915618",
+      "images": null,
+      "published": "2026-06-20T08:35:32+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2068247104301183365",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "如果只是追求文字的清晰度和中文渲染效果的话，试了一下，GPT 确实是最好的。 但是 GPT 的原始分辨率又确实太低，如果用图像超分的一些手段，一旦涉及到超分模型（而不是纯粹的超分算法），反而会破坏文字，而且破坏得更多。",
+      "url": "https://x.com/op7418/status/2068247104301183365",
+      "images": null,
+      "published": "2026-06-20T08:18:30+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2068245684474819015",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "测试了一下 Nano Banana Pro。 上面那张图是 Nano Banana 2 做的。 Nano Banana Pro 明显指令遵循更好，优化更少，文字错误也没有那么离谱。 可以用 Nano Banana Pro，下面那张图左边是 GPT，右边是 Nano Banana Pro",
+      "url": "https://x.com/op7418/status/2068245684474819015",
+      "images": null,
+      "published": "2026-06-20T08:12:51+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2068244996701257817",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "左边 GPT 右边 Nana Banana ，一个 1K 一个 4K 画风问题看自己喜好了，我很不喜欢 GPT 那种过度的毛躁的细节",
+      "url": "https://x.com/op7418/status/2068244996701257817",
+      "images": null,
+      "published": "2026-06-20T08:10:08+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2068243752028942409",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "文字这个没办法，字少的图可以这么搞，字多的都会有错字",
+      "url": "https://x.com/op7418/status/2068243752028942409",
+      "images": null,
+      "published": "2026-06-20T08:05:11+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2068239294372987378",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "用 Nano Banana 去超分放大 GPT-Image-2.0 图片 GPT 生成的图片很多时候会有这种毛躁的感觉，特别是一些非写实的图片，会有这种破碎的纹路和纹理，非常影响观感，而且一眼就能看出来是 GPT 生成的。 其实可以用 Nano Banana 去放大 GPT 生成的图像，去掉那种破碎感和无意义的细节，增加更多有意义的细节，同时让文字和细节更锐利、更清晰。 下面左边的是 GPT 生成的，右边的是 Nano Banana 放大的。 提示词：帮我将这张图片重绘和清晰化，让他细节更丰富，同时去掉原图中杂乱不必要的细节",
+      "url": "https://x.com/op7418/status/2068239294372987378",
+      "images": null,
+      "published": "2026-06-20T07:47:28+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_0JIbgZ544wU",
       "source": "OpenAI",
@@ -119,57 +289,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2067885932897038780",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "唐老师和马斯克关于国内开源版本的 Fable 5 级别模型会在什么时候出现的对话，看起来我们不需要等到 27 年了 jietang (@jietang) won’t take that long — https://nitter.net/jietang/status/2067580270078030088#m",
-      "url": "https://x.com/op7418/status/2067885932897038780",
-      "images": null,
-      "published": "2026-06-19T08:23:20+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2067884713340252646",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Bear 团队推出了一款新的独立的 Markdown 本地编辑器Lettera 目前正在免费测试，可以试试 Bear - Markdown Notes (@BearNotesApp) Meet Lettera. A native, file-based Markdown editor for Mac. Now in Beta. lettera.md — https://nitter.net/BearNotesApp/status/2067591320508440804#m",
-      "url": "https://x.com/op7418/status/2067884713340252646",
-      "images": null,
-      "published": "2026-06-19T08:18:29+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2067882172397265036",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "梦珂老师又回推特了 Mengke Wang (@MengkePM) — https://nitter.net/MengkePM/status/2067507383824253019#m",
-      "url": "https://x.com/op7418/status/2067882172397265036",
-      "images": null,
-      "published": "2026-06-19T08:08:23+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_UxY8zJKRrHU",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -202,40 +321,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2067651452227764458",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "GPT-5.6 快来了 🚨 AI News | TestingCatalog (@testingcatalog) OPENAI 🔥: GPT-5.6 model family is being prepared for the upcoming release, as GPT-5.6-Pro has been spotted in testing. Soon 👀 — https://nitter.net/testingcatalog/status/2067649489293185267#m",
-      "url": "https://x.com/op7418/status/2067651452227764458",
-      "images": null,
-      "published": "2026-06-18T16:51:35+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2067612425957040406",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "来了！ 那个游戏将于 6 月 25 号开启预售 Rockstar Games (@RockstarGames) Pre-orders for Grand Theft Auto VI will officially begin on June 25 on digital storefronts and at other select retailers. Check out the official cover art, also available as downloadable artwork at rockstargames.com/VI Video — https://nitter.net/RockstarGames/status/2067594067030979053#m",
-      "url": "https://x.com/op7418/status/2067612425957040406",
-      "images": null,
-      "published": "2026-06-18T14:16:31+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2067593664927248697",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -250,74 +335,6 @@
       "url": "https://x.com/benln/status/2067593664927248697",
       "images": null,
       "published": "2026-06-18T13:01:58+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2067432296127557888",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Character AI 的前 CEO，transformer 论文的作者之一，MoE 架构的提出者 Noam Shazeer，加入了 OpenAI，进行模型架构研究。 谷歌之前用 27 亿美元收购了 Character 换他加入谷歌，结果这呆了没多久就跑到Open AI 了 Noam Shazeer (@NoamShazeer) I’m excited to share that I’ll be joining OpenAI and look forward to working with the exceptional team there. It was a difficult decision to move on. I’m incredibly proud of the amazing team at Google and everything we’ve built together. It has been an honor and a pleasure to work with all of you. — https://nitter.net/NoamShazeer/status/2067400851438932297#m",
-      "url": "https://x.com/op7418/status/2067432296127557888",
-      "images": null,
-      "published": "2026-06-18T02:20:45+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2067426863308591523",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "啊？没人能想到 Midjourney 发布的硬件是这个东西。 他们成立了一个新的部门叫 Midjourney 医疗，发布的第一款硬件设备是一款人体扫描设备。 Video",
-      "url": "https://x.com/op7418/status/2067426863308591523",
-      "images": null,
-      "published": "2026-06-18T01:59:09+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2067426345693622675",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "双重重置 codex 除了他们给你进行了一次重置以外，还帮你存了一次重置 Tibo (@thsottiaux) Dearest gentle codexer. We did a sneaky double reset. Not only do you get a full reset on us. But you are also getting one into the reset bank to use at your own leisure. Enjoy — https://nitter.net/thsottiaux/status/2067399435009622521#m",
-      "url": "https://x.com/op7418/status/2067426345693622675",
-      "images": null,
-      "published": "2026-06-18T01:57:06+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2067308157026882001",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "G7 AI 领域午餐会，头部的几家 AI公司负责人都在了。 当然焦点还是 Anthropic 的 Dario，哥们看着老尴尬了 Video",
-      "url": "https://x.com/op7418/status/2067308157026882001",
-      "images": null,
-      "published": "2026-06-17T18:07:28+00:00",
       "hasTranscript": false
     },
     {
@@ -382,29 +399,12 @@
         "Business",
         "AI"
       ],
-      "title": "How To Pick A Startup Idea",
+      "title": "Pick One Idea and Go Deep",
       "url": "https://www.youtube.com/watch?v=R56RJFZBasQ",
       "thumbnail": "https://img.youtube.com/vi/R56RJFZBasQ/maxresdefault.jpg",
       "published": "2026-06-17T14:00:15+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2067190464449749255",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "即梦上了 Seedance 2.0 Mini，便宜了不少 可以玩玩了",
-      "url": "https://x.com/op7418/status/2067190464449749255",
-      "images": null,
-      "published": "2026-06-17T10:19:47+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_RMDJ23u1FZc",
