@@ -1,0 +1,894 @@
+{
+  "source": "youtube_caption",
+  "language": "en",
+  "full_text": "Hello world. It's Suriraj and I built an AI slop detector with Juny AI. You can see it running right here in my Chrome web browser. It detected 50% of this Wikipedia page as slop. It also detected this entire YouTube video as slop. It even detected this research paper as mostly slop. And I actually use this every day in my Chrome web browser. It's free. It's open source. The code is in the GitHub link. And I built all of this with Juni AI, this incredible AI agent that runs inside of JetBrains IDE, the Java IntelligJ idea. And in this video, I'm going to show you why I built this thing, how I built it, so you can build your own. And at the end, I'm going to go over my vision of the future of the web and AI. So stick around for that. Let's define the problem before we tackle it, shall we? So the problem is slop. And slop, we're going to define slop as low information density. Specifically, this formula right here. Density, the how dense some information is is equal to the number of verifiable claims that it's making over how long it is. So slop isn't just bad writing. It is a measurable lack of signal. It's text generated to occupy space rather than convey meaning and it's characterized by very high predictability and a deficit of verifiable claims. We're looking for a deterministic pipeline, one that's repeatable that can convert this fuzzy pros into structured assertions. We want a machine that converts whatever we give it into verifiable claims that are that gives us a score. How much can we trust this out of a hundred? And we can imagine this as something in Chrome that just pops up wherever we go and it just tells us like how truthful, how much slop is it. We're going to call it a slop score and this is going to be the slop shield. It it prevents slop from reaching us by telling us whether or not how sloppy something is. So we will go to Juny. We will go to the IntelliJ IDE. So using Juny in this editor, I'm going to ask it this first prompt right off the dome. And I'm using Whisper Flow to convert my voice to text. I encourage you not to type anymore. Use your voice. Um, that's where we're at now. So, let's get started in auto mode. So, it's going to select the best way to do this. Juny Juny will do this for me. And brave mode. I I always want to do brave mode. I don't care about asking me permissions. Just go fully autonomous AI and think more because I want maximum reasoning capability. All right. So Juny, I need you to build me this AI slop score detector for Chrome. I want it to be a Chrome extension. I want it to work on the first try. So that was quite a long prompt, but it is now running. And you could see it's sending the LLM request. It's getting the file structure ready. You can see it already working. And it runs. It works in a really unique way. I I like the way that Juny works in that it plans very carefully. It doesn't just go and sometimes you need something that's going to really plan before you build. It tends to take its time with thinking because it's doing a lot. So you can see it building from the manifest.json and the slop shield. So I'm going to time this and I'll just cut this building part and we'll be right back when we have this first version working. Okay, we have the first version working. That took about 4 minutes and 30 seconds, which is amazing. You could see it in Chrome right here. Yeah, it's got a bunch of descriptions of why it thinks it's slopp. Few concrete entities, low lexical variety, repeated three grams, template phrases, flat sentence cadence. I didn't think of any of this. It decided all of that for me. I gave it the highle instructions. But I noticed that if we go to research papers that I know are slop, it's not really detecting them. So, we need to improve this. So, let's let's get back to improving this to be better than it is now. What we need to do is use an AI instead of just plain heruristics. So instead of having rules, we need an AI that has values. And those values, it it uses its reasoning and its judgment, its best judgment to decide whether or not something is slop or not. And some of those values could be falsifiability. Does this tea text make claims that can be checked against external reality or epistemic modesty? Does the text acknowledge uncertainty where appropriate or does it hallucinate confidence? So, we need to encode these values into the AI. And the way we do that, it's really simple. Just a simple prompt that we text it uh a system prompt. And I know this might seem trivial, but it's not. Anthropic, a multi-billion dollar company that's going to IPO this year, just put out its constitution. I recommend you read it. It's like 30 pages long. I read it all. They understand how important it is to write out your values to the AI as it becomes more and more self-aware. We now have our new version. It's going to use local AI judgment, a 7 billion parameter model that's running locally. Quen that is going to be quantized, so it's super small and running on about 4 GB of VRAM. It's going to be private by design. It's all local and it's going to have the that constitutional judge, the the system prompt that we give it. Thank you for building this first version. I love it, but it's not good enough. It's brittle. I need to use a local AI to account for the failings of heruristics. And what I need is as as accurate a slop score detector as you possibly can. Use a 7 billion parameter model and have it be local. Use a Chinese model like Quen. And I want it to work. Don't come back to me until this don't come back to me until this is done. All right. Okay. So it's using Olama which is a local very popular local AI inference engine to run Quen locally and that is part of the model and I can go to Chrome. I can see this slop shield. It's now working much better. It's using this 7 billion parameter model my own AI to defend me against slop. And I actually use this every day. I love this thing. You can use it yourself. It's free. It's open source. This depends on all of us. We are going to continue to get disloification of the internet, but it's up to you and it's up to me to use our own AIs to defend against them. The best defense is a great offense. We all need our own AIs that we are building for ourselves to parse reality, to parse claims, to understand the web, to do all of this for us. I really want to thank Juny for sponsoring this video. I love Juny. It is an incredible coding assistant. You should try it out. Link to Juny is in the video description. And last question for you, what field or industry do you think needs slop detection the most? Let me know your thoughts in the comments. I'm here for a conversation. And until next time, happy verifying.",
+  "segments": [
+    {
+      "start": 0.24,
+      "end": 6.72,
+      "text": "Hello world. It's Suriraj and I built an"
+    },
+    {
+      "start": 3.04,
+      "end": 9.2,
+      "text": "AI slop detector with Juny AI. You can"
+    },
+    {
+      "start": 6.72,
+      "end": 12.4,
+      "text": "see it running right here in my Chrome"
+    },
+    {
+      "start": 9.2,
+      "end": 16.0,
+      "text": "web browser. It detected 50% of this"
+    },
+    {
+      "start": 12.4,
+      "end": 19.52,
+      "text": "Wikipedia page as slop. It also detected"
+    },
+    {
+      "start": 16.0,
+      "end": 22.8,
+      "text": "this entire YouTube video as slop. It"
+    },
+    {
+      "start": 19.52,
+      "end": 26.16,
+      "text": "even detected this research paper as"
+    },
+    {
+      "start": 22.8,
+      "end": 28.96,
+      "text": "mostly slop. And I actually use this"
+    },
+    {
+      "start": 26.16,
+      "end": 31.52,
+      "text": "every day in my Chrome web browser. It's"
+    },
+    {
+      "start": 28.96,
+      "end": 33.6,
+      "text": "free. It's open source. The code is in"
+    },
+    {
+      "start": 31.52,
+      "end": 37.2,
+      "text": "the GitHub link. And I built all of this"
+    },
+    {
+      "start": 33.6,
+      "end": 40.88,
+      "text": "with Juni AI, this incredible AI agent"
+    },
+    {
+      "start": 37.2,
+      "end": 44.64,
+      "text": "that runs inside of JetBrains IDE, the"
+    },
+    {
+      "start": 40.88,
+      "end": 47.2,
+      "text": "Java IntelligJ idea. And in this video,"
+    },
+    {
+      "start": 44.64,
+      "end": 49.6,
+      "text": "I'm going to show you why I built this"
+    },
+    {
+      "start": 47.2,
+      "end": 51.36,
+      "text": "thing, how I built it, so you can build"
+    },
+    {
+      "start": 49.6,
+      "end": 53.76,
+      "text": "your own. And at the end, I'm going to"
+    },
+    {
+      "start": 51.36,
+      "end": 56.56,
+      "text": "go over my vision of the future of the"
+    },
+    {
+      "start": 53.76,
+      "end": 58.64,
+      "text": "web and AI. So stick around for that."
+    },
+    {
+      "start": 56.56,
+      "end": 60.8,
+      "text": "Let's define the problem before we"
+    },
+    {
+      "start": 58.64,
+      "end": 63.04,
+      "text": "tackle it, shall we? So the problem is"
+    },
+    {
+      "start": 60.8,
+      "end": 67.04,
+      "text": "slop. And slop, we're going to define"
+    },
+    {
+      "start": 63.04,
+      "end": 69.2,
+      "text": "slop as low information density."
+    },
+    {
+      "start": 67.04,
+      "end": 72.0,
+      "text": "Specifically, this formula right here."
+    },
+    {
+      "start": 69.2,
+      "end": 75.12,
+      "text": "Density, the how dense some information"
+    },
+    {
+      "start": 72.0,
+      "end": 78.0,
+      "text": "is is equal to the number of verifiable"
+    },
+    {
+      "start": 75.12,
+      "end": 81.12,
+      "text": "claims that it's making over how long it"
+    },
+    {
+      "start": 78.0,
+      "end": 84.0,
+      "text": "is. So slop isn't just bad writing. It"
+    },
+    {
+      "start": 81.12,
+      "end": 87.04,
+      "text": "is a measurable lack of signal. It's"
+    },
+    {
+      "start": 84.0,
+      "end": 88.88,
+      "text": "text generated to occupy space rather"
+    },
+    {
+      "start": 87.04,
+      "end": 90.56,
+      "text": "than convey meaning and it's"
+    },
+    {
+      "start": 88.88,
+      "end": 93.2,
+      "text": "characterized by very high"
+    },
+    {
+      "start": 90.56,
+      "end": 95.76,
+      "text": "predictability and a deficit of"
+    },
+    {
+      "start": 93.2,
+      "end": 97.6,
+      "text": "verifiable claims. We're looking for a"
+    },
+    {
+      "start": 95.76,
+      "end": 100.08,
+      "text": "deterministic pipeline, one that's"
+    },
+    {
+      "start": 97.6,
+      "end": 103.12,
+      "text": "repeatable that can convert this fuzzy"
+    },
+    {
+      "start": 100.08,
+      "end": 105.12,
+      "text": "pros into structured assertions. We want"
+    },
+    {
+      "start": 103.12,
+      "end": 108.8,
+      "text": "a machine that converts whatever we give"
+    },
+    {
+      "start": 105.12,
+      "end": 111.44,
+      "text": "it into verifiable claims that are that"
+    },
+    {
+      "start": 108.8,
+      "end": 114.8,
+      "text": "gives us a score. How much can we trust"
+    },
+    {
+      "start": 111.44,
+      "end": 116.56,
+      "text": "this out of a hundred? And we can"
+    },
+    {
+      "start": 114.8,
+      "end": 118.32,
+      "text": "imagine this as something in Chrome that"
+    },
+    {
+      "start": 116.56,
+      "end": 120.16,
+      "text": "just pops up wherever we go and it just"
+    },
+    {
+      "start": 118.32,
+      "end": 121.76,
+      "text": "tells us like how truthful, how much"
+    },
+    {
+      "start": 120.16,
+      "end": 123.84,
+      "text": "slop is it. We're going to call it a"
+    },
+    {
+      "start": 121.76,
+      "end": 125.92,
+      "text": "slop score and this is going to be the"
+    },
+    {
+      "start": 123.84,
+      "end": 127.76,
+      "text": "slop shield. It it prevents slop from"
+    },
+    {
+      "start": 125.92,
+      "end": 129.84,
+      "text": "reaching us by telling us whether or not"
+    },
+    {
+      "start": 127.76,
+      "end": 133.04,
+      "text": "how sloppy something is. So we will go"
+    },
+    {
+      "start": 129.84,
+      "end": 135.6,
+      "text": "to Juny. We will go to the IntelliJ IDE."
+    },
+    {
+      "start": 133.04,
+      "end": 137.36,
+      "text": "So using Juny in this editor, I'm going"
+    },
+    {
+      "start": 135.6,
+      "end": 139.6,
+      "text": "to ask it this first prompt right off"
+    },
+    {
+      "start": 137.36,
+      "end": 141.28,
+      "text": "the dome. And I'm using Whisper Flow to"
+    },
+    {
+      "start": 139.6,
+      "end": 143.76,
+      "text": "convert my voice to text. I encourage"
+    },
+    {
+      "start": 141.28,
+      "end": 145.44,
+      "text": "you not to type anymore. Use your voice."
+    },
+    {
+      "start": 143.76,
+      "end": 147.68,
+      "text": "Um, that's where we're at now. So, let's"
+    },
+    {
+      "start": 145.44,
+      "end": 151.12,
+      "text": "get started in auto mode. So, it's going"
+    },
+    {
+      "start": 147.68,
+      "end": 153.2,
+      "text": "to select the best way to do this. Juny"
+    },
+    {
+      "start": 151.12,
+      "end": 155.28,
+      "text": "Juny will do this for me. And brave"
+    },
+    {
+      "start": 153.2,
+      "end": 157.6,
+      "text": "mode. I I always want to do brave mode."
+    },
+    {
+      "start": 155.28,
+      "end": 160.24,
+      "text": "I don't care about asking me"
+    },
+    {
+      "start": 157.6,
+      "end": 162.16,
+      "text": "permissions. Just go fully autonomous AI"
+    },
+    {
+      "start": 160.24,
+      "end": 164.08,
+      "text": "and think more because I want maximum"
+    },
+    {
+      "start": 162.16,
+      "end": 167.44,
+      "text": "reasoning capability. All right. So"
+    },
+    {
+      "start": 164.08,
+      "end": 170.0,
+      "text": "Juny, I need you to build me this AI"
+    },
+    {
+      "start": 167.44,
+      "end": 171.6,
+      "text": "slop score detector for Chrome. I want"
+    },
+    {
+      "start": 170.0,
+      "end": 175.48,
+      "text": "it to be a Chrome extension. I want it"
+    },
+    {
+      "start": 171.6,
+      "end": 175.48,
+      "text": "to work on the first try."
+    },
+    {
+      "start": 175.68,
+      "end": 180.0,
+      "text": "So that was quite a long prompt, but it"
+    },
+    {
+      "start": 178.08,
+      "end": 182.08,
+      "text": "is now running. And you could see it's"
+    },
+    {
+      "start": 180.0,
+      "end": 184.48,
+      "text": "sending the LLM request. It's getting"
+    },
+    {
+      "start": 182.08,
+      "end": 186.16,
+      "text": "the file structure ready. You can see it"
+    },
+    {
+      "start": 184.48,
+      "end": 188.08,
+      "text": "already working. And it runs. It works"
+    },
+    {
+      "start": 186.16,
+      "end": 191.68,
+      "text": "in a really unique way. I I like the way"
+    },
+    {
+      "start": 188.08,
+      "end": 193.44,
+      "text": "that Juny works in that it plans very"
+    },
+    {
+      "start": 191.68,
+      "end": 194.48,
+      "text": "carefully. It doesn't just go and"
+    },
+    {
+      "start": 193.44,
+      "end": 196.48,
+      "text": "sometimes you need something that's"
+    },
+    {
+      "start": 194.48,
+      "end": 198.88,
+      "text": "going to really plan before you build."
+    },
+    {
+      "start": 196.48,
+      "end": 201.76,
+      "text": "It tends to take its time with thinking"
+    },
+    {
+      "start": 198.88,
+      "end": 203.84,
+      "text": "because it's doing a lot. So you can see"
+    },
+    {
+      "start": 201.76,
+      "end": 205.68,
+      "text": "it building from the manifest.json and"
+    },
+    {
+      "start": 203.84,
+      "end": 208.0,
+      "text": "the slop shield. So I'm going to time"
+    },
+    {
+      "start": 205.68,
+      "end": 209.6,
+      "text": "this and I'll just cut this building"
+    },
+    {
+      "start": 208.0,
+      "end": 211.84,
+      "text": "part and we'll be right back when we"
+    },
+    {
+      "start": 209.6,
+      "end": 213.36,
+      "text": "have this first version working. Okay,"
+    },
+    {
+      "start": 211.84,
+      "end": 215.44,
+      "text": "we have the first version working. That"
+    },
+    {
+      "start": 213.36,
+      "end": 217.2,
+      "text": "took about 4 minutes and 30 seconds,"
+    },
+    {
+      "start": 215.44,
+      "end": 219.68,
+      "text": "which is amazing. You could see it in"
+    },
+    {
+      "start": 217.2,
+      "end": 222.0,
+      "text": "Chrome right here. Yeah, it's got a"
+    },
+    {
+      "start": 219.68,
+      "end": 224.32,
+      "text": "bunch of descriptions of why it thinks"
+    },
+    {
+      "start": 222.0,
+      "end": 227.36,
+      "text": "it's slopp. Few concrete entities, low"
+    },
+    {
+      "start": 224.32,
+      "end": 230.16,
+      "text": "lexical variety, repeated three grams,"
+    },
+    {
+      "start": 227.36,
+      "end": 231.84,
+      "text": "template phrases, flat sentence cadence."
+    },
+    {
+      "start": 230.16,
+      "end": 233.52,
+      "text": "I didn't think of any of this. It"
+    },
+    {
+      "start": 231.84,
+      "end": 235.92,
+      "text": "decided all of that for me. I gave it"
+    },
+    {
+      "start": 233.52,
+      "end": 238.4,
+      "text": "the highle instructions. But I noticed"
+    },
+    {
+      "start": 235.92,
+      "end": 240.56,
+      "text": "that if we go to research papers that I"
+    },
+    {
+      "start": 238.4,
+      "end": 243.04,
+      "text": "know are slop, it's not really detecting"
+    },
+    {
+      "start": 240.56,
+      "end": 244.88,
+      "text": "them. So, we need to improve this. So,"
+    },
+    {
+      "start": 243.04,
+      "end": 246.64,
+      "text": "let's let's get back to improving this"
+    },
+    {
+      "start": 244.88,
+      "end": 248.8,
+      "text": "to be better than it is now. What we"
+    },
+    {
+      "start": 246.64,
+      "end": 250.88,
+      "text": "need to do is use an AI instead of just"
+    },
+    {
+      "start": 248.8,
+      "end": 253.68,
+      "text": "plain heruristics. So instead of having"
+    },
+    {
+      "start": 250.88,
+      "end": 255.92,
+      "text": "rules, we need an AI that has values."
+    },
+    {
+      "start": 253.68,
+      "end": 258.08,
+      "text": "And those values, it it uses its"
+    },
+    {
+      "start": 255.92,
+      "end": 260.08,
+      "text": "reasoning and its judgment, its best"
+    },
+    {
+      "start": 258.08,
+      "end": 263.44,
+      "text": "judgment to decide whether or not"
+    },
+    {
+      "start": 260.08,
+      "end": 265.68,
+      "text": "something is slop or not. And some of"
+    },
+    {
+      "start": 263.44,
+      "end": 268.32,
+      "text": "those values could be falsifiability."
+    },
+    {
+      "start": 265.68,
+      "end": 271.04,
+      "text": "Does this tea text make claims that can"
+    },
+    {
+      "start": 268.32,
+      "end": 273.68,
+      "text": "be checked against external reality or"
+    },
+    {
+      "start": 271.04,
+      "end": 275.6,
+      "text": "epistemic modesty? Does the text"
+    },
+    {
+      "start": 273.68,
+      "end": 278.24,
+      "text": "acknowledge uncertainty where"
+    },
+    {
+      "start": 275.6,
+      "end": 281.76,
+      "text": "appropriate or does it hallucinate"
+    },
+    {
+      "start": 278.24,
+      "end": 283.44,
+      "text": "confidence? So, we need to encode these"
+    },
+    {
+      "start": 281.76,
+      "end": 285.36,
+      "text": "values into the AI. And the way we do"
+    },
+    {
+      "start": 283.44,
+      "end": 287.44,
+      "text": "that, it's really simple. Just a simple"
+    },
+    {
+      "start": 285.36,
+      "end": 289.84,
+      "text": "prompt that we text it uh a system"
+    },
+    {
+      "start": 287.44,
+      "end": 292.24,
+      "text": "prompt. And I know this might seem"
+    },
+    {
+      "start": 289.84,
+      "end": 293.76,
+      "text": "trivial, but it's not. Anthropic, a"
+    },
+    {
+      "start": 292.24,
+      "end": 296.0,
+      "text": "multi-billion dollar company that's"
+    },
+    {
+      "start": 293.76,
+      "end": 297.92,
+      "text": "going to IPO this year, just put out its"
+    },
+    {
+      "start": 296.0,
+      "end": 301.12,
+      "text": "constitution. I recommend you read it."
+    },
+    {
+      "start": 297.92,
+      "end": 303.68,
+      "text": "It's like 30 pages long. I read it all."
+    },
+    {
+      "start": 301.12,
+      "end": 305.84,
+      "text": "They understand how important it is to"
+    },
+    {
+      "start": 303.68,
+      "end": 307.84,
+      "text": "write out your values to the AI as it"
+    },
+    {
+      "start": 305.84,
+      "end": 309.52,
+      "text": "becomes more and more self-aware. We now"
+    },
+    {
+      "start": 307.84,
+      "end": 312.32,
+      "text": "have our new version. It's going to use"
+    },
+    {
+      "start": 309.52,
+      "end": 315.28,
+      "text": "local AI judgment, a 7 billion parameter"
+    },
+    {
+      "start": 312.32,
+      "end": 317.6,
+      "text": "model that's running locally. Quen that"
+    },
+    {
+      "start": 315.28,
+      "end": 321.52,
+      "text": "is going to be quantized, so it's super"
+    },
+    {
+      "start": 317.6,
+      "end": 323.6,
+      "text": "small and running on about 4 GB of VRAM."
+    },
+    {
+      "start": 321.52,
+      "end": 325.36,
+      "text": "It's going to be private by design. It's"
+    },
+    {
+      "start": 323.6,
+      "end": 327.44,
+      "text": "all local and it's going to have the"
+    },
+    {
+      "start": 325.36,
+      "end": 328.96,
+      "text": "that constitutional judge, the the"
+    },
+    {
+      "start": 327.44,
+      "end": 330.88,
+      "text": "system prompt that we give it. Thank you"
+    },
+    {
+      "start": 328.96,
+      "end": 332.64,
+      "text": "for building this first version. I love"
+    },
+    {
+      "start": 330.88,
+      "end": 335.52,
+      "text": "it, but it's not good enough. It's"
+    },
+    {
+      "start": 332.64,
+      "end": 338.24,
+      "text": "brittle. I need to use a local AI to"
+    },
+    {
+      "start": 335.52,
+      "end": 341.36,
+      "text": "account for the failings of heruristics."
+    },
+    {
+      "start": 338.24,
+      "end": 343.36,
+      "text": "And what I need is as as accurate a slop"
+    },
+    {
+      "start": 341.36,
+      "end": 345.92,
+      "text": "score detector as you possibly can. Use"
+    },
+    {
+      "start": 343.36,
+      "end": 348.4,
+      "text": "a 7 billion parameter model and have it"
+    },
+    {
+      "start": 345.92,
+      "end": 350.24,
+      "text": "be local. Use a Chinese model like Quen."
+    },
+    {
+      "start": 348.4,
+      "end": 351.92,
+      "text": "And I want it to work. Don't come back"
+    },
+    {
+      "start": 350.24,
+      "end": 353.84,
+      "text": "to me until this don't come back to me"
+    },
+    {
+      "start": 351.92,
+      "end": 356.32,
+      "text": "until this is done. All right. Okay. So"
+    },
+    {
+      "start": 353.84,
+      "end": 359.68,
+      "text": "it's using Olama which is a local very"
+    },
+    {
+      "start": 356.32,
+      "end": 362.56,
+      "text": "popular local AI inference engine to run"
+    },
+    {
+      "start": 359.68,
+      "end": 364.64,
+      "text": "Quen locally and that is part of the"
+    },
+    {
+      "start": 362.56,
+      "end": 368.0,
+      "text": "model and I can go to Chrome. I can see"
+    },
+    {
+      "start": 364.64,
+      "end": 369.84,
+      "text": "this slop shield. It's now working much"
+    },
+    {
+      "start": 368.0,
+      "end": 372.56,
+      "text": "better. It's using this 7 billion"
+    },
+    {
+      "start": 369.84,
+      "end": 375.6,
+      "text": "parameter model my own AI to defend me"
+    },
+    {
+      "start": 372.56,
+      "end": 377.6,
+      "text": "against slop. And I actually use this"
+    },
+    {
+      "start": 375.6,
+      "end": 379.28,
+      "text": "every day. I love this thing. You can"
+    },
+    {
+      "start": 377.6,
+      "end": 382.48,
+      "text": "use it yourself. It's free. It's open"
+    },
+    {
+      "start": 379.28,
+      "end": 384.24,
+      "text": "source. This depends on all of us. We"
+    },
+    {
+      "start": 382.48,
+      "end": 386.72,
+      "text": "are going to continue to get"
+    },
+    {
+      "start": 384.24,
+      "end": 388.8,
+      "text": "disloification of the internet, but it's"
+    },
+    {
+      "start": 386.72,
+      "end": 392.4,
+      "text": "up to you and it's up to me to use our"
+    },
+    {
+      "start": 388.8,
+      "end": 394.88,
+      "text": "own AIs to defend against them. The best"
+    },
+    {
+      "start": 392.4,
+      "end": 397.52,
+      "text": "defense is a great offense. We all need"
+    },
+    {
+      "start": 394.88,
+      "end": 400.0,
+      "text": "our own AIs that we are building for"
+    },
+    {
+      "start": 397.52,
+      "end": 402.48,
+      "text": "ourselves to parse reality, to parse"
+    },
+    {
+      "start": 400.0,
+      "end": 404.88,
+      "text": "claims, to understand the web, to do all"
+    },
+    {
+      "start": 402.48,
+      "end": 407.04,
+      "text": "of this for us. I really want to thank"
+    },
+    {
+      "start": 404.88,
+      "end": 408.88,
+      "text": "Juny for sponsoring this video. I love"
+    },
+    {
+      "start": 407.04,
+      "end": 410.88,
+      "text": "Juny. It is an incredible coding"
+    },
+    {
+      "start": 408.88,
+      "end": 413.6,
+      "text": "assistant. You should try it out. Link"
+    },
+    {
+      "start": 410.88,
+      "end": 416.4,
+      "text": "to Juny is in the video description. And"
+    },
+    {
+      "start": 413.6,
+      "end": 418.48,
+      "text": "last question for you, what field or"
+    },
+    {
+      "start": 416.4,
+      "end": 420.32,
+      "text": "industry do you think needs slop"
+    },
+    {
+      "start": 418.48,
+      "end": 422.24,
+      "text": "detection the most? Let me know your"
+    },
+    {
+      "start": 420.32,
+      "end": 424.88,
+      "text": "thoughts in the comments. I'm here for a"
+    },
+    {
+      "start": 422.24,
+      "end": 427.88,
+      "text": "conversation. And until next time, happy"
+    },
+    {
+      "start": 424.88,
+      "end": 427.88,
+      "text": "verifying."
+    }
+  ],
+  "word_count": 1289,
+  "fetched_at": "2026-04-04T01:51:59.105080Z"
+}
