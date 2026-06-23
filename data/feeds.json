@@ -1,7 +1,158 @@
 {
-  "last_updated": "2026-06-22T03:44:13.013179Z",
+  "last_updated": "2026-06-23T02:49:10.715176Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_GhCP2eDrKHk",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Meet the ChatGPT Futures, Class of 2026",
+      "url": "https://www.youtube.com/watch?v=GhCP2eDrKHk",
+      "thumbnail": "https://img.youtube.com/vi/GhCP2eDrKHk/maxresdefault.jpg",
+      "published": "2026-06-22T21:06:32+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2069123155558293781",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "This was less than 3.5 years ago:",
+      "url": "https://x.com/benln/status/2069123155558293781",
+      "images": null,
+      "published": "2026-06-22T18:19:37+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_27-GjDIWGo0",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "How Zendesk CEO Tom Eggemeier goes from Idea to Action",
+      "url": "https://www.youtube.com/watch?v=27-GjDIWGo0",
+      "thumbnail": "https://img.youtube.com/vi/27-GjDIWGo0/maxresdefault.jpg",
+      "published": "2026-06-22T17:45:36+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt__FBivfgOvuE",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "How to Get Your First 10 Customers",
+      "url": "https://www.youtube.com/watch?v=_FBivfgOvuE",
+      "thumbnail": "https://img.youtube.com/vi/_FBivfgOvuE/maxresdefault.jpg",
+      "published": "2026-06-22T16:54:40+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_yfafpyhB-8E",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund",
+      "url": "https://www.youtube.com/watch?v=yfafpyhB-8E",
+      "thumbnail": "https://img.youtube.com/vi/yfafpyhB-8E/maxresdefault.jpg",
+      "published": "2026-06-22T14:35:28+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2069045184063570378",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor community events in 200+ cities Reach out if your city's missing Video",
+      "url": "https://x.com/benln/status/2069045184063570378",
+      "images": null,
+      "published": "2026-06-22T13:09:47+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_LEPkmqIc9OU",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Replaced My Ad Agency With One AI. It Actually Worked.",
+      "url": "https://www.youtube.com/watch?v=LEPkmqIc9OU",
+      "thumbnail": "https://img.youtube.com/vi/LEPkmqIc9OU/maxresdefault.jpg",
+      "published": "2026-06-22T12:20:29+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2068919158486827425",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我会在 Tabbit AI 浏览器的“妙招大赛”上担任评委。 他们奖金还挺多的，而且门槛也不高，只要在 Tabbit 上创建妙招就可以。可以是那种提示词妙招，也可以是脚本妙招。 冠军最高会有一万块的奖金。如果你有一些自己的东西，可以找时间来试试。",
+      "url": "https://x.com/op7418/status/2068919158486827425",
+      "images": null,
+      "published": "2026-06-22T04:49:00+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2068902523914903929",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "小道消息，他没说来源 Anthropic 已经完成了一个更强的 Mythos 模型的训练 感觉训练是肯定不会停止的，就看是不是有了新的就会放出旧的了 Andrew Curran (@AndrewCurran_) A new, more capable version of Mythos has emerged from training. I don't know whether it will be called Mythos 5.1 or Mythos 6, or if Anthropic will keep it internal to accelerate further development - but it has arrived. Stopping models like Fable 5 or Mythos 5 from being served to the public does nothing to slow down development. In fact, it probably speeds it up slightly by freeing up resources. There are also no rules preventing the labs from continuing to advance capabilities while any current model is under embargo - or from keeping progress quiet until they choose to release it. None of them can afford to pause or slow down. We need only look at how capable GLM-5.2 is as proof of this. To protect their business models, the frontier labs must continually train increasingly capable systems to stay ahead of open source, and each other. The current continues to rage beneath the ice, and we continue to race toward our destination. — https://nitter.net/AndrewCurran_/status/2068748019030483365#m",
+      "url": "https://x.com/op7418/status/2068902523914903929",
+      "images": null,
+      "published": "2026-06-22T03:42:54+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2068769466519785636",
       "source": "Ben Lang",
@@ -187,40 +338,6 @@
       "url": "https://x.com/op7418/status/2068244996701257817",
       "images": null,
       "published": "2026-06-20T08:10:08+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2068243752028942409",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "文字这个没办法，字少的图可以这么搞，字多的都会有错字",
-      "url": "https://x.com/op7418/status/2068243752028942409",
-      "images": null,
-      "published": "2026-06-20T08:05:11+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2068239294372987378",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "用 Nano Banana 去超分放大 GPT-Image-2.0 图片 GPT 生成的图片很多时候会有这种毛躁的感觉，特别是一些非写实的图片，会有这种破碎的纹路和纹理，非常影响观感，而且一眼就能看出来是 GPT 生成的。 其实可以用 Nano Banana 去放大 GPT 生成的图像，去掉那种破碎感和无意义的细节，增加更多有意义的细节，同时让文字和细节更锐利、更清晰。 下面左边的是 GPT 生成的，右边的是 Nano Banana 放大的。 提示词：帮我将这张图片重绘和清晰化，让他细节更丰富，同时去掉原图中杂乱不必要的细节",
-      "url": "https://x.com/op7418/status/2068239294372987378",
-      "images": null,
-      "published": "2026-06-20T07:47:28+00:00",
       "hasTranscript": false
     },
     {
@@ -492,23 +609,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2066931495072395453",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Build your own keyboard at Compile",
-      "url": "https://x.com/benln/status/2066931495072395453",
-      "images": null,
-      "published": "2026-06-16T17:10:44+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_CFqjjKp9Y-Q",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -525,23 +625,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2066921791973708004",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Big day for Cursor! Excited to build together in this next phase. SpaceX (@SpaceX) SpaceX has exercised the option to acquire @cursor_ai in an all-stock transaction with the goal of building the world’s most useful AI models. For the past few months, SpaceXAI has been jointly training a model with Cursor, which will be released in Cursor and Grok Build soon. We look forward to working closely with the Cursor team to advance our frontier AI capabilities — https://nitter.net/SpaceX/status/2066873915717136548#m",
-      "url": "https://x.com/benln/status/2066921791973708004",
-      "images": null,
-      "published": "2026-06-16T16:32:11+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_u9zLlcsCDiQ",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -554,38 +637,6 @@
       "url": "https://www.youtube.com/watch?v=u9zLlcsCDiQ",
       "thumbnail": "https://img.youtube.com/vi/u9zLlcsCDiQ/maxresdefault.jpg",
       "published": "2026-06-15T23:20:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_TDM2Dz_MuPk",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "How Wayfair Uses GPT-5.5 to Power Catalog Enrichment Across 40M Products",
-      "url": "https://www.youtube.com/watch?v=TDM2Dz_MuPk",
-      "thumbnail": "https://img.youtube.com/vi/TDM2Dz_MuPk/maxresdefault.jpg",
-      "published": "2026-06-15T18:02:23+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt__jNbM8pV9oI",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Codex as a Solutions Engineering Partner",
-      "url": "https://www.youtube.com/watch?v=_jNbM8pV9oI",
-      "thumbnail": "https://img.youtube.com/vi/_jNbM8pV9oI/maxresdefault.jpg",
-      "published": "2026-06-15T13:03:41+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -775,23 +826,6 @@
       "url": "https://www.youtube.com/watch?v=ywS7Ytkx3A0",
       "thumbnail": "https://img.youtube.com/vi/ywS7Ytkx3A0/maxresdefault.jpg",
       "published": "2026-06-05T19:52:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_mjmswQurIU4",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How Legora Went From YC to $100M ARR in 18 Months",
-      "url": "https://www.youtube.com/watch?v=mjmswQurIU4",
-      "thumbnail": "https://img.youtube.com/vi/mjmswQurIU4/maxresdefault.jpg",
-      "published": "2026-06-05T14:30:09+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1052,23 +1086,6 @@
       "url": "https://www.youtube.com/watch?v=9qqLihL4AWk",
       "thumbnail": "https://img.youtube.com/vi/9qqLihL4AWk/maxresdefault.jpg",
       "published": "2026-05-12T14:00:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_k1z0e7bGzq0",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Marc Andreessen’s Worldview in 60 Minutes | Live on MTS",
-      "url": "https://www.youtube.com/watch?v=k1z0e7bGzq0",
-      "thumbnail": "https://img.youtube.com/vi/k1z0e7bGzq0/maxresdefault.jpg",
-      "published": "2026-05-11T14:30:11+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1349,23 +1366,6 @@
       "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
       "thumbnail": "https://img.youtube.com/vi/1SJiTwbSI58/maxresdefault.jpg",
       "published": "2026-03-01T03:37:44+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Erxh0dx4nts",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "This AI Taught Me Calculus in 5 Minutes",
-      "url": "https://www.youtube.com/watch?v=Erxh0dx4nts",
-      "thumbnail": "https://img.youtube.com/vi/Erxh0dx4nts/maxresdefault.jpg",
-      "published": "2026-02-27T11:41:37+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
