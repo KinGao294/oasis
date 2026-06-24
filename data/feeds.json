@@ -1,7 +1,124 @@
 {
-  "last_updated": "2026-06-23T02:49:10.715176Z",
+  "last_updated": "2026-06-24T02:49:33.342209Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_mVpCDzoNtxA",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "ChatGPT Futures, Class of 2026: The Next Generation of AI Leaders",
+      "url": "https://www.youtube.com/watch?v=mVpCDzoNtxA",
+      "thumbnail": "https://img.youtube.com/vi/mVpCDzoNtxA/maxresdefault.jpg",
+      "published": "2026-06-23T18:45:29+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2069424221399519238",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "测了一下，没想到 Seed 2.1 Pro 还不错啊 补上了 Agent 和 Coding 短板的豆包应该会成为我日后关于内容创作的主要模型。 更多的案例和提示词在文章里 Video 歸藏(guizang.ai) (@op7418) Article Seed 2.1 Pro 测评，终于能胜任 Agent 工作了 今天 Seed 2.1 Pro 正式发布，我提前用它做了一些测试。 它能不能进 Agent 工作流？ 这次我最关心一件事：它能不能进真实的 Agent 工作流。 跑下来，我觉得答案是能。 以前很多人对它的印象，可能还停留在基础问答： — https://nitter.net/op7418/status/2069423803957146077#m",
+      "url": "https://x.com/op7418/status/2069424221399519238",
+      "images": null,
+      "published": "2026-06-23T14:15:57+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2069423803957146077",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Article Seed 2.1 Pro 测评，终于能胜任 Agent 工作了 今天 Seed 2.1 Pro 正式发布，我提前用它做了一些测试。 它能不能进 Agent 工作流？ 这次我最关心一件事：它能不能进真实的 Agent 工作流。 跑下来，我觉得答案是能。 以前很多人对它的印象，可能还停留在基础问答：",
+      "url": "https://x.com/op7418/status/2069423803957146077",
+      "images": null,
+      "published": "2026-06-23T14:14:17+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2069409823674818728",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Kenya",
+      "url": "https://x.com/benln/status/2069409823674818728",
+      "images": null,
+      "published": "2026-06-23T13:18:44+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_qU5-komJ-GE",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "How Omio is building the future of conversational travel",
+      "url": "https://www.youtube.com/watch?v=qU5-komJ-GE",
+      "thumbnail": "https://img.youtube.com/vi/qU5-komJ-GE/maxresdefault.jpg",
+      "published": "2026-06-23T11:30:20+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2069273120830271569",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "视频信息和价格",
+      "url": "https://x.com/op7418/status/2069273120830271569",
+      "images": null,
+      "published": "2026-06-23T04:15:31+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2069272992664924426",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Seedance 2.0 的 4K 分辨率我已经在即梦上线。 看了一下，15 秒是 1200 积分，需要选择 Seedance VIP 版本。 4K 分辨率生成的视频码率为 50M，感觉是为那些做商业片和商业短剧的公司准备的。 Video",
+      "url": "https://x.com/op7418/status/2069272992664924426",
+      "images": null,
+      "published": "2026-06-23T04:15:01+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_GhCP2eDrKHk",
       "source": "OpenAI",
@@ -273,74 +390,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2068251392196915618",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这个更明显点，左边 GPT 右边 NanoBanana 2",
-      "url": "https://x.com/op7418/status/2068251392196915618",
-      "images": null,
-      "published": "2026-06-20T08:35:32+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2068247104301183365",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "如果只是追求文字的清晰度和中文渲染效果的话，试了一下，GPT 确实是最好的。 但是 GPT 的原始分辨率又确实太低，如果用图像超分的一些手段，一旦涉及到超分模型（而不是纯粹的超分算法），反而会破坏文字，而且破坏得更多。",
-      "url": "https://x.com/op7418/status/2068247104301183365",
-      "images": null,
-      "published": "2026-06-20T08:18:30+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2068245684474819015",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "测试了一下 Nano Banana Pro。 上面那张图是 Nano Banana 2 做的。 Nano Banana Pro 明显指令遵循更好，优化更少，文字错误也没有那么离谱。 可以用 Nano Banana Pro，下面那张图左边是 GPT，右边是 Nano Banana Pro",
-      "url": "https://x.com/op7418/status/2068245684474819015",
-      "images": null,
-      "published": "2026-06-20T08:12:51+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2068244996701257817",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "左边 GPT 右边 Nana Banana ，一个 1K 一个 4K 画风问题看自己喜好了，我很不喜欢 GPT 那种过度的毛躁的细节",
-      "url": "https://x.com/op7418/status/2068244996701257817",
-      "images": null,
-      "published": "2026-06-20T08:10:08+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_0JIbgZ544wU",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -588,55 +637,6 @@
       "url": "https://www.youtube.com/watch?v=RMDJ23u1FZc",
       "thumbnail": "https://img.youtube.com/vi/RMDJ23u1FZc/maxresdefault.jpg",
       "published": "2026-06-17T09:09:09+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2067014910249472357",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Join the waitlist for Cursor's newest product: Cursor (@cursor_ai) We're launching code storage and git hosting. Origin gives teams and agents a place to host, review, and collaborate on code. Available this fall. Join the waitlist. cursor.com/origin-waitlist Link Cursor · Origin A git forge for the agentic era. cursor.com — https://nitter.net/cursor_ai/status/2067012220832329782#m",
-      "url": "https://x.com/benln/status/2067014910249472357",
-      "images": null,
-      "published": "2026-06-16T22:42:12+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_CFqjjKp9Y-Q",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Why Tejal Patwardhan stopped underestimating the models - Episode 21",
-      "url": "https://www.youtube.com/watch?v=CFqjjKp9Y-Q",
-      "thumbnail": "https://img.youtube.com/vi/CFqjjKp9Y-Q/maxresdefault.jpg",
-      "published": "2026-06-16T17:00:02+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_u9zLlcsCDiQ",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Build and test iOS apps without leaving Codex",
-      "url": "https://www.youtube.com/watch?v=u9zLlcsCDiQ",
-      "thumbnail": "https://img.youtube.com/vi/u9zLlcsCDiQ/maxresdefault.jpg",
-      "published": "2026-06-15T23:20:32+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
