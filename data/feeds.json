@@ -1,7 +1,158 @@
 {
-  "last_updated": "2026-06-26T02:54:08.432903Z",
+  "last_updated": "2026-06-27T02:44:23.432770Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_JNu6c4G6q5M",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "This is New Media",
+      "url": "https://www.youtube.com/watch?v=JNu6c4G6q5M",
+      "thumbnail": "https://img.youtube.com/vi/JNu6c4G6q5M/maxresdefault.jpg",
+      "published": "2026-06-26T19:58:27+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_SPC_yCe1cUw",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Builders Unscripted: Ep. 4 - Pietro Schirano",
+      "url": "https://www.youtube.com/watch?v=SPC_yCe1cUw",
+      "thumbnail": "https://img.youtube.com/vi/SPC_yCe1cUw/maxresdefault.jpg",
+      "published": "2026-06-26T19:40:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2070554759896142280",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Moxt 更新了多agent编排的工作流。 支持自动一群 Agent 帮你协作完成任务，而且还能重复驱动完成更长的任务 Moxt (@moxt_ai) Today, most people use AI as a tool. Soon, everyone will have a team of Agents. Not one assistant working harder — specialized Agents, each with its own memory and skills, working in parallel to get real work done, alongside you. Video — https://nitter.net/moxt_ai/status/2069795365264515272#m",
+      "url": "https://x.com/op7418/status/2070554759896142280",
+      "images": null,
+      "published": "2026-06-26T17:08:18+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2070501406000222625",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Dubai",
+      "url": "https://x.com/benln/status/2070501406000222625",
+      "images": null,
+      "published": "2026-06-26T13:36:17+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_mFwWax5pLTs",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Verso, l'entreprise qui ne dort jamais",
+      "url": "https://www.youtube.com/watch?v=mFwWax5pLTs",
+      "thumbnail": "https://img.youtube.com/vi/mFwWax5pLTs/maxresdefault.jpg",
+      "published": "2026-06-26T11:00:22+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2070443534864498958",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "一个核心问题是，如果新模型或者前沿模型的推出放缓，那么 OpenAI 和 Anthropic 的收入增长也会放缓，那么整个 AI 领域的股票的涨幅可能就会不及预期，到时候就是两头堵。",
+      "url": "https://x.com/op7418/status/2070443534864498958",
+      "images": null,
+      "published": "2026-06-26T09:46:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2070356875833729099",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我感觉今年新发布的手机和电脑会出现配置不如去年，但价格却比去年更贵的情况",
+      "url": "https://x.com/op7418/status/2070356875833729099",
+      "images": null,
+      "published": "2026-06-26T04:01:59+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2070356490578460729",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "不知道我上回买 Max Studio 下面那条内容，讨论里的兄弟有多少买了的？",
+      "url": "https://x.com/op7418/status/2070356490578460729",
+      "images": null,
+      "published": "2026-06-26T04:00:27+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2070351443278864842",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "谁能想到这俩玩意成理财产品了呢 上面的 Mac Mini 买的时候 2800，现在官方起售价 5999 涨了 3200 下面的 Mac Studio 买的时候 17000，现在 22000，涨了 5000 太离谱了 歸藏(guizang.ai) (@op7418) 等等党难了，新款没到呢，旧款涨价了 — https://nitter.net/op7418/status/2070202385063186755#m",
+      "url": "https://x.com/op7418/status/2070351443278864842",
+      "images": null,
+      "published": "2026-06-26T03:40:24+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2070336764620026339",
       "source": "归藏",
@@ -136,8 +287,8 @@
       "url": "https://www.youtube.com/watch?v=gKboAPejVM8",
       "thumbnail": "https://img.youtube.com/vi/gKboAPejVM8/maxresdefault.jpg",
       "published": "2026-06-24T20:03:43+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "I had many people try to convince me not to start the company. I mean, if there was anything they could have done to stop me from starting the rocket company, they would have done it. So, that's when ..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "x_2069835642469511517",
@@ -290,40 +441,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2069273120830271569",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "视频信息和价格",
-      "url": "https://x.com/op7418/status/2069273120830271569",
-      "images": null,
-      "published": "2026-06-23T04:15:31+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2069272992664924426",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Seedance 2.0 的 4K 分辨率我已经在即梦上线。 看了一下，15 秒是 1200 积分，需要选择 Seedance VIP 版本。 4K 分辨率生成的视频码率为 50M，感觉是为那些做商业片和商业短剧的公司准备的。 Video",
-      "url": "https://x.com/op7418/status/2069272992664924426",
-      "images": null,
-      "published": "2026-06-23T04:15:01+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_GhCP2eDrKHk",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -441,40 +558,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2068919158486827425",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "我会在 Tabbit AI 浏览器的“妙招大赛”上担任评委。 他们奖金还挺多的，而且门槛也不高，只要在 Tabbit 上创建妙招就可以。可以是那种提示词妙招，也可以是脚本妙招。 冠军最高会有一万块的奖金。如果你有一些自己的东西，可以找时间来试试。",
-      "url": "https://x.com/op7418/status/2068919158486827425",
-      "images": null,
-      "published": "2026-06-22T04:49:00+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2068902523914903929",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "小道消息，他没说来源 Anthropic 已经完成了一个更强的 Mythos 模型的训练 感觉训练是肯定不会停止的，就看是不是有了新的就会放出旧的了 Andrew Curran (@AndrewCurran_) A new, more capable version of Mythos has emerged from training. I don't know whether it will be called Mythos 5.1 or Mythos 6, or if Anthropic will keep it internal to accelerate further development - but it has arrived. Stopping models like Fable 5 or Mythos 5 from being served to the public does nothing to slow down development. In fact, it probably speeds it up slightly by freeing up resources. There are also no rules preventing the labs from continuing to advance capabilities while any current model is under embargo - or from keeping progress quiet until they choose to release it. None of them can afford to pause or slow down. We need only look at how capable GLM-5.2 is as proof of this. To protect their business models, the frontier labs must continually train increasingly capable systems to stay ahead of open source, and each other. The current continues to rage beneath the ice, and we continue to race toward our destination. — https://nitter.net/AndrewCurran_/status/2068748019030483365#m",
-      "url": "https://x.com/op7418/status/2068902523914903929",
-      "images": null,
-      "published": "2026-06-22T03:42:54+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2068769466519785636",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -526,23 +609,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2068302693760966985",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这天气太爽了，差了两天又好了。",
-      "url": "https://x.com/op7418/status/2068302693760966985",
-      "images": null,
-      "published": "2026-06-20T11:59:24+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_0JIbgZ544wU",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -591,23 +657,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2067986820906787310",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "We're booking out a cafe on July 15th in LA Grab coffee, Cursor credits, meet the team, and build together",
-      "url": "https://x.com/benln/status/2067986820906787310",
-      "images": null,
-      "published": "2026-06-19T15:04:14+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_XROaLetSxg0",
       "source": "a16z",
       "sourceId": "a16z",
@@ -621,8 +670,8 @@
       "url": "https://www.youtube.com/watch?v=XROaLetSxg0",
       "thumbnail": "https://img.youtube.com/vi/XROaLetSxg0/maxresdefault.jpg",
       "published": "2026-06-19T14:40:13+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "One rule of old media's don't be interested. Like that's the worst thing you can do. There is no way to get to anything resembling a story that you're going to like through the traditional media anymo..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_8OOuCnZB-4o",
@@ -638,38 +687,6 @@
       "url": "https://www.youtube.com/watch?v=8OOuCnZB-4o",
       "thumbnail": "https://img.youtube.com/vi/8OOuCnZB-4o/maxresdefault.jpg",
       "published": "2026-06-19T14:00:26+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_UxY8zJKRrHU",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Improving health intelligence in ChatGPT",
-      "url": "https://www.youtube.com/watch?v=UxY8zJKRrHU",
-      "thumbnail": "https://img.youtube.com/vi/UxY8zJKRrHU/maxresdefault.jpg",
-      "published": "2026-06-18T19:10:18+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_ZK3JhU73W18",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Record & Replay in Codex",
-      "url": "https://www.youtube.com/watch?v=ZK3JhU73W18",
-      "thumbnail": "https://img.youtube.com/vi/ZK3JhU73W18/maxresdefault.jpg",
-      "published": "2026-06-18T18:57:34+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1123,23 +1140,6 @@
       "published": "2026-05-14T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "人类历史上第一批和生成式AI同时长大的学生，正在踏入毕业季。 去年我们和大学生聊AI时，讨论还集中在“要不要使用AI”、“教授怎么看”。然而仅一年后，AI真正成为了生产力工具。这届毕业生可能会发现：不管你学的是知识性课程，还是实用性技能，都难逃AI冲击，想要脱颖而出必须成为那个“更善于使用AI的人”。 当知识可以被AI调取，技能可以被工具取代，大学还能给你什么独一无二的东西？面对AI冲击，有哪些能"
-    },
-    {
-      "id": "yt_FnJaDj5zUhY",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Founders Who Left Tesla to Rebuild America | a16z",
-      "url": "https://www.youtube.com/watch?v=FnJaDj5zUhY",
-      "thumbnail": "https://img.youtube.com/vi/FnJaDj5zUhY/maxresdefault.jpg",
-      "published": "2026-05-13T14:39:25+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_90f96f60_25be_45ac_b832_56776a23d534",
