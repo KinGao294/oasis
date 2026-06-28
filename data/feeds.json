@@ -1,7 +1,75 @@
 {
-  "last_updated": "2026-06-27T02:44:23.432770Z",
+  "last_updated": "2026-06-28T03:23:33.540749Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2070873626929443236",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "4K 的效果也太猛了 歸藏(guizang.ai) (@op7418) 我去，Seedance 2.0 4K 这个文字清晰度太牛批了 重新用原生 4K 分辨率跑了一条 Codepilot 的宣传片，这个文字清晰度也太牛批了 而且整个材质的质感也高了非常多，这绝对是 1080P 超分做不到的 Video — https://nitter.net/op7418/status/2070873247772717315#m",
+      "url": "https://x.com/op7418/status/2070873626929443236",
+      "images": null,
+      "published": "2026-06-27T14:15:22+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2070873247772717315",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我去，Seedance 2.0 4K 这个文字清晰度太牛批了 重新用原生 4K 分辨率跑了一条 Codepilot 的宣传片，这个文字清晰度也太牛批了 而且整个材质的质感也高了非常多，这绝对是 1080P 超分做不到的 Video 歸藏(guizang.ai) (@op7418) 用 Seedance 2.0 重新做了一下 Codepilot 的宣传片 Video — https://nitter.net/op7418/status/2070767472958140467#m",
+      "url": "https://x.com/op7418/status/2070873247772717315",
+      "images": null,
+      "published": "2026-06-27T14:13:51+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_Ju8LVdvuxGM",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "India Can Create The Largest AI Companies",
+      "url": "https://www.youtube.com/watch?v=Ju8LVdvuxGM",
+      "thumbnail": "https://img.youtube.com/vi/Ju8LVdvuxGM/maxresdefault.jpg",
+      "published": "2026-06-27T12:30:39+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2070767472958140467",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "用 Seedance 2.0 重新做了一下 Codepilot 的宣传片 Video",
+      "url": "https://x.com/op7418/status/2070767472958140467",
+      "images": null,
+      "published": "2026-06-27T07:13:33+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_JNu6c4G6q5M",
       "source": "a16z",
@@ -341,23 +409,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2069615413517062280",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "我用的素材收集产品 mymind 终于有 mcp 了 找参考不需要我自己从上面搬运了，舒服，又自动化了一部分 mymind (@mymind) ˗ˏˋ BIG NEWS ˎˊ˗ We now have an API. We have an MCP. We have a Claude Connection. We have a ChatGPT Connection. All of this is now in Public BETA starting today and opens up a thousand new possibilities for how you can use mymind (link below). Much love, the mymind team 🧡 — https://nitter.net/mymind/status/2069513313159893330#m",
-      "url": "https://x.com/op7418/status/2069615413517062280",
-      "images": null,
-      "published": "2026-06-24T02:55:40+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_mVpCDzoNtxA",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -372,40 +423,6 @@
       "published": "2026-06-23T18:45:29+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2069424221399519238",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "测了一下，没想到 Seed 2.1 Pro 还不错啊 补上了 Agent 和 Coding 短板的豆包应该会成为我日后关于内容创作的主要模型。 更多的案例和提示词在文章里 Video 歸藏(guizang.ai) (@op7418) Article Seed 2.1 Pro 测评，终于能胜任 Agent 工作了 今天 Seed 2.1 Pro 正式发布，我提前用它做了一些测试。 它能不能进 Agent 工作流？ 这次我最关心一件事：它能不能进真实的 Agent 工作流。 跑下来，我觉得答案是能。 以前很多人对它的印象，可能还停留在基础问答： — https://nitter.net/op7418/status/2069423803957146077#m",
-      "url": "https://x.com/op7418/status/2069424221399519238",
-      "images": null,
-      "published": "2026-06-23T14:15:57+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2069423803957146077",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Article Seed 2.1 Pro 测评，终于能胜任 Agent 工作了 今天 Seed 2.1 Pro 正式发布，我提前用它做了一些测试。 它能不能进 Agent 工作流？ 这次我最关心一件事：它能不能进真实的 Agent 工作流。 跑下来，我觉得答案是能。 以前很多人对它的印象，可能还停留在基础问答：",
-      "url": "https://x.com/op7418/status/2069423803957146077",
-      "images": null,
-      "published": "2026-06-23T14:14:17+00:00",
-      "hasTranscript": false
     },
     {
       "id": "x_2069409823674818728",
@@ -895,23 +912,6 @@
       "url": "https://www.youtube.com/watch?v=ktl8mNiWqMM",
       "thumbnail": "https://img.youtube.com/vi/ktl8mNiWqMM/maxresdefault.jpg",
       "published": "2026-06-08T14:30:24+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_yyXCQHX55N4",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Emergent: How Six Months of Tinkering Led To A $100M ARR Company",
-      "url": "https://www.youtube.com/watch?v=yyXCQHX55N4",
-      "thumbnail": "https://img.youtube.com/vi/yyXCQHX55N4/maxresdefault.jpg",
-      "published": "2026-06-06T12:30:10+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
