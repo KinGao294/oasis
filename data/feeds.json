@@ -1,7 +1,24 @@
 {
-  "last_updated": "2026-06-28T03:23:33.540749Z",
+  "last_updated": "2026-06-29T03:28:04.599294Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2071247361821544924",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Easily the best AI series available CS 153 at Stanford. Lectures from Jensen Huang, Satya Nadella, Sam Altman",
+      "url": "https://x.com/benln/status/2071247361821544924",
+      "images": null,
+      "published": "2026-06-28T15:00:27+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2070873626929443236",
       "source": "归藏",
@@ -606,23 +623,6 @@
       "url": "https://x.com/benln/status/2068756286435389467",
       "images": null,
       "published": "2026-06-21T18:01:48+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2068680670621114839",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Oslo",
-      "url": "https://x.com/benln/status/2068680670621114839",
-      "images": null,
-      "published": "2026-06-21T13:01:20+00:00",
       "hasTranscript": false
     },
     {
