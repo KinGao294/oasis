@@ -1,7 +1,142 @@
 {
-  "last_updated": "2026-06-29T03:28:04.599294Z",
+  "last_updated": "2026-06-30T02:53:50.378120Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2071784245530689770",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codex 因为消耗速度过快的问题又重置了 Tibo (@thsottiaux) Codex usage limits will be fully reset again in the next hour and we will credit one additional reset into your bank for your own usage over the next 24 hours. We investigated reports that Codex usage was being consumed faster than expected. There wasn't one central issue, but a few smaller problems compounded for some users. Here's what we found and changed: - Actual usage: Auto-review had become more proactive, another change was triggering more subagent work, and background suggestions could run twice or retry too frequently after failures. We reverted the changes and fixed suggestion scheduling, duplicate generation, and retry behavior. This should reduce unnecessary background token consumption while preserving the work users explicitly request. - Usage reporting: Auto-review was incorrectly appearing as GPT‑5.4 usage, and failed or rate-limited requests were still shown as turns. Auto-review now appears as its own category, and only successful requests count toward the turn graphs. Rate-limited requests were never charged, but they were being displayed incorrectly. - Immediate relief: We reset usage limits while rolling out the fixes, then shipped hotfixes across the CLI, desktop app, and usage backend. - What to expect: New usage data should be clearer and actual consumption should be lower. Historical charts may still show auto-review under GPT‑5.4 because older turn data was not relabeled. Features that intentionally perform more work; such as /goal, subagents, and higher reasoning levels will still naturally use more capacity. All fixes are now deployed, and we've added more detailed monitoring so we can detect background-usage regressions sooner. We'll continue watching the results closely. Thank you for building and doing all sorts of things with Codex. — https://nitter.net/thsottiaux/status/2071740419030053227#m",
+      "url": "https://x.com/op7418/status/2071784245530689770",
+      "images": null,
+      "published": "2026-06-30T02:33:50+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2071784028634775895",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Cline 推出了一个每月 9.9 美元的 token plan, 支持调用 DeepSeek、Kimi、MiniMax、MIMO 和千问，还有 GLM5.2 现在好像还有 1.99 美元的优惠。 海外这种聚合的 token plan 也越来越多了，而且他们如果有渠道的话，更方便去推理服务的供应商也不缺卡 Cline (@cline) We’ve been impressed with GLM-5.2 and so are introducing a $9.99/month subscription to give you 2-5x discounted access to it and other open weight models like DeepSeek, Kimi, MiniMax, Mimo, Qwen. Use it on Cline CLI & IDE with $1.99 special promo if sign up via: npm i -g cline Video — https://nitter.net/cline/status/2071617325296734309#m",
+      "url": "https://x.com/op7418/status/2071784028634775895",
+      "images": null,
+      "published": "2026-06-30T02:32:58+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2071778259994546590",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Cursor 的 iOS 版上线了，完成度很高啊 锁屏的时候，还会展示当前的这个进度，然后也完成以后，会把界面的视频和图片给你发过来，让你审核 当前，针对付费用户的 beta 测试已经开放 Video",
+      "url": "https://x.com/op7418/status/2071778259994546590",
+      "images": null,
+      "published": "2026-06-30T02:10:03+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2071643243763073342",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor mobile app is here: Cursor (@cursor_ai) Introducing Cursor for iOS. Build from anywhere by launching always-on cloud agents. Or remotely control agents running on your computer from the app. Composer 2.5 is 75% off in the app now through July 5. Video — https://nitter.net/cursor_ai/status/2071641103191998810#m",
+      "url": "https://x.com/benln/status/2071643243763073342",
+      "images": null,
+      "published": "2026-06-29T17:13:33+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_f-HiB82Tl94",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Advent Accelerates Deals with ChatGPT + Codex",
+      "url": "https://www.youtube.com/watch?v=f-HiB82Tl94",
+      "thumbnail": "https://img.youtube.com/vi/f-HiB82Tl94/maxresdefault.jpg",
+      "published": "2026-06-29T14:30:09+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2071600168097517613",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Big day for Cursor",
+      "url": "https://x.com/benln/status/2071600168097517613",
+      "images": null,
+      "published": "2026-06-29T14:22:23+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2071576932622234105",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "We're bringing Cafe Cursor back to London on July 11th Grab coffee & merch, co-work, and meet the team",
+      "url": "https://x.com/benln/status/2071576932622234105",
+      "images": null,
+      "published": "2026-06-29T12:50:03+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_HIomv6WAxfs",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Gave an AI Agent 7 Days to Build Me a Startup",
+      "url": "https://www.youtube.com/watch?v=HIomv6WAxfs",
+      "thumbnail": "https://img.youtube.com/vi/HIomv6WAxfs/maxresdefault.jpg",
+      "published": "2026-06-29T09:55:11+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "x_2071247361821544924",
       "source": "Ben Lang",
@@ -219,57 +354,6 @@
       "url": "https://x.com/op7418/status/2070356490578460729",
       "images": null,
       "published": "2026-06-26T04:00:27+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2070351443278864842",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "谁能想到这俩玩意成理财产品了呢 上面的 Mac Mini 买的时候 2800，现在官方起售价 5999 涨了 3200 下面的 Mac Studio 买的时候 17000，现在 22000，涨了 5000 太离谱了 歸藏(guizang.ai) (@op7418) 等等党难了，新款没到呢，旧款涨价了 — https://nitter.net/op7418/status/2070202385063186755#m",
-      "url": "https://x.com/op7418/status/2070351443278864842",
-      "images": null,
-      "published": "2026-06-26T03:40:24+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2070336764620026339",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Anthropic 还是达成了他的目的。 现在 OpenAI 的模型已经不能按照之前的模式正常推送上线了，需要先向一些符合要求的 B 端客户提供，并由美国政府对这些客户逐一审核。 结合这几天 GLM 5.2 以及 Anthropic 指控中国公司“蒸馏”他们模型的事来看，我们已经无法将模型发布当作正常的互联网产品上线逻辑来看待了。 它已经变成了类似军民两用的战略资产、网络武器这一等级的管控。谁能使用先进模型，已经变成了一个国家安全问题。 这会带来以下几个变化： 发布节奏放缓 整个头部模型的发布节奏会严重放缓。虽然模型训练的节奏会变慢，但拿到许可的公司会先利用先进模型和头部模型建立竞争优势。 准入门槛提高 先进模型的使用准入会变得更加严格，需要经过更严苛的审查，尤其是美国的这些模型。美国模型公司的护城河正在从“模型是否最强”转变为“是否能被安全、合法且持续地交付”，这变成了一种准入机制，还要看与政府的关系。 但这也会造成一个问题： 如果我们中国的开源模型继续变强，可能会吃掉更多美国模型的订单。不过，不排除美国会对中国开源模型进行更严格的监管和控制（例如禁止美国公司使用中国开源模型），但这种做法是否能管得住，还需要再看。",
-      "url": "https://x.com/op7418/status/2070336764620026339",
-      "images": null,
-      "published": "2026-06-26T02:42:04+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2070202385063186755",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "等等党难了，新款没到呢，旧款涨价了 The Kobeissi Letter (@KobeissiLetter) BREAKING: Apple, $AAPL, has raised the prices of its Macs and iPads due to soaring chip costs. Among the price increases: 1. MacBook Air increased +$200 to $1,299 2. Base MacBook Pro increased +$300 to $1,999 3. Base MacBook Neo increased +$100 to $699 4. iPad Air increased +$150 to $749 5. iPad Pro increased +$200 to $1,199 Tim Cook said soaring chip costs made the price hike \"unavoidable.\" — https://nitter.net/KobeissiLetter/status/2070127291951178224#m",
-      "url": "https://x.com/op7418/status/2070202385063186755",
-      "images": null,
-      "published": "2026-06-25T17:48:05+00:00",
       "hasTranscript": false
     },
     {
@@ -558,23 +642,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2069045184063570378",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cursor community events in 200+ cities Reach out if your city's missing Video",
-      "url": "https://x.com/benln/status/2069045184063570378",
-      "images": null,
-      "published": "2026-06-22T13:09:47+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_LEPkmqIc9OU",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -590,40 +657,6 @@
       "published": "2026-06-22T12:20:29+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2068769466519785636",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "notes from: piped.video/watch?v=R56RJFZB… Link Pick One Idea and Go Deep Many founders get stuck trying to find the perfect startup idea bef... youtube.com",
-      "url": "https://x.com/benln/status/2068769466519785636",
-      "images": null,
-      "published": "2026-06-21T18:54:11+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2068756286435389467",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "YC on how to pick a startup idea in the AI era:",
-      "url": "https://x.com/benln/status/2068756286435389467",
-      "images": null,
-      "published": "2026-06-21T18:01:48+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_0JIbgZ544wU",
@@ -654,22 +687,6 @@
       "url": "https://www.youtube.com/watch?v=YPNOjXTDP9c",
       "thumbnail": "https://img.youtube.com/vi/YPNOjXTDP9c/maxresdefault.jpg",
       "published": "2026-06-19T21:22:26+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_5sDfhQq_g8A",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Score with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=5sDfhQq_g8A",
-      "thumbnail": "https://img.youtube.com/vi/5sDfhQq_g8A/maxresdefault.jpg",
-      "published": "2026-06-19T21:20:04+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1297,23 +1314,6 @@
       "url": "https://www.youtube.com/watch?v=xWHugpfvzjg",
       "thumbnail": "https://img.youtube.com/vi/xWHugpfvzjg/maxresdefault.jpg",
       "published": "2026-04-02T13:41:31+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_CkEse6MmGFk",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "i gave chatgpt $2,000 to trade stocks for 24 hours",
-      "url": "https://www.youtube.com/watch?v=CkEse6MmGFk",
-      "thumbnail": "https://img.youtube.com/vi/CkEse6MmGFk/maxresdefault.jpg",
-      "published": "2026-04-01T09:21:53+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
