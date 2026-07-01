@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-30T02:53:50.378120Z",
-  "count": 101,
+  "last_updated": "2026-07-01T03:23:33.165460Z",
+  "count": 61,
   "items": [
     {
-      "id": "x_2071784245530689770",
+      "id": "x_2072141791269392594",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -13,14 +13,14 @@
         "Design"
       ],
       "title": null,
-      "content": "Codex 因为消耗速度过快的问题又重置了 Tibo (@thsottiaux) Codex usage limits will be fully reset again in the next hour and we will credit one additional reset into your bank for your own usage over the next 24 hours. We investigated reports that Codex usage was being consumed faster than expected. There wasn't one central issue, but a few smaller problems compounded for some users. Here's what we found and changed: - Actual usage: Auto-review had become more proactive, another change was triggering more subagent work, and background suggestions could run twice or retry too frequently after failures. We reverted the changes and fixed suggestion scheduling, duplicate generation, and retry behavior. This should reduce unnecessary background token consumption while preserving the work users explicitly request. - Usage reporting: Auto-review was incorrectly appearing as GPT‑5.4 usage, and failed or rate-limited requests were still shown as turns. Auto-review now appears as its own category, and only successful requests count toward the turn graphs. Rate-limited requests were never charged, but they were being displayed incorrectly. - Immediate relief: We reset usage limits while rolling out the fixes, then shipped hotfixes across the CLI, desktop app, and usage backend. - What to expect: New usage data should be clearer and actual consumption should be lower. Historical charts may still show auto-review under GPT‑5.4 because older turn data was not relabeled. Features that intentionally perform more work; such as /goal, subagents, and higher reasoning levels will still naturally use more capacity. All fixes are now deployed, and we've added more detailed monitoring so we can detect background-usage regressions sooner. We'll continue watching the results closely. Thank you for building and doing all sorts of things with Codex. — https://nitter.net/thsottiaux/status/2071740419030053227#m",
-      "url": "https://x.com/op7418/status/2071784245530689770",
+      "content": "Fable 5 开放 Anthropic (@AnthropicAI) We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. We’re grateful to our users for their patience, and to everyone who worked with us on redeploying the models. — https://nitter.net/AnthropicAI/status/2072106151890809341#m",
+      "url": "https://x.com/op7418/status/2072141791269392594",
       "images": null,
-      "published": "2026-06-30T02:33:50+00:00",
+      "published": "2026-07-01T02:14:36+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2071784028634775895",
+      "id": "x_2072141663225720990",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -30,14 +30,14 @@
         "Design"
       ],
       "title": null,
-      "content": "Cline 推出了一个每月 9.9 美元的 token plan, 支持调用 DeepSeek、Kimi、MiniMax、MIMO 和千问，还有 GLM5.2 现在好像还有 1.99 美元的优惠。 海外这种聚合的 token plan 也越来越多了，而且他们如果有渠道的话，更方便去推理服务的供应商也不缺卡 Cline (@cline) We’ve been impressed with GLM-5.2 and so are introducing a $9.99/month subscription to give you 2-5x discounted access to it and other open weight models like DeepSeek, Kimi, MiniMax, Mimo, Qwen. Use it on Cline CLI & IDE with $1.99 special promo if sign up via: npm i -g cline Video — https://nitter.net/cline/status/2071617325296734309#m",
-      "url": "https://x.com/op7418/status/2071784028634775895",
+      "content": "关于系统提示后门： International Cyber Digest (@IntCyberDigest) ‼️ BREAKING: Anthropic has embedded hidden spyware-like code in Claude Code that covertly targets Chinese users. It then sends information regarding every user by injecting it into their prompt message. Claude Code is sending info like timezone, proxy and possible AI Lab connections into the system prompt in ways Chinese users can't notice. A coding agent with repo and command permissions should not silently hide routing metadata inside prompts. This is a serious breach of user trust. — https://nitter.net/IntCyberDigest/status/2071971609183678544#m",
+      "url": "https://x.com/op7418/status/2072141663225720990",
       "images": null,
-      "published": "2026-06-30T02:32:58+00:00",
+      "published": "2026-07-01T02:14:05+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2071778259994546590",
+      "id": "x_2072141578844676113",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -47,10 +47,180 @@
         "Design"
       ],
       "title": null,
-      "content": "Cursor 的 iOS 版上线了，完成度很高啊 锁屏的时候，还会展示当前的这个进度，然后也完成以后，会把界面的视频和图片给你发过来，让你审核 当前，针对付费用户的 beta 测试已经开放 Video",
-      "url": "https://x.com/op7418/status/2071778259994546590",
+      "content": "关于价格的细节 Artificial Analysis (@ArtificialAnlys) Claude Sonnet 5 achieves 53 on the Artificial Analysis Intelligence Index, but without promotional pricing will cost more per task than Opus 4.8 We supported @AnthropicAI to evaluate Claude Sonnet 5 ahead of release: with max effort it improves 6 points over Sonnet 4.6 to achieve the same Intelligence Index as GPT-5.5 with high reasoning, but remains behind Opus 4.7 and 4.8 Key takeaways: ➤ Claude Sonnet 5 is the #5 model on the Artificial Analysis Intelligence Index, only 2-3 points behind GPT-5.5 (xhigh) and Opus 4.8 (max) ➤ With max effort, Sonnet 5 works harder than previous Anthropic models: it used ~40% more output tokens per Intelligence Index task than Sonnet 4.6, and ~3x the agentic turns for our knowledge work evaluations AA-Briefcase and GDPval-AA. This behavior scales well with the ‘effort’ setting, with the max effort using around 6x more turns than low effort on GDPval-AA ➤ Claude Sonnet 5 costs more per task than Opus 4.8 before accounting for promotional pricing: Claude Sonnet 5 costs $2.29 per task on the Intelligence Index, a ~2x increase compared to Sonnet 4.6 and ~15% more than Claude Opus 4.8. This is driven entirely by increased token usage. Sonnet 5 retains the same $3/$15 per 1M input/output token pricing as Sonnet 4.6 (compared to $5/$25 for Opus 4.8), however Anthropic is offering a one-third reduction to $2/$10 until September 1. Our results use standard $3/$15 pricing ➤ Sonnet 5 matches or outperforms Opus 4.8 on agentic knowledge work tasks: on both AA-Briefcase and GDPval-AA, Claude Sonnet 5 sits just ahead of Opus 4.8, trailing only Claude Fable 5 (which is not currently generally available). These benchmarks test the ability of models to produce accurate and well-presented professional outputs using our open source reference agent harness, Stirrup ➤ For reasoning and knowledge-heavy tasks, Sonnet still sits behind its larger siblings: despite substantial gains across many evaluations, heavy reasoning and knowledge benchmarks still show Opus 4.8 ahead of Sonnet 5. On CritPt, a frontier physics reasoning benchmark developed by researchers at Argonne and UIUC, Sonnet 5 scores 17% - this is 14 points higher than its predecessor, but behind GLM-5.2, Claude Opus and Fable, and GPT-5.5 (xhigh and Pro) ➤ Sonnet 5 also showed significant improvements over Sonnet 4.6 on Terminal-Bench v2.1 (+9 points), Humanity’s Last Exam (+10 points), and SciCode (+7 points), with relatively flat scores elsewhere Other key model details: ➤ Context window of 1 million tokens (equivalent to Sonnet 4.6) ➤ Pricing of $3/$15 per 1M tokens of input/output (reduced to $2/$10 until September 1); cache pricing remains at a 25% premium for cache writes ($3.75 per million tokens) with 5-minute time to live, and 90% discount for cache hits ($0.3 per million tokens) ➤ Effort remains the recommended way of configuring model performance and latency. Sonnet 5 adds an additional ‘xhigh’ effort setting relative to Sonnet 4.6, matching the 5 effort levels available on Opus 4.8 (max, xhigh, high, medium, low) — https://nitter.net/ArtificialAnlys/status/2072062592923930666#m",
+      "url": "https://x.com/op7418/status/2072141578844676113",
       "images": null,
-      "published": "2026-06-30T02:10:03+00:00",
+      "published": "2026-07-01T02:13:45+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2072141491842261119",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Anthropic 每天都能整点新活，感觉现在大家都习惯了 昨天被爆出在系统提示中，以用户无法察觉的方式将市区代理和 AI 实验室信息放进去，用这种方式获取一些用户的信息。 结果被发现并传播以后，又赶紧说以前我们不用这种方式了，或者说这种方式本来就准备下掉，明天就下掉，又当又立了。 昨晚发布的 Sonnet 5 在测试中发现，它的测试结果虽然接近了 Opus 4.8，但任务成本可能比 Opus 4.8 还高，甚至在完成测试任务上的成本接近了 Fable 5。 所以说它的综合成本可能比 4.8 贵得多，这模型真离谱。而且很多人的体感反馈也不是很好，说它会偷懒，还会拒绝执行任务。 唯一好的一点是，Fable 5 模型终于被授权重新开放给所有用户了，明天就能知道具体措施了，这也解释了为什么前几天会大规模封号。",
+      "url": "https://x.com/op7418/status/2072141491842261119",
+      "images": null,
+      "published": "2026-07-01T02:13:24+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2072127004007354848",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Fable 5 终于要恢复了，不知道是面向美国人还是全球的 Anthropic (@AnthropicAI) We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. We’re grateful to our users for their patience, and to everyone who worked with us on redeploying the models. — https://nitter.net/AnthropicAI/status/2072106151890809341#m",
+      "url": "https://x.com/op7418/status/2072127004007354848",
+      "images": null,
+      "published": "2026-07-01T01:15:50+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2072014056496492646",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Who's in for Cursor mobile hackathons?",
+      "url": "https://x.com/benln/status/2072014056496492646",
+      "images": null,
+      "published": "2026-06-30T17:47:01+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2071974240069517712",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "github.com/op7418/CodePilot/… Link Release CodePilot v0.56.3 · op7418/CodePilot CodePilot v0.56.3 新增 ClinePass 与 OpenCode Go 两类订阅服务商接入，并彻底修复发送后输入框文本残留、服务商弹窗关闭按钮等体验问题。推荐升级。 新增功能 接入 ClinePass 订阅 — 在「添加服务 > Coding Plan」里新增 ClinePass（月付订阅，提供一组开源编程模型）。填一个 API Key 即可在 CodePilo... github.com",
+      "url": "https://x.com/op7418/status/2071974240069517712",
+      "images": null,
+      "published": "2026-06-30T15:08:48+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2071974194200633787",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "CodePilot 0.5.6.3 已经更新。 今天新上 ClinePass 以及之前的 Opencode GO，这两个 Codeplan 套餐，想体验的可以试试 歸藏(guizang.ai) (@op7418) Cline 推出了一个每月 9.9 美元的 token plan, 支持调用 DeepSeek、Kimi、MiniMax、MIMO 和千问，还有 GLM5.2 现在好像还有 1.99 美元的优惠。 海外这种聚合的 token plan 也越来越多了，而且他们如果有渠道的话，更方便去推理服务的供应商也不缺卡 — https://nitter.net/op7418/status/2071784028634775895#m",
+      "url": "https://x.com/op7418/status/2071974194200633787",
+      "images": null,
+      "published": "2026-06-30T15:08:37+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_5PONSpAlwFo",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Let AI Run My Entire Business (Zapier MCP)",
+      "url": "https://www.youtube.com/watch?v=5PONSpAlwFo",
+      "thumbnail": "https://img.youtube.com/vi/5PONSpAlwFo/maxresdefault.jpg",
+      "published": "2026-06-30T13:25:39+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2071939564575309872",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor is coming up in these cities: • Milan - 7/1 • Santiago - 7/2 • Mombasa - 7/3 • Quito - 7/4 • London - 7/11 • Kampala - 7/11 • Tandil - 7/11 • OKC - 7/13 • LA - 7/15 • Philly - 7/16 • Lisbon - 7/17 • Abidjan - 7/18 • Salvador - 7/20 • Medellín - 7/22",
+      "url": "https://x.com/benln/status/2071939564575309872",
+      "images": null,
+      "published": "2026-06-30T12:51:01+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2071919748456304733",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "有了 Seedance 2.0 之后 AI 视频短片生态飞速发展 最近还有一个搞笑的是，做《神秘复苏》AI 视频的三个博主，被《神秘复苏》动画的官方举报删视频了。 这三个人的 AI 视频都做得挺好的，粉丝也不少。 结果那些小说粉丝就去把《神秘复苏》动画片官方的 PV 给举报下架了",
+      "url": "https://x.com/op7418/status/2071919748456304733",
+      "images": null,
+      "published": "2026-06-30T11:32:17+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2071874457682215391",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "卧槽 这么离谱啊 居然sir (@juransir) 账号没被封的时候一直忍住没骂过 A 社，这下被封了可以放心开骂了。 通知邮件里还装追踪器，看我在什么位置打开的邮件。 ​ ​全球 AI 厂就属你丫最心术不正，还整天搁那装大尾(yǐ) 巴狼。 ​ ​早晚得遭报应。❤️ — https://nitter.net/juransir/status/2071628554392207734#m",
+      "url": "https://x.com/op7418/status/2071874457682215391",
+      "images": null,
+      "published": "2026-06-30T08:32:18+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2071828083083190280",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Anthropic 封号挺猛啊，很多都炸了",
+      "url": "https://x.com/op7418/status/2071828083083190280",
+      "images": null,
+      "published": "2026-06-30T05:28:02+00:00",
       "hasTranscript": false
     },
     {
@@ -155,74 +325,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2070873626929443236",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "4K 的效果也太猛了 歸藏(guizang.ai) (@op7418) 我去，Seedance 2.0 4K 这个文字清晰度太牛批了 重新用原生 4K 分辨率跑了一条 Codepilot 的宣传片，这个文字清晰度也太牛批了 而且整个材质的质感也高了非常多，这绝对是 1080P 超分做不到的 Video — https://nitter.net/op7418/status/2070873247772717315#m",
-      "url": "https://x.com/op7418/status/2070873626929443236",
-      "images": null,
-      "published": "2026-06-27T14:15:22+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2070873247772717315",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "我去，Seedance 2.0 4K 这个文字清晰度太牛批了 重新用原生 4K 分辨率跑了一条 Codepilot 的宣传片，这个文字清晰度也太牛批了 而且整个材质的质感也高了非常多，这绝对是 1080P 超分做不到的 Video 歸藏(guizang.ai) (@op7418) 用 Seedance 2.0 重新做了一下 Codepilot 的宣传片 Video — https://nitter.net/op7418/status/2070767472958140467#m",
-      "url": "https://x.com/op7418/status/2070873247772717315",
-      "images": null,
-      "published": "2026-06-27T14:13:51+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_Ju8LVdvuxGM",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "India Can Create The Largest AI Companies",
-      "url": "https://www.youtube.com/watch?v=Ju8LVdvuxGM",
-      "thumbnail": "https://img.youtube.com/vi/Ju8LVdvuxGM/maxresdefault.jpg",
-      "published": "2026-06-27T12:30:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2070767472958140467",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "用 Seedance 2.0 重新做了一下 Codepilot 的宣传片 Video",
-      "url": "https://x.com/op7418/status/2070767472958140467",
-      "images": null,
-      "published": "2026-06-27T07:13:33+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_JNu6c4G6q5M",
       "source": "a16z",
       "sourceId": "a16z",
@@ -254,23 +356,6 @@
       "published": "2026-06-26T19:40:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2070554759896142280",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Moxt 更新了多agent编排的工作流。 支持自动一群 Agent 帮你协作完成任务，而且还能重复驱动完成更长的任务 Moxt (@moxt_ai) Today, most people use AI as a tool. Soon, everyone will have a team of Agents. Not one assistant working harder — specialized Agents, each with its own memory and skills, working in parallel to get real work done, alongside you. Video — https://nitter.net/moxt_ai/status/2069795365264515272#m",
-      "url": "https://x.com/op7418/status/2070554759896142280",
-      "images": null,
-      "published": "2026-06-26T17:08:18+00:00",
-      "hasTranscript": false
     },
     {
       "id": "x_2070501406000222625",
@@ -306,57 +391,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2070443534864498958",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "一个核心问题是，如果新模型或者前沿模型的推出放缓，那么 OpenAI 和 Anthropic 的收入增长也会放缓，那么整个 AI 领域的股票的涨幅可能就会不及预期，到时候就是两头堵。",
-      "url": "https://x.com/op7418/status/2070443534864498958",
-      "images": null,
-      "published": "2026-06-26T09:46:20+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2070356875833729099",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "我感觉今年新发布的手机和电脑会出现配置不如去年，但价格却比去年更贵的情况",
-      "url": "https://x.com/op7418/status/2070356875833729099",
-      "images": null,
-      "published": "2026-06-26T04:01:59+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2070356490578460729",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "不知道我上回买 Max Studio 下面那条内容，讨论里的兄弟有多少买了的？",
-      "url": "https://x.com/op7418/status/2070356490578460729",
-      "images": null,
-      "published": "2026-06-26T04:00:27+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_q_diWy3xdrw",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -390,23 +424,6 @@
       "published": "2026-06-25T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "本期节目由AI轻办公神器vivo X Fold6赞助播出 今年4月的伦敦马拉松，肯尼亚选手萨维以 1小时59分30秒 的成绩夺冠，成为首位在正式马拉松比赛中跑进2小时的运动员，这场比赛的亚军克杰勒恰同样跑进了2小时，创造了历史。 事后媒体关注到，萨维和克杰勒恰，包括这场比赛的女子冠军阿塞法，他们穿的鞋，都是阿迪达斯的Adios Pro EVO 3。但在此之前，统治马拉松赛场10年之久的一直是耐克，"
-    },
-    {
-      "id": "yt_oHwUD9b9_pg",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It",
-      "url": "https://www.youtube.com/watch?v=oHwUD9b9_pg",
-      "thumbnail": "https://img.youtube.com/vi/oHwUD9b9_pg/maxresdefault.jpg",
-      "published": "2026-06-25T14:00:34+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "x_2070141099469898085",
@@ -477,22 +494,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_0V-GiPHgRwI",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "本片需要看兩遍（本片拍攝於2024年，特殊原因被封存，限時公開稍後將轉為會員影片） | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=0V-GiPHgRwI",
-      "thumbnail": "https://img.youtube.com/vi/0V-GiPHgRwI/maxresdefault.jpg",
-      "published": "2026-06-24T13:22:24+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2069767081956925482",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -524,23 +525,6 @@
       "published": "2026-06-23T18:45:29+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2069409823674818728",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Kenya",
-      "url": "https://x.com/benln/status/2069409823674818728",
-      "images": null,
-      "published": "2026-06-23T13:18:44+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_qU5-komJ-GE",
@@ -575,23 +559,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2069123155558293781",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "This was less than 3.5 years ago:",
-      "url": "https://x.com/benln/status/2069123155558293781",
-      "images": null,
-      "published": "2026-06-22T18:19:37+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_27-GjDIWGo0",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -604,23 +571,6 @@
       "url": "https://www.youtube.com/watch?v=27-GjDIWGo0",
       "thumbnail": "https://img.youtube.com/vi/27-GjDIWGo0/maxresdefault.jpg",
       "published": "2026-06-22T17:45:36+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt__FBivfgOvuE",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How to Get Your First 10 Customers",
-      "url": "https://www.youtube.com/watch?v=_FBivfgOvuE",
-      "thumbnail": "https://img.youtube.com/vi/_FBivfgOvuE/maxresdefault.jpg",
-      "published": "2026-06-22T16:54:40+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -708,23 +658,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_8OOuCnZB-4o",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Age Of The 40-Year-Old Solo Founder Is Here",
-      "url": "https://www.youtube.com/watch?v=8OOuCnZB-4o",
-      "thumbnail": "https://img.youtube.com/vi/8OOuCnZB-4o/maxresdefault.jpg",
-      "published": "2026-06-19T14:00:26+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_47b7778e_1ed6_4dab_b7c9_8b4a6555b867",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -744,23 +677,6 @@
       "transcriptPreview": "5月初，OpenAI成立了Deployment Company（部署公司），Anthropic也宣布与包括Blackstone在内的多家金融机构合作成立合资企业。这些顶尖模型公司，都开始押注同一种服务：不只是提供AI工具，而是深入企业内部，在具体业务场景中把AI能力真正部署起来。 这也让一个工种迅速走到台前：Forward Deployment Engineer（FDE），前线部署工程师。他们既要"
     },
     {
-      "id": "yt_R56RJFZBasQ",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Pick One Idea and Go Deep",
-      "url": "https://www.youtube.com/watch?v=R56RJFZBasQ",
-      "thumbnail": "https://img.youtube.com/vi/R56RJFZBasQ/maxresdefault.jpg",
-      "published": "2026-06-17T14:00:15+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_RMDJ23u1FZc",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -774,40 +690,6 @@
       "url": "https://www.youtube.com/watch?v=RMDJ23u1FZc",
       "thumbnail": "https://img.youtube.com/vi/RMDJ23u1FZc/maxresdefault.jpg",
       "published": "2026-06-17T09:09:09+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_ObBAxL2dFzw",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Groww: If Your Customers Don't Love It or Hate It, You've Already Lost",
-      "url": "https://www.youtube.com/watch?v=ObBAxL2dFzw",
-      "thumbnail": "https://img.youtube.com/vi/ObBAxL2dFzw/maxresdefault.jpg",
-      "published": "2026-06-15T12:30:28+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_3rWSvrFahIY",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Self-Play for LLMs, AI for Biology, Formal Verification, and More | YC Paper Club",
-      "url": "https://www.youtube.com/watch?v=3rWSvrFahIY",
-      "thumbnail": "https://img.youtube.com/vi/3rWSvrFahIY/maxresdefault.jpg",
-      "published": "2026-06-12T14:00:20+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -848,40 +730,6 @@
       "transcriptPreview": "SpaceX上市进入最后倒计时，在它那份长达280页的招股说明书里，月球基地、点对点地表旅行、在轨制造、火星货物……这些别的公司不敢写的科幻元素，它都写了。但更让人印象深刻的是SpaceX的AI叙事，它预测在28.5万亿美元总潜在市场中，有超过90%来自AI板块，而这部分将受到“地球无法快速扩展发电能力”的严重制约。 面对电力紧缺，SpaceX的答案是：把数据中心搬上太空。上周一，马斯克在一段关于"
     },
     {
-      "id": "yt_49L8lVe_PVo",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How Meesho Became India’s Biggest Shopping App",
-      "url": "https://www.youtube.com/watch?v=49L8lVe_PVo",
-      "thumbnail": "https://img.youtube.com/vi/49L8lVe_PVo/maxresdefault.jpg",
-      "published": "2026-06-11T12:30:23+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_mPAHvz8kW24",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Most AI-Pilled CEO We Know",
-      "url": "https://www.youtube.com/watch?v=mPAHvz8kW24",
-      "thumbnail": "https://img.youtube.com/vi/mPAHvz8kW24/maxresdefault.jpg",
-      "published": "2026-06-10T14:30:40+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_Vl9dbvKMSfU",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -895,23 +743,6 @@
       "url": "https://www.youtube.com/watch?v=Vl9dbvKMSfU",
       "thumbnail": "https://img.youtube.com/vi/Vl9dbvKMSfU/maxresdefault.jpg",
       "published": "2026-06-09T09:03:25+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_qr6kVSKqBqo",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Startup School is back!",
-      "url": "https://www.youtube.com/watch?v=qr6kVSKqBqo",
-      "thumbnail": "https://img.youtube.com/vi/qr6kVSKqBqo/maxresdefault.jpg",
-      "published": "2026-06-08T22:21:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -946,23 +777,6 @@
       "url": "https://www.youtube.com/watch?v=8COJ7vqAK0Q",
       "thumbnail": "https://img.youtube.com/vi/8COJ7vqAK0Q/maxresdefault.jpg",
       "published": "2026-06-02T09:52:48+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_1M3Vdl6DRkU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
-      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
-      "thumbnail": "https://img.youtube.com/vi/1M3Vdl6DRkU/maxresdefault.jpg",
-      "published": "2026-05-29T16:18:31+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1014,22 +828,6 @@
       "url": "https://www.youtube.com/watch?v=oYK_MmZW9XI",
       "thumbnail": "https://img.youtube.com/vi/oYK_MmZW9XI/maxresdefault.jpg",
       "published": "2026-05-27T14:00:13+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_DQGrPstFRVI",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "2030 冰河期 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=DQGrPstFRVI",
-      "thumbnail": "https://img.youtube.com/vi/DQGrPstFRVI/maxresdefault.jpg",
-      "published": "2026-05-27T11:30:36+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1178,39 +976,6 @@
       "transcriptPreview": "近年来，癌症治疗正迎来多个技术平台并行演进、加速迭代的新阶段：从ADC、双特异性抗体、放射性配体疗法，到细胞治疗，整个行业都在经历一轮底层技术工具的升级。其中，CAR-T是最具范式转换意义的一类疗法——它首次在部分血液肿瘤中，把“利用工程化改造的免疫细胞精准清除癌细胞”带入了临床现实。更值得关注的是，2025年以来，跨国药企的押注明显转向体内CAR-T：阿斯利康、艾伯维、百时美施贵宝和礼来等公司，"
     },
     {
-      "id": "yt_nepKKz-MzFM",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "thumbnail": "https://img.youtube.com/vi/nepKKz-MzFM/maxresdefault.jpg",
-      "published": "2026-05-06T22:03:16+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_WeBa4ZawcPo",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "有些突然 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=WeBa4ZawcPo",
-      "thumbnail": "https://img.youtube.com/vi/WeBa4ZawcPo/maxresdefault.jpg",
-      "published": "2026-04-29T12:30:43+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_b2be7093_3366_4ee2_8a7a_625f06206ae5",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -1249,39 +1014,6 @@
       "transcriptPreview": "Peter Thiel，是硅谷最具争议和影响力的思想家之一。如果要用一句话概括他的思想，那就是：世界是由少数天选之人在幕后驱动的，而他就是其中之一。这套理论，不仅在以他为核心的“硅谷右翼”圈子中产生了影响，还通过Peter Thiel的政治参与，影响了更多的人。 那么，Peter Thiel的思想，又来源于什么呢？要理解他，答案藏在三位哲学家身上：法国文学批评理论家吉拉尔、纳粹党员法学家施密特、和"
     },
     {
-      "id": "yt_DmFdxaLgD70",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "可怕的石油 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=DmFdxaLgD70",
-      "thumbnail": "https://img.youtube.com/vi/DmFdxaLgD70/maxresdefault.jpg",
-      "published": "2026-04-15T12:30:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_iKx3gAODybU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "thumbnail": "https://img.youtube.com/vi/iKx3gAODybU/maxresdefault.jpg",
-      "published": "2026-04-09T17:35:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_3bb14dd4_0b13_4173_9d5b_0e63bf98ae1d",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -1299,398 +1031,6 @@
       "published": "2026-04-09T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "2025年，中国餐饮品牌开启了声势浩大的出海美国。喜茶在纽约开出了更具辨识度的LAB店，霸王茶姬、瑞幸和蜜雪冰城也在这一年正式登陆美国。 但要问目前在美国做得最好的中餐和茶饮品牌，答案可能会出乎你意料——中餐第一是一度退出中国华北市场的鼎泰丰，茶饮标杆则是早在内地销声匿迹的贡茶。 究其原因，餐饮企业想顺利出海美国，不仅需要足够的“做时间的朋友”的耐心，需要对当地商业规则足够了解，更要吃透当地主流人"
-    },
-    {
-      "id": "yt_xWHugpfvzjg",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "This AI made me $2,345 in 24 hours",
-      "url": "https://www.youtube.com/watch?v=xWHugpfvzjg",
-      "thumbnail": "https://img.youtube.com/vi/xWHugpfvzjg/maxresdefault.jpg",
-      "published": "2026-04-02T13:41:31+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_vif8NQcjVf0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
-      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
-      "thumbnail": "https://img.youtube.com/vi/vif8NQcjVf0/maxresdefault.jpg",
-      "published": "2026-03-23T16:24:14+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_H9rF1CSSh-w",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
-      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
-      "thumbnail": "https://img.youtube.com/vi/H9rF1CSSh-w/maxresdefault.jpg",
-      "published": "2026-03-11T20:21:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_SHlrUAkkWI0",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
-      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
-      "thumbnail": "https://img.youtube.com/vi/SHlrUAkkWI0/maxresdefault.jpg",
-      "published": "2026-03-03T12:30:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_1SJiTwbSI58",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492",
-      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
-      "thumbnail": "https://img.youtube.com/vi/1SJiTwbSI58/maxresdefault.jpg",
-      "published": "2026-03-01T03:37:44+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_KGVpKPNUdzA",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
-      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
-      "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
-      "published": "2026-02-25T22:36:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_EOIlGekiMsQ",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "史上最大規模的封閉實驗，第二個“大自然” | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=EOIlGekiMsQ",
-      "thumbnail": "https://img.youtube.com/vi/EOIlGekiMsQ/maxresdefault.jpg",
-      "published": "2026-02-17T13:30:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_YFjfBk8HI5o",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
-      "thumbnail": "https://img.youtube.com/vi/YFjfBk8HI5o/maxresdefault.jpg",
-      "published": "2026-02-12T03:07:03+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_EV7WhVT270Q",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
-      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
-      "thumbnail": "https://img.youtube.com/vi/EV7WhVT270Q/maxresdefault.jpg",
-      "published": "2026-01-31T22:33:33+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt__6VOEvdU6hM",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "2026，好久不見 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=_6VOEvdU6hM",
-      "thumbnail": "https://img.youtube.com/vi/_6VOEvdU6hM/maxresdefault.jpg",
-      "published": "2026-01-30T14:37:30+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_B51v9kJQuKo",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "【庫存影片】仁頃事件，一個被NHK封殺的接觸事件。（本影片拍攝於1年前，因為特殊原因封存至今） | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=B51v9kJQuKo",
-      "thumbnail": "https://img.youtube.com/vi/B51v9kJQuKo/maxresdefault.jpg",
-      "published": "2025-12-24T13:07:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_ESObIvXrKZI",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "【庫存影片】百慕大三角（拍攝於2022年2月，由於特殊原因封存至今） | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=ESObIvXrKZI",
-      "thumbnail": "https://img.youtube.com/vi/ESObIvXrKZI/maxresdefault.jpg",
-      "published": "2025-11-12T13:23:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Iocm-1dXr-Q",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "目前為止最可信的地外生命存在的證據 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=Iocm-1dXr-Q",
-      "thumbnail": "https://img.youtube.com/vi/Iocm-1dXr-Q/maxresdefault.jpg",
-      "published": "2025-10-01T14:38:48+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_VdF4cd0SitU",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "臭氧空洞，人類距離滅絕最近的一次 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=VdF4cd0SitU",
-      "thumbnail": "https://img.youtube.com/vi/VdF4cd0SitU/maxresdefault.jpg",
-      "published": "2025-09-17T14:33:34+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_8Cg3p9K0il4",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "送给所有知道我名字的人！For Everyone Who Knows My Name.丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=8Cg3p9K0il4",
-      "thumbnail": "https://img.youtube.com/vi/8Cg3p9K0il4/maxresdefault.jpg",
-      "published": "2024-11-13T04:31:19+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_JJL3ZKrHeKM",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "拿柴房造了一个森林衣帽间~I turned the Woodshed into a Forest-Themed Closet.丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=JJL3ZKrHeKM",
-      "thumbnail": "https://img.youtube.com/vi/JJL3ZKrHeKM/maxresdefault.jpg",
-      "published": "2024-11-12T09:00:19+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_IrXjnw8BpM0",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "奶奶的衣柜坏了，给她翻新了一下。My grandma’s wardrobe was broken, so I gave it a makeover.丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=IrXjnw8BpM0",
-      "thumbnail": "https://img.youtube.com/vi/IrXjnw8BpM0/maxresdefault.jpg",
-      "published": "2024-11-12T08:30:06+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_u-xS-dkz3a0",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "我们中国人的开门七件事，柴米油盐酱醋茶 Firewood, rice, oil, salt, soy sauce, vinegar, and tea丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=u-xS-dkz3a0",
-      "thumbnail": "https://img.youtube.com/vi/u-xS-dkz3a0/maxresdefault.jpg",
-      "published": "2021-07-14T12:12:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_RagTZHPrn_o",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "Wine table of winding canal—an exciting by-product of watching TV!这是一个看电视看出来的曲水流觞桌！丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=RagTZHPrn_o",
-      "thumbnail": "https://img.youtube.com/vi/RagTZHPrn_o/maxresdefault.jpg",
-      "published": "2021-06-05T14:12:40+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_3KfvUCKxCts",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "喝的是茶，过的是生活 Tea is more than a drink, but a lifestyle.丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=3KfvUCKxCts",
-      "thumbnail": "https://img.youtube.com/vi/3KfvUCKxCts/maxresdefault.jpg",
-      "published": "2021-05-27T13:15:09+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_J4Y12QLEaXs",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "Make a peach blossom crown with silk flowers | 用绢花工艺做了套桃花发冠，带上爱人浪了一把春天丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=J4Y12QLEaXs",
-      "thumbnail": "https://img.youtube.com/vi/J4Y12QLEaXs/maxresdefault.jpg",
-      "published": "2021-04-06T12:29:12+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_sGOTCCVDLtQ",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "Chinese New Year’s decorations, goods and snacks！明日除夕，挂灯笼、贴对联、备好年货过大年啦！丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=sGOTCCVDLtQ",
-      "thumbnail": "https://img.youtube.com/vi/sGOTCCVDLtQ/maxresdefault.jpg",
-      "published": "2021-02-10T13:00:28+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_B6bJ_vTslyo",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "The last episode of the “Life Series”: The life of white radish!一生系列产品最后一个视频——萝卜的一生丨Liziqi Channel",
-      "url": "https://www.youtube.com/watch?v=B6bJ_vTslyo",
-      "thumbnail": "https://img.youtube.com/vi/B6bJ_vTslyo/maxresdefault.jpg",
-      "published": "2021-01-09T11:45:17+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_YKIXHn3kDL0",
-      "source": "李子柒",
-      "sourceId": "liziqi",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "May the red, red persimmons bring you a happy, prosperous new year!❤️愿一串串的红柿子给大家带来新一年的柿柿顺心 | Liziqi",
-      "url": "https://www.youtube.com/watch?v=YKIXHn3kDL0",
-      "thumbnail": "https://img.youtube.com/vi/YKIXHn3kDL0/maxresdefault.jpg",
-      "published": "2020-12-09T10:55:12+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "x_9327720978",
