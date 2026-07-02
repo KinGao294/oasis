@@ -1,7 +1,225 @@
 {
-  "last_updated": "2026-07-01T03:23:33.165460Z",
-  "count": 61,
+  "last_updated": "2026-07-02T02:49:59.824531Z",
+  "count": 41,
   "items": [
+    {
+      "id": "x_2072510943742001568",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "感觉今天都没什么动静，是不是都在蹬 Fable 5 啊？ 我早上起来第一件事，就是找了一个巨大的任务直接塞给他，让他自己跑了",
+      "url": "https://x.com/op7418/status/2072510943742001568",
+      "images": null,
+      "published": "2026-07-02T02:41:29+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2072510211626336740",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "终于上了！ 藏师傅现在这个 Skills 可以帮你做 Live Photo。 我过去一段时间用下来，发现这个能力非常有用。它比做成视频的难度要低得非常非常多 又可以帮你展示一些需要动态展示的东西，比如： 1. 步骤说明 2. 不同角度的产品细节 3. 带动效的网页展示等等 这个 Skills 基本上把做 Live Photo 的门槛拉得非常低。 你只需要给它文案和你随便录制的一段视频，它就可以帮你编辑排版，变成一个带文字的 Live Photo。 当然，一些基础的 Live Photo 编辑它也能帮你做（比如拼图、夹子等），比你在市面上能找到的对应产品要方便很多。 Video 歸藏(guizang.ai) (@op7418) Article 能帮你做 Live Photo 了！藏师傅社交卡片 Skill 重磅更新 前段时间我做了一个 guizang-social-card-skill（https://github.com/op7418/guizang-social-card-skill）。 它原来主要解决静态图文的问题: 把文章、产品说明、截图、照片这些素材，做成小红书 3:4 图文卡片，或者公众号封面。 — https://nitter.net/op7418/status/2072509798026006965#m",
+      "url": "https://x.com/op7418/status/2072510211626336740",
+      "images": null,
+      "published": "2026-07-02T02:38:34+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2072509798026006965",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Article 能帮你做 Live Photo 了！藏师傅社交卡片 Skill 重磅更新 前段时间我做了一个 guizang-social-card-skill（https://github.com/op7418/guizang-social-card-skill）。 它原来主要解决静态图文的问题: 把文章、产品说明、截图、照片这些素材，做成小红书 3:4 图文卡片，或者公众号封面。",
+      "url": "https://x.com/op7418/status/2072509798026006965",
+      "images": null,
+      "published": "2026-07-02T02:36:55+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2072495124513456371",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "而且居然还重置了 歸藏(guizang.ai) (@op7418) Fable 5 重新上线了 — https://nitter.net/op7418/status/2072492875842252858#m",
+      "url": "https://x.com/op7418/status/2072495124513456371",
+      "images": null,
+      "published": "2026-07-02T01:38:37+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2072492875842252858",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Fable 5 重新上线了 Claude (@claudeai) Fable 5 is back. Video — https://nitter.net/claudeai/status/2072402636813607381#m",
+      "url": "https://x.com/op7418/status/2072492875842252858",
+      "images": null,
+      "published": "2026-07-02T01:29:41+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2072403699566030929",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Take Fable 5 for a spin in Cursor: Cursor (@cursor_ai) Claude Fable 5 is available again in Cursor. It leads all models on CursorBench, but is the most expensive per task. — https://nitter.net/cursor_ai/status/2072403323844428217#m",
+      "url": "https://x.com/benln/status/2072403699566030929",
+      "images": null,
+      "published": "2026-07-01T19:35:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_08hgAtg-P_8",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Codex for Solutions Engineers: Making AI Tangible for Customers",
+      "url": "https://www.youtube.com/watch?v=08hgAtg-P_8",
+      "thumbnail": "https://img.youtube.com/vi/08hgAtg-P_8/maxresdefault.jpg",
+      "published": "2026-07-01T18:31:25+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2072371518844141979",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Open to San Francisco, New York or remote more details here: cursor.com/careers/community…",
+      "url": "https://x.com/benln/status/2072371518844141979",
+      "images": null,
+      "published": "2026-07-01T17:27:27+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2072370142667825391",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "We’re hiring for the Community team at Cursor! Looking for a builder at heart who cares deeply about community and can build the technical foundation that powers our community programs at scale. Reach out if you know someone who would be a great fit for this role!",
+      "url": "https://x.com/benln/status/2072370142667825391",
+      "images": null,
+      "published": "2026-07-01T17:21:59+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_IUGEvzfvUWU",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Setup with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=IUGEvzfvUWU",
+      "thumbnail": "https://img.youtube.com/vi/IUGEvzfvUWU/maxresdefault.jpg",
+      "published": "2026-07-01T14:30:32+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_N3Hzsf2PuHA",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Grow With ChatGPT",
+      "url": "https://www.youtube.com/watch?v=N3Hzsf2PuHA",
+      "thumbnail": "https://img.youtube.com/vi/N3Hzsf2PuHA/maxresdefault.jpg",
+      "published": "2026-07-01T14:28:59+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2072302070577672392",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Kyiv",
+      "url": "https://x.com/benln/status/2072302070577672392",
+      "images": null,
+      "published": "2026-07-01T12:51:29+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2072185918958760047",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Fable 5 正式启用的细则来了。 将于美国时间 7 月 1 号恢复全球上线。 在 Claude 平台、Claude Code、Claude CodeWork 都可以用。 Pro、Max 和 Team 用户，在 7 月 7 号前，Fable 包含在每周用量限额的最多 50% 以内。 7 月 7 日以后，就需要拆成单独的额度扣除积分了。 目前 AWS、微软和谷歌云服务的接入还没有恢复。 这次它的安全分类器会设置更大的安全阈量，所以导致这次开放以后，拒绝服务的概率可能比刚开始那几天还要高。 歸藏(guizang.ai) (@op7418) Anthropic 每天都能整点新活，感觉现在大家都习惯了 昨天被爆出在系统提示中，以用户无法察觉的方式将市区代理和 AI 实验室信息放进去，用这种方式获取一些用户的信息。 结果被发现并传播以后，又赶紧说以前我们不用这种方式了，或者说这种方式本来就准备下掉，明天就下掉，又当又立了。 昨晚发布的 Sonnet 5 在测试中发现，它的测试结果虽然接近了 Opus 4.8，但任务成本可能比 Opus 4.8 还高，甚至在完成测试任务上的成本接近了 Fable 5。 所以说它的综合成本可能比 4.8 贵得多，这模型真离谱。而且很多人的体感反馈也不是很好，说它会偷懒，还会拒绝执行任务。 唯一好的一点是，Fable 5 模型终于被授权重新开放给所有用户了，明天就能知道具体措施了，这也解释了为什么前几天会大规模封号。 — https://nitter.net/op7418/status/2072141491842261119#m",
+      "url": "https://x.com/op7418/status/2072185918958760047",
+      "images": null,
+      "published": "2026-07-01T05:09:57+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2072141791269392594",
       "source": "归藏",
@@ -71,23 +289,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2072127004007354848",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Fable 5 终于要恢复了，不知道是面向美国人还是全球的 Anthropic (@AnthropicAI) We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. We’re grateful to our users for their patience, and to everyone who worked with us on redeploying the models. — https://nitter.net/AnthropicAI/status/2072106151890809341#m",
-      "url": "https://x.com/op7418/status/2072127004007354848",
-      "images": null,
-      "published": "2026-07-01T01:15:50+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2072014056496492646",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -105,57 +306,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2071974240069517712",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "github.com/op7418/CodePilot/… Link Release CodePilot v0.56.3 · op7418/CodePilot CodePilot v0.56.3 新增 ClinePass 与 OpenCode Go 两类订阅服务商接入，并彻底修复发送后输入框文本残留、服务商弹窗关闭按钮等体验问题。推荐升级。 新增功能 接入 ClinePass 订阅 — 在「添加服务 > Coding Plan」里新增 ClinePass（月付订阅，提供一组开源编程模型）。填一个 API Key 即可在 CodePilo... github.com",
-      "url": "https://x.com/op7418/status/2071974240069517712",
-      "images": null,
-      "published": "2026-06-30T15:08:48+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2071974194200633787",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "CodePilot 0.5.6.3 已经更新。 今天新上 ClinePass 以及之前的 Opencode GO，这两个 Codeplan 套餐，想体验的可以试试 歸藏(guizang.ai) (@op7418) Cline 推出了一个每月 9.9 美元的 token plan, 支持调用 DeepSeek、Kimi、MiniMax、MIMO 和千问，还有 GLM5.2 现在好像还有 1.99 美元的优惠。 海外这种聚合的 token plan 也越来越多了，而且他们如果有渠道的话，更方便去推理服务的供应商也不缺卡 — https://nitter.net/op7418/status/2071784028634775895#m",
-      "url": "https://x.com/op7418/status/2071974194200633787",
-      "images": null,
-      "published": "2026-06-30T15:08:37+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_5PONSpAlwFo",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Let AI Run My Entire Business (Zapier MCP)",
-      "url": "https://www.youtube.com/watch?v=5PONSpAlwFo",
-      "thumbnail": "https://img.youtube.com/vi/5PONSpAlwFo/maxresdefault.jpg",
-      "published": "2026-06-30T13:25:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2071939564575309872",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -170,57 +320,6 @@
       "url": "https://x.com/benln/status/2071939564575309872",
       "images": null,
       "published": "2026-06-30T12:51:01+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2071919748456304733",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "有了 Seedance 2.0 之后 AI 视频短片生态飞速发展 最近还有一个搞笑的是，做《神秘复苏》AI 视频的三个博主，被《神秘复苏》动画的官方举报删视频了。 这三个人的 AI 视频都做得挺好的，粉丝也不少。 结果那些小说粉丝就去把《神秘复苏》动画片官方的 PV 给举报下架了",
-      "url": "https://x.com/op7418/status/2071919748456304733",
-      "images": null,
-      "published": "2026-06-30T11:32:17+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2071874457682215391",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "卧槽 这么离谱啊 居然sir (@juransir) 账号没被封的时候一直忍住没骂过 A 社，这下被封了可以放心开骂了。 通知邮件里还装追踪器，看我在什么位置打开的邮件。 ​ ​全球 AI 厂就属你丫最心术不正，还整天搁那装大尾(yǐ) 巴狼。 ​ ​早晚得遭报应。❤️ — https://nitter.net/juransir/status/2071628554392207734#m",
-      "url": "https://x.com/op7418/status/2071874457682215391",
-      "images": null,
-      "published": "2026-06-30T08:32:18+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2071828083083190280",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Anthropic 封号挺猛啊，很多都炸了",
-      "url": "https://x.com/op7418/status/2071828083083190280",
-      "images": null,
-      "published": "2026-06-30T05:28:02+00:00",
       "hasTranscript": false
     },
     {
@@ -291,23 +390,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_HIomv6WAxfs",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Gave an AI Agent 7 Days to Build Me a Startup",
-      "url": "https://www.youtube.com/watch?v=HIomv6WAxfs",
-      "thumbnail": "https://img.youtube.com/vi/HIomv6WAxfs/maxresdefault.jpg",
-      "published": "2026-06-29T09:55:11+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2071247361821544924",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -325,23 +407,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_JNu6c4G6q5M",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "This is New Media",
-      "url": "https://www.youtube.com/watch?v=JNu6c4G6q5M",
-      "thumbnail": "https://img.youtube.com/vi/JNu6c4G6q5M/maxresdefault.jpg",
-      "published": "2026-06-26T19:58:27+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_SPC_yCe1cUw",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -356,23 +421,6 @@
       "published": "2026-06-26T19:40:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2070501406000222625",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Dubai",
-      "url": "https://x.com/benln/status/2070501406000222625",
-      "images": null,
-      "published": "2026-06-26T13:36:17+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_mFwWax5pLTs",
@@ -426,91 +474,6 @@
       "transcriptPreview": "本期节目由AI轻办公神器vivo X Fold6赞助播出 今年4月的伦敦马拉松，肯尼亚选手萨维以 1小时59分30秒 的成绩夺冠，成为首位在正式马拉松比赛中跑进2小时的运动员，这场比赛的亚军克杰勒恰同样跑进了2小时，创造了历史。 事后媒体关注到，萨维和克杰勒恰，包括这场比赛的女子冠军阿塞法，他们穿的鞋，都是阿迪达斯的Adios Pro EVO 3。但在此之前，统治马拉松赛场10年之久的一直是耐克，"
     },
     {
-      "id": "x_2070141099469898085",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Early teams matter a lot",
-      "url": "https://x.com/benln/status/2070141099469898085",
-      "images": null,
-      "published": "2026-06-25T13:44:34+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_ssTgNTNjlsk",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Let an AI Agent Run 5 Dead Websites for 30 Days",
-      "url": "https://www.youtube.com/watch?v=ssTgNTNjlsk",
-      "thumbnail": "https://img.youtube.com/vi/ssTgNTNjlsk/maxresdefault.jpg",
-      "published": "2026-06-25T10:58:52+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_gKboAPejVM8",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Against all odds. Congratulations Elon Musk and SpaceX.",
-      "url": "https://www.youtube.com/watch?v=gKboAPejVM8",
-      "thumbnail": "https://img.youtube.com/vi/gKboAPejVM8/maxresdefault.jpg",
-      "published": "2026-06-24T20:03:43+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2069835642469511517",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Scale and quality of Cursor's internally built tools is wild A few I've come across recently: pulse survey, pitch practice, team referrals, org chart, customer meeting prep, in-app ad previewer, credit generator.",
-      "url": "https://x.com/benln/status/2069835642469511517",
-      "images": null,
-      "published": "2026-06-24T17:30:47+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2069767081956925482",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cursor keycaps",
-      "url": "https://x.com/benln/status/2069767081956925482",
-      "images": null,
-      "published": "2026-06-24T12:58:21+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_mVpCDzoNtxA",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -559,105 +522,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_27-GjDIWGo0",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "How Zendesk CEO Tom Eggemeier goes from Idea to Action",
-      "url": "https://www.youtube.com/watch?v=27-GjDIWGo0",
-      "thumbnail": "https://img.youtube.com/vi/27-GjDIWGo0/maxresdefault.jpg",
-      "published": "2026-06-22T17:45:36+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_yfafpyhB-8E",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Why Attention is Becoming a Competitive Advantage | a16z",
-      "url": "https://www.youtube.com/watch?v=yfafpyhB-8E",
-      "thumbnail": "https://img.youtube.com/vi/yfafpyhB-8E/maxresdefault.jpg",
-      "published": "2026-06-22T14:35:28+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_LEPkmqIc9OU",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Replaced My Ad Agency With One AI. It Actually Worked.",
-      "url": "https://www.youtube.com/watch?v=LEPkmqIc9OU",
-      "thumbnail": "https://img.youtube.com/vi/LEPkmqIc9OU/maxresdefault.jpg",
-      "published": "2026-06-22T12:20:29+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_0JIbgZ544wU",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "What Codex Unlocks for NTT Data",
-      "url": "https://www.youtube.com/watch?v=0JIbgZ544wU",
-      "thumbnail": "https://img.youtube.com/vi/0JIbgZ544wU/maxresdefault.jpg",
-      "published": "2026-06-19T22:57:58+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_YPNOjXTDP9c",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Plan with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=YPNOjXTDP9c",
-      "thumbnail": "https://img.youtube.com/vi/YPNOjXTDP9c/maxresdefault.jpg",
-      "published": "2026-06-19T21:22:26+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_XROaLetSxg0",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Media Game Has Changed",
-      "url": "https://www.youtube.com/watch?v=XROaLetSxg0",
-      "thumbnail": "https://img.youtube.com/vi/XROaLetSxg0/maxresdefault.jpg",
-      "published": "2026-06-19T14:40:13+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_47b7778e_1ed6_4dab_b7c9_8b4a6555b867",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -675,40 +539,6 @@
       "published": "2026-06-17T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "5月初，OpenAI成立了Deployment Company（部署公司），Anthropic也宣布与包括Blackstone在内的多家金融机构合作成立合资企业。这些顶尖模型公司，都开始押注同一种服务：不只是提供AI工具，而是深入企业内部，在具体业务场景中把AI能力真正部署起来。 这也让一个工种迅速走到台前：Forward Deployment Engineer（FDE），前线部署工程师。他们既要"
-    },
-    {
-      "id": "yt_RMDJ23u1FZc",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "The Best AI Web Scraper in 2026? I Tested 3",
-      "url": "https://www.youtube.com/watch?v=RMDJ23u1FZc",
-      "thumbnail": "https://img.youtube.com/vi/RMDJ23u1FZc/maxresdefault.jpg",
-      "published": "2026-06-17T09:09:09+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_vXJx9wzBT0M",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "Biological Computers Are Real Now. I Tried One",
-      "url": "https://www.youtube.com/watch?v=vXJx9wzBT0M",
-      "thumbnail": "https://img.youtube.com/vi/vXJx9wzBT0M/maxresdefault.jpg",
-      "published": "2026-06-12T09:16:59+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_259291f5_2715_4dde_bcfe_b5beb4df5793",
@@ -730,108 +560,6 @@
       "transcriptPreview": "SpaceX上市进入最后倒计时，在它那份长达280页的招股说明书里，月球基地、点对点地表旅行、在轨制造、火星货物……这些别的公司不敢写的科幻元素，它都写了。但更让人印象深刻的是SpaceX的AI叙事，它预测在28.5万亿美元总潜在市场中，有超过90%来自AI板块，而这部分将受到“地球无法快速扩展发电能力”的严重制约。 面对电力紧缺，SpaceX的答案是：把数据中心搬上太空。上周一，马斯克在一段关于"
     },
     {
-      "id": "yt_Vl9dbvKMSfU",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Hacked an AI Customer Service Agent in 8 Seconds",
-      "url": "https://www.youtube.com/watch?v=Vl9dbvKMSfU",
-      "thumbnail": "https://img.youtube.com/vi/Vl9dbvKMSfU/maxresdefault.jpg",
-      "published": "2026-06-09T09:03:25+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_ktl8mNiWqMM",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Economics of AI Usage and What's Next For SaaS | Benedict Evans on a16z",
-      "url": "https://www.youtube.com/watch?v=ktl8mNiWqMM",
-      "thumbnail": "https://img.youtube.com/vi/ktl8mNiWqMM/maxresdefault.jpg",
-      "published": "2026-06-08T14:30:24+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_8COJ7vqAK0Q",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Built an AI That Wrote Me a Country Breakup Song",
-      "url": "https://www.youtube.com/watch?v=8COJ7vqAK0Q",
-      "thumbnail": "https://img.youtube.com/vi/8COJ7vqAK0Q/maxresdefault.jpg",
-      "published": "2026-06-02T09:52:48+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_AiM9mZCmVPY",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The New Rule for Picking AI Winners | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=AiM9mZCmVPY",
-      "thumbnail": "https://img.youtube.com/vi/AiM9mZCmVPY/maxresdefault.jpg",
-      "published": "2026-05-29T14:29:06+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_co_fghzNz08",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Quit Chrome for an AI Browser. It Actually Worked.",
-      "url": "https://www.youtube.com/watch?v=co_fghzNz08",
-      "thumbnail": "https://img.youtube.com/vi/co_fghzNz08/maxresdefault.jpg",
-      "published": "2026-05-29T10:33:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_oYK_MmZW9XI",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Private Markets, Software Repricing and Capital Allocation | Marc Rowan on a16z",
-      "url": "https://www.youtube.com/watch?v=oYK_MmZW9XI",
-      "thumbnail": "https://img.youtube.com/vi/oYK_MmZW9XI/maxresdefault.jpg",
-      "published": "2026-05-27T14:00:13+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_51260de8_60ef_4b76_b3e5_2e559c4a0923",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -851,23 +579,6 @@
       "transcriptPreview": "“Harness Engineering”（挽具工程）正在成为硅谷的新共识，Anthropic、OpenAI等公司都在探索这一工程范式。但真正理解Harness的人还不多。前不久，一篇题为《Why Your “AI-First” Strategy Is Probably Wrong》的文章在X上获得百万级阅读和热议，作者是来自硅谷CreaoAI的Peter Pang。在这篇文章里，Peter展示了"
     },
     {
-      "id": "yt_iVIqeAw46B8",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Let AI Cold-Call 100 Plumbers (Genspark)",
-      "url": "https://www.youtube.com/watch?v=iVIqeAw46B8",
-      "thumbnail": "https://img.youtube.com/vi/iVIqeAw46B8/maxresdefault.jpg",
-      "published": "2026-05-22T11:45:38+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_c3607c08_6eb6_48bd_8250_b41b5b8272e6",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -885,57 +596,6 @@
       "published": "2026-05-20T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "离美加墨世界杯开赛还有一个月，央视和国际足联FIFA之间的版权谈判终于是谈妥了，本期我们来聊聊世界杯的定价逻辑与体育赛事版权生意的变化脉络。 【主播】 麻花，硅谷101特约研究员 【嘉宾】 朱晓东，力赞体育CEO ，本届世界杯日本转播权销售顾问 张宾，《体育产业独立评论》主理人 【你将听到】 谈判的虚惊一场，赞助商的从中斡旋 02:40 价格细节：打包的版权交易里，很少透露单届的价格 04:25 "
-    },
-    {
-      "id": "yt_pddFfZy4nZU",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Is Defense the Next Trillion-Dollar Category? | a16z American Dynamism Summit",
-      "url": "https://www.youtube.com/watch?v=pddFfZy4nZU",
-      "thumbnail": "https://img.youtube.com/vi/pddFfZy4nZU/maxresdefault.jpg",
-      "published": "2026-05-19T14:30:37+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Ie07zcmbnhM",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How Founders Can Build for Law Enforcement and First Responders | The a16z Show",
-      "url": "https://www.youtube.com/watch?v=Ie07zcmbnhM",
-      "thumbnail": "https://img.youtube.com/vi/Ie07zcmbnhM/maxresdefault.jpg",
-      "published": "2026-05-18T14:30:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_4aU4y02V8AA",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Brian Chesky on the three stages of building a company.",
-      "url": "https://www.youtube.com/watch?v=4aU4y02V8AA",
-      "thumbnail": "https://img.youtube.com/vi/4aU4y02V8AA/maxresdefault.jpg",
-      "published": "2026-05-14T22:00:38+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_b066c769_00d2_4341_bf61_a82bca4181e4",
