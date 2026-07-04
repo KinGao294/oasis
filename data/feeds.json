@@ -1,7 +1,109 @@
 {
-  "last_updated": "2026-07-03T02:32:45.731338Z",
+  "last_updated": "2026-07-04T02:30:13.308666Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2073221551680541110",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "期间我一共介入两次",
+      "url": "https://x.com/op7418/status/2073221551680541110",
+      "images": null,
+      "published": "2026-07-04T01:45:11+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2073221461792464953",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "从前天 Fable 5 上线早上开始到现在，Fable 5 和 Codex 一起完成了它的第一个 loop 循环。 帮我的 CodePilot 完成了 AI SDK 7 的所有升级。 已经跑了两天整，目前我的额度还没有用完，所以 Fable 5 可以不用开很高的思考额度",
+      "url": "https://x.com/op7418/status/2073221461792464953",
+      "images": null,
+      "published": "2026-07-04T01:44:49+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_XwfUzW32cIA",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "a16z Goes Global: Why American Tech Must Lead the World",
+      "url": "https://www.youtube.com/watch?v=XwfUzW32cIA",
+      "thumbnail": "https://img.youtube.com/vi/XwfUzW32cIA/maxresdefault.jpg",
+      "published": "2026-07-03T14:38:55+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2073047667819663788",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Santiago",
+      "url": "https://x.com/benln/status/2073047667819663788",
+      "images": null,
+      "published": "2026-07-03T14:14:14+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2073020264083050811",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "藏师傅的 PPT Skill 再配上 Pencil 太爽了！ 昨天评论里有个朋友分享给了我启发： 把藏师傅的 PPT 配上 Pencil，就可以直接在 Pencil 里一次性看到所有生成的 PPT 页面。 这种方式不仅编辑起来非常方便，还能导出网页和对应的编辑文件。我试了一下，体验确实非常爽。 虽然 AI 生成内容时不可避免会出现一些排版上的小问题，比如元素重叠或者对齐不准之类的情况，但在 Pencil 里你完全可以手动调整，比如： 1. 对齐元素 2. 修改字体 3. 调整重叠的部分 而且 Pencil 作为一个专业的设计软件，它的可编辑性非常强，甚至比 PPT 软件本身能做的还要多很多，尤其是对齐、嵌套和打组等操作非常方便。 我录了个视频教一下大家，推荐你们也试试这种用法。 这样的话，你可以从它导出 PNG 图片，然后直接放到你的 PPT 里边。 或者也可以直接在 PPT 里进行演示，然后你直接替换对应 PPT 页面的图片就行了 Video 歸藏(guizang.ai) (@op7418) Article 压进我十年设计经验的 PPT Skills，迎来大波更新 上次开源 guizang-ppt-skill（github.com/op7418/guizang-ppt-skill） 之后，大家都非常喜欢，短短几周 Github Star 来到了 6000 多。而且也被非常火的开源 Claude Design 参考放了进去。 我也在线上线下非常多的地方看到了这个 — https://nitter.net/op7418/status/2053657613460771142#m",
+      "url": "https://x.com/op7418/status/2073020264083050811",
+      "images": null,
+      "published": "2026-07-03T12:25:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_XBD-kciNg5Y",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Used an AI to Take All My Notes for a Week (TicNote Cloud)",
+      "url": "https://www.youtube.com/watch?v=XBD-kciNg5Y",
+      "thumbnail": "https://img.youtube.com/vi/XBD-kciNg5Y/maxresdefault.jpg",
+      "published": "2026-07-03T09:15:41+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "x_2072689262865133735",
       "source": "Ben Lang",
@@ -272,57 +374,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2072141791269392594",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Fable 5 开放 Anthropic (@AnthropicAI) We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. We’re grateful to our users for their patience, and to everyone who worked with us on redeploying the models. — https://nitter.net/AnthropicAI/status/2072106151890809341#m",
-      "url": "https://x.com/op7418/status/2072141791269392594",
-      "images": null,
-      "published": "2026-07-01T02:14:36+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2072141663225720990",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "关于系统提示后门： International Cyber Digest (@IntCyberDigest) ‼️ BREAKING: Anthropic has embedded hidden spyware-like code in Claude Code that covertly targets Chinese users. It then sends information regarding every user by injecting it into their prompt message. Claude Code is sending info like timezone, proxy and possible AI Lab connections into the system prompt in ways Chinese users can't notice. A coding agent with repo and command permissions should not silently hide routing metadata inside prompts. This is a serious breach of user trust. — https://nitter.net/IntCyberDigest/status/2071971609183678544#m",
-      "url": "https://x.com/op7418/status/2072141663225720990",
-      "images": null,
-      "published": "2026-07-01T02:14:05+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2072141578844676113",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "关于价格的细节 Artificial Analysis (@ArtificialAnlys) Claude Sonnet 5 achieves 53 on the Artificial Analysis Intelligence Index, but without promotional pricing will cost more per task than Opus 4.8 We supported @AnthropicAI to evaluate Claude Sonnet 5 ahead of release: with max effort it improves 6 points over Sonnet 4.6 to achieve the same Intelligence Index as GPT-5.5 with high reasoning, but remains behind Opus 4.7 and 4.8 Key takeaways: ➤ Claude Sonnet 5 is the #5 model on the Artificial Analysis Intelligence Index, only 2-3 points behind GPT-5.5 (xhigh) and Opus 4.8 (max) ➤ With max effort, Sonnet 5 works harder than previous Anthropic models: it used ~40% more output tokens per Intelligence Index task than Sonnet 4.6, and ~3x the agentic turns for our knowledge work evaluations AA-Briefcase and GDPval-AA. This behavior scales well with the ‘effort’ setting, with the max effort using around 6x more turns than low effort on GDPval-AA ➤ Claude Sonnet 5 costs more per task than Opus 4.8 before accounting for promotional pricing: Claude Sonnet 5 costs $2.29 per task on the Intelligence Index, a ~2x increase compared to Sonnet 4.6 and ~15% more than Claude Opus 4.8. This is driven entirely by increased token usage. Sonnet 5 retains the same $3/$15 per 1M input/output token pricing as Sonnet 4.6 (compared to $5/$25 for Opus 4.8), however Anthropic is offering a one-third reduction to $2/$10 until September 1. Our results use standard $3/$15 pricing ➤ Sonnet 5 matches or outperforms Opus 4.8 on agentic knowledge work tasks: on both AA-Briefcase and GDPval-AA, Claude Sonnet 5 sits just ahead of Opus 4.8, trailing only Claude Fable 5 (which is not currently generally available). These benchmarks test the ability of models to produce accurate and well-presented professional outputs using our open source reference agent harness, Stirrup ➤ For reasoning and knowledge-heavy tasks, Sonnet still sits behind its larger siblings: despite substantial gains across many evaluations, heavy reasoning and knowledge benchmarks still show Opus 4.8 ahead of Sonnet 5. On CritPt, a frontier physics reasoning benchmark developed by researchers at Argonne and UIUC, Sonnet 5 scores 17% - this is 14 points higher than its predecessor, but behind GLM-5.2, Claude Opus and Fable, and GPT-5.5 (xhigh and Pro) ➤ Sonnet 5 also showed significant improvements over Sonnet 4.6 on Terminal-Bench v2.1 (+9 points), Humanity’s Last Exam (+10 points), and SciCode (+7 points), with relatively flat scores elsewhere Other key model details: ➤ Context window of 1 million tokens (equivalent to Sonnet 4.6) ➤ Pricing of $3/$15 per 1M tokens of input/output (reduced to $2/$10 until September 1); cache pricing remains at a 25% premium for cache writes ($3.75 per million tokens) with 5-minute time to live, and 90% discount for cache hits ($0.3 per million tokens) ➤ Effort remains the recommended way of configuring model performance and latency. Sonnet 5 adds an additional ‘xhigh’ effort setting relative to Sonnet 4.6, matching the 5 effort levels available on Opus 4.8 (max, xhigh, high, medium, low) — https://nitter.net/ArtificialAnlys/status/2072062592923930666#m",
-      "url": "https://x.com/op7418/status/2072141578844676113",
-      "images": null,
-      "published": "2026-07-01T02:13:45+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_pv1TUJSEM2k",
       "source": "Lex Fridman",
       "sourceId": "lexfridman",
@@ -438,23 +489,6 @@
       "url": "https://x.com/benln/status/2071600168097517613",
       "images": null,
       "published": "2026-06-29T14:22:23+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2071576932622234105",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "We're bringing Cafe Cursor back to London on July 11th Grab coffee & merch, co-work, and meet the team",
-      "url": "https://x.com/benln/status/2071576932622234105",
-      "images": null,
-      "published": "2026-06-29T12:50:03+00:00",
       "hasTranscript": false
     },
     {
@@ -1035,23 +1069,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_co_fghzNz08",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Quit Chrome for an AI Browser. It Actually Worked.",
-      "url": "https://www.youtube.com/watch?v=co_fghzNz08",
-      "thumbnail": "https://img.youtube.com/vi/co_fghzNz08/maxresdefault.jpg",
-      "published": "2026-05-29T10:33:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_oYK_MmZW9XI",
       "source": "a16z",
       "sourceId": "a16z",
@@ -1153,23 +1170,6 @@
       "url": "https://www.youtube.com/watch?v=Ie07zcmbnhM",
       "thumbnail": "https://img.youtube.com/vi/Ie07zcmbnhM/maxresdefault.jpg",
       "published": "2026-05-18T14:30:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_4aU4y02V8AA",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Brian Chesky on the three stages of building a company.",
-      "url": "https://www.youtube.com/watch?v=4aU4y02V8AA",
-      "thumbnail": "https://img.youtube.com/vi/4aU4y02V8AA/maxresdefault.jpg",
-      "published": "2026-05-14T22:00:38+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
