@@ -1,7 +1,41 @@
 {
-  "last_updated": "2026-07-04T02:30:13.308666Z",
+  "last_updated": "2026-07-05T02:40:01.805912Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2073314893693129170",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "非常好联名，使我晕碳",
+      "url": "https://x.com/op7418/status/2073314893693129170",
+      "images": null,
+      "published": "2026-07-04T07:56:05+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2073247762242793579",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "有人需要这种可以做演示视频的 Skill 吗 Video",
+      "url": "https://x.com/op7418/status/2073247762242793579",
+      "images": null,
+      "published": "2026-07-04T03:29:20+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2073221551680541110",
       "source": "归藏",
@@ -207,23 +241,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2072492875842252858",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Fable 5 重新上线了 Claude (@claudeai) Fable 5 is back. Video — https://nitter.net/claudeai/status/2072402636813607381#m",
-      "url": "https://x.com/op7418/status/2072492875842252858",
-      "images": null,
-      "published": "2026-07-02T01:29:41+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2072403699566030929",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -355,23 +372,6 @@
       "published": "2026-07-01T09:16:08+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2072185918958760047",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Fable 5 正式启用的细则来了。 将于美国时间 7 月 1 号恢复全球上线。 在 Claude 平台、Claude Code、Claude CodeWork 都可以用。 Pro、Max 和 Team 用户，在 7 月 7 号前，Fable 包含在每周用量限额的最多 50% 以内。 7 月 7 日以后，就需要拆成单独的额度扣除积分了。 目前 AWS、微软和谷歌云服务的接入还没有恢复。 这次它的安全分类器会设置更大的安全阈量，所以导致这次开放以后，拒绝服务的概率可能比刚开始那几天还要高。 歸藏(guizang.ai) (@op7418) Anthropic 每天都能整点新活，感觉现在大家都习惯了 昨天被爆出在系统提示中，以用户无法察觉的方式将市区代理和 AI 实验室信息放进去，用这种方式获取一些用户的信息。 结果被发现并传播以后，又赶紧说以前我们不用这种方式了，或者说这种方式本来就准备下掉，明天就下掉，又当又立了。 昨晚发布的 Sonnet 5 在测试中发现，它的测试结果虽然接近了 Opus 4.8，但任务成本可能比 Opus 4.8 还高，甚至在完成测试任务上的成本接近了 Fable 5。 所以说它的综合成本可能比 4.8 贵得多，这模型真离谱。而且很多人的体感反馈也不是很好，说它会偷懒，还会拒绝执行任务。 唯一好的一点是，Fable 5 模型终于被授权重新开放给所有用户了，明天就能知道具体措施了，这也解释了为什么前几天会大规模封号。 — https://nitter.net/op7418/status/2072141491842261119#m",
-      "url": "https://x.com/op7418/status/2072185918958760047",
-      "images": null,
-      "published": "2026-07-01T05:09:57+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_pv1TUJSEM2k",
