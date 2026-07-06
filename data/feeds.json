@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-07-05T02:40:01.805912Z",
+  "last_updated": "2026-07-06T02:44:58.857132Z",
   "count": 101,
   "items": [
+    {
+      "id": "pod_guigu101_pod_308f9278_dd48_44d3_a4ce_ee436968fc28",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/308f9278-dd48-44d3-a4ce-ee436968fc28.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 4254,
+      "published": "2026-07-05T17:00:00-07:00",
+      "hasTranscript": false,
+      "transcriptPreview": "从ChatGPT掀起生成式AI浪潮到现在，不过短短两三年，AI能力的进化速度已经让\"AI自我进化\"这件事从科幻走进了现实。上个月，Anthropic在一份公开报告中预测，AI未来将进入\"递归自我提升\"（Recursive Self-Improvement, RSI）阶段，并呼吁人类共同为AI的发展设计出一个减速或暂停机制。 AI自我进化会以多快的速度到来？未来的AI，它会在通往真理的道路上与人类并"
+    },
+    {
+      "id": "x_2073764679520747942",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Rebooting my X group chat for people building projects on Sundays. One rule: you can only post on Sundays. Reply if you want in.",
+      "url": "https://x.com/benln/status/2073764679520747942",
+      "images": null,
+      "published": "2026-07-05T13:43:22+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2073314893693129170",
       "source": "归藏",
@@ -473,23 +509,6 @@
       "published": "2026-06-29T14:30:09+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2071600168097517613",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Big day for Cursor",
-      "url": "https://x.com/benln/status/2071600168097517613",
-      "images": null,
-      "published": "2026-06-29T14:22:23+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_HIomv6WAxfs",
@@ -1314,25 +1333,6 @@
       "published": "2026-04-09T17:35:20+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "pod_guigu101_pod_3bb14dd4_0b13_4173_9d5b_0e63bf98ae1d",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 3996,
-      "published": "2026-04-09T17:00:00-07:00",
-      "hasTranscript": false,
-      "transcriptPreview": "2025年，中国餐饮品牌开启了声势浩大的出海美国。喜茶在纽约开出了更具辨识度的LAB店，霸王茶姬、瑞幸和蜜雪冰城也在这一年正式登陆美国。 但要问目前在美国做得最好的中餐和茶饮品牌，答案可能会出乎你意料——中餐第一是一度退出中国华北市场的鼎泰丰，茶饮标杆则是早在内地销声匿迹的贡茶。 究其原因，餐饮企业想顺利出海美国，不仅需要足够的“做时间的朋友”的耐心，需要对当地商业规则足够了解，更要吃透当地主流人"
     },
     {
       "id": "yt_vif8NQcjVf0",
