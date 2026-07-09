@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-08T02:14:04.348471Z",
+  "last_updated": "2026-07-09T02:32:34.166105Z",
   "count": 101,
   "items": [
     {
-      "id": "yt_pE1ljLVY1Rg",
+      "id": "yt_8xqQzrLf0co",
       "source": "OpenAI",
       "sourceId": "openai",
       "sourceAvatar": null,
@@ -11,12 +11,377 @@
       "domains": [
         "AI"
       ],
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://www.youtube.com/watch?v=pE1ljLVY1Rg",
-      "thumbnail": "https://img.youtube.com/vi/pE1ljLVY1Rg/maxresdefault.jpg",
-      "published": "2026-07-08T00:02:05+00:00",
+      "title": "How Bain Capital Is Scaling AI with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=8xqQzrLf0co",
+      "thumbnail": "https://img.youtube.com/vi/8xqQzrLf0co/maxresdefault.jpg",
+      "published": "2026-07-08T22:51:23+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "yt_9f-Ew_lDtxc",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "The next generation of ChatGPT Voice",
+      "url": "https://www.youtube.com/watch?v=9f-Ew_lDtxc",
+      "thumbnail": "https://img.youtube.com/vi/9f-Ew_lDtxc/maxresdefault.jpg",
+      "published": "2026-07-08T21:13:26+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2074916925486792732",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "New Cursor & SpaceXAI model is now live Take it for a spin, double usage for the first week Cursor (@cursor_ai) We've partnered with SpaceXAI to train Grok 4.5. It’s our most powerful model yet and the first we've built for more than software engineering. — https://nitter.net/cursor_ai/status/2074915744999969059#m",
+      "url": "https://x.com/benln/status/2074916925486792732",
+      "images": null,
+      "published": "2026-07-08T18:01:59+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_KS4X-BPjxN8",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Image interaction with GPT-Live",
+      "url": "https://www.youtube.com/watch?v=KS4X-BPjxN8",
+      "thumbnail": "https://img.youtube.com/vi/KS4X-BPjxN8/maxresdefault.jpg",
+      "published": "2026-07-08T17:37:19+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_QUOwyLwoykU",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Discoverability widgets with GPT-Live",
+      "url": "https://www.youtube.com/watch?v=QUOwyLwoykU",
+      "thumbnail": "https://img.youtube.com/vi/QUOwyLwoykU/maxresdefault.jpg",
+      "published": "2026-07-08T17:36:34+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_3bL6IpdgddQ",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Natural Conversations with GPT-Live",
+      "url": "https://www.youtube.com/watch?v=3bL6IpdgddQ",
+      "thumbnail": "https://img.youtube.com/vi/3bL6IpdgddQ/maxresdefault.jpg",
+      "published": "2026-07-08T17:33:32+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_8vvWTz6N7Qg",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Temporal awareness with GPT-Live",
+      "url": "https://www.youtube.com/watch?v=8vvWTz6N7Qg",
+      "thumbnail": "https://img.youtube.com/vi/8vvWTz6N7Qg/maxresdefault.jpg",
+      "published": "2026-07-08T17:33:31+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_K-fYBO8t3-A",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Listening & Speaking with GPT-Live",
+      "url": "https://www.youtube.com/watch?v=K-fYBO8t3-A",
+      "thumbnail": "https://img.youtube.com/vi/K-fYBO8t3-A/maxresdefault.jpg",
+      "published": "2026-07-08T17:33:31+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_EAN5Cj347PY",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "This is the new ChatGPT Voice, powered by GPT-Live",
+      "url": "https://www.youtube.com/watch?v=EAN5Cj347PY",
+      "thumbnail": "https://img.youtube.com/vi/EAN5Cj347PY/maxresdefault.jpg",
+      "published": "2026-07-08T17:23:27+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_94cXnSu6kUQ",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "OpenAI Academy: Parent-Coaches with the San Antonio Spurs",
+      "url": "https://www.youtube.com/watch?v=94cXnSu6kUQ",
+      "thumbnail": "https://img.youtube.com/vi/94cXnSu6kUQ/maxresdefault.jpg",
+      "published": "2026-07-08T15:25:08+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_J2ZNjSplGd8",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "OpenAI Academy x Veterans Forge | Building with ChatGPT: Practical AI Skills for Veterans",
+      "url": "https://www.youtube.com/watch?v=J2ZNjSplGd8",
+      "thumbnail": "https://img.youtube.com/vi/J2ZNjSplGd8/maxresdefault.jpg",
+      "published": "2026-07-08T15:25:04+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2074869273701593220",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "提示词：用可爱的风格解释大语言模型是如何训练的。",
+      "url": "https://x.com/op7418/status/2074869273701593220",
+      "images": null,
+      "published": "2026-07-08T14:52:38+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2074866690689839508",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "“帮我生成一个游戏 UI 设计图：是一个中国古代探宝风格的三消游戏”",
+      "url": "https://x.com/op7418/status/2074866690689839508",
+      "images": null,
+      "published": "2026-07-08T14:42:22+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2074864696352710699",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "随手拍了照片，让它生成这个宣传图，还不错。 一致性上主要是文字的问题。 如果你不对排版或者内容有要求，它就不会生成对应的文字。这个有的时候比较好，但有的时候如果用户懒的话，就得多写点东西，对提示词的要求稍微高点。",
+      "url": "https://x.com/op7418/status/2074864696352710699",
+      "images": null,
+      "published": "2026-07-08T14:34:27+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2074864290901979554",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "在文字很多的情况下，4K 分辨率没有改善文字效果，还是有点涂抹感",
+      "url": "https://x.com/op7418/status/2074864290901979554",
+      "images": null,
+      "published": "2026-07-08T14:32:50+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2074863856145625515",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "随便点了一张图，让他给这个车生成官网，其他的什么也没说，还不错，跟 GPT 打的有来有回",
+      "url": "https://x.com/op7418/status/2074863856145625515",
+      "images": null,
+      "published": "2026-07-08T14:31:07+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2074862226905948549",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Seedream 5.0 的图像模型上线了。 大概跑了几张图试了一下，整体看起来不错，比之前的图像模型进步很大。 1. 一句话让它生成《黑神话：水浒传》的一个游戏截图 2. 让他生成一张茶叶制作和品种的科普图 3. 给它一个参考图，让它基于这个参考图的组件生成一个 Web 的 UI 设计稿 4. 让他用一张图介绍《凡人修仙传：人界篇》的剧情 不过在文字细节上，目前来看如果文字很多的话，有跟 GPT-4o 类似的问题，就是文字比较糊。 我这个测试的都是 2K 分辨率，从分辨率上来讲是比 GPT-4o 更高一点，但从文字细节上讲是差不多的。",
+      "url": "https://x.com/op7418/status/2074862226905948549",
+      "images": null,
+      "published": "2026-07-08T14:24:38+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_xpeRVyFFy_Q",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Solving the Blank Canvas Problem: Gusto's AI Co-Founder",
+      "url": "https://www.youtube.com/watch?v=xpeRVyFFy_Q",
+      "thumbnail": "https://img.youtube.com/vi/xpeRVyFFy_Q/maxresdefault.jpg",
+      "published": "2026-07-08T14:00:19+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2074847344206430690",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor is open to builders of all ages",
+      "url": "https://x.com/benln/status/2074847344206430690",
+      "images": null,
+      "published": "2026-07-08T13:25:30+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2074800241178808456",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "今天录视频的板书很有意思。以前都是我自己在 Figma Jam 里面去搭大纲，然后去讲。 今天这个是让 Codex 连接了 Figma MCP 以后，基于我的宣传文章自动给我生成的录视频用板书。 它把内容精简了，把需要展示的案例图片都放了进去，我稍微调整一下就可以开始讲了，这个方便了非常多。 歸藏(guizang.ai) (@op7418) 开源一个非常漂亮的文章配图 Skill。 昨天给 Claude 用我的社交媒体卡片生成的时候，Codex 生成了一个配图，我觉得很漂亮、挺有意思。 发出来后大家也都很喜欢，所以顺便就把它做成了一个配图 Skill。 目前只适配了 GPT-Image-2.0 模型。 支持将你的文档或文案发进去，生成一个干净漂亮、带标签的 3D 材质配图。 Video — https://nitter.net/op7418/status/2074758348264833131#m",
+      "url": "https://x.com/op7418/status/2074800241178808456",
+      "images": null,
+      "published": "2026-07-08T10:18:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2074797902036427217",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "详情：github.com/op7418/guizang-ma… Link GitHub - op7418/guizang-material-illustration: 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。. Contribute to op7418/guizang-material-illustration development by creating an account on GitHub. github.com",
+      "url": "https://x.com/op7418/status/2074797902036427217",
+      "images": null,
+      "published": "2026-07-08T10:09:02+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2074730378666168629",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "GPT-5.6 终于要来了！ 周四的话大概是我们这边明天半夜周五凌晨一点左右 OpenAI (@OpenAI) GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now. — https://nitter.net/OpenAI/status/2074704958419792299#m",
+      "url": "https://x.com/op7418/status/2074730378666168629",
+      "images": null,
+      "published": "2026-07-08T05:40:43+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2074728162018152817",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Article 开源一个非常漂亮的文章配图 Skill 今天早上我想给 Claude 的一篇文章配几张 3:4 的社交媒体图。 手边有自己做的社交媒体 Skills，就顺手让 Codex 调了 GPT-Image 2.0。 出来的效果超出预期。干净白底，克制的 3D",
+      "url": "https://x.com/op7418/status/2074728162018152817",
+      "images": null,
+      "published": "2026-07-08T05:31:55+00:00",
+      "hasTranscript": false
     },
     {
       "id": "x_2074560375287116199",
@@ -36,23 +401,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2074558132664336666",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "牛逼！Claude Fable 5 延期到 7 月 12 号。 代表着之前用完限额的，7 月 7 号以后又有 Fable 可以用了，依旧是每周限额的 50% Claude (@claudeai) We're extending access to Claude Fable 5 on all paid plans through July 12. — https://nitter.net/claudeai/status/2074548242386178258#m",
-      "url": "https://x.com/op7418/status/2074558132664336666",
-      "images": null,
-      "published": "2026-07-07T18:16:16+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2074556678545010797",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -67,55 +415,6 @@
       "url": "https://x.com/benln/status/2074556678545010797",
       "images": null,
       "published": "2026-07-07T18:10:30+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_mC8nKdQbbO4",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "How TPG Is Accelerating Investment Research with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=mC8nKdQbbO4",
-      "thumbnail": "https://img.youtube.com/vi/mC8nKdQbbO4/maxresdefault.jpg",
-      "published": "2026-07-07T17:33:50+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_SRXJevuTnNI",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "How TPG Is Accelerating Investment Research with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=SRXJevuTnNI",
-      "thumbnail": "https://img.youtube.com/vi/SRXJevuTnNI/maxresdefault.jpg",
-      "published": "2026-07-07T17:15:23+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2074527631559798981",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "甲木搞的一套公众号排版 Skill，厌烦了手动排版的可以看看 甲木未来派 (@jiamu_future) 开源了，开源了！ 是不是受够了公众号排版？辛苦调好的样式，一粘进编辑器就掉格式？每篇还得手动全选复制、排版还千篇一律？ 我和「摸鱼小李」联名首发一套排版神器 👉 gzh-design-skill 写完 Markdown，它帮你一键排成能直接粘进公众号、且样式不掉的精致 HTML。 四大特色： 1⃣ 6 套精选厚主题：摸鱼绿 / 红白 / 石墨极简 / 留白禅意 / 摸鱼票据 / 橄榄手记 ， 每套都是自成体系的组件库，不是换配色的\"皮肤\" 2⃣ 主题生成器：现成的不够用？一句话描述或甩张参考图，当场现造一套新主题 3⃣ 一键复制：预览页点「复制到公众号」→ 直接粘贴，样式一点不掉，告别手动全选 4⃣ 双关卡校验：脚本确定性兜住公众号平台的各种限制，换啥模型都不走样 ⚡ 不挑模型：Claude / GPT / Gemini + DeepSeek / Kimi / 通义 / GLM 国产模型都能跑 📦 一行安装： npx skills add isjiamu/gzh-design-skill AGPL-3.0 开源 · 欢迎共创 #AgentSkills #公众号排版 #开源 — https://nitter.net/jiamu_future/status/2074309164239864032#m",
-      "url": "https://x.com/op7418/status/2074527631559798981",
-      "images": null,
-      "published": "2026-07-07T16:15:04+00:00",
       "hasTranscript": false
     },
     {
@@ -153,190 +452,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2074443584829522153",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "可以帮你美化图表",
-      "url": "https://x.com/op7418/status/2074443584829522153",
-      "images": null,
-      "published": "2026-07-07T10:41:06+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2074443487140037039",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "咱们做了就要做好。比如说，它可以帮你美化你的图表。",
-      "url": "https://x.com/op7418/status/2074443487140037039",
-      "images": null,
-      "published": "2026-07-07T10:40:43+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_sLYXRA5Ay9g",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Réinventer l'expérience beauté grâce à l'IA",
-      "url": "https://www.youtube.com/watch?v=sLYXRA5Ay9g",
-      "thumbnail": "https://img.youtube.com/vi/sLYXRA5Ay9g/maxresdefault.jpg",
-      "published": "2026-07-07T09:01:40+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2074418123617554650",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这个配图单独整个 Skill 吧： 歸藏(guizang.ai) (@op7418) 临时打包一个 skill，明天发给大家用吧。 — https://nitter.net/op7418/status/2074399847466340772#m",
-      "url": "https://x.com/op7418/status/2074418123617554650",
-      "images": null,
-      "published": "2026-07-07T08:59:56+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_0x4KRxmRGz4",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "What does an AI-native future look like for one of the world's largest automotive marketplaces?",
-      "url": "https://www.youtube.com/watch?v=0x4KRxmRGz4",
-      "thumbnail": "https://img.youtube.com/vi/0x4KRxmRGz4/maxresdefault.jpg",
-      "published": "2026-07-07T08:23:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2074399847466340772",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "临时打包一个 skill，明天发给大家用吧。 歸藏(guizang.ai) (@op7418) 看来大家对我用 Codex 生成的这几张插图的风格也很感兴趣。 — https://nitter.net/op7418/status/2074366176592056358#m",
-      "url": "https://x.com/op7418/status/2074399847466340772",
-      "images": null,
-      "published": "2026-07-07T07:47:18+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2074367201227006368",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "用 Nano Banana 2 超分了一下",
-      "url": "https://x.com/op7418/status/2074367201227006368",
-      "images": null,
-      "published": "2026-07-07T05:37:35+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2074366176592056358",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "看来大家对我用 Codex 生成的这几张插图的风格也很感兴趣。 歸藏(guizang.ai) (@op7418) Claude 官方写了一篇关于 Loop Engineer 的入门文章。 其实现在我们所说的 Loop Engineer，所有的底层逻辑在提出这个概念以前就已经具备了，甚至这些工作流程也是大家一直在用的，只是被套上了一个新的概念。 在这篇文章中，他们把 Loop 分成了四种类型： 回合制循环（Single-turn Loop） 这是最基本的 Claude Code 工作方式。你发出的每一个提示词（Prompt）都是一个循环，在这个循环中你不需要额外干预。Claude Code 完成这个循环后会给你输出，它的具体步骤是：收集上下文、采取行动、检查工作、重复，直到它认为你的提示词任务已经完成，或者觉得需要你介入时才会停止。 基于目标的循环（Goal-oriented Loop） 也就是 GOAL 模式（如 Codex、Claude Code 等工具都支持该模式）。有时候单回合不足以完成复杂任务，系统就会进行多次迭代，直到达成那个更大的目标。 基于时间的循环（Time-based Loop） 也就是 Claude Code 中的 loop 命令。你可以设置在指定的时间间隔自动触发某一个提示词，去运行特定任务，比如定期进行 PR 合并等。 主动循环（Active Loop） 你只需要设置一个事件，一旦该事件发生就会自动触发循环，完全不需要人工干预。例如，一旦 GitHub 上有了新的 Issue 或 PR，AI 就会自动进行审核和记录。 此外，官方还针对 Loop 给出了一些优化建议： 循环的质量取决于系统：你需要保证代码库本身的质量，比如完善的文档、严格的代码审查以及保持代码库的简洁等。 管理你的 Token 消耗：像 GOAL 这种基于目标的模式，对 Token 的消耗是非常巨大的。因此，你需要给循环设置明确的界限，比如什么时候该用大模型、什么时候该用小模型，以及明确的启动和结束条件。否则，一旦系统自己无限制地跑下去，不仅容易跑偏，还会消耗大量的 Token。 这些循环模式，本质上都是由我们现在 Agent 常见的各种能力组合而成的，比如前面提到的 GOAL 模式、Loop 模式，以及常见的 Skills 和 Hooks 等。 — https://nitter.net/op7418/status/2074364045294293191#m",
-      "url": "https://x.com/op7418/status/2074366176592056358",
-      "images": null,
-      "published": "2026-07-07T05:33:31+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2074364045294293191",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Claude 官方写了一篇关于 Loop Engineer 的入门文章。 其实现在我们所说的 Loop Engineer，所有的底层逻辑在提出这个概念以前就已经具备了，甚至这些工作流程也是大家一直在用的，只是被套上了一个新的概念。 在这篇文章中，他们把 Loop 分成了四种类型： 回合制循环（Single-turn Loop） 这是最基本的 Claude Code 工作方式。你发出的每一个提示词（Prompt）都是一个循环，在这个循环中你不需要额外干预。Claude Code 完成这个循环后会给你输出，它的具体步骤是：收集上下文、采取行动、检查工作、重复，直到它认为你的提示词任务已经完成，或者觉得需要你介入时才会停止。 基于目标的循环（Goal-oriented Loop） 也就是 GOAL 模式（如 Codex、Claude Code 等工具都支持该模式）。有时候单回合不足以完成复杂任务，系统就会进行多次迭代，直到达成那个更大的目标。 基于时间的循环（Time-based Loop） 也就是 Claude Code 中的 loop 命令。你可以设置在指定的时间间隔自动触发某一个提示词，去运行特定任务，比如定期进行 PR 合并等。 主动循环（Active Loop） 你只需要设置一个事件，一旦该事件发生就会自动触发循环，完全不需要人工干预。例如，一旦 GitHub 上有了新的 Issue 或 PR，AI 就会自动进行审核和记录。 此外，官方还针对 Loop 给出了一些优化建议： 循环的质量取决于系统：你需要保证代码库本身的质量，比如完善的文档、严格的代码审查以及保持代码库的简洁等。 管理你的 Token 消耗：像 GOAL 这种基于目标的模式，对 Token 的消耗是非常巨大的。因此，你需要给循环设置明确的界限，比如什么时候该用大模型、什么时候该用小模型，以及明确的启动和结束条件。否则，一旦系统自己无限制地跑下去，不仅容易跑偏，还会消耗大量的 Token。 这些循环模式，本质上都是由我们现在 Agent 常见的各种能力组合而成的，比如前面提到的 GOAL 模式、Loop 模式，以及常见的 Skills 和 Hooks 等。 ClaudeDevs (@ClaudeDevs) Article Getting started with loops There’s a lot of talk right now about \"designing loops\" instead of prompting your coding agent. If you spend some time on X trying to pin down what a loop actually is, you&apos;ll come across multiple — https://nitter.net/ClaudeDevs/status/2074208949205881033#m",
-      "url": "https://x.com/op7418/status/2074364045294293191",
-      "images": null,
-      "published": "2026-07-07T05:25:02+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2074338041167335437",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "刚发现藏师傅的 PPT Skills 居然两万 star 了，太猛了！ 歸藏(guizang.ai) (@op7418) Article 压进我十年设计经验的 PPT Skills，迎来大波更新 上次开源 guizang-ppt-skill（github.com/op7418/guizang-ppt-skill） 之后，大家都非常喜欢，短短几周 Github Star 来到了 6000 多。而且也被非常火的开源 Claude Design 参考放了进去。 我也在线上线下非常多的地方看到了这个 — https://nitter.net/op7418/status/2053657613460771142#m",
-      "url": "https://x.com/op7418/status/2074338041167335437",
-      "images": null,
-      "published": "2026-07-07T03:41:43+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_4sexN3yE8xg",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Builders Unscripted: Ep. 5 - Derya Unutmaz",
-      "url": "https://www.youtube.com/watch?v=4sexN3yE8xg",
-      "thumbnail": "https://img.youtube.com/vi/4sexN3yE8xg/maxresdefault.jpg",
-      "published": "2026-07-06T20:03:49+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2074174704806437217",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -352,22 +467,6 @@
       "images": null,
       "published": "2026-07-06T16:52:40+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt_sha3EL1ngN8",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Thomson Reuters CEO Steve Hasker swears by this AI Routine",
-      "url": "https://www.youtube.com/watch?v=sha3EL1ngN8",
-      "thumbnail": "https://img.youtube.com/vi/sha3EL1ngN8/maxresdefault.jpg",
-      "published": "2026-07-06T14:39:55+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "x_2074116581005652371",
@@ -506,88 +605,6 @@
       "images": null,
       "published": "2026-07-02T14:30:03+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "x_2072403699566030929",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Take Fable 5 for a spin in Cursor: Cursor (@cursor_ai) Claude Fable 5 is available again in Cursor. It leads all models on CursorBench, but is the most expensive per task. — https://nitter.net/cursor_ai/status/2072403323844428217#m",
-      "url": "https://x.com/benln/status/2072403699566030929",
-      "images": null,
-      "published": "2026-07-01T19:35:20+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_08hgAtg-P_8",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Codex for Solutions Engineers: Making AI Tangible for Customers",
-      "url": "https://www.youtube.com/watch?v=08hgAtg-P_8",
-      "thumbnail": "https://img.youtube.com/vi/08hgAtg-P_8/maxresdefault.jpg",
-      "published": "2026-07-01T18:31:25+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2072371518844141979",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Open to San Francisco, New York or remote more details here: cursor.com/careers/community…",
-      "url": "https://x.com/benln/status/2072371518844141979",
-      "images": null,
-      "published": "2026-07-01T17:27:27+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_IUGEvzfvUWU",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Setup with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=IUGEvzfvUWU",
-      "thumbnail": "https://img.youtube.com/vi/IUGEvzfvUWU/maxresdefault.jpg",
-      "published": "2026-07-01T14:30:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_N3Hzsf2PuHA",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Grow With ChatGPT",
-      "url": "https://www.youtube.com/watch?v=N3Hzsf2PuHA",
-      "thumbnail": "https://img.youtube.com/vi/N3Hzsf2PuHA/maxresdefault.jpg",
-      "published": "2026-07-01T14:28:59+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_2k4mXX0ovak",
@@ -1033,23 +1050,6 @@
       "url": "https://www.youtube.com/watch?v=Vl9dbvKMSfU",
       "thumbnail": "https://img.youtube.com/vi/Vl9dbvKMSfU/maxresdefault.jpg",
       "published": "2026-06-09T09:03:25+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_qr6kVSKqBqo",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Startup School is back!",
-      "url": "https://www.youtube.com/watch?v=qr6kVSKqBqo",
-      "thumbnail": "https://img.youtube.com/vi/qr6kVSKqBqo/maxresdefault.jpg",
-      "published": "2026-06-08T22:21:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
