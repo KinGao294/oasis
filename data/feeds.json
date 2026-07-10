@@ -1,9 +1,77 @@
 {
-  "last_updated": "2026-07-09T02:32:34.166105Z",
+  "last_updated": "2026-07-10T02:34:54.874100Z",
   "count": 101,
   "items": [
     {
-      "id": "yt_8xqQzrLf0co",
+      "id": "x_2075389540387455355",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "新的这个客户端这套交互真是稀烂。 Claude 分三个 Tab 是因为他没有时间去改那个原来的客户端。 OpenAI 分三个 Tab 是因为他妈的 Claude 分三个 Tab。 歸藏(guizang.ai) (@op7418) OpenAI 昨天晚上发了一堆东西，乱七八糟的。 GPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。 现在 OpenAI 全面学习 Anthropic 产品的命名方式。 无论是从新的 5.6 命名上（原来他们是通过 Pro Mini 这种方式去命名，现在通过全新的名字比如 Sol 命名），还是产品形态上，Codex 应用现在硬生生被改成了类似 Claude 桌面端的方式。 他们硬拆分出了 Work 和 Code 两个 Tab。 你在切换的时候，整个界面除了左上角那个标志换了，其实根本看不出区别。 更别扭的是，聊天本身被缩进到了右下角一个非常小的弹窗里，整个界面充满了这种别扭的痕迹。 我一直坚持认为，Work 和 Code 根本没必要硬去区分，没必要在界面上透露出“我这个东西只能 Code”或者“我这个东西只能 Work”，用户直接用就行了。 本来经过几个月，大家已经建立起了关于 Codex 软件的认知，这一波操作直接给整没了，过去几个月全白干。现在每个人都很困惑，找不到自己的东西在哪，甚至找不到自己以前在 ChatGPT 软件里的聊天记录，非常蛋疼。 除了这些，还有几个新变化： 1. Site 插件上线： Codex 里面的 Site 插件已经上线了，可以直接去插件里面找。我试了一下，它能直接帮你生成网页，生成时会提供多套网页供你在界面上选择。 生成网页之后，它还可以连接你已有的业务数据，同时还能帮你部署到 OpenAI 的网站（部署到线上），方便你分享给朋友，这个非常好用。 2. 移动端调用插件：移动端的 ChatGPT 现在也可以调用原来 Codex 里面的那些插件了。 3. 基础能力升级：它的“浏览器使用”和“计算机使用”功能都进行了升级，变得更快、更准确了。 同时，GPT 5.6 的前端能力终于提升了，不会生成千篇一律的垃圾界面。 现在 ChatGPT 移动端 App 也可以进行切换了，网页端和移动端马上都会同步切换这个 Work 能力。 好嘞，更新就这些，赶紧去玩玩吧！ — https://nitter.net/op7418/status/2075383179859648669#m",
+      "url": "https://x.com/op7418/status/2075389540387455355",
+      "images": null,
+      "published": "2026-07-10T01:19:59+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2075386642949689391",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。 直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。 主要是下面 Codex 的俩 开发者哥们在下面拱火，贴脸开大，哈哈 ClaudeDevs (@ClaudeDevs) We've reset 5-hour and weekly rate limits for all users. — https://nitter.net/ClaudeDevs/status/2075279141352706215#m",
+      "url": "https://x.com/op7418/status/2075386642949689391",
+      "images": null,
+      "published": "2026-07-10T01:08:29+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2075383179859648669",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "OpenAI 昨天晚上发了一堆东西，乱七八糟的。 GPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。 现在 OpenAI 全面学习 Anthropic 产品的命名方式。 无论是从新的 5.6 命名上（原来他们是通过 Pro Mini 这种方式去命名，现在通过全新的名字比如 Sol 命名），还是产品形态上，Codex 应用现在硬生生被改成了类似 Claude 桌面端的方式。 他们硬拆分出了 Work 和 Code 两个 Tab。 你在切换的时候，整个界面除了左上角那个标志换了，其实根本看不出区别。 更别扭的是，聊天本身被缩进到了右下角一个非常小的弹窗里，整个界面充满了这种别扭的痕迹。 我一直坚持认为，Work 和 Code 根本没必要硬去区分，没必要在界面上透露出“我这个东西只能 Code”或者“我这个东西只能 Work”，用户直接用就行了。 本来经过几个月，大家已经建立起了关于 Codex 软件的认知，这一波操作直接给整没了，过去几个月全白干。现在每个人都很困惑，找不到自己的东西在哪，甚至找不到自己以前在 ChatGPT 软件里的聊天记录，非常蛋疼。 除了这些，还有几个新变化： 1. Site 插件上线： Codex 里面的 Site 插件已经上线了，可以直接去插件里面找。我试了一下，它能直接帮你生成网页，生成时会提供多套网页供你在界面上选择。 生成网页之后，它还可以连接你已有的业务数据，同时还能帮你部署到 OpenAI 的网站（部署到线上），方便你分享给朋友，这个非常好用。 2. 移动端调用插件：移动端的 ChatGPT 现在也可以调用原来 Codex 里面的那些插件了。 3. 基础能力升级：它的“浏览器使用”和“计算机使用”功能都进行了升级，变得更快、更准确了。 同时，GPT 5.6 的前端能力终于提升了，不会生成千篇一律的垃圾界面。 现在 ChatGPT 移动端 App 也可以进行切换了，网页端和移动端马上都会同步切换这个 Work 能力。 好嘞，更新就这些，赶紧去玩玩吧！ Andrew Ambrosino (@ajambrosino) New today: - GPT 5.6 Sol, Terra, and Luna - ChatGPT Work - The new ChatGPT desktop app - Unified plugins across ChatGPT & Codex - Sites (Beta) in ChatGPT - Multi-tab and enterprise auth in the Browser - Faster Computer use - and much more Today’s release is very special to the team and me. Let’s walk through it: Video — https://nitter.net/ajambrosino/status/2075274357715427618#m",
+      "url": "https://x.com/op7418/status/2075383179859648669",
+      "images": null,
+      "published": "2026-07-10T00:54:43+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2075375991980278010",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！ 能够拧灯泡、拿螺丝，帮你拉拉链儿。 几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食 Video",
+      "url": "https://x.com/op7418/status/2075375991980278010",
+      "images": null,
+      "published": "2026-07-10T00:26:09+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_xYVfknDQHU4",
       "source": "OpenAI",
       "sourceId": "openai",
       "sourceAvatar": null,
@@ -11,15 +79,15 @@
       "domains": [
         "AI"
       ],
-      "title": "How Bain Capital Is Scaling AI with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=8xqQzrLf0co",
-      "thumbnail": "https://img.youtube.com/vi/8xqQzrLf0co/maxresdefault.jpg",
-      "published": "2026-07-08T22:51:23+00:00",
+      "title": "ChatGPT Work | How NVIDIA Scales GTM with AI",
+      "url": "https://www.youtube.com/watch?v=xYVfknDQHU4",
+      "thumbnail": "https://img.youtube.com/vi/xYVfknDQHU4/maxresdefault.jpg",
+      "published": "2026-07-09T22:30:40+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
     {
-      "id": "yt_9f-Ew_lDtxc",
+      "id": "yt_Cb0N8Pnja30",
       "source": "OpenAI",
       "sourceId": "openai",
       "sourceAvatar": null,
@@ -27,10 +95,259 @@
       "domains": [
         "AI"
       ],
-      "title": "The next generation of ChatGPT Voice",
-      "url": "https://www.youtube.com/watch?v=9f-Ew_lDtxc",
-      "thumbnail": "https://img.youtube.com/vi/9f-Ew_lDtxc/maxresdefault.jpg",
-      "published": "2026-07-08T21:13:26+00:00",
+      "title": "ChatGPT Work | NVIDIA’s GTM Team Uses AI to Scale Faster",
+      "url": "https://www.youtube.com/watch?v=Cb0N8Pnja30",
+      "thumbnail": "https://img.youtube.com/vi/Cb0N8Pnja30/maxresdefault.jpg",
+      "published": "2026-07-09T22:30:35+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_md5t5Nu44A4",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "ChatGPT Work | Zapier: Seven Figures in Monthly Pipeline",
+      "url": "https://www.youtube.com/watch?v=md5t5Nu44A4",
+      "thumbnail": "https://img.youtube.com/vi/md5t5Nu44A4/maxresdefault.jpg",
+      "published": "2026-07-09T21:26:20+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_sqXsMDOxP0Y",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "ChatGPT Work | Zapier: Seven Figures in Monthly Pipeline",
+      "url": "https://www.youtube.com/watch?v=sqXsMDOxP0Y",
+      "thumbnail": "https://img.youtube.com/vi/sqXsMDOxP0Y/maxresdefault.jpg",
+      "published": "2026-07-09T21:19:10+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_GphgJjaKKhw",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Get started with ChatGPT Work",
+      "url": "https://www.youtube.com/watch?v=GphgJjaKKhw",
+      "thumbnail": "https://img.youtube.com/vi/GphgJjaKKhw/maxresdefault.jpg",
+      "published": "2026-07-09T21:00:03+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_5X5CALvYvp0",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Meet a mathematician solving previously unsolvable math problems with GPT-5.6",
+      "url": "https://www.youtube.com/watch?v=5X5CALvYvp0",
+      "thumbnail": "https://img.youtube.com/vi/5X5CALvYvp0/maxresdefault.jpg",
+      "published": "2026-07-09T20:00:35+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_hWhfrR9WJ_c",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Meet the broccoli farmer running his farm with GPT-5.6.",
+      "url": "https://www.youtube.com/watch?v=hWhfrR9WJ_c",
+      "thumbnail": "https://img.youtube.com/vi/hWhfrR9WJ_c/maxresdefault.jpg",
+      "published": "2026-07-09T20:00:24+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_A5VgJ0KZgKs",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Meet a family running a cereal business from their dining room with GPT-5.6.",
+      "url": "https://www.youtube.com/watch?v=A5VgJ0KZgKs",
+      "thumbnail": "https://img.youtube.com/vi/A5VgJ0KZgKs/maxresdefault.jpg",
+      "published": "2026-07-09T20:00:18+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_8sUXGKDUEzI",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "ChatGPT Work for Marketing Teams",
+      "url": "https://www.youtube.com/watch?v=8sUXGKDUEzI",
+      "thumbnail": "https://img.youtube.com/vi/8sUXGKDUEzI/maxresdefault.jpg",
+      "published": "2026-07-09T18:30:29+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_Ga792ftrBu4",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Codex for Engineering teams",
+      "url": "https://www.youtube.com/watch?v=Ga792ftrBu4",
+      "thumbnail": "https://img.youtube.com/vi/Ga792ftrBu4/maxresdefault.jpg",
+      "published": "2026-07-09T18:30:19+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_d65f1b49_9e97_4892_bc64_55f5f0b39906",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/d65f1b49-9e97-4892-bc64-55f5f0b39906.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 4588,
+      "published": "2026-07-09T17:00:00-07:00",
+      "hasTranscript": false,
+      "transcriptPreview": "世界杯发生了闻所未闻的一幕，在特朗普介入后，美国球员巴洛贡吃到的红牌被暂缓1年执行，有人不禁要问了，国际足联为什么要那么听美国人的话。 部分原因可能来自于，美国资本已经渗透进了全球足坛的方方面面。比如英超的20家俱乐部中，有11家都被美国资本控股，美资甚至渗透进了欧洲五大联赛的俱乐部、商业权益开发、球员球队买卖资金周转等等方面。 没有英式足球积淀的美国人，为什么会那么喜欢投资英式足球？美国资本又在"
+    },
+    {
+      "id": "x_2075258305862152423",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Booking out a local cafe on July 20th in San Francisco Grab coffee, Cursor credits, meet the team, and build Limited spots for founders, engineers, designers, PMs",
+      "url": "https://x.com/benln/status/2075258305862152423",
+      "images": null,
+      "published": "2026-07-09T16:38:31+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_e5-6rEwzxLs",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Dot Plots: How to Actually See What Your Users Are Doing",
+      "url": "https://www.youtube.com/watch?v=e5-6rEwzxLs",
+      "thumbnail": "https://img.youtube.com/vi/e5-6rEwzxLs/maxresdefault.jpg",
+      "published": "2026-07-09T14:00:05+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2075195584491745466",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Mombasa",
+      "url": "https://x.com/benln/status/2075195584491745466",
+      "images": null,
+      "published": "2026-07-09T12:29:17+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2075169890277982282",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "刚才 GPT 5.6 在日区上线的那个新闻先删了，应该是改配置骗人的。来源那条推特都不允许评论，而且没有其他的日本用户出来说这个事。",
+      "url": "https://x.com/op7418/status/2075169890277982282",
+      "images": null,
+      "published": "2026-07-09T10:47:11+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2075169093595132024",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这些来源目前都是这个人哈，没有看到其他日本用户说可以用了。 Daichi Konno / 紺野 大地 (@_daichikonno) GPT-5.6-Solキターーーー！！！🎉 みなさんの所にも、もう来ましたか？それともちょっとだけ先行公開？😳 色々と試していきます！！🔥 — https://nitter.net/_daichikonno/status/2075039459641549280#m",
+      "url": "https://x.com/op7418/status/2075169093595132024",
+      "images": null,
+      "published": "2026-07-09T10:44:01+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_cGOJ_wFmh6E",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Gave a Terminal Agent My Whole Codebase. Then I Walked Away.",
+      "url": "https://www.youtube.com/watch?v=cGOJ_wFmh6E",
+      "thumbnail": "https://img.youtube.com/vi/cGOJ_wFmh6E/maxresdefault.jpg",
+      "published": "2026-07-09T09:55:42+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -50,134 +367,6 @@
       "images": null,
       "published": "2026-07-08T18:01:59+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt_KS4X-BPjxN8",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Image interaction with GPT-Live",
-      "url": "https://www.youtube.com/watch?v=KS4X-BPjxN8",
-      "thumbnail": "https://img.youtube.com/vi/KS4X-BPjxN8/maxresdefault.jpg",
-      "published": "2026-07-08T17:37:19+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_QUOwyLwoykU",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Discoverability widgets with GPT-Live",
-      "url": "https://www.youtube.com/watch?v=QUOwyLwoykU",
-      "thumbnail": "https://img.youtube.com/vi/QUOwyLwoykU/maxresdefault.jpg",
-      "published": "2026-07-08T17:36:34+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_3bL6IpdgddQ",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Natural Conversations with GPT-Live",
-      "url": "https://www.youtube.com/watch?v=3bL6IpdgddQ",
-      "thumbnail": "https://img.youtube.com/vi/3bL6IpdgddQ/maxresdefault.jpg",
-      "published": "2026-07-08T17:33:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_8vvWTz6N7Qg",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Temporal awareness with GPT-Live",
-      "url": "https://www.youtube.com/watch?v=8vvWTz6N7Qg",
-      "thumbnail": "https://img.youtube.com/vi/8vvWTz6N7Qg/maxresdefault.jpg",
-      "published": "2026-07-08T17:33:31+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_K-fYBO8t3-A",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Listening & Speaking with GPT-Live",
-      "url": "https://www.youtube.com/watch?v=K-fYBO8t3-A",
-      "thumbnail": "https://img.youtube.com/vi/K-fYBO8t3-A/maxresdefault.jpg",
-      "published": "2026-07-08T17:33:31+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_EAN5Cj347PY",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "This is the new ChatGPT Voice, powered by GPT-Live",
-      "url": "https://www.youtube.com/watch?v=EAN5Cj347PY",
-      "thumbnail": "https://img.youtube.com/vi/EAN5Cj347PY/maxresdefault.jpg",
-      "published": "2026-07-08T17:23:27+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_94cXnSu6kUQ",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "OpenAI Academy: Parent-Coaches with the San Antonio Spurs",
-      "url": "https://www.youtube.com/watch?v=94cXnSu6kUQ",
-      "thumbnail": "https://img.youtube.com/vi/94cXnSu6kUQ/maxresdefault.jpg",
-      "published": "2026-07-08T15:25:08+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_J2ZNjSplGd8",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "OpenAI Academy x Veterans Forge | Building with ChatGPT: Practical AI Skills for Veterans",
-      "url": "https://www.youtube.com/watch?v=J2ZNjSplGd8",
-      "thumbnail": "https://img.youtube.com/vi/J2ZNjSplGd8/maxresdefault.jpg",
-      "published": "2026-07-08T15:25:04+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "x_2074869273701593220",
@@ -248,40 +437,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2074863856145625515",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "随便点了一张图，让他给这个车生成官网，其他的什么也没说，还不错，跟 GPT 打的有来有回",
-      "url": "https://x.com/op7418/status/2074863856145625515",
-      "images": null,
-      "published": "2026-07-08T14:31:07+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2074862226905948549",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Seedream 5.0 的图像模型上线了。 大概跑了几张图试了一下，整体看起来不错，比之前的图像模型进步很大。 1. 一句话让它生成《黑神话：水浒传》的一个游戏截图 2. 让他生成一张茶叶制作和品种的科普图 3. 给它一个参考图，让它基于这个参考图的组件生成一个 Web 的 UI 设计稿 4. 让他用一张图介绍《凡人修仙传：人界篇》的剧情 不过在文字细节上，目前来看如果文字很多的话，有跟 GPT-4o 类似的问题，就是文字比较糊。 我这个测试的都是 2K 分辨率，从分辨率上来讲是比 GPT-4o 更高一点，但从文字细节上讲是差不多的。",
-      "url": "https://x.com/op7418/status/2074862226905948549",
-      "images": null,
-      "published": "2026-07-08T14:24:38+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_xpeRVyFFy_Q",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -313,74 +468,6 @@
       "url": "https://x.com/benln/status/2074847344206430690",
       "images": null,
       "published": "2026-07-08T13:25:30+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2074800241178808456",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "今天录视频的板书很有意思。以前都是我自己在 Figma Jam 里面去搭大纲，然后去讲。 今天这个是让 Codex 连接了 Figma MCP 以后，基于我的宣传文章自动给我生成的录视频用板书。 它把内容精简了，把需要展示的案例图片都放了进去，我稍微调整一下就可以开始讲了，这个方便了非常多。 歸藏(guizang.ai) (@op7418) 开源一个非常漂亮的文章配图 Skill。 昨天给 Claude 用我的社交媒体卡片生成的时候，Codex 生成了一个配图，我觉得很漂亮、挺有意思。 发出来后大家也都很喜欢，所以顺便就把它做成了一个配图 Skill。 目前只适配了 GPT-Image-2.0 模型。 支持将你的文档或文案发进去，生成一个干净漂亮、带标签的 3D 材质配图。 Video — https://nitter.net/op7418/status/2074758348264833131#m",
-      "url": "https://x.com/op7418/status/2074800241178808456",
-      "images": null,
-      "published": "2026-07-08T10:18:20+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2074797902036427217",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "详情：github.com/op7418/guizang-ma… Link GitHub - op7418/guizang-material-illustration: 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。. Contribute to op7418/guizang-material-illustration development by creating an account on GitHub. github.com",
-      "url": "https://x.com/op7418/status/2074797902036427217",
-      "images": null,
-      "published": "2026-07-08T10:09:02+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2074730378666168629",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "GPT-5.6 终于要来了！ 周四的话大概是我们这边明天半夜周五凌晨一点左右 OpenAI (@OpenAI) GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now. — https://nitter.net/OpenAI/status/2074704958419792299#m",
-      "url": "https://x.com/op7418/status/2074730378666168629",
-      "images": null,
-      "published": "2026-07-08T05:40:43+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2074728162018152817",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Article 开源一个非常漂亮的文章配图 Skill 今天早上我想给 Claude 的一篇文章配几张 3:4 的社交媒体图。 手边有自己做的社交媒体 Skills，就顺手让 Codex 调了 GPT-Image 2.0。 出来的效果超出预期。干净白底，克制的 3D",
-      "url": "https://x.com/op7418/status/2074728162018152817",
-      "images": null,
-      "published": "2026-07-08T05:31:55+00:00",
       "hasTranscript": false
     },
     {
@@ -556,23 +643,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2073047667819663788",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Santiago",
-      "url": "https://x.com/benln/status/2073047667819663788",
-      "images": null,
-      "published": "2026-07-03T14:14:14+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_XBD-kciNg5Y",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -588,23 +658,6 @@
       "published": "2026-07-03T09:15:41+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2072689262865133735",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Perk of working at Cursor: unlimited keyboards to try out",
-      "url": "https://x.com/benln/status/2072689262865133735",
-      "images": null,
-      "published": "2026-07-02T14:30:03+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_2k4mXX0ovak",
@@ -821,12 +874,12 @@
         "Business",
         "AI"
       ],
-      "title": "Why Attention is Becoming a Competitive Advantage | a16z",
+      "title": "Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund",
       "url": "https://www.youtube.com/watch?v=yfafpyhB-8E",
       "thumbnail": "https://img.youtube.com/vi/yfafpyhB-8E/maxresdefault.jpg",
       "published": "2026-06-22T14:35:28+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
+      "hasTranscript": true,
+      "transcriptPreview": "We're officially announcing the hund00 million overs subscribed growth fund and some of the tier one names, maybe all the tier one names. And Edged, Cognition, Seronic, Modal. >> Good [screaming] morn..."
     },
     {
       "id": "yt_LEPkmqIc9OU",
@@ -855,7 +908,7 @@
         "Business",
         "AI"
       ],
-      "title": "The Media Game Has Changed",
+      "title": "The New Media Advantage with Ben Horowitz and Marc Andreessen",
       "url": "https://www.youtube.com/watch?v=XROaLetSxg0",
       "thumbnail": "https://img.youtube.com/vi/XROaLetSxg0/maxresdefault.jpg",
       "published": "2026-06-19T14:40:13+00:00",
@@ -1020,40 +1073,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_mPAHvz8kW24",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Most AI-Pilled CEO We Know",
-      "url": "https://www.youtube.com/watch?v=mPAHvz8kW24",
-      "thumbnail": "https://img.youtube.com/vi/mPAHvz8kW24/maxresdefault.jpg",
-      "published": "2026-06-10T14:30:40+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Vl9dbvKMSfU",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Hacked an AI Customer Service Agent in 8 Seconds",
-      "url": "https://www.youtube.com/watch?v=Vl9dbvKMSfU",
-      "thumbnail": "https://img.youtube.com/vi/Vl9dbvKMSfU/maxresdefault.jpg",
-      "published": "2026-06-09T09:03:25+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_ktl8mNiWqMM",
       "source": "a16z",
       "sourceId": "a16z",
@@ -1114,7 +1133,7 @@
         "Business",
         "AI"
       ],
-      "title": "Private Markets, Software Repricing and Capital Allocation | Marc Rowan on a16z",
+      "title": "The $1 Trillion Firm That Refuses The Private Equity Label | a16z",
       "url": "https://www.youtube.com/watch?v=oYK_MmZW9XI",
       "thumbnail": "https://img.youtube.com/vi/oYK_MmZW9XI/maxresdefault.jpg",
       "published": "2026-05-27T14:00:13+00:00",
@@ -1281,25 +1300,6 @@
       "published": "2026-04-21T23:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "最近，《灵魂摆渡·浮生梦》成为中国首部全AI生成的电影，暑期档即将上映。“AI能否替代真人演员”、“真人短剧是不是在被AI团灭”，这些话题最近都在冲上微博热搜，成为大家讨论的焦点。 人工智能正以惊人的速度渗透进影视工业的核心流程。从剧本开发到视觉预览，从角色建模到声音演绎，AI 带来的效率提升令人震惊。这场变革不仅是技术迭代，更是创作哲学的重构。AI把传统影视制作中长达六个月的特效前期流程，压缩到"
-    },
-    {
-      "id": "pod_guigu101_pod_2a529abf_3c14_4ae7_a0a5_fe1340a66c7d",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E233｜硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/2a529abf-3c14-4ae7-a0a5-fe1340a66c7d.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 2972,
-      "published": "2026-04-16T17:00:00-07:00",
-      "hasTranscript": false,
-      "transcriptPreview": "Peter Thiel，是硅谷最具争议和影响力的思想家之一。如果要用一句话概括他的思想，那就是：世界是由少数天选之人在幕后驱动的，而他就是其中之一。这套理论，不仅在以他为核心的“硅谷右翼”圈子中产生了影响，还通过Peter Thiel的政治参与，影响了更多的人。 那么，Peter Thiel的思想，又来源于什么呢？要理解他，答案藏在三位哲学家身上：法国文学批评理论家吉拉尔、纳粹党员法学家施密特、和"
     },
     {
       "id": "yt_DmFdxaLgD70",
