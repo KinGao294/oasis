@@ -1,7 +1,239 @@
 {
-  "last_updated": "2026-07-10T02:34:54.874100Z",
+  "last_updated": "2026-07-11T02:10:53.522068Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_MdTqoR-7oHg",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "RingCentral Scales Customer Programs with ChatGPT Work",
+      "url": "https://www.youtube.com/watch?v=MdTqoR-7oHg",
+      "thumbnail": "https://img.youtube.com/vi/MdTqoR-7oHg/maxresdefault.jpg",
+      "published": "2026-07-10T21:21:13+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_eD5lc1mZDZk",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Stampli scales product marketing with ChatGPT Work",
+      "url": "https://www.youtube.com/watch?v=eD5lc1mZDZk",
+      "thumbnail": "https://img.youtube.com/vi/eD5lc1mZDZk/maxresdefault.jpg",
+      "published": "2026-07-10T21:17:12+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_yATno77Uo6A",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Stampli scales product marketing with ChatGPT Work",
+      "url": "https://www.youtube.com/watch?v=yATno77Uo6A",
+      "thumbnail": "https://img.youtube.com/vi/yATno77Uo6A/maxresdefault.jpg",
+      "published": "2026-07-10T21:11:41+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_IYYTI73J7Rg",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "ChatGPT Computer Use: Now faster with Live Picture-in-Picture",
+      "url": "https://www.youtube.com/watch?v=IYYTI73J7Rg",
+      "thumbnail": "https://img.youtube.com/vi/IYYTI73J7Rg/maxresdefault.jpg",
+      "published": "2026-07-10T19:45:02+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_nep5byxmr_M",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "RingCentral Scales Customer Programs with ChatGPT Work",
+      "url": "https://www.youtube.com/watch?v=nep5byxmr_M",
+      "thumbnail": "https://img.youtube.com/vi/nep5byxmr_M/maxresdefault.jpg",
+      "published": "2026-07-10T16:02:41+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2075595988107161987",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "明天会有两次重置，得努力蹬了朋友们 Tibo (@thsottiaux) To celebrate the launch of GPT-5.6 Sol, we will reset the rate limits again (twice) across ChatGPT Work and Codex over the next 24 hours. We want you to have the time to truly try ambitious tasks and get the hang of it. Happy exploring! — https://nitter.net/thsottiaux/status/2075452680760443190#m",
+      "url": "https://x.com/op7418/status/2075595988107161987",
+      "images": null,
+      "published": "2026-07-10T15:00:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_VbqaL_eHhKY",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "YC's Head of Design Shows You How To Design With AI",
+      "url": "https://www.youtube.com/watch?v=VbqaL_eHhKY",
+      "thumbnail": "https://img.youtube.com/vi/VbqaL_eHhKY/maxresdefault.jpg",
+      "published": "2026-07-10T14:00:10+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2075573272201072959",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor is hiring for 110+ roles: cursor.com/careers",
+      "url": "https://x.com/benln/status/2075573272201072959",
+      "images": null,
+      "published": "2026-07-10T13:30:05+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_Ym21X1JVm2E",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Built a Physics Simulator With One Prompt (Enia Code)",
+      "url": "https://www.youtube.com/watch?v=Ym21X1JVm2E",
+      "thumbnail": "https://img.youtube.com/vi/Ym21X1JVm2E/maxresdefault.jpg",
+      "published": "2026-07-10T11:01:51+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2075535883743511005",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我也提前拿到了测试资格，做了一个叫“人生成就生成器”的东西，可以在这儿体验。需要 App 打开，网页不行。 xiaohongshu.com/explore/6a50…",
+      "url": "https://x.com/op7418/status/2075535883743511005",
+      "images": null,
+      "published": "2026-07-10T11:01:30+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2075535634375082364",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "小红书最近动作挺多呀，上线了新的 AI 周边，就叫“小工具” 你可以把你 vibe Coding 的一些网页之类的当做一个小程序发布到小红书，然后你在发视频或者发图文的时候就可以挂载这个小工具，让其他人在小红书内部直接使用。 我感觉这挺有意思的，大家终于有了一个把自己 vibe Coding 的一些小东西发出来的地方，尤其是在这种封闭的社区里。 其他家也有类似的东西，但其他家的问题在于什么都想做——他们想把生成和发布一起做。而小红书就想得很明白，只做 ROI 很高的发布，不做生成。毕竟生成这事，你确实很难做好。",
+      "url": "https://x.com/op7418/status/2075535634375082364",
+      "images": null,
+      "published": "2026-07-10T11:00:31+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_SvGLxXHYCd8",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "url": "https://www.youtube.com/watch?v=SvGLxXHYCd8",
+      "thumbnail": "https://img.youtube.com/vi/SvGLxXHYCd8/maxresdefault.jpg",
+      "published": "2026-07-10T09:19:42+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2075470041345360382",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "新的视频图像 Agent 看起来主打的是广告内容的生成。 这个现在确实利润非常高，因为广告的 ROI 比较好算，如果真的做得好，广告主是愿意投钱的。 Kaze AI (@KazeAI_official) 🚀 Meet Kaze AI Agent Ideas move fast. Your creative workflow should too. ✨ 10× Creativity. 100× Efficiency. From social posts and product photography to video ads and cinematic storytelling—create faster, stay consistent, and scale your content. Less prompting. More creating. Video — https://nitter.net/KazeAI_official/status/2075044124248486188#m",
+      "url": "https://x.com/op7418/status/2075470041345360382",
+      "images": null,
+      "published": "2026-07-10T06:39:52+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2075467584863142215",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "ChatGPT 新版语音模式的卡片挺有意思。 你在跟他聊天的时候，如果让他找一些东西，他会用这种可视化卡片的方式给你展示他找到的内容细节。 比如说世界杯卡片、股票卡片、天气卡片等等，基本上常见的都会有。 Video",
+      "url": "https://x.com/op7418/status/2075467584863142215",
+      "images": null,
+      "published": "2026-07-10T06:30:07+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2075389540387455355",
       "source": "归藏",
@@ -135,102 +367,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_GphgJjaKKhw",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Get started with ChatGPT Work",
-      "url": "https://www.youtube.com/watch?v=GphgJjaKKhw",
-      "thumbnail": "https://img.youtube.com/vi/GphgJjaKKhw/maxresdefault.jpg",
-      "published": "2026-07-09T21:00:03+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_5X5CALvYvp0",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Meet a mathematician solving previously unsolvable math problems with GPT-5.6",
-      "url": "https://www.youtube.com/watch?v=5X5CALvYvp0",
-      "thumbnail": "https://img.youtube.com/vi/5X5CALvYvp0/maxresdefault.jpg",
-      "published": "2026-07-09T20:00:35+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_hWhfrR9WJ_c",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Meet the broccoli farmer running his farm with GPT-5.6.",
-      "url": "https://www.youtube.com/watch?v=hWhfrR9WJ_c",
-      "thumbnail": "https://img.youtube.com/vi/hWhfrR9WJ_c/maxresdefault.jpg",
-      "published": "2026-07-09T20:00:24+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_A5VgJ0KZgKs",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Meet a family running a cereal business from their dining room with GPT-5.6.",
-      "url": "https://www.youtube.com/watch?v=A5VgJ0KZgKs",
-      "thumbnail": "https://img.youtube.com/vi/A5VgJ0KZgKs/maxresdefault.jpg",
-      "published": "2026-07-09T20:00:18+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_8sUXGKDUEzI",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "ChatGPT Work for Marketing Teams",
-      "url": "https://www.youtube.com/watch?v=8sUXGKDUEzI",
-      "thumbnail": "https://img.youtube.com/vi/8sUXGKDUEzI/maxresdefault.jpg",
-      "published": "2026-07-09T18:30:29+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Ga792ftrBu4",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Codex for Engineering teams",
-      "url": "https://www.youtube.com/watch?v=Ga792ftrBu4",
-      "thumbnail": "https://img.youtube.com/vi/Ga792ftrBu4/maxresdefault.jpg",
-      "published": "2026-07-09T18:30:19+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_d65f1b49_9e97_4892_bc64_55f5f0b39906",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -318,23 +454,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2075169093595132024",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这些来源目前都是这个人哈，没有看到其他日本用户说可以用了。 Daichi Konno / 紺野 大地 (@_daichikonno) GPT-5.6-Solキターーーー！！！🎉 みなさんの所にも、もう来ましたか？それともちょっとだけ先行公開？😳 色々と試していきます！！🔥 — https://nitter.net/_daichikonno/status/2075039459641549280#m",
-      "url": "https://x.com/op7418/status/2075169093595132024",
-      "images": null,
-      "published": "2026-07-09T10:44:01+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_cGOJ_wFmh6E",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -366,74 +485,6 @@
       "url": "https://x.com/benln/status/2074916925486792732",
       "images": null,
       "published": "2026-07-08T18:01:59+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2074869273701593220",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "提示词：用可爱的风格解释大语言模型是如何训练的。",
-      "url": "https://x.com/op7418/status/2074869273701593220",
-      "images": null,
-      "published": "2026-07-08T14:52:38+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2074866690689839508",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "“帮我生成一个游戏 UI 设计图：是一个中国古代探宝风格的三消游戏”",
-      "url": "https://x.com/op7418/status/2074866690689839508",
-      "images": null,
-      "published": "2026-07-08T14:42:22+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2074864696352710699",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "随手拍了照片，让它生成这个宣传图，还不错。 一致性上主要是文字的问题。 如果你不对排版或者内容有要求，它就不会生成对应的文字。这个有的时候比较好，但有的时候如果用户懒的话，就得多写点东西，对提示词的要求稍微高点。",
-      "url": "https://x.com/op7418/status/2074864696352710699",
-      "images": null,
-      "published": "2026-07-08T14:34:27+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2074864290901979554",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "在文字很多的情况下，4K 分辨率没有改善文字效果，还是有点涂抹感",
-      "url": "https://x.com/op7418/status/2074864290901979554",
-      "images": null,
-      "published": "2026-07-08T14:32:50+00:00",
       "hasTranscript": false
     },
     {
@@ -607,23 +658,6 @@
       "published": "2026-07-05T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "从ChatGPT掀起生成式AI浪潮到现在，不过短短两三年，AI能力的进化速度已经让\"AI自我进化\"这件事从科幻走进了现实。上个月，Anthropic在一份公开报告中预测，AI未来将进入\"递归自我提升\"（Recursive Self-Improvement, RSI）阶段，并呼吁人类共同为AI的发展设计出一个减速或暂停机制。 AI自我进化会以多快的速度到来？未来的AI，它会在通往真理的道路上与人类并"
-    },
-    {
-      "id": "x_2073764679520747942",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Rebooting my X group chat for people building projects on Sundays. One rule: you can only post on Sundays. Reply if you want in.",
-      "url": "https://x.com/benln/status/2073764679520747942",
-      "images": null,
-      "published": "2026-07-05T13:43:22+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_XwfUzW32cIA",
@@ -878,8 +912,8 @@
       "url": "https://www.youtube.com/watch?v=yfafpyhB-8E",
       "thumbnail": "https://img.youtube.com/vi/yfafpyhB-8E/maxresdefault.jpg",
       "published": "2026-06-22T14:35:28+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "We're officially announcing the hund00 million overs subscribed growth fund and some of the tier one names, maybe all the tier one names. And Edged, Cognition, Seronic, Modal. >> Good [screaming] morn..."
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_LEPkmqIc9OU",
@@ -1020,23 +1054,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_vXJx9wzBT0M",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "Biological Computers Are Real Now. I Tried One",
-      "url": "https://www.youtube.com/watch?v=vXJx9wzBT0M",
-      "thumbnail": "https://img.youtube.com/vi/vXJx9wzBT0M/maxresdefault.jpg",
-      "published": "2026-06-12T09:16:59+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_259291f5_2715_4dde_bcfe_b5beb4df5793",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -1054,23 +1071,6 @@
       "published": "2026-06-12T04:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "SpaceX上市进入最后倒计时，在它那份长达280页的招股说明书里，月球基地、点对点地表旅行、在轨制造、火星货物……这些别的公司不敢写的科幻元素，它都写了。但更让人印象深刻的是SpaceX的AI叙事，它预测在28.5万亿美元总潜在市场中，有超过90%来自AI板块，而这部分将受到“地球无法快速扩展发电能力”的严重制约。 面对电力紧缺，SpaceX的答案是：把数据中心搬上太空。上周一，马斯克在一段关于"
-    },
-    {
-      "id": "yt_49L8lVe_PVo",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How Meesho Became India’s Biggest Shopping App",
-      "url": "https://www.youtube.com/watch?v=49L8lVe_PVo",
-      "thumbnail": "https://img.youtube.com/vi/49L8lVe_PVo/maxresdefault.jpg",
-      "published": "2026-06-11T12:30:23+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_ktl8mNiWqMM",
