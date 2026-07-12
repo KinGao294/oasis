@@ -1,7 +1,92 @@
 {
-  "last_updated": "2026-07-11T02:10:53.522068Z",
+  "last_updated": "2026-07-12T02:21:01.156223Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2075901399230013779",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "换个键盘",
+      "url": "https://x.com/op7418/status/2075901399230013779",
+      "images": null,
+      "published": "2026-07-11T11:13:56+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2075802478239686846",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "网页也可以玩了 歸藏(guizang.ai) (@op7418) 昨天 GPT 5.6 Sol 发布，想测试一下，没想到这么猛。 一上午就帮我做了一个非常完整而且好玩的小工具：人生成就生成器 上传一张你的照片，选一个跟你经历有关的\"人生成就\"。 工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。 Video — https://nitter.net/op7418/status/2075775161710879010#m",
+      "url": "https://x.com/op7418/status/2075802478239686846",
+      "images": null,
+      "published": "2026-07-11T04:40:52+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2075776494878786004",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "做这个工具有几个设计上的取舍，聊聊背后的想法。",
+      "url": "https://x.com/op7418/status/2075776494878786004",
+      "images": null,
+      "published": "2026-07-11T02:57:37+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2075776229219938561",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "导出成品，三种导出组合： 只要滤镜 —— 原图 + 滤镜，不带成就卡 只要成就 —— 原图不加滤镜，叠上成就卡 成就 + 滤镜 —— 两者都有，最完整的效果",
+      "url": "https://x.com/op7418/status/2075776229219938561",
+      "images": null,
+      "published": "2026-07-11T02:56:33+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2075775161710879010",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "昨天 GPT 5.6 Sol 发布，想测试一下，没想到这么猛。 一上午就帮我做了一个非常完整而且好玩的小工具：人生成就生成器 上传一张你的照片，选一个跟你经历有关的\"人生成就\"。 工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。 Video",
+      "url": "https://x.com/op7418/status/2075775161710879010",
+      "images": null,
+      "published": "2026-07-11T02:52:19+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_MdTqoR-7oHg",
       "source": "OpenAI",
@@ -235,74 +320,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2075389540387455355",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "新的这个客户端这套交互真是稀烂。 Claude 分三个 Tab 是因为他没有时间去改那个原来的客户端。 OpenAI 分三个 Tab 是因为他妈的 Claude 分三个 Tab。 歸藏(guizang.ai) (@op7418) OpenAI 昨天晚上发了一堆东西，乱七八糟的。 GPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。 现在 OpenAI 全面学习 Anthropic 产品的命名方式。 无论是从新的 5.6 命名上（原来他们是通过 Pro Mini 这种方式去命名，现在通过全新的名字比如 Sol 命名），还是产品形态上，Codex 应用现在硬生生被改成了类似 Claude 桌面端的方式。 他们硬拆分出了 Work 和 Code 两个 Tab。 你在切换的时候，整个界面除了左上角那个标志换了，其实根本看不出区别。 更别扭的是，聊天本身被缩进到了右下角一个非常小的弹窗里，整个界面充满了这种别扭的痕迹。 我一直坚持认为，Work 和 Code 根本没必要硬去区分，没必要在界面上透露出“我这个东西只能 Code”或者“我这个东西只能 Work”，用户直接用就行了。 本来经过几个月，大家已经建立起了关于 Codex 软件的认知，这一波操作直接给整没了，过去几个月全白干。现在每个人都很困惑，找不到自己的东西在哪，甚至找不到自己以前在 ChatGPT 软件里的聊天记录，非常蛋疼。 除了这些，还有几个新变化： 1. Site 插件上线： Codex 里面的 Site 插件已经上线了，可以直接去插件里面找。我试了一下，它能直接帮你生成网页，生成时会提供多套网页供你在界面上选择。 生成网页之后，它还可以连接你已有的业务数据，同时还能帮你部署到 OpenAI 的网站（部署到线上），方便你分享给朋友，这个非常好用。 2. 移动端调用插件：移动端的 ChatGPT 现在也可以调用原来 Codex 里面的那些插件了。 3. 基础能力升级：它的“浏览器使用”和“计算机使用”功能都进行了升级，变得更快、更准确了。 同时，GPT 5.6 的前端能力终于提升了，不会生成千篇一律的垃圾界面。 现在 ChatGPT 移动端 App 也可以进行切换了，网页端和移动端马上都会同步切换这个 Work 能力。 好嘞，更新就这些，赶紧去玩玩吧！ — https://nitter.net/op7418/status/2075383179859648669#m",
-      "url": "https://x.com/op7418/status/2075389540387455355",
-      "images": null,
-      "published": "2026-07-10T01:19:59+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2075386642949689391",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "随着 GPT 5.6 和 ChatGPT App 的更新，Anthropic 还是急了。 直接在昨天晚上这种不寻常的时间，没有任何理由重置了额度的限制（5 小时和每周都重置了）。 主要是下面 Codex 的俩 开发者哥们在下面拱火，贴脸开大，哈哈 ClaudeDevs (@ClaudeDevs) We've reset 5-hour and weekly rate limits for all users. — https://nitter.net/ClaudeDevs/status/2075279141352706215#m",
-      "url": "https://x.com/op7418/status/2075386642949689391",
-      "images": null,
-      "published": "2026-07-10T01:08:29+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2075383179859648669",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "OpenAI 昨天晚上发了一堆东西，乱七八糟的。 GPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。 现在 OpenAI 全面学习 Anthropic 产品的命名方式。 无论是从新的 5.6 命名上（原来他们是通过 Pro Mini 这种方式去命名，现在通过全新的名字比如 Sol 命名），还是产品形态上，Codex 应用现在硬生生被改成了类似 Claude 桌面端的方式。 他们硬拆分出了 Work 和 Code 两个 Tab。 你在切换的时候，整个界面除了左上角那个标志换了，其实根本看不出区别。 更别扭的是，聊天本身被缩进到了右下角一个非常小的弹窗里，整个界面充满了这种别扭的痕迹。 我一直坚持认为，Work 和 Code 根本没必要硬去区分，没必要在界面上透露出“我这个东西只能 Code”或者“我这个东西只能 Work”，用户直接用就行了。 本来经过几个月，大家已经建立起了关于 Codex 软件的认知，这一波操作直接给整没了，过去几个月全白干。现在每个人都很困惑，找不到自己的东西在哪，甚至找不到自己以前在 ChatGPT 软件里的聊天记录，非常蛋疼。 除了这些，还有几个新变化： 1. Site 插件上线： Codex 里面的 Site 插件已经上线了，可以直接去插件里面找。我试了一下，它能直接帮你生成网页，生成时会提供多套网页供你在界面上选择。 生成网页之后，它还可以连接你已有的业务数据，同时还能帮你部署到 OpenAI 的网站（部署到线上），方便你分享给朋友，这个非常好用。 2. 移动端调用插件：移动端的 ChatGPT 现在也可以调用原来 Codex 里面的那些插件了。 3. 基础能力升级：它的“浏览器使用”和“计算机使用”功能都进行了升级，变得更快、更准确了。 同时，GPT 5.6 的前端能力终于提升了，不会生成千篇一律的垃圾界面。 现在 ChatGPT 移动端 App 也可以进行切换了，网页端和移动端马上都会同步切换这个 Work 能力。 好嘞，更新就这些，赶紧去玩玩吧！ Andrew Ambrosino (@ajambrosino) New today: - GPT 5.6 Sol, Terra, and Luna - ChatGPT Work - The new ChatGPT desktop app - Unified plugins across ChatGPT & Codex - Sites (Beta) in ChatGPT - Multi-tab and enterprise auth in the Browser - Faster Computer use - and much more Today’s release is very special to the team and me. Let’s walk through it: Video — https://nitter.net/ajambrosino/status/2075274357715427618#m",
-      "url": "https://x.com/op7418/status/2075383179859648669",
-      "images": null,
-      "published": "2026-07-10T00:54:43+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2075375991980278010",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "NEO 发布的这个有 25 个肌腱的灵巧手太牛逼了呀！ 能够拧灯泡、拿螺丝，帮你拉拉链儿。 几乎看起来能做我们人类能做的很多精细的动作，甚至能在干扰下完成正常的拆包装和递给你零食 Video",
-      "url": "https://x.com/op7418/status/2075375991980278010",
-      "images": null,
-      "published": "2026-07-10T00:26:09+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_xYVfknDQHU4",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -434,23 +451,6 @@
       "url": "https://x.com/benln/status/2075195584491745466",
       "images": null,
       "published": "2026-07-09T12:29:17+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2075169890277982282",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "刚才 GPT 5.6 在日区上线的那个新闻先删了，应该是改配置骗人的。来源那条推特都不允许评论，而且没有其他的日本用户出来说这个事。",
-      "url": "https://x.com/op7418/status/2075169890277982282",
-      "images": null,
-      "published": "2026-07-09T10:47:11+00:00",
       "hasTranscript": false
     },
     {
