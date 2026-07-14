@@ -1,7 +1,159 @@
 {
-  "last_updated": "2026-07-13T02:22:56.107633Z",
+  "last_updated": "2026-07-14T02:02:31.759154Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_-J5KoSMfPLk",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Learning with AI at Any Stage of Life | Fast Campus x OpenAI",
+      "url": "https://www.youtube.com/watch?v=-J5KoSMfPLk",
+      "thumbnail": "https://img.youtube.com/vi/-J5KoSMfPLk/maxresdefault.jpg",
+      "published": "2026-07-13T23:07:18+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2076664973242360264",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "他妈的，谁给老子传的呀？我操！ 我这 Skills 全是开源的，怎么还一份 199 卖 40 万呀？ 谁卖的？他妈分我点。",
+      "url": "https://x.com/op7418/status/2076664973242360264",
+      "images": null,
+      "published": "2026-07-13T13:48:06+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2076653948870574135",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor is coming up in these cities: • LA - 7/15 • Philly - 7/16 • Lisbon - 7/17 • Zambia - 7/18 • Salvador - 7/20 • SF - 7/20 • Medellin - 7/22 • Rosario - 7/24 • Dallas - 7/26 • Cologne - 7/30 • Bali - 8/3 • Bangkok - 8/9 • Casablanca - 8/9 More being added",
+      "url": "https://x.com/benln/status/2076653948870574135",
+      "images": null,
+      "published": "2026-07-13T13:04:18+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2076605296416530647",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Seedream 5.0 Pro 的这个图像精细编辑能力真的非常牛！ 它是模型能力和产品交互的一个结合，可以实现对图像非常精准的编辑。 甚至你标注的部分和生成的部分区域颜色能完美融合，绝对不会溢出。 我写了一篇教程，详细讲了一下如何在 Lumion 里面去玩这套东西，推荐去试试，是很不一样的体验。 歸藏(guizang.ai) (@op7418) Article Seedream 5.0 Pro 测评：图像编辑门槛爆降 字节上周发布了新一代图像模型 Seedream 5.0 Pro。 我第一时间上手试了一圈，整体印象是： 图像质量、提示词理解、综合生成能力，基本追平了 GPT-Image 2.0。 目前火山引擎已经全量上线Seedream 5.0 — https://nitter.net/op7418/status/2076604797202161800#m",
+      "url": "https://x.com/op7418/status/2076605296416530647",
+      "images": null,
+      "published": "2026-07-13T09:50:58+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2076604797202161800",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Article Seedream 5.0 Pro 测评：图像编辑门槛爆降 字节上周发布了新一代图像模型 Seedream 5.0 Pro。 我第一时间上手试了一圈，整体印象是： 图像质量、提示词理解、综合生成能力，基本追平了 GPT-Image 2.0。 目前火山引擎已经全量上线Seedream 5.0",
+      "url": "https://x.com/op7418/status/2076604797202161800",
+      "images": null,
+      "published": "2026-07-13T09:48:59+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2076524831802270004",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codex 改的还是挺快的，已经把 Work 和 Codex 的区别弱化了，接下来估计会优化 ChatGPT 那部分的交互 歸藏(guizang.ai) (@op7418) OpenAI 昨天晚上发了一堆东西，乱七八糟的。 GPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。 现在 OpenAI 全面学习 Anthropic 产品的命名方式。 无论是从新的 5.6 命名上（原来他们是通过 Pro Mini 这种方式去命名，现在通过全新的名字比如 Sol 命名），还是产品形态上，Codex 应用现在硬生生被改成了类似 Claude 桌面端的方式。 他们硬拆分出了 Work 和 Code 两个 Tab。 你在切换的时候，整个界面除了左上角那个标志换了，其实根本看不出区别。 更别扭的是，聊天本身被缩进到了右下角一个非常小的弹窗里，整个界面充满了这种别扭的痕迹。 我一直坚持认为，Work 和 Code 根本没必要硬去区分，没必要在界面上透露出“我这个东西只能 Code”或者“我这个东西只能 Work”，用户直接用就行了。 本来经过几个月，大家已经建立起了关于 Codex 软件的认知，这一波操作直接给整没了，过去几个月全白干。现在每个人都很困惑，找不到自己的东西在哪，甚至找不到自己以前在 ChatGPT 软件里的聊天记录，非常蛋疼。 除了这些，还有几个新变化： 1. Site 插件上线： Codex 里面的 Site 插件已经上线了，可以直接去插件里面找。我试了一下，它能直接帮你生成网页，生成时会提供多套网页供你在界面上选择。 生成网页之后，它还可以连接你已有的业务数据，同时还能帮你部署到 OpenAI 的网站（部署到线上），方便你分享给朋友，这个非常好用。 2. 移动端调用插件：移动端的 ChatGPT 现在也可以调用原来 Codex 里面的那些插件了。 3. 基础能力升级：它的“浏览器使用”和“计算机使用”功能都进行了升级，变得更快、更准确了。 同时，GPT 5.6 的前端能力终于提升了，不会生成千篇一律的垃圾界面。 现在 ChatGPT 移动端 App 也可以进行切换了，网页端和移动端马上都会同步切换这个 Work 能力。 好嘞，更新就这些，赶紧去玩玩吧！ — https://nitter.net/op7418/status/2075383179859648669#m",
+      "url": "https://x.com/op7418/status/2076524831802270004",
+      "images": null,
+      "published": "2026-07-13T04:31:14+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2076515921523556683",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "其他信息 Lisan al Gaib (@scaling01) On Grok Build: - \"It uploads the whole repository - every tracked file's content plus git history - independent of what the agent reads\" - \"It transmits the contents of files it reads - including a .env secrets file - to xAI, verbatim and unredacted\" gist.github.com/cereblab/dc9… Link What xAI Grok Build CLI actually sends to xAI - a wire-level analysis (grok 0.2.93) What xAI Grok Build CLI actually sends to xAI - a wire-level analysis (grok 0.2.93) - grok-build-cli-wire-analysis.md gist.github.com — https://nitter.net/scaling01/status/2076317838533398597#m",
+      "url": "https://x.com/op7418/status/2076515921523556683",
+      "images": null,
+      "published": "2026-07-13T03:55:50+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2076515141676617761",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "详情：teddit.net/r/LocalLLaMA/comm… Link From the LocalLLaMA community on Reddit: Grok Build CLI uploads your whole repo — full git history... Explore this post and more from the LocalLLaMA community reddit.com",
+      "url": "https://x.com/op7418/status/2076515141676617761",
+      "images": null,
+      "published": "2026-07-13T03:52:44+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2076515019861414321",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "老马的 grok build CLI 会打包上传你项目的整个代码库，这事办的太离谱了。 主要是它会把你的一些密钥上传上去，这一旦泄露的话，风险还是很大的。 幸亏我一直没来得及试它那个东西。",
+      "url": "https://x.com/op7418/status/2076515019861414321",
+      "images": null,
+      "published": "2026-07-13T03:52:15+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2076478706462367832",
       "source": "归藏",
@@ -71,23 +223,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2076326449955602659",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "哈哈 这个 GPT 的模型选择器交互可以的，比现在 OpenAI 官方的直观 maria (@maria_rcks) I solved the model picker problem, no need to thank me Tibo Video — https://nitter.net/maria_rcks/status/2076176709221552447#m",
-      "url": "https://x.com/op7418/status/2076326449955602659",
-      "images": null,
-      "published": "2026-07-12T15:22:56+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2076295520188817655",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -105,106 +240,20 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2075901399230013779",
-      "source": "归藏",
-      "sourceId": "guizang",
+      "id": "yt_q571PxpsdoA",
+      "source": "OpenAI",
+      "sourceId": "openai",
       "sourceAvatar": null,
-      "platform": "x",
+      "platform": "youtube",
       "domains": [
-        "AI",
-        "Design"
+        "AI"
       ],
-      "title": null,
-      "content": "换个键盘",
-      "url": "https://x.com/op7418/status/2075901399230013779",
-      "images": null,
-      "published": "2026-07-11T11:13:56+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2075802478239686846",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "网页也可以玩了 歸藏(guizang.ai) (@op7418) 昨天 GPT 5.6 Sol 发布，想测试一下，没想到这么猛。 一上午就帮我做了一个非常完整而且好玩的小工具：人生成就生成器 上传一张你的照片，选一个跟你经历有关的\"人生成就\"。 工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。 Video — https://nitter.net/op7418/status/2075775161710879010#m",
-      "url": "https://x.com/op7418/status/2075802478239686846",
-      "images": null,
-      "published": "2026-07-11T04:40:52+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2075776494878786004",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "做这个工具有几个设计上的取舍，聊聊背后的想法。",
-      "url": "https://x.com/op7418/status/2075776494878786004",
-      "images": null,
-      "published": "2026-07-11T02:57:37+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2075776229219938561",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "导出成品，三种导出组合： 只要滤镜 —— 原图 + 滤镜，不带成就卡 只要成就 —— 原图不加滤镜，叠上成就卡 成就 + 滤镜 —— 两者都有，最完整的效果",
-      "url": "https://x.com/op7418/status/2075776229219938561",
-      "images": null,
-      "published": "2026-07-11T02:56:33+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2075776053289857198",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "36 个人生成就，9 个分类： 低谷与重生 / 独立与成长 / 工作与野心 / 远行与突破 / 爱与告别 / 家人与归处 / 身体与自洽 / 长期主义 / 日常小确幸 如果你想要搞点抽象还能自定义",
-      "url": "https://x.com/op7418/status/2075776053289857198",
-      "images": null,
-      "published": "2026-07-11T02:55:51+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2075775753468498151",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "一共 14 种滤镜 ASCII ：最经典的字符艺术。照片的亮暗决定字符密度。 圆点： 圆点大小由亮度决定，颜色继承原图。类似半色调印刷或者波普艺术的感觉。 体素：每个像素格变成带圆角的小方块，顶部和左侧有高光，底部压暗，整张照片看起来像用乐高或者积木拼出来的。 除了这四个，还有古字（中文字符）、终端（绿色荧光字符）、街机（发光像素格）、16-BIT、故障、静电、棱镜、酸雨、幻影等。 每个滤镜都能通过字符密度、字符尺寸、滤镜不透明度、原图保留这些参数细调，不是一刀切的固定效果。",
-      "url": "https://x.com/op7418/status/2075775753468498151",
-      "images": null,
-      "published": "2026-07-11T02:54:40+00:00",
-      "hasTranscript": false
+      "title": "Meet the family running a cereal business from their dining room with GPT-5.6",
+      "url": "https://www.youtube.com/watch?v=q571PxpsdoA",
+      "thumbnail": "https://img.youtube.com/vi/q571PxpsdoA/maxresdefault.jpg",
+      "published": "2026-07-11T00:44:29+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_MdTqoR-7oHg",
@@ -382,38 +431,6 @@
       "url": "https://www.youtube.com/watch?v=Cb0N8Pnja30",
       "thumbnail": "https://img.youtube.com/vi/Cb0N8Pnja30/maxresdefault.jpg",
       "published": "2026-07-09T22:30:35+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_md5t5Nu44A4",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "ChatGPT Work | Zapier: Seven Figures in Monthly Pipeline",
-      "url": "https://www.youtube.com/watch?v=md5t5Nu44A4",
-      "thumbnail": "https://img.youtube.com/vi/md5t5Nu44A4/maxresdefault.jpg",
-      "published": "2026-07-09T21:26:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_sqXsMDOxP0Y",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "ChatGPT Work | Zapier: Seven Figures in Monthly Pipeline",
-      "url": "https://www.youtube.com/watch?v=sqXsMDOxP0Y",
-      "thumbnail": "https://img.youtube.com/vi/sqXsMDOxP0Y/maxresdefault.jpg",
-      "published": "2026-07-09T21:19:10+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -605,23 +622,6 @@
       "published": "2026-07-07T14:50:32+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2074479079693205510",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "From one of the first 15 people to join our Ambassador program to Field Engineer at Cursor. Nao (@naoufal_elh) Excited to share a personal update, I have joined @cursor_ai as a Field Engineer. — https://nitter.net/naoufal_elh/status/2072544757092380680#m",
-      "url": "https://x.com/benln/status/2074479079693205510",
-      "images": null,
-      "published": "2026-07-07T13:02:09+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_m8Cujr5wGSM",
