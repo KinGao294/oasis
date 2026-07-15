@@ -1,7 +1,173 @@
 {
-  "last_updated": "2026-07-14T02:02:31.759154Z",
+  "last_updated": "2026-07-15T01:59:37.823001Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_eiQgljOrkWU",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Codex just got better for developers",
+      "url": "https://www.youtube.com/watch?v=eiQgljOrkWU",
+      "thumbnail": "https://img.youtube.com/vi/eiQgljOrkWU/maxresdefault.jpg",
+      "published": "2026-07-14T23:30:19+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_matzTxfrhJU",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Background Robustness with GPT-Live",
+      "url": "https://www.youtube.com/watch?v=matzTxfrhJU",
+      "thumbnail": "https://img.youtube.com/vi/matzTxfrhJU/maxresdefault.jpg",
+      "published": "2026-07-14T22:35:03+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_avpZWh6sm9M",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Improved Intelligence with GPT-Live",
+      "url": "https://www.youtube.com/watch?v=avpZWh6sm9M",
+      "thumbnail": "https://img.youtube.com/vi/avpZWh6sm9M/maxresdefault.jpg",
+      "published": "2026-07-14T20:22:11+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_8zH_O74hZBw",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Build and publish web apps directly in ChatGPT",
+      "url": "https://www.youtube.com/watch?v=8zH_O74hZBw",
+      "thumbnail": "https://img.youtube.com/vi/8zH_O74hZBw/maxresdefault.jpg",
+      "published": "2026-07-14T19:19:36+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2077082548795064558",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Backstory behind Cafe Cursor: 10 months ago we rented the cafe next to our SF office for a day. Invited users to grab coffee, meet the team and build. People loved it. We brought it to NYC, London and handed the playbook to our community Since then: 176 takeovers, 37K signups",
+      "url": "https://x.com/benln/status/2077082548795064558",
+      "images": null,
+      "published": "2026-07-14T17:27:24+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2076993070105555001",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor team is coming to India to celebrate something new Mumbai, Delhi, Hyderabad, Bangalore RSVP on Luma, limited spots",
+      "url": "https://x.com/benln/status/2076993070105555001",
+      "images": null,
+      "published": "2026-07-14T11:31:51+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_ojzQNCfCduY",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "AI Cloned My Taste and Built My Whole Brand (Miora)",
+      "url": "https://www.youtube.com/watch?v=ojzQNCfCduY",
+      "thumbnail": "https://img.youtube.com/vi/ojzQNCfCduY/maxresdefault.jpg",
+      "published": "2026-07-14T08:45:55+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2076874927404417382",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "关于这个跟 ask question 的区别",
+      "url": "https://x.com/op7418/status/2076874927404417382",
+      "images": null,
+      "published": "2026-07-14T03:42:23+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2076874065839878337",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codex 这个更新很好玩！ 它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。 而且整个样式跟 Codex 本身的风格融合得很好。 你可以像我这样去让它触发，亲自去体验一下。 在一些必要的场景下，它会自己给你展示这些可视化的组件，帮你去理解信息或者执行一些操作。 另外，Skills 里面 Claude 常见的那种 ask question 交互，估计它也能执行了。 可以升级一下你们 Skills 里面关于 Codex 的流程了。",
+      "url": "https://x.com/op7418/status/2076874065839878337",
+      "images": null,
+      "published": "2026-07-14T03:38:58+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2076867534708748719",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "xAI 回应了 Grok build CLI 会上传用户项目数据的问题，说是禁用了 ZDR 以后，就可以同步删除他们已经上传的数据。 但是 ZDR 只对企业用户管用，同时删除数据这个事是无法证伪的——就是他说他们已经删了，但这个事你根本不知道他到底删没删。 太恶劣了，还老说人家那个 Sam 是小偷，他这偷得更狠。 歸藏(guizang.ai) (@op7418) 老马的 grok build CLI 会打包上传你项目的整个代码库，这事办的太离谱了。 主要是它会把你的一些密钥上传上去，这一旦泄露的话，风险还是很大的。 幸亏我一直没来得及试它那个东西。 — https://nitter.net/op7418/status/2076515019861414321#m",
+      "url": "https://x.com/op7418/status/2076867534708748719",
+      "images": null,
+      "published": "2026-07-14T03:13:01+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_-J5KoSMfPLk",
       "source": "OpenAI",
@@ -155,40 +321,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2076478706462367832",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "在 Anthropic 重置和延长 Fable5 使用时间之后 OpenAI 直接取消了 Codex 的五小时使用限制，同时进行了新一次的重置 Tibo (@thsottiaux) Morning. The last 48 hours of Codex and ChatGPT Work have been intense! Three important updates: - Temporarily removing the 5 hour usage limit restriction for all Plus, Business and Pro plans - Rolling out changes that will make GPT 5.6 Sol more efficient across the board and that will be reflected in less usage being used so that it can take you further. Exact impact to be quantified and shared - We hit 6M active users, and are landing a usage reset in the next hour Go do things — https://nitter.net/thsottiaux/status/2076365965915467978#m",
-      "url": "https://x.com/op7418/status/2076478706462367832",
-      "images": null,
-      "published": "2026-07-13T01:27:57+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2076352559263207806",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "哈哈 果然延长了，Fable 5 的计划延长一周到 7 月 19 号 歸藏(guizang.ai) (@op7418) 今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊 — https://nitter.net/op7418/status/2076335432321929585#m",
-      "url": "https://x.com/op7418/status/2076352559263207806",
-      "images": null,
-      "published": "2026-07-12T17:06:41+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2076351797673824318",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -203,23 +335,6 @@
       "url": "https://x.com/benln/status/2076351797673824318",
       "images": null,
       "published": "2026-07-12T17:03:39+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2076335432321929585",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "今天是 Fable 5 在 Claude 套餐的最后一天了，还没用完的使劲蹬啊",
-      "url": "https://x.com/op7418/status/2076335432321929585",
-      "images": null,
-      "published": "2026-07-12T15:58:38+00:00",
       "hasTranscript": false
     },
     {
@@ -320,22 +435,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_nep5byxmr_M",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "RingCentral Scales Customer Programs with ChatGPT Work",
-      "url": "https://www.youtube.com/watch?v=nep5byxmr_M",
-      "thumbnail": "https://img.youtube.com/vi/nep5byxmr_M/maxresdefault.jpg",
-      "published": "2026-07-10T16:02:41+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_VbqaL_eHhKY",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -383,54 +482,6 @@
       "url": "https://www.youtube.com/watch?v=Ym21X1JVm2E",
       "thumbnail": "https://img.youtube.com/vi/Ym21X1JVm2E/maxresdefault.jpg",
       "published": "2026-07-10T11:01:51+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_SvGLxXHYCd8",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "url": "https://www.youtube.com/watch?v=SvGLxXHYCd8",
-      "thumbnail": "https://img.youtube.com/vi/SvGLxXHYCd8/maxresdefault.jpg",
-      "published": "2026-07-10T09:19:42+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_xYVfknDQHU4",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "ChatGPT Work | How NVIDIA Scales GTM with AI",
-      "url": "https://www.youtube.com/watch?v=xYVfknDQHU4",
-      "thumbnail": "https://img.youtube.com/vi/xYVfknDQHU4/maxresdefault.jpg",
-      "published": "2026-07-09T22:30:40+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Cb0N8Pnja30",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "ChatGPT Work | NVIDIA’s GTM Team Uses AI to Scale Faster",
-      "url": "https://www.youtube.com/watch?v=Cb0N8Pnja30",
-      "thumbnail": "https://img.youtube.com/vi/Cb0N8Pnja30/maxresdefault.jpg",
-      "published": "2026-07-09T22:30:35+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -570,40 +621,6 @@
       "url": "https://x.com/benln/status/2074847344206430690",
       "images": null,
       "published": "2026-07-08T13:25:30+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2074560375287116199",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "notes from: piped.video/watch?v=_FBivfgO… Link How to Get Your First 10 Customers When most founders look for customers, they reach for cold email an... youtube.com",
-      "url": "https://x.com/benln/status/2074560375287116199",
-      "images": null,
-      "published": "2026-07-07T18:25:11+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2074556678545010797",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "YC on how to get your first 10 customers:",
-      "url": "https://x.com/benln/status/2074556678545010797",
-      "images": null,
-      "published": "2026-07-07T18:10:30+00:00",
       "hasTranscript": false
     },
     {
@@ -999,23 +1016,6 @@
       "url": "https://www.youtube.com/watch?v=R56RJFZBasQ",
       "thumbnail": "https://img.youtube.com/vi/R56RJFZBasQ/maxresdefault.jpg",
       "published": "2026-06-17T14:00:15+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_RMDJ23u1FZc",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "The Best AI Web Scraper in 2026? I Tested 3",
-      "url": "https://www.youtube.com/watch?v=RMDJ23u1FZc",
-      "thumbnail": "https://img.youtube.com/vi/RMDJ23u1FZc/maxresdefault.jpg",
-      "published": "2026-06-17T09:09:09+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
