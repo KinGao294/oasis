@@ -1,7 +1,176 @@
 {
-  "last_updated": "2026-07-15T01:59:37.823001Z",
+  "last_updated": "2026-07-16T02:09:28.470184Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2077568874531483895",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "哥们说 k3 有 Fable 5 级别，不知道具体怎么样 leo 🐾 (@synthwavedd) The more I test K3 the more it feels like another DeepSeek R1 moment It is often Fable level, maybe a little worse, but consistently better than 5.6. This thing is a beast — https://nitter.net/synthwavedd/status/2077458126232486124#m",
+      "url": "https://x.com/op7418/status/2077568874531483895",
+      "images": null,
+      "published": "2026-07-16T01:39:53+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2077560848567218508",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Kimi K3 开始预热 Kimi.ai (@Kimi_Moonshot) Video — https://nitter.net/Kimi_Moonshot/status/2077521842080817296#m",
+      "url": "https://x.com/op7418/status/2077560848567218508",
+      "images": null,
+      "published": "2026-07-16T01:08:00+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_CToxp125mhc",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Schedule tasks with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=CToxp125mhc",
+      "thumbnail": "https://img.youtube.com/vi/CToxp125mhc/maxresdefault.jpg",
+      "published": "2026-07-15T22:50:17+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_m8uUUUsMD3Y",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Introducing the Codex Micro",
+      "url": "https://www.youtube.com/watch?v=m8uUUUsMD3Y",
+      "thumbnail": "https://img.youtube.com/vi/m8uUUUsMD3Y/maxresdefault.jpg",
+      "published": "2026-07-15T19:42:38+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_XLzWrfx36uE",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Give Yourself a Red Card with Codex",
+      "url": "https://www.youtube.com/watch?v=XLzWrfx36uE",
+      "thumbnail": "https://img.youtube.com/vi/XLzWrfx36uE/maxresdefault.jpg",
+      "published": "2026-07-15T17:10:14+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_fc9a3737_81a9_49cf_a7d6_530c77df836e",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E244｜端到端vs上下分层：机器人路径之争，正在转向？",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/fc9a3737-81a9-49cf-a7d6-530c77df836e.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 4639,
+      "published": "2026-07-15T17:00:00-07:00",
+      "hasTranscript": false,
+      "transcriptPreview": "机器人已经能在舞台上做到翻跟头、表演武术了，但要让它在开放环境里伸手帮你拧开一个瓶盖，难度陡然跃升2到3个量级——因为那一刻，它需要理解眼前的物理世界。 这正是苏度科技想啃下的骨头。苏度科技联合创始人、董事长苏昊是ImageNet的核心作者之一，师从李飞飞，这家公司走了一条与硅谷主流纯大脑“黑盒”大模型不太一样的道路——软硬件协同设计，上下分层架构，上层负责任务规划与环境理解，下层用仿真（Sim-"
+    },
+    {
+      "id": "x_2077403393723879703",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "想过自己菜，没想过自己这么菜。谁说这个大杨山是初级路线的？ 算上休息骑了 5 个多小时，三次腿抽筋，这倒霉天气。",
+      "url": "https://x.com/op7418/status/2077403393723879703",
+      "images": null,
+      "published": "2026-07-15T14:42:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2077375136097873928",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Estonia",
+      "url": "https://x.com/benln/status/2077375136097873928",
+      "images": null,
+      "published": "2026-07-15T12:50:02+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_qZwr6PXYHU4",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "An AI Promised to Make Me $1,000 in 24 Hours (Accio Work)",
+      "url": "https://www.youtube.com/watch?v=qZwr6PXYHU4",
+      "thumbnail": "https://img.youtube.com/vi/qZwr6PXYHU4/maxresdefault.jpg",
+      "published": "2026-07-15T07:07:32+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2077231238440780100",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codex 增长真猛啊，前几天才 700 万这就 800 万周活了 顺便，又重置了，送的手动重置次数我都没用，看了一下现在有四次 Tibo (@thsottiaux) Hello. We have reached 8M active users across Codex and ChatGPT Work. We are once again resetting the usage limits for all. And we continue to not have the 5h rate limit as well, allowing everyone to explore the boundaries of GPT-5.6 Sol and discover how ambitious you can be. See you tomorrow for more updates on our growth! — https://nitter.net/thsottiaux/status/2077114635308986427#m",
+      "url": "https://x.com/op7418/status/2077231238440780100",
+      "images": null,
+      "published": "2026-07-15T03:18:14+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_eiQgljOrkWU",
       "source": "OpenAI",
@@ -253,74 +422,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2076524831802270004",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codex 改的还是挺快的，已经把 Work 和 Codex 的区别弱化了，接下来估计会优化 ChatGPT 那部分的交互 歸藏(guizang.ai) (@op7418) OpenAI 昨天晚上发了一堆东西，乱七八糟的。 GPT 5.6 终于发布了，随之发布的还有全新的 ChatGPT 应用（也就是 Codex 应用，改了个界面、换了个名字）。 现在 OpenAI 全面学习 Anthropic 产品的命名方式。 无论是从新的 5.6 命名上（原来他们是通过 Pro Mini 这种方式去命名，现在通过全新的名字比如 Sol 命名），还是产品形态上，Codex 应用现在硬生生被改成了类似 Claude 桌面端的方式。 他们硬拆分出了 Work 和 Code 两个 Tab。 你在切换的时候，整个界面除了左上角那个标志换了，其实根本看不出区别。 更别扭的是，聊天本身被缩进到了右下角一个非常小的弹窗里，整个界面充满了这种别扭的痕迹。 我一直坚持认为，Work 和 Code 根本没必要硬去区分，没必要在界面上透露出“我这个东西只能 Code”或者“我这个东西只能 Work”，用户直接用就行了。 本来经过几个月，大家已经建立起了关于 Codex 软件的认知，这一波操作直接给整没了，过去几个月全白干。现在每个人都很困惑，找不到自己的东西在哪，甚至找不到自己以前在 ChatGPT 软件里的聊天记录，非常蛋疼。 除了这些，还有几个新变化： 1. Site 插件上线： Codex 里面的 Site 插件已经上线了，可以直接去插件里面找。我试了一下，它能直接帮你生成网页，生成时会提供多套网页供你在界面上选择。 生成网页之后，它还可以连接你已有的业务数据，同时还能帮你部署到 OpenAI 的网站（部署到线上），方便你分享给朋友，这个非常好用。 2. 移动端调用插件：移动端的 ChatGPT 现在也可以调用原来 Codex 里面的那些插件了。 3. 基础能力升级：它的“浏览器使用”和“计算机使用”功能都进行了升级，变得更快、更准确了。 同时，GPT 5.6 的前端能力终于提升了，不会生成千篇一律的垃圾界面。 现在 ChatGPT 移动端 App 也可以进行切换了，网页端和移动端马上都会同步切换这个 Work 能力。 好嘞，更新就这些，赶紧去玩玩吧！ — https://nitter.net/op7418/status/2075383179859648669#m",
-      "url": "https://x.com/op7418/status/2076524831802270004",
-      "images": null,
-      "published": "2026-07-13T04:31:14+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2076515921523556683",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "其他信息 Lisan al Gaib (@scaling01) On Grok Build: - \"It uploads the whole repository - every tracked file's content plus git history - independent of what the agent reads\" - \"It transmits the contents of files it reads - including a .env secrets file - to xAI, verbatim and unredacted\" gist.github.com/cereblab/dc9… Link What xAI Grok Build CLI actually sends to xAI - a wire-level analysis (grok 0.2.93) What xAI Grok Build CLI actually sends to xAI - a wire-level analysis (grok 0.2.93) - grok-build-cli-wire-analysis.md gist.github.com — https://nitter.net/scaling01/status/2076317838533398597#m",
-      "url": "https://x.com/op7418/status/2076515921523556683",
-      "images": null,
-      "published": "2026-07-13T03:55:50+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2076515141676617761",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "详情：teddit.net/r/LocalLLaMA/comm… Link From the LocalLLaMA community on Reddit: Grok Build CLI uploads your whole repo — full git history... Explore this post and more from the LocalLLaMA community reddit.com",
-      "url": "https://x.com/op7418/status/2076515141676617761",
-      "images": null,
-      "published": "2026-07-13T03:52:44+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2076515019861414321",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "老马的 grok build CLI 会打包上传你项目的整个代码库，这事办的太离谱了。 主要是它会把你的一些密钥上传上去，这一旦泄露的话，风险还是很大的。 幸亏我一直没来得及试它那个东西。",
-      "url": "https://x.com/op7418/status/2076515019861414321",
-      "images": null,
-      "published": "2026-07-13T03:52:15+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2076351797673824318",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -383,54 +484,6 @@
       "url": "https://www.youtube.com/watch?v=MdTqoR-7oHg",
       "thumbnail": "https://img.youtube.com/vi/MdTqoR-7oHg/maxresdefault.jpg",
       "published": "2026-07-10T21:21:13+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_eD5lc1mZDZk",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Stampli scales product marketing with ChatGPT Work",
-      "url": "https://www.youtube.com/watch?v=eD5lc1mZDZk",
-      "thumbnail": "https://img.youtube.com/vi/eD5lc1mZDZk/maxresdefault.jpg",
-      "published": "2026-07-10T21:17:12+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_yATno77Uo6A",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Stampli scales product marketing with ChatGPT Work",
-      "url": "https://www.youtube.com/watch?v=yATno77Uo6A",
-      "thumbnail": "https://img.youtube.com/vi/yATno77Uo6A/maxresdefault.jpg",
-      "published": "2026-07-10T21:11:41+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_IYYTI73J7Rg",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "ChatGPT Computer Use: Now faster with Live Picture-in-Picture",
-      "url": "https://www.youtube.com/watch?v=IYYTI73J7Rg",
-      "thumbnail": "https://img.youtube.com/vi/IYYTI73J7Rg/maxresdefault.jpg",
-      "published": "2026-07-10T19:45:02+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -605,23 +658,6 @@
       "published": "2026-07-08T14:00:19+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2074847344206430690",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor is open to builders of all ages",
-      "url": "https://x.com/benln/status/2074847344206430690",
-      "images": null,
-      "published": "2026-07-08T13:25:30+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_Mxs4erDxOEE",
@@ -929,23 +965,6 @@
       "url": "https://www.youtube.com/watch?v=yfafpyhB-8E",
       "thumbnail": "https://img.youtube.com/vi/yfafpyhB-8E/maxresdefault.jpg",
       "published": "2026-06-22T14:35:28+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_LEPkmqIc9OU",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Replaced My Ad Agency With One AI. It Actually Worked.",
-      "url": "https://www.youtube.com/watch?v=LEPkmqIc9OU",
-      "thumbnail": "https://img.youtube.com/vi/LEPkmqIc9OU/maxresdefault.jpg",
-      "published": "2026-06-22T12:20:29+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1281,25 +1300,6 @@
       "published": "2026-04-29T12:30:43+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "pod_guigu101_pod_b2be7093_3366_4ee2_8a7a_625f06206ae5",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E234｜未来实拍电影还存在吗？与导演陆川聊聊AI给影视人的恐惧与自由",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b2be7093-3366-4ee2-8a7a-625f06206ae5.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 2416,
-      "published": "2026-04-21T23:00:00-07:00",
-      "hasTranscript": false,
-      "transcriptPreview": "最近，《灵魂摆渡·浮生梦》成为中国首部全AI生成的电影，暑期档即将上映。“AI能否替代真人演员”、“真人短剧是不是在被AI团灭”，这些话题最近都在冲上微博热搜，成为大家讨论的焦点。 人工智能正以惊人的速度渗透进影视工业的核心流程。从剧本开发到视觉预览，从角色建模到声音演绎，AI 带来的效率提升令人震惊。这场变革不仅是技术迭代，更是创作哲学的重构。AI把传统影视制作中长达六个月的特效前期流程，压缩到"
     },
     {
       "id": "yt_DmFdxaLgD70",
