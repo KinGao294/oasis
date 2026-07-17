@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-16T02:09:28.470184Z",
+  "last_updated": "2026-07-17T02:12:29.563380Z",
   "count": 101,
   "items": [
     {
-      "id": "x_2077568874531483895",
+      "id": "x_2077928174252630286",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -13,14 +13,14 @@
         "Design"
       ],
       "title": null,
-      "content": "哥们说 k3 有 Fable 5 级别，不知道具体怎么样 leo 🐾 (@synthwavedd) The more I test K3 the more it feels like another DeepSeek R1 moment It is often Fable level, maybe a little worse, but consistently better than 5.6. This thing is a beast — https://nitter.net/synthwavedd/status/2077458126232486124#m",
-      "url": "https://x.com/op7418/status/2077568874531483895",
+      "content": "离谱 Frontend Code Are 排第一 Arena.ai (@arena) Big news: Kimi-K3 by @Kimi_Moonshot is now #1 in the Frontend Code Arena with 1679 pts, surpassing Claude Fable 5. This is a 17-place jump from Kimi-k2.6 (#18 -> #1). In Frontend, Kimi-K3 ranked #1 in 6 of 7 domains: Brand & Marketing, Reference-Based Design, Data & Analytics, Consumer Product, Simulations, and Content Creation Tools, landing #2 only in Gaming behind Fable 5. The full model weights will be released by July 27. Congrats to the @Kimi_Moonshot team on this major milestone! — https://nitter.net/arena/status/2077824029126504525#m",
+      "url": "https://x.com/op7418/status/2077928174252630286",
       "images": null,
-      "published": "2026-07-16T01:39:53+00:00",
+      "published": "2026-07-17T01:27:37+00:00",
       "hasTranscript": false
     },
     {
-      "id": "x_2077560848567218508",
+      "id": "x_2077927715639017633",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -30,14 +30,14 @@
         "Design"
       ],
       "title": null,
-      "content": "Kimi K3 开始预热 Kimi.ai (@Kimi_Moonshot) Video — https://nitter.net/Kimi_Moonshot/status/2077521842080817296#m",
-      "url": "https://x.com/op7418/status/2077560848567218508",
+      "content": "我的时间线上已经全是 Kimi K3 了 估计 Anthropic 达里奥又要气疯了，可能今天晚上又得发一篇博客来强调开源模型的危害了 歸藏(guizang.ai) (@op7418) Kimi K3 上线了，只能说相当牛皮！ 鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！ — https://nitter.net/op7418/status/2077777402957300075#m",
+      "url": "https://x.com/op7418/status/2077927715639017633",
       "images": null,
-      "published": "2026-07-16T01:08:00+00:00",
+      "published": "2026-07-17T01:25:48+00:00",
       "hasTranscript": false
     },
     {
-      "id": "yt_CToxp125mhc",
+      "id": "yt_fnPMkEe6Nik",
       "source": "OpenAI",
       "sourceId": "openai",
       "sourceAvatar": null,
@@ -45,15 +45,15 @@
       "domains": [
         "AI"
       ],
-      "title": "Schedule tasks with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=CToxp125mhc",
-      "thumbnail": "https://img.youtube.com/vi/CToxp125mhc/maxresdefault.jpg",
-      "published": "2026-07-15T22:50:17+00:00",
+      "title": "How Shopify Uses ChatGPT Work to Build Faster with AI Agents",
+      "url": "https://www.youtube.com/watch?v=fnPMkEe6Nik",
+      "thumbnail": "https://img.youtube.com/vi/fnPMkEe6Nik/maxresdefault.jpg",
+      "published": "2026-07-16T22:19:27+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
     {
-      "id": "yt_m8uUUUsMD3Y",
+      "id": "yt_OHVu3Y4B3RI",
       "source": "OpenAI",
       "sourceId": "openai",
       "sourceAvatar": null,
@@ -61,15 +61,32 @@
       "domains": [
         "AI"
       ],
-      "title": "Introducing the Codex Micro",
-      "url": "https://www.youtube.com/watch?v=m8uUUUsMD3Y",
-      "thumbnail": "https://img.youtube.com/vi/m8uUUUsMD3Y/maxresdefault.jpg",
-      "published": "2026-07-15T19:42:38+00:00",
+      "title": "How Shopify Uses ChatGPT Work to Build Faster with AI Agents",
+      "url": "https://www.youtube.com/watch?v=OHVu3Y4B3RI",
+      "thumbnail": "https://img.youtube.com/vi/OHVu3Y4B3RI/maxresdefault.jpg",
+      "published": "2026-07-16T22:15:11+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
     {
-      "id": "yt_XLzWrfx36uE",
+      "id": "x_2077821513882046521",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "官方的测试结果",
+      "url": "https://x.com/op7418/status/2077821513882046521",
+      "images": null,
+      "published": "2026-07-16T18:23:47+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_dB6pOolO7io",
       "source": "OpenAI",
       "sourceId": "openai",
       "sourceAvatar": null,
@@ -77,12 +94,294 @@
       "domains": [
         "AI"
       ],
-      "title": "Give Yourself a Red Card with Codex",
-      "url": "https://www.youtube.com/watch?v=XLzWrfx36uE",
-      "thumbnail": "https://img.youtube.com/vi/XLzWrfx36uE/maxresdefault.jpg",
-      "published": "2026-07-15T17:10:14+00:00",
+      "title": "ChatGPT can now complete tasks on your computer",
+      "url": "https://www.youtube.com/watch?v=dB6pOolO7io",
+      "thumbnail": "https://img.youtube.com/vi/dB6pOolO7io/maxresdefault.jpg",
+      "published": "2026-07-16T18:00:16+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_2077810594032333299",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "For any early founders considering accelerators, this is my shortlist: • @HF0 (SF) • @southpkcommons (SF/NYC/BLR) • @ycombinator (SF) • @Neo (SF) • @sequoia Arc (US/EU) • @conviction Embed (SF) • @a16z Speedrun (SF) • @pearvc PearX (SF) • @fdotinc (SF)",
+      "url": "https://x.com/benln/status/2077810594032333299",
+      "images": null,
+      "published": "2026-07-16T17:40:24+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_KNPjRpNtQ7s",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "What racing reveals about working with AI — the OpenAI Podcast Ep. 22",
+      "url": "https://www.youtube.com/watch?v=KNPjRpNtQ7s",
+      "thumbnail": "https://img.youtube.com/vi/KNPjRpNtQ7s/maxresdefault.jpg",
+      "published": "2026-07-16T17:00:16+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2077794265804263600",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Kimi 的多模态还是很顶的，感觉随着 Claude 越来越不重视多模态理解，Kimi 这个会很有用",
+      "url": "https://x.com/op7418/status/2077794265804263600",
+      "images": null,
+      "published": "2026-07-16T16:35:31+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_Xk-X1TI2pQ4",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "The AI Era Needs a Different Kind of Talent | Peter Steinberger | OpenAI France",
+      "url": "https://www.youtube.com/watch?v=Xk-X1TI2pQ4",
+      "thumbnail": "https://img.youtube.com/vi/Xk-X1TI2pQ4/maxresdefault.jpg",
+      "published": "2026-07-16T15:37:36+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_Fu3WWi-pAv4",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Think AI-First: Emmanuel Marill on Building AI-Native Companies | OpenAI France",
+      "url": "https://www.youtube.com/watch?v=Fu3WWi-pAv4",
+      "thumbnail": "https://img.youtube.com/vi/Fu3WWi-pAv4/maxresdefault.jpg",
+      "published": "2026-07-16T15:37:30+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_1fL_lwsdMd4",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Stop Prompting. Start Giving AI Goals. | Katia Gil Guzman | OpenAI France",
+      "url": "https://www.youtube.com/watch?v=1fL_lwsdMd4",
+      "thumbnail": "https://img.youtube.com/vi/1fL_lwsdMd4/maxresdefault.jpg",
+      "published": "2026-07-16T15:37:20+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_W0mU8zgop60",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "From AI Pilots to Production | François Weider on Enterprise Adoption | OpenAI France",
+      "url": "https://www.youtube.com/watch?v=W0mU8zgop60",
+      "thumbnail": "https://img.youtube.com/vi/W0mU8zgop60/maxresdefault.jpg",
+      "published": "2026-07-16T15:37:16+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_K9_G-v8AE_s",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "What Great AI Founders Do Differently | Laura Modiano | OpenAI France",
+      "url": "https://www.youtube.com/watch?v=K9_G-v8AE_s",
+      "thumbnail": "https://img.youtube.com/vi/K9_G-v8AE_s/maxresdefault.jpg",
+      "published": "2026-07-16T15:37:12+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_jaYDbeQTUR0",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Have a Crazy Idea? Build It with Codex | Romain Huet | OpenAI France",
+      "url": "https://www.youtube.com/watch?v=jaYDbeQTUR0",
+      "thumbnail": "https://img.youtube.com/vi/jaYDbeQTUR0/maxresdefault.jpg",
+      "published": "2026-07-16T15:37:08+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2077777402957300075",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Kimi K3 上线了，只能说相当牛皮！ 鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！",
+      "url": "https://x.com/op7418/status/2077777402957300075",
+      "images": null,
+      "published": "2026-07-16T15:28:30+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2077735224348180822",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Corners of the Cursor office",
+      "url": "https://x.com/benln/status/2077735224348180822",
+      "images": null,
+      "published": "2026-07-16T12:40:54+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_iIj8l5Ncbl8",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "This AI Voice Made Me Money While I Slept",
+      "url": "https://www.youtube.com/watch?v=iIj8l5Ncbl8",
+      "thumbnail": "https://img.youtube.com/vi/iIj8l5Ncbl8/maxresdefault.jpg",
+      "published": "2026-07-16T07:22:03+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2077611744244167097",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codex 也 歸藏(guizang.ai) (@op7418) 笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置 — https://nitter.net/op7418/status/2077611075776991447#m",
+      "url": "https://x.com/op7418/status/2077611744244167097",
+      "images": null,
+      "published": "2026-07-16T04:30:14+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2077611075776991447",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置 歸藏(guizang.ai) (@op7418) Claude 又重置了，还得 Open AI 给他们上压力 — https://nitter.net/op7418/status/2077608090367820102#m",
+      "url": "https://x.com/op7418/status/2077611075776991447",
+      "images": null,
+      "published": "2026-07-16T04:27:35+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2077608090367820102",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Claude 又重置了，还得 Open AI 给他们上压力 ClaudeDevs (@ClaudeDevs) We've reset 5-hour and weekly rate limits for all users. — https://nitter.net/ClaudeDevs/status/2077603834453770467#m",
+      "url": "https://x.com/op7418/status/2077608090367820102",
+      "images": null,
+      "published": "2026-07-16T04:15:43+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2077605667737866628",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "又新的终端产品，它皮肤有点意思。你可以把它换成各种比较著名的系统默认皮肤样式，比如说老古早的 Windows XP、2000，还有非常早的 macOS 系统 Sheru (@sheruapp) Meet Sheru, a new shell for macOS. A native, reskinnable interface for your files, servers, services, terminals, and more. Reshape your computer. Video — https://nitter.net/sheruapp/status/2077302077068554480#m",
+      "url": "https://x.com/op7418/status/2077605667737866628",
+      "images": null,
+      "published": "2026-07-16T04:06:05+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2077604691299680286",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "OpenAI 之前预热的首个硬件产品上线了，果然是跟 work_louder 合作的这款客制化键盘。 同时附赠了一套 Codex 图标的键帽（一共有 32 个不同的键帽），你可以根据自定义的按键内容去更换不同的键帽。 这个还挺有意思的，每个 Agent 的按键都会根据 Codex 的状态亮起不同的 RGB 灯效。 产品确实是漂亮，但是 230 美元我觉得还是有点太贵了。 如果你不是很追求颜值的话，去淘宝买一个支持自定义按键、带旋钮的小键盘，也就几十块钱。 OpenAI Developers (@OpenAIDevs) Meet kbd-1.0-codex-micro, built with @work_louder. Map the buttons and joystick to your workflow, and keep your pinned chats in view. Get yours before stock returns 410. Video — https://nitter.net/OpenAIDevs/status/2077425991790870644#m",
+      "url": "https://x.com/op7418/status/2077604691299680286",
+      "images": null,
+      "published": "2026-07-16T04:02:13+00:00",
+      "hasTranscript": false
     },
     {
       "id": "pod_guigu101_pod_fc9a3737_81a9_49cf_a7d6_530c77df836e",
@@ -101,24 +400,7 @@
       "duration": 4639,
       "published": "2026-07-15T17:00:00-07:00",
       "hasTranscript": false,
-      "transcriptPreview": "机器人已经能在舞台上做到翻跟头、表演武术了，但要让它在开放环境里伸手帮你拧开一个瓶盖，难度陡然跃升2到3个量级——因为那一刻，它需要理解眼前的物理世界。 这正是苏度科技想啃下的骨头。苏度科技联合创始人、董事长苏昊是ImageNet的核心作者之一，师从李飞飞，这家公司走了一条与硅谷主流纯大脑“黑盒”大模型不太一样的道路——软硬件协同设计，上下分层架构，上层负责任务规划与环境理解，下层用仿真（Sim-"
-    },
-    {
-      "id": "x_2077403393723879703",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "想过自己菜，没想过自己这么菜。谁说这个大杨山是初级路线的？ 算上休息骑了 5 个多小时，三次腿抽筋，这倒霉天气。",
-      "url": "https://x.com/op7418/status/2077403393723879703",
-      "images": null,
-      "published": "2026-07-15T14:42:20+00:00",
-      "hasTranscript": false
+      "transcriptPreview": "机器人已经能在舞台上做到翻跟头、表演武术了，但要让它在开放环境里伸手帮你拧开一个瓶盖，难度陡然跃升2到3个量级——因为那一刻，它需要理解眼前的物理世界。 这正是苏度科技想啃下的硬骨头。苏度科技联合创始人、董事长苏昊是ImageNet的核心作者之一，师从李飞飞，这家公司走了一条与硅谷主流纯大脑“黑盒”大模型不太一样的道路——软硬件协同设计，上下分层架构，上层负责任务规划与环境理解，下层用仿真（Sim"
     },
     {
       "id": "x_2077375136097873928",
@@ -151,87 +433,6 @@
       "url": "https://www.youtube.com/watch?v=qZwr6PXYHU4",
       "thumbnail": "https://img.youtube.com/vi/qZwr6PXYHU4/maxresdefault.jpg",
       "published": "2026-07-15T07:07:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2077231238440780100",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codex 增长真猛啊，前几天才 700 万这就 800 万周活了 顺便，又重置了，送的手动重置次数我都没用，看了一下现在有四次 Tibo (@thsottiaux) Hello. We have reached 8M active users across Codex and ChatGPT Work. We are once again resetting the usage limits for all. And we continue to not have the 5h rate limit as well, allowing everyone to explore the boundaries of GPT-5.6 Sol and discover how ambitious you can be. See you tomorrow for more updates on our growth! — https://nitter.net/thsottiaux/status/2077114635308986427#m",
-      "url": "https://x.com/op7418/status/2077231238440780100",
-      "images": null,
-      "published": "2026-07-15T03:18:14+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_eiQgljOrkWU",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Codex just got better for developers",
-      "url": "https://www.youtube.com/watch?v=eiQgljOrkWU",
-      "thumbnail": "https://img.youtube.com/vi/eiQgljOrkWU/maxresdefault.jpg",
-      "published": "2026-07-14T23:30:19+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_matzTxfrhJU",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Background Robustness with GPT-Live",
-      "url": "https://www.youtube.com/watch?v=matzTxfrhJU",
-      "thumbnail": "https://img.youtube.com/vi/matzTxfrhJU/maxresdefault.jpg",
-      "published": "2026-07-14T22:35:03+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_avpZWh6sm9M",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Improved Intelligence with GPT-Live",
-      "url": "https://www.youtube.com/watch?v=avpZWh6sm9M",
-      "thumbnail": "https://img.youtube.com/vi/avpZWh6sm9M/maxresdefault.jpg",
-      "published": "2026-07-14T20:22:11+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_8zH_O74hZBw",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Build and publish web apps directly in ChatGPT",
-      "url": "https://www.youtube.com/watch?v=8zH_O74hZBw",
-      "thumbnail": "https://img.youtube.com/vi/8zH_O74hZBw/maxresdefault.jpg",
-      "published": "2026-07-14T19:19:36+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -287,90 +488,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2076874927404417382",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "关于这个跟 ask question 的区别",
-      "url": "https://x.com/op7418/status/2076874927404417382",
-      "images": null,
-      "published": "2026-07-14T03:42:23+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2076874065839878337",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codex 这个更新很好玩！ 它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。 而且整个样式跟 Codex 本身的风格融合得很好。 你可以像我这样去让它触发，亲自去体验一下。 在一些必要的场景下，它会自己给你展示这些可视化的组件，帮你去理解信息或者执行一些操作。 另外，Skills 里面 Claude 常见的那种 ask question 交互，估计它也能执行了。 可以升级一下你们 Skills 里面关于 Codex 的流程了。",
-      "url": "https://x.com/op7418/status/2076874065839878337",
-      "images": null,
-      "published": "2026-07-14T03:38:58+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2076867534708748719",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "xAI 回应了 Grok build CLI 会上传用户项目数据的问题，说是禁用了 ZDR 以后，就可以同步删除他们已经上传的数据。 但是 ZDR 只对企业用户管用，同时删除数据这个事是无法证伪的——就是他说他们已经删了，但这个事你根本不知道他到底删没删。 太恶劣了，还老说人家那个 Sam 是小偷，他这偷得更狠。 歸藏(guizang.ai) (@op7418) 老马的 grok build CLI 会打包上传你项目的整个代码库，这事办的太离谱了。 主要是它会把你的一些密钥上传上去，这一旦泄露的话，风险还是很大的。 幸亏我一直没来得及试它那个东西。 — https://nitter.net/op7418/status/2076515019861414321#m",
-      "url": "https://x.com/op7418/status/2076867534708748719",
-      "images": null,
-      "published": "2026-07-14T03:13:01+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "yt_-J5KoSMfPLk",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Learning with AI at Any Stage of Life | Fast Campus x OpenAI",
-      "url": "https://www.youtube.com/watch?v=-J5KoSMfPLk",
-      "thumbnail": "https://img.youtube.com/vi/-J5KoSMfPLk/maxresdefault.jpg",
-      "published": "2026-07-13T23:07:18+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2076664973242360264",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "他妈的，谁给老子传的呀？我操！ 我这 Skills 全是开源的，怎么还一份 199 卖 40 万呀？ 谁卖的？他妈分我点。",
-      "url": "https://x.com/op7418/status/2076664973242360264",
-      "images": null,
-      "published": "2026-07-13T13:48:06+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2076653948870574135",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -385,40 +502,6 @@
       "url": "https://x.com/benln/status/2076653948870574135",
       "images": null,
       "published": "2026-07-13T13:04:18+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2076605296416530647",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Seedream 5.0 Pro 的这个图像精细编辑能力真的非常牛！ 它是模型能力和产品交互的一个结合，可以实现对图像非常精准的编辑。 甚至你标注的部分和生成的部分区域颜色能完美融合，绝对不会溢出。 我写了一篇教程，详细讲了一下如何在 Lumion 里面去玩这套东西，推荐去试试，是很不一样的体验。 歸藏(guizang.ai) (@op7418) Article Seedream 5.0 Pro 测评：图像编辑门槛爆降 字节上周发布了新一代图像模型 Seedream 5.0 Pro。 我第一时间上手试了一圈，整体印象是： 图像质量、提示词理解、综合生成能力，基本追平了 GPT-Image 2.0。 目前火山引擎已经全量上线Seedream 5.0 — https://nitter.net/op7418/status/2076604797202161800#m",
-      "url": "https://x.com/op7418/status/2076605296416530647",
-      "images": null,
-      "published": "2026-07-13T09:50:58+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2076604797202161800",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Article Seedream 5.0 Pro 测评：图像编辑门槛爆降 字节上周发布了新一代图像模型 Seedream 5.0 Pro。 我第一时间上手试了一圈，整体印象是： 图像质量、提示词理解、综合生成能力，基本追平了 GPT-Image 2.0。 目前火山引擎已经全量上线Seedream 5.0",
-      "url": "https://x.com/op7418/status/2076604797202161800",
-      "images": null,
-      "published": "2026-07-13T09:48:59+00:00",
       "hasTranscript": false
     },
     {
@@ -454,38 +537,6 @@
       "images": null,
       "published": "2026-07-12T13:20:02+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt_q571PxpsdoA",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Meet the family running a cereal business from their dining room with GPT-5.6",
-      "url": "https://www.youtube.com/watch?v=q571PxpsdoA",
-      "thumbnail": "https://img.youtube.com/vi/q571PxpsdoA/maxresdefault.jpg",
-      "published": "2026-07-11T00:44:29+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_MdTqoR-7oHg",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "RingCentral Scales Customer Programs with ChatGPT Work",
-      "url": "https://www.youtube.com/watch?v=MdTqoR-7oHg",
-      "thumbnail": "https://img.youtube.com/vi/MdTqoR-7oHg/maxresdefault.jpg",
-      "published": "2026-07-10T21:21:13+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_VbqaL_eHhKY",
@@ -592,23 +643,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2075195584491745466",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Mombasa",
-      "url": "https://x.com/benln/status/2075195584491745466",
-      "images": null,
-      "published": "2026-07-09T12:29:17+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_cGOJ_wFmh6E",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -624,23 +658,6 @@
       "published": "2026-07-09T09:55:42+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2074916925486792732",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "New Cursor & SpaceXAI model is now live Take it for a spin, double usage for the first week Cursor (@cursor_ai) We've partnered with SpaceXAI to train Grok 4.5. It’s our most powerful model yet and the first we've built for more than software engineering. — https://nitter.net/cursor_ai/status/2074915744999969059#m",
-      "url": "https://x.com/benln/status/2074916925486792732",
-      "images": null,
-      "published": "2026-07-08T18:01:59+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_xpeRVyFFy_Q",
@@ -881,23 +898,6 @@
       "url": "https://www.youtube.com/watch?v=oHwUD9b9_pg",
       "thumbnail": "https://img.youtube.com/vi/oHwUD9b9_pg/maxresdefault.jpg",
       "published": "2026-06-25T14:00:34+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_ssTgNTNjlsk",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Let an AI Agent Run 5 Dead Websites for 30 Days",
-      "url": "https://www.youtube.com/watch?v=ssTgNTNjlsk",
-      "thumbnail": "https://img.youtube.com/vi/ssTgNTNjlsk/maxresdefault.jpg",
-      "published": "2026-06-25T10:58:52+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
