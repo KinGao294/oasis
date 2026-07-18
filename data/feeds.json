@@ -1,7 +1,177 @@
 {
-  "last_updated": "2026-07-17T02:12:29.563380Z",
+  "last_updated": "2026-07-18T02:02:03.317344Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_rghTqkclDqA",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "\"Being Canceled is a Choice\" | Replit CEO with a16z",
+      "url": "https://www.youtube.com/watch?v=rghTqkclDqA",
+      "thumbnail": "https://img.youtube.com/vi/rghTqkclDqA/maxresdefault.jpg",
+      "published": "2026-07-17T14:30:21+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_qz4GQ0zUFRw",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Key Thing Human Brains Have That AI Is Trying To Learn",
+      "url": "https://www.youtube.com/watch?v=qz4GQ0zUFRw",
+      "thumbnail": "https://img.youtube.com/vi/qz4GQ0zUFRw/maxresdefault.jpg",
+      "published": "2026-07-17T14:00:25+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2078114772881494194",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Best $80 I've spent in years DJI Mic Mini + Wispr Flow",
+      "url": "https://x.com/benln/status/2078114772881494194",
+      "images": null,
+      "published": "2026-07-17T13:49:06+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2078100047489888652",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "虽然人没去 WAIC，但是东西去了。",
+      "url": "https://x.com/op7418/status/2078100047489888652",
+      "images": null,
+      "published": "2026-07-17T12:50:35+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_KLQJxohK3yQ",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "This Influencer Doesn't Exist (I Built Her in 24 Hours)",
+      "url": "https://www.youtube.com/watch?v=KLQJxohK3yQ",
+      "thumbnail": "https://img.youtube.com/vi/KLQJxohK3yQ/maxresdefault.jpg",
+      "published": "2026-07-17T08:28:30+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2077970130630492544",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "藏师傅的测试来了： 歸藏(guizang.ai) (@op7418) Article 跟 Opus 4.8 打的有来有回？！Kimi K3 首测 Kimi K3 正式上线了。 官方给的成绩单是全新 Kimi Linear 混合线性注意力架构，1M 上下文，编程、Agent、多模态都覆盖到了，同时模型有 2.8T， 在一众国内的 1T 模型里面，相当大了。 前几天泄露的时候，Twitter — https://nitter.net/op7418/status/2077969109506277602#m",
+      "url": "https://x.com/op7418/status/2077970130630492544",
+      "images": null,
+      "published": "2026-07-17T04:14:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2077969583018066116",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "藏师傅的 Kimi K3 测评来了，这次确实非常牛逼！ 可以说是一个比较小的 DeepSeek 时刻 我直接拿它跟 Opus 4.8 做了对比测试。 从结果来看，互有胜负。 在复杂前端和复杂开发的情况下，我觉得它跟 Opus 4.8 差不多是相当的水平。 至于 Fable 5 和 5.6，我觉得还差一些，但已经是一个非常牛逼的成绩了。 Video 歸藏(guizang.ai) (@op7418) Article 跟 Opus 4.8 打的有来有回？！Kimi K3 首测 Kimi K3 正式上线了。 官方给的成绩单是全新 Kimi Linear 混合线性注意力架构，1M 上下文，编程、Agent、多模态都覆盖到了，同时模型有 2.8T， 在一众国内的 1T 模型里面，相当大了。 前几天泄露的时候，Twitter — https://nitter.net/op7418/status/2077969109506277602#m",
+      "url": "https://x.com/op7418/status/2077969583018066116",
+      "images": null,
+      "published": "2026-07-17T04:12:10+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2077969109506277602",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Article 跟 Opus 4.8 打的有来有回？！Kimi K3 首测 Kimi K3 正式上线了。 官方给的成绩单是全新 Kimi Linear 混合线性注意力架构，1M 上下文，编程、Agent、多模态都覆盖到了，同时模型有 2.8T， 在一众国内的 1T 模型里面，相当大了。 前几天泄露的时候，Twitter",
+      "url": "https://x.com/op7418/status/2077969109506277602",
+      "images": null,
+      "published": "2026-07-17T04:10:17+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2077959202627285056",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codex 昨晚的更新在交互上终于对味了： 1. 左上角的切换：从 Work 和 Codex 切换成 ChatGPT 和 Codex 2. 历史聊天整合：ChatGPT 的历史聊天全部并进了左边“最近聊天”里面，你可以筛选是普通聊天还是 ChatGPT Work 的任务 3. 顶部导航：分了 Chat 和 Work 两个 Tab，交互逻辑跟网页版和移动端一致了",
+      "url": "https://x.com/op7418/status/2077959202627285056",
+      "images": null,
+      "published": "2026-07-17T03:30:55+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2077939743913103594",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "下面很多评论特别搞笑：“中国人一定是造了个时间机器，从明年得美国模型蒸馏的 K3。”",
+      "url": "https://x.com/op7418/status/2077939743913103594",
+      "images": null,
+      "published": "2026-07-17T02:13:35+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2077928174252630286",
       "source": "归藏",
@@ -248,23 +418,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2077777402957300075",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Kimi K3 上线了，只能说相当牛皮！ 鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！",
-      "url": "https://x.com/op7418/status/2077777402957300075",
-      "images": null,
-      "published": "2026-07-16T15:28:30+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2077735224348180822",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -299,91 +452,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2077611744244167097",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codex 也 歸藏(guizang.ai) (@op7418) 笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置 — https://nitter.net/op7418/status/2077611075776991447#m",
-      "url": "https://x.com/op7418/status/2077611744244167097",
-      "images": null,
-      "published": "2026-07-16T04:30:14+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2077611075776991447",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "笑死！在 Claude 重置几分钟以后，OpenAI 宣布 ChatGPT 周活用户达到了 900 万，再一次重置 歸藏(guizang.ai) (@op7418) Claude 又重置了，还得 Open AI 给他们上压力 — https://nitter.net/op7418/status/2077608090367820102#m",
-      "url": "https://x.com/op7418/status/2077611075776991447",
-      "images": null,
-      "published": "2026-07-16T04:27:35+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2077608090367820102",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Claude 又重置了，还得 Open AI 给他们上压力 ClaudeDevs (@ClaudeDevs) We've reset 5-hour and weekly rate limits for all users. — https://nitter.net/ClaudeDevs/status/2077603834453770467#m",
-      "url": "https://x.com/op7418/status/2077608090367820102",
-      "images": null,
-      "published": "2026-07-16T04:15:43+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2077605667737866628",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "又新的终端产品，它皮肤有点意思。你可以把它换成各种比较著名的系统默认皮肤样式，比如说老古早的 Windows XP、2000，还有非常早的 macOS 系统 Sheru (@sheruapp) Meet Sheru, a new shell for macOS. A native, reskinnable interface for your files, servers, services, terminals, and more. Reshape your computer. Video — https://nitter.net/sheruapp/status/2077302077068554480#m",
-      "url": "https://x.com/op7418/status/2077605667737866628",
-      "images": null,
-      "published": "2026-07-16T04:06:05+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2077604691299680286",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "OpenAI 之前预热的首个硬件产品上线了，果然是跟 work_louder 合作的这款客制化键盘。 同时附赠了一套 Codex 图标的键帽（一共有 32 个不同的键帽），你可以根据自定义的按键内容去更换不同的键帽。 这个还挺有意思的，每个 Agent 的按键都会根据 Codex 的状态亮起不同的 RGB 灯效。 产品确实是漂亮，但是 230 美元我觉得还是有点太贵了。 如果你不是很追求颜值的话，去淘宝买一个支持自定义按键、带旋钮的小键盘，也就几十块钱。 OpenAI Developers (@OpenAIDevs) Meet kbd-1.0-codex-micro, built with @work_louder. Map the buttons and joystick to your workflow, and keep your pinned chats in view. Get yours before stock returns 410. Video — https://nitter.net/OpenAIDevs/status/2077425991790870644#m",
-      "url": "https://x.com/op7418/status/2077604691299680286",
-      "images": null,
-      "published": "2026-07-16T04:02:13+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "pod_guigu101_pod_fc9a3737_81a9_49cf_a7d6_530c77df836e",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -394,7 +462,7 @@
         "Business",
         "Global"
       ],
-      "title": "E244｜端到端vs上下分层：机器人路径之争，正在转向？",
+      "title": "E244｜机器人走错路了？与苏度韩铮聊聊具身智能的3D数据、路径分野与硅谷竞赛",
       "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/fc9a3737-81a9-49cf-a7d6-530c77df836e.mp3",
       "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
       "duration": 4639,
@@ -609,23 +677,6 @@
       "transcriptPreview": "世界杯发生了闻所未闻的一幕，在特朗普介入后，美国球员巴洛贡吃到的红牌被暂缓1年执行，有人不禁要问了，国际足联为什么要那么听美国人的话。 部分原因可能来自于，美国资本已经渗透进了全球足坛的方方面面。比如英超的20家俱乐部中，有11家都被美国资本控股，美资甚至渗透进了欧洲五大联赛的俱乐部、商业权益开发、球员球队买卖资金周转等等方面。 没有英式足球积淀的美国人，为什么会那么喜欢投资英式足球？美国资本又在"
     },
     {
-      "id": "x_2075258305862152423",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Booking out a local cafe on July 20th in San Francisco Grab coffee, Cursor credits, meet the team, and build Limited spots for founders, engineers, designers, PMs",
-      "url": "https://x.com/benln/status/2075258305862152423",
-      "images": null,
-      "published": "2026-07-09T16:38:31+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_e5-6rEwzxLs",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -811,23 +862,6 @@
       "url": "https://www.youtube.com/watch?v=5PONSpAlwFo",
       "thumbnail": "https://img.youtube.com/vi/5PONSpAlwFo/maxresdefault.jpg",
       "published": "2026-06-30T13:25:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_HIomv6WAxfs",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Gave an AI Agent 7 Days to Build Me a Startup",
-      "url": "https://www.youtube.com/watch?v=HIomv6WAxfs",
-      "thumbnail": "https://img.youtube.com/vi/HIomv6WAxfs/maxresdefault.jpg",
-      "published": "2026-06-29T09:55:11+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1056,23 +1090,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_3rWSvrFahIY",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Self-Play for LLMs, AI for Biology, Formal Verification, and More | YC Paper Club",
-      "url": "https://www.youtube.com/watch?v=3rWSvrFahIY",
-      "thumbnail": "https://img.youtube.com/vi/3rWSvrFahIY/maxresdefault.jpg",
-      "published": "2026-06-12T14:00:20+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_259291f5_2715_4dde_bcfe_b5beb4df5793",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -1212,23 +1229,6 @@
       "published": "2026-05-20T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "离美加墨世界杯开赛还有一个月，央视和国际足联FIFA之间的版权谈判终于是谈妥了，本期我们来聊聊世界杯的定价逻辑与体育赛事版权生意的变化脉络。 【主播】 麻花，硅谷101特约研究员 【嘉宾】 朱晓东，力赞体育CEO ，本届世界杯日本转播权销售顾问 张宾，《体育产业独立评论》主理人 【你将听到】 谈判的虚惊一场，赞助商的从中斡旋 02:40 价格细节：打包的版权交易里，很少透露单届的价格 04:25 "
-    },
-    {
-      "id": "yt_pddFfZy4nZU",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Is Defense the Next Trillion-Dollar Category? | a16z American Dynamism Summit",
-      "url": "https://www.youtube.com/watch?v=pddFfZy4nZU",
-      "thumbnail": "https://img.youtube.com/vi/pddFfZy4nZU/maxresdefault.jpg",
-      "published": "2026-05-19T14:30:37+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "pod_guigu101_pod_b066c769_00d2_4341_bf61_a82bca4181e4",
