@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-07-19T02:13:10.503782Z",
+  "last_updated": "2026-07-20T03:33:28.910145Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_AopewjYV1Ho",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Celebrating 2 million with you!",
+      "url": "https://www.youtube.com/watch?v=AopewjYV1Ho",
+      "thumbnail": "https://img.youtube.com/vi/AopewjYV1Ho/maxresdefault.jpg",
+      "published": "2026-07-19T18:46:37+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2078881834176561484",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Kimi 宣布因为算力紧缺，暂停 C 端会员的销售，果然没卡了。 歸藏(guizang.ai) (@op7418) Kimi K3 上线了，只能说相当牛皮！ 鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！ — https://nitter.net/op7418/status/2077777402957300075#m",
+      "url": "https://x.com/op7418/status/2078881834176561484",
+      "images": null,
+      "published": "2026-07-19T16:37:07+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2078829197561139643",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Tip: never use the green Open to Work banner on LinkedIn Negative signal for hiring managers and recruiters",
+      "url": "https://x.com/benln/status/2078829197561139643",
+      "images": null,
+      "published": "2026-07-19T13:07:58+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2078513418676707465",
       "source": "归藏",
@@ -114,7 +164,7 @@
         "Business",
         "AI"
       ],
-      "title": "\"Being Canceled is a Choice\" | Replit CEO with a16z",
+      "title": "Amjad Masad on Memes, Media, and Building Replit in Public | a16z",
       "url": "https://www.youtube.com/watch?v=rghTqkclDqA",
       "thumbnail": "https://img.youtube.com/vi/rghTqkclDqA/maxresdefault.jpg",
       "published": "2026-07-17T14:30:21+00:00",
@@ -190,40 +240,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2077970130630492544",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "藏师傅的测试来了： 歸藏(guizang.ai) (@op7418) Article 跟 Opus 4.8 打的有来有回？！Kimi K3 首测 Kimi K3 正式上线了。 官方给的成绩单是全新 Kimi Linear 混合线性注意力架构，1M 上下文，编程、Agent、多模态都覆盖到了，同时模型有 2.8T， 在一众国内的 1T 模型里面，相当大了。 前几天泄露的时候，Twitter — https://nitter.net/op7418/status/2077969109506277602#m",
-      "url": "https://x.com/op7418/status/2077970130630492544",
-      "images": null,
-      "published": "2026-07-17T04:14:20+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2077969583018066116",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "藏师傅的 Kimi K3 测评来了，这次确实非常牛逼！ 可以说是一个比较小的 DeepSeek 时刻 我直接拿它跟 Opus 4.8 做了对比测试。 从结果来看，互有胜负。 在复杂前端和复杂开发的情况下，我觉得它跟 Opus 4.8 差不多是相当的水平。 至于 Fable 5 和 5.6，我觉得还差一些，但已经是一个非常牛逼的成绩了。 Video 歸藏(guizang.ai) (@op7418) Article 跟 Opus 4.8 打的有来有回？！Kimi K3 首测 Kimi K3 正式上线了。 官方给的成绩单是全新 Kimi Linear 混合线性注意力架构，1M 上下文，编程、Agent、多模态都覆盖到了，同时模型有 2.8T， 在一众国内的 1T 模型里面，相当大了。 前几天泄露的时候，Twitter — https://nitter.net/op7418/status/2077969109506277602#m",
-      "url": "https://x.com/op7418/status/2077969583018066116",
-      "images": null,
-      "published": "2026-07-17T04:12:10+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2077969109506277602",
       "source": "归藏",
       "sourceId": "guizang",
@@ -238,23 +254,6 @@
       "url": "https://x.com/op7418/status/2077969109506277602",
       "images": null,
       "published": "2026-07-17T04:10:17+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2077959202627285056",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codex 昨晚的更新在交互上终于对味了： 1. 左上角的切换：从 Work 和 Codex 切换成 ChatGPT 和 Codex 2. 历史聊天整合：ChatGPT 的历史聊天全部并进了左边“最近聊天”里面，你可以筛选是普通聊天还是 ChatGPT Work 的任务 3. 顶部导航：分了 Chat 和 Work 两个 Tab，交互逻辑跟网页版和移动端一致了",
-      "url": "https://x.com/op7418/status/2077959202627285056",
-      "images": null,
-      "published": "2026-07-17T03:30:55+00:00",
       "hasTranscript": false
     },
     {
@@ -288,6 +287,23 @@
       "published": "2026-07-16T22:15:11+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_2077821513882046521",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "官方的测试结果",
+      "url": "https://x.com/op7418/status/2077821513882046521",
+      "images": null,
+      "published": "2026-07-16T18:23:47+00:00",
+      "hasTranscript": false
     },
     {
       "id": "yt_dB6pOolO7io",
@@ -419,20 +435,21 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_jaYDbeQTUR0",
-      "source": "OpenAI",
-      "sourceId": "openai",
+      "id": "x_2077777402957300075",
+      "source": "归藏",
+      "sourceId": "guizang",
       "sourceAvatar": null,
-      "platform": "youtube",
+      "platform": "x",
       "domains": [
-        "AI"
+        "AI",
+        "Design"
       ],
-      "title": "Have a Crazy Idea? Build It with Codex | Romain Huet | OpenAI France",
-      "url": "https://www.youtube.com/watch?v=jaYDbeQTUR0",
-      "thumbnail": "https://img.youtube.com/vi/jaYDbeQTUR0/maxresdefault.jpg",
-      "published": "2026-07-16T15:37:08+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
+      "title": null,
+      "content": "Kimi K3 上线了，只能说相当牛皮！ 鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！",
+      "url": "https://x.com/op7418/status/2077777402957300075",
+      "images": null,
+      "published": "2026-07-16T15:28:30+00:00",
+      "hasTranscript": false
     },
     {
       "id": "x_2077735224348180822",
@@ -639,23 +656,6 @@
       "published": "2026-07-10T14:00:10+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2075573272201072959",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cursor is hiring for 110+ roles: cursor.com/careers",
-      "url": "https://x.com/benln/status/2075573272201072959",
-      "images": null,
-      "published": "2026-07-10T13:30:05+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_Ym21X1JVm2E",
