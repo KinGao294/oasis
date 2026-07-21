@@ -1,7 +1,107 @@
 {
-  "last_updated": "2026-07-20T03:33:28.910145Z",
+  "last_updated": "2026-07-21T02:12:05.843698Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_RC4_MWFUHr0",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "American Dynamism Presents",
+      "url": "https://www.youtube.com/watch?v=RC4_MWFUHr0",
+      "thumbnail": "https://img.youtube.com/vi/RC4_MWFUHr0/maxresdefault.jpg",
+      "published": "2026-07-20T22:40:47+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_WwxZeU4WH14",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "How Virgin Atlantic Uses ChatGPT Work to Turn Weeks of Work Into Hours",
+      "url": "https://www.youtube.com/watch?v=WwxZeU4WH14",
+      "thumbnail": "https://img.youtube.com/vi/WwxZeU4WH14/maxresdefault.jpg",
+      "published": "2026-07-20T16:24:11+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_MmYCdNhrhfA",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "How BNY CEO Robin Vince Turns AI Optimism Into Action",
+      "url": "https://www.youtube.com/watch?v=MmYCdNhrhfA",
+      "thumbnail": "https://img.youtube.com/vi/MmYCdNhrhfA/maxresdefault.jpg",
+      "published": "2026-07-20T13:42:57+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2079192872071332111",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor team will be visiting these cities over the next few weeks: • Nairobi • Bangkok • Da Nang • Tokyo • Sapporo • Accra • Bali • Kathmandu • Delhi • Bangalore • Casablanca • Mumbai • Hyderabad Sign up on Luma (limited spots)",
+      "url": "https://x.com/benln/status/2079192872071332111",
+      "images": null,
+      "published": "2026-07-20T13:13:04+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2079151709755244965",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "哇 Wilio (@MI5606401623599) @op7418 guizang老师进阿里园区 — https://nitter.net/MI5606401623599/status/2079142306603844063#m",
+      "url": "https://x.com/op7418/status/2079151709755244965",
+      "images": null,
+      "published": "2026-07-20T10:29:31+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_7nLhxUVjiNk",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "The Best AI Model Runs On Your Laptop Now",
+      "url": "https://www.youtube.com/watch?v=7nLhxUVjiNk",
+      "thumbnail": "https://img.youtube.com/vi/7nLhxUVjiNk/maxresdefault.jpg",
+      "published": "2026-07-20T08:29:08+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_AopewjYV1Ho",
       "source": "OpenAI",
@@ -164,7 +264,7 @@
         "Business",
         "AI"
       ],
-      "title": "Amjad Masad on Memes, Media, and Building Replit in Public | a16z",
+      "title": "Why Every Founder Needs a Story | Replit CEO on a16z",
       "url": "https://www.youtube.com/watch?v=rghTqkclDqA",
       "thumbnail": "https://img.youtube.com/vi/rghTqkclDqA/maxresdefault.jpg",
       "published": "2026-07-17T14:30:21+00:00",
@@ -240,7 +340,7 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2077969109506277602",
+      "id": "x_2077970130630492544",
       "source": "归藏",
       "sourceId": "guizang",
       "sourceAvatar": null,
@@ -250,10 +350,27 @@
         "Design"
       ],
       "title": null,
-      "content": "Article 跟 Opus 4.8 打的有来有回？！Kimi K3 首测 Kimi K3 正式上线了。 官方给的成绩单是全新 Kimi Linear 混合线性注意力架构，1M 上下文，编程、Agent、多模态都覆盖到了，同时模型有 2.8T， 在一众国内的 1T 模型里面，相当大了。 前几天泄露的时候，Twitter",
-      "url": "https://x.com/op7418/status/2077969109506277602",
+      "content": "藏师傅的测试来了： 歸藏(guizang.ai) (@op7418) Article 跟 Opus 4.8 打的有来有回？！Kimi K3 首测 Kimi K3 正式上线了。 官方给的成绩单是全新 Kimi Linear 混合线性注意力架构，1M 上下文，编程、Agent、多模态都覆盖到了，同时模型有 2.8T， 在一众国内的 1T 模型里面，相当大了。 前几天泄露的时候，Twitter — https://nitter.net/op7418/status/2077969109506277602#m",
+      "url": "https://x.com/op7418/status/2077970130630492544",
       "images": null,
-      "published": "2026-07-17T04:10:17+00:00",
+      "published": "2026-07-17T04:14:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2077969583018066116",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "藏师傅的 Kimi K3 测评来了，这次确实非常牛逼！ 可以说是一个比较小的 DeepSeek 时刻 我直接拿它跟 Opus 4.8 做了对比测试。 从结果来看，互有胜负。 在复杂前端和复杂开发的情况下，我觉得它跟 Opus 4.8 差不多是相当的水平。 至于 Fable 5 和 5.6，我觉得还差一些，但已经是一个非常牛逼的成绩了。 Video 歸藏(guizang.ai) (@op7418) Article 跟 Opus 4.8 打的有来有回？！Kimi K3 首测 Kimi K3 正式上线了。 官方给的成绩单是全新 Kimi Linear 混合线性注意力架构，1M 上下文，编程、Agent、多模态都覆盖到了，同时模型有 2.8T， 在一众国内的 1T 模型里面，相当大了。 前几天泄露的时候，Twitter — https://nitter.net/op7418/status/2077969109506277602#m",
+      "url": "https://x.com/op7418/status/2077969583018066116",
+      "images": null,
+      "published": "2026-07-17T04:12:10+00:00",
       "hasTranscript": false
     },
     {
@@ -287,23 +404,6 @@
       "published": "2026-07-16T22:15:11+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2077821513882046521",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "官方的测试结果",
-      "url": "https://x.com/op7418/status/2077821513882046521",
-      "images": null,
-      "published": "2026-07-16T18:23:47+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_dB6pOolO7io",
@@ -403,55 +503,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_W0mU8zgop60",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "From AI Pilots to Production | François Weider on Enterprise Adoption | OpenAI France",
-      "url": "https://www.youtube.com/watch?v=W0mU8zgop60",
-      "thumbnail": "https://img.youtube.com/vi/W0mU8zgop60/maxresdefault.jpg",
-      "published": "2026-07-16T15:37:16+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_K9_G-v8AE_s",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "What Great AI Founders Do Differently | Laura Modiano | OpenAI France",
-      "url": "https://www.youtube.com/watch?v=K9_G-v8AE_s",
-      "thumbnail": "https://img.youtube.com/vi/K9_G-v8AE_s/maxresdefault.jpg",
-      "published": "2026-07-16T15:37:12+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "x_2077777402957300075",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Kimi K3 上线了，只能说相当牛皮！ 鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！",
-      "url": "https://x.com/op7418/status/2077777402957300075",
-      "images": null,
-      "published": "2026-07-16T15:28:30+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2077735224348180822",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -502,7 +553,7 @@
       "duration": 4639,
       "published": "2026-07-15T17:00:00-07:00",
       "hasTranscript": false,
-      "transcriptPreview": "机器人已经能在舞台上做到翻跟头、表演武术了，但要让它在开放环境里伸手帮你拧开一个瓶盖，难度陡然跃升2到3个量级——因为那一刻，它需要理解眼前的物理世界。 这正是苏度科技想啃下的硬骨头。苏度科技联合创始人、董事长苏昊是ImageNet的核心作者之一，师从李飞飞，这家公司走了一条与硅谷主流纯大脑“黑盒”大模型不太一样的道路——软硬件协同设计，上下分层架构，上层负责任务规划与环境理解，下层用仿真（Sim"
+      "transcriptPreview": "机器人已经能在舞台上做到翻跟头、表演武术了，但要让它在开放环境里伸手帮你拧开一个瓶盖，难度陡然跃升2到3个量级——因为那一刻，它需要理解眼前的物理世界。 这正是苏度科技想啃下的硬骨头。苏度科技联合创始人、董事长苏昊是ImageNet的核心作者之一，师从李飞飞。这家公司走了一条与硅谷主流\"纯大脑黑盒大模型\"不太一样的路：软硬件协同设计，上下分层架构，上层负责任务规划与环境理解，下层负责具体物体操作；"
     },
     {
       "id": "x_2077375136097873928",
@@ -621,23 +672,6 @@
       "url": "https://x.com/benln/status/2076351797673824318",
       "images": null,
       "published": "2026-07-12T17:03:39+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2076295520188817655",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Sunday 1:1s",
-      "url": "https://x.com/benln/status/2076295520188817655",
-      "images": null,
-      "published": "2026-07-12T13:20:02+00:00",
       "hasTranscript": false
     },
     {
@@ -828,23 +862,6 @@
       "url": "https://www.youtube.com/watch?v=XBD-kciNg5Y",
       "thumbnail": "https://img.youtube.com/vi/XBD-kciNg5Y/maxresdefault.jpg",
       "published": "2026-07-03T09:15:41+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_2k4mXX0ovak",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Let AI Write My Tests, Then Broke It (Kane AI)",
-      "url": "https://www.youtube.com/watch?v=2k4mXX0ovak",
-      "thumbnail": "https://img.youtube.com/vi/2k4mXX0ovak/maxresdefault.jpg",
-      "published": "2026-07-01T09:16:08+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1156,23 +1173,6 @@
       "url": "https://www.youtube.com/watch?v=AiM9mZCmVPY",
       "thumbnail": "https://img.youtube.com/vi/AiM9mZCmVPY/maxresdefault.jpg",
       "published": "2026-05-29T14:29:06+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_oYK_MmZW9XI",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The $1 Trillion Firm That Refuses The Private Equity Label | a16z",
-      "url": "https://www.youtube.com/watch?v=oYK_MmZW9XI",
-      "thumbnail": "https://img.youtube.com/vi/oYK_MmZW9XI/maxresdefault.jpg",
-      "published": "2026-05-27T14:00:13+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
