@@ -7,8 +7,10 @@ Fetches content from all configured sources and saves to feeds.json
 import json
 import os
 import yaml
+import shutil
 from datetime import datetime
 from pathlib import Path
+from typing import Optional
 
 from fetchers import fetch_youtube, fetch_bilibili, fetch_twitter, fetch_podcast
 
@@ -18,6 +20,13 @@ SOURCES_FILE = SCRIPT_DIR / "sources.yaml"
 DATA_DIR = SCRIPT_DIR.parent / "data"
 FEEDS_FILE = DATA_DIR / "feeds.json"
 TRANSCRIPTS_DIR = DATA_DIR / "transcripts"
+SUMMARIES_DIR = DATA_DIR / "summaries"
+
+WEB_DIR = SCRIPT_DIR.parent / "web"
+WEB_DATA_DIR = WEB_DIR / "data"
+WEB_FEEDS_FILE = WEB_DATA_DIR / "feeds.json"
+WEB_TRANSCRIPTS_DIR = WEB_DATA_DIR / "transcripts"
+WEB_SUMMARIES_DIR = WEB_DATA_DIR / "summaries"
 
 
 def load_sources():
@@ -43,6 +52,68 @@ def save_feeds(items):
         json.dump(data, f, ensure_ascii=False, indent=2)
     
     print(f"Saved {len(items)} items to {FEEDS_FILE}")
+
+
+def _load_existing_transcript_preview(item_id: str) -> Optional[str]:
+    """If transcript JSON exists, return preview text (first 200 chars)."""
+    transcript_file = TRANSCRIPTS_DIR / f"{item_id}.json"
+    if not transcript_file.exists():
+        return None
+    try:
+        with open(transcript_file, "r", encoding="utf-8") as f:
+            transcript_data = json.load(f)
+        full_text = (transcript_data.get("full_text", "") or "").strip()
+        if not full_text:
+            return ""
+        return full_text[:200] + "..." if len(full_text) > 200 else full_text
+    except Exception:
+        return None
+
+
+def hydrate_items_from_local_artifacts(items: list[dict]) -> list[dict]:
+    """
+    Ensure feed items reflect already-fetched artifacts on disk.
+
+    Fixes mismatch where transcripts/summaries exist in /data but fresh RSS fetch
+    writes items with hasTranscript=false (and no preview).
+    """
+    for item in items:
+        item_id = item.get("id")
+        if not item_id:
+            continue
+
+        preview = _load_existing_transcript_preview(item_id)
+        if preview is not None:
+            item["hasTranscript"] = True
+            item["transcriptPreview"] = preview
+
+        if (SUMMARIES_DIR / f"{item_id}.json").exists():
+            item["hasSummary"] = True
+
+    return items
+
+
+def sync_data_to_web():
+    """
+    Mirror root /data into /web/data so Next.js can import JSON at build time.
+    """
+    if not WEB_DIR.exists():
+        return
+
+    WEB_DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+    if FEEDS_FILE.exists():
+        shutil.copy2(FEEDS_FILE, WEB_FEEDS_FILE)
+
+    if TRANSCRIPTS_DIR.exists():
+        WEB_TRANSCRIPTS_DIR.mkdir(parents=True, exist_ok=True)
+        for p in TRANSCRIPTS_DIR.glob("*.json"):
+            shutil.copy2(p, WEB_TRANSCRIPTS_DIR / p.name)
+
+    if SUMMARIES_DIR.exists():
+        WEB_SUMMARIES_DIR.mkdir(parents=True, exist_ok=True)
+        for p in SUMMARIES_DIR.glob("*.json"):
+            shutil.copy2(p, WEB_SUMMARIES_DIR / p.name)
 
 
 def fetch_all():
@@ -122,9 +193,15 @@ def main():
     
     # Fetch all content
     items = fetch_all()
+
+    # Reflect already existing transcript/summary artifacts in feed items
+    items = hydrate_items_from_local_artifacts(items)
     
     # Save to JSON
     save_feeds(items)
+
+    # Keep Next.js static data in sync
+    sync_data_to_web()
     
     print(f"\nCompleted at: {datetime.now().isoformat()}")
 
