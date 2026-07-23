@@ -1,7 +1,327 @@
 {
-  "last_updated": "2026-07-22T02:10:04.352132Z",
+  "last_updated": "2026-07-23T02:21:55.239611Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_CzQbI8_bBEs",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Multiplayer AI",
+      "url": "https://www.youtube.com/watch?v=CzQbI8_bBEs",
+      "thumbnail": "https://img.youtube.com/vi/CzQbI8_bBEs/maxresdefault.jpg",
+      "published": "2026-07-22T22:27:46+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_4Nv--b12hxQ",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "How European Small Businesses Are Using ChatGPT and Codex | OpenAI Academy",
+      "url": "https://www.youtube.com/watch?v=4Nv--b12hxQ",
+      "thumbnail": "https://img.youtube.com/vi/4Nv--b12hxQ/maxresdefault.jpg",
+      "published": "2026-07-22T20:43:58+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_z6gH_v0buUc",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Building a Company in Stealth | Travis Kalanick with a16z",
+      "url": "https://www.youtube.com/watch?v=z6gH_v0buUc",
+      "thumbnail": "https://img.youtube.com/vi/z6gH_v0buUc/maxresdefault.jpg",
+      "published": "2026-07-22T20:42:53+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_cFyFF3Ad2aM",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "How California Small Businesses Are Using ChatGPT | OpenAI Academy",
+      "url": "https://www.youtube.com/watch?v=cFyFF3Ad2aM",
+      "thumbnail": "https://img.youtube.com/vi/cFyFF3Ad2aM/maxresdefault.jpg",
+      "published": "2026-07-22T20:37:36+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_G3WEOXKN2SI",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "A Cloud for Small Software",
+      "url": "https://www.youtube.com/watch?v=G3WEOXKN2SI",
+      "thumbnail": "https://img.youtube.com/vi/G3WEOXKN2SI/maxresdefault.jpg",
+      "published": "2026-07-22T20:27:18+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_iOeW40N-1VI",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Future of American Defense",
+      "url": "https://www.youtube.com/watch?v=iOeW40N-1VI",
+      "thumbnail": "https://img.youtube.com/vi/iOeW40N-1VI/maxresdefault.jpg",
+      "published": "2026-07-22T19:11:49+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_e7TyxRj-GDU",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Primer",
+      "url": "https://www.youtube.com/watch?v=e7TyxRj-GDU",
+      "thumbnail": "https://img.youtube.com/vi/e7TyxRj-GDU/maxresdefault.jpg",
+      "published": "2026-07-22T17:44:22+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2079966101610594423",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "项目地址：github.com/op7418/CodePilot Link GitHub - op7418/CodePilot: A multi-model AI agent desktop client — connect any AI provider, extend... A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js. - op7418/CodePilot github.com",
+      "url": "https://x.com/op7418/status/2079966101610594423",
+      "images": null,
+      "published": "2026-07-22T16:25:37+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2079964537613173024",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Los Angeles",
+      "url": "https://x.com/benln/status/2079964537613173024",
+      "images": null,
+      "published": "2026-07-22T16:19:24+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2079946524235272613",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "一个 Codepilot 新版的预告： 在下一个版本中，你可以指定每一个 SubAgent 所采用的模型，非常有意思的能力 比如说： • 可以用 Grok 去检索 Twitter 上的内容 • 让 DeepSeek 去生成文案 • 让 Kimi K3 去生成网页 你可以通过 SubAgent 让各个模型发挥它们的长处",
+      "url": "https://x.com/op7418/status/2079946524235272613",
+      "images": null,
+      "published": "2026-07-22T15:07:49+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_ALJQHSgCl2E",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Why Ambitious Startup Ideas Are Actually Easier To Sell",
+      "url": "https://www.youtube.com/watch?v=ALJQHSgCl2E",
+      "thumbnail": "https://img.youtube.com/vi/ALJQHSgCl2E/maxresdefault.jpg",
+      "published": "2026-07-22T14:00:36+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2079917780611059976",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "95+ startups actively hiring in this thread Hit them up if you’re looking for your next thing Google Sheet with full list: docs.google.com/spreadsheets… Link July hiring thread docs.google.com Ben Lang (@benln) Which startups are actively hiring? (July thread) Reply with company name, career page, location — https://nitter.net/benln/status/2079598745734238527#m",
+      "url": "https://x.com/benln/status/2079917780611059976",
+      "images": null,
+      "published": "2026-07-22T13:13:36+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_SHWjQrGb3MQ",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "科学禁地 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=SHWjQrGb3MQ",
+      "thumbnail": "https://img.youtube.com/vi/SHWjQrGb3MQ/maxresdefault.jpg",
+      "published": "2026-07-22T12:23:34+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2079818460092371356",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "众所周知，Grok 4.5 也是现在尺度最大的模型 所以说配合 Agent，它能干更多有意思的事情 歸藏(guizang.ai) (@op7418) CodePilot 重大更新，现在可以免费蹬 Grok 4.5 了！ 得益于老马非常仁慈的算力供给，现在支持通过 Super Grok（也就是 Twitter 账号）的授权，直接在 CodePilot 里登录 Grok，然后免费使用 Grok 4.5。 同时，如果你已经买了 Twitter 的 Premium，你的额度还会更高。 另外，更新了新的千问 Token Plan 计划，现在可以在里面正常使用千问 3.8 Max Preview 模型。 Grok 授权添加的路径：设置 -> 服务商 -> 添加服务 -> 选择 XAI Grok OAuth — https://nitter.net/op7418/status/2079817181781790824#m",
+      "url": "https://x.com/op7418/status/2079818460092371356",
+      "images": null,
+      "published": "2026-07-22T06:38:56+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2079817253764350154",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这里尝试：github.com/op7418/CodePilot/… Link Release CodePilot v0.59.1 · op7418/CodePilot CodePilot v0.59.1 修复开启系统代理时 xAI Grok OAuth 可能在浏览器授权成功后仍无法完成登录的问题。 修复问题 修复 xAI OAuth 代理分流 — 系统浏览器和 CodePilot 后台的授权请求现在会使用一致的 HTTP(S) 代理路径，避免网页已经授权、应用却在换取 token 时提示网络失败。 覆盖完整 OAuth 生命周期 — 浏览器授权码交换... github.com",
+      "url": "https://x.com/op7418/status/2079817253764350154",
+      "images": null,
+      "published": "2026-07-22T06:34:09+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2079817181781790824",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "CodePilot 重大更新，现在可以免费蹬 Grok 4.5 了！ 得益于老马非常仁慈的算力供给，现在支持通过 Super Grok（也就是 Twitter 账号）的授权，直接在 CodePilot 里登录 Grok，然后免费使用 Grok 4.5。 同时，如果你已经买了 Twitter 的 Premium，你的额度还会更高。 另外，更新了新的千问 Token Plan 计划，现在可以在里面正常使用千问 3.8 Max Preview 模型。 Grok 授权添加的路径：设置 -> 服务商 -> 添加服务 -> 选择 XAI Grok OAuth",
+      "url": "https://x.com/op7418/status/2079817181781790824",
+      "images": null,
+      "published": "2026-07-22T06:33:51+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2079808336867033349",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "谷歌昨天晚上上线了 Gemini 3.6 Flash模型，感觉 Gemini 3.5 Pro模型没了呀。 这次的 3.6 Flash 比原来的 3.5 Flash 在各个评分上都上涨了一点，不过涨得不多。另外他们还发布了一个 3.5 Flash-Light 模型，速度更快。 他们的发言人说，目前已经开始了 Gemini 4 的训练，还说是有史以来最大规模的训练，感觉是要对标 GPT-5.6 和 Fable 5。 不过现在才开始训练的话，等出来怎么着也得年底了，应该还是按他们正常的迭代顺序去迭代。 只是谷歌现在的模型迭代速度，在一众两三个月、甚至一个月一版的模型面前，感觉确实有点太慢了。 Google (@Google) Gemini 3.6 Flash: Our smartest everyday model, built directly from your feedback. We took what you loved about Gemini 3.5 Flash and incorporated your feedback on where we could improve. You asked for greater efficiency, so we built an updated model that’s better at coding, reasoning, and tool calling while being substantially more token efficient. It outperforms Gemini 3.5 Flash on quality and precision, using up to 65% fewer output tokens on benchmarks like DeepSWE by Datacurve, all at a lower cost. — https://nitter.net/Google/status/2079589749468061822#m",
+      "url": "https://x.com/op7418/status/2079808336867033349",
+      "images": null,
+      "published": "2026-07-22T05:58:43+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2079806551007846806",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "没想到小红书模型训的也可以啊，我一直以为他们只做一些 Agent 方面的事情。 刚才看到他们在 2026 年的国际奥林匹克数学竞赛（IMO）上，那个 dots-note-3.0以 42 分的满分成绩获得了满分金牌的认证，超过金牌线 13 分。这应该是第一次有模型在IMO官方评卷里拿到满分。全球范围内都是。 IMO 主要是证明题，没有选择题之类的对错题，要看论证过程是否准确严密，需要评委去评审。模型在某一个题目上用了非常新颖的解法。 我查了一下，这个模型是dots-note-3.0 的内部版本，应该是 dots 3 中最轻量的模型，近期也会开源，感觉他们在模型上也发力了。 刚好昨天，Anthropic 的数学家用 Fble 5 证明了雅可比猜想的反例，这也说明大模型在数学发现上的重要性越来越强，而且能力上也越来越强了。",
+      "url": "https://x.com/op7418/status/2079806551007846806",
+      "images": null,
+      "published": "2026-07-22T05:51:37+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2079806155279552963",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "有意思。最近诺兰的《奥德赛》刚上。这个用 AI 做的《奥德赛》的互动式 AI 引导故事挺好玩的，而且它还有分支剧情，也就是玩家的选择会影响结局，大概用了 2 天，250 美金成本。 这种能做互动式内容消费的产品，我觉得最近随着 AI 编程能力和视频模型能力的提升，应该会越来越多。#AIOdysseyByYoroll Yoroll (@YorollAI) Nolan spent a reported $250M to bring The Odyssey to the big screen. One creator spent about $250 in Yoroll credits to turn it into a 40-minute playable AI story — in 2 days. Not the same craft. Not the same scale. But that 1,000,000× cost gap changes who gets to create. Watch Odysseus make the choices — or make them yourself → app.yoroll.ai/feed/odyssey #AIOdysseyByYoroll Video — https://nitter.net/YorollAI/status/2079636102978392472#m",
+      "url": "https://x.com/op7418/status/2079806155279552963",
+      "images": null,
+      "published": "2026-07-22T05:50:03+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_pKwRNdDtai0",
       "source": "OpenAI",
@@ -15,22 +335,6 @@
       "url": "https://www.youtube.com/watch?v=pKwRNdDtai0",
       "thumbnail": "https://img.youtube.com/vi/pKwRNdDtai0/maxresdefault.jpg",
       "published": "2026-07-21T18:00:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_qr2CuMmKzH0",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "How Small Business Owners Use ChatGPT | Hiroki’s Story",
-      "url": "https://www.youtube.com/watch?v=qr2CuMmKzH0",
-      "thumbnail": "https://img.youtube.com/vi/qr2CuMmKzH0/maxresdefault.jpg",
-      "published": "2026-07-21T17:20:38+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -120,40 +424,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2079399859531252028",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "特朗普正在尝试限制甚至禁止中国顶尖的 AI 模型。比如去年，他们就想把多个中国 AI 实验室和大学实验室列入实体清单。 他们想通过采购规则、实体清单和舆论压制等“软封锁”手段，来降低中国顶尖模型在美国企业中的采用率。 但这个说法跟前几天 OpenAI 新的战略分析负责人提出的一些方法是一致的，感觉整篇报道是拼凑出来的： 就是有一些捕风捉影的传言，加上当时 OpenAI 新任分析负责人披露的信息，最后拼凑出了这么一篇报道。 Andrew Curran (@AndrewCurran_) This does explain some of David Sacks's posts yesterday. It was known for a while that open-source regulation was a contentious debate ongoing within the administration, and he would have been strongly against it. axios.com/2026/07/20/ai-us-c… Link The secret Trump administration battle to fight Chinese AI The launch of Kimi K3 is giving the fight new urgency. axios.com — https://nitter.net/AndrewCurran_/status/2079203225643966678#m",
-      "url": "https://x.com/op7418/status/2079399859531252028",
-      "images": null,
-      "published": "2026-07-21T02:55:34+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2079398398080500063",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "昨天 Twitter 上讨论最热的一条内容，超过了两千万次浏览。 Anthropic 的一个数学家用 Fable 5 随手证明了一个雅可比猜想的反例。 这个猜想 87 年来一直没有人能证明是对是错，甚至还上过 21 世纪 18 大数学难题名单。 随后，OpenAI 的人在他们内部的 Codex 版本（不联网的版本）中，也独立证明了类似的反例。 这说明这确实是 Fable 5或者更高等级的 GPT 模型可以独立证明出来的数学难题。 而且 有意思的事，这个问题一直是张益唐博士的博士论文想要解决的问题。 当时张益唐因为他教授提出的一个引理，试图从这个方向去解决这个题，结果一直无法证明，导致毕业后长期找不到工作，只能在快餐店打工，甚至无家可归。 后来他靠证明“素数间的有界间隙”才一举成名。 很有意思的是，当年他的导师给了他一个错误的引理去证明这事，而现在 AI 随手就给解决了。顺便大家还讨论了一下学术界“有毒导师”的问题。 这明明是一个非常难的数学问题，但这哥们儿就随手发了一条推特，里面只有一串公式，没有什么期刊，也没有什么论文，甚至连 Twitter 的字符限制都没超过，而且还获得了两千万的浏览量。从传播学上也是一个非常值得讨论的例子。 levent (@__alpoge__) hello there the jacobian conjecture is false thanx to my close friend akhil for asking about it and my other close friend fable for working during the world cup final ((1+xy)^3 z + y^2 (1+xy) (4+3xy), y + 3 x (1+xy)^2 z + 3 x y^2 (4+3xy), 2 x - 3 x^2 y - x^3 z): \\C^3\\to \\C^3, has jacobian determinant -2, and sends (0, 0, -1/4), (1, -3/2, 13/2), and (-1, 3/2, 13/2) to (-1/4, 0, 0) — https://nitter.net/__alpoge__/status/2079028340955197566#m",
-      "url": "https://x.com/op7418/status/2079398398080500063",
-      "images": null,
-      "published": "2026-07-21T02:49:46+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_RC4_MWFUHr0",
       "source": "a16z",
       "sourceId": "a16z",
@@ -220,23 +490,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2079151709755244965",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "哇 Wilio (@MI5606401623599) @op7418 guizang老师进阿里园区 — https://nitter.net/MI5606401623599/status/2079142306603844063#m",
-      "url": "https://x.com/op7418/status/2079151709755244965",
-      "images": null,
-      "published": "2026-07-20T10:29:31+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_7nLhxUVjiNk",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -270,23 +523,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2078881834176561484",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Kimi 宣布因为算力紧缺，暂停 C 端会员的销售，果然没卡了。 歸藏(guizang.ai) (@op7418) Kimi K3 上线了，只能说相当牛皮！ 鉴于参数量和算力紧张的情况，唯一的建议，快点买 Token Plan！ — https://nitter.net/op7418/status/2077777402957300075#m",
-      "url": "https://x.com/op7418/status/2078881834176561484",
-      "images": null,
-      "published": "2026-07-19T16:37:07+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2078829197561139643",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -301,57 +537,6 @@
       "url": "https://x.com/benln/status/2078829197561139643",
       "images": null,
       "published": "2026-07-19T13:07:58+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2078513418676707465",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "每周限制提高 50% 的活动时间延长，额度跟之前一致",
-      "url": "https://x.com/op7418/status/2078513418676707465",
-      "images": null,
-      "published": "2026-07-18T16:13:10+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2078474596970586387",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Anthropic 刚才再次大规模封号，很多用了好几年的号也都被封了，我刚买的也没了",
-      "url": "https://x.com/op7418/status/2078474596970586387",
-      "images": null,
-      "published": "2026-07-18T13:38:54+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2078469760472518801",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Anthropic 可真鸡贼啊！ 从 20 号开始，Fable 5 的限额会相较于之前再减少 25%，相当于缩水了一半。 因为从 5 月开始到 7 月 19 号，他们有一个政策是会员的周限额会提高 50%，等于是你在 5 月到现在，所有的总限额是正常情况下的 150%。 所以，Fable 5 的限额其实是你原来应该得到限额的 75%。 但是从 19 号这个活动结束以后，你的 Fable 5 和你总的限额，在不管是 100 美元还是 200 美元的情况下，都会减少 50%。 所以整体上来看，全都缩水了。 歸藏(guizang.ai) (@op7418) 果不其然，Claude 宣布 Fable 5 将会长期内置在 max 和 team premium 的计划里面，限额是 50%。 估计是由于 OpenAI 和 Kimi K3 的推出的压力带来的，这次不延期直接内置了。 PRO 和其他 team 会员只能通过积分访问。会一次性获得 100 美元的积分 — https://nitter.net/op7418/status/2078303477630148741#m",
-      "url": "https://x.com/op7418/status/2078469760472518801",
-      "images": null,
-      "published": "2026-07-18T13:19:41+00:00",
       "hasTranscript": false
     },
     {
@@ -370,23 +555,6 @@
       "published": "2026-07-18T07:23:55+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2078303477630148741",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "果不其然，Claude 宣布 Fable 5 将会长期内置在 max 和 team premium 的计划里面，限额是 50%。 估计是由于 OpenAI 和 Kimi K3 的推出的压力带来的，这次不延期直接内置了。 PRO 和其他 team 会员只能通过积分访问。会一次性获得 100 美元的积分 Claude (@claudeai) Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. Demand for Fable has been challenging to predict, which is why we rolled it out to subscription plans in stages, extending access several times as we secured additional capacity. — https://nitter.net/claudeai/status/2078302415804379218#m",
-      "url": "https://x.com/op7418/status/2078303477630148741",
-      "images": null,
-      "published": "2026-07-18T02:18:56+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_rghTqkclDqA",
@@ -538,22 +706,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_Xk-X1TI2pQ4",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "The AI Era Needs a Different Kind of Talent | Peter Steinberger | OpenAI France",
-      "url": "https://www.youtube.com/watch?v=Xk-X1TI2pQ4",
-      "thumbnail": "https://img.youtube.com/vi/Xk-X1TI2pQ4/maxresdefault.jpg",
-      "published": "2026-07-16T15:37:36+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2077735224348180822",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -639,40 +791,6 @@
       "published": "2026-07-15T07:07:32+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2077082548795064558",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Backstory behind Cafe Cursor: 10 months ago we rented the cafe next to our SF office for a day. Invited users to grab coffee, meet the team and build. People loved it. We brought it to NYC, London and handed the playbook to our community Since then: 176 takeovers, 37K signups",
-      "url": "https://x.com/benln/status/2077082548795064558",
-      "images": null,
-      "published": "2026-07-14T17:27:24+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2076993070105555001",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cursor team is coming to India to celebrate something new Mumbai, Delhi, Hyderabad, Bangalore RSVP on Luma, limited spots",
-      "url": "https://x.com/benln/status/2076993070105555001",
-      "images": null,
-      "published": "2026-07-14T11:31:51+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_ojzQNCfCduY",
@@ -805,7 +923,7 @@
         "Business",
         "AI"
       ],
-      "title": "Software in the Age of Agents | The a16z Show",
+      "title": "The New Rules of Enterprise Software with Steven Sinofsky",
       "url": "https://www.youtube.com/watch?v=Mxs4erDxOEE",
       "thumbnail": "https://img.youtube.com/vi/Mxs4erDxOEE/maxresdefault.jpg",
       "published": "2026-07-07T14:50:32+00:00",
@@ -953,23 +1071,6 @@
       "transcriptPreview": "本期节目由AI轻办公神器vivo X Fold6赞助播出 今年4月的伦敦马拉松，肯尼亚选手萨维以 1小时59分30秒 的成绩夺冠，成为首位在正式马拉松比赛中跑进2小时的运动员，这场比赛的亚军克杰勒恰同样跑进了2小时，创造了历史。 事后媒体关注到，萨维和克杰勒恰，包括这场比赛的女子冠军阿塞法，他们穿的鞋，都是阿迪达斯的Adios Pro EVO 3。但在此之前，统治马拉松赛场10年之久的一直是耐克，"
     },
     {
-      "id": "yt_oHwUD9b9_pg",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It",
-      "url": "https://www.youtube.com/watch?v=oHwUD9b9_pg",
-      "thumbnail": "https://img.youtube.com/vi/oHwUD9b9_pg/maxresdefault.jpg",
-      "published": "2026-06-25T14:00:34+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_gKboAPejVM8",
       "source": "a16z",
       "sourceId": "a16z",
@@ -999,23 +1100,6 @@
       "url": "https://www.youtube.com/watch?v=0V-GiPHgRwI",
       "thumbnail": "https://img.youtube.com/vi/0V-GiPHgRwI/maxresdefault.jpg",
       "published": "2026-06-24T13:22:24+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt__FBivfgOvuE",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How to Get Your First 10 Customers",
-      "url": "https://www.youtube.com/watch?v=_FBivfgOvuE",
-      "thumbnail": "https://img.youtube.com/vi/_FBivfgOvuE/maxresdefault.jpg",
-      "published": "2026-06-22T16:54:40+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1054,23 +1138,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_8OOuCnZB-4o",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Age Of The 40-Year-Old Solo Founder Is Here",
-      "url": "https://www.youtube.com/watch?v=8OOuCnZB-4o",
-      "thumbnail": "https://img.youtube.com/vi/8OOuCnZB-4o/maxresdefault.jpg",
-      "published": "2026-06-19T14:00:26+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_47b7778e_1ed6_4dab_b7c9_8b4a6555b867",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -1090,40 +1157,6 @@
       "transcriptPreview": "5月初，OpenAI成立了Deployment Company（部署公司），Anthropic也宣布与包括Blackstone在内的多家金融机构合作成立合资企业。这些顶尖模型公司，都开始押注同一种服务：不只是提供AI工具，而是深入企业内部，在具体业务场景中把AI能力真正部署起来。 这也让一个工种迅速走到台前：Forward Deployment Engineer（FDE），前线部署工程师。他们既要"
     },
     {
-      "id": "yt_R56RJFZBasQ",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Pick One Idea and Go Deep",
-      "url": "https://www.youtube.com/watch?v=R56RJFZBasQ",
-      "thumbnail": "https://img.youtube.com/vi/R56RJFZBasQ/maxresdefault.jpg",
-      "published": "2026-06-17T14:00:15+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_ObBAxL2dFzw",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Groww: If Your Customers Don't Love It or Hate It, You've Already Lost",
-      "url": "https://www.youtube.com/watch?v=ObBAxL2dFzw",
-      "thumbnail": "https://img.youtube.com/vi/ObBAxL2dFzw/maxresdefault.jpg",
-      "published": "2026-06-15T12:30:28+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_259291f5_2715_4dde_bcfe_b5beb4df5793",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -1141,23 +1174,6 @@
       "published": "2026-06-12T04:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "SpaceX上市进入最后倒计时，在它那份长达280页的招股说明书里，月球基地、点对点地表旅行、在轨制造、火星货物……这些别的公司不敢写的科幻元素，它都写了。但更让人印象深刻的是SpaceX的AI叙事，它预测在28.5万亿美元总潜在市场中，有超过90%来自AI板块，而这部分将受到“地球无法快速扩展发电能力”的严重制约。 面对电力紧缺，SpaceX的答案是：把数据中心搬上太空。上周一，马斯克在一段关于"
-    },
-    {
-      "id": "yt_ktl8mNiWqMM",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Economics of AI Usage and What's Next For SaaS | Benedict Evans on a16z",
-      "url": "https://www.youtube.com/watch?v=ktl8mNiWqMM",
-      "thumbnail": "https://img.youtube.com/vi/ktl8mNiWqMM/maxresdefault.jpg",
-      "published": "2026-06-08T14:30:24+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_1M3Vdl6DRkU",
@@ -1513,22 +1529,6 @@
       "url": "https://www.youtube.com/watch?v=Iocm-1dXr-Q",
       "thumbnail": "https://img.youtube.com/vi/Iocm-1dXr-Q/maxresdefault.jpg",
       "published": "2025-10-01T14:38:48+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_VdF4cd0SitU",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "臭氧空洞，人類距離滅絕最近的一次 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=VdF4cd0SitU",
-      "thumbnail": "https://img.youtube.com/vi/VdF4cd0SitU/maxresdefault.jpg",
-      "published": "2025-09-17T14:33:34+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
