@@ -1,7 +1,143 @@
 {
-  "last_updated": "2026-07-25T02:12:03.100189Z",
+  "last_updated": "2026-07-26T02:23:22.767268Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_pPvt-vtyOvo",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Mark Zuckerberg on the only mistake that actually matters - giving up!",
+      "url": "https://www.youtube.com/watch?v=pPvt-vtyOvo",
+      "thumbnail": "https://img.youtube.com/vi/pPvt-vtyOvo/maxresdefault.jpg",
+      "published": "2026-07-25T16:15:39+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_99sPd15j3Zc",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "What Actually Makes A Startup Durable",
+      "url": "https://www.youtube.com/watch?v=99sPd15j3Zc",
+      "thumbnail": "https://img.youtube.com/vi/99sPd15j3Zc/maxresdefault.jpg",
+      "published": "2026-07-25T14:00:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_BSElxGxgoIA",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "AI-Native Compliance Infrastructure",
+      "url": "https://www.youtube.com/watch?v=BSElxGxgoIA",
+      "thumbnail": "https://img.youtube.com/vi/BSElxGxgoIA/maxresdefault.jpg",
+      "published": "2026-07-25T13:47:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_nB7QBdjrOwE",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Proving You’re Human",
+      "url": "https://www.youtube.com/watch?v=nB7QBdjrOwE",
+      "thumbnail": "https://img.youtube.com/vi/nB7QBdjrOwE/maxresdefault.jpg",
+      "published": "2026-07-25T12:12:23+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2080954854243975355",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Anthropic 讲解了随着模型的提升，应该如何更新自己的上下文规则，推荐看看。 随着 Fable 5 和 Opus 5 的发布，他们精简了 80% 的系统提示词，但在编程测评上没有任何损失。 其核心问题在于，Claude 的提示词只是它获取上下文的一小部分，更多的上下文来自于系统提示词、Skills、claude.md 以及 Memory。 这里的难点在于：上下文是跨多个请求通用的，不能像单个提示词那么具体。 他们之前对 Claude Code 的约束过度了，而且经常存在互相矛盾的指令（约束越多，冲突的概率就越大）。 像 Fable 5、GPT 5.6 这种新模型，完全能够靠上下文和自己的判断力处理很多事情，因此没必要过度约束。 他们总结了过去到现在关于上下文转变几条趋势： 1. 从“给规则”到“让 Claude 运用判断力”：比如旧版会写“默认不写注释”，新版可以改成“写出与周围代码一致的代码”，这样它自己就会去匹配周围代码的注释密度、命名和习惯。 2. 从“给具体示例”到“设计接口”：给具体示例容易让模型变得死板。现在可以给一些设计接口（比如脚本文件的设计），让参数更具表达力，以此来引导它，而不是塞给它具体的示例。 3. 从“全部前置的上下文”到“渐进式披露”：把代码审查、验证等相互独立的信息放在不同的 Skills 里面，按需调用。模型可以通过文件搜索去查找，而不需要一次性塞入。 4. 不在系统提示词和工具描述里重复提示：直接把用法写进工具描述里，不再到系统提示词里去强调。 5. 从“手动记录”到“自动记忆”：以前是在 claude.md里存记忆，现在直接由模型自动记忆，不再依赖手写输入。 6. 从“简单规则”到“丰富的引用”：以前规则非常单一，现在可以把图片、HTML 文件、测试文件、测试代码、函数甚至是评分标准，都作为模型的上下文塞进去。 --- 关于如何将这些原则运用到你自己的上下文管理中，有以下几点建议： 系统提示词定位：在系统提示词里明确告诉 Claude 在什么产品里做什么。如果你在构建 Agent，需要投入精力重新编写系统提示词。 保持 [claude.md]或 [agent.md]的轻量：把仓库用途和说明性内容花在最核心的地方（比如已知的坑或缺陷上）。避免把 Claude 一看代码就能懂的事情非要写进 [claude.md]里。 多用 Skills 进行模块化：把需要按需查找的信息打包成 Skills。如果 Skills 过长，需要采用渐进式披露的方式拆分成多个文件。 优先引用代码形式：在使用 @ 引用文件时，优先引用代码。比如引用 HTML 模板的效果，通常比只给设计描述或截图效果更好。 使用自动化工具：他们还提到了 `claude doctor` 这个命令，可以自动帮你精简 Skills 和 [claude.md]文件。 Thariq (@trq212) We removed ~80% of the Claude Code system prompt for our newest models, this is what we've learned about writing system prompts, skills and Claude.MDs for them. Article The new rules of context engineering for Claude 5 models I’ve written previously about how to best prompt the newest generation of Claude 5 models and work with them iteratively to discover what you want to build. But when you send a message to Claude, the — https://nitter.net/trq212/status/2080710971228918066#m",
+      "url": "https://x.com/op7418/status/2080954854243975355",
+      "images": null,
+      "published": "2026-07-25T09:54:34+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_FVsgX0AdDTo",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "What Big Tech Missed And How Startups Can Still Win",
+      "url": "https://www.youtube.com/watch?v=FVsgX0AdDTo",
+      "thumbnail": "https://img.youtube.com/vi/FVsgX0AdDTo/maxresdefault.jpg",
+      "published": "2026-07-25T06:00:15+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_F3INH9wZXoQ",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Why Physical AI Is the Next Platform Shift",
+      "url": "https://www.youtube.com/watch?v=F3INH9wZXoQ",
+      "thumbnail": "https://img.youtube.com/vi/F3INH9wZXoQ/maxresdefault.jpg",
+      "published": "2026-07-25T05:00:30+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_uW7RxkLRsd0",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Data for the Real World",
+      "url": "https://www.youtube.com/watch?v=uW7RxkLRsd0",
+      "thumbnail": "https://img.youtube.com/vi/uW7RxkLRsd0/maxresdefault.jpg",
+      "published": "2026-07-25T03:17:10+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
     {
       "id": "yt_V_gDce8hBrg",
       "source": "Y Combinator",
@@ -198,7 +334,7 @@
         "Business",
         "AI"
       ],
-      "title": "Opencode CEO: Blocked, 20X Growth in 6 Months, Building the Coding Agent for the World",
+      "title": "He Built the World's #1 Open-Source Coding Agent",
       "url": "https://www.youtube.com/watch?v=_O6x4ktK6JA",
       "thumbnail": "https://img.youtube.com/vi/_O6x4ktK6JA/maxresdefault.jpg",
       "published": "2026-07-24T14:00:17+00:00",
@@ -254,40 +390,6 @@
       "images": null,
       "published": "2026-07-24T02:54:19+00:00",
       "hasTranscript": false
-    },
-    {
-      "id": "yt_M861XfrOR5s",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Best Time to Build in Crypto",
-      "url": "https://www.youtube.com/watch?v=M861XfrOR5s",
-      "thumbnail": "https://img.youtube.com/vi/M861XfrOR5s/maxresdefault.jpg",
-      "published": "2026-07-24T00:00:15+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_WUDIBATKh4Y",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI for the Aging Population",
-      "url": "https://www.youtube.com/watch?v=WUDIBATKh4Y",
-      "thumbnail": "https://img.youtube.com/vi/WUDIBATKh4Y/maxresdefault.jpg",
-      "published": "2026-07-23T21:16:22+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_-_p2a6uWfjk",
@@ -370,23 +472,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_ZE2gpqTArgc",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Scientists Are Built for Startups",
-      "url": "https://www.youtube.com/watch?v=ZE2gpqTArgc",
-      "thumbnail": "https://img.youtube.com/vi/ZE2gpqTArgc/maxresdefault.jpg",
-      "published": "2026-07-23T17:20:18+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_lR58Dge8jE8",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -438,40 +523,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_DbBnd9PYob4",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Model-Agnostic AI Platform Betting That No Single Lab Will Win",
-      "url": "https://www.youtube.com/watch?v=DbBnd9PYob4",
-      "thumbnail": "https://img.youtube.com/vi/DbBnd9PYob4/maxresdefault.jpg",
-      "published": "2026-07-23T14:00:16+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_eY20SPBpQEg",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI-Powered Consumer Products for 1 Billion People",
-      "url": "https://www.youtube.com/watch?v=eY20SPBpQEg",
-      "thumbnail": "https://img.youtube.com/vi/eY20SPBpQEg/maxresdefault.jpg",
-      "published": "2026-07-23T13:40:03+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "x_2080280141842755954",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -503,23 +554,6 @@
       "url": "https://x.com/benln/status/2080275750867870112",
       "images": null,
       "published": "2026-07-23T12:56:03+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2080264515682496991",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "看起来 FLUX 3 要发布了。昨天黑森林工作室短暂地上线了一下预告。 说是支持图像、视频、音频和动作生成，是一个全模态的生成模型。 其中，单条视频支持一次生成 20 秒。 按他们正常的逻辑来说，这一般会是开源的。如果真的开源，那整个生态估计又要爽一波了。 Video",
-      "url": "https://x.com/op7418/status/2080264515682496991",
-      "images": null,
-      "published": "2026-07-23T12:11:24+00:00",
       "hasTranscript": false
     },
     {
@@ -569,23 +603,6 @@
       "url": "https://www.youtube.com/watch?v=A4yZSBgyIME",
       "thumbnail": "https://img.youtube.com/vi/A4yZSBgyIME/maxresdefault.jpg",
       "published": "2026-07-23T07:22:02+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_sG5aB79TE44",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How Supabase Became One Of The Fastest Growing DevTool Companies In The World",
-      "url": "https://www.youtube.com/watch?v=sG5aB79TE44",
-      "thumbnail": "https://img.youtube.com/vi/sG5aB79TE44/maxresdefault.jpg",
-      "published": "2026-07-23T05:02:48+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1136,23 +1153,6 @@
       "url": "https://www.youtube.com/watch?v=yfafpyhB-8E",
       "thumbnail": "https://img.youtube.com/vi/yfafpyhB-8E/maxresdefault.jpg",
       "published": "2026-06-22T14:35:28+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_XROaLetSxg0",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The New Media Advantage with Ben Horowitz and Marc Andreessen",
-      "url": "https://www.youtube.com/watch?v=XROaLetSxg0",
-      "thumbnail": "https://img.youtube.com/vi/XROaLetSxg0/maxresdefault.jpg",
-      "published": "2026-06-19T14:40:13+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
