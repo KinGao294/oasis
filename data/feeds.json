@@ -1,7 +1,58 @@
 {
-  "last_updated": "2026-07-26T02:23:22.767268Z",
+  "last_updated": "2026-07-27T02:31:53.921396Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_I4B37S1dyQQ",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Jensen Huang: The Mindset That Built NVIDIA",
+      "url": "https://www.youtube.com/watch?v=I4B37S1dyQQ",
+      "thumbnail": "https://img.youtube.com/vi/I4B37S1dyQQ/maxresdefault.jpg",
+      "published": "2026-07-26T20:32:05+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_c3TxAUir2R8",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Self-Maintaining APIs",
+      "url": "https://www.youtube.com/watch?v=c3TxAUir2R8",
+      "thumbnail": "https://img.youtube.com/vi/c3TxAUir2R8/maxresdefault.jpg",
+      "published": "2026-07-26T15:28:23+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2081377170279014701",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Pulled the fastest-growing startups on X by follower growth over last 90 days:",
+      "url": "https://x.com/benln/status/2081377170279014701",
+      "images": null,
+      "published": "2026-07-26T13:52:42+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_pPvt-vtyOvo",
       "source": "a16z",
@@ -325,23 +376,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt__O6x4ktK6JA",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "He Built the World's #1 Open-Source Coding Agent",
-      "url": "https://www.youtube.com/watch?v=_O6x4ktK6JA",
-      "thumbnail": "https://img.youtube.com/vi/_O6x4ktK6JA/maxresdefault.jpg",
-      "published": "2026-07-24T14:00:17+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_PB7DBemxl3E",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -354,23 +388,6 @@
       "url": "https://www.youtube.com/watch?v=PB7DBemxl3E",
       "thumbnail": "https://img.youtube.com/vi/PB7DBemxl3E/maxresdefault.jpg",
       "published": "2026-07-24T09:12:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_RgYCO87ghRY",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How Photoroom Trained Themselves To Dream Bigger",
-      "url": "https://www.youtube.com/watch?v=RgYCO87ghRY",
-      "thumbnail": "https://img.youtube.com/vi/RgYCO87ghRY/maxresdefault.jpg",
-      "published": "2026-07-24T05:00:30+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -666,7 +683,7 @@
       "domains": [
         "Creator"
       ],
-      "title": "科學的禁地：鏡像生命 | 老高與小茉 Mr & Mrs Gao",
+      "title": "鏡像生命 | 老高與小茉 Mr & Mrs Gao",
       "url": "https://www.youtube.com/watch?v=SHWjQrGb3MQ",
       "thumbnail": "https://img.youtube.com/vi/SHWjQrGb3MQ/maxresdefault.jpg",
       "published": "2026-07-22T12:23:34+00:00",
@@ -859,23 +876,6 @@
       "published": "2026-07-17T08:28:30+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2077810594032333299",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "For any early founders considering accelerators, this is my shortlist: • @HF0 (SF) • @southpkcommons (SF/NYC/BLR) • @ycombinator (SF) • @Neo (SF) • @sequoia Arc (US/EU) • @conviction Embed (SF) • @a16z Speedrun (SF) • @pearvc PearX (SF) • @fdotinc (SF)",
-      "url": "https://x.com/benln/status/2077810594032333299",
-      "images": null,
-      "published": "2026-07-16T17:40:24+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_iIj8l5Ncbl8",
