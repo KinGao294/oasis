@@ -1,7 +1,227 @@
 {
-  "last_updated": "2026-07-27T02:31:53.921396Z",
+  "last_updated": "2026-07-28T02:05:44.614989Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_ZIaOBAjvc38",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Sam Altman: \"Never a Better Time to Do a Startup\"",
+      "url": "https://www.youtube.com/watch?v=ZIaOBAjvc38",
+      "thumbnail": "https://img.youtube.com/vi/ZIaOBAjvc38/maxresdefault.jpg",
+      "published": "2026-07-28T00:48:16+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_qyPCVqFUyDo",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Boris Cherny: Building Claude Code",
+      "url": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
+      "thumbnail": "https://img.youtube.com/vi/qyPCVqFUyDo/maxresdefault.jpg",
+      "published": "2026-07-27T17:00:30+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2081767211245645842",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "英伟达大规模投资 Ilya 的 SSI 公司，帮他们在未来 12 个月提高 10 倍的计算能力，这公司目前为止一个模型都没发布 Ilya 是真不急 SSI Inc. (@ssi) We are announcing a long-term strategic partnership with NVIDIA. NVIDIA is making a substantial investment in SSI that will let us 10x our compute in the next 12 months. We reached the point where our research is worth scaling and with this partnership we will be able to. We are honored by NVIDIA’s conviction. — https://nitter.net/ssi/status/2081732119194394763#m",
+      "url": "https://x.com/op7418/status/2081767211245645842",
+      "images": null,
+      "published": "2026-07-27T15:42:35+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2081765229185401186",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "人手一个，黄老板也开源了一个 Agent 客户端 Dash (@DashHuang) 向大家介绍 Cindy，我们创作的一款开源 AI Agent 客户端。她有很多有趣的地方，未来几天我会花时间来和大家一一介绍。 但今天最想说的，不是她有多强大——相反，她还有很多不完善的地方，等着我们持续去改进。Cindy 本身就是一款纯 Vibe 出来的作品，对我们来说就是一场面向 AI Native 开发的大型实验。经历了最近几周的开发实践，我们现在已经对如何让她变得更好充满信心。 github.com/makecindy/cindy Link GitHub - makecindy/cindy: Consider it done. The open-source AI agent that works out of the box ·... Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 - makecindy/cindy github.com — https://nitter.net/DashHuang/status/2081231348950315112#m",
+      "url": "https://x.com/op7418/status/2081765229185401186",
+      "images": null,
+      "published": "2026-07-27T15:34:42+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2081762198939193447",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "详情：huggingface.co/moonshotai/Ki… Link moonshotai/Kimi-K3 · Hugging Face We’re on a journey to advance and democratize artificial intelligence through open source and open science. huggingface.co",
+      "url": "https://x.com/op7418/status/2081762198939193447",
+      "images": null,
+      "published": "2026-07-27T15:22:40+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2081762145348489317",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Kimi K3 已经如期开源，各位估计明天就能在各大平台的 Token Plan 使用 Kimi K3 了 歸藏(guizang.ai) (@op7418) Hugging Face 还专门给 Kimi K3 做了一个开源预告的倒计时页面：huggingface.co/moonshotai/Ki… — https://nitter.net/op7418/status/2081665633411092793#m",
+      "url": "https://x.com/op7418/status/2081762145348489317",
+      "images": null,
+      "published": "2026-07-27T15:22:27+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2081741445275451582",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Midjourney V8.2 这模型是真的不错啊，有非常多新颖独特的风格",
+      "url": "https://x.com/op7418/status/2081741445275451582",
+      "images": null,
+      "published": "2026-07-27T14:00:12+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2081737540927631469",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "45+ Cursor team members now in our angel investing group chat. Reach out if you're working on something new, love to share with the group!",
+      "url": "https://x.com/benln/status/2081737540927631469",
+      "images": null,
+      "published": "2026-07-27T13:44:41+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_oXu6JGxW_YM",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Navigating AI Transformation in the Legal Industry | Jonathan Williams, Head of France, Legora",
+      "url": "https://www.youtube.com/watch?v=oXu6JGxW_YM",
+      "thumbnail": "https://img.youtube.com/vi/oXu6JGxW_YM/maxresdefault.jpg",
+      "published": "2026-07-27T12:37:15+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2081665633411092793",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Hugging Face 还专门给 Kimi K3 做了一个开源预告的倒计时页面：huggingface.co/moonshotai/Ki…",
+      "url": "https://x.com/op7418/status/2081665633411092793",
+      "images": null,
+      "published": "2026-07-27T08:58:57+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2081655394368376930",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我们所熟知的所有美国和一些欧洲的 AI 生态公司全都签署了这个协议（支持开源 AI 生态的协议）， 即使是 OpenAI 和 SpaceX 也签了，只有一家没签，你懂的 歸藏(guizang.ai) (@op7418) 牛逼！黄仁勋开了自己的 Twitter 账号 并且发表了第一篇帖子，力挺开源模型和开源生态！ 这是最近美国政府和企业领域关于是否要封禁中国的顶尖开源模型，在持续了好几天的讨论中，应该是第一个明确站队的行业头部 CEO。 主要观点是，美国不应该把 AI 领导力理解成保护几家头部巨头公司的领先地位，否则有可能输掉整个 AI 战争。真正的优势应该来自于开放的模型、算力基础设施、生态应用和广泛的落地。 主要的诉求包括： 1. 为初创公司和研究机构提供更多算力 2. 建设共享数据集、工具和评估体系 3. 不要因为潜在风险而过早地限制开源模型 对于英伟达来说，这种开源模型的存在肯定是对它有好处和有帮助的。他把角度找得很好，即：美国究竟是需要整个美国 AI 生态的繁荣，还是仅仅为了保护某几个公司的利益？ 我翻译了一下他的公开信的内容 — https://nitter.net/op7418/status/2080659283340087565#m",
+      "url": "https://x.com/op7418/status/2081655394368376930",
+      "images": null,
+      "published": "2026-07-27T08:18:15+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2081652142662898096",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "切换到美国 IP 以后，你可以在 ChatGPT 侧边栏的部分找到“健康”，然后选择连接并授权就行。 如果要连接苹果的健康应用，需要 iOS 客户端才能开启。如果你一时找不到，可以点击那两个点展开看看。",
+      "url": "https://x.com/op7418/status/2081652142662898096",
+      "images": null,
+      "published": "2026-07-27T08:05:20+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2081651445091475651",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "上周 ChatGPT Health 的功能向美国用户推出了，我试了一下，这东西非常屌啊！ 即使你没有美国其他的健康应用，只是有 Apple Watch 的一些健康数据，它也能分析出非常多的信息。 比如说我长期的那个“有氧适能”低问题。我一直以为是自己身体有什么问题，导致长期运动以后依然无法提升。 但是 GPT 就分析出来了（尤其是配合 ChatGPT Pro 使用，效果更顶）： 它分析出这是因为 Apple Watch 的有氧适能测试只针对徒步和跑步，而我这两个运动进行得比较少，所以它就没有机会进行测试。 还有就是它对你身体的运动量、睡眠，以及其他一些因素对健康的影响，分析得都非常准确。 其实我们在 Apple Watch 中的很多数据平时都被浪费了，如果拉长时间维度来看，这些数据非常有用。 现在 ChatGPT 可以对这些数据进行非常准确和清晰的分析，它还会去检索各种权威的健康信息网站。 如果你经常使用 Apple Watch 的话，建议你开启这个功能试试。目前该功能只针对美国市场开启。 甚至可以设置一个定时任务，让它每周针对你这周的这个 Apple Watch 数据，给你一份健康报告",
+      "url": "https://x.com/op7418/status/2081651445091475651",
+      "images": null,
+      "published": "2026-07-27T08:02:34+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_I4B37S1dyQQ",
       "source": "Y Combinator",
@@ -190,40 +410,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_V_gDce8hBrg",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "New Operating Systems for the Physical World",
-      "url": "https://www.youtube.com/watch?v=V_gDce8hBrg",
-      "thumbnail": "https://img.youtube.com/vi/V_gDce8hBrg/maxresdefault.jpg",
-      "published": "2026-07-24T20:30:45+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_vb1Gcn10enw",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How Two French Engineers In New York Built The Company That Monitors The Entire Cloud",
-      "url": "https://www.youtube.com/watch?v=vb1Gcn10enw",
-      "thumbnail": "https://img.youtube.com/vi/vb1Gcn10enw/maxresdefault.jpg",
-      "published": "2026-07-24T20:00:38+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_jyuyY86GJnA",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -240,142 +426,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2080705912923406495",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "🐂🍺 王冠新的文章，非常清晰且易于理解的描述了当前两条通向 AGI 的路径 Medeo_AI (@Medeo_AI) Article The Southern and Northern Slopes of AGI Two ways up the same mountain Everest has a south slope and a north slope. Same summit, very different routes, and which one you take mostly depends on where you were standing when you started. AGI — https://nitter.net/Medeo_AI/status/2080687123691196697#m",
-      "url": "https://x.com/op7418/status/2080705912923406495",
-      "images": null,
-      "published": "2026-07-24T17:25:21+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2080703521364861277",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "笑死 Anthropic 这么草台？ 这 Opus 5 的测试成绩分数标红不太对吧 53.4 大于 53.5？ 歸藏(guizang.ai) (@op7418) 来了！Opus 5 模型发布，价格跟 Opus 4.8 相同 在测评成绩上大幅优于 Opus 4.8，同时相当多的测评成绩都高于 Fable 5。 终于有个能用的模型了！ 要再不出，我感觉 Claude Max 都没必要续订了，性价比过低，4.8 跟屎一样 — https://nitter.net/op7418/status/2080701512679145525#m",
-      "url": "https://x.com/op7418/status/2080703521364861277",
-      "images": null,
-      "published": "2026-07-24T17:15:51+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2080701512679145525",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "来了！Opus 5 模型发布，价格跟 Opus 4.8 相同 在测评成绩上大幅优于 Opus 4.8，同时相当多的测评成绩都高于 Fable 5。 终于有个能用的模型了！ 要再不出，我感觉 Claude Max 都没必要续订了，性价比过低，4.8 跟屎一样 Claude (@claudeai) Introducing Claude Opus 5. It's a thoughtful and proactive model that comes close to the frontier intelligence of Fable 5 at half the price. Video — https://nitter.net/claudeai/status/2080699495453528290#m",
-      "url": "https://x.com/op7418/status/2080701512679145525",
-      "images": null,
-      "published": "2026-07-24T17:07:52+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2080683836963463291",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Sam 居然发声支持了，这下达里奥真成小丑了 歸藏(guizang.ai) (@op7418) 牛逼！黄仁勋开了自己的 Twitter 账号 并且发表了第一篇帖子，力挺开源模型和开源生态！ 这是最近美国政府和企业领域关于是否要封禁中国的顶尖开源模型，在持续了好几天的讨论中，应该是第一个明确站队的行业头部 CEO。 主要观点是，美国不应该把 AI 领导力理解成保护几家头部巨头公司的领先地位，否则有可能输掉整个 AI 战争。真正的优势应该来自于开放的模型、算力基础设施、生态应用和广泛的落地。 主要的诉求包括： 1. 为初创公司和研究机构提供更多算力 2. 建设共享数据集、工具和评估体系 3. 不要因为潜在风险而过早地限制开源模型 对于英伟达来说，这种开源模型的存在肯定是对它有好处和有帮助的。他把角度找得很好，即：美国究竟是需要整个美国 AI 生态的繁荣，还是仅仅为了保护某几个公司的利益？ 我翻译了一下他的公开信的内容 — https://nitter.net/op7418/status/2080659283340087565#m",
-      "url": "https://x.com/op7418/status/2080683836963463291",
-      "images": null,
-      "published": "2026-07-24T15:57:38+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2080664516417945638",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "25 家公司",
-      "url": "https://x.com/op7418/status/2080664516417945638",
-      "images": null,
-      "published": "2026-07-24T14:40:52+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2080662392825069758",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "NVIDIA、Palantir、Replit、Microsoft、Crowdstrike、Dell 这几个公司一起发了这条内容",
-      "url": "https://x.com/op7418/status/2080662392825069758",
-      "images": null,
-      "published": "2026-07-24T14:32:25+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2080662154798334286",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "微软 CEO 纳德拉也和黄仁勋发了同样的倡议，看起来是要集体给美国政府施压了 歸藏(guizang.ai) (@op7418) 牛逼！黄仁勋开了自己的 Twitter 账号 并且发表了第一篇帖子，力挺开源模型和开源生态！ 这是最近美国政府和企业领域关于是否要封禁中国的顶尖开源模型，在持续了好几天的讨论中，应该是第一个明确站队的行业头部 CEO。 主要观点是，美国不应该把 AI 领导力理解成保护几家头部巨头公司的领先地位，否则有可能输掉整个 AI 战争。真正的优势应该来自于开放的模型、算力基础设施、生态应用和广泛的落地。 主要的诉求包括： 1. 为初创公司和研究机构提供更多算力 2. 建设共享数据集、工具和评估体系 3. 不要因为潜在风险而过早地限制开源模型 对于英伟达来说，这种开源模型的存在肯定是对它有好处和有帮助的。他把角度找得很好，即：美国究竟是需要整个美国 AI 生态的繁荣，还是仅仅为了保护某几个公司的利益？ 我翻译了一下他的公开信的内容 — https://nitter.net/op7418/status/2080659283340087565#m",
-      "url": "https://x.com/op7418/status/2080662154798334286",
-      "images": null,
-      "published": "2026-07-24T14:31:29+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2080659283340087565",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "牛逼！黄仁勋开了自己的 Twitter 账号 并且发表了第一篇帖子，力挺开源模型和开源生态！ 这是最近美国政府和企业领域关于是否要封禁中国的顶尖开源模型，在持续了好几天的讨论中，应该是第一个明确站队的行业头部 CEO。 主要观点是，美国不应该把 AI 领导力理解成保护几家头部巨头公司的领先地位，否则有可能输掉整个 AI 战争。真正的优势应该来自于开放的模型、算力基础设施、生态应用和广泛的落地。 主要的诉求包括： 1. 为初创公司和研究机构提供更多算力 2. 建设共享数据集、工具和评估体系 3. 不要因为潜在风险而过早地限制开源模型 对于英伟达来说，这种开源模型的存在肯定是对它有好处和有帮助的。他把角度找得很好，即：美国究竟是需要整个美国 AI 生态的繁荣，还是仅仅为了保护某几个公司的利益？ 我翻译了一下他的公开信的内容 Jensen Huang (@JensenHuang) For my first post, I’m sharing a letter @NVIDIA signed on why open models matter. AI will transform every industry, power every company, and be built by every country. Open models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty. The world needs both frontier closed models and frontier open models. images.nvidia.com/pdf/Open-W… — https://nitter.net/JensenHuang/status/2080643682408321103#m",
-      "url": "https://x.com/op7418/status/2080659283340087565",
-      "images": null,
-      "published": "2026-07-24T14:20:04+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_PB7DBemxl3E",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -390,23 +440,6 @@
       "published": "2026-07-24T09:12:21+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2080486709729587300",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codex 更新了，现在你可以在 Codex 里直接使用 GPT Live 实时的语音模型。 相较于手机端来说，这个体验简直太爽了！ 你完全可以脱离键盘等任何输入设备，纯语音跟 Codex 交互。 比如你戴个带个 AirPods，就可以在家里的任何地方和它对话，用语音询问它生成的结果。 它还可以帮你执行 Codex 上的任何命令，这意味着你所有的 vibe coding 都可以脱离键盘和按键，只靠说话来完成了。 它会一直处于待命状态。如果你像官方演示那样，放个投影或者把电脑连接到电视上，就可以边干活、边玩游戏或做其他事。 即使是上厕所，你都能随时掌握你的 Codex 进度。我刚才简单试了一下，真的很爽！ Video",
-      "url": "https://x.com/op7418/status/2080486709729587300",
-      "images": null,
-      "published": "2026-07-24T02:54:19+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_-_p2a6uWfjk",
@@ -574,22 +607,6 @@
       "hasTranscript": false
     },
     {
-      "id": "yt_MX95QbxSc9Q",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "How AI Agents Will Redesign Enterprise Work | Barak Kaufman, Wonderful",
-      "url": "https://www.youtube.com/watch?v=MX95QbxSc9Q",
-      "thumbnail": "https://img.youtube.com/vi/MX95QbxSc9Q/maxresdefault.jpg",
-      "published": "2026-07-23T09:33:40+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_wCtRavkU1G8",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -683,7 +700,7 @@
       "domains": [
         "Creator"
       ],
-      "title": "鏡像生命 | 老高與小茉 Mr & Mrs Gao",
+      "title": "第二名 | 老高與小茉 Mr & Mrs Gao",
       "url": "https://www.youtube.com/watch?v=SHWjQrGb3MQ",
       "thumbnail": "https://img.youtube.com/vi/SHWjQrGb3MQ/maxresdefault.jpg",
       "published": "2026-07-22T12:23:34+00:00",
@@ -842,23 +859,6 @@
       "published": "2026-07-17T14:30:21+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2078114772881494194",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Best $80 I've spent in years DJI Mic Mini + Wispr Flow",
-      "url": "https://x.com/benln/status/2078114772881494194",
-      "images": null,
-      "published": "2026-07-17T13:49:06+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_KLQJxohK3yQ",
