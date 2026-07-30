@@ -1,7 +1,243 @@
 {
-  "last_updated": "2026-07-29T02:08:59.569949Z",
+  "last_updated": "2026-07-30T01:58:08.049437Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_n8dz2FX0_uY",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Multi-GPU Kernels, Intelligence per Watt, Heterogeneous Inference, and More | YC Paper Club",
+      "url": "https://www.youtube.com/watch?v=n8dz2FX0_uY",
+      "thumbnail": "https://img.youtube.com/vi/n8dz2FX0_uY/maxresdefault.jpg",
+      "published": "2026-07-29T23:46:52+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt__Gd9yzAc-WI",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Using Voice in ChatGPT Work",
+      "url": "https://www.youtube.com/watch?v=_Gd9yzAc-WI",
+      "thumbnail": "https://img.youtube.com/vi/_Gd9yzAc-WI/maxresdefault.jpg",
+      "published": "2026-07-29T22:37:43+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_sJ4VJWycX9M",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”",
+      "url": "https://www.youtube.com/watch?v=sJ4VJWycX9M",
+      "thumbnail": "https://img.youtube.com/vi/sJ4VJWycX9M/maxresdefault.jpg",
+      "published": "2026-07-29T19:37:05+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_MLehRytu9Zo",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "We're giving 100,000 academic researchers free access to our frontier models",
+      "url": "https://www.youtube.com/watch?v=MLehRytu9Zo",
+      "thumbnail": "https://img.youtube.com/vi/MLehRytu9Zo/maxresdefault.jpg",
+      "published": "2026-07-29T17:23:02+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2082505728770658679",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Best companies for former and aspiring founders to work at these days: Ramp, Cursor, OpenAI, Anthropic Where else?",
+      "url": "https://x.com/benln/status/2082505728770658679",
+      "images": null,
+      "published": "2026-07-29T16:37:11+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2082446001869131789",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor mugs",
+      "url": "https://x.com/benln/status/2082446001869131789",
+      "images": null,
+      "published": "2026-07-29T12:39:51+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2082397091062513738",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "AsterMem 这个项目有点意思，它是一个第三方的 memory 系统，可以给你的任何 AI Agent 接上长期记忆。 支持任何格式：比如 Markdown、文本、书签等。 你的长内容会被自动切成一些语义片段，打上标签，并加上向量搜索和向量索引。 数据可以直接读取 Markdown，也可以读数据库或向量库。 备份非常简单，只需要拷贝文件夹就行。这样你所有的 memory 都会完全属于你，而不是其他所谓的 Agent 平台。 支持知识图谱、时间轴和向量的空间视图，方便你查看和管理自己的 memory。 兼容性很强，包括 Cloud Code、Codex、Cursor 都可以用。 项目是开源的，直接用就行，模型也可以自己选择。 Asterove (@Asterove_ai) Article I got tired of being a human AGENTS.md Every session with my coding agent starts the same way. I explain what I&apos;m building. Which stack I&apos;m on. That we ruled out Postgres last month. That I don&apos;t want it writing \"it&apos;s not X, it&apos;s Y\" at me. — https://nitter.net/Asterove_ai/status/2082173389368909931#m",
+      "url": "https://x.com/op7418/status/2082397091062513738",
+      "images": null,
+      "published": "2026-07-29T09:25:30+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_lhgJue86h5c",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "Kimi K3: The 2.8T AI That Wakes Up Just 2% at a Time",
+      "url": "https://www.youtube.com/watch?v=lhgJue86h5c",
+      "thumbnail": "https://img.youtube.com/vi/lhgJue86h5c/maxresdefault.jpg",
+      "published": "2026-07-29T09:17:19+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2082321046863335505",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "看错了，朋友们，是从今天开始恢复了 5 小时限额，原来 5 小时限额只是临时取消的",
+      "url": "https://x.com/op7418/status/2082321046863335505",
+      "images": null,
+      "published": "2026-07-29T04:23:19+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2082318038800740807",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "我操，Codex 又重置了！ 同时他们还说在调查体感上 GPT-5.6 Sol 的消耗速度比较快的问题。 然后在调查期间也会暂停 5 小时限额。 Tibo (@thsottiaux) Hello people of Sol! I've reset usage limits for all ChatGPT Work and Codex users. Together with that, a quick update on GPT-5.6 Sol usage limits. Over the past few weeks, many of you have told us that Sol was using your Codex limits faster than expected. To be clear, we have not reduced usage on any subscription plans. We’ve been digging into what was happening and have landed several improvements. As a result, we expect your usage to last around 18% longer during typical use of Sol. Some of you should already see significantly larger improvements from today. Tomorrow, we’ll also restore the five-hour limit that we temporarily paused while investigating. Here’s what we found: - GPT-5.6 Sol is much more willing to work for longer, make additional tool calls, and coordinate complex workflows across tools and subagents. That makes it better at solving hard problems, but some tasks were using far more than we intended. - Sol also works harder at the same reasoning effort than previous models. High on Sol can use more tokens than High did on GPT-5.5. - Programmatic tool calling, also referred to as code mode, gives Sol much more flexibility to run tool calls in parallel or continue working while waiting. But it also led to more responses per turn, more cached input tokens, and higher usage than expected. - This was particularly noticeable when Sol was waiting for tool calls to finish or running many web searches. We’ve improved how we handle both cases and are continuing to make code mode more efficient. - The impact was also very uneven. The median user actually found Sol quite token efficient, while some power users working on harder tasks saw their usage drain much faster. We were very focused on average and median usage before launch and missed some cases where the long tail could use significantly more usage. Sol is a significant step forward in what Codex can do, but capability and efficiency do not always improve at the same pace, and some issues only become clear once people are using the model at real-world scale. We should have recognized this sooner and been more upfront about it. You keep pushing the frontier and we’ll keep improving efficiency and sharing updates as we go. — https://nitter.net/thsottiaux/status/2082317452755751098#m",
+      "url": "https://x.com/op7418/status/2082318038800740807",
+      "images": null,
+      "published": "2026-07-29T04:11:22+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2082315307235115409",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "示例任务结果： 歸藏(guizang.ai) (@op7418) 一句非常简单的提示词，就调用了三个不同能力的模型，帮我完成了昨天 Twitter 上的 AI 热点事件统计。 时效性非常强，跟我早上起来刷 Twitter 搜集到的差不多，而且还有几个我漏掉的信息。 具体分工如下： • 信息爬取：内容爬取是 Grok 做的 • 网页生成：Kimi 生成的 • 文案撰写：DeepSeek 写的 — https://nitter.net/op7418/status/2082315101080879424#m",
+      "url": "https://x.com/op7418/status/2082315307235115409",
+      "images": null,
+      "published": "2026-07-29T04:00:31+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2082315101080879424",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "一句非常简单的提示词，就调用了三个不同能力的模型，帮我完成了昨天 Twitter 上的 AI 热点事件统计。 时效性非常强，跟我早上起来刷 Twitter 搜集到的差不多，而且还有几个我漏掉的信息。 具体分工如下： • 信息爬取：内容爬取是 Grok 做的 • 网页生成：Kimi 生成的 • 文案撰写：DeepSeek 写的 歸藏(guizang.ai) (@op7418) 这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！ 充分发挥各个模型的能力长处，而且可以帮你节省成本。 你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们自己的能力去帮你完成事情，而且也可以减少比较贵的模型的消耗。 比如这个任务，就是用 Grok 去检索 Twitter 信息，用 DeepSeek 生成文案，K3 生成网页，然后由 GLM 5.2 统筹。 — https://nitter.net/op7418/status/2082313658277732747#m",
+      "url": "https://x.com/op7418/status/2082315101080879424",
+      "images": null,
+      "published": "2026-07-29T03:59:42+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2082313723717525835",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这里尝试：github.com/op7418/CodePilot/… Link Release CodePilot v0.61.0 · op7418/CodePilot CodePilot v0.61.0 新增 Claude Opus 5 / Sonnet 5，并让 Grok 4.5 能作为指定模型的 Sub-agent 使用；同时修复模型回复后显示名称漂移和推理强度参数不兼容的问题。 新增功能 Claude Opus 5 — Claude Code、CodePilot Runtime 和 Codex Runtime 的 Anthropic 渠道现可选... github.com",
+      "url": "https://x.com/op7418/status/2082313723717525835",
+      "images": null,
+      "published": "2026-07-29T03:54:13+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2082313658277732747",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！ 充分发挥各个模型的能力长处，而且可以帮你节省成本。 你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们自己的能力去帮你完成事情，而且也可以减少比较贵的模型的消耗。 比如这个任务，就是用 Grok 去检索 Twitter 信息，用 DeepSeek 生成文案，K3 生成网页，然后由 GLM 5.2 统筹。 歸藏(guizang.ai) (@op7418) 一个 Codepilot 新版的预告： 在下一个版本中，你可以指定每一个 SubAgent 所采用的模型，非常有意思的能力 比如说： • 可以用 Grok 去检索 Twitter 上的内容 • 让 DeepSeek 去生成文案 • 让 Kimi K3 去生成网页 你可以通过 SubAgent 让各个模型发挥它们的长处 — https://nitter.net/op7418/status/2079946524235272613#m",
+      "url": "https://x.com/op7418/status/2082313658277732747",
+      "images": null,
+      "published": "2026-07-29T03:53:58+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_WeP9VUf1OoE",
       "source": "OpenAI",
@@ -62,7 +298,7 @@
         "Business",
         "AI"
       ],
-      "title": "The Next Frontier of AI Is Spatial Intelligence | Fei-Fei Li on a16z",
+      "title": "Solving the Hardest Problem in Robotics | Fei-Fei Li with a16z",
       "url": "https://www.youtube.com/watch?v=-tabaM5l3s0",
       "thumbnail": "https://img.youtube.com/vi/-tabaM5l3s0/maxresdefault.jpg",
       "published": "2026-07-28T14:30:10+00:00",
@@ -143,7 +379,7 @@
         "Business",
         "AI"
       ],
-      "title": "Blake Scholl: \"The Future Was Supposed to Be Faster\"",
+      "title": "Blake Scholl: Breaking the Supersonic Ban",
       "url": "https://www.youtube.com/watch?v=byAj35QlGbs",
       "thumbnail": "https://img.youtube.com/vi/byAj35QlGbs/maxresdefault.jpg",
       "published": "2026-07-28T14:00:18+00:00",
@@ -219,23 +455,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2081940415704658035",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "codex 已经重置 歸藏(guizang.ai) (@op7418) Codex 今天可能会重置 — https://nitter.net/op7418/status/2081936134452679142#m",
-      "url": "https://x.com/op7418/status/2081940415704658035",
-      "images": null,
-      "published": "2026-07-28T03:10:50+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2081938548626960823",
       "source": "归藏",
       "sourceId": "guizang",
@@ -250,57 +469,6 @@
       "url": "https://x.com/op7418/status/2081938548626960823",
       "images": null,
       "published": "2026-07-28T03:03:25+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2081937789848084883",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "详情：anthropic.com/news/position-… Link Our position on open-weights models Anthropic CEO Dario Amodei on open-weights models anthropic.com",
-      "url": "https://x.com/op7418/status/2081937789848084883",
-      "images": null,
-      "published": "2026-07-28T03:00:24+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2081937697132949900",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Anthropic 终于就关于 AI 开源生态的事发声了。 先是说不主张全面禁止开源模型，然后还有三个“但是”，继续兜售他通过安全限制开源模型的套路： 1. 不向中国出售先进芯片以及先进芯片制造设备 2. 打击工业蒸馏操作 3. 所有足够强大的模型都必须强制通过安全测试 依旧充满了对中国和中国人的敌意，同时猛拍特朗普马屁。 歸藏(guizang.ai) (@op7418) 我们所熟知的所有美国和一些欧洲的 AI 生态公司全都签署了这个协议（支持开源 AI 生态的协议）， 即使是 OpenAI 和 SpaceX 也签了，只有一家没签，你懂的 — https://nitter.net/op7418/status/2081655394368376930#m",
-      "url": "https://x.com/op7418/status/2081937697132949900",
-      "images": null,
-      "published": "2026-07-28T03:00:02+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2081936134452679142",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codex 今天可能会重置 Tibo (@thsottiaux) We’re celebrating the fast adoption of chatGPT Work and all the incredible effort that went into it today. I’m feeling like a limit reset. Hold on tight to your ultra and /fast and see you in a few hours when I’m back at the laptop! — https://nitter.net/thsottiaux/status/2081899343091843463#m",
-      "url": "https://x.com/op7418/status/2081936134452679142",
-      "images": null,
-      "published": "2026-07-28T02:53:49+00:00",
       "hasTranscript": false
     },
     {
@@ -330,63 +498,12 @@
         "Business",
         "AI"
       ],
-      "title": "Boris Cherny: Stop Hobbling Your AI",
+      "title": "Boris Cherny: We Cut 80% of Claude Code’s Prompt",
       "url": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
       "thumbnail": "https://img.youtube.com/vi/qyPCVqFUyDo/maxresdefault.jpg",
       "published": "2026-07-27T17:00:30+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2081767211245645842",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "英伟达大规模投资 Ilya 的 SSI 公司，帮他们在未来 12 个月提高 10 倍的计算能力，这公司目前为止一个模型都没发布 Ilya 是真不急 SSI Inc. (@ssi) We are announcing a long-term strategic partnership with NVIDIA. NVIDIA is making a substantial investment in SSI that will let us 10x our compute in the next 12 months. We reached the point where our research is worth scaling and with this partnership we will be able to. We are honored by NVIDIA’s conviction. — https://nitter.net/ssi/status/2081732119194394763#m",
-      "url": "https://x.com/op7418/status/2081767211245645842",
-      "images": null,
-      "published": "2026-07-27T15:42:35+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2081765229185401186",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "人手一个，黄老板也开源了一个 Agent 客户端 Dash (@DashHuang) 向大家介绍 Cindy，我们创作的一款开源 AI Agent 客户端。她有很多有趣的地方，未来几天我会花时间来和大家一一介绍。 但今天最想说的，不是她有多强大——相反，她还有很多不完善的地方，等着我们持续去改进。Cindy 本身就是一款纯 Vibe 出来的作品，对我们来说就是一场面向 AI Native 开发的大型实验。经历了最近几周的开发实践，我们现在已经对如何让她变得更好充满信心。 github.com/makecindy/cindy Link GitHub - makecindy/cindy: Consider it done. The open-source AI agent that works out of the box ·... Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 - makecindy/cindy github.com — https://nitter.net/DashHuang/status/2081231348950315112#m",
-      "url": "https://x.com/op7418/status/2081765229185401186",
-      "images": null,
-      "published": "2026-07-27T15:34:42+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2081762145348489317",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Kimi K3 已经如期开源，各位估计明天就能在各大平台的 Token Plan 使用 Kimi K3 了 歸藏(guizang.ai) (@op7418) Hugging Face 还专门给 Kimi K3 做了一个开源预告的倒计时页面：huggingface.co/moonshotai/Ki… — https://nitter.net/op7418/status/2081665633411092793#m",
-      "url": "https://x.com/op7418/status/2081762145348489317",
-      "images": null,
-      "published": "2026-07-27T15:22:27+00:00",
-      "hasTranscript": false
     },
     {
       "id": "x_2081737540927631469",
@@ -541,40 +658,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_FVsgX0AdDTo",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "What Big Tech Missed And How Startups Can Still Win",
-      "url": "https://www.youtube.com/watch?v=FVsgX0AdDTo",
-      "thumbnail": "https://img.youtube.com/vi/FVsgX0AdDTo/maxresdefault.jpg",
-      "published": "2026-07-25T06:00:15+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_F3INH9wZXoQ",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Why Physical AI Is the Next Platform Shift",
-      "url": "https://www.youtube.com/watch?v=F3INH9wZXoQ",
-      "thumbnail": "https://img.youtube.com/vi/F3INH9wZXoQ/maxresdefault.jpg",
-      "published": "2026-07-25T05:00:30+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_jyuyY86GJnA",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -603,38 +686,6 @@
       "url": "https://www.youtube.com/watch?v=PB7DBemxl3E",
       "thumbnail": "https://img.youtube.com/vi/PB7DBemxl3E/maxresdefault.jpg",
       "published": "2026-07-24T09:12:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_-_p2a6uWfjk",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "What is AI Slop?",
-      "url": "https://www.youtube.com/watch?v=-_p2a6uWfjk",
-      "thumbnail": "https://img.youtube.com/vi/-_p2a6uWfjk/maxresdefault.jpg",
-      "published": "2026-07-23T20:51:09+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_t8Ej9aeW388",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "How IT Admins can manage ChatGPT Work at scale | OpenAI",
-      "url": "https://www.youtube.com/watch?v=t8Ej9aeW388",
-      "thumbnail": "https://img.youtube.com/vi/t8Ej9aeW388/maxresdefault.jpg",
-      "published": "2026-07-23T20:50:48+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -793,23 +844,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2079598745734238527",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Which startups are actively hiring? (July thread) Reply with company name, career page, location",
-      "url": "https://x.com/benln/status/2079598745734238527",
-      "images": null,
-      "published": "2026-07-21T16:05:52+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_56XgWH9ch0U",
       "source": "a16z",
       "sourceId": "a16z",
@@ -827,23 +861,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2079573046109614308",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "We’re bringing Cafe Cursor back to NYC on August 12th Grab coffee, Cursor credits, meet the team, and build Limited spots, make sure to RSVP",
-      "url": "https://x.com/benln/status/2079573046109614308",
-      "images": null,
-      "published": "2026-07-21T14:23:45+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_RC4_MWFUHr0",
       "source": "a16z",
       "sourceId": "a16z",
@@ -853,7 +870,7 @@
         "Business",
         "AI"
       ],
-      "title": "American Dynamism Presents",
+      "title": "American Dynamism Films: The Trailer",
       "url": "https://www.youtube.com/watch?v=RC4_MWFUHr0",
       "thumbnail": "https://img.youtube.com/vi/RC4_MWFUHr0/maxresdefault.jpg",
       "published": "2026-07-20T22:40:47+00:00",
@@ -904,7 +921,7 @@
         "Business",
         "AI"
       ],
-      "title": "Why Every Founder Needs a Story | Replit CEO on a16z",
+      "title": "\"Meme Your Dream into Reality\" | Replit CEO with a16z",
       "url": "https://www.youtube.com/watch?v=rghTqkclDqA",
       "thumbnail": "https://img.youtube.com/vi/rghTqkclDqA/maxresdefault.jpg",
       "published": "2026-07-17T14:30:21+00:00",
@@ -995,23 +1012,6 @@
       "url": "https://www.youtube.com/watch?v=ojzQNCfCduY",
       "thumbnail": "https://img.youtube.com/vi/ojzQNCfCduY/maxresdefault.jpg",
       "published": "2026-07-14T08:45:55+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Ym21X1JVm2E",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Built a Physics Simulator With One Prompt (Enia Code)",
-      "url": "https://www.youtube.com/watch?v=Ym21X1JVm2E",
-      "thumbnail": "https://img.youtube.com/vi/Ym21X1JVm2E/maxresdefault.jpg",
-      "published": "2026-07-10T11:01:51+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
