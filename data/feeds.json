@@ -1,7 +1,177 @@
 {
-  "last_updated": "2026-07-30T01:58:08.049437Z",
+  "last_updated": "2026-07-31T02:23:41.779644Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_CxXgV54KzpQ",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Jeff Dean: The 1% Rule for Building in AI",
+      "url": "https://www.youtube.com/watch?v=CxXgV54KzpQ",
+      "thumbnail": "https://img.youtube.com/vi/CxXgV54KzpQ/maxresdefault.jpg",
+      "published": "2026-07-30T21:03:53+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2082858659143459004",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "More suggestions: Vercel, Stripe, SpaceX, Linear, Notion, PostHog, Replit, Shopify, Modal, Baseten, Applied Compute, Cloudflare, Applied Intuition, Clay, PlanetScale, Cognition, ElevenLabs, Supabase, Anduril, Decagon, Palantir Ben Lang (@benln) Best companies for former and aspiring founders to work at these days: Ramp, Cursor, OpenAI, Anthropic Where else? — https://nitter.net/benln/status/2082505728770658679#m",
+      "url": "https://x.com/benln/status/2082858659143459004",
+      "images": null,
+      "published": "2026-07-30T15:59:36+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_Fpg_8aiBxx4",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "How Lassie Is Automating Healthcare Administration",
+      "url": "https://www.youtube.com/watch?v=Fpg_8aiBxx4",
+      "thumbnail": "https://img.youtube.com/vi/Fpg_8aiBxx4/maxresdefault.jpg",
+      "published": "2026-07-30T14:30:01+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2082810914936332592",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor team is coming to Africa: • Morocco - 8/9 • Ghana - 8/12 • Kenya - 8/14 Sign up for the events on Luma",
+      "url": "https://x.com/benln/status/2082810914936332592",
+      "images": null,
+      "published": "2026-07-30T12:49:53+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2082770741892890898",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Claude 全线服务都炸了",
+      "url": "https://x.com/op7418/status/2082770741892890898",
+      "images": null,
+      "published": "2026-07-30T10:10:15+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2082687187242635533",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "详情：github.com/op7418/CodePilot/… Link Release CodePilot v0.62.0 · op7418/CodePilot CodePilot v0.62.0 重新设计 Markdown 编辑体验和文件树操作：Markdown 现在可在同一页面边写边看，文件树补齐常用右键操作与文件类型图标，并修复深色模式和 macOS 原生磨砂显示。 新增功能 Markdown 单页 Live Preview — .md / .mdx 不再在编辑与预览页面之间切换。光标所在内容显示原始 Markdown，其他内容直接渲染标... github.com",
+      "url": "https://x.com/op7418/status/2082687187242635533",
+      "images": null,
+      "published": "2026-07-30T04:38:14+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2082687136025980935",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "CodePilot 刚更新了 0.62 版本。 因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。 这次更新主要优化了体验： 1. 侧边栏文件树： 我希望它能有完整的文件浏览、编辑及管理能力。所以现在侧边栏文件树新增了右键菜单，支持新建、删除、添加和移动；同时，也可以把右侧文件树中的任何文件和文件夹添加到左侧的聊天框里。 2. Markdown 编辑和预览：现在预览和编辑可以在同一个页面进行。 3. 补齐了左侧和输入框的右键菜单",
+      "url": "https://x.com/op7418/status/2082687136025980935",
+      "images": null,
+      "published": "2026-07-30T04:38:02+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2082673125444182510",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "语音输入法又坑我，应该是Claude",
+      "url": "https://x.com/op7418/status/2082673125444182510",
+      "images": null,
+      "published": "2026-07-30T03:42:21+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2082670827657433335",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "要不是 Cloud Max 有 Fable 5 的话，我现在根本都不想订阅。 Opus 4.7、4.8 和 5.0 都太他妈拉胯了，越来越拉胯。 测试成绩越来越好，但是使用体验上效果越来越差：就是疯狂地不说人话、无法沟通，加上疯狂偷懒。 它就像那种大厂里面最讨厌的同事，全是说教，但是不干活。 而且你给他布置任务以后，他疯狂地通过各种方式削减自己的工作量。 一旦用在自动化循环里，你就会发现你给他 7 个需求，他说都做完了，但是每一个需求都给你砍到原有工作量的 20%，最后的结果就是每个都不能用。 很难想象 Anthropic 这个公司现在经历了什么。 就好像 Opus 4.6 是一个偶然的结果，他们根本没有掌握怎么样再训出一个比 Opus 4.6 更好的 Opus 模型。",
+      "url": "https://x.com/op7418/status/2082670827657433335",
+      "images": null,
+      "published": "2026-07-30T03:33:14+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2082666702182154546",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力 Video",
+      "url": "https://x.com/op7418/status/2082666702182154546",
+      "images": null,
+      "published": "2026-07-30T03:16:50+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_n8dz2FX0_uY",
       "source": "Y Combinator",
@@ -188,57 +358,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2082315101080879424",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "一句非常简单的提示词，就调用了三个不同能力的模型，帮我完成了昨天 Twitter 上的 AI 热点事件统计。 时效性非常强，跟我早上起来刷 Twitter 搜集到的差不多，而且还有几个我漏掉的信息。 具体分工如下： • 信息爬取：内容爬取是 Grok 做的 • 网页生成：Kimi 生成的 • 文案撰写：DeepSeek 写的 歸藏(guizang.ai) (@op7418) 这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！ 充分发挥各个模型的能力长处，而且可以帮你节省成本。 你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们自己的能力去帮你完成事情，而且也可以减少比较贵的模型的消耗。 比如这个任务，就是用 Grok 去检索 Twitter 信息，用 DeepSeek 生成文案，K3 生成网页，然后由 GLM 5.2 统筹。 — https://nitter.net/op7418/status/2082313658277732747#m",
-      "url": "https://x.com/op7418/status/2082315101080879424",
-      "images": null,
-      "published": "2026-07-29T03:59:42+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2082313723717525835",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这里尝试：github.com/op7418/CodePilot/… Link Release CodePilot v0.61.0 · op7418/CodePilot CodePilot v0.61.0 新增 Claude Opus 5 / Sonnet 5，并让 Grok 4.5 能作为指定模型的 Sub-agent 使用；同时修复模型回复后显示名称漂移和推理强度参数不兼容的问题。 新增功能 Claude Opus 5 — Claude Code、CodePilot Runtime 和 Codex Runtime 的 Anthropic 渠道现可选... github.com",
-      "url": "https://x.com/op7418/status/2082313723717525835",
-      "images": null,
-      "published": "2026-07-29T03:54:13+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2082313658277732747",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！ 充分发挥各个模型的能力长处，而且可以帮你节省成本。 你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们自己的能力去帮你完成事情，而且也可以减少比较贵的模型的消耗。 比如这个任务，就是用 Grok 去检索 Twitter 信息，用 DeepSeek 生成文案，K3 生成网页，然后由 GLM 5.2 统筹。 歸藏(guizang.ai) (@op7418) 一个 Codepilot 新版的预告： 在下一个版本中，你可以指定每一个 SubAgent 所采用的模型，非常有意思的能力 比如说： • 可以用 Grok 去检索 Twitter 上的内容 • 让 DeepSeek 去生成文案 • 让 Kimi K3 去生成网页 你可以通过 SubAgent 让各个模型发挥它们的长处 — https://nitter.net/op7418/status/2079946524235272613#m",
-      "url": "https://x.com/op7418/status/2082313658277732747",
-      "images": null,
-      "published": "2026-07-29T03:53:58+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_WeP9VUf1OoE",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -298,7 +417,7 @@
         "Business",
         "AI"
       ],
-      "title": "Solving the Hardest Problem in Robotics | Fei-Fei Li with a16z",
+      "title": "Fei-Fei Li is Solving the Hardest Problem in Robotics | World Labs with a16z",
       "url": "https://www.youtube.com/watch?v=-tabaM5l3s0",
       "thumbnail": "https://img.youtube.com/vi/-tabaM5l3s0/maxresdefault.jpg",
       "published": "2026-07-28T14:30:10+00:00",
@@ -387,23 +506,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2082061698790527437",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这哥们儿拿 5090 跑 Kimi K3，总共用了 80 张卡，速度是 20 tok/s，其实可以用了。 然后我基于他的内容和官方的一些信息，重新让 Codex 做了一张图，展示在不同的显卡平台上跑 Kimi K3 需要多少张卡和对应的带宽。 Ning (@totheagi) we got the full Kimi K3, 2.8T params, running on 80x RTX 5090s. 20 tok/s single stream, day one, untuned. Last week we took GLM-5.2 from 30 to 110 tok/s on this same fleet. This number will climb. A first for open weights: frontier intelligence served with zero HBM, the scarcest silicon in AI. Just GDDR7 gaming cards, plain ethernet, and the official MXFP4 weights, nothing requantized. The most powerful open model on Earth, on the most abundant GPUs on Earth. Any lab, startup, or university can now own it, probe it, fine-tune it, run agents on it. @Kimi_Moonshot — https://nitter.net/totheagi/status/2081855316443205717#m",
-      "url": "https://x.com/op7418/status/2082061698790527437",
-      "images": null,
-      "published": "2026-07-28T11:12:46+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_rPfH_Tm5U6Q",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -421,23 +523,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2082045057545421065",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "应该是 Kimi 的协议上规定了那个价格的下限，就是起码要跟 Kimi 的售价一致。",
-      "url": "https://x.com/op7418/status/2082045057545421065",
-      "images": null,
-      "published": "2026-07-28T10:06:38+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2081980886988341436",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -452,23 +537,6 @@
       "url": "https://x.com/benln/status/2081980886988341436",
       "images": null,
       "published": "2026-07-28T05:51:39+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2081938548626960823",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Kimi K3 已经在多家推理服务上线，大家的 API 价格神奇的保持了一致 但是一些 Token plan 已经开始打折了，比如 OpenCode Zen 和 Cline Pass，Cursor 给的额度估计也不低 歸藏(guizang.ai) (@op7418) Kimi K3 已经如期开源，各位估计明天就能在各大平台的 Token Plan 使用 Kimi K3 了 — https://nitter.net/op7418/status/2081762145348489317#m",
-      "url": "https://x.com/op7418/status/2081938548626960823",
-      "images": null,
-      "published": "2026-07-28T03:03:25+00:00",
       "hasTranscript": false
     },
     {
@@ -641,23 +709,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_nB7QBdjrOwE",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Proving You’re Human",
-      "url": "https://www.youtube.com/watch?v=nB7QBdjrOwE",
-      "thumbnail": "https://img.youtube.com/vi/nB7QBdjrOwE/maxresdefault.jpg",
-      "published": "2026-07-25T12:12:23+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_jyuyY86GJnA",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -792,40 +843,6 @@
       "published": "2026-07-22T20:42:53+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2079964537613173024",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Cafe Cursor in Los Angeles",
-      "url": "https://x.com/benln/status/2079964537613173024",
-      "images": null,
-      "published": "2026-07-22T16:19:24+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2079917780611059976",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "95+ startups actively hiring in this thread Hit them up if you’re looking for your next thing Google Sheet with full list: docs.google.com/spreadsheets… Link July hiring thread docs.google.com Ben Lang (@benln) Which startups are actively hiring? (July thread) Reply with company name, career page, location — https://nitter.net/benln/status/2079598745734238527#m",
-      "url": "https://x.com/benln/status/2079917780611059976",
-      "images": null,
-      "published": "2026-07-22T13:13:36+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_SHWjQrGb3MQ",
@@ -1139,23 +1156,6 @@
       "published": "2026-06-25T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "本期节目由AI轻办公神器vivo X Fold6赞助播出 今年4月的伦敦马拉松，肯尼亚选手萨维以 1小时59分30秒 的成绩夺冠，成为首位在正式马拉松比赛中跑进2小时的运动员，这场比赛的亚军克杰勒恰同样跑进了2小时，创造了历史。 事后媒体关注到，萨维和克杰勒恰，包括这场比赛的女子冠军阿塞法，他们穿的鞋，都是阿迪达斯的Adios Pro EVO 3。但在此之前，统治马拉松赛场10年之久的一直是耐克，"
-    },
-    {
-      "id": "yt_gKboAPejVM8",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Against all odds. Congratulations Elon Musk and SpaceX.",
-      "url": "https://www.youtube.com/watch?v=gKboAPejVM8",
-      "thumbnail": "https://img.youtube.com/vi/gKboAPejVM8/maxresdefault.jpg",
-      "published": "2026-06-24T20:03:43+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_0V-GiPHgRwI",
