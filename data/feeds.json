@@ -1,7 +1,213 @@
 {
-  "last_updated": "2026-07-31T02:23:41.779644Z",
+  "last_updated": "2026-08-01T02:24:36.575926Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_5d6y3poKwK4",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Patrick Collison: \"What If You Succeed?\"",
+      "url": "https://www.youtube.com/watch?v=5d6y3poKwK4",
+      "thumbnail": "https://img.youtube.com/vi/5d6y3poKwK4/maxresdefault.jpg",
+      "published": "2026-07-31T17:29:06+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_5fd236d7_9a72_4b15_9e84_e83ceadd1b41",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5fd236d7-9a72-4b15-9e84-e83ceadd1b41.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 4032,
+      "published": "2026-07-31T17:00:00-07:00",
+      "hasTranscript": false,
+      "transcriptPreview": "7月27日，月之暗面正式发布Kimi K3的完整模型权重。自7月16日API上线以来，K3就在在多项测试中展现出接近前沿模型的能力。因此，它成为了硅谷最近讨论开源时的重要案例之一。从2025年初的DeepSeek时刻，到当下的Kimi K3，中国开源模型正在从成本更低、能力稍弱的替代品，逐渐逼近甚至超过最强的闭源前沿模型。 随之而来的，是一场越来越激烈的蒸馏争论。什么是蒸馏？通过闭源模型的输出进行"
+    },
+    {
+      "id": "x_2083221943168155743",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Signing off for the next 25 hours. No electricity, no internet, no driving, no tech, no money, no music, no work, no cooking. Just rest, family, prayer, friends, and food. I do this every week for Shabbat, no exceptions.",
+      "url": "https://x.com/benln/status/2083221943168155743",
+      "images": null,
+      "published": "2026-07-31T16:03:10+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_cO1f2wOxSH4",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Decagon’s Playbook for Building Enterprise AI Applications",
+      "url": "https://www.youtube.com/watch?v=cO1f2wOxSH4",
+      "thumbnail": "https://img.youtube.com/vi/cO1f2wOxSH4/maxresdefault.jpg",
+      "published": "2026-07-31T14:30:14+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2083192268148846724",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "V4 Flash 0731已经开源：huggingface.co/deepseek-ai/D… Link deepseek-ai/DeepSeek-V4-Flash-0731 · Hugging Face We’re on a journey to advance and democratize artificial intelligence through open source and open science. huggingface.co",
+      "url": "https://x.com/op7418/status/2083192268148846724",
+      "images": null,
+      "published": "2026-07-31T14:05:15+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2083190834820997168",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "做影视后期、动画特效以及一些转场，MiniMax H3真的太牛逼了！ 我在视频里标注了自己的工作流，包括素材、提示词。 基本上你把特效的图片分镜标注好，用现在的图像模型做好，或者自己把文字等特效层 P 上去，甚至只是给一些参考，它就能帮你做出非常复杂的动特效。 它的文字和 UI 细节、排版细节效果巨好。 我做的两个案例都用了九宫格图片，按理说总分辨率只有 1K 左右，但它生成出来的清晰度极高，完全没有以前那种字迹模糊看不清的状态。 支持全模态参考。而且还会开源，开源后成本会降低。 非常适合用来做广告片、产品宣传片、MV、游戏宣传和电商宣传，或者做个特效来包装自己的照片和视频。这些大家都有强烈的需求。 Video MiniMax (official) (@MiniMax_AI) It's coming. @Hailuo_AI #MiniMaxH3 Video — https://nitter.net/MiniMax_AI/status/2082779062653845803#m",
+      "url": "https://x.com/op7418/status/2083190834820997168",
+      "images": null,
+      "published": "2026-07-31T13:59:33+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2083178640880148509",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor community events in 250 cities Reach out if your city's missing Video",
+      "url": "https://x.com/benln/status/2083178640880148509",
+      "images": null,
+      "published": "2026-07-31T13:11:06+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2083088897341542657",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "官方发了 DeepSeek (@deepseek_ai) 🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta! 🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive performance leap below! 👇 🔷 The official V4-Flash now natively supports the Responses API format and is fully adapted for Codex! Check out the configuration details in our official API docs: api-docs.deepseek.com/quick_… — https://nitter.net/deepseek_ai/status/2083084415157022911#m",
+      "url": "https://x.com/op7418/status/2083088897341542657",
+      "images": null,
+      "published": "2026-07-31T07:14:29+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2083078178180890662",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Deepseek V4 Flash 更新到正式版了，Agent 能力大幅提升，超过了 V4 Pro 的 Preview 版本！ 官方测评成绩： Terminal Bench 2.1: 82.7 NL2Repo: 54.2 Cybergym: 76.7 DeepSWE: 54.4 Toolathlon verified: 70.3 Agent Last Exam: 25.2 Automation Bench (Public): 25.1 DSBench-FullStack: 68.7 DSBench-Hard: 59.6 目前已经在官方 API 上线，同时还支持了 Codex 的 API 格式，可以快速配置。 Mac 一键配置脚本：bash <(curl -fsSL cdn.deepseek.com/api-docs/co…) Windows 一键配置脚本：irm cdn.deepseek.com/api-docs/co… | iex DeepSeek-V4-Flash-0731 的模型结构、尺寸和 DeepSeek-V4-Flash-preview 保持一致，仅重新进行了后训练。 详情：api-docs.deepseek.com/zh-cn/…",
+      "url": "https://x.com/op7418/status/2083078178180890662",
+      "images": null,
+      "published": "2026-07-31T06:31:54+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2083043706429723106",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的",
+      "url": "https://x.com/op7418/status/2083043706429723106",
+      "images": null,
+      "published": "2026-07-31T04:14:55+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2083043634635788298",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！ Codex 现在有专门给图像 Agent 做的 UI 模式了： 生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对图片进行评论、擦除和调整大小。这完全是专门给 GPT Image 2.0 做的。 左上角有一个切换按钮，切换以后，聊天流里就只显示图像，不显示那些文案了。 这样你就可以专注于调整图像，快速看到聊天里生成的所有大图。 你可以多选图片，一并添加到输入框里，然后让 GPT 给你进行批量修改。 这个更新感觉要把设计 Agent 的活吃掉一大半了。",
+      "url": "https://x.com/op7418/status/2083043634635788298",
+      "images": null,
+      "published": "2026-07-31T04:14:38+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2083016118315499894",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Seedance 2.5 模型已经给超创开放了内测。 1. 最高支持 30 秒：一次可以生成 30 秒长度的视频 2. 目前最高支持 720P 3. 全能参考：最多一次可以上传 50 张图片，非常离谱",
+      "url": "https://x.com/op7418/status/2083016118315499894",
+      "images": null,
+      "published": "2026-07-31T02:25:17+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_CxXgV54KzpQ",
       "source": "Y Combinator",
@@ -46,7 +252,7 @@
         "Business",
         "AI"
       ],
-      "title": "How Lassie Is Automating Healthcare Administration",
+      "title": "“Every small business should run itself” | Lassie with a16z",
       "url": "https://www.youtube.com/watch?v=Fpg_8aiBxx4",
       "thumbnail": "https://img.youtube.com/vi/Fpg_8aiBxx4/maxresdefault.jpg",
       "published": "2026-07-30T14:30:01+00:00",
@@ -119,57 +325,6 @@
       "url": "https://x.com/op7418/status/2082687136025980935",
       "images": null,
       "published": "2026-07-30T04:38:02+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2082673125444182510",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "语音输入法又坑我，应该是Claude",
-      "url": "https://x.com/op7418/status/2082673125444182510",
-      "images": null,
-      "published": "2026-07-30T03:42:21+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2082670827657433335",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "要不是 Cloud Max 有 Fable 5 的话，我现在根本都不想订阅。 Opus 4.7、4.8 和 5.0 都太他妈拉胯了，越来越拉胯。 测试成绩越来越好，但是使用体验上效果越来越差：就是疯狂地不说人话、无法沟通，加上疯狂偷懒。 它就像那种大厂里面最讨厌的同事，全是说教，但是不干活。 而且你给他布置任务以后，他疯狂地通过各种方式削减自己的工作量。 一旦用在自动化循环里，你就会发现你给他 7 个需求，他说都做完了，但是每一个需求都给你砍到原有工作量的 20%，最后的结果就是每个都不能用。 很难想象 Anthropic 这个公司现在经历了什么。 就好像 Opus 4.6 是一个偶然的结果，他们根本没有掌握怎么样再训出一个比 Opus 4.6 更好的 Opus 模型。",
-      "url": "https://x.com/op7418/status/2082670827657433335",
-      "images": null,
-      "published": "2026-07-30T03:33:14+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2082666702182154546",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Cursor 上线了 iPad 版本，新增 PR 收件箱可以审查 PR，支持评论、检查和批准合并等能力 Video",
-      "url": "https://x.com/op7418/status/2082666702182154546",
-      "images": null,
-      "published": "2026-07-30T03:16:50+00:00",
       "hasTranscript": false
     },
     {
@@ -273,23 +428,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2082397091062513738",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "AsterMem 这个项目有点意思，它是一个第三方的 memory 系统，可以给你的任何 AI Agent 接上长期记忆。 支持任何格式：比如 Markdown、文本、书签等。 你的长内容会被自动切成一些语义片段，打上标签，并加上向量搜索和向量索引。 数据可以直接读取 Markdown，也可以读数据库或向量库。 备份非常简单，只需要拷贝文件夹就行。这样你所有的 memory 都会完全属于你，而不是其他所谓的 Agent 平台。 支持知识图谱、时间轴和向量的空间视图，方便你查看和管理自己的 memory。 兼容性很强，包括 Cloud Code、Codex、Cursor 都可以用。 项目是开源的，直接用就行，模型也可以自己选择。 Asterove (@Asterove_ai) Article I got tired of being a human AGENTS.md Every session with my coding agent starts the same way. I explain what I&apos;m building. Which stack I&apos;m on. That we ruled out Postgres last month. That I don&apos;t want it writing \"it&apos;s not X, it&apos;s Y\" at me. — https://nitter.net/Asterove_ai/status/2082173389368909931#m",
-      "url": "https://x.com/op7418/status/2082397091062513738",
-      "images": null,
-      "published": "2026-07-29T09:25:30+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_lhgJue86h5c",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -305,57 +443,6 @@
       "published": "2026-07-29T09:17:19+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2082321046863335505",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "看错了，朋友们，是从今天开始恢复了 5 小时限额，原来 5 小时限额只是临时取消的",
-      "url": "https://x.com/op7418/status/2082321046863335505",
-      "images": null,
-      "published": "2026-07-29T04:23:19+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2082318038800740807",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "我操，Codex 又重置了！ 同时他们还说在调查体感上 GPT-5.6 Sol 的消耗速度比较快的问题。 然后在调查期间也会暂停 5 小时限额。 Tibo (@thsottiaux) Hello people of Sol! I've reset usage limits for all ChatGPT Work and Codex users. Together with that, a quick update on GPT-5.6 Sol usage limits. Over the past few weeks, many of you have told us that Sol was using your Codex limits faster than expected. To be clear, we have not reduced usage on any subscription plans. We’ve been digging into what was happening and have landed several improvements. As a result, we expect your usage to last around 18% longer during typical use of Sol. Some of you should already see significantly larger improvements from today. Tomorrow, we’ll also restore the five-hour limit that we temporarily paused while investigating. Here’s what we found: - GPT-5.6 Sol is much more willing to work for longer, make additional tool calls, and coordinate complex workflows across tools and subagents. That makes it better at solving hard problems, but some tasks were using far more than we intended. - Sol also works harder at the same reasoning effort than previous models. High on Sol can use more tokens than High did on GPT-5.5. - Programmatic tool calling, also referred to as code mode, gives Sol much more flexibility to run tool calls in parallel or continue working while waiting. But it also led to more responses per turn, more cached input tokens, and higher usage than expected. - This was particularly noticeable when Sol was waiting for tool calls to finish or running many web searches. We’ve improved how we handle both cases and are continuing to make code mode more efficient. - The impact was also very uneven. The median user actually found Sol quite token efficient, while some power users working on harder tasks saw their usage drain much faster. We were very focused on average and median usage before launch and missed some cases where the long tail could use significantly more usage. Sol is a significant step forward in what Codex can do, but capability and efficiency do not always improve at the same pace, and some issues only become clear once people are using the model at real-world scale. We should have recognized this sooner and been more upfront about it. You keep pushing the frontier and we’ll keep improving efficiency and sharing updates as we go. — https://nitter.net/thsottiaux/status/2082317452755751098#m",
-      "url": "https://x.com/op7418/status/2082318038800740807",
-      "images": null,
-      "published": "2026-07-29T04:11:22+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2082315307235115409",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "示例任务结果： 歸藏(guizang.ai) (@op7418) 一句非常简单的提示词，就调用了三个不同能力的模型，帮我完成了昨天 Twitter 上的 AI 热点事件统计。 时效性非常强，跟我早上起来刷 Twitter 搜集到的差不多，而且还有几个我漏掉的信息。 具体分工如下： • 信息爬取：内容爬取是 Grok 做的 • 网页生成：Kimi 生成的 • 文案撰写：DeepSeek 写的 — https://nitter.net/op7418/status/2082315101080879424#m",
-      "url": "https://x.com/op7418/status/2082315307235115409",
-      "images": null,
-      "published": "2026-07-29T04:00:31+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_WeP9VUf1OoE",
@@ -498,7 +585,7 @@
         "Business",
         "AI"
       ],
-      "title": "Blake Scholl: Breaking the Supersonic Ban",
+      "title": "Blake Scholl: The Problem With Becoming an Expert",
       "url": "https://www.youtube.com/watch?v=byAj35QlGbs",
       "thumbnail": "https://img.youtube.com/vi/byAj35QlGbs/maxresdefault.jpg",
       "published": "2026-07-28T14:00:18+00:00",
@@ -692,23 +779,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_BSElxGxgoIA",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI-Native Compliance Infrastructure",
-      "url": "https://www.youtube.com/watch?v=BSElxGxgoIA",
-      "thumbnail": "https://img.youtube.com/vi/BSElxGxgoIA/maxresdefault.jpg",
-      "published": "2026-07-25T13:47:00+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_jyuyY86GJnA",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -758,40 +828,6 @@
       "published": "2026-07-23T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "当你觉得AI“懂你”的那一刻——精准抓住一个你自己都没说清的情绪，问出一个让你陷入沉思的问题——你以为那来自数据中心的芯片、模型里的参数、程序员敲下的代码，但真相是，那些问进你心坎里的问题、让你会心一笑的遣词造句，背后站着一群人：他们曾是记者、编辑和纪录片导演，如今藏在大语言模型之后，有一个鲜为人知的名字——内容工程师（Content Engineer）。 当模型能力日益趋同，真正决定用户去留的，"
-    },
-    {
-      "id": "x_2080280141842755954",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "notes from: ycombinator.com/rfs Link Requests for Startups | Y Combinator Y Combinator is looking for startups working on these ideas. If you&apos;re working on something we&apos;re interested in, we&apos;d love to hear from you. ycombinator.com",
-      "url": "https://x.com/benln/status/2080280141842755954",
-      "images": null,
-      "published": "2026-07-23T13:13:30+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2080275750867870112",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Y Combinator's Fall 2026 request for startups:",
-      "url": "https://x.com/benln/status/2080275750867870112",
-      "images": null,
-      "published": "2026-07-23T12:56:03+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_wCtRavkU1G8",
@@ -1122,23 +1158,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_JNu6c4G6q5M",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "This is New Media",
-      "url": "https://www.youtube.com/watch?v=JNu6c4G6q5M",
-      "thumbnail": "https://img.youtube.com/vi/JNu6c4G6q5M/maxresdefault.jpg",
-      "published": "2026-06-26T19:58:27+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_c38d5df5_2eb3_46d3_8437_892593599d29",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -1281,25 +1300,6 @@
       "published": "2026-05-20T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "离美加墨世界杯开赛还有一个月，央视和国际足联FIFA之间的版权谈判终于是谈妥了，本期我们来聊聊世界杯的定价逻辑与体育赛事版权生意的变化脉络。 【主播】 麻花，硅谷101特约研究员 【嘉宾】 朱晓东，力赞体育CEO ，本届世界杯日本转播权销售顾问 张宾，《体育产业独立评论》主理人 【你将听到】 谈判的虚惊一场，赞助商的从中斡旋 02:40 价格细节：打包的版权交易里，很少透露单届的价格 04:25 "
-    },
-    {
-      "id": "pod_guigu101_pod_b066c769_00d2_4341_bf61_a82bca4181e4",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b066c769-00d2-4341-bf61-a82bca4181e4.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 4895,
-      "published": "2026-05-14T17:00:00-07:00",
-      "hasTranscript": false,
-      "transcriptPreview": "人类历史上第一批和生成式AI同时长大的学生，正在踏入毕业季。 去年我们和大学生聊AI时，讨论还集中在“要不要使用AI”、“教授怎么看”。然而仅一年后，AI真正成为了生产力工具。这届毕业生可能会发现：不管你学的是知识性课程，还是实用性技能，都难逃AI冲击，想要脱颖而出必须成为那个“更善于使用AI的人”。 当知识可以被AI调取，技能可以被工具取代，大学还能给你什么独一无二的东西？面对AI冲击，有哪些能"
     },
     {
       "id": "yt_nepKKz-MzFM",
