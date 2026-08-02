@@ -1,7 +1,41 @@
 {
-  "last_updated": "2026-08-01T02:24:36.575926Z",
+  "last_updated": "2026-08-02T02:21:58.803622Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2083579533391777935",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "OpenAI 感觉翻身了啊，已经在预热他们的下一代模型Astra。 他们用这个模型解决了 10 个至少存在了十年的数学问题。 这些问题如果是数学家解决的话，感觉这数学家已经相当牛逼了； 而解决这一堆非常难的问题，算力成本居然只有 2000 美元。 Sam 亲自飞到华盛顿去跟美国政府沟通这个模型的发布，感觉这玩意儿会很顶，不知道是 GPT-6 还是 GPT-5.7 Sebastien Bubeck (@SebastienBubeck) yes, nonsofic groups exist: this statement is one of many new beautiful results proved by Astra, our next major model. We're releasing 10 such Astra proofs, complete with lean certificates and CoT walkthroughs for each of them. The results are wide-ranging, from von Neumann algebras (disproof of Connes' Rigidity Conjecture) to better bounds for high dimensional sphere packing, for circuit complexity, for monochromatic triangles in multicolored graphs, and more. More thoughts here: openai.com/index/ten-advance… Link Ten advances in mathematics and theoretical computer science OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity. openai.com — https://nitter.net/SebastienBubeck/status/2083456300692979886#m",
+      "url": "https://x.com/op7418/status/2083579533391777935",
+      "images": null,
+      "published": "2026-08-01T15:44:06+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2083434423564009647",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "重置！ Tibo (@thsottiaux) To celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy. — https://nitter.net/thsottiaux/status/2083395449814229287#m",
+      "url": "https://x.com/op7418/status/2083434423564009647",
+      "images": null,
+      "published": "2026-08-01T06:07:29+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_5d6y3poKwK4",
       "source": "Y Combinator",
@@ -12,7 +46,7 @@
         "Business",
         "AI"
       ],
-      "title": "Patrick Collison: \"What If You Succeed?\"",
+      "title": "Patrick Collison: Is AI Breaking the Lean Startup Playbook?",
       "url": "https://www.youtube.com/watch?v=5d6y3poKwK4",
       "thumbnail": "https://img.youtube.com/vi/5d6y3poKwK4/maxresdefault.jpg",
       "published": "2026-07-31T17:29:06+00:00",
@@ -291,40 +325,6 @@
       "url": "https://x.com/op7418/status/2082770741892890898",
       "images": null,
       "published": "2026-07-30T10:10:15+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2082687187242635533",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "详情：github.com/op7418/CodePilot/… Link Release CodePilot v0.62.0 · op7418/CodePilot CodePilot v0.62.0 重新设计 Markdown 编辑体验和文件树操作：Markdown 现在可在同一页面边写边看，文件树补齐常用右键操作与文件类型图标，并修复深色模式和 macOS 原生磨砂显示。 新增功能 Markdown 单页 Live Preview — .md / .mdx 不再在编辑与预览页面之间切换。光标所在内容显示原始 Markdown，其他内容直接渲染标... github.com",
-      "url": "https://x.com/op7418/status/2082687187242635533",
-      "images": null,
-      "published": "2026-07-30T04:38:14+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2082687136025980935",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "CodePilot 刚更新了 0.62 版本。 因为这个工具主要是我给自己做的，满足了我自己的需求，把我的一些工作流也放进了里面。 这次更新主要优化了体验： 1. 侧边栏文件树： 我希望它能有完整的文件浏览、编辑及管理能力。所以现在侧边栏文件树新增了右键菜单，支持新建、删除、添加和移动；同时，也可以把右侧文件树中的任何文件和文件夹添加到左侧的聊天框里。 2. Markdown 编辑和预览：现在预览和编辑可以在同一个页面进行。 3. 补齐了左侧和输入框的右键菜单",
-      "url": "https://x.com/op7418/status/2082687136025980935",
-      "images": null,
-      "published": "2026-07-30T04:38:02+00:00",
       "hasTranscript": false
     },
     {
@@ -889,7 +889,7 @@
       "domains": [
         "Creator"
       ],
-      "title": "第二名 | 老高與小茉 Mr & Mrs Gao",
+      "title": "第二名，可能毀滅一切的鏡像生命 | 老高與小茉 Mr & Mrs Gao",
       "url": "https://www.youtube.com/watch?v=SHWjQrGb3MQ",
       "thumbnail": "https://img.youtube.com/vi/SHWjQrGb3MQ/maxresdefault.jpg",
       "published": "2026-07-22T12:23:34+00:00",
