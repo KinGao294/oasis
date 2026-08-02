@@ -6,6 +6,7 @@ Fetches video transcripts/subtitles from YouTube and Bilibili
 
 import json
 import re
+import shutil
 from pathlib import Path
 from datetime import datetime
 
@@ -14,6 +15,11 @@ SCRIPT_DIR = Path(__file__).parent
 DATA_DIR = SCRIPT_DIR.parent / "data"
 FEEDS_FILE = DATA_DIR / "feeds.json"
 TRANSCRIPTS_DIR = DATA_DIR / "transcripts"
+
+WEB_DIR = SCRIPT_DIR.parent / "web"
+WEB_DATA_DIR = WEB_DIR / "data"
+WEB_FEEDS_FILE = WEB_DATA_DIR / "feeds.json"
+WEB_TRANSCRIPTS_DIR = WEB_DATA_DIR / "transcripts"
 
 
 def fetch_youtube_transcript(video_id):
@@ -217,6 +223,26 @@ def update_feed_with_transcript(feeds_data, item_id, transcript_data):
             break
 
 
+def sync_item_to_web(item_id: str):
+    """
+    Ensure /web/data mirrors updated feeds + transcript artifacts.
+    """
+    if not WEB_DIR.exists():
+        return
+
+    WEB_DATA_DIR.mkdir(parents=True, exist_ok=True)
+    WEB_TRANSCRIPTS_DIR.mkdir(parents=True, exist_ok=True)
+
+    # Copy feeds.json
+    if FEEDS_FILE.exists():
+        shutil.copy2(FEEDS_FILE, WEB_FEEDS_FILE)
+
+    # Copy transcript file if present
+    src = TRANSCRIPTS_DIR / f"{item_id}.json"
+    if src.exists():
+        shutil.copy2(src, WEB_TRANSCRIPTS_DIR / src.name)
+
+
 def fetch_all_transcripts():
     """Fetch transcripts for all video items in feeds.json"""
     if not FEEDS_FILE.exists():
@@ -233,6 +259,7 @@ def fetch_all_transcripts():
     
     fetched = 0
     skipped = 0
+    updated_existing = 0
     failed = 0
     
     for item in video_items:
@@ -241,6 +268,21 @@ def fetch_all_transcripts():
         # Skip if transcript already exists
         transcript_file = TRANSCRIPTS_DIR / f"{item_id}.json"
         if transcript_file.exists():
+            # Still hydrate feeds.json in case it was overwritten by a fresh fetch
+            try:
+                with open(transcript_file, "r", encoding="utf-8") as f:
+                    existing_transcript = json.load(f)
+                before = (item.get("hasTranscript"), item.get("transcriptPreview"))
+                update_feed_with_transcript(feeds_data, item_id, existing_transcript)
+                after_item = next((i for i in feeds_data.get("items", []) if i.get("id") == item_id), None)
+                after = (after_item.get("hasTranscript"), after_item.get("transcriptPreview")) if after_item else before
+                if after != before:
+                    updated_existing += 1
+            except Exception:
+                pass
+
+            # Ensure the artifact exists under web/data as well
+            sync_item_to_web(item_id)
             skipped += 1
             continue
         
@@ -263,6 +305,7 @@ def fetch_all_transcripts():
             update_feed_with_transcript(feeds_data, item_id, transcript)
             fetched += 1
             print(f"    ✓ Got {transcript['word_count']} words")
+            sync_item_to_web(item_id)
         else:
             failed += 1
             print(f"    ✗ No transcript available")
@@ -271,9 +314,15 @@ def fetch_all_transcripts():
     with open(FEEDS_FILE, "w", encoding="utf-8") as f:
         json.dump(feeds_data, f, ensure_ascii=False, indent=2)
     
+    # Sync final feeds.json to web
+    if WEB_DIR.exists() and FEEDS_FILE.exists():
+        WEB_DATA_DIR.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(FEEDS_FILE, WEB_FEEDS_FILE)
+    
     print(f"\nTranscript fetch complete:")
     print(f"  Fetched: {fetched}")
     print(f"  Skipped (existing): {skipped}")
+    print(f"  Updated feeds from existing transcripts: {updated_existing}")
     print(f"  Failed/unavailable: {failed}")
 
 
