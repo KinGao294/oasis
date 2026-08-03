@@ -1,7 +1,109 @@
 {
-  "last_updated": "2026-08-02T02:21:58.803622Z",
+  "last_updated": "2026-08-03T02:24:07.519640Z",
   "count": 101,
   "items": [
+    {
+      "id": "x_2083958428045820092",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "可能很多朋友不知道，Code Pilot 是全平台的一个软件。 而且支持 Cloud Code、AI SDK 和 CodeX 三种 Agent 框架的切换，以及市面上所有主流和常见 Token Plan 的使用，还有各种自己做的特殊功能。 前段时间上这个版本重构的时候，短暂地去掉了 Linux 版本的构建，0.64.0 现在 Linux 版本已经重新加入了。 各位 Linux 用户，如果不知道用啥 Agent 的，可以试试。 歸藏(guizang.ai) (@op7418) Codepilot 0.63.0 版本更新 现在可以将你用 AI 生成的任何内容加入素材库了 比如 Codex 里用 GPT- Image 2.0 生成的图片和 AI 生成的 HTML 都可以加入素材库了，还能给素材打标签 同时适配了 Deepseek V4 Flash 0731，增加了可选的推理强度 github.com/op7418/CodePilot/… — https://nitter.net/op7418/status/2083827624070234507#m",
+      "url": "https://x.com/op7418/status/2083958428045820092",
+      "images": null,
+      "published": "2026-08-02T16:49:41+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2083948196422906312",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "补一张，这个风格的金色和黑色真是出彩",
+      "url": "https://x.com/op7418/status/2083948196422906312",
+      "images": null,
+      "published": "2026-08-02T16:09:02+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2083921281951617148",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "玩玩 Midjourney",
+      "url": "https://x.com/op7418/status/2083921281951617148",
+      "images": null,
+      "published": "2026-08-02T14:22:05+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2083918540864709013",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Pulled the fastest-growing startups by hiring velocity over the past 90 days:",
+      "url": "https://x.com/benln/status/2083918540864709013",
+      "images": null,
+      "published": "2026-08-02T14:11:12+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2083827624070234507",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Codepilot 0.63.0 版本更新 现在可以将你用 AI 生成的任何内容加入素材库了 比如 Codex 里用 GPT- Image 2.0 生成的图片和 AI 生成的 HTML 都可以加入素材库了，还能给素材打标签 同时适配了 Deepseek V4 Flash 0731，增加了可选的推理强度 github.com/op7418/CodePilot/…",
+      "url": "https://x.com/op7418/status/2083827624070234507",
+      "images": null,
+      "published": "2026-08-02T08:09:55+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2083764056994017647",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Karpathy去了 Anthropic 以后，第一次发长帖。 他想了一个新的测试，就是摆脱那种靠画“骑着自行车的鹈鹕”之类的测试方式，给了 Opus 5 大概 100 万个 Token 的预算，要求它生成三个渲染版本去讲述《指环王》的故事。然后 Opus 5 给他整了一个 3D 的出来。 不过他提到，这中间确实暴露了一个很大的问题： 在生成这种内容的时候，AI 没有办法很清楚地感知到自己的工作，因为它没办法直接看到内容本身，只能一段一段地去截图，也没办法连续地感知到截图中间的状态。所以，这确实是个问题。 Andrej Karpathy (@karpathy) We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's kind of janky but fun. But it's a bit mindboggling that the LLM has to place and orchestrate various polygon assets in (x,y,z) coordinates and write code that animates it all, and that it even does anything at all. I also like this kind of examples because no one in their right mind would ever spend the time to write something this custom but LLMs have all the stamina and patience in the world, so it's an example where we go from \"no one would ever do this\" to \"sure, why not, it's ~free\". There might be a lot more. But I'm excited about creating hyper custom worlds that you can imagine dropping players into, e.g. here to participate in the LoTR story as a spectator NPC, or one of the characters, or etc. Something like an ephemeral GTA of X on demand. Last thought is that the domain of worlds/games exposes a weakness in LLMs: they can't easily audit their work because they aren't able to efficiently and natively perceive videos or play games within them. Here, Opus 5 had to very slowly and painstakingly take screenshots at different points, and it messed up a few times and created a bunch of jank. An example of raw capability (multimodal, gameplay) that I think is still quite lacking. Video — https://nitter.net/karpathy/status/2083749667410727319#m",
+      "url": "https://x.com/op7418/status/2083764056994017647",
+      "images": null,
+      "published": "2026-08-02T03:57:20+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2083579533391777935",
       "source": "归藏",
@@ -124,23 +226,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2083190834820997168",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "做影视后期、动画特效以及一些转场，MiniMax H3真的太牛逼了！ 我在视频里标注了自己的工作流，包括素材、提示词。 基本上你把特效的图片分镜标注好，用现在的图像模型做好，或者自己把文字等特效层 P 上去，甚至只是给一些参考，它就能帮你做出非常复杂的动特效。 它的文字和 UI 细节、排版细节效果巨好。 我做的两个案例都用了九宫格图片，按理说总分辨率只有 1K 左右，但它生成出来的清晰度极高，完全没有以前那种字迹模糊看不清的状态。 支持全模态参考。而且还会开源，开源后成本会降低。 非常适合用来做广告片、产品宣传片、MV、游戏宣传和电商宣传，或者做个特效来包装自己的照片和视频。这些大家都有强烈的需求。 Video MiniMax (official) (@MiniMax_AI) It's coming. @Hailuo_AI #MiniMaxH3 Video — https://nitter.net/MiniMax_AI/status/2082779062653845803#m",
-      "url": "https://x.com/op7418/status/2083190834820997168",
-      "images": null,
-      "published": "2026-07-31T13:59:33+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2083178640880148509",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -189,57 +274,6 @@
       "url": "https://x.com/op7418/status/2083078178180890662",
       "images": null,
       "published": "2026-07-31T06:31:54+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2083043706429723106",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这种方式我觉得是要比现在主流的无限画布等复杂的交互逻辑，要更容易理解的",
-      "url": "https://x.com/op7418/status/2083043706429723106",
-      "images": null,
-      "published": "2026-07-31T04:14:55+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2083043634635788298",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！ Codex 现在有专门给图像 Agent 做的 UI 模式了： 生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对图片进行评论、擦除和调整大小。这完全是专门给 GPT Image 2.0 做的。 左上角有一个切换按钮，切换以后，聊天流里就只显示图像，不显示那些文案了。 这样你就可以专注于调整图像，快速看到聊天里生成的所有大图。 你可以多选图片，一并添加到输入框里，然后让 GPT 给你进行批量修改。 这个更新感觉要把设计 Agent 的活吃掉一大半了。",
-      "url": "https://x.com/op7418/status/2083043634635788298",
-      "images": null,
-      "published": "2026-07-31T04:14:38+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2083016118315499894",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Seedance 2.5 模型已经给超创开放了内测。 1. 最高支持 30 秒：一次可以生成 30 秒长度的视频 2. 目前最高支持 720P 3. 全能参考：最多一次可以上传 50 张图片，非常离谱",
-      "url": "https://x.com/op7418/status/2083016118315499894",
-      "images": null,
-      "published": "2026-07-31T02:25:17+00:00",
       "hasTranscript": false
     },
     {
@@ -308,23 +342,6 @@
       "url": "https://x.com/benln/status/2082810914936332592",
       "images": null,
       "published": "2026-07-30T12:49:53+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2082770741892890898",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Claude 全线服务都炸了",
-      "url": "https://x.com/op7418/status/2082770741892890898",
-      "images": null,
-      "published": "2026-07-30T10:10:15+00:00",
       "hasTranscript": false
     },
     {
@@ -726,23 +743,6 @@
       "published": "2026-07-26T15:28:23+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2081377170279014701",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Pulled the fastest-growing startups on X by follower growth over last 90 days:",
-      "url": "https://x.com/benln/status/2081377170279014701",
-      "images": null,
-      "published": "2026-07-26T13:52:42+00:00",
-      "hasTranscript": false
     },
     {
       "id": "yt_pPvt-vtyOvo",
