@@ -1,7 +1,92 @@
 {
-  "last_updated": "2026-08-03T02:24:07.519640Z",
+  "last_updated": "2026-08-04T02:04:08.981901Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_Gp4zrV3-6N8",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Waymo Co-CEO Dmitri Dolgov: The Demo Is Only 1% Of The Work",
+      "url": "https://www.youtube.com/watch?v=Gp4zrV3-6N8",
+      "thumbnail": "https://img.youtube.com/vi/Gp4zrV3-6N8/maxresdefault.jpg",
+      "published": "2026-08-03T22:42:52+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2084271314404085855",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor takeovers coming to 24 countries in August 🇨🇦🇮🇩🇦🇷🇹🇭🇲🇦🇮🇳🇺🇸🇿🇲🇰🇪🇿🇦🇦🇴🇪🇨🇧🇷🇻🇳🇪🇹🇸🇻🇨🇷🇨🇱🇷🇼🇵🇱🇦🇹🇬🇹🇵🇦🇨🇭",
+      "url": "https://x.com/benln/status/2084271314404085855",
+      "images": null,
+      "published": "2026-08-03T13:32:59+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2084178368564731996",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "千问 3.8 Max 正式版发布，阿里云也整上重置这套了。 歸藏(guizang.ai) (@op7418) Qwen3.8-Max 正式上了 — https://nitter.net/op7418/status/2084120798646988947#m",
+      "url": "https://x.com/op7418/status/2084178368564731996",
+      "images": null,
+      "published": "2026-08-03T07:23:39+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2084120898429407464",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "MiniMax H3 已经开源 MiniMax (official) (@MiniMax_AI) MiniMax-H3 Is Now Publicly Available huggingface.co/MiniMaxAI/Min… Video — https://nitter.net/MiniMax_AI/status/2084106804032872591#m",
+      "url": "https://x.com/op7418/status/2084120898429407464",
+      "images": null,
+      "published": "2026-08-03T03:35:17+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2084120798646988947",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Qwen3.8-Max 正式上了 Qwen (@Alibaba_Qwen) 📢Meet Qwen3.8-Max — our most capable model to date. Next week, the open weights of Qwen3.8-Max will be released, and Qwen3.8-27B is also going open-weights to meet you all!🎉 Qwen3.8-Max, a new bar for coding and cowork at 2.4T parameters: - Autonomous coding: 10+ days of self-evolving development, from empty folder to production without hand-holding, complete project trace in the GitHub：github.com/qwen-code-dev-bot… - Real work, real results: Production-quality deliverables across hundreds of professions. - Long-horizon mastery: System-level autonomous planning with closed-loop adaptive learning, driving 500+ turns of chip design optimization and 365 days of e-commerce strategy. - Native multimodal intelligence: Vision isn't just input — it's a continuous feedback loop for planning, execution, and self-correction. 💰Pricing: Input: $2.0 / M tokens Output: $6.0 / M tokens Implicit Caching: $0.25 / M tokens Start building with Qwen3.8-Max! 🚀 📖 Blog: qwen.ai/blog?id=qwen3.8 ✅ Qwen Studio: chat.qwen.ai/?models=qwen3.8… ⚡ API: qwencloud.com/models/qwen3.8… — https://nitter.net/Alibaba_Qwen/status/2084100707423289643#m",
+      "url": "https://x.com/op7418/status/2084120798646988947",
+      "images": null,
+      "published": "2026-08-03T03:34:54+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "x_2083958428045820092",
       "source": "归藏",
@@ -209,23 +294,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2083192268148846724",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "V4 Flash 0731已经开源：huggingface.co/deepseek-ai/D… Link deepseek-ai/DeepSeek-V4-Flash-0731 · Hugging Face We’re on a journey to advance and democratize artificial intelligence through open source and open science. huggingface.co",
-      "url": "https://x.com/op7418/status/2083192268148846724",
-      "images": null,
-      "published": "2026-07-31T14:05:15+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2083178640880148509",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -240,40 +308,6 @@
       "url": "https://x.com/benln/status/2083178640880148509",
       "images": null,
       "published": "2026-07-31T13:11:06+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2083088897341542657",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "官方发了 DeepSeek (@deepseek_ai) 🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta! 🔷 We’ve massively upgraded its Agent capabilities—benchmark scores are now far surpassing the V4-Pro-Preview. Check out the massive performance leap below! 👇 🔷 The official V4-Flash now natively supports the Responses API format and is fully adapted for Codex! Check out the configuration details in our official API docs: api-docs.deepseek.com/quick_… — https://nitter.net/deepseek_ai/status/2083084415157022911#m",
-      "url": "https://x.com/op7418/status/2083088897341542657",
-      "images": null,
-      "published": "2026-07-31T07:14:29+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2083078178180890662",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Deepseek V4 Flash 更新到正式版了，Agent 能力大幅提升，超过了 V4 Pro 的 Preview 版本！ 官方测评成绩： Terminal Bench 2.1: 82.7 NL2Repo: 54.2 Cybergym: 76.7 DeepSWE: 54.4 Toolathlon verified: 70.3 Agent Last Exam: 25.2 Automation Bench (Public): 25.1 DSBench-FullStack: 68.7 DSBench-Hard: 59.6 目前已经在官方 API 上线，同时还支持了 Codex 的 API 格式，可以快速配置。 Mac 一键配置脚本：bash <(curl -fsSL cdn.deepseek.com/api-docs/co…) Windows 一键配置脚本：irm cdn.deepseek.com/api-docs/co… | iex DeepSeek-V4-Flash-0731 的模型结构、尺寸和 DeepSeek-V4-Flash-preview 保持一致，仅重新进行了后训练。 详情：api-docs.deepseek.com/zh-cn/…",
-      "url": "https://x.com/op7418/status/2083078178180890662",
-      "images": null,
-      "published": "2026-07-31T06:31:54+00:00",
       "hasTranscript": false
     },
     {
@@ -678,23 +712,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2081737540927631469",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "45+ Cursor team members now in our angel investing group chat. Reach out if you're working on something new, love to share with the group!",
-      "url": "https://x.com/benln/status/2081737540927631469",
-      "images": null,
-      "published": "2026-07-27T13:44:41+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_oXu6JGxW_YM",
       "source": "OpenAI",
       "sourceId": "openai",
@@ -758,23 +775,6 @@
       "url": "https://www.youtube.com/watch?v=pPvt-vtyOvo",
       "thumbnail": "https://img.youtube.com/vi/pPvt-vtyOvo/maxresdefault.jpg",
       "published": "2026-07-25T16:15:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_99sPd15j3Zc",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "What Actually Makes A Startup Durable",
-      "url": "https://www.youtube.com/watch?v=99sPd15j3Zc",
-      "thumbnail": "https://img.youtube.com/vi/99sPd15j3Zc/maxresdefault.jpg",
-      "published": "2026-07-25T14:00:00+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
