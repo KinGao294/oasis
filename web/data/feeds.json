@@ -1,9 +1,26 @@
 {
-  "last_updated": "2025-12-21T00:55:31.275052Z",
-  "count": 80,
+  "last_updated": "2026-04-07T02:01:35.821535Z",
+  "count": 101,
   "items": [
     {
-      "id": "yt_pDC8mIbjRgM",
+      "id": "x_2041332295710462453",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Telegram 这个更新牛蛙 你的机器人可以自主创建和管理其他机器人了，不需要你的审批和操作。 这样你的龙虾或者 Claude Code 就可以帮你创建带有复杂功能的机器人 Pavel Durov (@durov) The monthly Telegram update is out. 🧠 100% private AI Editor for your messages. 🗳 The most powerful polls (+12 new features). 🖼 Support for Live Photos & Motion Photos. 🤖 Ability for [AI] Bots to create [AI] Bots for users — in one tap. 📹 Demos: telegram.org/blog/ai-editor-… — https://nitter.net/durov/status/2040943162663854139#m",
+      "url": "https://x.com/op7418/status/2041332295710462453",
+      "images": null,
+      "published": "2026-04-07T01:48:40+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_uDjL9dRbtLs",
       "source": "a16z",
       "sourceId": "a16z",
       "sourceAvatar": null,
@@ -12,15 +29,48 @@
         "Business",
         "AI"
       ],
-      "title": "How AI Will Transform Fintech In 2026",
-      "url": "https://www.youtube.com/watch?v=pDC8mIbjRgM",
-      "thumbnail": "https://img.youtube.com/vi/pDC8mIbjRgM/maxresdefault.jpg",
-      "published": "2025-12-19T14:01:38+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "2018 2019 in fintech was late spring. You get into 2020 and COVID and that was utter insanity of a of a story. >> Like 25% of all venture dollars in that period went into fintech which is >> Wow. 25%...."
+      "title": "We’re going back to the moon.",
+      "url": "https://www.youtube.com/watch?v=uDjL9dRbtLs",
+      "thumbnail": "https://img.youtube.com/vi/uDjL9dRbtLs/maxresdefault.jpg",
+      "published": "2026-04-06T22:50:57+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
-      "id": "yt_4bJOe2tuLb8",
+      "id": "x_2041205967086333983",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Less than a year later: Ben Lang (@benln) Met a solo founder (no employees) who's on track to hit $25M ARR later this year. 100% organic growth. Started the company less than a year ago. Fully bootstrapped. No plans to raise capital. VC is so broken. — https://nitter.net/benln/status/1906392586601824656#m",
+      "url": "https://x.com/benln/status/2041205967086333983",
+      "images": null,
+      "published": "2026-04-06T17:26:40+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_2g1e1QUiY8s",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "LG Uplus Creates Next Gen AICC",
+      "url": "https://www.youtube.com/watch?v=2g1e1QUiY8s",
+      "thumbnail": "https://img.youtube.com/vi/2g1e1QUiY8s/maxresdefault.jpg",
+      "published": "2026-04-06T15:19:08+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_UE8jx4dvlSQ",
       "source": "a16z",
       "sourceId": "a16z",
       "sourceAvatar": null,
@@ -29,32 +79,15 @@
         "Business",
         "AI"
       ],
-      "title": "Two Futures | Runtime 2025",
-      "url": "https://www.youtube.com/watch?v=4bJOe2tuLb8",
-      "thumbnail": "https://img.youtube.com/vi/4bJOe2tuLb8/maxresdefault.jpg",
-      "published": "2025-12-18T00:25:16+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "all are from dust and all turn to dust again. >> We can create infinite universes. >> This is like the fuel that we need. There's never been a technical project of this complexity and this scale ever...."
+      "title": "OpenClaw, Claude Code, and the Future of Software | Peter Yang on The a16z Show",
+      "url": "https://www.youtube.com/watch?v=UE8jx4dvlSQ",
+      "thumbnail": "https://img.youtube.com/vi/UE8jx4dvlSQ/maxresdefault.jpg",
+      "published": "2026-04-06T14:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
-      "id": "yt_tR6g3zrk7eM",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "“How We Can Eliminate Crime” | Ben Horowitz and Garrett Langley",
-      "url": "https://www.youtube.com/watch?v=tR6g3zrk7eM",
-      "thumbnail": "https://img.youtube.com/vi/tR6g3zrk7eM/maxresdefault.jpg",
-      "published": "2025-12-17T15:45:44+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "If you don't enforce crime, what you end up is with lost generations. >> Yeah. If I woke up in 10 years and all we had done was put a lot of people in prison. It's actually double bad. >> Yeah. Well, ..."
-    },
-    {
-      "id": "yt_pBlIgs6w7Ss",
+      "id": "yt_kkv5rZhrLkc",
       "source": "Y Combinator",
       "sourceId": "yc",
       "sourceAvatar": null,
@@ -63,34 +96,304 @@
         "Business",
         "AI"
       ],
-      "title": "How Intelligent Is AI, Really?",
-      "url": "https://www.youtube.com/watch?v=pBlIgs6w7Ss",
-      "thumbnail": "https://img.youtube.com/vi/pBlIgs6w7Ss/maxresdefault.jpg",
-      "published": "2025-12-17T15:01:40+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "I'm excited today to welcome Greg Camrad who is the president of the Ark Prize. >> That's right. >> Thanks for coming here at Europe's 2025 in beautiful San Diego. >> Thank you, Diana. >> So, what doe..."
+      "title": "BillionToOne Is Solving One of Biotech’s Hardest Problems",
+      "url": "https://www.youtube.com/watch?v=kkv5rZhrLkc",
+      "thumbnail": "https://img.youtube.com/vi/kkv5rZhrLkc/maxresdefault.jpg",
+      "published": "2026-04-06T14:01:12+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
-      "id": "pod_guigu101_pod_5094ed82_ac50_4991_b317_f340493d4d1f",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
+      "id": "x_2041121834049957933",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
       "domains": [
         "AI",
-        "Business",
-        "Global"
+        "Dev"
       ],
-      "title": "E219｜140亿欧元爱马仕股份是怎么消失的？",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5094ed82-ac50-4991-b317-f340493d4d1f.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 4752,
-      "published": "2025-12-17T15:00:00-08:00",
-      "hasTranscript": false,
-      "transcriptPreview": "12月初，爱马仕的第五代继承人之一尼古拉斯·皮埃奇，将LVMH告上了法庭，理由是对方夺走了自己价值140亿欧元的600万股爱马仕股份。 整个案件起源于皮埃奇的两个身边人：他的40年好友兼私人财富顾问，以及他最近爱到视如己出的一位摩洛哥园丁。 事情的背后却牵涉到了奢侈品行业的一场世纪收购大战：2010年10月，LVMH突然宣布它已经获得了爱马仕接近20%的股份，爱马仕家族则团结了52名家族成员，聚集"
+      "title": null,
+      "content": "We're booking out a cafe on April 13th in Istanbul Grab coffee & Cursor credits, meet the team, and build",
+      "url": "https://x.com/benln/status/2041121834049957933",
+      "images": null,
+      "published": "2026-04-06T11:52:22+00:00",
+      "hasTranscript": false
     },
     {
-      "id": "yt_DPBtd57p5Mg",
+      "id": "x_2040981766991949870",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "现在做内容真的方便。 以前更新网页还得有个什么后台之类的东西。 现在我直接把这个网页数据更新做成了一个 skill 。 我在外面通过飞书连接我的 CodePilot。直接就能更新网站的数据和新闻。 歸藏(guizang.ai) (@op7418) 重新搞了一下网站，不然每年这个 .ai 域名太贵了，不用的话有点浪费 — https://nitter.net/op7418/status/2040813070516359503#m",
+      "url": "https://x.com/op7418/status/2040981766991949870",
+      "images": null,
+      "published": "2026-04-06T02:35:47+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040977451254493399",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "接下来 Codepilot 也要准备脱离 Claude Code 了 同时上个版本给所有的服务商都加上了 Codeplan 的获取链接 你现在可以直接在 Codepilot 跳转购买各家 Codeplan 了 歸藏(guizang.ai) (@op7418) Anthropic 又有新的损招了。 龙虾的作者 Peter 发现了一件事，就是你如果用的是 Claude Code 或者是其他官方的 Anthropic 工具。 但是你一旦更改了系统提示词，比如出现了 Openclaw，那么就会拒绝你的请求，返回400这个报错。 感觉这是Claude Code泄露之后的一个补丁。 你现在拿泄露的Claude Code重新打包了一个自己的Claude Code，如果你改了system prompt，也有可能出现这种问题。 现在他们的控制欲有点太强了。 我花了钱，你管我怎么用呢，对吧？ 哪怕是在你官方的产品里用，现在你都得管。 — https://nitter.net/op7418/status/2040976831038525872#m",
+      "url": "https://x.com/op7418/status/2040977451254493399",
+      "images": null,
+      "published": "2026-04-06T02:18:38+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040976831038525872",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Anthropic 又有新的损招了。 龙虾的作者 Peter 发现了一件事，就是你如果用的是 Claude Code 或者是其他官方的 Anthropic 工具。 但是你一旦更改了系统提示词，比如出现了 Openclaw，那么就会拒绝你的请求，返回400这个报错。 感觉这是Claude Code泄露之后的一个补丁。 你现在拿泄露的Claude Code重新打包了一个自己的Claude Code，如果你改了system prompt，也有可能出现这种问题。 现在他们的控制欲有点太强了。 我花了钱，你管我怎么用呢，对吧？ 哪怕是在你官方的产品里用，现在你都得管。 歸藏(guizang.ai) (@op7418) 早上起来时间线上都在骂。 Anthropic 宣布说，不能用 Claude 账户中的额度使用 OpenClaw 这种三方的产品了。 他们会送你一个月的额度进行过渡，之后就得购买单独额度。 关于 Claude Code 的额度消耗异常问题，昨天也回复了，意思是不存在问题。 真太傻逼了，当大家傻子。 与此同时，Codex 不语，只是一味地重置额度。 — https://nitter.net/op7418/status/2040245390814085270#m",
+      "url": "https://x.com/op7418/status/2040976831038525872",
+      "images": null,
+      "published": "2026-04-06T02:16:10+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040840257688531235",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Adding: Baseten, Wabi, Sully AI, PostHog, QuiverAI, Wonderful, Replit, AngelList, Slash, Fleet AI, Keycard, Windmill, Boardy, Distyl AI, Peec AI Span, LangChain, HAQQ, Photon, Phoebe, Clearspace, Redo, Remi Ben Lang (@benln) Startups best known for hiring former founders: Cursor, Notion, Rippling, Applied Intuition, Supabase, Ramp, Exa, Chroma, Corgi, Lovable, Mintlify, Browserbase, Instawork Who else? Refreshing my shortlist. — https://nitter.net/benln/status/2040090366213325277#m",
+      "url": "https://x.com/benln/status/2040840257688531235",
+      "images": null,
+      "published": "2026-04-05T17:13:29+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040813070516359503",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "重新搞了一下网站，不然每年这个 .ai 域名太贵了，不用的话有点浪费",
+      "url": "https://x.com/op7418/status/2040813070516359503",
+      "images": null,
+      "published": "2026-04-05T15:25:27+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040780285088841996",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Cannes",
+      "url": "https://x.com/benln/status/2040780285088841996",
+      "images": null,
+      "published": "2026-04-05T13:15:10+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040471456820408449",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "karpathy 针对他这个 AI 知识库方案给了个更详细的版本 gist.github.com/karpathy/442… 歸藏(guizang.ai) (@op7418) Karpathy 分享了他如何构建本地的 AI 知识库 跟我用的方法也很相似，但还是有很多可以借鉴的地方，推荐看看。 都是用的 Obsidian，纯本地 MD，然后用一些反向链接、索引的方式把它们连起来。 他构建了一个用大语言模型驱动的个人 Wiki 知识库，然后把原始资料都丢进一个叫 RAW 的目录。 然后让大语言模型把这些原始资料编译成一个 Markdown Wiki，实现以下功能：自动创建摘要、创建索引、创建概念条目、添加相互链接、生成可视化等等。 我是在内容收集的时候就已经做好了，用的是 Obsidian 的那个剪藏插件。 在收集内容的时候，AI 就会自动进行以下处理：打标签、自动总结、翻译、创建摘要，目前就是还没有反向链接。 然后它的 Wiki 构建好以后，就可以在这个 Wiki 上提问，确保数据来源的可置信度。 比如说大语言模型会自己查索引、读相关的文档，写出回答或者报告，不只是在网页上搜。这样的话，它获取的信息基本上都是跟你相关的。 然后它的输出也尽量不是一句话，而是新的文件、新的可视化网页或者是 PPT，然后再回归到知识库里，让知识库越用越厚。 但这个会造成一个问题，就是 Obsidian 的作者也说了，这会污染知识库。所以最好把可靠性来源和 AI 生成的东西分开放。 还有一个比较好的点是，它会让大模型对 Wiki 做健康度检查。比如：找一些自相矛盾的地方、补发一些缺失的信息、发现一些新的关联、提高一致性。 其实现在很多人都是这样做的，我也把这套理念放到了 CodePilot 里。 关于助理文件夹的选择，我一般建议使用 Obsidian 文件夹。 如果你有自己的 Obsidian 文件夹，进去以后 AI 就会直接获取你所有的上下文和知识。 比如这里我就让他从我的 Obsidian 文件夹和网络同时找了一些关于 AI 时代的 UI 设计原则的文章，质量非常高。 这样一来，你直接就能获得一个拥有完整记忆的 AI 助理。 如果你不知道怎么实践的话，推荐用 Codepilot 的助理试试。 把你的 Obsidian 文件夹放进去，让它帮你整理，同时让它把这些原则写到 Claude.md 里面。 — https://nitter.net/op7418/status/2039898050697839041#m",
+      "url": "https://x.com/op7418/status/2040471456820408449",
+      "images": null,
+      "published": "2026-04-04T16:48:00+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040245390814085270",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "早上起来时间线上都在骂。 Anthropic 宣布说，不能用 Claude 账户中的额度使用 OpenClaw 这种三方的产品了。 他们会送你一个月的额度进行过渡，之后就得购买单独额度。 关于 Claude Code 的额度消耗异常问题，昨天也回复了，意思是不存在问题。 真太傻逼了，当大家傻子。 与此同时，Codex 不语，只是一味地重置额度。 Boris Cherny (@bcherny) Starting tomorrow at 12pm PT, Claude subscriptions will no longer cover usage on third-party tools like OpenClaw. You can still use these tools with your Claude login via extra usage bundles (now available at a discount), or with a Claude API key. — https://nitter.net/bcherny/status/2040206440556826908#m",
+      "url": "https://x.com/op7418/status/2040245390814085270",
+      "images": null,
+      "published": "2026-04-04T01:49:41+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040105430740013311",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这里尝试：github.com/op7418/CodePilot/…",
+      "url": "https://x.com/op7418/status/2040105430740013311",
+      "images": null,
+      "published": "2026-04-03T16:33:32+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040105334833062293",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "可以在 Codepilot 爽用谷歌新的本地模型 Gamma 4 了！ Codepilot 0.46.0 更新了 Ollama 本地模型的接入 启动 Ollama 安装 Gemma 4 就可以在 Codepilot 里面爽用了 但是在终端里很快，然后传输到 Claude Code 就很慢，不知道 Ollama 这个里边是不是有一些问题。 歸藏(guizang.ai) (@op7418) 谷歌昨天发布了 Gemma 4，这次非常牛逼！ 专门用来在本地设备（比如手机、电脑）上跑，而且支持了 agent 和工具使用。 四个参数大小： E2B：主打手机 / IoT / 边缘设备。 E4B：为移动端 + Jetson / 树莓派设计。 26B MoE：单次激活 3.8B，有效参数很小，主打高 TPS、低延迟。 31B Dense：全密集 31B，主打桌面工作站 / 单卡 H100 等。 这次他们把 Agency Workflows 的支持作为第一优先级：原生支持 Function Call、JSON 和结构化输出、System Instruction 更强的是这玩意还是原生多模态模型，支持：图像和视频理解，语音转文本，可以做本地语音助手。 而且它们这次是真正的 Apache 2.0 开源，允许商用、再分发和内嵌产品，以及私有部署，没有额外条款。 — https://nitter.net/op7418/status/2039890169512472793#m",
+      "url": "https://x.com/op7418/status/2040105334833062293",
+      "images": null,
+      "published": "2026-04-03T16:33:09+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040090366213325277",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Startups best known for hiring former founders: Cursor, Notion, Rippling, Applied Intuition, Supabase, Ramp, Exa, Chroma, Corgi, Lovable, Mintlify, Browserbase, Instawork Who else? Refreshing my shortlist.",
+      "url": "https://x.com/benln/status/2040090366213325277",
+      "images": null,
+      "published": "2026-04-03T15:33:41+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2040041853106393327",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Ho Chi Minh City",
+      "url": "https://x.com/benln/status/2040041853106393327",
+      "images": null,
+      "published": "2026-04-03T12:20:54+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2039991323252723945",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "阿里昨天发布了 Qwen 3.6 Plus 模型 重点是 Agent 和编码能力有非常大的提升！ 最近也是很高产：先是 3.5 Omni、万相2.7、然后就是Qwen 3.6 Plus，而且好像马上 Max 也要发布。 在关于开发和 Agent 的一些测评上，现在 3.6 Plus 的模型相较于 3.5 有显著的提升。 Qwen 3.6 Plus 在图像和文件理解上的能力也获得了加强。 比如在以下方面的表现都非常好：数学图像识别体验、通用的 VQA 真实世界问答、OCR 能力。这也是 Qwen 之前比较强的地方。 更强的是，这次默认支持了 100 万上下文。最长输出接近 991K，输入是 64K。 100 万上下文的表现还是很顶的。在开发体验上，比原来的 256 要强非常多。 价格上，Qwen 3.6 Plus 的输入是 2 元 / 百万 Token，输出是 12 元 / 百万 Token。 此外，有些工具（比如网页抽取等）目前还是限时免费的。 现在已经在百炼上线了。后面那个阿里系的qoder、悟空啊都会上，希望他们能快点上一下 code plan 吧。 如果不太确定质量的话，也可以去 OpenRouter 那边免费体验一下，看看效果 Qwen (@Alibaba_Qwen) （1/8）🚀 Introducing Qwen3.6-Plus: Towards Real-World Agents! 🤖 Today, we’re thrilled to drop a major milestone in our journey toward native multimodal agents. Here is what makes Qwen3.6-Plus a game-changer： 💻 Next-level Agentic Coding: Smarter, faster execution. 👁️ Enhanced Multimodal Vision: Sharper perception & reasoning. 🏆 Top-tier Performance: Maintaining leading general capabilities. 📚 1M Context Window: Available by default via our API. Built on your invaluable feedback from the Qwen3.5 era, we’re laying a rock-solid foundation for real-world devs. Get ready to experience truly transformative ✨ Vibe Coding ✨. Huge thanks to our community! Go try it out and show us what you can build. 👇 Chat: chat.qwen.ai/ API: modelstudio.console.alibabac… Blog: qwen.ai/blog?id=qwen3.6 🔔Noted：More Qwen3.6 models to come and be open-sourced! Stay tuned~ 👀#Qwen #AI #AgenticCoding #VibeCoding #Agents — https://nitter.net/Alibaba_Qwen/status/2039705104723611829#m",
+      "url": "https://x.com/op7418/status/2039991323252723945",
+      "images": null,
+      "published": "2026-04-03T09:00:07+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2039771322637517060",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Huge launch from the Cursor team today: Cursor (@cursor_ai) We’re introducing Cursor 3. It is simpler, more powerful, and built for a world where all code is written by agents, while keeping the depth of a development environment. Video — https://nitter.net/cursor_ai/status/2039768512894505086#m",
+      "url": "https://x.com/benln/status/2039771322637517060",
+      "images": null,
+      "published": "2026-04-02T18:25:55+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_0_NGsljlo3o",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "How Bots, Deepfakes and AI Agents Are Forcing a New Internet Identity Layer | Alex Blania on a16z",
+      "url": "https://www.youtube.com/watch?v=0_NGsljlo3o",
+      "thumbnail": "https://img.youtube.com/vi/0_NGsljlo3o/maxresdefault.jpg",
+      "published": "2026-04-02T16:26:55+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_xWHugpfvzjg",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "This AI made me $2,345 in 24 hours",
+      "url": "https://www.youtube.com/watch?v=xWHugpfvzjg",
+      "thumbnail": "https://img.youtube.com/vi/xWHugpfvzjg/maxresdefault.jpg",
+      "published": "2026-04-02T13:41:31+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_yNNTLllVbiE",
       "source": "OpenAI",
       "sourceId": "openai",
       "sourceAvatar": null,
@@ -98,15 +401,48 @@
       "domains": [
         "AI"
       ],
-      "title": "ChatGPT Images",
-      "url": "https://www.youtube.com/watch?v=DPBtd57p5Mg",
-      "thumbnail": "https://img.youtube.com/vi/DPBtd57p5Mg/maxresdefault.jpg",
-      "published": "2025-12-16T18:13:34+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "reflecting all the angry skies. Soft and fragile body left here on the wet. Still float fresh from the boat. Arms and neck plus regrets. Arms and neck plus breathing. No more flow under the skin becom..."
+      "title": "OpenAl x Gradient Labs Founder Spotlight",
+      "url": "https://www.youtube.com/watch?v=yNNTLllVbiE",
+      "thumbnail": "https://img.youtube.com/vi/yNNTLllVbiE/maxresdefault.jpg",
+      "published": "2026-04-01T21:12:13+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
-      "id": "yt_gA0nwBndJ6w",
+      "id": "yt_ZXEAuZOSLs0",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "What Codex Unlocks for Ramp",
+      "url": "https://www.youtube.com/watch?v=ZXEAuZOSLs0",
+      "thumbnail": "https://img.youtube.com/vi/ZXEAuZOSLs0/maxresdefault.jpg",
+      "published": "2026-04-01T20:21:48+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2039355570113655191",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "One company is not like the rest",
+      "url": "https://x.com/benln/status/2039355570113655191",
+      "images": null,
+      "published": "2026-04-01T14:53:51+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_krdrkl38nRw",
       "source": "a16z",
       "sourceId": "a16z",
       "sourceAvatar": null,
@@ -115,32 +451,66 @@
         "Business",
         "AI"
       ],
-      "title": "Robinhood CEO Vlad Tenev on Org Structure",
-      "url": "https://www.youtube.com/watch?v=gA0nwBndJ6w",
-      "thumbnail": "https://img.youtube.com/vi/gA0nwBndJ6w/maxresdefault.jpg",
-      "published": "2025-12-16T15:01:28+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "If you're an individual contributor and you're doing [music] work, it's very nice to know that your manager is going through more pain than you. If you're a senior leader or an executive, you're 5 day..."
+      "title": "How to Reorg After AI Changes Everything | Block's Owen Jennings on the a16z Show",
+      "url": "https://www.youtube.com/watch?v=krdrkl38nRw",
+      "thumbnail": "https://img.youtube.com/vi/krdrkl38nRw/maxresdefault.jpg",
+      "published": "2026-04-01T14:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
-      "id": "yt_JUAj9o6xCwg",
-      "source": "a16z",
-      "sourceId": "a16z",
+      "id": "x_2039322958271795595",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
       "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Remaining cities with most demand for Cafe Cursor: • Amsterdam • Delhi • Hyderabad • Pune • Munich • Los Angeles • Chicago • Seoul • Rio • Austin • Seattle • Stockholm Stay tuned!",
+      "url": "https://x.com/benln/status/2039322958271795595",
+      "images": null,
+      "published": "2026-04-01T12:44:16+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_CkEse6MmGFk",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
       "platform": "youtube",
       "domains": [
-        "Business",
-        "AI"
+        "AI",
+        "Dev"
       ],
-      "title": "The Renaissance of the American Factory | a16z 2026 Big Ideas",
-      "url": "https://www.youtube.com/watch?v=JUAj9o6xCwg",
-      "thumbnail": "https://img.youtube.com/vi/JUAj9o6xCwg/maxresdefault.jpg",
-      "published": "2025-12-15T16:47:22+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "My big idea for 2026 is the renaissance [music] of the American factory. I think next year we'll see companies approach challenges from energy to mining to construction [music] to manufacturing with a..."
+      "title": "i gave chatgpt $2,000 to trade stocks for 24 hours",
+      "url": "https://www.youtube.com/watch?v=CkEse6MmGFk",
+      "thumbnail": "https://img.youtube.com/vi/CkEse6MmGFk/maxresdefault.jpg",
+      "published": "2026-04-01T09:21:53+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
-      "id": "pod_guigu101_pod_f9859b6e_bcc3_4141_a783_4bd063a68768",
+      "id": "x_2039069148358017139",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Startups that have done tender offers for employees recently: • Decagon • Stripe • Clay • Plaid • Vast Data • Ripple",
+      "url": "https://x.com/benln/status/2039069148358017139",
+      "images": null,
+      "published": "2026-03-31T19:55:43+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "pod_guigu101_pod_0f4a2ab9_d3a0_41ad_8db1_6c03c851bd70",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
       "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
@@ -150,16 +520,98 @@
         "Business",
         "Global"
       ],
-      "title": "E218｜Netflix与派拉蒙竞购华纳兄弟，好莱坞的洗牌时刻？",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f9859b6e-bcc3-4141-a783-4bd063a68768.mp3",
+      "title": "E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70.mp3",
       "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 3223,
-      "published": "2025-12-14T15:45:00-08:00",
+      "duration": 3561,
+      "published": "2026-03-31T17:00:00-07:00",
       "hasTranscript": false,
-      "transcriptPreview": "关注Netflix历史的人都知道，这是一个几乎不参与大型收购的科技公司，而它却突然出手，提出高价收购华纳兄弟探索集团（WBD）这样一家体积庞大、历史悠久的传奇制片厂，究竟是要拯救它，还是毁了它？ 本期节目为《硅谷101》与《美轮美换》《去现场》串台节目，我们邀请到了两位资深媒体人小华和杨一，共同分析这场戏剧性的收购。我们录制的时间是12月7日，也就是派拉蒙提出敌意收购前一天。所以我们大部分的讨论，"
+      "transcriptPreview": "“龙虾热”正在退潮，但它带来的创新冲击还在持续——当它与行业know-how相结合，正在迸发出新的能量。 阿里国际站有着26年的B2B数据和经验积累，今年初，OpenClaw、Cowork这些工作范式被验证，让他们看到了打通B2B闭环的智能体，终于到了可以落地的临界点。 于是春节之后，“外贸版龙虾”Accio Work来了，海外用户只需要和这个Agent对话，它就能自主跑完从市场分析、选品设计、供"
     },
     {
-      "id": "yt_oLAJFeQt3Z0",
+      "id": "yt_JF6XIixstmQ",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "This Startup Catches Fraud at Scale",
+      "url": "https://www.youtube.com/watch?v=JF6XIixstmQ",
+      "thumbnail": "https://img.youtube.com/vi/JF6XIixstmQ/maxresdefault.jpg",
+      "published": "2026-03-31T16:00:18+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_Afp90LAaXNw",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "\" It is very possible that the first people to live to a thousand are alive right now.\"",
+      "url": "https://www.youtube.com/watch?v=Afp90LAaXNw",
+      "thumbnail": "https://img.youtube.com/vi/Afp90LAaXNw/maxresdefault.jpg",
+      "published": "2026-03-30T17:26:44+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_th8u0bqYsQk",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Find the perfect gift by shopping with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=th8u0bqYsQk",
+      "thumbnail": "https://img.youtube.com/vi/th8u0bqYsQk/maxresdefault.jpg",
+      "published": "2026-03-27T20:55:13+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_jM1oSEXssOE",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Design your dream room by shopping with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=jM1oSEXssOE",
+      "thumbnail": "https://img.youtube.com/vi/jM1oSEXssOE/maxresdefault.jpg",
+      "published": "2026-03-27T17:27:04+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_7IB1KBVm7HE",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Shopping in ChatGPT just got a whole lot more helpful",
+      "url": "https://www.youtube.com/watch?v=7IB1KBVm7HE",
+      "thumbnail": "https://img.youtube.com/vi/7IB1KBVm7HE/maxresdefault.jpg",
+      "published": "2026-03-27T17:12:13+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_YAyYCdCkwo4",
       "source": "a16z",
       "sourceId": "a16z",
       "sourceAvatar": null,
@@ -168,12 +620,733 @@
         "Business",
         "AI"
       ],
-      "title": "Marc Andreessen: \"Be so good they can't ignore you\"",
-      "url": "https://www.youtube.com/watch?v=oLAJFeQt3Z0",
-      "thumbnail": "https://img.youtube.com/vi/oLAJFeQt3Z0/maxresdefault.jpg",
-      "published": "2025-12-13T17:01:26+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "be so good they can't ignore you. That remains the best advice I think which is just like quality shows. >> The thing that you want from your venture firm is power. You need the ability to be able to ..."
+      "title": "Tesla and SpaceX Alumni on Elon Musk, Decision Velocity, and the Future of Hard Tech | a16z",
+      "url": "https://www.youtube.com/watch?v=YAyYCdCkwo4",
+      "thumbnail": "https://img.youtube.com/vi/YAyYCdCkwo4/maxresdefault.jpg",
+      "published": "2026-03-27T14:30:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_k2ZLQC8P7dc",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "François Chollet: Why Scaling Alone Isn’t Enough for AGI",
+      "url": "https://www.youtube.com/watch?v=k2ZLQC8P7dc",
+      "thumbnail": "https://img.youtube.com/vi/k2ZLQC8P7dc/maxresdefault.jpg",
+      "published": "2026-03-27T14:00:55+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_fFboNpWweyE",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "ChatGPT Shopping | Research and compare products without all the tabs.",
+      "url": "https://www.youtube.com/watch?v=fFboNpWweyE",
+      "thumbnail": "https://img.youtube.com/vi/fFboNpWweyE/maxresdefault.jpg",
+      "published": "2026-03-26T20:31:28+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_yUjfp2DlfCA",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "What Codex Unlocks for Ryan Hendler, dev at me&u",
+      "url": "https://www.youtube.com/watch?v=yUjfp2DlfCA",
+      "thumbnail": "https://img.youtube.com/vi/yUjfp2DlfCA/maxresdefault.jpg",
+      "published": "2026-03-26T17:18:07+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_4_P7R8Fjrg8",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "What Codex Unlocks for Ryan Hendler, dev at me&u",
+      "url": "https://www.youtube.com/watch?v=4_P7R8Fjrg8",
+      "thumbnail": "https://img.youtube.com/vi/4_P7R8Fjrg8/maxresdefault.jpg",
+      "published": "2026-03-26T17:07:55+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_UncP_NShij4",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Differences Between The Leading AI Models",
+      "url": "https://www.youtube.com/watch?v=UncP_NShij4",
+      "thumbnail": "https://img.youtube.com/vi/UncP_NShij4/maxresdefault.jpg",
+      "published": "2026-03-26T16:04:39+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_L0e9yTxnzvw",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Marc Andreessen was tech support for Mosaic.",
+      "url": "https://www.youtube.com/watch?v=L0e9yTxnzvw",
+      "thumbnail": "https://img.youtube.com/vi/L0e9yTxnzvw/maxresdefault.jpg",
+      "published": "2026-03-25T20:00:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_d97446f1_d6e3_4894_89d1_dca0a362b10b",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/d97446f1-d6e3-4894-89d1-dca0a362b10b.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 3981,
+      "published": "2026-03-25T17:00:00-07:00",
+      "hasTranscript": false,
+      "transcriptPreview": "本期播客是硅谷101在GTC 2026大会期间的线下特别录制，我们从老黄在Keynote上抛出的那几个大数字开始聊起： 1万亿——这是黄仁勋预期到2027年底，Blackwell和Vera Rubin两个平台带来的订单收入。 7块——这是大会一次性发布的Vera Rubin新芯片数量。 10倍、35倍——这是Vera Rubin NVL72 AI机架系统，相比Blackwell，它的推理效率提升了"
+    },
+    {
+      "id": "yt_H8GMRxG8suw",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Episode 15 - Inside the Model Spec",
+      "url": "https://www.youtube.com/watch?v=H8GMRxG8suw",
+      "thumbnail": "https://img.youtube.com/vi/H8GMRxG8suw/maxresdefault.jpg",
+      "published": "2026-03-25T16:55:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_ZA4IrqIyfzQ",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Why Palmer Luckey wears Hawaiian Shirts.",
+      "url": "https://www.youtube.com/watch?v=ZA4IrqIyfzQ",
+      "thumbnail": "https://img.youtube.com/vi/ZA4IrqIyfzQ/maxresdefault.jpg",
+      "published": "2026-03-24T20:00:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_jHECsr9GCs8",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Inside The $100M Bet on the Future of Space | Northwood CEO on a16z",
+      "url": "https://www.youtube.com/watch?v=jHECsr9GCs8",
+      "thumbnail": "https://img.youtube.com/vi/jHECsr9GCs8/maxresdefault.jpg",
+      "published": "2026-03-23T20:00:13+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_LonGTLDD9Qo",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Elon Musk in 2007.",
+      "url": "https://www.youtube.com/watch?v=LonGTLDD9Qo",
+      "thumbnail": "https://img.youtube.com/vi/LonGTLDD9Qo/maxresdefault.jpg",
+      "published": "2026-03-23T20:00:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_vif8NQcjVf0",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
+      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
+      "thumbnail": "https://img.youtube.com/vi/vif8NQcjVf0/maxresdefault.jpg",
+      "published": "2026-03-23T16:24:14+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_g8Zs12L2kVU",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Let an AI Run My Life for 50 Days",
+      "url": "https://www.youtube.com/watch?v=g8Zs12L2kVU",
+      "thumbnail": "https://img.youtube.com/vi/g8Zs12L2kVU/maxresdefault.jpg",
+      "published": "2026-03-23T15:03:34+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_d8tHo1sRQGA",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The greatest ideas are often misunderstood.",
+      "url": "https://www.youtube.com/watch?v=d8tHo1sRQGA",
+      "thumbnail": "https://img.youtube.com/vi/d8tHo1sRQGA/maxresdefault.jpg",
+      "published": "2026-03-20T20:00:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_PCypBUVhff8",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Inside The Startup Reinventing The $6 Trillion Chemical Manufacturing Industry",
+      "url": "https://www.youtube.com/watch?v=PCypBUVhff8",
+      "thumbnail": "https://img.youtube.com/vi/PCypBUVhff8/maxresdefault.jpg",
+      "published": "2026-03-20T13:01:00+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_c457ca43_1305_44a3_b9cc_c68480802396",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E229｜从手工作坊到全球第一：中国动力电池逆袭史",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c457ca43-1305-44a3-b9cc-c68480802396.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 3897,
+      "published": "2026-03-19T17:00:00-07:00",
+      "hasTranscript": false,
+      "transcriptPreview": "这几年，如果说全球制造业里，有哪个故事最值得被重新讲一遍，那一定是动力电池。 中国在动力电池产业链中，建立了极强的优势。当欧洲电池巨头Northvolt破产，日韩也不再具备领先地位，很多人会问：为什么很多原始技术并非源自中国，但最后却是中国把它做成了最完整、强势的产业？这背后到底是政策红利、市场规模，还是极致的工程能力在起作用 ？ 这一期节目，我们邀请了材料学博士、TDK Ventures 投资人"
+    },
+    {
+      "id": "yt__9SlOm6HHvg",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "This Is The Holy Grail Of AI",
+      "url": "https://www.youtube.com/watch?v=_9SlOm6HHvg",
+      "thumbnail": "https://img.youtube.com/vi/_9SlOm6HHvg/maxresdefault.jpg",
+      "published": "2026-03-17T17:28:48+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_8SVocWnDHwE",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "AI Is Unlocking Millions Of New Builders",
+      "url": "https://www.youtube.com/watch?v=8SVocWnDHwE",
+      "thumbnail": "https://img.youtube.com/vi/8SVocWnDHwE/maxresdefault.jpg",
+      "published": "2026-03-16T13:00:14+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_jjXuP89i5T0",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Startup School is coming to India! 🇮🇳",
+      "url": "https://www.youtube.com/watch?v=jjXuP89i5T0",
+      "thumbnail": "https://img.youtube.com/vi/jjXuP89i5T0/maxresdefault.jpg",
+      "published": "2026-03-13T03:05:10+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_fd17090c_0d72_4c0d_aa3e_9b00bc062149",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E228｜谷歌TPU能撼动英伟达吗？前TPU工程师首次揭秘",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/fd17090c-0d72-4c0d-aa3e-9b00bc062149.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 4006,
+      "published": "2026-03-12T17:00:00-07:00",
+      "hasTranscript": false,
+      "transcriptPreview": "在AI算力争霸时代，英伟达凭借GPU市值一路狂飙。但如今，它的蛋糕正在被一点点分食——2024年，苹果论文披露Apple Intelligence全部由TPU训练；2025年，Anthropic签下数十亿美元订单，购买TPU训练Claude；近期，Meta与谷歌签署数十亿美元协议，租用TPU跑Llama。 TPU一直是谷歌低调的“自家武器”，在过去十年里驱动着几乎全部核心产品。直到TPU训练的Ge"
+    },
+    {
+      "id": "yt_H9rF1CSSh-w",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
+      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
+      "thumbnail": "https://img.youtube.com/vi/H9rF1CSSh-w/maxresdefault.jpg",
+      "published": "2026-03-11T20:21:39+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_5gspRJVp9dI",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Future Of Brain-Computer Interfaces",
+      "url": "https://www.youtube.com/watch?v=5gspRJVp9dI",
+      "thumbnail": "https://img.youtube.com/vi/5gspRJVp9dI/maxresdefault.jpg",
+      "published": "2026-03-09T14:00:08+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_f14f8686_a6e2_47ea_92c1_ca7e71199f67",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f14f8686-a6e2-47ea-92c1-ca7e71199f67.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 3579,
+      "published": "2026-03-03T16:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "每周，有超过2.3亿人在ChatGPT上询问健康和保健问题。在人类创造的所有数据中，有30%来自医疗领域，但其中真正被利用起来的，不足5%。 一边是巨大的数据金矿，一边是与未被满足的庞大需求，这正是AI的机会。 在年初的摩根大通医疗健康大会上，我们看到医疗与AI正在加速“双向奔赴”。礼来制药与英伟达达成10亿美元合作，试图用算力重塑药物发现的底层范式；在OpenAI发布ChatGPT for He"
+    },
+    {
+      "id": "yt_SHlrUAkkWI0",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
+      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
+      "thumbnail": "https://img.youtube.com/vi/SHlrUAkkWI0/maxresdefault.jpg",
+      "published": "2026-03-03T12:30:21+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_1SJiTwbSI58",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Rick Beato: Greatest Guitarists of All Time, History & Future of Music | Lex Fridman Podcast #492",
+      "url": "https://www.youtube.com/watch?v=1SJiTwbSI58",
+      "thumbnail": "https://img.youtube.com/vi/1SJiTwbSI58/maxresdefault.jpg",
+      "published": "2026-03-01T03:37:44+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_Erxh0dx4nts",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "This AI Taught Me Calculus in 5 Minutes",
+      "url": "https://www.youtube.com/watch?v=Erxh0dx4nts",
+      "thumbnail": "https://img.youtube.com/vi/Erxh0dx4nts/maxresdefault.jpg",
+      "published": "2026-02-27T11:41:37+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_KGVpKPNUdzA",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
+      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
+      "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
+      "published": "2026-02-25T22:36:32+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_7abda28b_99c6_4ebc_8c0d_37bcc77f6a73",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/7abda28b-99c6-4ebc-8c0d-37bcc77f6a73.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 4394,
+      "published": "2026-02-25T16:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "他是霍金口中“地球上最聪明的人之一”，4岁下国际象棋，13岁获大师称号，却在一场对弈中突然顿悟，转身奔向人工智能。 他是DeepMind创始人，AlphaGo、AlphaFold背后的大脑，2024年诺贝尔化学奖得主。他也是那个因执念于强化学习险些错失大语言模型时代，又率领谷歌Gemini逆袭，成功回到牌桌的“孤傲天才”。 我们想聊聊哈萨比斯，不仅因为他的天才传奇，更想了解：发明终极技术的那一小撮"
+    },
+    {
+      "id": "yt_2o76-z12Ttk",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "The Internet is 50% Fake. I Built a Detector.",
+      "url": "https://www.youtube.com/watch?v=2o76-z12Ttk",
+      "thumbnail": "https://img.youtube.com/vi/2o76-z12Ttk/maxresdefault.jpg",
+      "published": "2026-02-18T12:10:20+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_EOIlGekiMsQ",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "史上最大規模的封閉實驗，第二個“大自然” | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=EOIlGekiMsQ",
+      "thumbnail": "https://img.youtube.com/vi/EOIlGekiMsQ/maxresdefault.jpg",
+      "published": "2026-02-17T13:30:22+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_3b3e676b_f0cb_4a11_a9c1_c3bda3b47816",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E225｜SaaS业数千亿市值蒸发：AI如何变革组织架构？",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/3b3e676b-f0cb-4a11-a9c1-c3bda3b47816.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 3348,
+      "published": "2026-02-13T16:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "本节目由百融云创赞助播出 2026年2月的第一周，全球软件行业经历了一场如“葬礼”般的信仰地震。随着Anthropic基于Claude Cowork平台，发布了11款覆盖法律、金融、销售等核心业务的职能插件，全球软件板块市值，在短短一周内蒸发了数千亿美元。华尔街的交易员们直言：SaaS的末日到了。 这不仅是股价的波动，更是生存模式的更迭。当“按人头卖坐席”的万亿帝国，在AI Agent面前显得摇摇"
+    },
+    {
+      "id": "yt_YFjfBk8HI5o",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
+      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
+      "thumbnail": "https://img.youtube.com/vi/YFjfBk8HI5o/maxresdefault.jpg",
+      "published": "2026-02-12T03:07:03+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_r0uij_l32to",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Hired 5 AI Employees for $0 (Here's What Happened)",
+      "url": "https://www.youtube.com/watch?v=r0uij_l32to",
+      "thumbnail": "https://img.youtube.com/vi/r0uij_l32to/maxresdefault.jpg",
+      "published": "2026-02-11T14:43:36+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "pod_guigu101_pod_a3db99dd_ae7e_4934_9902_73782ecf9053",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E224｜深度拆解Clawdbot，为何它能成为2026年第一个现象级产品？",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/a3db99dd-ae7e-4934-9902-73782ecf9053.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 4780,
+      "published": "2026-02-03T16:00:00-08:00",
+      "hasTranscript": false,
+      "transcriptPreview": "AI正在冲出浏览器，走向了接管电脑权限、主动为人打工的新阶段，为了它，你得买台Mac mini？ GitHub星标数几天内突破14万，社交媒体上全网刷屏，甚至直接带火了Mac mini的销量，Clawdbot成了2026“AI Agent爆发元年”第一个现象级产品。它不再是冷冰冰的聊天框，而是一个住在你电脑里、甚至能在AI“朋友圈”（Moltbook）里社交的“数字生命”。 Clawdbot的“活"
+    },
+    {
+      "id": "yt_EV7WhVT270Q",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
+      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
+      "thumbnail": "https://img.youtube.com/vi/EV7WhVT270Q/maxresdefault.jpg",
+      "published": "2026-01-31T22:33:33+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt__6VOEvdU6hM",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "2026，好久不見 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=_6VOEvdU6hM",
+      "thumbnail": "https://img.youtube.com/vi/_6VOEvdU6hM/maxresdefault.jpg",
+      "published": "2026-01-30T14:37:30+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_pGyHNyOUaqg",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Built & Launched a Mobile App in 10 Minutes (No Code)",
+      "url": "https://www.youtube.com/watch?v=pGyHNyOUaqg",
+      "thumbnail": "https://img.youtube.com/vi/pGyHNyOUaqg/maxresdefault.jpg",
+      "published": "2026-01-29T10:50:14+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_8bSAP6VVsd0",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Built a YouTube Channel That Runs Itself with Genspark",
+      "url": "https://www.youtube.com/watch?v=8bSAP6VVsd0",
+      "thumbnail": "https://img.youtube.com/vi/8bSAP6VVsd0/maxresdefault.jpg",
+      "published": "2026-01-23T11:11:46+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_Z-FRe5AKmCU",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489",
+      "url": "https://www.youtube.com/watch?v=Z-FRe5AKmCU",
+      "thumbnail": "https://img.youtube.com/vi/Z-FRe5AKmCU/maxresdefault.jpg",
+      "published": "2026-01-13T20:06:59+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_14OPT6CcsH4",
+      "source": "Lex Fridman",
+      "sourceId": "lexfridman",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Business"
+      ],
+      "title": "Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | Lex Fridman Podcast #488",
+      "url": "https://www.youtube.com/watch?v=14OPT6CcsH4",
+      "thumbnail": "https://img.youtube.com/vi/14OPT6CcsH4/maxresdefault.jpg",
+      "published": "2025-12-31T21:26:17+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_B51v9kJQuKo",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "【庫存影片】仁頃事件，一個被NHK封殺的接觸事件。（本影片拍攝於1年前，因為特殊原因封存至今） | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=B51v9kJQuKo",
+      "thumbnail": "https://img.youtube.com/vi/B51v9kJQuKo/maxresdefault.jpg",
+      "published": "2025-12-24T13:07:22+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_Q7INj06TUv4",
+      "source": "Andrej Karpathy",
+      "sourceId": "karpathy",
+      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
+      "platform": "youtube",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": "I Solved an 'Impossible' Math Problem with AI",
+      "url": "https://www.youtube.com/watch?v=Q7INj06TUv4",
+      "thumbnail": "https://img.youtube.com/vi/Q7INj06TUv4/maxresdefault.jpg",
+      "published": "2025-12-23T09:29:56+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt__bBRVNkAfkQ",
@@ -189,193 +1362,8 @@
       "url": "https://www.youtube.com/watch?v=_bBRVNkAfkQ",
       "thumbnail": "https://img.youtube.com/vi/_bBRVNkAfkQ/maxresdefault.jpg",
       "published": "2025-12-12T20:01:08+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "The following is a conversation with Irving Finkele who is a scholar of ancient languages curator at the British Museum for over 45 years and is a much admired and respected world expert on kuneaoifor..."
-    },
-    {
-      "id": "yt_RH9vJNxFKDA",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI Eats the World: Benedict Evans on the Next Platform Shift",
-      "url": "https://www.youtube.com/watch?v=RH9vJNxFKDA",
-      "thumbnail": "https://img.youtube.com/vi/RH9vJNxFKDA/maxresdefault.jpg",
-      "published": "2025-12-12T17:16:08+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Chat GPT has got 8 or 900 million weekly active users. And if you're the kind of person who is using this for hours every day, ask yourself why five times more people look at it, get it, know what it ..."
-    },
-    {
-      "id": "yt_8JXwrVQQ4jw",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "10 years.",
-      "url": "https://www.youtube.com/watch?v=8JXwrVQQ4jw",
-      "thumbnail": "https://img.youtube.com/vi/8JXwrVQQ4jw/maxresdefault.jpg",
-      "published": "2025-12-11T21:33:02+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "[Music] 10 years ago, AI could not tell the difference between dogs and cats. But we believe deep learning could go very far, that it could actually be a big triumph for humanity. So, we headed off on..."
-    },
-    {
-      "id": "pod_guigu101_pod_34b7da12_98ee_45e1_8ca0_0674278dc1da",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E217｜机器人开可乐发扑克有多难？聊聊灵巧手的硬件与算法",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/34b7da12-98ee-45e1-8ca0-0674278dc1da.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 4257,
-      "published": "2025-12-10T16:00:00-08:00",
       "hasTranscript": false,
-      "transcriptPreview": "2026年，人形机器人将迎来规模化量产的元年。最清晰的信号来自特斯拉，“金色擎天柱”Optimus Gen 3预计在2026年第一季度亮相，并计划在年底前建成产能高达100万台的生产线。马斯克曾多次表示，特斯拉未来约80%的价值来自这里，而非汽车。而“擎天柱”的攻关关键，正在于它的“手与前臂”。 本期是我们机器人特辑之灵巧手，我们邀请了灵巧手模型算法方面和硬件方面的两位专家，一起聊聊灵巧手不同技术"
-    },
-    {
-      "id": "yt_MT4l_XrrRNc",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Unicorn Founder Who Delegated Everything.",
-      "url": "https://www.youtube.com/watch?v=MT4l_XrrRNc",
-      "thumbnail": "https://img.youtube.com/vi/MT4l_XrrRNc/maxresdefault.jpg",
-      "published": "2025-12-10T15:57:28+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Brian Johnson wants to break the chains of biology. I want to break the chains of time. We can always raise another round or do another trade, but you can't raise another decade. >> You're running a m..."
-    },
-    {
-      "id": "yt_5WN8bfG06Hk",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "From Pivot Hell To $1.4 Billion Unicorn",
-      "url": "https://www.youtube.com/watch?v=5WN8bfG06Hk",
-      "thumbnail": "https://img.youtube.com/vi/5WN8bfG06Hk/maxresdefault.jpg",
-      "published": "2025-12-10T15:00:19+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "I'm here today with James Hawkins, CEO and founder of Post Hog from the YC Winter20 batch. James is here hot off the news of raising a 75 million series Z round of funding at a $ 1.4 billion valuation..."
-    },
-    {
-      "id": "yt_wZ4DT20OHXE",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Chip That Could Unlock AGI.",
-      "url": "https://www.youtube.com/watch?v=wZ4DT20OHXE",
-      "thumbnail": "https://img.youtube.com/vi/wZ4DT20OHXE/maxresdefault.jpg",
-      "published": "2025-12-08T15:05:01+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "I think AI is the next evolution of humanity. I think it takes us to a new level. Allows us to collaborate and understand the world in much deeper ways. >> Naveen Ralph is here expert in AI. >> Naveen..."
-    },
-    {
-      "id": "yt_W0u0J99wTgw",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Ben Horowitz on a Founding Team",
-      "url": "https://www.youtube.com/watch?v=W0u0J99wTgw",
-      "thumbnail": "https://img.youtube.com/vi/W0u0J99wTgw/maxresdefault.jpg",
-      "published": "2025-12-06T15:00:59+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "An ideal founding team is usually two people and the two people are of two different types. So one you need an inventor and it's the inventor's job to build the product that's 10 times better than any..."
-    },
-    {
-      "id": "yt_4jBcK0cYass",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "What's New with ChatGPT Voice",
-      "url": "https://www.youtube.com/watch?v=4jBcK0cYass",
-      "thumbnail": "https://img.youtube.com/vi/4jBcK0cYass/maxresdefault.jpg",
-      "published": "2025-12-05T19:07:27+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Hey Rocky, great to have you here. >> Hey, so can you tell me what's new with voice? >> Absolutely. Voice is now built right into our chat, so you get a live transcript as we talk. Plus, I can show yo..."
-    },
-    {
-      "id": "yt_JLW83-yNuBo",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Finding Opportunity in Outdated Rules",
-      "url": "https://www.youtube.com/watch?v=JLW83-yNuBo",
-      "thumbnail": "https://img.youtube.com/vi/JLW83-yNuBo/maxresdefault.jpg",
-      "published": "2025-12-05T17:12:55+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "A lot of great startup ideas are sort [music] of in this gray area of like the law is not totally clear. It's a little bit murky whether it's legal or [clears throat] illegal. Even Open AI is like tha..."
-    },
-    {
-      "id": "yt_WsGVXiWzTpI",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Build Hour: Agent Memory Patterns",
-      "url": "https://www.youtube.com/watch?v=WsGVXiWzTpI",
-      "thumbnail": "https://img.youtube.com/vi/WsGVXiWzTpI/maxresdefault.jpg",
-      "published": "2025-12-04T20:28:02+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Hi everyone, welcome back to another build hour. I'm Michaela on the startup marketing team and I'm here today with two members of our solution architecture team. Emry live in the studio and Brian joi..."
-    },
-    {
-      "id": "yt_z8RRfZnwsGg",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Codex brings concepts into view.",
-      "url": "https://www.youtube.com/watch?v=z8RRfZnwsGg",
-      "thumbnail": "https://img.youtube.com/vi/z8RRfZnwsGg/maxresdefault.jpg",
-      "published": "2025-12-03T16:29:22+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Algorithms are hard to visualize and for me it's literally impossible. I have affantasia which means that I can't form mental images at all. But today I'm going to walk you through how I use codeex op..."
+      "transcriptPreview": null
     },
     {
       "id": "yt_18L5HOYTQAw",
@@ -391,298 +1379,8 @@
       "url": "https://www.youtube.com/watch?v=18L5HOYTQAw",
       "thumbnail": "https://img.youtube.com/vi/18L5HOYTQAw/maxresdefault.jpg",
       "published": "2025-12-03T16:15:40+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "This is warrior. Pure melee, heavy armor, two-handed weapons. [music] This is mage. Pure magic, destruction spells, glass cannon. And this is thief. Daggers, lockpicking, sneaking. I trained three AIs..."
-    },
-    {
-      "id": "yt_t8co94HS6tY",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "How Amplitude Went From Skeptics to “All In” on AI",
-      "url": "https://www.youtube.com/watch?v=t8co94HS6tY",
-      "thumbnail": "https://img.youtube.com/vi/t8co94HS6tY/maxresdefault.jpg",
-      "published": "2025-12-03T15:01:50+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "there is a point that you get to a year maybe two years in where from a rational standpoint you probably should quit but for whatever reason um those successful ones don't and so that is the number on..."
-    },
-    {
-      "id": "yt_GXAAzKX6oaQ",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Shaping Model Behavior in GPT-5.1— the OpenAI Podcast Ep. 11",
-      "url": "https://www.youtube.com/watch?v=GXAAzKX6oaQ",
-      "thumbnail": "https://img.youtube.com/vi/GXAAzKX6oaQ/maxresdefault.jpg",
-      "published": "2025-12-02T18:00:27+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Hello, I'm Andrew Maine and this is the OpenAI podcast. Today our guests are Christina Kim who's a research lead working on post training at OpenAI and Lentia Ramen who's a product manager focused on ..."
-    },
-    {
-      "id": "yt_Qp0rCU49lMs",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Michael Levin: Hidden Reality of Alien Intelligence & Biological Life | Lex Fridman Podcast #486",
-      "url": "https://www.youtube.com/watch?v=Qp0rCU49lMs",
-      "thumbnail": "https://img.youtube.com/vi/Qp0rCU49lMs/maxresdefault.jpg",
-      "published": "2025-11-30T19:30:21+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "- The following is a conversation with\nMichael Levin, his second time on the podcast. He is one of the most\nfascinating and brilliant biologists and scientists I've\never had the pleasure of speaking w..."
-    },
-    {
-      "id": "yt_Z4L4ZqL1xqQ",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The Best Consumer Startup Ideas Were Impossible Until Now",
-      "url": "https://www.youtube.com/watch?v=Z4L4ZqL1xqQ",
-      "thumbnail": "https://img.youtube.com/vi/Z4L4ZqL1xqQ/maxresdefault.jpg",
-      "published": "2025-11-28T15:01:09+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "I think increasingly we're finding ourselves betting on people [music] who are just great at building products and kind of trusting that maybe there's an opportunity that we can't [music] see that thi..."
-    },
-    {
-      "id": "pod_guigu101_pod_414ec0c8_a146_4b74_8c1f_b8ab68891094",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E216｜对话机器人投资人：投资也得看论文，规模性商业化还很远",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/414ec0c8-a146-4b74-8c1f-b8ab68891094.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 4060,
-      "published": "2025-11-27T16:00:00-08:00",
       "hasTranscript": false,
-      "transcriptPreview": "最近，人形机器人仍然在“泡沫”与“前夜”的争论中。硅谷人形机器人初创公司1X，近期发布的Neo演示视频，在社交媒体上引发热议，但随即而来的，是外界对其依赖远程操控（Teleoperation）而非自主能力的质疑。这让人不禁联想到2023年那些声称拥有AI能力、实则依赖人工后台处理的初创公司。 与此同时，高盛的一份最新调研报告，揭示了中国机器人供应链的“现实温差”：尽管资本市场情绪高涨，企业产能规划"
-    },
-    {
-      "id": "yt_eiT9wMgesjI",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Chase the Hard Problems",
-      "url": "https://www.youtube.com/watch?v=eiT9wMgesjI",
-      "thumbnail": "https://img.youtube.com/vi/eiT9wMgesjI/maxresdefault.jpg",
-      "published": "2025-11-25T21:35:40+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "If something is really hard on the technical side, I mean, I think that's an even better idea, like nobody else is going to try. If it's hard, like the bar is so high, nobody try and nobody does it. I..."
-    },
-    {
-      "id": "yt_VtDBvmxiXnA",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Find a Pain Point Worth Solving",
-      "url": "https://www.youtube.com/watch?v=VtDBvmxiXnA",
-      "thumbnail": "https://img.youtube.com/vi/VtDBvmxiXnA/maxresdefault.jpg",
-      "published": "2025-11-24T20:08:29+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "You can go almost anywhere and find some painoint, some problem that could be solved with software and especially with AI that frankly just isn't being solved. If you find that thing and solve it, you..."
-    },
-    {
-      "id": "yt_0luMwmnvRuQ",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Scania accelerates operations across its global workforce with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=0luMwmnvRuQ",
-      "thumbnail": "https://img.youtube.com/vi/0luMwmnvRuQ/maxresdefault.jpg",
-      "published": "2025-11-21T01:43:32+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "When we announced that we would have this pilot going, then we had more than twice the requests to join, then we actually had seats. [music] We've [music] been partners with OpenAI for about a year. U..."
-    },
-    {
-      "id": "yt_0sNOaD9xT_4",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "How AI Is Accelerating Scientific Discovery Today and What's Ahead — the OpenAI Podcast Ep. 10",
-      "url": "https://www.youtube.com/watch?v=0sNOaD9xT_4",
-      "thumbnail": "https://img.youtube.com/vi/0sNOaD9xT_4/maxresdefault.jpg",
-      "published": "2025-11-20T17:00:01+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Andrew Mayne: Hello, I'm Andrew Mayne and this is the OpenAI Podcast. Andrew Mayne: Today my guests are Kevin Weil, head of OpenAI for Science, and Alex Lupsasca, who is an OpenAI research scientist a..."
-    },
-    {
-      "id": "pod_guigu101_pod_8d3c99cb_bb35_48c5_afae_fdcfcf6e5657",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E215｜资本视角聊聊万亿大基建钱从哪儿来，以及电力破局的六条路径",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8d3c99cb-bb35-48c5-afae-fdcfcf6e5657.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 4819,
-      "published": "2025-11-20T16:00:00-08:00",
-      "hasTranscript": false,
-      "transcriptPreview": "在上一期节目中，我们从产业的角度聊了AI数据中心万亿大基建，这一几乎会贡献今年美国全部的GDP增长的行业。 嘉宾的很多观点和数据都在播客发出来之后一一被市场验证，比如微软CEO萨提亚·纳德拉称，AI缺的不是GPU是电力。 但当我们谈论的不是一个1亿、 10 亿、 100 亿的产业，而是上万亿的投资规模的时候，很多人就开始讨论，我们是不是进入了一场AI的投资泡沫？不少听众希望我们从资本市场的角度，再"
-    },
-    {
-      "id": "yt_RynySryqM_0",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Cursor Head of Design Roasts Startup Websites",
-      "url": "https://www.youtube.com/watch?v=RynySryqM_0",
-      "thumbnail": "https://img.youtube.com/vi/RynySryqM_0/maxresdefault.jpg",
-      "published": "2025-11-20T15:00:53+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Today I'm excited to welcome Rio Lou. He's the head of design at Cursor, the leading AI coding tool used by more than a million people worldwide. Before that, he was a founding designer at Notion and ..."
-    },
-    {
-      "id": "yt_m_CFCyc2Shs",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "David Kirtley: Nuclear Fusion, Plasma Physics, and the Future of Energy | Lex Fridman Podcast #485",
-      "url": "https://www.youtube.com/watch?v=m_CFCyc2Shs",
-      "thumbnail": "https://img.youtube.com/vi/m_CFCyc2Shs/maxresdefault.jpg",
-      "published": "2025-11-17T18:27:43+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "- The following is a conversation\nwith David Kirtley, a nuclear engineer, expert on nuclear\nfusion, and the CEO of Helion Energy, a company working\non building nuclear fusion reactors and have made in..."
-    },
-    {
-      "id": "yt_OUJznQbHkI4",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Founder Stories: Rishi Choudhary",
-      "url": "https://www.youtube.com/watch?v=OUJznQbHkI4",
-      "thumbnail": "https://img.youtube.com/vi/OUJznQbHkI4/maxresdefault.jpg",
-      "published": "2025-11-16T18:36:06+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "My name is Rishi Chadri. I'm the founder and CEO of Castle AI. Castle builds voice AI agents for large banks and mortgage lenders to automate phone calls. Things are going pretty well and we actually ..."
-    },
-    {
-      "id": "pod_guigu101_pod_3e9356b8_a509_466d_ba16_e3bf10e798ae",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E214｜拯救发际线的硬核科普，现代医学与自然选择的拉锯战",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/3e9356b8-a509-466d-ba16-e3bf10e798ae.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 4557,
-      "published": "2025-11-16T16:00:00-08:00",
-      "hasTranscript": false,
-      "transcriptPreview": "雄激素脱发，这个困扰数十亿人的“头顶大事”，已经被“非那雄胺”和“米诺地尔”两款经典老药统治了数十年。 2016年之后，随着短视频的兴起，颜值经济拉动了防脱市场在全球范围内的显著增长，也激发了科学研究和药企的创新动力。 防脱药的副作用如何权衡？植发真能一劳永逸吗？防脱洗发水究竟是护理还是“玄学”？未来五年，科学家和药企将带来哪些拯救发际线的新武器？本期节目，我们邀请到振东药业董事长李昆与斯坦福医药"
-    },
-    {
-      "id": "yt_KTmxaMdUbHA",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "AI Is Eating Logistics",
-      "url": "https://www.youtube.com/watch?v=KTmxaMdUbHA",
-      "thumbnail": "https://img.youtube.com/vi/KTmxaMdUbHA/maxresdefault.jpg",
-      "published": "2025-11-14T15:00:47+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Logistics is a very scaled driven industry and so the bigger you get the cheaper you get. Our take is that we can make the price of shipping anything by ocean container shipping between 8 and 10% chea..."
-    },
-    {
-      "id": "yt_LXwGSHZXbKs",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "How Philips is scaling AI literacy across 70,000 employees",
-      "url": "https://www.youtube.com/watch?v=LXwGSHZXbKs",
-      "thumbnail": "https://img.youtube.com/vi/LXwGSHZXbKs/maxresdefault.jpg",
-      "published": "2025-11-14T06:00:30+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "with OpenAI, you know, lots of people are already using it uh in the private world. Uh so I I consider this like you start playing with it, then you start working with it and from there you start inno..."
-    },
-    {
-      "id": "yt_6TXXMTYQtHk",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows",
-      "url": "https://www.youtube.com/watch?v=6TXXMTYQtHk",
-      "thumbnail": "https://img.youtube.com/vi/6TXXMTYQtHk/maxresdefault.jpg",
-      "published": "2025-11-14T05:05:00+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "At Notion, our mission is to help people build beautiful tools for their life's work. What AI has done is almost given us a different gear, new electricity to make it even simpler. It's a really fun s..."
+      "transcriptPreview": null
     },
     {
       "id": "yt_ESObIvXrKZI",
@@ -701,146 +1399,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "pod_guigu101_pod_8ed8ce1e_1472_489b_bb42_7b2c1c1404f7",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E213｜从爱好到投资，卡牌能成为年轻人的第一桶金吗？",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8ed8ce1e-1472-489b-bb42-7b2c1c1404f7.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 3597,
-      "published": "2025-11-06T16:00:00-08:00",
-      "hasTranscript": false,
-      "transcriptPreview": "“80后炒股、90后炒币、00后炒鞋，进入2020年后大家转行炒卡。”虽然这只是一句玩笑话，但多少折射出了卡牌交易市场的火热。 卡牌最开始只是出现在烟草公司的烟盒里，作为赠品用来提高香烟销量。之后被开发出了对战属性，拥有了自己的卡牌游戏拥趸。 但如今的卡牌显然不只是一个小众文化那么简单。 《宝可梦》卡和球星卡目前的世界交易记录，分别是527.5万美元和1293.2万美元。 市场调研公司Verifi"
-    },
-    {
-      "id": "yt_o3gbXDjNWyI",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Dan Houser: GTA, Red Dead Redemption, Rockstar, Absurd & Future of Gaming | Lex Fridman Podcast #484",
-      "url": "https://www.youtube.com/watch?v=o3gbXDjNWyI",
-      "thumbnail": "https://img.youtube.com/vi/o3gbXDjNWyI/maxresdefault.jpg",
-      "published": "2025-10-31T20:43:57+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "- You said that Red Dead Redemption 2, in\nyour opinion, is the best thing you've ever done. I think there's a strong case to be\nmade that it's the greatest game of all time. What are the elements that..."
-    },
-    {
-      "id": "pod_guigu101_pod_80d7c07d_2fae_48a0_86e4_1bd2294f88e7",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E212｜AI数据中心的万亿大基建时代：美国GDP增长全靠它",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/80d7c07d-2fae-48a0-86e4-1bd2294f88e7.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 3251,
-      "published": "2025-10-30T17:00:00-07:00",
-      "hasTranscript": false,
-      "transcriptPreview": "“2025年上半年，美国GDP增长几乎全部来自于数据中心与信息技术。” “如果去掉信息技术与软件，美国GDP增长率仅有0.1%。” ——哈佛大学经济学家杰森·弗曼（Jason Furman） 最近一个大新闻是，OpenAI发公告完成架构与资本重组，为潜在IPO铺路，核心也是它承诺了未来1.4万亿的算力投入，这是一个巨大的资金缺口。 另一方面，美国滞后的基础设施建设，对万亿级数据中心蓝图形成了根本性"
-    },
-    {
-      "id": "yt_eoo6_lynwn8",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "This Shipping Container Powers 20,000 AI Chips",
-      "url": "https://www.youtube.com/watch?v=eoo6_lynwn8",
-      "thumbnail": "https://img.youtube.com/vi/eoo6_lynwn8/maxresdefault.jpg",
-      "published": "2025-10-22T09:00:56+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "How many H100 GPUs can one of these reactors power? >> 20,000 CPUs. around 20,000 H100 GPUs per reactor, a data centers worth of compute from a machine you can move on a"
-    },
-    {
-      "id": "yt_-F06-h8nnDg",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "How This Nuclear Reactor Prevents Meltdowns",
-      "url": "https://www.youtube.com/watch?v=-F06-h8nnDg",
-      "thumbnail": "https://img.youtube.com/vi/-F06-h8nnDg/maxresdefault.jpg",
-      "published": "2025-10-21T08:40:15+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "We have designed our reactors in a way where when you cut the power, the pumps, all the pumps stop spinning and then all the fluids will just drain out of the onion core and into the dump tanks at the..."
-    },
-    {
-      "id": "yt_wANPRZejSfg",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "This Shipping Container Powers 20,000 AI Chips",
-      "url": "https://www.youtube.com/watch?v=wANPRZejSfg",
-      "thumbnail": "https://img.youtube.com/vi/wANPRZejSfg/maxresdefault.jpg",
-      "published": "2025-10-16T15:00:06+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "[Music] I flew all the way to Denmark to meet an incredible team of people building what is the future of nuclear energy. Molten salt reactors. The AI revolution has a secret fatal flaw. It's not the ..."
-    },
-    {
-      "id": "yt_7OLVwZeMCfY",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Julia Shaw: Criminal Psychology of Murder, Serial Killers, Memory & Sex | Lex Fridman Podcast #483",
-      "url": "https://www.youtube.com/watch?v=7OLVwZeMCfY",
-      "thumbnail": "https://img.youtube.com/vi/7OLVwZeMCfY/maxresdefault.jpg",
-      "published": "2025-10-14T17:21:10+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "- We all have the capacity to kill people\nand murder people and do other terrible things. The question is why we don't\ndo those things rather than why we do those things quite often. Most men have\nfan..."
-    },
-    {
-      "id": "yt_PYYZ6fw0dZA",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "Infrastructure Wars (Official Trailer)",
-      "url": "https://www.youtube.com/watch?v=PYYZ6fw0dZA",
-      "thumbnail": "https://img.youtube.com/vi/PYYZ6fw0dZA/maxresdefault.jpg",
-      "published": "2025-10-14T15:30:32+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "The AI revolution has a secret fatal flaw. It's power. What if the answer fits inside a shipping container? I flew all the way to Denmark to meet an incredible team of people building what is the futu..."
-    },
-    {
       "id": "yt_Iocm-1dXr-Q",
       "source": "老高与茉莉",
       "sourceId": "laogao",
@@ -855,40 +1413,6 @@
       "published": "2025-10-01T14:38:48+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "yt_qjPH9njnaVU",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Pavel Durov: Telegram, Freedom, Censorship, Money, Power & Human Nature | Lex Fridman Podcast #482",
-      "url": "https://www.youtube.com/watch?v=qjPH9njnaVU",
-      "thumbnail": "https://img.youtube.com/vi/qjPH9njnaVU/maxresdefault.jpg",
-      "published": "2025-09-30T19:27:11+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "- The following is a\nconversation with Pavel Durov, founder and CEO of Telegram, a messaging platform actively used by over 1 billion people. Pavel has spent his life\nfighting for freedom of speech, b..."
-    },
-    {
-      "id": "yt_SvKv7D4pBjE",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Norman Ohler: Hitler, Nazis, Drugs, WW2, Blitzkrieg, LSD, MKUltra & CIA | Lex Fridman Podcast #481",
-      "url": "https://www.youtube.com/watch?v=SvKv7D4pBjE",
-      "thumbnail": "https://img.youtube.com/vi/SvKv7D4pBjE/maxresdefault.jpg",
-      "published": "2025-09-19T18:17:48+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "- Hitler invited three young\ntank generals to his office, and they had a plan, which was\nthe plan to go through the Ardennes Mountains. That was the\nvictorious idea. So it's not the drugs, actually, t..."
     },
     {
       "id": "yt_VdF4cd0SitU",
@@ -907,23 +1431,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_-Qm1_On71Oo",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Dave Hone: T-Rex, Dinosaurs, Extinction, Evolution, and Jurassic Park | Lex Fridman Podcast #480",
-      "url": "https://www.youtube.com/watch?v=-Qm1_On71Oo",
-      "thumbnail": "https://img.youtube.com/vi/-Qm1_On71Oo/maxresdefault.jpg",
-      "published": "2025-09-04T19:56:59+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "- T. rex is definitely weird,\neven compared to all the other giant tyrannosaurs that are\nvery closely related to it, because it is by far, ludicrously by far,\nthe largest carnivore in its ecosystem. -..."
-    },
-    {
       "id": "yt_hACEeJKE6TE",
       "source": "老高与茉莉",
       "sourceId": "laogao",
@@ -932,63 +1439,12 @@
       "domains": [
         "Creator"
       ],
-      "title": "鉛，地球上最大的公害物質，我們都中過它的毒 | 老高與小茉 Mr & Mrs Gao",
+      "title": "可怕的鉛 | 老高與小茉 Mr & Mrs Gao",
       "url": "https://www.youtube.com/watch?v=hACEeJKE6TE",
       "thumbnail": "https://img.youtube.com/vi/hACEeJKE6TE/maxresdefault.jpg",
       "published": "2025-09-03T14:44:31+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "yt_HsLgZzgpz9Y",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Dave Plummer: Programming, Autism, and Old-School Microsoft Stories | Lex Fridman Podcast #479",
-      "url": "https://www.youtube.com/watch?v=HsLgZzgpz9Y",
-      "thumbnail": "https://img.youtube.com/vi/HsLgZzgpz9Y/maxresdefault.jpg",
-      "published": "2025-08-29T23:52:25+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "- The following is a conversation with Dave\nPlummer, programmer and an old-school Microsoft software engineer who helped\nwork on Windows 95, NT, and XP, building a lot of incredible tools, some\nof whi..."
-    },
-    {
-      "id": "yt_277l16eJphI",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Tested The Top 3 AIs for Vibe Coding (Shocking Winner)",
-      "url": "https://www.youtube.com/watch?v=277l16eJphI",
-      "thumbnail": "https://img.youtube.com/vi/277l16eJphI/maxresdefault.jpg",
-      "published": "2025-08-29T21:30:02+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "This is my personal website. I built it in under five minutes. No typing, no coding. And today, I'll show you exactly how you can do the same. Hello world. I'm Sira Draval, the OG Vibe Coder. And if y..."
-    },
-    {
-      "id": "yt_jdCKiEJpwf4",
-      "source": "Lex Fridman",
-      "sourceId": "lexfridman",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Business"
-      ],
-      "title": "Scott Horton: The Case Against War and the Military Industrial Complex | Lex Fridman Podcast #478",
-      "url": "https://www.youtube.com/watch?v=jdCKiEJpwf4",
-      "thumbnail": "https://img.youtube.com/vi/jdCKiEJpwf4/maxresdefault.jpg",
-      "published": "2025-08-24T01:23:15+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "The following is a conversation with Scott Horton. He's the director of the Libertarian Institute, editorial director of anti-war.com, co-host of Provoked, and host of the Scott Horton Show on which h..."
     },
     {
       "id": "yt_AvyJJ_Ew9no",
@@ -1037,122 +1493,6 @@
       "published": "2025-07-23T14:39:29+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "yt_X-cm1dk3Peo",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "百分百成為有錢人的九十七個法則，但其中有一些是禁術，最好不要用 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=X-cm1dk3Peo",
-      "thumbnail": "https://img.youtube.com/vi/X-cm1dk3Peo/maxresdefault.jpg",
-      "published": "2025-07-09T14:23:57+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_x1VY8HbGQWM",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "世界最大的監獄 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=x1VY8HbGQWM",
-      "thumbnail": "https://img.youtube.com/vi/x1VY8HbGQWM/maxresdefault.jpg",
-      "published": "2025-06-25T14:00:16+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_MgHfu0aouow",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "【震撼】這是一部需要反覆觀看的影片，你可能不知道，你的人生已經被人帶了節奏 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=MgHfu0aouow",
-      "thumbnail": "https://img.youtube.com/vi/MgHfu0aouow/maxresdefault.jpg",
-      "published": "2025-06-11T15:37:29+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_sc1woawDHKc",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Let 5 AIs Choose My Sports Bets, Results Shocked Me!",
-      "url": "https://www.youtube.com/watch?v=sc1woawDHKc",
-      "thumbnail": "https://img.youtube.com/vi/sc1woawDHKc/maxresdefault.jpg",
-      "published": "2025-05-13T18:28:56+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Hello world. It's Suriraj and today I'm unleashing five heavyweight AIs GPT40, Claude Sonnet, Gemini 2.5, Llama 4, and Deepseek into a single crypto wallet to find out whether a coordinated swarm can ..."
-    },
-    {
-      "id": "yt_YGzT3sVdwdY",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "My AI Sales Bot Made $596 Overnight | MCP Build",
-      "url": "https://www.youtube.com/watch?v=YGzT3sVdwdY",
-      "thumbnail": "https://img.youtube.com/vi/YGzT3sVdwdY/maxresdefault.jpg",
-      "published": "2025-05-05T15:41:50+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "One time, $149 unlocks the full list. $149. Deal. Shoot it over. Now listen, that sound you hear is my AI intern closing a deal while I'm nowhere near the phone. Imagine hiring someone who never sleep..."
-    },
-    {
-      "id": "yt_Xg5SKoL1yT0",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Built an AI Credit-Score Bot That Made $1,032 in 2 Hours",
-      "url": "https://www.youtube.com/watch?v=Xg5SKoL1yT0",
-      "thumbnail": "https://img.youtube.com/vi/Xg5SKoL1yT0/maxresdefault.jpg",
-      "published": "2025-04-30T12:39:02+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "Hello world. It's Zurj. In just two hours during my son's nap time, I spun up Scorelift, an AI credit scorebot, and pulled in $1,32 on Stripe live ping's live demo and every step explained. Let's dive..."
-    },
-    {
-      "id": "yt_l5Y_aiohV0k",
-      "source": "Andrej Karpathy",
-      "sourceId": "karpathy",
-      "sourceAvatar": "https://yt3.googleusercontent.com/ytc/AIdro_kSJGsfhxqXj4rkRu1HQVH_XpHQL6ZP_e2kO35m1Tk2dCI=s176-c-k-c0x00ffffff-no-rj",
-      "platform": "youtube",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": "I Built an AI That Made $3,500 Betting While I Slept",
-      "url": "https://www.youtube.com/watch?v=l5Y_aiohV0k",
-      "thumbnail": "https://img.youtube.com/vi/l5Y_aiohV0k/maxresdefault.jpg",
-      "published": "2025-04-06T13:16:01+00:00",
-      "hasTranscript": true,
-      "transcriptPreview": "This AI is about to place a $1,500 bet on tonight's basketball game. If it wins, I make $3,000 in pure profit. If it loses, I just burned $1,500. Should I actually do this? Chat GPT says this bet has ..."
     },
     {
       "id": "yt_8Cg3p9K0il4",
@@ -1351,6 +1691,23 @@
       "published": "2020-12-09T10:55:12+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
+    },
+    {
+      "id": "x_9327720978",
+      "source": "Ryo Lu",
+      "sourceId": "ryolu",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "just doing school work",
+      "url": "https://x.com/rylooo/status/9327720978",
+      "images": null,
+      "published": "2010-02-19T09:27:07+00:00",
+      "hasTranscript": false
     }
   ]
 }
