@@ -1,7 +1,107 @@
 {
-  "last_updated": "2026-08-04T02:04:08.981901Z",
+  "last_updated": "2026-08-05T02:03:17.064221Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_SJJBPwlPpww",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "How AI Helps Solve Medical Mysteries at Boston Children’s Hospital | OpenAI Forum",
+      "url": "https://www.youtube.com/watch?v=SJJBPwlPpww",
+      "thumbnail": "https://img.youtube.com/vi/SJJBPwlPpww/maxresdefault.jpg",
+      "published": "2026-08-04T20:29:24+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_r64krUavXJU",
+      "source": "OpenAI",
+      "sourceId": "openai",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "AI"
+      ],
+      "title": "Meet Birding Pal",
+      "url": "https://www.youtube.com/watch?v=r64krUavXJU",
+      "thumbnail": "https://img.youtube.com/vi/r64krUavXJU/maxresdefault.jpg",
+      "published": "2026-08-04T17:43:45+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2084667826200305810",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "昨天的夕阳相当带劲了",
+      "url": "https://x.com/op7418/status/2084667826200305810",
+      "images": null,
+      "published": "2026-08-04T15:48:35+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2084657745039700163",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Cloudflare 推出了一个专门给 Agent 用的钱包，它有一个唯一的地址和用户名，这个有意思啊！ 领了以后，你的 Agent 就可以用这个钱包来支付 API 和内容的费用。 可以先申请一个自己名字的，以防被人抢注。 钱包分为两类： 钱包账户：是你作为人类拥有的钱包，可以充值、提现，也可以把支出权限委托出去 虚拟钱包：是专门为 Agent 设计的，通过 API Key 运行 关于虚拟钱包的支出控制和使用场景： • 支出上限和规则：你可以给它设置支出上限，也可以通过允许列表（白名单）和规则进行控制 • 受控预算与自主探索：这样的设计可以让 Agent 在受控的预算内，自主探索各种服务 • 免去实时监控：我们人类没必要时刻监控它的支出，也不用担心它直接把卡刷爆 此外，它还通过 Cloudflare Pay 把钱包和账户身份关联起来。Agent 可以选择性地表明自己代表哪个组织，从而解决了 Agent 的身份认证问题（身份证明是可选的，也可以选择匿名）。 Cloudflare (@Cloudflare) Introducing Cloudflare Wallets. They will allow you to store stablecoins, purchase services, and receive funds across the web. cfl.re/455An86 Link Announcing Cloudflare Wallets: The programmable wallet for the agentic Internet Cloudflare Wallets will provide AI agents with native payments and verifiable identity on the web. Using the x402 protocol, agents can autonomously purchase APIs and content within clear safety... blog.cloudflare.com — https://nitter.net/Cloudflare/status/2084648084131242402#m",
+      "url": "https://x.com/op7418/status/2084657745039700163",
+      "images": null,
+      "published": "2026-08-04T15:08:32+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2084620353779749041",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor billboards in Bangalore",
+      "url": "https://x.com/benln/status/2084620353779749041",
+      "images": null,
+      "published": "2026-08-04T12:39:57+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2084597706375487554",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "OpenAI 发了一篇文章，回应苹果关于窃取商业机密的诉讼，没想到苹果这么草台。 苹果声称今年 2 月份联系过 OpenAI 但没有收到回应。后来发现，是苹果的律师把两个亚洲姓氏搞混，把邮件发错人了。 苹果还声称和 OpenAI 的总法律顾问通过话，但其实根本没有，完全是骗人的。 之后苹果沉默了 5 个月，突然就提起了诉讼。 苹果指控其前员工在离职后访问机密信息。但事实是，苹果在职的员工主动联系这位前员工，请他帮忙寻找对应的文件，她这才进行了访问。 这一堆操作下来太搞笑了 OpenAI Newsroom (@OpenAINewsroom) Apple is getting this wrong. openai.com/index/apple-is-ge… Link Apple is getting this wrong OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened. openai.com — https://nitter.net/OpenAINewsroom/status/2084515811306443093#m",
+      "url": "https://x.com/op7418/status/2084597706375487554",
+      "images": null,
+      "published": "2026-08-04T11:09:57+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_Gp4zrV3-6N8",
       "source": "Y Combinator",
@@ -170,57 +270,6 @@
       "url": "https://x.com/op7418/status/2083827624070234507",
       "images": null,
       "published": "2026-08-02T08:09:55+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2083764056994017647",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Karpathy去了 Anthropic 以后，第一次发长帖。 他想了一个新的测试，就是摆脱那种靠画“骑着自行车的鹈鹕”之类的测试方式，给了 Opus 5 大概 100 万个 Token 的预算，要求它生成三个渲染版本去讲述《指环王》的故事。然后 Opus 5 给他整了一个 3D 的出来。 不过他提到，这中间确实暴露了一个很大的问题： 在生成这种内容的时候，AI 没有办法很清楚地感知到自己的工作，因为它没办法直接看到内容本身，只能一段一段地去截图，也没办法连续地感知到截图中间的状态。所以，这确实是个问题。 Andrej Karpathy (@karpathy) We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's kind of janky but fun. But it's a bit mindboggling that the LLM has to place and orchestrate various polygon assets in (x,y,z) coordinates and write code that animates it all, and that it even does anything at all. I also like this kind of examples because no one in their right mind would ever spend the time to write something this custom but LLMs have all the stamina and patience in the world, so it's an example where we go from \"no one would ever do this\" to \"sure, why not, it's ~free\". There might be a lot more. But I'm excited about creating hyper custom worlds that you can imagine dropping players into, e.g. here to participate in the LoTR story as a spectator NPC, or one of the characters, or etc. Something like an ephemeral GTA of X on demand. Last thought is that the domain of worlds/games exposes a weakness in LLMs: they can't easily audit their work because they aren't able to efficiently and natively perceive videos or play games within them. Here, Opus 5 had to very slowly and painstakingly take screenshots at different points, and it messed up a few times and created a bunch of jank. An example of raw capability (multimodal, gameplay) that I think is still quite lacking. Video — https://nitter.net/karpathy/status/2083749667410727319#m",
-      "url": "https://x.com/op7418/status/2083764056994017647",
-      "images": null,
-      "published": "2026-08-02T03:57:20+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2083579533391777935",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "OpenAI 感觉翻身了啊，已经在预热他们的下一代模型Astra。 他们用这个模型解决了 10 个至少存在了十年的数学问题。 这些问题如果是数学家解决的话，感觉这数学家已经相当牛逼了； 而解决这一堆非常难的问题，算力成本居然只有 2000 美元。 Sam 亲自飞到华盛顿去跟美国政府沟通这个模型的发布，感觉这玩意儿会很顶，不知道是 GPT-6 还是 GPT-5.7 Sebastien Bubeck (@SebastienBubeck) yes, nonsofic groups exist: this statement is one of many new beautiful results proved by Astra, our next major model. We're releasing 10 such Astra proofs, complete with lean certificates and CoT walkthroughs for each of them. The results are wide-ranging, from von Neumann algebras (disproof of Connes' Rigidity Conjecture) to better bounds for high dimensional sphere packing, for circuit complexity, for monochromatic triangles in multicolored graphs, and more. More thoughts here: openai.com/index/ten-advance… Link Ten advances in mathematics and theoretical computer science OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity. openai.com — https://nitter.net/SebastienBubeck/status/2083456300692979886#m",
-      "url": "https://x.com/op7418/status/2083579533391777935",
-      "images": null,
-      "published": "2026-08-01T15:44:06+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2083434423564009647",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "重置！ Tibo (@thsottiaux) To celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy. — https://nitter.net/thsottiaux/status/2083395449814229287#m",
-      "url": "https://x.com/op7418/status/2083434423564009647",
-      "images": null,
-      "published": "2026-08-01T06:07:29+00:00",
       "hasTranscript": false
     },
     {
@@ -661,23 +710,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2081980886988341436",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Big launch today for Cursor users in India: Cursor (@cursor_ai) Today we're launching Cursor Start, a new ₹649/month plan for developers in India. Start includes generous access to Grok 4.5 and Composer, so you can plan, build, test, and ship with agents every day. — https://nitter.net/cursor_ai/status/2081978255004053560#m",
-      "url": "https://x.com/benln/status/2081980886988341436",
-      "images": null,
-      "published": "2026-07-28T05:51:39+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_ZIaOBAjvc38",
       "source": "Y Combinator",
       "sourceId": "yc",
@@ -775,38 +807,6 @@
       "url": "https://www.youtube.com/watch?v=pPvt-vtyOvo",
       "thumbnail": "https://img.youtube.com/vi/pPvt-vtyOvo/maxresdefault.jpg",
       "published": "2026-07-25T16:15:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_jyuyY86GJnA",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Build Hour: Valuemaxxing with GPT-5.6",
-      "url": "https://www.youtube.com/watch?v=jyuyY86GJnA",
-      "thumbnail": "https://img.youtube.com/vi/jyuyY86GJnA/maxresdefault.jpg",
-      "published": "2026-07-24T19:47:16+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_PB7DBemxl3E",
-      "source": "OpenAI",
-      "sourceId": "openai",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "AI"
-      ],
-      "title": "Building at the pace of AI innovation | Grant Lee, Gamma",
-      "url": "https://www.youtube.com/watch?v=PB7DBemxl3E",
-      "thumbnail": "https://img.youtube.com/vi/PB7DBemxl3E/maxresdefault.jpg",
-      "published": "2026-07-24T09:12:21+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
