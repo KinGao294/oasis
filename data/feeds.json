@@ -1,7 +1,229 @@
 {
-  "last_updated": "2026-08-05T02:03:17.064221Z",
+  "last_updated": "2026-08-06T02:07:33.998006Z",
   "count": 101,
   "items": [
+    {
+      "id": "yt_Zwrq2pxRxfQ",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "奧德賽前傳，無劇透，無音樂，無素材，請放心觀看（另有後半部，含劇透，暫不對外公開） | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=Zwrq2pxRxfQ",
+      "thumbnail": "https://img.youtube.com/vi/Zwrq2pxRxfQ/maxresdefault.jpg",
+      "published": "2026-08-05T15:43:57+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_A9JDkiYEhfY",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Case for Data Centers in Space",
+      "url": "https://www.youtube.com/watch?v=A9JDkiYEhfY",
+      "thumbnail": "https://img.youtube.com/vi/A9JDkiYEhfY/maxresdefault.jpg",
+      "published": "2026-08-05T14:00:08+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2084982843004817847",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cafe Cursor in Bali",
+      "url": "https://x.com/benln/status/2084982843004817847",
+      "images": null,
+      "published": "2026-08-05T12:40:21+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2084978122894815677",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这个演示有意思啊 就是 AI 的输出更像人类在手写一些内容，它还会加上这种标注、涂抹的感觉，然后图表也像是手写字体。 再加上流式输出这种一行一行展示的效果，看起来非常有感觉。 Video",
+      "url": "https://x.com/op7418/status/2084978122894815677",
+      "images": null,
+      "published": "2026-08-05T12:21:36+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_Iy1W8vOxv5o",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Ocean Company - Ulysses | a16z American Dynamism",
+      "url": "https://www.youtube.com/watch?v=Iy1W8vOxv5o",
+      "thumbnail": "https://img.youtube.com/vi/Iy1W8vOxv5o/maxresdefault.jpg",
+      "published": "2026-08-05T11:02:29+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_uFt-tkagUUI",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Future is Metal - Mariana Minerals | a16z American Dynamism",
+      "url": "https://www.youtube.com/watch?v=uFt-tkagUUI",
+      "thumbnail": "https://img.youtube.com/vi/uFt-tkagUUI/maxresdefault.jpg",
+      "published": "2026-08-05T11:01:33+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_-9Vh7tsgM7Y",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "The Nuclear Renaissance - Radiant |  a16z American Dynamism",
+      "url": "https://www.youtube.com/watch?v=-9Vh7tsgM7Y",
+      "thumbnail": "https://img.youtube.com/vi/-9Vh7tsgM7Y/maxresdefault.jpg",
+      "published": "2026-08-05T11:00:13+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2084930189558182137",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "网页版在这里可以试试：colaskill.com/",
+      "url": "https://x.com/op7418/status/2084930189558182137",
+      "images": null,
+      "published": "2026-08-05T09:11:07+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2084929983924023560",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "感谢 Cola 成为“guizang PPT Skills”的金牌赞助商！ 大家可以在 CoLa 的 Skills 商店快速安装和调用“guizang PPT Skills”以及后续的其他 Skills。 同时，Cola 的这个 Skills 商店是藏师傅和 Cola 的朋友们花了很长时间去优化的。 里面的所有 Skills 都是经过人工挑选和测试，确保它们能在 Cola 中非常完美地使用和落地。 商店每个 Skills 基本都由当前领域最顶尖的创作者制作，包括我、宝玉、卡兹克等人的作品。 目前最火爆、最核心的 Skills 都汇聚在这里。 所有上架的 Skills 都经过了人工测试和安全性处理，保障使用安全。 大家可以在这里非常快速地一键安装到 Cola。 你可以快速查看每个 Skills 的原始来源和详细信息。CoLa 对每个 Skills 的介绍都做了单独的优化处理，让大家一眼就能看懂这个 Skills 具体能做什么。 对于一些海外的 Skills，我们也做了非常深入的中文本地化工作。 Cola会根据对你的了解和你的具体需求，智能匹配你真正需要的Skill，不会把整个庞杂的Skill库全部安装到你的Agent中。",
+      "url": "https://x.com/op7418/status/2084929983924023560",
+      "images": null,
+      "published": "2026-08-05T09:10:18+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2084847925906276437",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点",
+      "url": "https://x.com/op7418/status/2084847925906276437",
+      "images": null,
+      "published": "2026-08-05T03:44:14+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2084836896166097261",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Pika有意思，他们开始搞多模态模型的 Token Club，推出了一个会员服务叫 Pika API Club。 里面包含了几乎所有的图像、视频、LLM模型服务，而且都有不同程度的折扣。 比如 Seedance 2.0、MiniMax H3、可灵（Kling），还有 GPT-Image-2.0 等都有。 完全可以充了以后，打包个 Skills 给那个Codex或者其他 Agent 接入，以后就可以一键调用所有的这种视频和音频 API 模型 Pika (@pika_labs) Today, we’re proud to introduce the Pika API Club—a membership that gets you access to the leading gen media models at previously impossible prices. We were shocked by the 3x markup by many API aggregation platforms. So we built our own, negotiated better prices, and kept our markup as low as possible to pass the savings on. It’s time for AI to empower the next generation of builders and creators, not price them out. Video — https://nitter.net/pika_labs/status/2084711613605769431#m",
+      "url": "https://x.com/op7418/status/2084836896166097261",
+      "images": null,
+      "published": "2026-08-05T03:00:25+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2084835615183716741",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "FLLUX 3 正式可用了 目前支持最长 20 秒、1080P 原生分辨率的视频，后面还会开放 2K 和 4K 分辨率。 此外，它还支持草稿模式，可以以极低成本快速探索创意，然后再重新以完整的质量进行渲染。草稿一次只需要 0.06 美元。 目前支持的功能包括： • 文生图 • 文生视频 • 图生视频 • 生成对应音频和不错的文本渲染能力 Video Black Forest Labs (@bfl_ai) FLUX 3 Video is here. Serious, fun, creative, real, cinematic, whatever you need it to be. Native audio, Text to Video, Image to Video with multiple frames, video continuation, dialogue in multiple languages. Comes with Draft mode so you can explore ideas fast at a fraction of the cost. Up to 20 seconds and 1080p native. Available in the API or in your favorite tool. 2K, 4K, and Open Weights coming soon. Video — https://nitter.net/bfl_ai/status/2084693191484469305#m",
+      "url": "https://x.com/op7418/status/2084835615183716741",
+      "images": null,
+      "published": "2026-08-05T02:55:19+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "pod_guigu101_pod_6c9d13b1_ac9a_4a7a_a35b_99bfb8374668",
+      "source": "硅谷101",
+      "sourceId": "guigu101_pod",
+      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "platform": "podcast",
+      "domains": [
+        "AI",
+        "Business",
+        "Global"
+      ],
+      "title": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
+      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/6c9d13b1-ac9a-4a7a-a35b-99bfb8374668.mp3",
+      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
+      "duration": 6386,
+      "published": "2026-08-04T21:30:00-07:00",
+      "hasTranscript": false,
+      "transcriptPreview": "这期播客的嘉宾是盛颖，xAI前推理团队负责人、开源推理引擎SGLang发起人及RadixArk联合创始人/CEO。 在开源模型集中爆发之际，盛颖在AI Infra（基础设施）领域的研究和贡献非常核心。她将AI Infra描述为“浪漫的关系”，是产品本身，需要有“美感”。 由此，我们走进盛颖的世界。 她曾经想成为一个数学家，沉浸在一个确定、纯粹、仿佛“与世界无关”的世界里。 但从哥大到斯坦福，从形式"
+    },
     {
       "id": "yt_SJJBPwlPpww",
       "source": "OpenAI",
@@ -154,91 +376,6 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2084120898429407464",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "MiniMax H3 已经开源 MiniMax (official) (@MiniMax_AI) MiniMax-H3 Is Now Publicly Available huggingface.co/MiniMaxAI/Min… Video — https://nitter.net/MiniMax_AI/status/2084106804032872591#m",
-      "url": "https://x.com/op7418/status/2084120898429407464",
-      "images": null,
-      "published": "2026-08-03T03:35:17+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2084120798646988947",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Qwen3.8-Max 正式上了 Qwen (@Alibaba_Qwen) 📢Meet Qwen3.8-Max — our most capable model to date. Next week, the open weights of Qwen3.8-Max will be released, and Qwen3.8-27B is also going open-weights to meet you all!🎉 Qwen3.8-Max, a new bar for coding and cowork at 2.4T parameters: - Autonomous coding: 10+ days of self-evolving development, from empty folder to production without hand-holding, complete project trace in the GitHub：github.com/qwen-code-dev-bot… - Real work, real results: Production-quality deliverables across hundreds of professions. - Long-horizon mastery: System-level autonomous planning with closed-loop adaptive learning, driving 500+ turns of chip design optimization and 365 days of e-commerce strategy. - Native multimodal intelligence: Vision isn't just input — it's a continuous feedback loop for planning, execution, and self-correction. 💰Pricing: Input: $2.0 / M tokens Output: $6.0 / M tokens Implicit Caching: $0.25 / M tokens Start building with Qwen3.8-Max! 🚀 📖 Blog: qwen.ai/blog?id=qwen3.8 ✅ Qwen Studio: chat.qwen.ai/?models=qwen3.8… ⚡ API: qwencloud.com/models/qwen3.8… — https://nitter.net/Alibaba_Qwen/status/2084100707423289643#m",
-      "url": "https://x.com/op7418/status/2084120798646988947",
-      "images": null,
-      "published": "2026-08-03T03:34:54+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2083958428045820092",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "可能很多朋友不知道，Code Pilot 是全平台的一个软件。 而且支持 Cloud Code、AI SDK 和 CodeX 三种 Agent 框架的切换，以及市面上所有主流和常见 Token Plan 的使用，还有各种自己做的特殊功能。 前段时间上这个版本重构的时候，短暂地去掉了 Linux 版本的构建，0.64.0 现在 Linux 版本已经重新加入了。 各位 Linux 用户，如果不知道用啥 Agent 的，可以试试。 歸藏(guizang.ai) (@op7418) Codepilot 0.63.0 版本更新 现在可以将你用 AI 生成的任何内容加入素材库了 比如 Codex 里用 GPT- Image 2.0 生成的图片和 AI 生成的 HTML 都可以加入素材库了，还能给素材打标签 同时适配了 Deepseek V4 Flash 0731，增加了可选的推理强度 github.com/op7418/CodePilot/… — https://nitter.net/op7418/status/2083827624070234507#m",
-      "url": "https://x.com/op7418/status/2083958428045820092",
-      "images": null,
-      "published": "2026-08-02T16:49:41+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2083948196422906312",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "补一张，这个风格的金色和黑色真是出彩",
-      "url": "https://x.com/op7418/status/2083948196422906312",
-      "images": null,
-      "published": "2026-08-02T16:09:02+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2083921281951617148",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "玩玩 Midjourney",
-      "url": "https://x.com/op7418/status/2083921281951617148",
-      "images": null,
-      "published": "2026-08-02T14:22:05+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2083918540864709013",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -253,23 +390,6 @@
       "url": "https://x.com/benln/status/2083918540864709013",
       "images": null,
       "published": "2026-08-02T14:11:12+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2083827624070234507",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Codepilot 0.63.0 版本更新 现在可以将你用 AI 生成的任何内容加入素材库了 比如 Codex 里用 GPT- Image 2.0 生成的图片和 AI 生成的 HTML 都可以加入素材库了，还能给素材打标签 同时适配了 Deepseek V4 Flash 0731，增加了可选的推理强度 github.com/op7418/CodePilot/…",
-      "url": "https://x.com/op7418/status/2083827624070234507",
-      "images": null,
-      "published": "2026-08-02T08:09:55+00:00",
       "hasTranscript": false
     },
     {
@@ -335,7 +455,7 @@
         "Business",
         "AI"
       ],
-      "title": "Decagon’s Playbook for Building Enterprise AI Applications",
+      "title": "How Decagon Runs 90% of Its Agents on Open-Source Models",
       "url": "https://www.youtube.com/watch?v=cO1f2wOxSH4",
       "thumbnail": "https://img.youtube.com/vi/cO1f2wOxSH4/maxresdefault.jpg",
       "published": "2026-07-31T14:30:14+00:00",
@@ -578,23 +698,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2082116948389773413",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "We're booking out a local cafe on August 12th in NYC Grab coffee, merch, Cursor credits, and build with the team See you there",
-      "url": "https://x.com/benln/status/2082116948389773413",
-      "images": null,
-      "published": "2026-07-28T14:52:19+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_-tabaM5l3s0",
       "source": "a16z",
       "sourceId": "a16z",
@@ -685,7 +788,7 @@
         "Business",
         "AI"
       ],
-      "title": "Blake Scholl: The Problem With Becoming an Expert",
+      "title": "Blake Scholl: How 50 People Built a Supersonic Jet",
       "url": "https://www.youtube.com/watch?v=byAj35QlGbs",
       "thumbnail": "https://img.youtube.com/vi/byAj35QlGbs/maxresdefault.jpg",
       "published": "2026-07-28T14:00:18+00:00",
@@ -773,23 +876,6 @@
       "url": "https://www.youtube.com/watch?v=I4B37S1dyQQ",
       "thumbnail": "https://img.youtube.com/vi/I4B37S1dyQQ/maxresdefault.jpg",
       "published": "2026-07-26T20:32:05+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_c3TxAUir2R8",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Self-Maintaining APIs",
-      "url": "https://www.youtube.com/watch?v=c3TxAUir2R8",
-      "thumbnail": "https://img.youtube.com/vi/c3TxAUir2R8/maxresdefault.jpg",
-      "published": "2026-07-26T15:28:23+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -965,23 +1051,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_rghTqkclDqA",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "\"Meme Your Dream into Reality\" | Replit CEO with a16z",
-      "url": "https://www.youtube.com/watch?v=rghTqkclDqA",
-      "thumbnail": "https://img.youtube.com/vi/rghTqkclDqA/maxresdefault.jpg",
-      "published": "2026-07-17T14:30:21+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_KLQJxohK3yQ",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -1088,23 +1157,6 @@
       "transcriptPreview": "世界杯发生了闻所未闻的一幕，在特朗普介入后，美国球员巴洛贡吃到的红牌被暂缓1年执行，有人不禁要问了，国际足联为什么要那么听美国人的话。 部分原因可能来自于，美国资本已经渗透进了全球足坛的方方面面。比如英超的20家俱乐部中，有11家都被美国资本控股，美资甚至渗透进了欧洲五大联赛的俱乐部、商业权益开发、球员球队买卖资金周转等等方面。 没有英式足球积淀的美国人，为什么会那么喜欢投资英式足球？美国资本又在"
     },
     {
-      "id": "yt_Mxs4erDxOEE",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "The New Rules of Enterprise Software with Steven Sinofsky",
-      "url": "https://www.youtube.com/watch?v=Mxs4erDxOEE",
-      "thumbnail": "https://img.youtube.com/vi/Mxs4erDxOEE/maxresdefault.jpg",
-      "published": "2026-07-07T14:50:32+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "pod_guigu101_pod_308f9278_dd48_44d3_a4ce_ee436968fc28",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -1122,23 +1174,6 @@
       "published": "2026-07-05T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "从ChatGPT掀起生成式AI浪潮到现在，不过短短两三年，AI能力的进化速度已经让\"AI自我进化\"这件事从科幻走进了现实。上个月，Anthropic在一份公开报告中预测，AI未来将进入\"递归自我提升\"（Recursive Self-Improvement, RSI）阶段，并呼吁人类共同为AI的发展设计出一个减速或暂停机制。 AI自我进化会以多快的速度到来？未来的AI，它会在通往真理的道路上与人类并"
-    },
-    {
-      "id": "yt_XwfUzW32cIA",
-      "source": "a16z",
-      "sourceId": "a16z",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Ben Horowitz on the Global Race for Tech, Power, and Influence",
-      "url": "https://www.youtube.com/watch?v=XwfUzW32cIA",
-      "thumbnail": "https://img.youtube.com/vi/XwfUzW32cIA/maxresdefault.jpg",
-      "published": "2026-07-03T14:38:55+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
     },
     {
       "id": "yt_pv1TUJSEM2k",
@@ -1281,25 +1316,6 @@
       "published": "2026-05-24T17:00:00-07:00",
       "hasTranscript": false,
       "transcriptPreview": "“Harness Engineering”（挽具工程）正在成为硅谷的新共识，Anthropic、OpenAI等公司都在探索这一工程范式。但真正理解Harness的人还不多。前不久，一篇题为《Why Your “AI-First” Strategy Is Probably Wrong》的文章在X上获得百万级阅读和热议，作者是来自硅谷CreaoAI的Peter Pang。在这篇文章里，Peter展示了"
-    },
-    {
-      "id": "pod_guigu101_pod_c3607c08_6eb6_48bd_8250_b41b5b8272e6",
-      "source": "硅谷101",
-      "sourceId": "guigu101_pod",
-      "sourceAvatar": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "platform": "podcast",
-      "domains": [
-        "AI",
-        "Business",
-        "Global"
-      ],
-      "title": "E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意",
-      "url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c3607c08-6eb6-48bd-8250-b41b5b8272e6.mp3",
-      "thumbnail": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
-      "duration": 3957,
-      "published": "2026-05-20T17:00:00-07:00",
-      "hasTranscript": false,
-      "transcriptPreview": "离美加墨世界杯开赛还有一个月，央视和国际足联FIFA之间的版权谈判终于是谈妥了，本期我们来聊聊世界杯的定价逻辑与体育赛事版权生意的变化脉络。 【主播】 麻花，硅谷101特约研究员 【嘉宾】 朱晓东，力赞体育CEO ，本届世界杯日本转播权销售顾问 张宾，《体育产业独立评论》主理人 【你将听到】 谈判的虚惊一场，赞助商的从中斡旋 02:40 价格细节：打包的版权交易里，很少透露单届的价格 04:25 "
     },
     {
       "id": "yt_nepKKz-MzFM",
@@ -1513,22 +1529,6 @@
       "url": "https://www.youtube.com/watch?v=ESObIvXrKZI",
       "thumbnail": "https://img.youtube.com/vi/ESObIvXrKZI/maxresdefault.jpg",
       "published": "2025-11-12T13:23:39+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_Iocm-1dXr-Q",
-      "source": "老高与茉莉",
-      "sourceId": "laogao",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Creator"
-      ],
-      "title": "目前為止最可信的地外生命存在的證據 | 老高與小茉 Mr & Mrs Gao",
-      "url": "https://www.youtube.com/watch?v=Iocm-1dXr-Q",
-      "thumbnail": "https://img.youtube.com/vi/Iocm-1dXr-Q/maxresdefault.jpg",
-      "published": "2025-10-01T14:38:48+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
