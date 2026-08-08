@@ -1,7 +1,245 @@
 {
-  "last_updated": "2026-08-07T02:26:18.606313Z",
-  "count": 81,
+  "last_updated": "2026-08-08T01:13:44.754335Z",
+  "count": 101,
   "items": [
+    {
+      "id": "yt_Xc4klGbq8v8",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "Max Hodak: What Really Kills Deep Tech Startups?",
+      "url": "https://www.youtube.com/watch?v=Xc4klGbq8v8",
+      "thumbnail": "https://img.youtube.com/vi/Xc4klGbq8v8/maxresdefault.jpg",
+      "published": "2026-08-07T21:30:32+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2085781426382012497",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "Open Code 的 Open Code Go Code Plan 现在 DeepSeek-V4 Flash 0731 的使用量额度翻倍了，感觉相当划算。 10 美元套餐的额度从每个月的 60 美元额度变成了等效 120 美元。差不多 31 万次请求，几乎等于免费了 同时，他们这个也能用其他的开源模型，比如 K3 之类的。 Codepilot 也对这个做了深度适配，可以用他们所有的模型，所以可以试试。 而且 Codepilot 里边可以将这些模型用在 Claude Code、Codex 以及 AI SDK 3 种 Agent 的框架下 OpenCode (@opencode) attention deepseek flash usage has been doubled for a limited time on OpenCode Go thank you — https://nitter.net/opencode/status/2085621778039087160#m",
+      "url": "https://x.com/op7418/status/2085781426382012497",
+      "images": null,
+      "published": "2026-08-07T17:33:38+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2085777231264293107",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "等一等苹果的阔折叠",
+      "url": "https://x.com/op7418/status/2085777231264293107",
+      "images": null,
+      "published": "2026-08-07T17:16:58+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2085775841372627452",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "三星新发布的这个 Fold 8 看起来非常适合运行一些编码 Agent 呀 DHH (@dhh) Samsung Fold 8 as an on-the-go agent terminal is pretty compelling. What a delightful form factor. — https://nitter.net/dhh/status/2085372149531828465#m",
+      "url": "https://x.com/op7418/status/2085775841372627452",
+      "images": null,
+      "published": "2026-08-07T17:11:27+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2085736934589235712",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "导出用来分享的视频 Video",
+      "url": "https://x.com/op7418/status/2085736934589235712",
+      "images": null,
+      "published": "2026-08-07T14:36:50+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "yt_RtNrvPBkwfA",
+      "source": "a16z",
+      "sourceId": "a16z",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "AI Is Learning to Hack. Faster Than We Expected.",
+      "url": "https://www.youtube.com/watch?v=RtNrvPBkwfA",
+      "thumbnail": "https://img.youtube.com/vi/RtNrvPBkwfA/maxresdefault.jpg",
+      "published": "2026-08-07T14:30:09+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_P06RgnUKX_I",
+      "source": "Y Combinator",
+      "sourceId": "yc",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Business",
+        "AI"
+      ],
+      "title": "How To Design In The Agent Era",
+      "url": "https://www.youtube.com/watch?v=P06RgnUKX_I",
+      "thumbnail": "https://img.youtube.com/vi/P06RgnUKX_I/maxresdefault.jpg",
+      "published": "2026-08-07T14:00:34+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "x_2085711898058555894",
+      "source": "Ben Lang",
+      "sourceId": "benlang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Dev"
+      ],
+      "title": null,
+      "content": "Cursor is hiring for 120+ roles: cursor.com/careers",
+      "url": "https://x.com/benln/status/2085711898058555894",
+      "images": null,
+      "published": "2026-08-07T12:57:21+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2085684218106179741",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "今天这天气有意思",
+      "url": "https://x.com/op7418/status/2085684218106179741",
+      "images": null,
+      "published": "2026-08-07T11:07:22+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2085633471008133150",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "是动态的： 歸藏(guizang.ai) (@op7418) 这个地图展示是动态和 3D 的，补一下动态效果 Video — https://nitter.net/op7418/status/2085633390502719841#m",
+      "url": "https://x.com/op7418/status/2085633471008133150",
+      "images": null,
+      "published": "2026-08-07T07:45:43+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2085633390502719841",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "这个地图展示是动态和 3D 的，补一下动态效果 Video 歸藏(guizang.ai) (@op7418) 用 Codex 搞了一个码表的骑行数据分析和展示 — https://nitter.net/op7418/status/2085631949281091799#m",
+      "url": "https://x.com/op7418/status/2085633390502719841",
+      "images": null,
+      "published": "2026-08-07T07:45:24+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2085631949281091799",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "用 Codex 搞了一个码表的骑行数据分析和展示",
+      "url": "https://x.com/op7418/status/2085631949281091799",
+      "images": null,
+      "published": "2026-08-07T07:39:40+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2085570182110695878",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "每周让 GPT 5.6 Pro 分析一下运动的数据，感觉还挺有帮助的",
+      "url": "https://x.com/op7418/status/2085570182110695878",
+      "images": null,
+      "published": "2026-08-07T03:34:14+00:00",
+      "hasTranscript": false
+    },
+    {
+      "id": "x_2085559248726249968",
+      "source": "归藏",
+      "sourceId": "guizang",
+      "sourceAvatar": null,
+      "platform": "x",
+      "domains": [
+        "AI",
+        "Design"
+      ],
+      "title": null,
+      "content": "ChatGPT现在的聊天也是 GPT 5.6 来驱动的。 GPT 5.6 Sol在 GPT 里为 Plus 和 Pro 用户提供服务。 免费版和 Go 的用户可以无限使用 GPT 5.6 Luna，也可以有限制次数地去使用 Thinking。 其实免费版感觉也可以用了，Luna 其实还行 OpenAI (@OpenAI) We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus & Pro users, delivering more factual, focused responses. - Free & Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow. Video — https://nitter.net/OpenAI/status/2085434712429052386#m",
+      "url": "https://x.com/op7418/status/2085559248726249968",
+      "images": null,
+      "published": "2026-08-07T02:50:47+00:00",
+      "hasTranscript": false
+    },
     {
       "id": "yt_p_slDAvPjv0",
       "source": "OpenAI",
@@ -44,7 +282,7 @@
         "Business",
         "AI"
       ],
-      "title": "Garry Tan: \"Personal AGI Is How You Stay Under Your Own Power\"",
+      "title": "Garry Tan: Own Your Intelligence",
       "url": "https://www.youtube.com/watch?v=eRrc1pUY5oU",
       "thumbnail": "https://img.youtube.com/vi/eRrc1pUY5oU/maxresdefault.jpg",
       "published": "2026-08-06T18:47:45+00:00",
@@ -85,40 +323,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2085377336950886485",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "价格可能算错了，美元换算过来的，可能我自己口算了，没有看真实的汇率。 美元的价格是这样的： • 480p：0.05 美元 / 秒 • 720p：0.10 美元 / 秒 • 1080p：0.20 美元 / 秒",
-      "url": "https://x.com/op7418/status/2085377336950886485",
-      "images": null,
-      "published": "2026-08-06T14:47:56+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2085370072332452212",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "阿里的 Wan 3.0 视频生成模型也发布了，看起来也挺厉害啊！ 它支持原生 30 秒的视频生成，支持 1080P。 并且支持“全能参考”：不只是文本、图像、视频、音频，它还支持文档、表格、PPT、网页、Markdown 格式等一系列你能想到的信息。 你可以把这些信息全部混在一起给它参考，让它生成视频，这个对 Agent 来说非常有帮助。 价格方面：1080P：1.4 元/秒 • 720P：0.7 元/秒 整体挺给力的，文字渲染也不错，而且还可以渲染一些动效。 Video Wan (@Alibaba_Wan) Introducing Wan3.0 — now in Public Beta. Simple Input. Smart Creation. Where Imagination Meets Reality. • Native 30-Second Video Generation • Reality-Grade Rendering • Omni-Reference: Beyond text, images, audio, and video—now with documents, spreadsheets, slides, webpages, and more. Public Beta is now live. Apply now and start creating ↓ — https://nitter.net/Alibaba_Wan/status/2085339761284104529#m",
-      "url": "https://x.com/op7418/status/2085370072332452212",
-      "images": null,
-      "published": "2026-08-06T14:19:04+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "x_2085344814690660555",
       "source": "Ben Lang",
       "sourceId": "benlang",
@@ -136,55 +340,20 @@
       "hasTranscript": false
     },
     {
-      "id": "x_2085278630406664444",
-      "source": "归藏",
-      "sourceId": "guizang",
+      "id": "yt_Zwrq2pxRxfQ",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
       "sourceAvatar": null,
-      "platform": "x",
+      "platform": "youtube",
       "domains": [
-        "AI",
-        "Design"
+        "Creator"
       ],
-      "title": null,
-      "content": "虽然我打不开它的网页，但是呢，中转站的大佬们应该是可以的。 这不至于掺水了吧？这掺水可能都没有不掺水的成本高。 总不能真整个 20B 的模型都要硬掺水吧？ 歸藏(guizang.ai) (@op7418) 扎克伯格又掀桌子！ 他们发了一个新的模型 Muse Spark 1.2 和 Muse Code 编程 Agent。 这玩意价钱便宜得相当于白送，前提是你同意他们的数据收集要求。 当然，你要想用 Meta 的模型，比用 Anthropic 的模型都麻烦。 我根本无法访问它，它直接不让你访问它的网站，别说能不能登录了。 简单来说，你只要允许它用你的数据进行模型训练，相当于给了你 12 倍的折扣，价格跟DeepSeek-Flash 差不多。 在 DeepSeek 即将涨价的时候，小扎跟上了，AI 圈价格战开始了。 — https://nitter.net/op7418/status/2085203402699821505#m",
-      "url": "https://x.com/op7418/status/2085278630406664444",
-      "images": null,
-      "published": "2026-08-06T08:15:42+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2085203402699821505",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "扎克伯格又掀桌子！ 他们发了一个新的模型 Muse Spark 1.2 和 Muse Code 编程 Agent。 这玩意价钱便宜得相当于白送，前提是你同意他们的数据收集要求。 当然，你要想用 Meta 的模型，比用 Anthropic 的模型都麻烦。 我根本无法访问它，它直接不让你访问它的网站，别说能不能登录了。 简单来说，你只要允许它用你的数据进行模型训练，相当于给了你 12 倍的折扣，价格跟DeepSeek-Flash 差不多。 在 DeepSeek 即将涨价的时候，小扎跟上了，AI 圈价格战开始了。 Mark Zuckerberg (@finkd) Releasing Muse Code in beta today. It's a terminal coding agent that takes on complete software engineering tasks across large repos: planning changes, writing code, validating the results. Powered by Muse Spark 1.2, a coding-focused model update. — https://nitter.net/finkd/status/2085080750034940201#m",
-      "url": "https://x.com/op7418/status/2085203402699821505",
-      "images": null,
-      "published": "2026-08-06T03:16:47+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2085194288171008440",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "天塌了！大早上起来看 DeepSeek 要涨价，还说涨幅较大。 不知道具体涨幅有多大，不至于翻倍吧？虽然翻倍也很便宜就是了。",
-      "url": "https://x.com/op7418/status/2085194288171008440",
-      "images": null,
-      "published": "2026-08-06T02:40:33+00:00",
-      "hasTranscript": false
+      "title": "奧德賽前傳，無暴雷，請放心觀看（另有後半部，含劇透，暫不對外公開） | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=Zwrq2pxRxfQ",
+      "thumbnail": "https://img.youtube.com/vi/Zwrq2pxRxfQ/maxresdefault.jpg",
+      "published": "2026-08-05T15:43:57+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
     },
     {
       "id": "yt_A9JDkiYEhfY",
@@ -218,23 +387,6 @@
       "url": "https://x.com/benln/status/2084982843004817847",
       "images": null,
       "published": "2026-08-05T12:40:21+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2084978122894815677",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "这个演示有意思啊 就是 AI 的输出更像人类在手写一些内容，它还会加上这种标注、涂抹的感觉，然后图表也像是手写字体。 再加上流式输出这种一行一行展示的效果，看起来非常有感觉。 Video",
-      "url": "https://x.com/op7418/status/2084978122894815677",
-      "images": null,
-      "published": "2026-08-05T12:21:36+00:00",
       "hasTranscript": false
     },
     {
@@ -287,74 +439,6 @@
       "published": "2026-08-05T11:00:13+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
-    },
-    {
-      "id": "x_2084930189558182137",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "网页版在这里可以试试：colaskill.com/",
-      "url": "https://x.com/op7418/status/2084930189558182137",
-      "images": null,
-      "published": "2026-08-05T09:11:07+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2084929983924023560",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "感谢 Cola 成为“guizang PPT Skills”的金牌赞助商！ 大家可以在 CoLa 的 Skills 商店快速安装和调用“guizang PPT Skills”以及后续的其他 Skills。 同时，Cola 的这个 Skills 商店是藏师傅和 Cola 的朋友们花了很长时间去优化的。 里面的所有 Skills 都是经过人工挑选和测试，确保它们能在 Cola 中非常完美地使用和落地。 商店每个 Skills 基本都由当前领域最顶尖的创作者制作，包括我、宝玉、卡兹克等人的作品。 目前最火爆、最核心的 Skills 都汇聚在这里。 所有上架的 Skills 都经过了人工测试和安全性处理，保障使用安全。 大家可以在这里非常快速地一键安装到 Cola。 你可以快速查看每个 Skills 的原始来源和详细信息。CoLa 对每个 Skills 的介绍都做了单独的优化处理，让大家一眼就能看懂这个 Skills 具体能做什么。 对于一些海外的 Skills，我们也做了非常深入的中文本地化工作。 Cola会根据对你的了解和你的具体需求，智能匹配你真正需要的Skill，不会把整个庞杂的Skill库全部安装到你的Agent中。",
-      "url": "https://x.com/op7418/status/2084929983924023560",
-      "images": null,
-      "published": "2026-08-05T09:10:18+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2084847925906276437",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "正在做一个非常牛皮的 Skill，希望能彻底解决口播视频剪辑和包装的痛点",
-      "url": "https://x.com/op7418/status/2084847925906276437",
-      "images": null,
-      "published": "2026-08-05T03:44:14+00:00",
-      "hasTranscript": false
-    },
-    {
-      "id": "x_2084836896166097261",
-      "source": "归藏",
-      "sourceId": "guizang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Design"
-      ],
-      "title": null,
-      "content": "Pika有意思，他们开始搞多模态模型的 Token Club，推出了一个会员服务叫 Pika API Club。 里面包含了几乎所有的图像、视频、LLM模型服务，而且都有不同程度的折扣。 比如 Seedance 2.0、MiniMax H3、可灵（Kling），还有 GPT-Image-2.0 等都有。 完全可以充了以后，打包个 Skills 给那个Codex或者其他 Agent 接入，以后就可以一键调用所有的这种视频和音频 API 模型 Pika (@pika_labs) Today, we’re proud to introduce the Pika API Club—a membership that gets you access to the leading gen media models at previously impossible prices. We were shocked by the 3x markup by many API aggregation platforms. So we built our own, negotiated better prices, and kept our markup as low as possible to pass the savings on. It’s time for AI to empower the next generation of builders and creators, not price them out. Video — https://nitter.net/pika_labs/status/2084711613605769431#m",
-      "url": "https://x.com/op7418/status/2084836896166097261",
-      "images": null,
-      "published": "2026-08-05T03:00:25+00:00",
-      "hasTranscript": false
     },
     {
       "id": "pod_guigu101_pod_6c9d13b1_ac9a_4a7a_a35b_99bfb8374668",
@@ -697,23 +781,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "x_2082505728770658679",
-      "source": "Ben Lang",
-      "sourceId": "benlang",
-      "sourceAvatar": null,
-      "platform": "x",
-      "domains": [
-        "AI",
-        "Dev"
-      ],
-      "title": null,
-      "content": "Best companies for former and aspiring founders to work at these days: Ramp, Cursor, OpenAI, Anthropic Where else?",
-      "url": "https://x.com/benln/status/2082505728770658679",
-      "images": null,
-      "published": "2026-07-29T16:37:11+00:00",
-      "hasTranscript": false
-    },
-    {
       "id": "yt_lhgJue86h5c",
       "source": "Andrej Karpathy",
       "sourceId": "karpathy",
@@ -847,40 +914,6 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_ZIaOBAjvc38",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Sam Altman: \"Never a Better Time to Do a Startup\"",
-      "url": "https://www.youtube.com/watch?v=ZIaOBAjvc38",
-      "thumbnail": "https://img.youtube.com/vi/ZIaOBAjvc38/maxresdefault.jpg",
-      "published": "2026-07-28T00:48:16+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
-      "id": "yt_qyPCVqFUyDo",
-      "source": "Y Combinator",
-      "sourceId": "yc",
-      "sourceAvatar": null,
-      "platform": "youtube",
-      "domains": [
-        "Business",
-        "AI"
-      ],
-      "title": "Boris Cherny: We Cut 80% of Claude Code’s Prompt",
-      "url": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
-      "thumbnail": "https://img.youtube.com/vi/qyPCVqFUyDo/maxresdefault.jpg",
-      "published": "2026-07-27T17:00:30+00:00",
-      "hasTranscript": false,
-      "transcriptPreview": null
-    },
-    {
       "id": "yt_pPvt-vtyOvo",
       "source": "a16z",
       "sourceId": "a16z",
@@ -968,19 +1001,18 @@
       "transcriptPreview": null
     },
     {
-      "id": "yt_56XgWH9ch0U",
-      "source": "a16z",
-      "sourceId": "a16z",
+      "id": "yt_SHWjQrGb3MQ",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
       "sourceAvatar": null,
       "platform": "youtube",
       "domains": [
-        "Business",
-        "AI"
+        "Creator"
       ],
-      "title": "Why Physical AI Is the Next Frontier | Applied Intuition with a16z",
-      "url": "https://www.youtube.com/watch?v=56XgWH9ch0U",
-      "thumbnail": "https://img.youtube.com/vi/56XgWH9ch0U/maxresdefault.jpg",
-      "published": "2026-07-21T15:00:32+00:00",
+      "title": "第二名，可能毀滅一切的鏡像生命 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=SHWjQrGb3MQ",
+      "thumbnail": "https://img.youtube.com/vi/SHWjQrGb3MQ/maxresdefault.jpg",
+      "published": "2026-07-22T12:23:34+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1180,6 +1212,22 @@
       "transcriptPreview": "本期节目由AI轻办公神器vivo X Fold6赞助播出 今年4月的伦敦马拉松，肯尼亚选手萨维以 1小时59分30秒 的成绩夺冠，成为首位在正式马拉松比赛中跑进2小时的运动员，这场比赛的亚军克杰勒恰同样跑进了2小时，创造了历史。 事后媒体关注到，萨维和克杰勒恰，包括这场比赛的女子冠军阿塞法，他们穿的鞋，都是阿迪达斯的Adios Pro EVO 3。但在此之前，统治马拉松赛场10年之久的一直是耐克，"
     },
     {
+      "id": "yt_0V-GiPHgRwI",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "本片需要看兩遍（本片拍攝於2024年，特殊原因被封存，限時公開稍後將轉為會員影片） | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=0V-GiPHgRwI",
+      "thumbnail": "https://img.youtube.com/vi/0V-GiPHgRwI/maxresdefault.jpg",
+      "published": "2026-06-24T13:22:24+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "pod_guigu101_pod_47b7778e_1ed6_4dab_b7c9_8b4a6555b867",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -1235,6 +1283,22 @@
       "transcriptPreview": null
     },
     {
+      "id": "yt_DQGrPstFRVI",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "2030 冰河期 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=DQGrPstFRVI",
+      "thumbnail": "https://img.youtube.com/vi/DQGrPstFRVI/maxresdefault.jpg",
+      "published": "2026-05-27T11:30:36+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
       "id": "pod_guigu101_pod_51260de8_60ef_4b76_b3e5_2e559c4a0923",
       "source": "硅谷101",
       "sourceId": "guigu101_pod",
@@ -1267,6 +1331,38 @@
       "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
       "thumbnail": "https://img.youtube.com/vi/nepKKz-MzFM/maxresdefault.jpg",
       "published": "2026-05-06T22:03:16+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_WeBa4ZawcPo",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "有些突然 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=WeBa4ZawcPo",
+      "thumbnail": "https://img.youtube.com/vi/WeBa4ZawcPo/maxresdefault.jpg",
+      "published": "2026-04-29T12:30:43+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_DmFdxaLgD70",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "可怕的石油 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=DmFdxaLgD70",
+      "thumbnail": "https://img.youtube.com/vi/DmFdxaLgD70/maxresdefault.jpg",
+      "published": "2026-04-15T12:30:20+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
@@ -1369,6 +1465,230 @@
       "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
       "thumbnail": "https://img.youtube.com/vi/KGVpKPNUdzA/maxresdefault.jpg",
       "published": "2026-02-25T22:36:32+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_EOIlGekiMsQ",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "史上最大規模的封閉實驗，第二個“大自然” | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=EOIlGekiMsQ",
+      "thumbnail": "https://img.youtube.com/vi/EOIlGekiMsQ/maxresdefault.jpg",
+      "published": "2026-02-17T13:30:22+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt__6VOEvdU6hM",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "2026，好久不見 | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=_6VOEvdU6hM",
+      "thumbnail": "https://img.youtube.com/vi/_6VOEvdU6hM/maxresdefault.jpg",
+      "published": "2026-01-30T14:37:30+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_B51v9kJQuKo",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "【庫存影片】仁頃事件，一個被NHK封殺的接觸事件。（本影片拍攝於1年前，因為特殊原因封存至今） | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=B51v9kJQuKo",
+      "thumbnail": "https://img.youtube.com/vi/B51v9kJQuKo/maxresdefault.jpg",
+      "published": "2025-12-24T13:07:22+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_ESObIvXrKZI",
+      "source": "老高与茉莉",
+      "sourceId": "laogao",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "【庫存影片】百慕大三角（拍攝於2022年2月，由於特殊原因封存至今） | 老高與小茉 Mr & Mrs Gao",
+      "url": "https://www.youtube.com/watch?v=ESObIvXrKZI",
+      "thumbnail": "https://img.youtube.com/vi/ESObIvXrKZI/maxresdefault.jpg",
+      "published": "2025-11-12T13:23:39+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_8Cg3p9K0il4",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "送给所有知道我名字的人！For Everyone Who Knows My Name.丨Liziqi Channel",
+      "url": "https://www.youtube.com/watch?v=8Cg3p9K0il4",
+      "thumbnail": "https://img.youtube.com/vi/8Cg3p9K0il4/maxresdefault.jpg",
+      "published": "2024-11-13T04:31:19+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_JJL3ZKrHeKM",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "拿柴房造了一个森林衣帽间~I turned the Woodshed into a Forest-Themed Closet.丨Liziqi Channel",
+      "url": "https://www.youtube.com/watch?v=JJL3ZKrHeKM",
+      "thumbnail": "https://img.youtube.com/vi/JJL3ZKrHeKM/maxresdefault.jpg",
+      "published": "2024-11-12T09:00:19+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_IrXjnw8BpM0",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "奶奶的衣柜坏了，给她翻新了一下。My grandma’s wardrobe was broken, so I gave it a makeover.丨Liziqi Channel",
+      "url": "https://www.youtube.com/watch?v=IrXjnw8BpM0",
+      "thumbnail": "https://img.youtube.com/vi/IrXjnw8BpM0/maxresdefault.jpg",
+      "published": "2024-11-12T08:30:06+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_u-xS-dkz3a0",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "我们中国人的开门七件事，柴米油盐酱醋茶 Firewood, rice, oil, salt, soy sauce, vinegar, and tea丨Liziqi Channel",
+      "url": "https://www.youtube.com/watch?v=u-xS-dkz3a0",
+      "thumbnail": "https://img.youtube.com/vi/u-xS-dkz3a0/maxresdefault.jpg",
+      "published": "2021-07-14T12:12:22+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_RagTZHPrn_o",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "Wine table of winding canal—an exciting by-product of watching TV!这是一个看电视看出来的曲水流觞桌！丨Liziqi Channel",
+      "url": "https://www.youtube.com/watch?v=RagTZHPrn_o",
+      "thumbnail": "https://img.youtube.com/vi/RagTZHPrn_o/maxresdefault.jpg",
+      "published": "2021-06-05T14:12:40+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_3KfvUCKxCts",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "喝的是茶，过的是生活 Tea is more than a drink, but a lifestyle.丨Liziqi Channel",
+      "url": "https://www.youtube.com/watch?v=3KfvUCKxCts",
+      "thumbnail": "https://img.youtube.com/vi/3KfvUCKxCts/maxresdefault.jpg",
+      "published": "2021-05-27T13:15:09+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_J4Y12QLEaXs",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "Make a peach blossom crown with silk flowers | 用绢花工艺做了套桃花发冠，带上爱人浪了一把春天丨Liziqi Channel",
+      "url": "https://www.youtube.com/watch?v=J4Y12QLEaXs",
+      "thumbnail": "https://img.youtube.com/vi/J4Y12QLEaXs/maxresdefault.jpg",
+      "published": "2021-04-06T12:29:12+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_sGOTCCVDLtQ",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "Chinese New Year’s decorations, goods and snacks！明日除夕，挂灯笼、贴对联、备好年货过大年啦！丨Liziqi Channel",
+      "url": "https://www.youtube.com/watch?v=sGOTCCVDLtQ",
+      "thumbnail": "https://img.youtube.com/vi/sGOTCCVDLtQ/maxresdefault.jpg",
+      "published": "2021-02-10T13:00:28+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_B6bJ_vTslyo",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "The last episode of the “Life Series”: The life of white radish!一生系列产品最后一个视频——萝卜的一生丨Liziqi Channel",
+      "url": "https://www.youtube.com/watch?v=B6bJ_vTslyo",
+      "thumbnail": "https://img.youtube.com/vi/B6bJ_vTslyo/maxresdefault.jpg",
+      "published": "2021-01-09T11:45:17+00:00",
+      "hasTranscript": false,
+      "transcriptPreview": null
+    },
+    {
+      "id": "yt_YKIXHn3kDL0",
+      "source": "李子柒",
+      "sourceId": "liziqi",
+      "sourceAvatar": null,
+      "platform": "youtube",
+      "domains": [
+        "Creator"
+      ],
+      "title": "May the red, red persimmons bring you a happy, prosperous new year!❤️愿一串串的红柿子给大家带来新一年的柿柿顺心 | Liziqi",
+      "url": "https://www.youtube.com/watch?v=YKIXHn3kDL0",
+      "thumbnail": "https://img.youtube.com/vi/YKIXHn3kDL0/maxresdefault.jpg",
+      "published": "2020-12-09T10:55:12+00:00",
       "hasTranscript": false,
       "transcriptPreview": null
     },
